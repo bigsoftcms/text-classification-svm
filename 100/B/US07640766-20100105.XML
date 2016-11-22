@@ -1,0 +1,2718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640766-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640766</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10463870</doc-number>
+<date>20030617</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>972</us-term-extension>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>67</class>
+<subclass>D</subclass>
+<main-group>5</main-group>
+<subgroup>62</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>67</class>
+<subclass>D</subclass>
+<main-group>5</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>67</class>
+<subclass>D</subclass>
+<main-group>5</main-group>
+<subgroup>58</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 62389</main-classification>
+<further-classification> 62392</further-classification>
+<further-classification>2221851</further-classification>
+<further-classification>222190</further-classification>
+</classification-national>
+<invention-title id="d0e55">Method and apparatus for disinfecting a refrigerated water cooler reservoir</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1403025</doc-number>
+<kind>A</kind>
+<name>Haase</name>
+<date>19220100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2093619</doc-number>
+<kind>A</kind>
+<name>Powell</name>
+<date>19370900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2947525</doc-number>
+<kind>A</kind>
+<name>Klein</name>
+<date>19600800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3448045</doc-number>
+<kind>A</kind>
+<name>Hess et al.</name>
+<date>19690600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3692180</doc-number>
+<kind>A</kind>
+<name>Laraus</name>
+<date>19720900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3726404</doc-number>
+<kind>A</kind>
+<name>Troglione</name>
+<date>19730400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3967131</doc-number>
+<kind>A</kind>
+<name>Slipiec</name>
+<date>19760600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>3970731</doc-number>
+<kind>A</kind>
+<name>Oksman</name>
+<date>19760700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4019986</doc-number>
+<kind>A</kind>
+<name>Burris et al.</name>
+<date>19770400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4035657</doc-number>
+<kind>A</kind>
+<name>Carlson</name>
+<date>19770700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4410495</doc-number>
+<kind>A</kind>
+<name>Bassler</name>
+<date>19831000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4764349</doc-number>
+<kind>A</kind>
+<name>Arff</name>
+<date>19880800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4776127</doc-number>
+<kind>A</kind>
+<name>Jackson</name>
+<date>19881000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>4805808</doc-number>
+<kind>A</kind>
+<name>Larson</name>
+<date>19890200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>4842723</doc-number>
+<kind>A</kind>
+<name>Parks et al.</name>
+<date>19890600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5015394</doc-number>
+<kind>A</kind>
+<name>McEllhenney et al.</name>
+<date>19910500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5106495</doc-number>
+<kind>A</kind>
+<name>Hughes</name>
+<date>19920400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5256282</doc-number>
+<kind>A</kind>
+<name>Chang</name>
+<date>19931000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5295519</doc-number>
+<kind>A</kind>
+<name>Baker et al.</name>
+<date>19940300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>5328059</doc-number>
+<kind>A</kind>
+<name>Campbell</name>
+<date>19940700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>5366619</doc-number>
+<kind>A</kind>
+<name>Matsui et al.</name>
+<date>19941100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>5431861</doc-number>
+<kind>A</kind>
+<name>Nagahiro et al.</name>
+<date>19950700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2611401</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>5503809</doc-number>
+<kind>A</kind>
+<name>Coate</name>
+<date>19960400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>5531908</doc-number>
+<kind>A</kind>
+<name>Matsumoto et al.</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>5567322</doc-number>
+<kind>A</kind>
+<name>Rundle et al.</name>
+<date>19961000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>5567332</doc-number>
+<kind>A</kind>
+<name>Mehta</name>
+<date>19961000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>5582717</doc-number>
+<kind>A</kind>
+<name>Di Santo</name>
+<date>19961200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>5587089</doc-number>
+<kind>A</kind>
+<name>Vogel et al.</name>
+<date>19961200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>5632268</doc-number>
+<kind>A</kind>
+<name>Ellis et al.</name>
+<date>19970500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>5669221</doc-number>
+<kind>A</kind>
+<name>LeBleu et al.</name>
+<date>19970900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>5698164</doc-number>
+<kind>A</kind>
+<name>Kishioka</name>
+<date>19971200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>5871701</doc-number>
+<kind>A</kind>
+<name>Long</name>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>6085540</doc-number>
+<kind>A</kind>
+<name>Davis</name>
+<date>20000700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>6149804</doc-number>
+<kind>A</kind>
+<name>Chung et al.</name>
+<date>20001100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>6270733</doc-number>
+<kind>B1</kind>
+<name>Rodden</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>6289690</doc-number>
+<kind>B1</kind>
+<name>Davis</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>6361686</doc-number>
+<kind>B1</kind>
+<name>Conrad</name>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>6405387</doc-number>
+<kind>B1</kind>
+<name>Barnes</name>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  45412</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>6532760</doc-number>
+<kind>B2</kind>
+<name>Davis</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>6568900</doc-number>
+<kind>B2</kind>
+<name>Conrad et al.</name>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>415 90</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>2002/0041041</doc-number>
+<kind>A1</kind>
+<name>Johnson</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2611221</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>EP</country>
+<doc-number>0 163 750</doc-number>
+<date>19851200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>EP</country>
+<doc-number>739 312</doc-number>
+<kind>B1</kind>
+<date>19961000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>GB</country>
+<doc-number>2 022 979</doc-number>
+<kind>A</kind>
+<date>19791200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>JP</country>
+<doc-number>61103595</doc-number>
+<date>19860500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00046">
+<document-id>
+<country>WO</country>
+<doc-number>WO/88/04279</doc-number>
+<date>19880600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00047">
+<document-id>
+<country>WO</country>
+<doc-number>WO/92/04969</doc-number>
+<date>19920400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00048">
+<document-id>
+<country>WO</country>
+<doc-number>WO 93/17725</doc-number>
+<date>19930900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00049">
+<document-id>
+<country>WO</country>
+<doc-number>WO 97/42924</doc-number>
+<date>19971100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00050">
+<document-id>
+<country>WO</country>
+<doc-number>WO/00/38815</doc-number>
+<date>20000700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>14</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>2221851</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>222190</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2221466</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 65318</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 65389</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 65392</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>30</number-of-drawing-sheets>
+<number-of-figures>75</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>10173133</doc-number>
+<kind>00</kind>
+<date>20020617</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>10463870</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>PCT/US02/19158</doc-number>
+<kind>00</kind>
+<date>20020617</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>10173133</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60389439</doc-number>
+<kind>00</kind>
+<date>20020618</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20040074252</doc-number>
+<kind>A1</kind>
+<date>20040422</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Shelton</last-name>
+<first-name>James J.</first-name>
+<address>
+<city>Pontchatoula</city>
+<state>LA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Garvey, Smith, Nehrbass &#x26; North, L.L.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Garvey, Jr.</last-name>
+<first-name>Charles C.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>S.I.P. Technologies L.L.C.</orgname>
+<role>02</role>
+<address>
+<city>New Orleans</city>
+<state>LA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Jiang</last-name>
+<first-name>Chen-Wen</first-name>
+<department>3744</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method and apparatus for providing sanitized water in a cabinet and spigot type bottled water dispenser features an ozone generating system to generate ozone for sanitizing the water. Ozone is generated and collected within an ozone generator housing. A blower transmits air to the ozone generator housing. The air carries the ozone that is generated through a flow line to an air diffuser that is positioned upstream of the spigot (or spigots) used to dispense water. In one embodiment, a valve that is activated on the spigot to dispense water also activates the blower and ozone generator. In other embodiments, a flow sensor activates the ozone generator and blower. Various spigot and flow sensor arrangements are disclosed as a part of the overall apparatus and method.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="177.38mm" wi="142.92mm" file="US07640766-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="236.64mm" wi="148.00mm" file="US07640766-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="224.28mm" wi="157.31mm" file="US07640766-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="187.96mm" wi="150.71mm" file="US07640766-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="222.08mm" wi="161.97mm" file="US07640766-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="240.62mm" wi="177.72mm" file="US07640766-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="228.94mm" wi="166.54mm" file="US07640766-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="235.20mm" wi="148.08mm" file="US07640766-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="231.22mm" wi="163.07mm" file="US07640766-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="237.66mm" wi="173.48mm" file="US07640766-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="225.55mm" wi="167.72mm" file="US07640766-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="252.73mm" wi="147.66mm" file="US07640766-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="224.37mm" wi="161.97mm" file="US07640766-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="225.55mm" wi="148.08mm" file="US07640766-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="224.96mm" wi="147.74mm" file="US07640766-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="261.96mm" wi="152.32mm" file="US07640766-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="215.14mm" wi="170.01mm" file="US07640766-20100105-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="223.86mm" wi="183.47mm" file="US07640766-20100105-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="253.83mm" wi="158.16mm" file="US07640766-20100105-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="248.07mm" wi="140.80mm" file="US07640766-20100105-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="263.06mm" wi="155.79mm" file="US07640766-20100105-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="211.16mm" wi="163.83mm" file="US07640766-20100105-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="245.11mm" wi="155.02mm" file="US07640766-20100105-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="197.61mm" wi="130.64mm" file="US07640766-20100105-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="231.82mm" wi="170.86mm" file="US07640766-20100105-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="256.62mm" wi="153.59mm" file="US07640766-20100105-D00025.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00026" num="00026">
+<img id="EMI-D00026" he="191.09mm" wi="172.04mm" file="US07640766-20100105-D00026.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00027" num="00027">
+<img id="EMI-D00027" he="226.82mm" wi="163.49mm" file="US07640766-20100105-D00027.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00028" num="00028">
+<img id="EMI-D00028" he="158.92mm" wi="170.43mm" file="US07640766-20100105-D00028.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00029" num="00029">
+<img id="EMI-D00029" he="215.31mm" wi="162.39mm" file="US07640766-20100105-D00029.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00030" num="00030">
+<img id="EMI-D00030" he="210.23mm" wi="162.90mm" file="US07640766-20100105-D00030.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">Priority of U.S. Provisional Patent Application No. 60/389,439, filed 18 Jun. 2002, hereby incorporated herein by reference, is hereby claimed. This is a continuation-in-part of U.S. patent application Ser. No. 10/173,133, filed 17 Jun. 2002 and of International Patent Application No. PCT/US02/19158, also filed 17 Jun. 2002, both incorporated herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<p id="p-0003" num="0002">Hereby incorporated herein by reference are U.S. patent application Ser. No. 09/996,328, filed 28 Nov. 2001; U.S. patent application Ser. No. 09/881,796 filed 15 Jun. 2001; U.S. patent application Ser. No. 09/954,849, filed 18 Sep. 2001; U.S. patent application Ser. No. 09/472,320, filed 23 Dec. 1999; and U.S. patent application Ser. No. 09/220,554, filed 23 Dec. 1998.</p>
+<heading id="h-0002" level="1">STATEMENT REGARDING FEDERALLY SPONSORED RESEARCH OR DEVELOPMENT</heading>
+<p id="p-0004" num="0003">Not applicable</p>
+<heading id="h-0003" level="1">REFERENCE TO A &#x201c;MICROFICHE APPENDIX&#x201d;</heading>
+<p id="p-0005" num="0004">There is no microfiche appendix, but see the text and drawings labeled as &#x201c;Appendix A&#x201d; attached to U.S. Provisional Patent Application No. 60/389,439, filed 17 Jun. 2002, hereby incorporated herein by reference.</p>
+<heading id="h-0004" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0006" num="0005">1. Field of the Invention</p>
+<p id="p-0007" num="0006">The present invention relates to bottled water (preferably refrigerated) dispensers, and more particularly to an improved bottled water dispenser for dispensing water that has been sanitized using ozone and more particularly to an improved method and apparatus for sanitizing water that is to be dispensed from a water cooler of the type having a cabinet with one or more spigots that are manually operable to dispense water from a reservoir water supply that is hidden inside the cabinet, and wherein air diffusers of improved configuration are disclosed that can be used to diffuse air into the reservoir.</p>
+<p id="p-0008" num="0007">2. General Background of the Invention</p>
+<p id="p-0009" num="0008">There are several types of cabinet type water dispensers in use today. One of the most common types of such water dispensers is a floor standing cabinet having an open top that receives a large inverted bottle. The bottle is typically of a plastic or glass material having a constricted neck. The bottle is turned upside down and placed on the top of the cabinet with the neck of the bottle extending into a water filled reservoir so that the water seeks its own level in the reservoir during use. As a user draws water from a spigot dispenser, the liquid level in the reservoir drops until it falls below the neck of the bottle at which time water flows from the bottle and bubbles enter the bottle until pressure has equalized. Inverted bottle type water dispensers are sold by a number of companies in the United States and elsewhere. Many are refrigerated.</p>
+<p id="p-0010" num="0009">Other types of water dispensers have an outer cabinet that contains a reservoir or water supply. These other types of water dispensers having a cabinet include one type that stores a large bottle (such as three or five gallon) at the bottom of the cabinet. A pump transfers water from the large bottle to the reservoir. At the reservoir, the water is typically refrigerated.</p>
+<p id="p-0011" num="0010">Another type of water dispenser simply connects a water supply (eg. city water, well water) directly to a reservoir that is hidden inside the cabinet. A float valve or other water level controller can be provided to insure that the reservoir is always filled with water but does not overflow. Water that is transferred from city water, well water or another source can be filtered or otherwise treated before being transmitted to the reservoir.</p>
+<p id="p-0012" num="0011">All of these types of water dispensers that employ cabinets typically have one or more water dispensing spigots on the outside of the cabinet. These spigots are typically manually operated, but can be automatically operated. For example, water vending machines dispense after a consumer pays for water. The water is automatically dispensed when coins are fed to the machine.</p>
+<p id="p-0013" num="0012">One of the problems with cabinet style water dispensers is that of cleansing the reservoir from time to time. Because the reservoir is not air tight, it breathes so that bacteria can easily enter the reservoir over a period of time. The reservoirs are typically contained within the confines of the cabinet and are not easily accessed and cleaned by consumers or end users.</p>
+<p id="p-0014" num="0013">For inverted bottle type dispensers, in addition to the problem of an open top, the five gallon bottles are themselves a source of bacteria and germs. Most of these bottles are transported on trucks where the bottles are exposed to outside air. They are handled by operators that typically grab the bottle at the neck, the very part of the bottle that communicates with the open reservoir during use. Unfortunately, it is difficult to convince every person that handles these bottles to wash their hands frequently enough.</p>
+<p id="p-0015" num="0014">In order to properly sanitize such a water dispenser or cooler, the user must carefully clean the neck of the bottle prior to combining the bottle with the cabinet. Further, the user should drain and sanitize the reservoir from time to time. The cleansing of the reservoir in such a water dispenser is a time consuming project that is typically not performed at regular intervals.</p>
+<p id="p-0016" num="0015">The dispensing spigots that are provided on common cabinet type water dispensers can also be a source of contamination. These spigots are typically manually operated and are therefore a source of contamination from the users that operate them. Very small children have also been known to drink directly from the spigot, probably because the spigot is located at a distance above the ground that closely matches the elevation of a child's mouth at an early age. Therefore, sanitation of the spigots as well as the reservoir should be a part of routine maintenance.</p>
+<p id="p-0017" num="0016">Process ozone diffusion by bubble reactor method in small static volumes of water with abbreviated water columns to diffused ozone levels satisfactory to disinfect microorganisms in brief time periods can be difficult to achieve. The chief hurdle involved is ozone diffusion contact surface area and time. The present invention is directed to an economical means of overcoming each of the factors that limit process ozone's potential disinfecting capacity. It is concerned with the optimization of each point in small automated ozonation systems both upstream and downstream from the ozonator. The object of this effort is to devise a single, economical, high longevity system capable of sanitizing all of the shapes and sizes of water dispensers in use today.</p>
+<p id="p-0018" num="0017">Until recently, the ozone water and related equipment sanitization and disinfection industry has been geared to large scale commercial, industrial and municipal applications not under space or equipment cost restraint. However, a growing demand for suitable sized ozone equipment with economy of scale for addressing less demanding, small sanitization and disinfection applications like water dispenser device sanitization has surfaced.</p>
+<p id="p-0019" num="0018">The chief difference between small and large applications is small applications are typically concerned with ozonating small, fixed, static volumes of water over adjustable dwell time intervals until adequate levels of disinfection or sanitization are achieved as opposed to large applications ozonation of continuously exchanged, large water volumes. The lowered number of variables offered by reduced temperature, static water volumes ozonated over time is the only built-in advantage available to small applications. During the process of re-engineering equipment and reducing costs to fit small application needs, it was found that beyond basic principles, much of the available industrial technology proved of limited value.</p>
+<p id="p-0020" num="0019">Attempts at using prior art to address small applications have resulted in either failure to achieve minimal levels of sanitization or where success was achieved, systems that could not remain cost competitive.</p>
+<p id="p-0021" num="0020">A number of factors influencing ozone diffusion into water by bubble reactor methods and their technical limitations related to small applications follows. Due to cost and space constraints small applications are limited to the use of small ambient air fed ozonators capable of generating less than 1% by weight ozone. This is contrasted by large scale applications' use of chilled LOX fed ozonators capable of generating up to 12% ozone by weight. Ozone is much more soluble in cold water than room temperature or warm water. A particular small application has little control over this factor. The water dispenser application is fortunate in the sense that average water temperatures are in an optimal 4-8 degree Celsius range. A large hurdle for small applications exhibiting static water volumes with a short (i.e., a few inches) water column is the ozone to water contact time. Bubble reactors usually vent more process ozone than they diffuse. The available options are longer dwell times, reduced airflow and smaller bubble size. Compare an average water dispenser's 1-3 liter volume, 4-6 inch water columns (0.15-0.21 psi back pressure), and 0.5-2 second bubble contact time at 1% ozone concentration with a large scale operation's 16-20 inches, 6-8.5 psi column's 15-20 second contact time with 12% ozone by weight. Since small systems are chiefly intermittent, auto-cyclic, programmable devices, this factor can be optimized by critical dwell time control and use of variable output ozonators for controlling both cycle width and ozone concentration tailored to water species, water volume and column height. Additional optimization is achieved by diffuser material choice and controlled airflow. Since small systems are chiefly scheduled for use in inside environments, over ozonation, using too high an ozone concentration and venting of surplus process ozone to air raises an air quality concern. It is imperative that small applications optimization addresses this potential health hazard. Small water dispenser applications (especially those using inverted water bottle) cannot blow large volumes of ozonated air into a small open systems bubble reactor reservoir containing a small volumes of water without either causing air displacement flooding of the reservoir or producing a substantial vapor phase that vents most of the water from the reservoir and reserve by evaporation. An additional difficulty is the loss of minimal head pressure, production of a large bubble with inadequate surface contact area resulting in a near total systems loss of process ozone. These factors are subject to optimization and are key to small applications success. Though large applications address flow control through fine bubble diffusers, its use is confined to high ozone concentration feed gas, fed through a high volume of fine bubble diffusers primarily for oxidation of bio-solids in moving volumes of water where bubble retention time is not critical. The data does not deal with potable water disinfection or sanitization parameters. Consequently the data on diffused gas to water and diffuser area to water volume ratios do not apply to low ozone concentration, time dependent small systems potable water sanitization.</p>
+<p id="p-0022" num="0021">Diffuser materials producing smaller bubbles per unit ozonated air volume exhibit a much greater surface area than like volumes of large bubbles. The higher the surface area, the greater the contact diffusion. Within limits, this factor can be optimized and is one of the main keys to successful small applications.</p>
+<p id="p-0023" num="0022">Internal Bubble Pressure: Small bubbles produced by fine bubble diffusers exhibit higher internal bubble pressures, hence greater diffusion by pressure/temperature relationship. In addition, their greater pressure retards their rise velocity, thus increasing contact and pressure/temperature diffusion time and affords higher structural integrity making them less subject to expansion and coalescence. This factor is optimized by diffuser material choice and control of airflow and is another key to successful small applications.</p>
+<p id="p-0024" num="0023">While prior patents have addressed water dispenser ozonators in general, various component, the present invention provides the means for optimization of ozone diffusion utilizing unique airflow control and diffuser technology. The purpose behind optimizing airflow is primarily twofold: first, to increase air dwell time across a cold plasma coronal discharge tube to increase ozone concentration and second, to reduce the large bubble fraction generated at the surface of a diffuser. The generation of small bubble sizes in gas diffusion bubble reaction chambers in order to increase surface area and contact time has long been an industry dream. However, the lack of need generated by past engineering success has caused industry to stop short of original goals.</p>
+<p id="p-0025" num="0024">Diffuser manufacturers have engineered small pore size, low permeable diffusers that in some cases require greater pump pressures for flow initiation. Higher pressure materials are not optimal for small low pressure/volume open systems applications as they decrease pump life and often do not supply an adequate volume of small bubbles for ozonation. Quite often, they are more subject to pore plugging than lower initial bubble pressure materials. The author's testing indicates that different manufacturer processing techniques for a single given media exhibiting identical mean particle and resulting pore size generate large variations in a diffuser's initial bubble pressure where at lowered IBPs, a diffuser will not only produce like sized bubbles, but a greater quantity of bubbles for less work. As a rule, the lower internal bubble pressure per same material and parameter diffuser will exhibit a greater spacing between active surface pore channels. Additionally, the less flow restricted material produces higher volumes of like sized bubbles with reduced vertical bubble velocity differentials and turbulence.</p>
+<p id="p-0026" num="0025">These preferred characteristics lead to decreased lateral and vertical bubble coalescing, reduced bubble expansion and rise rates, hence higher diffusion efficiency. Lower initial bubble pressure materials require a greater wall thickness and surface area to match the performance of higher initial bubble pressure materials. Otherwise, bubble size will increase to non-optimal proportions.</p>
+<p id="p-0027" num="0026">Conditions for minimal adverse bubble reactions in specific mean pore diameter/internal bubble pressure diffuser material producing specific bubble sizes at 0.05-1 liter/minute flow volumes in water columns ranging from 1-50 inch heights, include active pore spacings equaling thrice the bubble diameter both laterally and vertically at the diffuser surface where mean pore to bubble diameter ratio ranges from about 1:12.5 to 1:50. Application of these ratios to media diffuser surface area is tied to performance test treatment studies involving given water volumes and column heights, independently varying airflow rates at known ozone concentrations, and noting bubble size and bubble population size with respect to dissolved ozone concentration over a given time interval.</p>
+<p id="p-0028" num="0027">Once transfer efficiencies are determined for each situation, variable diffuser surface area tests noting bubble size and bubble population are performed and transfer efficiencies determined. By comparing the various flow and time varying studies against diffuser area studies and comparing bubble sizes and populations, one arrives at the optimal diffuser material surface area, flow rate and dwell time.</p>
+<p id="p-0029" num="0028">Prior art for commercial and industrial sized applications represents a balance between bubble size and bubble volume. Industry experience has been negatively influenced by misapplication of fine pore size diffusers to high solids and TDS fluids that promote rapid pore plugging, experience that crossed over to low mineral and solids water species like potable water disinfection. Furthermore, large commercial and industrial applications could not afford downtime on dynamic systems that operate 24 hours a day.</p>
+<p id="p-0030" num="0029">The use of very fine pore size diffusers application was largely abandoned by wastewater and potable water treatment out of past reservations and lack of research data for generating optimally engineered materials. To date, the recent interest in small applications has not triggered mainstream development of new diffuser materials/geometry innovations.</p>
+<p id="p-0031" num="0030">Although diffuser manufacturers typically produce fine pore diffusers to relatively homogeneous mean pore size standards, large pore sizes that channel high air volumes away from the smaller interconnected pore diameters occur in virtually every material tested. This is often complicated by an inability to effectively seal off material connection air leaks. Testing revealed that high permeability channel flows are the first to terminate large bubble production when airflow rates are reduced. This adjustment allows existing diffusers to operate at near rated design capacity and will serve as a stopgap measure until better solutions emerge. The optimal diffuser-airflow balance of small bubbles with reduced large bubble fraction displaying adequate remaining small bubble volumes suitable for ozonation occurs at approximately 50% of open flow rate on average for any given diffuser and water column height. This air volume reduction approximately equals the large gas bubble volume displaying poor diffusion characteristics.</p>
+<p id="p-0032" num="0031">The present invention thus provides an improved self sanitizing water dispenser apparatus as well as a method for generating ozone for cleaning the reservoir and the water contained within it.</p>
+<heading id="h-0005" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0033" num="0032">The present invention provides a self sanitizing cabinet type water dispenser that includes a cabinet having upper and lower end portions, the upper end portion of the cabinet having a cover. The upper end portion can house a reservoir that receives water (eg. filtered) from a municipal water system, well, or from a contained bottle. An upper opening can be provided in some models for receiving and holding an inverted a bottle of water (e.g. 3-5 gallons) to be dispensed. The bottle contains water to be dispensed, and provides a neck portion and a dispensing outlet portion.</p>
+<p id="p-0034" num="0033">A reservoir contained within the cabinet holds water to be cooled and dispensed. A refrigeration system cools the water within the reservoir. The reservoir can optionally be heated. A diffuser (e.g. ring) emits bubbles into the reservoir, the diffuser being disposed within the reservoir at the lower end portion thereof and preferably next to the reservoir wall so that bubbles emitted by the diffuser help scrub the reservoir wall.</p>
+<p id="p-0035" num="0034">An ozone generator is supported within the housing. Flow lines communicate with an air pump to carry ozone from the ozone generator housing to the diffuser. A blower generates flow and a flow line connects the blower to the ozone generator housing. In the preferred embodiment, ozone can be transmitted to the reservoir or to a flow channel that is upstream of the water dispensing spigot(s).</p>
+<p id="p-0036" num="0035">The spigot is provided with a switch for activating the ozone generator for a selected time interval. The ozone generator is activated for a selected time interval (e.g. a few minutes). After the selected time interval, the ozone generator is shut off. The air pump continues air flow for a time period (e.g. a few minutes) in order to help disperse any odor of ozone. The air pump is then shut off and the refrigeration system compressor starts operation again to cool the water.</p>
+<p id="p-0037" num="0036">The diffuser can be a ring shape, positioned around the side of the reservoir at the bottom of the reservoir. Such a ring diffuser can be positioned close to the intersection of the reservoir bottom wall and reservoir side wall. The diffuser can be of a composite construction that includes a porous core that is partially covered with a non-porous coating. The reservoir preferably has a center portion and the diffuser ring preferably has openings positioned to direct air away from the center portion of the reservoir. The reservoir can include a generally vertical side wall. The diffuser can be positioned to discharge bubbles against the side wall so that the side wall is scrubbed with ozone bubbles during sanitizing of the reservoir.</p>
+<p id="p-0038" num="0037">The ozone generator housing can be comprised of an upper housing section, a lower housing section and a gasket positioned in between the upper and lower sections. An ozone generator is contained within the interior of the housing. Fittings on the housing enable air to flow into and out of the housing. A blower generates air flow to carry air into the ozone housing and from the ozone generator housing to the air diffuser. Optionally, a HEPA filter can be provided as the air intake removes airborne microorganisms.</p>
+<p id="p-0039" num="0038">The present invention provides a compact, brief, high intensity, automated ozonation cycle and water cooler sanitization system and an improved ozone generating &#x201c;tube&#x201d; (see <figref idref="DRAWINGS">FIGS. 30-35</figref>). The engineering function dictating compactness is the space constraint of the insulated upper reservoir chilling compartment of a typical cooler reservoir. The present invention provides a self-contained ozonator module for achieving the shortest possible delivery path of process ozone to an in-reservoir diffusion system for minimizing chemically unstable ozone degradation losses and for taking advantage of immediate proximity to the reservoir cooling coil's lower air temperature as opposed to that of the compressor compartment.</p>
+<p id="p-0040" num="0039">A final need for systems integration and compactness is unit component cost, simplicity and reliability. The present invention provides an apparatus that is simple, reliable, rugged, and cost effective, and displays the ability to deliver a low cost, concentrated stream of ozone to a diffusion system needed to repeatedly &#x201c;spike ozonate&#x201d; small, changing static volumes of water or to an on demand faucet dispensed water flow stream. With the present invention, contact-diffusion brevity is imperative in achieving levels of sanitization not previously possible by micro-ozonation systems and small UV sanitization systems alike. This level of ozone concentration from air fed mini-ozonators has not been available for water cooler sanitization in the past being available only in bulky form requiring either chilled feed gas, bottled oxygen or LOX as feed gas.</p>
+<p id="p-0041" num="0040">The present invention provides high output mini- and micro-ozonators suitable for intermittent short cycle ozonation. In this manner, in addition to cooler sanitation, the dispensed water quality is assured of being sanitary for consumption at all times. The present invention provides a spigot/faucet configured with a microswitch connected to an ozonator power circuit causing circuit activation during the time interval that the microswitch remains depressed. Alternatively, a faucet can be configured so that if depressed several times repeatedly, it signals a timer/controller to activate an air pump and ozonator until released.</p>
+<p id="p-0042" num="0041">In another embodiment, a reservoir volume-pressure change float sensor or air- or water-borne differential pressure transducer can be mounted in the cooler reservoir, which can be used to cause the ozonator to remain in operation until pressure restabilizes after dispensing is terminated.</p>
+<p id="p-0043" num="0042">Ozone is supplied by an ozonator/pump to a faucet water channel via flow stream to an additional diffuser located in the spigot water channel. This construction injects small quantities of diffused ozone into the flow stream for making and dispensing freshly ozonated water without fear of an ozone in air safety hazard. The safe and effective antiseptic properties of freshly ozonated water are known and offer a safe and effective means for sanitizing cooler exterior, drinking utensils or for neutralizing potential biohazards and hazardous organic chemical spills.</p>
+<p id="p-0044" num="0043">The present invention provides an energy efficient, low cost, intermittent repetitive reservoir and reservoir water spike treatment with a concentrated ozone cycle activated either by cooler compressor cycle or through timer/controller circuit with cooler compressor remaining in operation, brief ozonation time to bacteria-static levels followed by passive dissipation time interval, cycling continuously over a 24 hour daily period, and/or manual ozonator activation for dispensing freshly ozonated water, ozonated to non-taste, non-harmful, bacteria-static levels. In this fashion, no harmful bacteria is contained in the remaining bottled water or cooler reservoir or water dispensed from a municipal source fed point of use.</p>
+<p id="p-0045" num="0044">The present invention's higher outputs and alternative cycling has been demonstrated effective in mixing transfer of diffused ozone and resultant secondary peroxyl group residuals from cooler reservoir water to water contained in water bottles over time by standard indigo dye test where indigo dye is introduced into a cooler reservoir, a water bottle containing water is added, dye dissolves and transfers to a bottled water coloring the water blue. After an ozonation cycle is run, the diffused ozone mixing transfer to water bottle is observed when the oxidant sensitive dye degrades and water color returns to transparent.</p>
+<p id="p-0046" num="0045">These new features extend the water service industry's onsite automatic sanitization options to include not only cooler reservoir and bottled water sanitization, but to faucet watercourses and dispensed water as well. The same timer/controller circuit found on auto-cycling cooler sanitizers with sufficient micro-chip memory can be programmed to include both long cycle compressor disconnect, ice ring melting, ozonation to antiseptic conditions, subsequent dissipation, compressor reconnect and intermittent repetitive bacteria-static cycle cooler sanitization cycles as well as the manual override activated freshly ozonated, dispensed water function.</p>
+<p id="p-0047" num="0046">Where only an intermittent spike ozonation cycle is required, the timer circuit in some cases may be eliminated and a more simple, cost effective ozonator-pump-diffuser set-up can be installed on a cooler by power circuit attachment to the cooler compressor so that pump and ozonator cycle with the cooling cycle.</p>
+<p id="p-0048" num="0047">In the event a compressor cycle is longer than needed for achieving antiseptic conditions, the above set-up may require a simplified programmable timer/controller circuit that allows for start-up with the compressor, but shuts off after a bacteria-static diffused ozone level cycle width has occurred. The cycles that are available with the present invention were not formerly possible or provided for by prior art examples of retro-fitted or integral auto-cycling water cooler air-fed micro-ozonator due to their inability to achieve ozone concentrations and diffusion transfer needed to &#x201c;spike ozonate&#x201d; a standard cooler's static two liter volume maximum of water much less that of larger volume coolers exceeding 1 gallon reservoir volumes or small dispensing flow stream's flow rate maximum of 21/minute to at least bacteria-static levels under the imposed time constraints.</p>
+<p id="p-0049" num="0048">The ozone concentration required to spike ozonate water with the proper diffusion technology operating at low pressure is 3-4 times the output of the highest output prior art micro-ozonators known to applicant, meaning a micro-ozonator capable of continuously delivering 600-800 mg/hr ozone concentration in air coupled to a state of the art low bubble pressure, micro-porous, hydrophobic ceramic material diffuser (preferably of a ring shape) mounted on the cooler reservoir bottom like that disclosed in prior U.S. Pat. No. 6,289,690. The desired ozone output has been accomplished by simple substitution of this discharge tube embodiment for prior art in said prior art's power circuit contained within its existing case.</p>
+<p id="p-0050" num="0049">The intermittent repetitive cycle widths for a cooler micro-ozonator system activated by timer/controller circuit can be based effectively on how different water species respond to ozone. Acidic water species are easy to ozonate, but require more time for diffused ozone to dissipate from the water to below taste levels, whereas basic or alkaline water species resist ozonation and will not hold diffused ozone for any length of time at any given water temperature.</p>
+<p id="p-0051" num="0050">Ideally, for a given cooler, reservoir water temperature average of 40&#xb0; F., the intermittent, repetitive cycle ozonation cycle should be based on the length of time it takes to spike ozonate a pH 9 water volume to bacteria-static levels with a dissipation time equal to that requiring pH 5.2 distilled water to be free of dissolved ozone content in order to accommodate all water species using a single pre-programmed timer cycle.</p>
+<p id="p-0052" num="0051">An additional factor of concern related to spike ozonation cycles is the presence of bromine in source waters. Ozonation above certain levels of diffused ozone in water converts bromine and certain bromine compounds to bromate, a suspected carcinogen. FDA Safe Drinking Water Act regulations have recently been amended to include a maximum contaminant level for bromate in drinking water of 10 mg/l, possible decreasing to 5 mg/l within a year. Ozone oxidation of bromine to bromates is a function of ozone concentration, exposure time, temperature and water pH.</p>
+<p id="p-0053" num="0052">The various solute bearing water species at risk for oxidative conversion of bromine to bromate range in pH from 1-7, more specifically fresh and processed water supplies of pH 5-7, the range from distilled water through pH neutral mineral bearing water sources commonly used in bottled product. Thus spike ozonation may be the only safe, effective and cost effective means for controlling bromate production in water undergoing ozonation while achieving adequate levels of disinfection and/or sanitization. Luckily, cooler water temperatures are low enough to alleviate some of the potential difficulty. Water briefly spiked with ozone, held at levels below the diffused ozone concentration threshold for bromate production over brief intervals will result in minimal production of bromates in waters containing elevated levels of bromine and its compounds.</p>
+<p id="p-0054" num="0053">Spike ozonation can also be accomplished without a timer/controller by altering a cooler's compressor cycles to correspond to these timed cycles provided the alteration does not adversely affect a cooler's ability to operate within its chill water volume design parameters. If water remains in a cooler reservoir unused over repeated cycles, the bacteria-static oxidation level will move to a bactericidal oxidation state, as more of the static biophage is rendered non-living and inert.</p>
+<p id="p-0055" num="0054">The present invention provides an improved coronal discharge tube arrangement. Whereas a prior art 200 mg/hr ozonator is capable of achieving bacteria-static diffused ozone levels in 1-2 liters of water in 20 minutes with proper diffusion technology that may better approximate a cooler chill cycle and offer better ozone dissipation time through reduced diffused ozone quantity present in water, said ozonator is incapable of spike ozonating a flow stream of water dispensing from a cooler to any degree at all to form a multi-function water cooler ozonation system or a system capable of spike ozonating cooler reservoir water volumes to like bacteria-static levels in under 5 minutes operating time and allowing the remaining 15 minutes to be spent dissipating the ozone to below taste levels.</p>
+<p id="p-0056" num="0055">The shorter the cycle widths, the greater the surety of sanitized cooler and water. Additionally, said smaller output miniozonators cannot effectively sanitize larger reservoir volume coolers of the type whose water volumes exceeds one or more gallons in a timely fashion. Poorly thought out and engineered past attempts at ozone sanitizing water coolers include methods such as continuous ozonation of water using low output small ozonators. This effort has a threefold disadvantage. First the continuous introduction of ozonated ambient air causes an added energy debt to a compressor having to run all the time to cool the water, thus effectively shortening compressor, ozonator and pump life. Secondly, the continuous introduction of dust, organics and micro-organisms found in air shortens discharge tube life and unnecessarily introduces pollutants into the reservoir and contained water, thus increasing oxidation load and rendering the water potentially non-potable. If the discharge tube fails by overheating caused by dust and/or moisture build-up on an electrode or the dielectric, the system continuously introduces an unoxidized, unsanitary load into the cooler reservoir or builds up in the discharge tube to the point that the resulting blockage causes pump failure. This is one reason why this embodiment offers an inexpensive, quick-change throwaway, sanitary discharge tube option that is far below the cost of the less expensive UV sanitization system replacement tube requiring more frequent replacement. Third, ozonators specified for this purpose frequently have too small an output to oxidize the load found in water where the small quantity of diffused ozone either dissipates or does not have time to build to adequate levels to perform its function when coolers are subject to heavy use.</p>
+<p id="p-0057" num="0056">In addition to air dielectric breakdown leading to ionization, ozone generation by the coronal discharge method generates light and heat. A portion of said light lies in the far ultra-violet ionizing radiation spectrum and is responsible for cleaving the diatomic oxygen molecular bond. This preparatory bond cleaving is necessary for ozone formation. Such far UV ionizing radiation light fraction can be conserved and recycled by reflection. When a cylindrical mirrored reflecting surface is employed, a dramatic increase in oxygen to ozone conversion efficiency is noted over prior art.</p>
+<p id="p-0058" num="0057">In a further embodiment of the apparatus of the present invention, a water dispenser is provided that includes a cabinet having upper and lower end portions and an interior. A reservoir is contained within the cabinet, the reservoir containing water with a water surface. One or more spigots is in fluid communication with the reservoir for dispensing water from the cabinet. Each spigot preferably provides a manually operable valve handle that opens the spigot to dispense water from the spigot.</p>
+<p id="p-0059" num="0058">A refrigeration system for cooling water within the reservoir can be optionally provided. An ozone generator housing is supported next to and preferably inside of the cabinet, the ozone generator housing having an ozone generator inside and air flow lines for transmitting air to and from the housing interior and to the reservoir.</p>
+<p id="p-0060" num="0059">Air pumps that are used as part of the present invention need be of sufficient capacity to overcome system pressure losses and provide a continuous adequate volume of ozonated air necessary to achieve water and reservoir surface disinfection within the largest water dispensers and vending machines without causing permanent deformation of pump materials, overheating or conditions leading to premature capacity loss or failure. Automated systems ozonating small static water volumes are designed for brief, intermittent cyclic operation, conditions under which pumps are given adequate time for thermal dissipation and elastic materials recovery; therefore air pumps need not be of a type normally associated with long-term continuous operation.</p>
+<p id="p-0061" num="0060">To preclude potential damage by back-feed of residual process ozone after shutdown, only pump components specified as ozone resistant are selected and claimed. Suitable ozone resistant elastic materials include, for example, Viton and silicone polymers and in less demanding applications the EPDM rubber material. Hard ozone resistant components include 316 stainless steel, ceramics, glasses and polymer materials such as polycarbonate, teflon, kynar and certain formulations of polypropylene.</p>
+<p id="p-0062" num="0061">The present invention discloses high longevity, low volume, low pressure air pump manufacturer parameter ratings proven suitable for water dispenser sanitization application and include a &#x201c;shut in&#x201d; pressure maximum of 5 psi, unrestricted open flow pressure of 0.1 psi with unrestricted flow rates of between 1-10 L/minute, with an ideal range of between about 3.4-4 psi, and optimally about 0.1 psi open flow with unrestricted flow rates between about 1.2-4 L/minute. These pumps can be typically of the 100-110/220-240 VAC, 2-12 W, 50-60 Hz or 6-24 VAC or DC electromagnetic, diaphragm type with or without built-in variable flow control valve or variable motor speed flow control, low voltage rotary AC or DC motor diaphragm type.</p>
+<p id="p-0063" num="0062">These pumps exhibit sufficient pressure to pump against all systems losses and a water column hydrostatic head of 50&#x2033;=1.8 psi at mean sea level with surplus airflow for operation at elevations above 10,000&#x2032; under air flow rate control. We claim pumps with these specifications for use with water dispenser sanitization systems.</p>
+<p id="p-0064" num="0063">The present invention, in one embodiment extends the acceptable diffuser design geometries while retaining the original ring concept and function to allow for greater flexibility of ring shapes and material types that conform to varying dimensions of reservoirs and reservoir shapes found on different water dispensers and defines specific range of diffuser materials parameters and performance characteristics suitable for use with pumps of the above listed pressures and outputs. It also teaches a new materials, configuration and principles art for fine bubble diffusers and diffusion.</p>
+<p id="p-0065" num="0064">One ring geometry alternative to a fixed, single material design is a universal, flexible, segmented diffuser concept that can be made in extended lengths, can easily be joined to other lengths of the same material with common barbed fittings, can be cross-cut to specific lengths and can be easily bent to conform to any reservoir shape or dimension. This diffuser emits bubbles from its exterior edge against the side walls of a water dispenser reservoir for promoting a scrubbing action and inward and downward convection water flow promoted by small bubble viscous drag of the reservoir water fraction to aid in elimination of gas bubbles entering bottles found on water dispenser types using an inverted water bottle and all other types, for the extended purpose of recycling slow or counter-rising very small bubble flow whose dimensions are such that they do not rise appreciably like larger bubbles, thus increasing bubble retention and ozone contact time.</p>
+<p id="p-0066" num="0065">The present invention utilizes small diffuser material segments, configured in cylindrical hat shaped tablets (see <figref idref="DRAWINGS">FIGS. 37A-37F</figref>) or stepped rectangular segments with radiused corners having distinct ninety degree edges. These segments are embedded in a continuous ozone resistant silicone or Viton elastic housing material (see <figref idref="DRAWINGS">FIGS. 36-40</figref>). During the heat forming polymerization process, liquid polymer feedstock is injected under pressure into a mold cavity containing said segments. The silicone or Viton housing conforms to the rugose surface of the segmented diffuser material and edges, that upon cooling and removal from the mold. The polymer body shrinks around the individual diffuser segment surfaces and edges, forming a permanent pressure seal that encapsulates each segment on all but the exterior flat face. The opposing face is open to an interior, common airflow channel and a connection to an air flow pump. A continuous air channel in connection with each diffuser segment is provided in the diffuser encapsulating elastic material. Sufficient space is provided between diffusers to allow for flexibility with sufficient wall thickness so as to preclude airflow restriction of the common airway supply channel and to conform to upsets found on many types of water dispenser reservoir bases. Once formed, extended lengths of the flexible material can be either cut to desired length, or joined to other lengths end to end and bent to configure to a specific reservoir near basal cross-sectional dimension and T-barbed to ozonated air supply line. Diffuser ring OD should be undersized by a minimum of 0.25 inches to provide a sufficient annular gap between reservoir ID and diffuser OD to minimize bubble coalescing after being emitted from a diffuser via collision rebound off the reservoir wall back into the diffuser face where bubbles are forming as well as supply an annular channel guide for bubbles rising against reservoir wall and convection water flow around diffuser.</p>
+<p id="p-0067" num="0066">Complete reservoir water volume toroidial convection flow is the only type of turbulence acceptable to this embodiment. A food grade and ozone proof diffuser material is specified for this diffuser design that are porous fused alumina or silicon carbide particles or porous sintered particle stainless steel or titanium. The specific advantage of a flexible diffuser material manufactured in long lengths is that application is not limited to a single closed loop diameter of the material, but can be configured in several wraps of the cost effective material in a flat coil to provide more diffuser surface area when needed.</p>
+<p id="p-0068" num="0067">A second, alternative universal, flexible diffuser design features a continuous thin, narrow strip of either food grade sintered particle stainless steel or titanium metal diffuser material. Normally these types of materials are subject to breakage when bent. However, the availability of a newer thin strip or ribbon configuration of this material, 1 mm in thickness across the flats allows for bending to all but the tightest radiuses for housing in either a thin walled, food grade stainless steel or polymer backing with integral, common air channel. This design displays the least cross-sectional dimensions possible of any material for minimizing water displacement of reservoir water fraction and ease of wrapping tight, flat heli-coils of the material to the desired surface area requirement for any given diffusion application. The advantage of wrapping additional loops or having a narrow double sided diffuser surface area with desired spacing between coils lies in surface area increase, avoidance of bubble collision coalescing and promotion of multiple convection water flows for better diffusion mixing and elimination of the possibility of rising bubbles entering water bottles and generating displacement dispenser flooding.</p>
+<p id="p-0069" num="0068">A third alternative diffuser media is an elastic tube membrane diffuser. This media consists of a preferentially slotted elastomeric tubing that is permeable to air and impermeable to water, thus forming its own check-valve. Its chief advantages are its flexibility and resistance to pore plugging. A small diameter, thin walled elastic tubing, displaying several rows of offset slots whose slot length is here specified at 0.25 mm or less, spaced 1-2 mm apart are inlet through one side of the tubing to form a directional diffuser tubing that will blow 0.25 mm diameter or less, non-coalescing bubble streams that instantly release from the media. Instant release can be insured by a teflon coating of the material's exterior surface. The material wall thickness is preferably on the order of 0.25-0.5 mm to achieve the desired results. A specified &#x215c;&#x2033;-&#xbe;&#x2033; OD tubing is cut to length, bent to conform to the reservoir perimeter with opposing ends configured to a T-barb fitting, slots facing outwards toward the reservoir walls to form the diffuser ring. Alternatively, a greater length is cut and formed in a flat coiled arrangement if application calls for a greater surface area diffuser. If sufficiently small tubing is unavailable, short lengths of large diameter membrane diffuser tubing may be used. The tubing is fitted over a ring housing displaying a channel cross-section with flanges facing outward. Tubing section placed over the open channel is then pressure sealed along the edges of the channel by two snap rings applied to upsets provided on the channel forming the elastic material's pressure seal. A barb is let through one face of the channel ring's flats to serve as an air supply connection to the common ring air channel.</p>
+<p id="p-0070" num="0069">Acceptable diffuser materials suitable for water dispenser sanitization applications can typically and will preferably exhibit the following parameters and characteristics. Such diffusers have an ability to function optimally at all water column heights under consideration within the specified operating capacity range of air pumps. They display the ability to produce an adequate volume of small bubbles in a preferred size range of 0.1-1 mm diameters that display the preferred rise rates of 1-10 cm/second to achieve good bubble retention ozone contact time and the greatest level of diffused ozone. Hard diffuser materials having this capacity under air flow controls display mean surface pore size dimensions ranging from 10-60 microns with wetted media initial bubble pressures measured in air of between 0.1-0.7 psi when operating at air flow volume rates of between 0.05-2 L/min depending on water column height and volume being ozonated. The optimal parameter range is from 10-50 micron mean pore size dimension, wet media initial bubble pressures of 0.1-0.55 psi and flow rates between 0.1-0.5 L/min.</p>
+<p id="p-0071" num="0070">Where possible, use of hydrophilic, polar or nanoparticle veneers applied over diffuser surfaces that do not close off pores for increasing surface energy at the pore opening, thus promoting small bubble production is recommended. Veneer thickness is minimal and more or less protected by the pore indention to resist abrasion. Since the light powder coating is minimal and does not extend to any depth within the pore channel, the risk of pore channel plugging or fouling or permeability restriction is minimized. Applied veneers suitable for this purpose include, for example, polar metal nano-particles, alumina, silica or silicon carbide spherical nano-particles, zeolites or silica gel nano materials fused to the exterior surface and ground off such that their presence is limited to the area immediately around the pore opening indentation. Such diffusers minimize the production volume of large fast rising bubbles that generate eddy current turbulent flow contributing to lateral and vertical bubble coalescing. Such diffusers also minimize the vertical bubble flow velocity differential that contributes to bubble stream coalescing that occurs during the first 2 inches of bubble rise above a diffuser.</p>
+<p id="p-0072" num="0071">The diffusers of the present invention present a new principle of diffusion technology. Bubble reactors rely exclusively on diffuser materials to generate bubbles for surface contacting of a gas during buoyant rise through a water column. During experimentation with various semi-permeable exterior mineral coatings for directionally gating air bubble flow, a new phenomenon was observed. Samples taken immediately below the bubble streams emitted by the gated diffuser displayed anomalously high levels of diffused ozone. Like non-permeable coated diffuser rings were tested at the same points for comparison. The second group of diffusers did not exhibit these same high levels of diffused ozone. Examination of the non-glazed coatings revealed that they were semi-permeable to water and wettable or hydrophilic in nature. After the coating hydrated, it exhibited enough remaining permeability to wick free water by capillary pressure back into the diffuser material when assisted by the weight of the water column working against the diffuser's internal air pressure. After a period of operation in a water column, airflow through a permeable diffuser material exhibits a tendency to dry out internally through evaporation. It is not known if this evaporation includes the bound water fraction, but certainly includes most of the free water fraction. Measurements of diffused ozone concentrations taken in static volumes of water over time normally exhibit an initial high diffusion rate that levels off and flattens over time. Although this is chiefly due to the gradual saturation of the fluid with ozone, a percentage of it may be due to evaporation of water from within the stone. The principle at work here is exposure of evaporative cold water under pressure to an atmosphere of ozone gas causing ozone saturated water vapor and free water phase within the diffuser material being ejected along with bubbles. The saturated free water and vapor phase is infinitely soluble compared to ozone gas in water. We know that every vapor droplet that strikes the liquid surface enters the liquid since it immediately experiences large forces pulling it into the liquid. At any given vapor temperature, the number of molecules per second striking the unit area of the surface is proportional to the vapor pressure; thus, immediate recondensation to a liquid phase occurs. Since ozone dissolves better in cold water and at higher pressures, an ultra high surface area cold vapor approach to ozone diffusion will yield gas saturated vapor and resolution of the vapor phase back into the liquid in brief time intervals.</p>
+<p id="p-0073" num="0072">Two diffuser technologies are revealed for capturing this in-diffuser cold water vapor diffusion method. The first method utilizes the passive approach of applied partial semi-permeable capillary material coatings over an existing diffuser material exterior surface for wicking moisture back into the diffuser mass, assisted only by the water column. A particular diffuser material is selected that exhibits an excess of surface area equaling diffuser exposed surface to match water volume for bubble diffusion plus the surface available for coating and estimated air flow rates needed to achieve bubble diffusion mass transfer over unit time. A coating that displays the needed permeability to water and non-permeability to the pressurized air fraction is then applied. This entails selection of a high surface energy coating placed against a low surface energy diffuser material to achieve fluid transfer back into the diffuser for resultant diffuser rewetting when assisted by the specific water column pressure. A suitable coating tailorable to both permeability requirements and addition of hydrophilic or polar materials dispersed phase aggregates is the HERA Corporation's cold process, alumno-silicate, micro-porous, pseudo-ceramic, hydrolytic cement. This material eliminates the need for additional kiln firing or sintering of the coating onto the diffuser that might adversely affect permeability. In fact low cost diffusers can be made exclusively from the material. Once configured, continuous water circulation back into a diffuser and generation of a cold water vapor phase by evaporation within the diffuser is insured. The nano-droplet vapor phase exposed to an atmosphere of ozone will produce a vapor saturated with ozone that immediately transfers to the reactor's water volume when emitted from the diffuser, greatly enhancing the diffusion efficiency of the bubble reactor.</p>
+<p id="p-0074" num="0073">A second means disclosed is an active method for generating the water vapor and ozone gas mixed phase within the diffuser internal air supply cavity or chamber. Here both ozonated air and a fine water mist are pumped into the chamber for pre-mixing and diffusing ozone into the vapor phase within the diffuser cavity prior to the mixed phase's diffusion through the more permeable diffuser into water. This type of diffuser consists of an internal micro-fine pore diffuser, preferably axially mounted within the air bubble diffuser. Pure water is pumped through the micro-fine diffuser and converted to cold water vapor phase within the annular air supply channel where it is mixed with the pressurized ozonated air supply and pumped through the higher permeability air bubble diffuser material. The annular volume reaction chamber is sufficiently large to allow enough contact time for the pressurized gas to dissolve into the cold vapor fraction prior to release through the more permeable bubble diffuser. Since a high fraction of the gas is now diffused into the water vapor that immediately dissolves in the main water volume, the lower quantity of remaining gas surrounded by the vapor fraction being extruded through the wetted pore capillary elastic water membrane venturi orifice allows for production of smaller more diffusive bubbles and anti-bubbles. An anti-bubbles is a known double layer form consisting of a higher density cold water droplet core surrounded by a thin layer of gas in bulk water. This type of bubble will not rise, but counter-flows, diffusing its annular trapped gas into both the bulk fluid and contained water droplet until extinction. This form of diffusion offers gas diffusion mass transfer efficiencies equal to or greater than static mixer assisted, venturi siphon-jet diffusion. Since this process is occurring at point of use, the normal ozone recycling loop and instability losses associated with the venturi-siphon jet method are eliminated. Since a smaller gas phase to bubble fraction is involved, this method is preferred over all other methods for sanitization of water dispensers. When properly engineered for complete mixed phase gas solution within a diffuser, the method will replace bubble reactors altogether. This new principal of diffusion and two new diffusion technical innovations are claimed for use with water dispenser ozone sanitization systems.</p>
+<p id="p-0075" num="0074">Two designs for are disclosed manually adjusting or otherwise controlling or metering air flow through an ozonator and diffuser for the purpose of increasing oxidant concentration and/or regulation of bubble size, bubble population size and rise characteristics are disclosed herein for use on water dispenser sanitization systems.</p>
+<p id="p-0076" num="0075">While more sophisticated automated feedback control means may be available for metering ozone sanitization systems air flow and flow controlled pumps are available either through motor RPM voltage adjustment or needle valve mounted on a pump housing, this first design relates to an orifice type needle valve flow adjustment during visual observation of bubble size changes in a reservoir. In this case, flow controlling valve made of either an ozone resistant metal or polymer is placed either between air pump and ozone discharge tube or downstream from discharge tube housed inside the single module along with a timer cycle controller circuit. A valve stem extends through a hole in module case and a vertically striated knob with dial pointer is inserted over valve stem. A circular veneer decal, calibrated to flow rate and adjustable over a 340 degree turn radius from closed to full open is provided on the external casing along with a pointed upset molded into the casing whose set stop point sets into the knob grooved striations provided, serves as a ratcheting set to secure a preferred optimized flow rate.</p>
+<p id="p-0077" num="0076">A second flow control design consists of a variable inline flow meter for attachment to the vertical segment of ozone supply line tubing.</p>
+<p id="p-0078" num="0077">A third and preferred method for auto-controlling systems air flow through ozonator and diffuser for water dispenser sanitization systems is disclosed. A type of existing airflow regulator known as a spring-loaded variable orifice is herein modified for this application. This modification includes dual adjustable orifices, a screw adjustment for altering orifice restriction, and a thin bimetal material forming the valve body that acts as both heat sink and secondary regulating mechanism or thermostat. This type of device maintains a specific flow rate while responding to changes in temperature and airflow. Addition of the tension adjustment screw allows the flow parameters to be adjusted to a specific flow rate. Once adjusted, flow is maintained in the conventional sense as outlined above. In this case this auto-flow regulating mechanism is located downstream from the ozonator.</p>
+<p id="p-0079" num="0078">The purpose of the bimetal material possessing two dissimilar linear coefficients of thermal expansion is for better response to changes in temperature where outer material doubles as an ozone resistant material, preferably nickel plated copper. Since a bimetal material is designed to respond to temperature in a spring-like manner.</p>
+<p id="p-0080" num="0079">The need for the addition of a temperature dependent flow control lies in the fact that while suppressing airflow across an ozonator can and does elevate levels of process ozone, it also elevates air density and temperature. If flow is suppressed for a sufficient period of time, the elevated temperatures can destroy process ozone and thermal expansion of air will increase flow rate while decreasing air density. Thus a means for temporarily increasing airflow is provided to vent excess heat and prevent the destruction of process ozone.</p>
+<p id="p-0081" num="0080">Heat from the ozonated air is transferred to the thin bimetal walled, heli-coiled bellows valve body, promoting linear expansion of same, thus allowing a slightly greater airflow to diffuser until air temperature is again in an optimal range. In this case the auto-valving flow control mechanism resembles the conventional water cooled engine's thermostat with addition of a flow adjustment. Since air is a poor conductor of heat, airflow is made to spiral around the entire helical surface of the bimetal bellows to ensure a maximun, even heat transfer to the metal. The second adjustible orifice or thermostat orifice and seat is located at the base of the valve/bellows. Once first orifice is adjusted for airflow during cold operation, the mechanism is free to respond to changes in temperature for secondarily regulating airflow and air temperature automatically. Device is simple, consists of minimum quantities of readily available inexpensive materials and can be fabricated and sold inexpensively. Device is claimed for use with water dispenser ozone sanitization equipment as an auto-airflow/temperature control optimizer.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0006" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0082" num="0081">For a further understanding of the nature, objects, and advantages of the present invention, reference should be made to the following detailed description, read in conjunction with the following drawings, wherein like reference numerals denote like elements and wherein:</p>
+<p id="p-0083" num="0082"><figref idref="DRAWINGS">FIG. 1</figref> is a sectional elevational view of the preferred embodiment of the apparatus of the present invention;</p>
+<p id="p-0084" num="0083"><figref idref="DRAWINGS">FIG. 2</figref> is a partial perspective exploded view of the preferred embodiment of the apparatus of the present invention illustrating the ozone generator portion thereof;</p>
+<p id="p-0085" num="0084"><figref idref="DRAWINGS">FIG. 3</figref> is a partial sectional elevational view of the preferred embodiment of the apparatus of the present invention illustrating the reservoir, bottle, and ozone diffuser portions thereof;</p>
+<p id="p-0086" num="0085"><figref idref="DRAWINGS">FIG. 4</figref> is a fragmentary view of the preferred embodiment of the apparatus of the present invention illustrating the open reservoir and ozone diffuser;</p>
+<p id="p-0087" num="0086"><figref idref="DRAWINGS">FIG. 5</figref> is a sectional view taken along lines <b>5</b>-<b>5</b> of <figref idref="DRAWINGS">FIG. 4</figref>;</p>
+<p id="p-0088" num="0087"><figref idref="DRAWINGS">FIG. 6</figref> is a fragmentary elevational view illustrating the ozone diffuser and its position in relation to the reservoir;</p>
+<p id="p-0089" num="0088"><figref idref="DRAWINGS">FIG. 7</figref> is a fragmentary view of the preferred embodiment of the apparatus of the present invention illustrating an alternate construction for the diffuser;</p>
+<p id="p-0090" num="0089"><figref idref="DRAWINGS">FIG. 8</figref> is a fragmentary, sectional view of the diffuser of <figref idref="DRAWINGS">FIG. 7</figref> showing the porous body portion thereof;</p>
+<p id="p-0091" num="0090"><figref idref="DRAWINGS">FIG. 9</figref> is a fragmentary, sectional view of the diffuser of <figref idref="DRAWINGS">FIG. 7</figref> prior to a grinding of part of the non-porous surface therefrom;</p>
+<p id="p-0092" num="0091"><figref idref="DRAWINGS">FIG. 10</figref> is a schematic, fragmentary view illustrating the diffuser of <figref idref="DRAWINGS">FIG. 7</figref> during construction;</p>
+<p id="p-0093" num="0092"><figref idref="DRAWINGS">FIG. 11</figref> is a sectional view taken along lines <b>11</b>-<b>11</b> of <figref idref="DRAWINGS">FIG. 7</figref>;</p>
+<p id="p-0094" num="0093"><figref idref="DRAWINGS">FIG. 12</figref> is a sectional view taken along lines <b>12</b>-<b>12</b> of <figref idref="DRAWINGS">FIG. 7</figref>;</p>
+<p id="p-0095" num="0094"><figref idref="DRAWINGS">FIG. 13</figref> is a fragmentary, perspective view illustrating the diffuser of <figref idref="DRAWINGS">FIG. 7</figref>;</p>
+<p id="p-0096" num="0095"><figref idref="DRAWINGS">FIG. 14</figref> is a sectional view taken along lines <b>14</b>-<b>14</b> of <figref idref="DRAWINGS">FIG. 7</figref>;</p>
+<p id="p-0097" num="0096"><figref idref="DRAWINGS">FIG. 15</figref> is a partial perspective view of a second embodiment of the apparatus of the present invention;</p>
+<p id="p-0098" num="0097"><figref idref="DRAWINGS">FIG. 16</figref> is a partial sectional elevation view of the second embodiment of the apparatus of the present invention;</p>
+<p id="p-0099" num="0098"><figref idref="DRAWINGS">FIG. 17</figref> is a partial sectional elevation view of the second embodiment of the apparatus of the present invention showing the spigot and valve in a closed position;</p>
+<p id="p-0100" num="0099"><figref idref="DRAWINGS">FIG. 18</figref> is a partial sectional elevation view of the second embodiment of the apparatus of the present invention showing the spigot and valve in an opened position;</p>
+<p id="p-0101" num="0100"><figref idref="DRAWINGS">FIG. 19</figref> is a partial, cut away, elevation view of the second embodiment of the apparatus of the present invention illustrating the spigot with a flow meter switch;</p>
+<p id="p-0102" num="0101"><figref idref="DRAWINGS">FIG. 20</figref> is a partial perspective view of the second embodiment of the apparatus of the present invention illustrating the spigot of <figref idref="DRAWINGS">FIG. 19</figref>;</p>
+<p id="p-0103" num="0102"><figref idref="DRAWINGS">FIG. 21</figref> is a partially cut away elevation view showing an alternate construction for the spigot that is a part of the second embodiment of the apparatus of the present invention;</p>
+<p id="p-0104" num="0103"><figref idref="DRAWINGS">FIG. 22</figref> is a partially cut away elevation view showing alternate construction for the spigot that is a part of the second embodiment of the apparatus of the present invention;</p>
+<p id="p-0105" num="0104"><figref idref="DRAWINGS">FIG. 23</figref> is a partial perspective view showing the spigot of <figref idref="DRAWINGS">FIG. 22</figref>;</p>
+<p id="p-0106" num="0105"><figref idref="DRAWINGS">FIG. 24</figref> is a partial sectional, elevation view of the second embodiment of the apparatus of the present invention showing an alternate spigot construction;</p>
+<p id="p-0107" num="0106"><figref idref="DRAWINGS">FIG. 25</figref> is a partial sectional, elevation view of the second embodiment of the apparatus of the present invention showing an alternate spigot construction;</p>
+<p id="p-0108" num="0107"><figref idref="DRAWINGS">FIG. 26</figref> is a partial sectional, elevation view of the second embodiment of the apparatus of the present invention showing an alternate spigot construction;</p>
+<p id="p-0109" num="0108"><figref idref="DRAWINGS">FIG. 27</figref> is a partial perspective view of the second embodiment of the apparatus of the present invention;</p>
+<p id="p-0110" num="0109"><figref idref="DRAWINGS">FIG. 28</figref> is a sectional elevation view of the second embodiment of the apparatus of the present invention; and</p>
+<p id="p-0111" num="0110"><figref idref="DRAWINGS">FIG. 29</figref> is another sectional elevation view of the second embodiment of the apparatus of the present invention, used in combination with an air pressure switch;</p>
+<p id="p-0112" num="0111"><figref idref="DRAWINGS">FIG. 30</figref> is a perspective view of an alternate ozone generator construction that can be used with any of the embodiments of <figref idref="DRAWINGS">FIGS. 1-29</figref>;</p>
+<p id="p-0113" num="0112"><figref idref="DRAWINGS">FIG. 31</figref> is a partial perspective view of the ozone generator of <figref idref="DRAWINGS">FIG. 30</figref>;</p>
+<p id="p-0114" num="0113"><figref idref="DRAWINGS">FIG. 32</figref> is a perspective view of the ozone generator of <figref idref="DRAWINGS">FIGS. 30-31</figref>;</p>
+<p id="p-0115" num="0114"><figref idref="DRAWINGS">FIG. 33</figref> is a perspective view of the ozone generator of <figref idref="DRAWINGS">FIGS. 30-32</figref>;</p>
+<p id="p-0116" num="0115"><figref idref="DRAWINGS">FIG. 34</figref> is a sectional view taken along lines <b>34</b>-<b>34</b> of <figref idref="DRAWINGS">FIG. 32</figref>;</p>
+<p id="p-0117" num="0116"><figref idref="DRAWINGS">FIG. 35</figref> is a perspective view of the improved ozone generator of <figref idref="DRAWINGS">FIGS. 30-34</figref>;</p>
+<p id="p-0118" num="0117"><figref idref="DRAWINGS">FIG. 36</figref> is a partial perspective view of a third embodiment of the apparatus of the present invention, showing an improved diffuser;</p>
+<p id="p-0119" num="0118"><figref idref="DRAWINGS">FIG. 37</figref> is a partial perspective view of a third embodiment of the apparatus of the present invention showing an improved diffuser in a rectangular configuration;</p>
+<p id="p-0120" num="0119"><figref idref="DRAWINGS">FIGS. 37A-37C</figref> are top, side and bottom views respectively showing an individual diffuser element used with the diffuser of <figref idref="DRAWINGS">FIGS. 36-37</figref>;</p>
+<p id="p-0121" num="0120"><figref idref="DRAWINGS">FIGS. 37D-37F</figref> are topy, side and bottom views of another configuration for a diffuser element used with the diffuser of <figref idref="DRAWINGS">FIGS. 36-37</figref></p>
+<p id="p-0122" num="0121"><figref idref="DRAWINGS">FIGS. 38-40</figref> are partial perspective views of the third embodiment of the apparatus of the present invention illustrating the improved diffuser and methods of manufacturing same;</p>
+<p id="p-0123" num="0122"><figref idref="DRAWINGS">FIG. 41</figref> is a partial elevation view of a fourth embodiment of the apparatus of the present invention showing an improved diffuser;</p>
+<p id="p-0124" num="0123"><figref idref="DRAWINGS">FIG. 42</figref> is a partial perspective view the diffuser of <figref idref="DRAWINGS">FIG. 41</figref>;</p>
+<p id="p-0125" num="0124"><figref idref="DRAWINGS">FIG. 43</figref> is an exploded elevation view of a fifth embodiment of the apparatus of the present invention illustrating an improved diffuser;</p>
+<p id="p-0126" num="0125"><figref idref="DRAWINGS">FIG. 44</figref> is a sectional view of the diffusers of <figref idref="DRAWINGS">FIG. 44</figref>;</p>
+<p id="p-0127" num="0126"><figref idref="DRAWINGS">FIG. 45</figref> is a perspective view of another diffuse for use with the present invention;</p>
+<p id="p-0128" num="0127"><figref idref="DRAWINGS">FIGS. 43A-45C</figref> show a diffuser that is similar to the diffuser of <figref idref="DRAWINGS">FIGS. 43-45</figref>, and that utilizes a sintered metal sheet that ozone diffuses through during use.</p>
+<p id="p-0129" num="0128"><figref idref="DRAWINGS">FIG. 46</figref> is a sectional view of a sixth embodiment illustrating another diffuser construction and its operation;</p>
+<p id="p-0130" num="0129"><figref idref="DRAWINGS">FIGS. 47A-47C</figref> are schematic views of a seventh embodiment showing another diffuser construction for use with the present invention;</p>
+<p id="p-0131" num="0130"><figref idref="DRAWINGS">FIG. 48</figref> is a schematic illustration of an eighth embodiment and showing another diffuser that includes a fused powder coated construction;</p>
+<p id="p-0132" num="0131"><figref idref="DRAWINGS">FIG. 49</figref> is an elevation view an in line, variable flow flowmeter with air control valve for use with any of the embodiments the present invention;</p>
+<p id="p-0133" num="0132"><figref idref="DRAWINGS">FIG. 50</figref> is an exploded sectional view of the control valve of <figref idref="DRAWINGS">FIG. 49</figref>;</p>
+<p id="p-0134" num="0133"><figref idref="DRAWINGS">FIG. 51</figref> is an exploded sectional view of the control valve of <figref idref="DRAWINGS">FIGS. 49-50</figref>;</p>
+<p id="p-0135" num="0134"><figref idref="DRAWINGS">FIG. 52</figref> is a partial sectional view of a temperature compensated, variable flow rate air control valve for use with any of the embodiments of the present invention, shown in open flow position;</p>
+<p id="p-0136" num="0135"><figref idref="DRAWINGS">FIG. 53</figref> is a partial, sectional view of the control valve of <figref idref="DRAWINGS">FIG. 52</figref>, shown in closed flow position;</p>
+<p id="p-0137" num="0136"><figref idref="DRAWINGS">FIG. 54</figref> is a sectional elevation view of a preferred embodiment of the apparatus of the present invention;</p>
+<p id="p-0138" num="0137"><figref idref="DRAWINGS">FIG. 55</figref> is a sectional view taken along lines <b>55</b>-<b>55</b> of <figref idref="DRAWINGS">FIG. 54</figref>;</p>
+<p id="p-0139" num="0138"><figref idref="DRAWINGS">FIG. 56</figref> is a sectional view taken along lines <b>56</b>-<b>56</b> of <figref idref="DRAWINGS">FIG. 54</figref>;</p>
+<p id="p-0140" num="0139"><figref idref="DRAWINGS">FIG. 57</figref> is a partial perspective view of the alternate embodiment of the apparatus of the present invention;</p>
+<p id="p-0141" num="0140"><figref idref="DRAWINGS">FIG. 58</figref> is a sectional view taken along lines <b>58</b>-<b>58</b> of <figref idref="DRAWINGS">FIG. 54</figref>;</p>
+<p id="p-0142" num="0141"><figref idref="DRAWINGS">FIG. 59</figref> is a sectional elevation view of the alternate embodiment of the apparatus of the present invention, and showing an alternate construction for the spigot;</p>
+<p id="p-0143" num="0142"><figref idref="DRAWINGS">FIG. 60</figref> is a sectional view taken along lines <b>60</b>-<b>60</b> of <figref idref="DRAWINGS">FIG. 59</figref>;</p>
+<p id="p-0144" num="0143"><figref idref="DRAWINGS">FIG. 61</figref> is a sectional elevation view of the alternate embodiment of the apparatus of the present invention, showing another construction for the spigot; and</p>
+<p id="p-0145" num="0144"><figref idref="DRAWINGS">FIG. 62</figref> is a sectional elevation view of the alternate embodiment of the apparatus of the present invention, showing another construction for the spigot.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0007" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0146" num="0145"><figref idref="DRAWINGS">FIGS. 1-3</figref> show generally the preferred embodiment of the apparatus of the present invention designated by the numeral <b>10</b> in <figref idref="DRAWINGS">FIG. 1</figref>. Water dispenser <b>10</b> provides an improved apparatus that sanitizes the open reservoir from time to time with ozone. The apparatus <b>10</b> includes a cabinet <b>11</b> having a lower end portion <b>12</b> and an upper end portion <b>13</b>. The upper end portion <b>13</b> carries a cover <b>14</b> having an opening <b>17</b>.</p>
+<p id="p-0147" num="0146">The opening <b>17</b> provides an annular flange <b>15</b> and a gasket <b>16</b> that defines an interface with bottle <b>18</b>. The bottle <b>18</b> is a commercially available bottle that is typically of a several gallon volume (e.g. five gallons) in the United States. The bottle <b>18</b> provides a constricted bottled neck <b>19</b> that is placed inside an open reservoir <b>20</b> as shown in <figref idref="DRAWINGS">FIGS. 1 and 3</figref> during use. The bottle neck <b>19</b> has an opening for communicating with a reservoir <b>20</b> at the interior of the cabinet <b>11</b> that holds the water product to be dispensed and consumed. When the reservoir <b>20</b> is lowered during use, air bubbles enter the bottle <b>18</b> and water replenishes the reservoir <b>20</b> until pressure equalizes.</p>
+<p id="p-0148" num="0147">The reservoir <b>20</b> has an interior <b>21</b> surrounded by reservoir sidewall <b>22</b> and reservoir bottom wall <b>23</b>. The reservoir can be, for example, generally cylindrically shaped and of a stainless steel or plastic material. The reservoir <b>20</b> provides an open top <b>24</b> for communicating with the neck <b>19</b> of bottle <b>18</b>.</p>
+<p id="p-0149" num="0148">During use, reservoir <b>20</b> has a water surface <b>25</b> that fluctuates slightly as water is dispensed and then replenished by bottle <b>18</b>. One or more spigots <b>26</b>, <b>27</b> can be provided for withdrawing water contained in reservoir <b>20</b>. In the embodiment shown in <figref idref="DRAWINGS">FIG. 3</figref>, for example, a left hand spigot <b>26</b> has a flow line <b>35</b> that extends up to and near the surface <b>25</b> of water contained in reservoir <b>20</b>. The spigot <b>26</b> thus removes ambient temperature water from reservoir <b>20</b> that is not in close proximity to the refrigeration or cooling coils <b>28</b>. The spigot <b>27</b> provides a port <b>36</b> for communicating with water contained in reservoir <b>20</b>. Because the refrigeration coils <b>28</b> are positioned at the lower end of reservoir <b>20</b>, the spigot <b>26</b> withdraws cool water. As a practical matter, a water dispenser apparatus <b>10</b> could provide either ambient temperature water, cold water or heated water if, for example, a flow line <b>35</b> were to be provided with a heating element.</p>
+<p id="p-0150" num="0149">For cooling the water at the lower end portion of the reservoir <b>20</b>, a cooling system that includes a compressor <b>29</b> can be provided. The refrigeration system includes flow lines <b>30</b>, <b>31</b> in combination with compressor <b>29</b> to transmit cooling fluid to coils <b>28</b> and then to heat exchanger <b>32</b> as part of a system for cooling water in reservoir <b>20</b>. Power to the apparatus <b>10</b> is provided by electrical lines, including an electrical line <b>33</b> provided with plug <b>34</b>. The plug <b>34</b> can be fitted to controller <b>42</b> having receptacle <b>44</b> and plug <b>43</b> as shown in <figref idref="DRAWINGS">FIG. 2</figref>. In this fashion, electricity can be selectively routed to the compressor <b>29</b> via electrical line <b>33</b> or to the housing <b>40</b> containing ozone generator <b>50</b> using electrical line <b>41</b>. This feature enables the compressor to be deactivated when the ozone generator <b>50</b> is to be used to transmit ozone to reservoir <b>20</b> for cleaning water contained in it and for scrubbing the inside walls of reservoir <b>20</b>.</p>
+<p id="p-0151" num="0150">In <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, the housing <b>40</b> includes an ozone generator <b>50</b> that generates ozone for cleaning water contained in reservoir <b>20</b>. Additionally, the housing <b>40</b> contains a motor drive <b>53</b> and blower <b>54</b> that move air through an ozone generator housing <b>57</b> to diffuser <b>37</b>. Air line <b>38</b> communicates between ozone generator housing <b>57</b> and ozone diffuser <b>37</b>. Fitting <b>39</b> provides a connection for attaching the exit air flow line <b>38</b> to ozone generator <b>57</b> as shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>.</p>
+<p id="p-0152" num="0151">Housing <b>40</b> can be provided with flanges <b>45</b> and openings <b>46</b> for enabling the housing <b>40</b> to be retrofitted to an existing cabinet <b>11</b> by bolting the housing <b>40</b> to the cabinet <b>11</b> as shown in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0153" num="0152">In <figref idref="DRAWINGS">FIG. 2</figref>, housing <b>40</b> includes a lower end portion <b>47</b> and an upper end portion <b>48</b>. The upper end portion <b>48</b> provides an opening <b>49</b> to which ozone generator housing <b>57</b> can be affixed. An ozone generator <b>50</b> is contained within the housing <b>57</b> as shown in <figref idref="DRAWINGS">FIG. 2</figref>. Housing <b>57</b> includes a lower housing section <b>58</b> and an upper housing section <b>59</b>. Flange <b>60</b> of lower housing section <b>58</b> and flange <b>61</b> of upper housing section <b>59</b> each engage gasket <b>62</b> upon assembly.</p>
+<p id="p-0154" num="0153">Bolted connections <b>63</b> can be used for attaching the housing <b>57</b> to housing <b>40</b> at internally threaded openings <b>64</b> on housing <b>40</b> as shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>. During use, the controller <b>42</b> normally deactivates the ozone generator <b>50</b> during normal hours when the users are dispensing water from the apparatus <b>10</b>. Because the ozone used to disinfect reservoir <b>20</b> has a distinctive smell, it is preferable to clean the water contained in reservoir <b>20</b>, to clean the inside walls of reservoir <b>20</b> and the bottle neck <b>19</b>, at a selected time. The controller <b>42</b> could be activated for example during early morning hours (e.g. 3:00 a.m.-4:00 a.m.) and can be a commercially available controller that activates transformer <b>51</b> and motor drive <b>53</b> only after compressor <b>29</b> and the refrigeration system have been deactivated by the controller <b>42</b>. This accomplished by shutting off the flow of electricity to plug <b>34</b> and electric line <b>33</b> that supply electricity to compressor <b>29</b>.</p>
+<p id="p-0155" num="0154">After electricity is disconnected from compressor <b>29</b>, transformer <b>51</b> and motor drive <b>53</b> are activated. The transformer <b>51</b> produces electricity with a very high voltage at ozone generator <b>50</b> for generating ozone within the confines of ozone generator housing <b>57</b>. As this ozone is generated within housing <b>57</b>, air is pumped with air pump <b>54</b> into inlet flow line <b>55</b> and via opening <b>56</b> into the interior of housing <b>57</b>. HEPA filter <b>71</b> removes airborne microorganism before they can enter air pump <b>54</b> and flow line <b>55</b>. This positive flow of air pressure into housing <b>57</b> causes a simultaneous discharge of air through fitting <b>39</b> into air flow line <b>38</b>. The air flow line <b>38</b> then carries air to diffuser <b>37</b> or <b>37</b>A (<figref idref="DRAWINGS">FIGS. 7-14</figref> ) that is contained at the bottom at the side wall of reservoir <b>20</b>. The specific placement of diffuser <b>37</b> or <b>37</b>A and the flow of air therefrom containing ozone is shown more particularly in <figref idref="DRAWINGS">FIGS. 4-14</figref>. In <figref idref="DRAWINGS">FIG. 4</figref>, a top view of the reservoir shows that the diffuser <b>37</b> or <b>37</b>A preferably extends 360 degrees about the periphery of reservoir <b>20</b> and at the sidewall <b>22</b> thereof. This is preferable because ozone bubbles <b>67</b> are used to scrub the side wall <b>22</b> at the inside surface as shown in <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0156" num="0155">The diffuser <b>37</b> or <b>37</b>A can be is supported by a plurality of feet <b>68</b> that extend between the diffuser <b>37</b> or <b>37</b>A and a bottom wall <b>23</b> of reservoir <b>20</b>. Openings <b>69</b> in diffuser <b>37</b> are directed at an angle with respect to the bottom wall <b>23</b> and side wall <b>22</b> of reservoir <b>20</b> as shown in <figref idref="DRAWINGS">FIG. 6</figref>. An angle <b>70</b> of preferably about 45 degrees defines the orientation of openings <b>69</b> with respect to the walls <b>22</b>, <b>23</b>. This configuration of the openings <b>69</b> relative to the walls <b>22</b>, <b>23</b> ensures that bubbles <b>67</b> will be discharged outwardly toward side wall <b>22</b>, to maximize the scrubbing effect at the interior wall <b>22</b> of reservoir <b>20</b>. This scrubbing action using ozone bubbles <b>67</b> cleans the sidewall <b>22</b> and produces a rolling flow of water within reservoir <b>20</b>. The bubbles <b>67</b> will strike the surface <b>25</b> of the reservoir <b>20</b> and flow inwardly. Such a circulation ensures that all of the water within the reservoir <b>20</b> is cleaned. Further, directing the bubbles from diffuser <b>37</b> outwardly toward wall <b>22</b> ensures that none of the bubbles <b>67</b> will enter bottle <b>18</b> via neck <b>19</b> which would cause the device to overflow.</p>
+<p id="p-0157" num="0156"><figref idref="DRAWINGS">FIGS. 7-14</figref> show an alternate construction of the diffuser, wherein the diffuser is designated generally by the numeral <b>37</b>A. Diffuser <b>37</b>A has a porous body <b>72</b> as shown in <figref idref="DRAWINGS">FIG. 8</figref> that begins with a cylindrically shaped hollow cross section. Porous body <b>72</b> can be a food grade porous ceramic material. The porous body <b>72</b> is generally C shaped as shown in <figref idref="DRAWINGS">FIG. 7</figref>, but provides the cross section shown in <figref idref="DRAWINGS">FIG. 11</figref>. <figref idref="DRAWINGS">FIGS. 8</figref>, <b>9</b> and <b>10</b> show the method of construction of the diffuser <b>37</b>A which begins with porous body <b>72</b>. In <figref idref="DRAWINGS">FIG. 8</figref>, porous body <b>72</b> has an inner surface <b>73</b> that surrounds hollow bore <b>75</b> and an outer surface <b>74</b>. In <figref idref="DRAWINGS">FIG. 9</figref>, a non-porous coating (e.g. food grade non-porous epoxy that can e fired) is provided on porous body <b>72</b> to provide an outer coating <b>76</b> that is substantially impervious to the escape of air. In <figref idref="DRAWINGS">FIG. 10</figref>, rotary grinding tool <b>88</b> having rotary shaft <b>89</b> is used to grind away part of the non-porous coating <b>76</b> to provide an exposed face <b>90</b> (see <figref idref="DRAWINGS">FIGS. 10 and 11</figref>).</p>
+<p id="p-0158" num="0157">When air is injected through inlet elbow fitting <b>79</b>, the air enters hollow bore <b>75</b> and then diffuses through porous body <b>72</b>. Coating <b>76</b> prevents the escape of air so that air can only escape through exposed face <b>90</b>. Exposed face <b>90</b> is positioned on the outer portion of C shaped diffuser <b>37</b>A as shown in <figref idref="DRAWINGS">FIGS. 7 and 11</figref>. An enlarged view of this exposed face <b>90</b> is shown in <figref idref="DRAWINGS">FIG. 13</figref> with arrows <b>91</b> indicating the escape of bubbles <b>92</b>.</p>
+<p id="p-0159" num="0158">The inlet elbow fitting <b>79</b> has a body <b>80</b> with two legs <b>81</b>, <b>82</b> extending therefrom. Coupling material <b>83</b> such as food grade epoxy can be used to join the combination of porous body <b>72</b> and its coating <b>76</b> to inlet elbow fitting <b>79</b>. Each of the legs <b>81</b>, <b>82</b> provides an internal hollow flow bore, said bores <b>84</b> and <b>85</b> intersecting at body <b>80</b> so that air flow can proceed from bore <b>84</b> of leg <b>81</b> to bore <b>85</b> of leg <b>82</b>. The leg <b>81</b> can provide external threads <b>86</b> so that it can be connected to an influent air flow line <b>38</b>. Other connectors could be used on leg <b>81</b> such as a stab fitting type connection, clamp connection or the like. Elbow fitting <b>79</b> at leg <b>82</b> can provide similar connective material for forming a connection with porous body <b>72</b> at its inner surface <b>73</b>. This connective structure on leg <b>82</b> can be a stab fitting type connection as shown in <figref idref="DRAWINGS">FIG. 12</figref>, external threads, or like connective structure.</p>
+<p id="p-0160" num="0159">In <figref idref="DRAWINGS">FIG. 7</figref>, the diffuser <b>37</b>A has closed end portion <b>78</b> and end portion <b>79</b> that receives elbow fitting <b>79</b>. Closed end <b>78</b> can be closed by using the same material that constitutes coating <b>76</b> as shown in <figref idref="DRAWINGS">FIG. 14</figref>.</p>
+<p id="p-0161" num="0160"><figref idref="DRAWINGS">FIGS. 15-27</figref> show an alternate and second embodiment of the apparatus of the present invention. The second embodiment provides a manually operable dispensing spigot <b>100</b> with a special switch arrangement that automatically activates an ozone generator such as the generator shown and described with respect to the preferred embodiment of <figref idref="DRAWINGS">FIGS. 1-14</figref>. It should be understood that the alternate embodiment of <figref idref="DRAWINGS">FIGS. 15-18</figref> includes the spigot <b>100</b> as well as a cabinet <b>11</b>, reservoir <b>20</b>, and the various flow lines of the embodiments of <figref idref="DRAWINGS">FIGS. 1-14</figref>. In other words, in the alternate embodiment, spigot <b>100</b> replaces spigots <b>26</b>,<b>27</b> of <figref idref="DRAWINGS">FIGS. 1-14</figref>. The spigot <b>100</b> triggers ozone generation and the transmission of ozone to the water contained within the reservoir. Ozone is also transmitted to a channel that connects the reservoir to the spigot, disinfecting water to be consumed.</p>
+<p id="p-0162" num="0161">In <figref idref="DRAWINGS">FIGS. 15-18</figref>, spigot <b>100</b> includes a spigot housing <b>101</b> to which is attached a handle <b>102</b> that enables a user to activate the handle <b>102</b> during the dispensing of water from the spigot <b>100</b>.</p>
+<p id="p-0163" num="0162">When the user <b>141</b> depresses the handle <b>102</b> to a dispensing, open valve position as shown in <figref idref="DRAWINGS">FIG. 18</figref>, not only is water dispensed into a container that the user is holding, but ozone is generated to sanitize an influent channel or horizontal bore <b>105</b> that communicates with flow outlet <b>107</b>. The dispensing of ozone to horizontal bore <b>105</b> is in a very small concentration that is sufficient to disinfect water being dispensed, but not to generate an undesirable smell or taste.</p>
+<p id="p-0164" num="0163">Spigot <b>100</b> provides housing <b>101</b> that has an annular flange <b>103</b> that can engage the front surface of a cabinet such as the cabinet <b>11</b> that is shown and described with respect to the preferred embodiment of <figref idref="DRAWINGS">FIGS. 1-14</figref>. Flange <b>103</b> acts as a stop for the housing <b>101</b> after it is inserted at threaded portion <b>104</b> through an opening formed in the front surface of the cabinet <b>11</b>. Threaded portion <b>104</b> enables a nut or other fastener to be threadably attached to the externally threaded section <b>104</b> for holding the spigot housing <b>101</b> to an opening in the front of the cabinet <b>11</b>.</p>
+<p id="p-0165" num="0164">Water that is being dispensed from a reservoir of the cabinet <b>11</b> flows through a reservoir or flow channel that connects with horizontal bore <b>105</b>. Vertical bore <b>106</b> extends from horizontal bore <b>105</b> to flow outlet <b>107</b>.</p>
+<p id="p-0166" num="0165">A valve body <b>108</b> is provided for opening and closing the flow outlet <b>107</b> as shown by the drawings in <figref idref="DRAWINGS">FIGS. 17 and 18</figref>. In <figref idref="DRAWINGS">FIG. 17</figref>, the flow outlet is closed. In <figref idref="DRAWINGS">FIG. 18</figref>, the flow outlet <b>107</b> is opened so that water can be dispensed. Valve body <b>108</b> (see <figref idref="DRAWINGS">FIG. 16</figref>) has an annular shoulder <b>109</b> and an operating rod socket <b>110</b>. Operating rod <b>111</b> has an annular flange <b>119</b> that occupies socket <b>110</b> during use as shown in <figref idref="DRAWINGS">FIGS. 17 and 18</figref>. The operating rod <b>111</b> has an annular grove <b>120</b> that is provided in between a lower annular flange <b>119</b> and an upper annular flange <b>118</b>. Basically, the annular shoulder <b>109</b> occupies annular groove <b>120</b> upon assembly.</p>
+<p id="p-0167" num="0166">Return spring <b>112</b> insures that the valve <b>108</b> will always return to a closed position when a user <b>141</b> is not depressing the handle <b>102</b>. Rod <b>111</b> occupies socket <b>113</b> of valve body <b>108</b>. A waterproof seal <b>132</b> is provided at the upper end portion of valve body <b>108</b>. waterproof seal <b>132</b> engages cap <b>114</b> forming a water tight seal therewith.</p>
+<p id="p-0168" num="0167">Internal threads <b>115</b> of cap <b>114</b> engage external threads <b>116</b> on valve housing <b>101</b>. Retainer <b>117</b> is provided for forming an attachment between cap <b>114</b> and dual contact barrel <b>127</b>. A central opening <b>126</b> in cap <b>114</b> allows operating rod <b>111</b> to pass through cap <b>114</b>. Similarly, a vertical, generally cylindrically shaped passageway <b>140</b> is provided on dual contact barrel <b>127</b> enabling operating rod <b>111</b> to pass through it. The upper end portion of operating rod <b>111</b> provides a transverse opening <b>122</b> that can align with the transverse opening <b>121</b> on handle <b>102</b>. A pin <b>123</b> forms a connection between handle <b>102</b> at opening <b>121</b> and operating rod <b>111</b> at opening <b>122</b> as shown in <figref idref="DRAWINGS">FIGS. 16-18</figref>.</p>
+<p id="p-0169" num="0168">Handle <b>102</b> provides a cam surface <b>124</b> that lifts operating rod <b>111</b> when the handle <b>102</b> is pushed downwardly by a user <b>141</b> as illustrated in <figref idref="DRAWINGS">FIG. 107</figref> by arrow <b>142</b>. A metallic collar <b>125</b> is provided at the upper end portion of operating rod <b>111</b> as shown in <figref idref="DRAWINGS">FIG. 16</figref>. The collar <b>125</b> is part of a switch arrangement for activating the ozone generator when the handle <b>102</b> is depressed to the position shown in <figref idref="DRAWINGS">FIG. 18</figref>. The collar <b>125</b> contacts electrical lines <b>130</b>, <b>131</b> of dual contact barrel <b>127</b>. The metallic collar <b>125</b> closes a circuit to activate an ozone generator and blower when it contacts both of the electrical lines <b>130</b>, <b>131</b> as seen in <figref idref="DRAWINGS">FIG. 18</figref>.</p>
+<p id="p-0170" num="0169">A receptacle <b>128</b> on valve housing <b>101</b> receives plug <b>129</b> of dual contact barrel <b>127</b>. Electrical lines <b>138</b>, <b>139</b> on valve body <b>101</b> communicate with socket <b>128</b> and thus plug <b>129</b> as shown in <figref idref="DRAWINGS">FIG. 18</figref>. Electrical lines <b>138</b>, <b>139</b> are connected to the ozone generator and blower that are shown and described with respect to the preferred embodiment of <figref idref="DRAWINGS">FIGS. 1-14</figref>. When the handle <b>102</b> is depressed to the position shown in <figref idref="DRAWINGS">FIG. 18</figref>, the ozone generator and air pump are simultaneously activated so that ozone flows in flow tube <b>136</b> to ozone supply fitting <b>133</b> that is positioned in horizontal bore <b>105</b> of housing <b>101</b>. Alternatively, the ozone generator and air pump can be activated by a timer that is activated when handle <b>102</b> is depressed. The ozone supply fitting <b>133</b> has a bore <b>137</b> and diffuser <b>134</b> that dispensing ozone to water that is contained in the bore <b>105</b>. A barbed connector <b>135</b> can be provided for enabling a connection to be made between tubing <b>136</b> that supplies ozone and fitting <b>133</b>.</p>
+<p id="p-0171" num="0170">In <figref idref="DRAWINGS">FIGS. 19-27</figref>, alternate constructions for the spigot are disclosed, designated by the numeral <b>100</b>A in <figref idref="DRAWINGS">FIGS. 19-20</figref>; <b>100</b>B in <figref idref="DRAWINGS">FIG. 21</figref>; <b>100</b>C in <figref idref="DRAWINGS">FIGS. 22-23</figref>; <b>100</b>D in <figref idref="DRAWINGS">FIG. 24</figref>; <b>100</b>E in <figref idref="DRAWINGS">FIG. 25</figref>; and <b>100</b>F in <figref idref="DRAWINGS">FIGS. 26-27</figref>. Spigot <b>100</b>A in <figref idref="DRAWINGS">FIGS. 19-20</figref> is similar to a commercially available spigot such as spigot <b>26</b> or <b>27</b>. In <figref idref="DRAWINGS">FIG. 19</figref>, spigot <b>100</b>A has a body <b>143</b>, handle <b>144</b> and a flow sensor <b>145</b> that activates the ozone generator and air pump responsive to water flow that is sensed by flow sensor <b>145</b>. Water flow is sensed by flow sensor <b>145</b> when spigot <b>100</b>A is opened by depression of valve handle <b>144</b> and water flows in channel <b>105</b>. Instrumentation line <b>146</b> activates the ozone generator and blower when valve handle <b>144</b> is depressed and flow is sensed. A flow sensor <b>145</b> and its instrumentation line <b>146</b> are commercially available. Such a sensor <b>145</b> and instrumentation <b>146</b> can be used to activate the blower and ozone generator of <figref idref="DRAWINGS">FIGS. 1-14</figref>.</p>
+<p id="p-0172" num="0171">In <figref idref="DRAWINGS">FIG. 21</figref>, spigot <b>100</b>B has magnetic flow sensor with magnet <b>147</b> and sensors <b>170</b>. In <figref idref="DRAWINGS">FIGS. 22</figref>, <b>23</b> spigot <b>100</b>C provides a flow meter that can be an electromagnet type flow sensor with instrumentation lines <b>148</b>, <b>149</b>. In <figref idref="DRAWINGS">FIG. 22</figref>, an electrical supply <b>173</b> powers electromagnet <b>171</b> with flow sensors <b>172</b>. Such an electromagnet flow sensor <b>171</b>, <b>172</b> is available commercially. Instrumentation lines <b>174</b>,<b>175</b> enable the flow sensor <b>171</b>, <b>172</b> to operate the ozone generator and blower of <figref idref="DRAWINGS">FIGS. 1-14</figref>.</p>
+<p id="p-0173" num="0172">In <figref idref="DRAWINGS">FIGS. 24-27</figref> a spigot <b>100</b>D can include a conventional spigot body <b>26</b> provided with an extension tube. In <figref idref="DRAWINGS">FIG. 24</figref>, flow sensor <b>145</b> is mounted to extension tube <b>176</b> having flow bore <b>177</b>. The extension tube <b>177</b> can be glued or threadably connected to a standard, commercially available spigot <b>26</b> or <b>27</b>. Flow line <b>136</b> carrying ozone from the ozone generator of <figref idref="DRAWINGS">FIGS. 1-14</figref> communicates with fitting <b>133</b> mounted directly to the conventional spigot <b>26</b>. Diffuser <b>134</b> dispenses ozone to bore <b>177</b> upstream of spigot <b>26</b>. The spigot apparatus <b>100</b>D of <figref idref="DRAWINGS">FIG. 24</figref> is use to activate the ozone generator and blower of <figref idref="DRAWINGS">FIGS. 1-14</figref> when flow is sensed by flow sensor <b>145</b> and instrumentation line <b>146</b>.</p>
+<p id="p-0174" num="0173">The spigot <b>100</b>E of <figref idref="DRAWINGS">FIG. 25</figref> includes extension tube <b>178</b> with bore <b>179</b>. Electromagnet flow sensor <b>172</b> having electromagnet <b>171</b> powered by electricity via line <b>173</b> is mounted to tube <b>179</b>. Sensor <b>172</b> communicates with and activates the ozone generator and blower of <figref idref="DRAWINGS">FIGS. 1-14</figref> via instrumentation lines <b>174</b>, <b>175</b>. The tube <b>178</b> having bore <b>179</b> can be glued or threadably attached to a standard spigot <b>26</b> (see <figref idref="DRAWINGS">FIG. 25</figref>).</p>
+<p id="p-0175" num="0174">In <figref idref="DRAWINGS">FIGS. 26</figref>, <b>27</b> Spigot <b>100</b>F has tube <b>180</b> with bore <b>181</b>. Both flow sensor <b>145</b> and diffuser <b>134</b> with fitting <b>133</b> are mounted to tube <b>180</b>. Tube <b>180</b> can be glued, threadably attached or otherwise connected to spigot <b>26</b>. Nut <b>182</b> can secure spigot <b>100</b>F to cabinet <b>111</b> and reservoir <b>20</b>.</p>
+<p id="p-0176" num="0175"><figref idref="DRAWINGS">FIG. 28</figref> is a sectional, elevation view of an alternate embodiment of the apparatus of the present invention, designated generally by the numeral <b>10</b>A. In <figref idref="DRAWINGS">FIG. 10A</figref>, ozone is generated for sanitation of water responsive to operation of the spigot. In <figref idref="DRAWINGS">FIG. 10A</figref>, the ozone generator is not shown but is connected to pump P <b>186</b> that is activated using timer <b>185</b>. The ozone generator of the preferred embodiment of <figref idref="DRAWINGS">FIGS. 1-14</figref> could be used in combination with <figref idref="DRAWINGS">FIG. 28</figref>, generating ozone that is pumped using pump <b>186</b> and transmitting that ozone to diffuser <b>37</b> via flow line <b>136</b>. Flow line <b>136</b> can also be transmitted to an extension tube <b>184</b> that is connected to a conventional spigot <b>26</b>. As shown in <figref idref="DRAWINGS">FIG. 28</figref>, the extension tube <b>28</b> can extend between spigot <b>26</b> and reservoir <b>20</b>. In <figref idref="DRAWINGS">FIG. 28</figref>, an inverted bottle type water cooler is shown having a cabinet <b>11</b> with an opening at the top as shown and described with the previous drawings of <figref idref="DRAWINGS">FIGS. 1-14</figref>. An inverted bottle <b>18</b> has a neck <b>19</b> that extends into reservoir <b>20</b>. When the spigot <b>26</b> is activated to dispense water, the water level drops from a first water level <b>89</b> to a lower water level <b>90</b>. This causes the float <b>188</b> to drop and wherein the contact <b>193</b> on the float <b>188</b> closes a circuit with the two electrical lines <b>194</b>, <b>196</b>. When this occurs, the timer activates the pump <b>186</b> and ozone generator for pumping ozone to either or both of diffuser <b>137</b> and extension <b>184</b>. Thus, ozone is generated responsive to inactivation of the spigot <b>26</b> by a user that depresses the handle part of the spigot.</p>
+<p id="p-0177" num="0176">In <figref idref="DRAWINGS">FIG. 29</figref>, an additional embodiment is designated by the numeral <b>10</b>B. In <figref idref="DRAWINGS">FIG. 29</figref>, the upper end <b>13</b> of cabinet <b>11</b> is provided with a timer <b>185</b> and pump <b>186</b>. The pump <b>186</b> pumps ozone that has been generated using an ozone generator as shown and described in <figref idref="DRAWINGS">FIGS. 1-14</figref> or in <figref idref="DRAWINGS">FIGS. 30-34</figref>, <b>36</b>. In <figref idref="DRAWINGS">FIG. 29</figref>, pressure controllers <b>191</b>, <b>192</b> are provided. As the water level drops from level <b>189</b> to level <b>190</b>, either one or both of the sensors <b>191</b>, <b>192</b> can be used to monitor the change in pressure for activating the timer <b>185</b> and pump <b>186</b> via instrumentation lines <b>197</b>, <b>198</b>. As with the embodiment of <figref idref="DRAWINGS">FIG. 28</figref>, the water level drops from level <b>189</b> to level <b>190</b> when the spigot <b>26</b> is operated by depressing the handle. Thus, ozone is generated to reservoir <b>20</b> using diffuser <b>37</b> and/or to extension <b>184</b> using flow line <b>136</b>. In this fashion, ozone is generated responsive to activation of the spigot <b>26</b>.</p>
+<p id="p-0178" num="0177"><figref idref="DRAWINGS">FIGS. 30-35</figref> show an alternate embodiment of the apparatus of the present invention, designated generally by the numeral <b>150</b> in <figref idref="DRAWINGS">FIGS. 30</figref>, <b>31</b>, <b>32</b>, <b>33</b>, <b>35</b>. The ozone generator or ozone discharge tube <b>150</b> of <figref idref="DRAWINGS">FIGS. 30-35</figref> features a dielectric tubing <b>151</b> that can be, for example, a Corning&#xae; or Pyrex&#xae; cylindrically shaped glass tube having a central longitudinal bore <b>152</b>. A pair of foil adhesive layers are applied to the external surface <b>166</b> of the tube <b>151</b>. These layers include foil adhesive tape layer <b>153</b> and foil adhesive layer <b>155</b>. Each of these layers can be in the form of adhesive tape having release liners. In <figref idref="DRAWINGS">FIG. 30</figref>, the foil adhesive tape section <b>153</b> has release liner <b>154</b>. The smaller foil adhesive tape section <b>155</b> has release liner <b>156</b>.</p>
+<p id="p-0179" num="0178">Arrows <b>157</b> in <figref idref="DRAWINGS">FIG. 30</figref> schematically illustrate the application of each of the foil adhesive tape sections <b>153</b>, <b>155</b> to the external surface of tubing <b>151</b>. Electrode <b>158</b> is placed inside of tubing <b>151</b>, occupying a part of bore <b>152</b>. One end portion of electrode <b>158</b> provides a clamp <b>164</b> that attaches to an end of tubing <b>151</b>. An exposed portion <b>165</b> of electrode <b>158</b> is placed on the outer surface <b>156</b> of tubing <b>151</b>. The foil adhesive tape section <b>153</b> is preferably of a size and shape that enables it to communicate with and cover the exposed part <b>165</b> as shown in <figref idref="DRAWINGS">FIGS. 30 and 31</figref>.</p>
+<p id="p-0180" num="0179">In <figref idref="DRAWINGS">FIG. 30</figref>, the exposed part <b>165</b> and foil adhesive tap section <b>155</b> are each of a width &#x201c;D<b>1</b>&#x201d; as shown. The foil adhesive tape section <b>153</b> is spaced from the foil adhesive tape section <b>155</b> and is of a size and shape to encircle the tubing <b>151</b> and to extend a length along the tubing <b>151</b> as seen in <figref idref="DRAWINGS">FIG. 1</figref> that is partially filled with electrode <b>158</b>. Arrows &#x201c;D<b>2</b>&#x201d; in <figref idref="DRAWINGS">FIGS. 30-31</figref> show the width of sheet <b>153</b> and the part of electrode <b>158</b> that aligns with sheet <b>153</b> after placement of electrode <b>158</b> in bore <b>152</b> of tube <b>151</b>. A pair of metallic spring clips <b>159</b> communicate with electrical leads <b>167</b>, <b>168</b> that are mounted upon circuit board <b>169</b>. In this fashion, the circuit board can provide a timing circuitry that is in electrical communication with an ozone power circuit and air blower (pump) for operating discharge tube <b>150</b> via clamps <b>159</b> and leads <b>168</b>. A simple timing circuit activates the ozone generator <b>150</b> pump or air blower for a selected time interval. At about the same time, the blower <b>169</b> can be activated by the timing circuit. The timing circuit shuts off generator <b>150</b> and blower <b>169</b> after they operate for a desired time interval.</p>
+<p id="p-0181" num="0180">A flow conduit <b>160</b> is attached to an end portion of tubing <b>151</b> as shown in <figref idref="DRAWINGS">FIG. 32</figref>. Similarly, a discharge conduit <b>161</b> is mounted to an end portion of tubing <b>151</b> that is opposite the conduit <b>160</b>. Upon assembly, the glass tubing <b>151</b> can be covered and protected by safety cover <b>162</b>. An air pump <b>169</b> can be connected to the conduit <b>160</b> for driving air through the bore <b>152</b> of tubing <b>151</b>. In <figref idref="DRAWINGS">FIG. 34</figref>, the negatively polarity (&#x2212;) foil <b>153</b> acts as a reflector tube to concentrate far UV ozone at the central longitudinal axis of tubing <b>151</b> and next to electrode <b>158</b>, thus increasing output. This differs from prior art arrangements wherein far UV is not reflected and concentrated but dissipates. The ozone generator <b>150</b> can be used in place of ozone generator <b>50</b> of any embodiment of <figref idref="DRAWINGS">FIGS. 1-16</figref> or as the ozone generator for the embodiments shown in <figref idref="DRAWINGS">FIGS. 17-29</figref>.</p>
+<p id="p-0182" num="0181">In <figref idref="DRAWINGS">FIG. 34</figref>, the (&#x2212;) polarity foil electrode reflector tube acts as a cylindrical mirror for concentrating oxygen cleaving range far UV at the central longitudinal axis of tubing <b>151</b> at the (+) polarity electrode <b>158</b>. Far UV, being above the primary heat producing range does not contribute significantly to process air heating. The bulk of the dielectric resistance heating is absorbed by the low mass-high surface area thin radiator material (&#x2212;) polarity external foil electrode and radially transferred to ambient air outside the tube. By this process, the ozone discharge tube runs cool and does not contribute to ozone degradation. This differs from some prior art arrangements of wherein far UV ionizing radiation is not reflected and concentrated by dissipates.</p>
+<p id="p-0183" num="0182"><figref idref="DRAWINGS">FIGS. 36-47</figref> show various constructions of diffuser designs that can be used with any embodiment shown in <figref idref="DRAWINGS">FIGS. 1-35</figref> of the method and apparatus of the present invention.</p>
+<p id="p-0184" num="0183">In <figref idref="DRAWINGS">FIG. 36</figref>, diffuser <b>37</b>B is shown in perspective view. Diffuser <b>37</b>B is shown in a circular pattern, but can also have the rectangular pattern shown in <figref idref="DRAWINGS">FIG. 37</figref>. Diffuser <b>37</b>B shows a silicone tube <b>200</b> that has a hollow bore <b>201</b> for conveying air. Fitting <b>202</b> includes a connector <b>203</b> that enables air to be piped from the ozone generator of any of the embodiments shown in <figref idref="DRAWINGS">FIGS. 1-35</figref> to the bore <b>201</b> of silicone tube <b>200</b>. The silicone tube <b>200</b> has a wall <b>204</b> that surrounds bore <b>201</b>. Wall <b>204</b> has a plurality of openings <b>205</b>, each opening <b>205</b> having a diffuser insert <b>206</b> (see <figref idref="DRAWINGS">FIGS. 37A-37F</figref>). The inserts <b>206</b> are diffuser material such as for example, diffuser stone insert material. Diffusers <b>206</b> can be of food grade sintered metal (e.g., aluminum, stainless sheet). The insert material <b>206</b> can be as selected for any of the inserts <b>205</b> shown in <figref idref="DRAWINGS">FIG. 37A</figref>.</p>
+<p id="p-0185" num="0184"><figref idref="DRAWINGS">FIGS. 38-40</figref> show another diffuser <b>37</b>C in perspective views. For the embodiment shown in <figref idref="DRAWINGS">FIGS. 38-40</figref>, the diffuser <b>37</b>C can include modules <b>213</b> connected with stab fittings <b>214</b> with an additional fitting <b>215</b> connecting modules <b>213</b> together in a circle. Fitting <b>215</b> provides an inlet <b>216</b> for piping that communicates between the ozone generator and the diffuser <b>37</b>C. A blade <b>217</b> in <figref idref="DRAWINGS">FIG. 44</figref> illustrates that any one of the modules <b>213</b> can be cut to a selected length.</p>
+<p id="p-0186" num="0185">Diffuser <b>37</b>C is comprised of modules <b>213</b> connected end to end. A single module <b>213</b> is shown in <figref idref="DRAWINGS">FIGS. 38-29</figref>. Module <b>213</b> can be a two piece molding (<figref idref="DRAWINGS">FIG. 38</figref>) or a one piece molding (<figref idref="DRAWINGS">FIG. 39</figref>). Each module <b>213</b> includes tube <b>207</b> having flow bore <b>212</b>. In <figref idref="DRAWINGS">FIG. 38</figref>, bore <b>212</b> can be formed by providing matching longitudinal slots, each semicircular in traverse cross section that align upon assembly of an upper section <b>210</b> and lower section <b>211</b>. Diffuser sockets <b>209</b> receive inserts <b>206</b> that can be food grade sintered metal, stone, or any of the materials shown in any of the embodiments of figures disclosed herein. Sockets <b>209</b> can be surrounded by cylindrically shaped wall portions <b>208</b>.</p>
+<p id="p-0187" num="0186"><figref idref="DRAWINGS">FIGS. 41-42</figref> show an additional diffuser <b>37</b><i>d</i>. Diffuser <b>37</b><i>d </i>includes an elongated cylindrically shaped tube <b>207</b> having a cylindrical wall <b>219</b> that surrounds hollow bore <b>220</b>. Tube <b>218</b> wall <b>219</b> is provided with a plurality of small diffuser slots <b>221</b> through which ozone can exit the tubal bore <b>220</b>. Barb connector <b>222</b> is a T-shaped fitting that is attached to opposing end portions of tube <b>218</b> to form a circular diffuser as shown in <figref idref="DRAWINGS">FIG. 42</figref>, and leaving one portion of the barb connector <b>222</b> as an inlet opening through which ozone can be transmitted to the fitting <b>222</b>, to bore <b>220</b> and then through diffuser slots <b>221</b> to the surrounding reservoir <b>20</b>.</p>
+<p id="p-0188" num="0187">Another embodiment of a diffuser is shown in <figref idref="DRAWINGS">FIGS. 43-45</figref>, designated generally by the numeral <b>37</b>E. Diffuser <b>37</b>E includes an angular body <b>223</b> having an outwardly facing angular flow channel <b>224</b>. The angular flow channel <b>224</b> is covered with an angular membrane or sheet <b>231</b> that is a thin wall membrane structure that includes a plurality of small slotted openings <b>232</b>, each extending through the angular membrane sheet <b>231</b>. The angular membrane sheet <b>231</b> can be of any selected ozone resistant material such as food grade silicone, EPDM rubber, Viton or the like.</p>
+<p id="p-0189" num="0188">Angular flow channel <b>224</b> is provided with an inlet fitting <b>225</b> through which ozone can be transmitted in the direction of arrow <b>226</b>. Arrows <b>227</b> schematically illustrate the discharge of ozone from flow channel <b>224</b> through slots <b>232</b> of angular sheet <b>231</b> and then to the surrounding reservoir <b>20</b> for ozonating water contained within the reservoir <b>20</b>.</p>
+<p id="p-0190" num="0189">Correspondingly shaped interlocking angular sections can be provided for attaching an upper retainer ring <b>228</b> and a lower retaining ring <b>229</b> to body <b>223</b> and form holding membrane sheet <b>231</b> in position. The upper retaining ring <b>228</b> provides interlocking angular section <b>240</b> that forms an interlocking connection with the angular interlocking section <b>241</b> of body <b>223</b>. Similarly, the interlocking angular section <b>242</b> on body <b>223</b> forms an interlocking connection with the interlocking angular section <b>243</b> of a lower retainer ring <b>229</b>, the assembly of the upper and lower retaining rings <b>228</b>, <b>229</b> with body <b>223</b> being shown in <figref idref="DRAWINGS">FIGS. 44-45</figref>.</p>
+<p id="p-0191" num="0190">The completed diffuser <b>37</b>E has a central opening <b>230</b>. The slotted openings <b>232</b> and angular sheet <b>231</b> face away from central opening <b>230</b> so that ozone exiting slotted openings <b>232</b> can travel in the direction of arrows <b>227</b> for scrubbing the sidewall of a generally cylindrically shaped reservoir, as with the embodiments of <figref idref="DRAWINGS">FIGS. 1-14</figref>. In this fashion, the slotted opening <b>232</b> can be placed very close to the reservoir <b>20</b> sidewall <b>22</b> so that ozone bubbles exiting the openings <b>232</b> can scrub the sidewall <b>22</b> of the reservoir <b>20</b> and sanitize it. In keeping with the teachings of the present invention, the diffuser <b>37</b>E shown in <figref idref="DRAWINGS">FIGS. 43-45</figref> can be square or rectangular in order to more closely fit the shape of a square or rectangular reservoir if desired.</p>
+<p id="p-0192" num="0191">In <figref idref="DRAWINGS">FIGS. 43A</figref>, <b>44</b>A, <b>45</b>A, the diffuser shown is similar to that shown in <figref idref="DRAWINGS">FIGS. 43-45</figref>. The sheet <b>231</b>A is a sintered metal sheet (e.g. sintered titanium) that is ozone resistant. Body <b>223</b>B provides blow channel <b>224</b>A. Fitting <b>225</b>A transmits ozone to channel <b>224</b>A via inlet <b>226</b>A. Upper and lower rings <b>228</b>A, <b>229</b>A hold sheet <b>231</b>A to body <b>223</b>B.</p>
+<p id="p-0193" num="0192">In <figref idref="DRAWINGS">FIG. 46</figref>, another diffuser is shown, indicated by the numeral <b>37</b>F. Diffuser <b>37</b>F is a gas diffusion into water diffuser material configuration. The water surface <b>233</b> above diffuser <b>37</b>F provides a change in pressure water column assist value. Diffuser <b>37</b>F can provide a body <b>234</b> that has a low permeability material coating <b>235</b> with interconnected porisity channel <b>236</b> low permeability capillary channel <b>237</b> interconnects with circumferentially extending channel <b>236</b> as shown in <figref idref="DRAWINGS">FIG. 46</figref>. The pressure differential provided by the water column assist below water surface <b>233</b> and the capillary action of channels <b>237</b> wicks water back into the diffuser sensor <b>238</b>. A higher permeability diffuser stone material <b>239</b> is provided next to open center <b>238</b> and is interconnected with channel <b>244</b>.</p>
+<p id="p-0194" num="0193">Ozone is piped to the open center <b>238</b> from an ozone generator such as those described with respect to <figref idref="DRAWINGS">FIGS. 1-35</figref>. Ozone then travels through the channels <b>244</b> and mixes with water that is wicked via channels <b>236</b>, <b>237</b>, as a result of the change in pressure provided by water surface <b>233</b>. The bubbles <b>245</b> that are emitted have a mixed phase gas and diffused gas water phase.</p>
+<p id="p-0195" num="0194">In <figref idref="DRAWINGS">FIGS. 47A</figref>, <b>47</b>B and <b>47</b>C, a diffuser is provided that is designed generally by the numeral <b>37</b>G. Diffuser <b>37</b>G utilizes a water supply pump <b>250</b> and a gas supply pump <b>251</b>. Flow channel <b>252</b> carries pumped water to communicate with a lower permeability diffuser section <b>253</b>. Pump <b>251</b> pumps ozone gas through channel <b>254</b> to a higher permeability diffuser section <b>255</b>. In <figref idref="DRAWINGS">FIGS. 47B-47C</figref> the lower permeability diffuser section <b>253</b> is shown having a water layer <b>256</b> that lines pores of low permeability diffuser <b>253</b>. In <figref idref="DRAWINGS">FIG. 47C</figref>, diffused gas cold water vapor droplet <b>257</b> passes through the pore of lower permeability diffuser <b>253</b> and emerges as diffused gas plus vapor at <b>258</b>.</p>
+<p id="p-0196" num="0195">In <figref idref="DRAWINGS">FIG. 48</figref>, a diffuser <b>37</b>H is shown that can be in the form of highly permeable, low initial bubble pressure, largely hydrophobic diffuser media <b>260</b>. Particle spacing <b>261</b> is sufficient to allow bubbles to vent without collision or coalesence. A fused powder coating <b>263</b> of largely hydrophylic, or micro-particle material (or nano-particle material) is provided at a pore mouth or orifice <b>262</b> with bound elastic water layer membrane alteration of surface energy, hence surface permeability. This configuration generates a micro fine elastic membrane with low pressure loss through the diffuser <b>37</b>H. Water is continually wicked to the pore surface, keeping it hydrated, generating a fine diameter of venturi orifice at <b>262</b>.</p>
+<p id="p-0197" num="0196"><figref idref="DRAWINGS">FIGS. 49-51</figref> show a variable flow meter with air control valve for metering low volumes of ozonated air. Control valve <b>270</b> in <figref idref="DRAWINGS">FIGS. 49-50</figref> has opposed end portions with barb fittings <b>271</b>, <b>272</b> so that they can be connected to plastic tubing or other slow conveying piping. Barrel <b>273</b> has a flow bore <b>274</b> that holds a ball <b>275</b> fitting <b>276</b> threadably attaches to the top of barrel <b>273</b>. The stab fitting <b>271</b> on fitting <b>276</b> extends to bore <b>274</b> as shown in <figref idref="DRAWINGS">FIGS. 50 and 51</figref>.</p>
+<p id="p-0198" num="0197">Threaded sleeve <b>277</b> attaches to an enlarged lower end portion of <b>278</b> of barrel <b>273</b>. An O ring <b>279</b> can be placed in between flange <b>280</b> of tube <b>277</b> and flange <b>281</b> of stab fitting <b>272</b>. Valving member <b>282</b> includes a flange <b>283</b> with external thread <b>284</b> that engage the internal threads <b>285</b> sleeve <b>277</b>. During use, a user can grip the narrowed knurled surface <b>286</b> of sleeve <b>277</b> and turn it to control the position of valving number <b>282</b> relative to conically shaped seat <b>287</b>, thus regulating the amount of air that flows through the bore <b>274</b>. Ball <b>275</b> provides an indication of flow, as barrel <b>273</b> can be clear and numbered with indicia as shown.</p>
+<p id="p-0199" num="0198">In <figref idref="DRAWINGS">FIGS. 52 and 53</figref>, a temperature compensated variable flow rate air flow control valve <b>300</b> is shown. The control valve <b>300</b> includes a valve body <b>301</b> having an interior <b>302</b>. A flow inlet <b>303</b> and a flow outlet <b>304</b> are provided as shown. A bellows <b>305</b> occupys interior <b>302</b>. As ozonated air flows from inlet <b>303</b> to outlet <b>304</b>, it flows circumferentially about bellows <b>305</b> as shown by arrows <b>306</b> in <figref idref="DRAWINGS">FIG. 52</figref>.</p>
+<p id="p-0200" num="0199">Bellows <b>305</b> has an interior <b>307</b> that reacts to the temperature of gas flowing from inlet <b>303</b> to outlet <b>304</b>. If the flowing gas that follows the path of arrow <b>306</b> is too cold, bellows <b>305</b> retreats in the direction of arrow <b>308</b> so that valve seat <b>309</b> is closed by the conical surface <b>310</b> at the bottom of bellows <b>305</b> as shown in <figref idref="DRAWINGS">FIG. 53</figref> and adjustment knob <b>311</b> can be provided for fine tuning the position of bellows <b>305</b>. Bellows <b>305</b> can be a helicoil plated copper bellows that is highly sensitive to heat transfer, providing an expansion and contraction thermostat material.</p>
+<p id="p-0201" num="0200"><figref idref="DRAWINGS">FIGS. 54-58</figref> show a preferred embodiment of the apparatus of the present invention designated generally by the numeral <b>400</b> in <figref idref="DRAWINGS">FIG. 54</figref>. Water dispenser <b>400</b> has a cabinet <b>401</b> that can be in the form of an inverted bottle water type cabinet. However, the present invention can be used with other types of cabinets, such as for example, cabinets that contain a bottle of water at the lower end portion of the cabinet, or cabinets that connect directly to a water supply, thus eliminating the supply bottle.</p>
+<p id="p-0202" num="0201">Cabinet <b>401</b> has an upper cover portion <b>402</b> that includes an annular flange <b>403</b> surrounding opening <b>405</b>. Gasket <b>404</b> can be used to form a seal between bottle <b>406</b> and cabinet <b>401</b>.</p>
+<p id="p-0203" num="0202">Bottle <b>406</b> has a neck <b>407</b> and an opening <b>408</b> that communicates with reservoir <b>409</b>. Reservoir <b>409</b> includes a bottom <b>410</b> that can be square or circular and side walls <b>411</b>. An outlet <b>412</b> at the bottom <b>410</b> of reservoir <b>409</b> communicates with flow channel <b>413</b>. Flow channel <b>413</b> has a flow bore <b>414</b> for carrying water between reservoir <b>409</b> and spigot <b>415</b>.</p>
+<p id="p-0204" num="0203">In <figref idref="DRAWINGS">FIGS. 55-57</figref>, spigot <b>415</b> provides a valve <b>416</b> that can be gripped and actuated by a user in order to open dispensing outlet opening <b>417</b> so that water flows via opening <b>417</b> into a selected glass, cup or like receptacle. Such a valve <b>416</b> for actuating a spigot <b>415</b> is known in the art.</p>
+<p id="p-0205" num="0204">Spigot flow channel <b>418</b> communicates with bore <b>414</b> of channel <b>413</b>. In addition to spigot flow channel <b>418</b>, there are provided on spigot <b>415</b> a pair of passages that extend through spigot <b>415</b>. These passages include first passage <b>419</b> and second passage <b>420</b>. The first passage <b>419</b> extends to an internally threaded opening <b>427</b>. Opening <b>427</b> receives diffuser stone <b>423</b> that has an opening <b>424</b> through which air can enter opening <b>427</b> and then provide small air bubbles to spigot flow channel <b>418</b> as indicated by arrows <b>435</b> in <figref idref="DRAWINGS">FIG. 55</figref>.</p>
+<p id="p-0206" num="0205">During use, ozone is transmitted via ozone flowline <b>430</b> to fitting <b>428</b> and then to passageway <b>419</b> as indicated by the arrows <b>436</b> in <figref idref="DRAWINGS">FIG. 55</figref>. The ozone that flows in line <b>430</b> and in passage <b>419</b> provides small bubbles of ozone for disinfecting and sanitizing the spigot flow channel <b>418</b> and also the flow bore <b>414</b> of channel <b>413</b>. Since the spigot channel <b>418</b> is near reservoir walls <b>411</b> in most or all cooling water dispensers, it will not contribute to bubbles entering the water bottle and thus dispensing water.</p>
+<p id="p-0207" num="0206">In <figref idref="DRAWINGS">FIGS. 54 and 55</figref>, the bubbles that enter spigot channel <b>418</b> can be shown flowing in the direction of arrows <b>435</b> in the horizontal section of channel <b>413</b> and then to the vertical section of channel <b>413</b> in <figref idref="DRAWINGS">FIG. 54</figref> rising upwardly to outlet <b>412</b> and entering reservoir <b>409</b>. Thus, the same bubbles that are used to sanitize spigot channel <b>418</b> and channel <b>413</b> also enter and assist in sanitizing reservoir <b>409</b>.</p>
+<p id="p-0208" num="0207">Reservoir <b>409</b> is also sanitized using flowline <b>437</b> that extends from ozone generator module <b>432</b> to diffuser <b>434</b> in the direction of arrows <b>439</b> in <figref idref="DRAWINGS">FIG. 54</figref>. The second passage <b>420</b> receives ozone from reservoir <b>409</b>. Ozone flows into ozone flowline <b>431</b> that communicates with fitting <b>429</b> and second passage <b>420</b> as shown in <figref idref="DRAWINGS">FIG. 17</figref>. The ozone flowing in second passage <b>420</b> communicates with spigot dispensing opening <b>417</b> at tangent position <b>421</b>. This produces a spiraling flow of ozone within dispensing opening <b>417</b> as indicated schematically by the spiraling arrow <b>422</b> in <figref idref="DRAWINGS">FIGS. 56 and 57</figref>.</p>
+<p id="p-0209" num="0208">Ozone generator module <b>432</b> can be comprised of an ozone generator <b>438</b> and air blower <b>440</b>. Air flow, schematically indicated by the arrow <b>433</b> can be provided using a blower for pushing the generated ozone into the flowlines <b>430</b>, <b>431</b> and <b>437</b>.</p>
+<p id="p-0210" num="0209">In <figref idref="DRAWINGS">FIGS. 59-62</figref>, additional constructions for the spigot and the channels that communicate with the spigot to sanitize it with ozone are shown. In <figref idref="DRAWINGS">FIG. 20</figref>, reservoir <b>441</b> includes a sidewall <b>443</b> and bottom <b>444</b>. The reservoir <b>441</b> has a single opening <b>442</b> that receives a spigot inlet portion <b>455</b> of spigot <b>450</b>. In <figref idref="DRAWINGS">FIGS. 20 and 21</figref>, ozone is transmitted to both the spigot <b>450</b> and the reservoir <b>441</b> via flowline <b>430</b>. In <figref idref="DRAWINGS">FIGS. 20 and 21</figref> flowline <b>430</b> receives flow directly from blower <b>440</b> and ozone generator <b>438</b> and flowline <b>431</b> is eliminated. Rather, ozone flows through flowline <b>430</b> to flowline <b>446</b>A to diffuser <b>434</b> and to flowline <b>446</b>B to diffuser <b>434</b>A.</p>
+<p id="p-0211" num="0210">Spigot <b>450</b> includes flowline <b>446</b>A,B communicating with fitting <b>445</b> as shown in <figref idref="DRAWINGS">FIG. 20</figref>. Flowline <b>446</b>A,B includes a T-portion as shown in <figref idref="DRAWINGS">FIG. 59</figref> disposed within spigot channel <b>453</b>. Flowline <b>446</b>A,B extends between fitting <b>447</b> and diffuser <b>434</b>A. In this fashion, ozone flows from generator <b>438</b> via flowline <b>430</b> to fitting <b>445</b>, to flowline <b>446</b>A, to fitting <b>447</b>, and then to diffuser <b>434</b>. Additionally, ozone flows from generator <b>438</b> via flowline <b>430</b> to fitting <b>445</b>, to flowline <b>446</b>B, and then to diffuser <b>434</b>A. The only opening that is formed in the walls <b>443</b>, <b>444</b> of reservoir <b>441</b> is the single opening <b>442</b> that receives the spigot inlet portion <b>455</b> as shown in <figref idref="DRAWINGS">FIG. 59</figref>.</p>
+<p id="p-0212" num="0211">In order to operate the spigot <b>450</b>, valve <b>452</b> is provided that opens channel <b>453</b> so that water can flow from reservoir <b>441</b> via channel <b>453</b> to outlet opening <b>451</b>. Arrow <b>448</b> in <figref idref="DRAWINGS">FIG. 59</figref> shows the direction of ozone flow in flowline <b>430</b> during use. Annular flange <b>454</b> of spigot <b>450</b> forms an attachment to cabinet <b>401</b>, being secured in opening <b>442</b> using an interference fit, adhesive, or other suitable connection.</p>
+<p id="p-0213" num="0212">In <figref idref="DRAWINGS">FIGS. 61 and 62</figref>, two additional constructions for a spigot are shown, designated as spigot <b>460</b> in <figref idref="DRAWINGS">FIG. 61</figref> and spigot <b>460</b>A in <figref idref="DRAWINGS">FIG. 62</figref>. Spigot <b>460</b> in <figref idref="DRAWINGS">FIG. 22</figref> has a spigot channel <b>461</b>, annular flange <b>462</b> and a spigot inlet portion <b>464</b>. The spigot <b>460</b> also provides an ozone channel <b>465</b> that communicates with spigot channel <b>461</b>. Valving member <b>467</b> prevents the flow of ozone from flowline <b>430</b> to directly to water inlet opening <b>456</b>. Rather, when ozone is being dispensed into channel <b>461</b>, back pressure causes valving member <b>467</b> to close. The valving member <b>467</b> is pivotally attached to spigot <b>460</b> at pivot <b>468</b>.</p>
+<p id="p-0214" num="0213">The valving member <b>467</b> is normally closed due to gravity and backpressure and opens when water is being dispensed as when valve <b>452</b> is opened. Valving member <b>467</b> can be partially open due to bouyancy. However, it will close after ozone begins to flow as shown by arrows <b>466</b>. The spigot <b>460</b> provides the same dispensing portion that includes a valving member <b>452</b> and a valve outlet <b>451</b> as shown in <figref idref="DRAWINGS">FIG. 59</figref>. Those portions have been removed from <figref idref="DRAWINGS">FIG. 61</figref> for purposes of clarity.</p>
+<p id="p-0215" num="0214">In <figref idref="DRAWINGS">FIG. 61</figref>, arrow <b>466</b> shows the flow of ozone from flowline <b>430</b> through fitting <b>463</b> to ozone channel <b>465</b>. The ozone flowing in channel <b>465</b> reaches fitting <b>447</b> that is connected to diffuser <b>434</b>. Ozone flows from flowline <b>430</b> to diffuser <b>434</b> and without the necessity of a second opening in reservoir wall <b>443</b>. Arrow <b>469</b> schematically illustrates the opening and closing of valving member <b>467</b>.</p>
+<p id="p-0216" num="0215">In <figref idref="DRAWINGS">FIG. 62</figref>, another spigot <b>460</b>A is shown. The spigot <b>468</b> is a construction that can be used to modify an existing spigot because the spigot inlet portion <b>464</b>A is a &#x201c;retrofit&#x201d; part. In <figref idref="DRAWINGS">FIG. 62</figref>, the existing spigot on a cooler/dispenser is milled to receive the retrofit spigot inlet portion <b>464</b>A. The spigot inlet portion <b>464</b>A provides water inlet opening <b>471</b> and ozone channel <b>470</b>. The ozone channel <b>470</b> communicates with a fitting <b>473</b> that can be integrally formed with the spigot inlet portion <b>464</b>A. Arrow <b>472</b> in <figref idref="DRAWINGS">FIG. 62</figref> shows the path of water being dispensed when the valve <b>452</b> is opened and water flows from reservoir <b>441</b> to water inlet opening <b>471</b> and to spigot channel <b>461</b>. When water is not being dispensed and ozone is to be transmitted via flowline <b>430</b>, the valving member <b>467</b> closes because of gravity and back pressure. Ozone enters the channel <b>461</b> and also the ozone channel <b>470</b>.</p>
+<p id="p-0217" num="0216">The following table lists the parts numbers and parts descriptions as used herein and in the drawings attached hereto.</p>
+<p id="p-0218" num="0217">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>PARTS LIST</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="105pt" align="center"/>
+<colspec colname="2" colwidth="112pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>Part Number</entry>
+<entry>Description</entry>
+</row>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>&#x2002;10</entry>
+<entry>water dispenser</entry>
+</row>
+<row>
+<entry><sup>&#x2002;&#x2009;&#x2009;</sup>&#x2002;10A</entry>
+<entry>water dispenser</entry>
+</row>
+<row>
+<entry><sup>&#x2002;</sup>&#x2009;&#x2002;10B</entry>
+<entry>water dispenser</entry>
+</row>
+<row>
+<entry><sup>&#x2002;</sup>&#x2009;&#x2002;10C</entry>
+<entry>water dispenser</entry>
+</row>
+<row>
+<entry>&#x2002;11</entry>
+<entry>cabinet</entry>
+</row>
+<row>
+<entry>&#x2002;12</entry>
+<entry>lower end</entry>
+</row>
+<row>
+<entry>&#x2002;13</entry>
+<entry>upper end</entry>
+</row>
+<row>
+<entry>&#x2002;14</entry>
+<entry>cover</entry>
+</row>
+<row>
+<entry>&#x2002;15</entry>
+<entry>annular flange</entry>
+</row>
+<row>
+<entry>&#x2002;16</entry>
+<entry>gasket</entry>
+</row>
+<row>
+<entry>&#x2002;17</entry>
+<entry>opening</entry>
+</row>
+<row>
+<entry>&#x2002;18</entry>
+<entry>bottle</entry>
+</row>
+<row>
+<entry>&#x2002;19</entry>
+<entry>bottle neck</entry>
+</row>
+<row>
+<entry>&#x2002;20</entry>
+<entry>reservoir</entry>
+</row>
+<row>
+<entry>&#x2002;21</entry>
+<entry>interior</entry>
+</row>
+<row>
+<entry>&#x2002;22</entry>
+<entry>reservoir side wall</entry>
+</row>
+<row>
+<entry>&#x2002;23</entry>
+<entry>reservoir bottom wall</entry>
+</row>
+<row>
+<entry>&#x2002;24</entry>
+<entry>open top</entry>
+</row>
+<row>
+<entry>&#x2002;25</entry>
+<entry>water surface</entry>
+</row>
+<row>
+<entry>&#x2002;26</entry>
+<entry>spigot</entry>
+</row>
+<row>
+<entry>&#x2002;27</entry>
+<entry>spigot</entry>
+</row>
+<row>
+<entry>&#x2002;28</entry>
+<entry>refrigeration coil</entry>
+</row>
+<row>
+<entry>&#x2002;29</entry>
+<entry>compressor</entry>
+</row>
+<row>
+<entry>&#x2002;30</entry>
+<entry>flow line</entry>
+</row>
+<row>
+<entry>&#x2002;31</entry>
+<entry>flow line</entry>
+</row>
+<row>
+<entry>&#x2002;32</entry>
+<entry>heat exchanger</entry>
+</row>
+<row>
+<entry>&#x2002;33</entry>
+<entry>electrical line</entry>
+</row>
+<row>
+<entry>&#x2002;34</entry>
+<entry>plug</entry>
+</row>
+<row>
+<entry>&#x2002;35</entry>
+<entry>flow line</entry>
+</row>
+<row>
+<entry>&#x2002;36</entry>
+<entry>outlet port</entry>
+</row>
+<row>
+<entry>&#x2002;37</entry>
+<entry>diffuser</entry>
+</row>
+<row>
+<entry><sup>&#x2002;&#x2009;&#x2009;</sup>&#x2002;37A</entry>
+<entry>diffuser</entry>
+</row>
+<row>
+<entry><sup>&#x2002;</sup>&#x2009;&#x2002;37B</entry>
+<entry>diffuser</entry>
+</row>
+<row>
+<entry><sup>&#x2002;</sup>&#x2009;&#x2002;37C</entry>
+<entry>diffuser</entry>
+</row>
+<row>
+<entry><sup>&#x2002;&#x2009;&#x2009;</sup>&#x2002;37D</entry>
+<entry>diffuser</entry>
+</row>
+<row>
+<entry><sup>&#x2009;&#x2009;</sup>&#x2009;&#x2002;37E</entry>
+<entry>diffuser</entry>
+</row>
+<row>
+<entry>&#x2009;&#x2009;&#x2002;37F</entry>
+<entry>diffuser</entry>
+</row>
+<row>
+<entry>&#x2002;38</entry>
+<entry>air line</entry>
+</row>
+<row>
+<entry>&#x2002;39</entry>
+<entry>fitting</entry>
+</row>
+<row>
+<entry>&#x2002;40</entry>
+<entry>housing</entry>
+</row>
+<row>
+<entry>&#x2002;41</entry>
+<entry>electrical line</entry>
+</row>
+<row>
+<entry>&#x2002;42</entry>
+<entry>controller</entry>
+</row>
+<row>
+<entry>&#x2002;43</entry>
+<entry>plug</entry>
+</row>
+<row>
+<entry>&#x2002;44</entry>
+<entry>receptacle</entry>
+</row>
+<row>
+<entry>&#x2002;45</entry>
+<entry>flange</entry>
+</row>
+<row>
+<entry>&#x2002;46</entry>
+<entry>opening</entry>
+</row>
+<row>
+<entry>&#x2002;47</entry>
+<entry>lower end</entry>
+</row>
+<row>
+<entry>&#x2002;48</entry>
+<entry>upper end</entry>
+</row>
+<row>
+<entry>&#x2002;49</entry>
+<entry>opening</entry>
+</row>
+<row>
+<entry>&#x2002;50</entry>
+<entry>ozone generator</entry>
+</row>
+<row>
+<entry>&#x2002;51</entry>
+<entry>transformer</entry>
+</row>
+<row>
+<entry>&#x2002;52</entry>
+<entry>electrical line</entry>
+</row>
+<row>
+<entry>&#x2002;53</entry>
+<entry>motor</entry>
+</row>
+<row>
+<entry>&#x2002;54</entry>
+<entry>blower</entry>
+</row>
+<row>
+<entry>&#x2002;55</entry>
+<entry>air line</entry>
+</row>
+<row>
+<entry>&#x2002;56</entry>
+<entry>air inlet</entry>
+</row>
+<row>
+<entry>&#x2002;57</entry>
+<entry>ozone generator housing</entry>
+</row>
+<row>
+<entry>&#x2002;58</entry>
+<entry>lower housing section</entry>
+</row>
+<row>
+<entry>&#x2002;59</entry>
+<entry>upper housing section</entry>
+</row>
+<row>
+<entry>&#x2002;60</entry>
+<entry>flange</entry>
+</row>
+<row>
+<entry>&#x2002;61</entry>
+<entry>flange</entry>
+</row>
+<row>
+<entry>&#x2002;62</entry>
+<entry>gasket</entry>
+</row>
+<row>
+<entry>&#x2002;63</entry>
+<entry>bolted connection</entry>
+</row>
+<row>
+<entry>&#x2002;64</entry>
+<entry>internally threaded opening</entry>
+</row>
+<row>
+<entry>&#x2002;65</entry>
+<entry>arrow</entry>
+</row>
+<row>
+<entry>&#x2002;66</entry>
+<entry>arrow</entry>
+</row>
+<row>
+<entry>&#x2002;67</entry>
+<entry>bubble</entry>
+</row>
+<row>
+<entry>&#x2002;68</entry>
+<entry>foot</entry>
+</row>
+<row>
+<entry>&#x2002;69</entry>
+<entry>opening</entry>
+</row>
+<row>
+<entry>&#x2002;70</entry>
+<entry>angle</entry>
+</row>
+<row>
+<entry>&#x2002;71</entry>
+<entry>filter</entry>
+</row>
+<row>
+<entry>&#x2002;72</entry>
+<entry>porous body</entry>
+</row>
+<row>
+<entry>&#x2002;73</entry>
+<entry>inner surface</entry>
+</row>
+<row>
+<entry>&#x2002;74</entry>
+<entry>outer surface</entry>
+</row>
+<row>
+<entry>&#x2002;75</entry>
+<entry>hollow bore</entry>
+</row>
+<row>
+<entry>&#x2002;76</entry>
+<entry>non-porous coating</entry>
+</row>
+<row>
+<entry>&#x2002;77</entry>
+<entry>end portion</entry>
+</row>
+<row>
+<entry>&#x2002;78</entry>
+<entry>end portion</entry>
+</row>
+<row>
+<entry>&#x2002;79</entry>
+<entry>elbow fitting</entry>
+</row>
+<row>
+<entry>&#x2002;80</entry>
+<entry>body</entry>
+</row>
+<row>
+<entry>&#x2002;81</entry>
+<entry>leg</entry>
+</row>
+<row>
+<entry>&#x2002;82</entry>
+<entry>leg</entry>
+</row>
+<row>
+<entry>&#x2002;83</entry>
+<entry>coupling material</entry>
+</row>
+<row>
+<entry>&#x2002;84</entry>
+<entry>bore</entry>
+</row>
+<row>
+<entry>&#x2002;85</entry>
+<entry>bore</entry>
+</row>
+<row>
+<entry>&#x2002;86</entry>
+<entry>external threads</entry>
+</row>
+<row>
+<entry>&#x2002;87</entry>
+<entry>stab fitting</entry>
+</row>
+<row>
+<entry>&#x2002;88</entry>
+<entry>grinding tool</entry>
+</row>
+<row>
+<entry>&#x2002;89</entry>
+<entry>shaft</entry>
+</row>
+<row>
+<entry>&#x2002;90</entry>
+<entry>exposed face</entry>
+</row>
+<row>
+<entry>&#x2002;91</entry>
+<entry>arrow</entry>
+</row>
+<row>
+<entry>&#x2002;92</entry>
+<entry>bubble</entry>
+</row>
+<row>
+<entry>100</entry>
+<entry>spigot</entry>
+</row>
+<row>
+<entry><sup>&#x2002;&#x2009;&#x2009;</sup>100A</entry>
+<entry>spigot</entry>
+</row>
+<row>
+<entry><sup>&#x2002;</sup>&#x2009;100B</entry>
+<entry>spigot</entry>
+</row>
+<row>
+<entry><sup>&#x2002;</sup>&#x2009;100C</entry>
+<entry>spigot</entry>
+</row>
+<row>
+<entry><sup>&#x2002;&#x2009;&#x2009;</sup>100D</entry>
+<entry>spigot</entry>
+</row>
+<row>
+<entry><sup>&#x2009;&#x2009;</sup>&#x2009;100E</entry>
+<entry>spigot</entry>
+</row>
+<row>
+<entry>&#x2009;&#x2009;100F</entry>
+<entry>spigot</entry>
+</row>
+<row>
+<entry>101</entry>
+<entry>spigot housing</entry>
+</row>
+<row>
+<entry>102</entry>
+<entry>handle</entry>
+</row>
+<row>
+<entry>103</entry>
+<entry>annular flange</entry>
+</row>
+<row>
+<entry>104</entry>
+<entry>threads</entry>
+</row>
+<row>
+<entry>105</entry>
+<entry>horizontal bore</entry>
+</row>
+<row>
+<entry>106</entry>
+<entry>vertical bore</entry>
+</row>
+<row>
+<entry>107</entry>
+<entry>flow outlet</entry>
+</row>
+<row>
+<entry>108</entry>
+<entry>valve body</entry>
+</row>
+<row>
+<entry>109</entry>
+<entry>annular shoulder</entry>
+</row>
+<row>
+<entry>110</entry>
+<entry>operating rod socket</entry>
+</row>
+<row>
+<entry>111</entry>
+<entry>operating rod</entry>
+</row>
+<row>
+<entry>112</entry>
+<entry>return spring</entry>
+</row>
+<row>
+<entry>113</entry>
+<entry>socket</entry>
+</row>
+<row>
+<entry>114</entry>
+<entry>cap</entry>
+</row>
+<row>
+<entry>115</entry>
+<entry>internal threads</entry>
+</row>
+<row>
+<entry>116</entry>
+<entry>external threads</entry>
+</row>
+<row>
+<entry>117</entry>
+<entry>retainer</entry>
+</row>
+<row>
+<entry>118</entry>
+<entry>annular flange</entry>
+</row>
+<row>
+<entry>119</entry>
+<entry>annular flange</entry>
+</row>
+<row>
+<entry>120</entry>
+<entry>annular groove</entry>
+</row>
+<row>
+<entry>121</entry>
+<entry>transverse opening</entry>
+</row>
+<row>
+<entry>122</entry>
+<entry>transverse opening</entry>
+</row>
+<row>
+<entry>123</entry>
+<entry>pin</entry>
+</row>
+<row>
+<entry>124</entry>
+<entry>cam surface</entry>
+</row>
+<row>
+<entry>125</entry>
+<entry>collar</entry>
+</row>
+<row>
+<entry>126</entry>
+<entry>central opening</entry>
+</row>
+<row>
+<entry>127</entry>
+<entry>dual contact barrel</entry>
+</row>
+<row>
+<entry>128</entry>
+<entry>receptacle</entry>
+</row>
+<row>
+<entry>129</entry>
+<entry>plug</entry>
+</row>
+<row>
+<entry>130</entry>
+<entry>electrical line</entry>
+</row>
+<row>
+<entry>131</entry>
+<entry>electrical line</entry>
+</row>
+<row>
+<entry>132</entry>
+<entry>waterproof seal</entry>
+</row>
+<row>
+<entry>133</entry>
+<entry>ozone supply fitting</entry>
+</row>
+<row>
+<entry>134</entry>
+<entry>diffuser</entry>
+</row>
+<row>
+<entry>135</entry>
+<entry>barb connector</entry>
+</row>
+<row>
+<entry>136</entry>
+<entry>flow tube</entry>
+</row>
+<row>
+<entry>137</entry>
+<entry>flow bore</entry>
+</row>
+<row>
+<entry>138</entry>
+<entry>electrical lead</entry>
+</row>
+<row>
+<entry>139</entry>
+<entry>electrical lead</entry>
+</row>
+<row>
+<entry>140</entry>
+<entry>passageway</entry>
+</row>
+<row>
+<entry>141</entry>
+<entry>user</entry>
+</row>
+<row>
+<entry>142</entry>
+<entry>arrow</entry>
+</row>
+<row>
+<entry>143</entry>
+<entry>spigot body</entry>
+</row>
+<row>
+<entry>144</entry>
+<entry>valve handle</entry>
+</row>
+<row>
+<entry>145</entry>
+<entry>flow sensor</entry>
+</row>
+<row>
+<entry>146</entry>
+<entry>instrumentation line</entry>
+</row>
+<row>
+<entry>147</entry>
+<entry>magnetic flow sensor</entry>
+</row>
+<row>
+<entry>148</entry>
+<entry>electrical line</entry>
+</row>
+<row>
+<entry>149</entry>
+<entry>electrical line</entry>
+</row>
+<row>
+<entry>150</entry>
+<entry>ozone discharge tube</entry>
+</row>
+<row>
+<entry>151</entry>
+<entry>dielectric tubing</entry>
+</row>
+<row>
+<entry>152</entry>
+<entry>longitudinal bore</entry>
+</row>
+<row>
+<entry>153</entry>
+<entry>foil adhesive tape section</entry>
+</row>
+<row>
+<entry>154</entry>
+<entry>release liner</entry>
+</row>
+<row>
+<entry>155</entry>
+<entry>foil adhesive tape section</entry>
+</row>
+<row>
+<entry>156</entry>
+<entry>release liner</entry>
+</row>
+<row>
+<entry>157</entry>
+<entry>arrow</entry>
+</row>
+<row>
+<entry>158</entry>
+<entry>electrode</entry>
+</row>
+<row>
+<entry>159</entry>
+<entry>spring clip</entry>
+</row>
+<row>
+<entry>160</entry>
+<entry>conduit</entry>
+</row>
+<row>
+<entry>161</entry>
+<entry>conduit</entry>
+</row>
+<row>
+<entry>162</entry>
+<entry>safety cover</entry>
+</row>
+<row>
+<entry>163</entry>
+<entry>circuit board</entry>
+</row>
+<row>
+<entry>164</entry>
+<entry>clamp</entry>
+</row>
+<row>
+<entry>165</entry>
+<entry>exposed part</entry>
+</row>
+<row>
+<entry>166</entry>
+<entry>outer surface</entry>
+</row>
+<row>
+<entry>167</entry>
+<entry>lead</entry>
+</row>
+<row>
+<entry>168</entry>
+<entry>lead</entry>
+</row>
+<row>
+<entry>169</entry>
+<entry>blower</entry>
+</row>
+<row>
+<entry>170</entry>
+<entry>flow sensor</entry>
+</row>
+<row>
+<entry>171</entry>
+<entry>electromagnet</entry>
+</row>
+<row>
+<entry>172</entry>
+<entry>flow sensor</entry>
+</row>
+<row>
+<entry>173</entry>
+<entry>electrical supply line</entry>
+</row>
+<row>
+<entry>174</entry>
+<entry>instrumentation line</entry>
+</row>
+<row>
+<entry>175</entry>
+<entry>instrumentation line</entry>
+</row>
+<row>
+<entry>176</entry>
+<entry>extension tube</entry>
+</row>
+<row>
+<entry>177</entry>
+<entry>flow bore</entry>
+</row>
+<row>
+<entry>178</entry>
+<entry>extension tube</entry>
+</row>
+<row>
+<entry>179</entry>
+<entry>flow bore</entry>
+</row>
+<row>
+<entry>180</entry>
+<entry>extension tube</entry>
+</row>
+<row>
+<entry>181</entry>
+<entry>flow bore</entry>
+</row>
+<row>
+<entry>182</entry>
+<entry>nut</entry>
+</row>
+<row>
+<entry>183</entry>
+<entry>external threads</entry>
+</row>
+<row>
+<entry>184</entry>
+<entry>extension tube</entry>
+</row>
+<row>
+<entry>185</entry>
+<entry>timer</entry>
+</row>
+<row>
+<entry>186</entry>
+<entry>pump</entry>
+</row>
+<row>
+<entry>187</entry>
+<entry>float valve controller</entry>
+</row>
+<row>
+<entry>188</entry>
+<entry>float</entry>
+</row>
+<row>
+<entry>189</entry>
+<entry>water level</entry>
+</row>
+<row>
+<entry>190</entry>
+<entry>water level</entry>
+</row>
+<row>
+<entry>191</entry>
+<entry>air pressure controller</entry>
+</row>
+<row>
+<entry>192</entry>
+<entry>fluid pressure controller</entry>
+</row>
+<row>
+<entry>193</entry>
+<entry>contact</entry>
+</row>
+<row>
+<entry>194</entry>
+<entry>electrical line</entry>
+</row>
+<row>
+<entry>195</entry>
+<entry>arrow</entry>
+</row>
+<row>
+<entry>196</entry>
+<entry>electrical line</entry>
+</row>
+<row>
+<entry>197</entry>
+<entry>instrumentation line</entry>
+</row>
+<row>
+<entry>198</entry>
+<entry>instrumentation line</entry>
+</row>
+<row>
+<entry>200</entry>
+<entry>silicone tube</entry>
+</row>
+<row>
+<entry>201</entry>
+<entry>bore</entry>
+</row>
+<row>
+<entry>202</entry>
+<entry>fitting</entry>
+</row>
+<row>
+<entry>203</entry>
+<entry>connector</entry>
+</row>
+<row>
+<entry>204</entry>
+<entry>wall</entry>
+</row>
+<row>
+<entry>205</entry>
+<entry>opening</entry>
+</row>
+<row>
+<entry>206</entry>
+<entry>diffuser insert</entry>
+</row>
+<row>
+<entry>207</entry>
+<entry>tube</entry>
+</row>
+<row>
+<entry>208</entry>
+<entry>wall</entry>
+</row>
+<row>
+<entry>209</entry>
+<entry>Socket</entry>
+</row>
+<row>
+<entry>210</entry>
+<entry>top section</entry>
+</row>
+<row>
+<entry>211</entry>
+<entry>bottom section</entry>
+</row>
+<row>
+<entry>212</entry>
+<entry>bore</entry>
+</row>
+<row>
+<entry>213</entry>
+<entry>module</entry>
+</row>
+<row>
+<entry>214</entry>
+<entry>stab fitting</entry>
+</row>
+<row>
+<entry>215</entry>
+<entry>fitting</entry>
+</row>
+<row>
+<entry>216</entry>
+<entry>inlet</entry>
+</row>
+<row>
+<entry>217</entry>
+<entry>blade</entry>
+</row>
+<row>
+<entry>218</entry>
+<entry>tube</entry>
+</row>
+<row>
+<entry>219</entry>
+<entry>wall</entry>
+</row>
+<row>
+<entry>220</entry>
+<entry>bore</entry>
+</row>
+<row>
+<entry>221</entry>
+<entry>slot</entry>
+</row>
+<row>
+<entry>222</entry>
+<entry>connector</entry>
+</row>
+<row>
+<entry>223</entry>
+<entry>annular body</entry>
+</row>
+<row>
+<entry><sup>&#x2002;&#x2009;&#x2009;</sup>223A</entry>
+<entry>body</entry>
+</row>
+<row>
+<entry><sup>&#x2002;</sup>&#x2009;223B</entry>
+<entry>body</entry>
+</row>
+<row>
+<entry>224</entry>
+<entry>annular channel</entry>
+</row>
+<row>
+<entry><sup>&#x2002;&#x2009;&#x2009;</sup>224A</entry>
+<entry>flow channel</entry>
+</row>
+<row>
+<entry>225</entry>
+<entry>inlet fitting</entry>
+</row>
+<row>
+<entry><sup>&#x2002;&#x2009;&#x2009;</sup>225A</entry>
+<entry>fitting</entry>
+</row>
+<row>
+<entry>226</entry>
+<entry>arrow</entry>
+</row>
+<row>
+<entry><sup>&#x2002;&#x2009;&#x2009;</sup>226A</entry>
+<entry>inlet</entry>
+</row>
+<row>
+<entry>227</entry>
+<entry>arrow</entry>
+</row>
+<row>
+<entry>228</entry>
+<entry>upper retainer</entry>
+</row>
+<row>
+<entry><sup>&#x2002;&#x2009;&#x2009;</sup>228A</entry>
+<entry>upper ring</entry>
+</row>
+<row>
+<entry>229</entry>
+<entry>lower retainer</entry>
+</row>
+<row>
+<entry><sup>&#x2002;&#x2009;&#x2009;</sup>229A</entry>
+<entry>lower ring</entry>
+</row>
+<row>
+<entry>230</entry>
+<entry>opening</entry>
+</row>
+<row>
+<entry>231</entry>
+<entry>annular sheet</entry>
+</row>
+<row>
+<entry><sup>&#x2002;&#x2009;&#x2009;</sup>231A</entry>
+<entry>sintered metal sheet</entry>
+</row>
+<row>
+<entry>232</entry>
+<entry>slotted opening</entry>
+</row>
+<row>
+<entry>233</entry>
+<entry>water surface</entry>
+</row>
+<row>
+<entry>234</entry>
+<entry>body</entry>
+</row>
+<row>
+<entry>235</entry>
+<entry>coating</entry>
+</row>
+<row>
+<entry>236</entry>
+<entry>channel</entry>
+</row>
+<row>
+<entry>237</entry>
+<entry>channel</entry>
+</row>
+<row>
+<entry>238</entry>
+<entry>center</entry>
+</row>
+<row>
+<entry>239</entry>
+<entry>diffuser material</entry>
+</row>
+<row>
+<entry>240</entry>
+<entry>interlocking annular section</entry>
+</row>
+<row>
+<entry>241</entry>
+<entry>interlocking annular section</entry>
+</row>
+<row>
+<entry>242</entry>
+<entry>interlocking annular section</entry>
+</row>
+<row>
+<entry>243</entry>
+<entry>interlocking annular section</entry>
+</row>
+<row>
+<entry>244</entry>
+<entry>channel</entry>
+</row>
+<row>
+<entry>245</entry>
+<entry>bubbles</entry>
+</row>
+<row>
+<entry>250</entry>
+<entry>pump</entry>
+</row>
+<row>
+<entry>251</entry>
+<entry>pump</entry>
+</row>
+<row>
+<entry>252</entry>
+<entry>channel</entry>
+</row>
+<row>
+<entry>253</entry>
+<entry>diffuser section</entry>
+</row>
+<row>
+<entry>254</entry>
+<entry>channel</entry>
+</row>
+<row>
+<entry>255</entry>
+<entry>diffuser section</entry>
+</row>
+<row>
+<entry>256</entry>
+<entry>lining</entry>
+</row>
+<row>
+<entry>257</entry>
+<entry>droplet</entry>
+</row>
+<row>
+<entry>258</entry>
+<entry>gas and vapor mixture</entry>
+</row>
+<row>
+<entry>260</entry>
+<entry>media</entry>
+</row>
+<row>
+<entry>261</entry>
+<entry>bubble spacing</entry>
+</row>
+<row>
+<entry>262</entry>
+<entry>orifice</entry>
+</row>
+<row>
+<entry>263</entry>
+<entry>coating</entry>
+</row>
+<row>
+<entry>270</entry>
+<entry>control valve</entry>
+</row>
+<row>
+<entry>271</entry>
+<entry>fitting</entry>
+</row>
+<row>
+<entry>272</entry>
+<entry>fitting</entry>
+</row>
+<row>
+<entry>273</entry>
+<entry>barrel</entry>
+</row>
+<row>
+<entry>274</entry>
+<entry>bore</entry>
+</row>
+<row>
+<entry>275</entry>
+<entry>ball</entry>
+</row>
+<row>
+<entry>276</entry>
+<entry>fitting</entry>
+</row>
+<row>
+<entry>277</entry>
+<entry>enlarged lower end</entry>
+</row>
+<row>
+<entry>278</entry>
+<entry>lower end</entry>
+</row>
+<row>
+<entry>279</entry>
+<entry>O-ring</entry>
+</row>
+<row>
+<entry>280</entry>
+<entry>flange</entry>
+</row>
+<row>
+<entry>281</entry>
+<entry>flange</entry>
+</row>
+<row>
+<entry>282</entry>
+<entry>valve member</entry>
+</row>
+<row>
+<entry>283</entry>
+<entry>flange</entry>
+</row>
+<row>
+<entry>284</entry>
+<entry>threads</entry>
+</row>
+<row>
+<entry>285</entry>
+<entry>internal threads</entry>
+</row>
+<row>
+<entry>286</entry>
+<entry>Knurled surface</entry>
+</row>
+<row>
+<entry>287</entry>
+<entry>valve seat</entry>
+</row>
+<row>
+<entry>300</entry>
+<entry>valve</entry>
+</row>
+<row>
+<entry>301</entry>
+<entry>body</entry>
+</row>
+<row>
+<entry>302</entry>
+<entry>interior</entry>
+</row>
+<row>
+<entry>303</entry>
+<entry>flow inlet</entry>
+</row>
+<row>
+<entry>304</entry>
+<entry>outlet</entry>
+</row>
+<row>
+<entry>305</entry>
+<entry>bellows</entry>
+</row>
+<row>
+<entry>306</entry>
+<entry>arrow</entry>
+</row>
+<row>
+<entry>307</entry>
+<entry>interior</entry>
+</row>
+<row>
+<entry>308</entry>
+<entry>arrow</entry>
+</row>
+<row>
+<entry>309</entry>
+<entry>valve seat</entry>
+</row>
+<row>
+<entry>310</entry>
+<entry>conical surface</entry>
+</row>
+<row>
+<entry>311</entry>
+<entry>knob</entry>
+</row>
+<row>
+<entry>400</entry>
+<entry>water dispenser</entry>
+</row>
+<row>
+<entry>401</entry>
+<entry>cabinet</entry>
+</row>
+<row>
+<entry>402</entry>
+<entry>cover</entry>
+</row>
+<row>
+<entry>403</entry>
+<entry>annular flange</entry>
+</row>
+<row>
+<entry>404</entry>
+<entry>gasket</entry>
+</row>
+<row>
+<entry>405</entry>
+<entry>opening</entry>
+</row>
+<row>
+<entry>406</entry>
+<entry>bottle</entry>
+</row>
+<row>
+<entry>407</entry>
+<entry>neck</entry>
+</row>
+<row>
+<entry>408</entry>
+<entry>opening</entry>
+</row>
+<row>
+<entry>409</entry>
+<entry>reservoir</entry>
+</row>
+<row>
+<entry>410</entry>
+<entry>bottom</entry>
+</row>
+<row>
+<entry>411</entry>
+<entry>wall</entry>
+</row>
+<row>
+<entry>412</entry>
+<entry>outlet</entry>
+</row>
+<row>
+<entry>413</entry>
+<entry>channel</entry>
+</row>
+<row>
+<entry>414</entry>
+<entry>flow bore</entry>
+</row>
+<row>
+<entry>415</entry>
+<entry>spigot</entry>
+</row>
+<row>
+<entry>416</entry>
+<entry>valve</entry>
+</row>
+<row>
+<entry>417</entry>
+<entry>dispensing opening</entry>
+</row>
+<row>
+<entry>418</entry>
+<entry>spigot flow channel</entry>
+</row>
+<row>
+<entry>419</entry>
+<entry>first passage</entry>
+</row>
+<row>
+<entry>420</entry>
+<entry>second passage</entry>
+</row>
+<row>
+<entry>421</entry>
+<entry>tangent position</entry>
+</row>
+<row>
+<entry>422</entry>
+<entry>spiral arrow</entry>
+</row>
+<row>
+<entry>423</entry>
+<entry>diffuser</entry>
+</row>
+<row>
+<entry>424</entry>
+<entry>opening</entry>
+</row>
+<row>
+<entry>425</entry>
+<entry>O-ring</entry>
+</row>
+<row>
+<entry>426</entry>
+<entry>closure cap</entry>
+</row>
+<row>
+<entry>427</entry>
+<entry>internally threaded opening</entry>
+</row>
+<row>
+<entry>428</entry>
+<entry>fitting</entry>
+</row>
+<row>
+<entry>429</entry>
+<entry>fitting</entry>
+</row>
+<row>
+<entry>430</entry>
+<entry>ozone flowline</entry>
+</row>
+<row>
+<entry>431</entry>
+<entry>ozone flowline</entry>
+</row>
+<row>
+<entry>432</entry>
+<entry>ozone generator module</entry>
+</row>
+<row>
+<entry>438</entry>
+<entry>ozone generator</entry>
+</row>
+<row>
+<entry>439</entry>
+<entry>arrow</entry>
+</row>
+<row>
+<entry>440</entry>
+<entry>blower</entry>
+</row>
+<row>
+<entry>441</entry>
+<entry>reservoir</entry>
+</row>
+<row>
+<entry>442</entry>
+<entry>opening</entry>
+</row>
+<row>
+<entry>443</entry>
+<entry>wall</entry>
+</row>
+<row>
+<entry>444</entry>
+<entry>bottom</entry>
+</row>
+<row>
+<entry>445</entry>
+<entry>fitting</entry>
+</row>
+<row>
+<entry>446</entry>
+<entry>flowline</entry>
+</row>
+<row>
+<entry><sup>&#x2002;&#x2009;&#x2009;</sup>446A</entry>
+<entry>flowline portion</entry>
+</row>
+<row>
+<entry><sup>&#x2002;</sup>&#x2009;446B</entry>
+<entry>flowline portion</entry>
+</row>
+<row>
+<entry>447</entry>
+<entry>fitting</entry>
+</row>
+<row>
+<entry>448</entry>
+<entry>arrow</entry>
+</row>
+<row>
+<entry>450</entry>
+<entry>spigot</entry>
+</row>
+<row>
+<entry>451</entry>
+<entry>outlet</entry>
+</row>
+<row>
+<entry>452</entry>
+<entry>valve</entry>
+</row>
+<row>
+<entry>453</entry>
+<entry>spigot channel</entry>
+</row>
+<row>
+<entry>454</entry>
+<entry>annular flange</entry>
+</row>
+<row>
+<entry>455</entry>
+<entry>spigot inlet portion</entry>
+</row>
+<row>
+<entry>456</entry>
+<entry>water inlet opening</entry>
+</row>
+<row>
+<entry>457</entry>
+<entry>arrow</entry>
+</row>
+<row>
+<entry>460</entry>
+<entry>spigot</entry>
+</row>
+<row>
+<entry><sup>&#x2002;&#x2009;&#x2009;</sup>460A</entry>
+<entry>spigot</entry>
+</row>
+<row>
+<entry>461</entry>
+<entry>channel</entry>
+</row>
+<row>
+<entry>462</entry>
+<entry>annular flange</entry>
+</row>
+<row>
+<entry>463</entry>
+<entry>fitting</entry>
+</row>
+<row>
+<entry>464</entry>
+<entry>spigot inlet portion</entry>
+</row>
+<row>
+<entry><sup>&#x2002;&#x2009;&#x2009;</sup>464A</entry>
+<entry>spigot inlet portion</entry>
+</row>
+<row>
+<entry>465</entry>
+<entry>ozone channel</entry>
+</row>
+<row>
+<entry>466</entry>
+<entry>arrow</entry>
+</row>
+<row>
+<entry>467</entry>
+<entry>valving member</entry>
+</row>
+<row>
+<entry>468</entry>
+<entry>pivot</entry>
+</row>
+<row>
+<entry>469</entry>
+<entry>arrow</entry>
+</row>
+<row>
+<entry>470</entry>
+<entry>ozone channel</entry>
+</row>
+<row>
+<entry>471</entry>
+<entry>water inlet opening</entry>
+</row>
+<row>
+<entry>472</entry>
+<entry>arrow</entry>
+</row>
+<row>
+<entry>473</entry>
+<entry>fitting</entry>
+</row>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0219" num="0218">The foregoing embodiments are presented by way of example only; the scope of the present invention is to be limited only by the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A bottled water dispenser, comprising:
+<claim-text>a) a cabinet having upper and lower end portions;</claim-text>
+<claim-text>b) an unpressurized reservoir contained within the cabinet, the reservoir containing water with a water surface;</claim-text>
+<claim-text>c) a diffuser that occupies the reservoir, for emitting bubbles into the reservoir:</claim-text>
+<claim-text>d) one or more spigots on the cabinet for dispensing water from the reservoir;</claim-text>
+<claim-text>e) an ozone generator housing positioned next to the cabinet, said housing having an ozone generator inside the housing;</claim-text>
+<claim-text>f) air flow lines for transmitting air between the ozone generator and the diffuser; and</claim-text>
+<claim-text>g) a pump that pumps air from the housing to the diffuser via the flow lines; and</claim-text>
+<claim-text>h) wherein the pump output is between about 1-10 liters per minute and the diffuser has a median pore size of 10-60 microns.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The bottled water dispenser of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein pump output is between about 1.5-2.0 liters per minute.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The bottled water dispenser of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the pump is a variable airflow motorized diaphragm pump.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The bottled water dispenser of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein at least one of the spigots has ports that receive ozone via a flow line.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The bottled water dispenser of <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein the ports include a port having a diffuser.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The bottled water dispenser of <claim-ref idref="CLM-00005">claim 5</claim-ref> wherein the diffuser is removable.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The bottled water dispenser of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the pump is an electromagnetic pump.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The bottled water dispenser of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the pump has a maximum shut in pressure of about 34 kPa.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The bottled water dispenser of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the pump has an open flow pressure of about 0.7 kPa.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The bottled water dispenser of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the diffuser has a median pore size of about 10-40 microns.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The bottled water dispenser of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the diffuser generates bubbles that have a rise velocity of between about 4.3-15.2 centimeters per second.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The bottled water dispenser of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the diffuser is of a sintered metal material.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A bottled water dispenser, comprising:
+<claim-text>a) a cabinet having upper and lower end portions;</claim-text>
+<claim-text>b) a reservoir contained within the cabinet, the reservoir containing water with a water surface;</claim-text>
+<claim-text>c) a diffuser that occupies the reservoir, for emitting bubbles into the reservoir:</claim-text>
+<claim-text>d) one or more spigots on the cabinet for dispensing water from the reservoir;</claim-text>
+<claim-text>e) an ozone generator housing positioned next to the cabinet, said housing having an ozone generator inside the housing;</claim-text>
+<claim-text>f) air flow lines for transmitting air between the ozone generator and the diffuser; and</claim-text>
+<claim-text>g) a pump that pumps air from the housing to the diffuser via the flow lines;</claim-text>
+<claim-text>h) wherein the pump output is between about 1-10 liters per minute; and</claim-text>
+<claim-text>i) wherein the diffuser is of a material that has pores and pore channels and wherein the pore channels have a spacing that prevents bubble stream lateral coalescing over about 10-35% of surface area.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. A bottled water dispenser, comprising:
+<claim-text>a) a cabinet having upper and lower end portions;</claim-text>
+<claim-text>b) a reservoir contained within the cabinet, the reservoir containing water with a water surface;</claim-text>
+<claim-text>c) a diffuser that occupies the reservoir, for emitting bubbles into the reservoir:</claim-text>
+<claim-text>d) one or more spigots on the cabinet for dispensing water from the reservoir;</claim-text>
+<claim-text>e) an ozone generator housing positioned next to the cabinet, said housing having an ozone generator inside the housing;</claim-text>
+<claim-text>f) air flow lines for transmitting air between the ozone generator and the diffuser; and</claim-text>
+<claim-text>g) a pump that pumps air from the housing to the diffuser via the flow lines;</claim-text>
+<claim-text>h) wherein the pump output is between about 1-10 liters per minute; and</claim-text>
+<claim-text>i) wherein the diffuser is of a low pressure diffuser material veneered with high surface energy to water interfacial tension ratios for generating smaller bubbles.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

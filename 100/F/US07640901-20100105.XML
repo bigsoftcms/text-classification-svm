@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640901-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640901</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11712322</doc-number>
+<date>20070228</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2006-054605</doc-number>
+<date>20060301</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>504</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>01</class>
+<subclass>L</subclass>
+<main-group>1</main-group>
+<subgroup>34</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>123 9016</main-classification>
+<further-classification>123 9015</further-classification>
+<further-classification>123348</further-classification>
+</classification-national>
+<invention-title id="d0e71">Intake control apparatus for an engine and method</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5797368</doc-number>
+<kind>A</kind>
+<name>Kreuter et al.</name>
+<date>19980800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6732682</doc-number>
+<kind>B2</kind>
+<name>Aoyama et al.</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>123 48 B</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>JP</country>
+<doc-number>55-087835</doc-number>
+<date>19800700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00004">
+<othercit>Article entitled &#x201c;Combustion and Combustion Chamber for Heat Insulating Engines&#x201d; published in Japanese Society of Mechanical Engineers Lecture Articles, No. 96-1, 1996.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>15</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>123 9015</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123 9016</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123 9017</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123 9018</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123345</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123346</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123347</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123348</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>12340623</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>12340635</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>12340646</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>9</number-of-drawing-sheets>
+<number-of-figures>17</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070204821</doc-number>
+<kind>A1</kind>
+<date>20070906</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Aoyama</last-name>
+<first-name>Shunichi</first-name>
+<address>
+<city>Yokosuka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Takemura</last-name>
+<first-name>Shinichi</first-name>
+<address>
+<city>Yokosuka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hiyoshi</last-name>
+<first-name>Ryosuke</first-name>
+<address>
+<city>Yokosuka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Global IP Counselors, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Nissan Motor Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Yokohama</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Chang</last-name>
+<first-name>Ching</first-name>
+<department>3748</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An engine intake control apparatus for an engine that comprises at least one combustion chamber operatively connected to an intake port and an intake valve associated with each intake port, wherein the intake valve is adapted to open and close the intake port is disclosed herein. The intake control apparatus comprises a variable valve operating mechanism and a controller. The variable valve operating mechanism is configured and arranged to selectively change a valve closing timing and a valve lift amount of the intake valve. The controller is configured and arranged to control the variable valve operating mechanism when the engine is in a low load condition. The valve closing timing is determined such that an actual compression ratio of the engine is reduced relative to the actual compression ratio when the engine is operating in a high load condition. The valve lift amount is smaller when the engine is in the low load condition relative to the valve lift amount when the engine is in the high load condition. A method for controller an engine is also disclosed.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="145.63mm" wi="377.44mm" file="US07640901-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="198.71mm" wi="145.80mm" orientation="landscape" file="US07640901-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="174.33mm" wi="140.72mm" orientation="landscape" file="US07640901-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="180.51mm" wi="128.86mm" orientation="landscape" file="US07640901-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="179.15mm" wi="125.98mm" orientation="landscape" file="US07640901-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="179.66mm" wi="81.28mm" orientation="landscape" file="US07640901-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="208.20mm" wi="104.65mm" orientation="landscape" file="US07640901-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="198.88mm" wi="140.80mm" orientation="landscape" file="US07640901-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="146.64mm" wi="112.10mm" file="US07640901-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="198.20mm" wi="88.05mm" orientation="landscape" file="US07640901-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority from Japanese Patent Application Ser. No. 2006-054605 filed Mar. 1, 2006, the disclosure of which, including its specification, drawings and claims, are incorporated herein by reference in its entirety.</p>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">The present disclosure pertains to an intake control apparatus for an engine equipped with variable valve devices. More specifically, the present disclosure relates to a cooling loss reduction technology for an engine.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">An intake controller is known in which timing for opening intake valves is substantially fixed, and the effective intake stroke is variably regulated by altering the timing for closing the intake valves based on an engine load in an attempt to reduce the pumping loss. Such an intake controller is disclosed in published Japanese Patent Application No. 55-87835.</p>
+<p id="p-0005" num="0004">However, in the intake controller disclosed published Japanese Patent Application No. 55-87835, because the timing for closing the intake valves comes significantly ahead of bottom dead center BDC in the intake stroke, the intake air in the cylinders expands adiabatically to bottom dead center BDC despite the suction stroke, so that the temperature inside the cylinders also drops as the pressure inside the cylinders drops. Although the compression stroke begins once bottom dead center BDC is passed, because almost nothing but adiabatic expansion and compression are present until the in-cylinder pressure at which the adiabatic expansion began is reached, that is, the in-cylinder pressure has merely been restored; the actual compression begins from the point at which the in-cylinder pressure is restored. Thus, the actual compression ratio drops significantly as the timing for closing the intake valves comes further ahead of bottom dead center BDC. Because this drop in the actual compression ratio results in a significant drop in the temperature of the air-fuel mixture inside the cylinders at compression top dead center TDC, the combustion rate drops due to the deteriorated combustion state. According, fuel economy is adversely impacted.</p>
+<p id="p-0006" num="0005">Also, when the timing for closing the intake valves is advanced in an engine equipped with a variable valve operating mechanism, it is feasible to improve the thermal efficiency of the engine by adhering a heat insulating material on the wall surfaces of the combustion chambers, partially or entirely, to prevent the pumping loss reduction effect from being lost. However, because the heat transfer rate increases when heat insulating materials, such as ceramic material, are used, at a high temperature generated at high engine load, the temperature of the intake air inside the combustion chambers increases so that undesirable knocking occurs. In addition, intake air filling efficiency at high load is also essential in that the volume of air is decreased to the extent that the temperature of the intake air increases, and a tradeoff occurs, resulting in a drop in torque</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0007" num="0006">An engine intake control apparatus for an engine that comprises at least one combustion chamber operatively connected to an intake port and an intake valve associated with each intake port, wherein the intake valve is adapted to open and close the intake port is disclosed herein. The intake control apparatus comprises a variable valve operating mechanism and a controller. The variable valve operating mechanism is configured and arranged to selectively change a valve closing timing and a valve lift amount of the intake valve. The controller is configured and arranged to control the variable valve operating mechanism when the engine is in a low load condition. The valve closing timing is determined such that an actual compression ratio of the engine is reduced relative to the actual compression ratio when the engine is operating in a high load condition. The valve lift amount is smaller when the engine is in the low load condition relative to the valve lift amount when the engine is in the high load condition. A method for controller an engine is also disclosed.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0008" num="0007">Other features and advantages of the present disclosure will be apparent from the ensuing description, taken in conjunction with the accompanying drawings, in which:</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic perspective view of a variable valve operating mechanism.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIGS. 2A-2B</figref> are schematic cross-sectional views illustrating the operation of the variable valve operating mechanism of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 3</figref> is a chart illustrating the valve lifting characteristics of intake valves.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIGS. 4A</figref> is a PV (in-cylinder gas pressure/cylinder volume) diagram illustrating the drop in the actual compression ratio associated with the reduction of pumping loss by regulating valve closing timing, and its effects.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIGS. 4B and 4C</figref> illustrate different valve closing times.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 5A</figref> is a partial cross section view of a prior art piston.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 5B</figref> is a partial cross section view of an adiathermic piston.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIGS. 6A-6B</figref> are schematic perspective views of an engine illustrating cooling loss recovery through intake control using a variable valve operating mechanism.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 7A-7C</figref> are schematic cross sectional views of an engine illustrating cooling loss recovery through intake control using a variable valve operating mechanism.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 8</figref> is a flow chart explaining opening/closing control of intake valves using a variable valve operating mechanism.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 9A</figref> is a schematic perspective view of a prior art piston.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 9B</figref> is a schematic perspective view of a piston according to a second embodiment wherein a portion of a cylinder liner in a second embodiment is cut away.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0021" num="0020">While the claims are not limited to the illustrated embodiments, an appreciation of various aspects of the apparatus is best gained through a discussion of various examples thereof. Referring now to the drawings, illustrative embodiments are shown in detail. Although the drawings represent the embodiments, the drawings are not necessarily to scale and certain features may be exaggerated to better illustrate and explain an innovative aspect of an embodiment. Further, the embodiments described herein are not intended to be exhaustive or otherwise limiting or restricting to the precise form and configuration shown in the drawings and disclosed in the following detailed description. Exemplary embodiments of the present invention are described in detail by referring to the drawings as follows.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of a configuration of a variable valve operating mechanism that serves as an engine intake control device according to a first embodiment. More specifically, <figref idref="DRAWINGS">FIG. 3</figref> is a perspective schematic view of the variable valve operating mechanism that includes a variable lift mechanism <b>21</b> and a variable phase mechanism <b>41</b>. The variable lift mechanism <b>21</b> can selectively lift intake valves with the variable phase mechanism <b>41</b> (variable timing mechanism for intake valve closing) that may change the phase (phase with respect to the crankshaft) of a crank angular position at which maximum lift of the intake valves is attained to either an advancing side or delaying side. (This crank angular position of the intake valves will hereafter be referred to as the &#x201c;intake valve lift center angle.&#x201d;)</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIGS. 2A and 2B</figref> are schematic cross sectional views of variable lift mechanism <b>21</b>. <figref idref="DRAWINGS">FIG. 2A</figref> shows a maximum and minimum rocking position of a rocking cam <b>29</b>, to be described later, at a zero lift position of an intake valve <b>31</b>. <figref idref="DRAWINGS">FIG. 2B</figref> shows the maximum rocking and minimum rocking position of rocking cam <b>29</b>, to be described later, at a full lift position of the intake valve. As used herein, zero lift of the intake valve means that intake valve <b>31</b> is not lifted at all (that is, the lift of the intake valve is zero), and full lift of the intake valve means that intake valve <b>31</b> is fully lifted.</p>
+<p id="p-0024" num="0023">The variable valve operating mechanism <b>21</b> similar to that illustrated in <figref idref="DRAWINGS">FIGS. 2A and 2B</figref> was previously proposed in published Japanese Patent Application Nos. 2001-051422 and 11-107725, both of which are commonly owned by Nissan Motor Ltd, the owner of the present application and the details of which are incorporated herein by reference in their entireties. A brief overview of the variable valve operating mechanism <b>21</b> will now be described.</p>
+<p id="p-0025" num="0024">First, variable lift mechanism <b>21</b> will be explained. Variable lift mechanism <b>21</b> is equipped with intake valves <b>31</b>, a driving shaft <b>22</b>, a first eccentric cam <b>23</b>, a control shaft <b>32</b>, a rocker arm <b>26</b> and rocking cams <b>29</b>. The intake valves <b>31</b> connect to a cylinder head (not shown) in a freely slidable fashion. The driving shaft <b>22</b> is supported in a freely rotatable fashion on cam brackets (not shown) provided at a top of the cylinder head. The eccentric cam <b>23</b> is fixed to the driving shaft <b>22</b> by press fitting. The control shaft <b>32</b> is provided parallel to the driving shaft <b>22</b> while supported in a freely rotatable fashion above said driving shaft <b>22</b> using the same cam brackets that support the driving shaft <b>22</b>. The rocker arm <b>26</b> is supported in a freely rockable fashion by a second eccentric cam <b>38</b> that is connected to the control shaft <b>32</b>. The rocking cams <b>29</b> make contact with valve lifters <b>30</b> provided on a top of the intake valves <b>31</b>. The eccentric cam <b>23</b> and rocker arm <b>26</b> are linked together by a linking arm <b>24</b>. The rocker arm <b>26</b> and rocking cams <b>29</b> are linked together by linking member <b>28</b>.</p>
+<p id="p-0026" num="0025">In <figref idref="DRAWINGS">FIG. 1</figref>, only one cylinder portion of a multi-cylinder internal combustion engine that is equipped with two (2) intake valves per cylinder is represented. Therefore, two (2) intake valves <b>31</b>, valve lifters <b>30</b>, and rocking cams <b>29</b> are illustrated.</p>
+<p id="p-0027" num="0026">As will be described in greater detail below, the driving shaft <b>22</b> is driven via a timing chain or a timing belt by a crankshaft of the engine, as is conventional in the art.</p>
+<p id="p-0028" num="0027">The first eccentric cam <b>23</b> has a generally cylindrical outer peripheral surface and defines and axis extending therethrough. The axis of the first eccentric cam <b>23</b> is offset from an axial center of the driving shaft <b>22</b> by a predetermined amount. A substantially annular portion of the linking arm <b>24</b> is rotatably fitted onto the cylindrical outer surface of the first eccentric cam <b>23</b>.</p>
+<p id="p-0029" num="0028">The rocker arm <b>26</b> is slidably supported generally at its center by the second eccentric cam <b>38</b>. The arm portion of the linking arm <b>24</b> is linked at a first end of the rocker arm <b>26</b> (the right end in the diagram on the left side of <figref idref="DRAWINGS">FIG. 2A</figref>) using a linking pin <b>25</b>. A top part of the linking member <b>28</b> is linked to a second end of the rocker arm <b>26</b> (the left end in the figure on the left side of <figref idref="DRAWINGS">FIG. 2A</figref>) using a linking pin <b>27</b>. The second eccentric cam part <b>38</b> defines an axis extending therethrough. The axis of the second eccentric cam part <b>38</b> is offset from an axial center of control shaft <b>32</b>. Thus, the rocking center of the rocker arm <b>26</b> may be changed by varying the angular position of the control shaft <b>32</b>.</p>
+<p id="p-0030" num="0029">Rocking cams <b>29</b> are fitted and supported around the circumference of driving shaft <b>22</b> such that rocking cams <b>29</b> are free to rotate. A bottom portion of the linking member <b>28</b> is mechanically linked to a portion of a rocking cam <b>29</b> using a linking pin <b>37</b>. The rocking cams <b>29</b> include an arc-shaped base surface, which forms an arc that is concentric to driving shaft <b>22</b>, and a cam surface, which extends from said arc-shaped base surface such that it forms a predetermined shaped curve. The base surface and cam surface of the rocking cams <b>29</b> are formed continuously on the bottom surface of the rocking cams <b>29</b>. The arc-shaped base surfaces and the cam surfaces are designed to be brought into abutting contact with a designated position of the top surfaces of the valve lifters <b>30</b>, depending on the angular position of the rocking cams <b>29</b>. That is, the arc-shaped base surfaces comprise base circle zones where the amount of lift of the intake valves <b>31</b> (and the operating angle of the intake valves) becomes zero and the intake valves <b>31</b> are moved downward when the cam surfaces make contact with the valve lifters <b>30</b> as the rocking cams <b>29</b> rock. Furthermore, small ramp zones are formed between the base circle zones and the lift zones.</p>
+<p id="p-0031" num="0030">As shown in the embodiment depicted in <figref idref="DRAWINGS">FIG. 1</figref>, the control shaft <b>32</b> is configured such that it is rotated within a predetermined angular range by a lift controlling actuator <b>33</b> that is provided at one end of the control shaft <b>32</b>. The lift controlling actuator <b>33</b> comprises pin <b>34</b><i>a</i>, a hydraulic actuator <b>35</b>, and a first hydraulic device <b>36</b>. The pin <b>34</b><i>a </i>is formed as a part of a member <b>34</b> that is provided at a rear end of the control shaft <b>32</b>. The pin <b>34</b><i>a </i>protrudes from a position that is offset from the axial center of the control shaft <b>32</b> by a predetermined amount.</p>
+<p id="p-0032" num="0031">The hydraulic actuator <b>35</b> rotates the control shaft <b>32</b> as it engages the pin <b>34</b><i>a </i>with a beak-shaped claw <b>35</b><i>a </i>provided at the front end of a plunger <b>35</b><i>b</i>. The first hydraulic device (for example, a hydraulic control valve) <b>36</b> regulates the hydraulic pressure to be applied to the hydraulic actuator <b>35</b>. The first hydraulic device <b>36</b> is controlled by control signals from an engine control unit <b>39</b>. The angle of the control shaft <b>32</b> rotation is detected by control shaft sensors, not shown.</p>
+<p id="p-0033" num="0032">The operation of the variable lift mechanism <b>21</b> will now be described. When the driving shaft <b>22</b> is rotated by the crankshaft, the linking arm <b>24</b> moves in the vertical direction due to the cam function of first eccentric cam <b>23</b>. This action causes the rocker arm <b>26</b> to rock accordingly. The rocking of the rocker arm <b>26</b> is transmitted to the rocking cams <b>29</b> via the linking member <b>28</b> so as to rock the rocking cams <b>29</b>. The valve lifters <b>30</b> are thereby depressed due to the cam function of the rocking cams <b>29</b>, such that the intake valves <b>31</b> are moved downward.</p>
+<p id="p-0034" num="0033">When the angle of rotation of the control shaft <b>32</b> is changed via the lift controlling actuator <b>33</b>, the initial position of the rocker arm <b>26</b> changes. Accordingly, the initial rocking position of the rocking cams <b>29</b> is also changed.</p>
+<p id="p-0035" num="0034">For example, as is also shown in <figref idref="DRAWINGS">FIG. 2A</figref>, when second eccentric cam <b>38</b> is positioned at a top position in the figure, the rocker arm <b>26</b> as a whole is positioned at a top position, and the end part on the linking pin <b>37</b> side of the rocking cam <b>29</b> is pulled relatively upward. That is, the initial position of the rocking cams <b>29</b> is tilted in the direction to move the cam surfaces away from the valve lifters <b>30</b>, as shown in the left side of <figref idref="DRAWINGS">FIG. 2A</figref>. Therefore, when the rocking cams <b>29</b> rock in conjunction with the rotation of the driving shaft <b>22</b>, the arc-shaped base surfaces of the rocking cams <b>29</b> remain in contact with the valve lifters <b>30</b> for a relatively long time, while the time period during which the cam surfaces remain in contact with valve lifters <b>30</b> is relatively brief. The overall amount that the intake valves <b>31</b> are moved is therefore reduced, as may be seen, for example, in the right side of <figref idref="DRAWINGS">FIG. 2B</figref>. The crank angular zones of the intake valves <b>31</b> (i.e., the operating angle of the intake valves), that is, from when the intake valves open until they close, are also reduced.</p>
+<p id="p-0036" num="0035">Conversely, as is also shown in <figref idref="DRAWINGS">FIG. 2B</figref>, when the second eccentric cam <b>38</b> is positioned at a bottom position, the rocker arm <b>26</b> as a whole is positioned at a bottom position, and the end part of the rocking cam <b>29</b> on the linking pin <b>37</b> side is pressed relatively downward. That is, the initial position of the rocking cams <b>29</b> is tilted in a direction to move the cam surfaces closer to the valve lifters <b>30</b>, as may be seen in the left side of <figref idref="DRAWINGS">FIG. 2B</figref>. Therefore, when the rocking cams <b>29</b> rock in conjunction with the rotation of the driving shaft <b>22</b>, the position where the rocking cams <b>29</b> make contact with the valve lifters <b>30</b> moves immediately from the arc-shaped base surfaces to the cam surfaces. The overall amount the intake valves <b>31</b> are lifted is therefore increased, as may be seen in viewing the right side of <figref idref="DRAWINGS">FIG. 2B</figref>. The operating angle of the intake valves <b>31</b> is also effectively increased.</p>
+<p id="p-0037" num="0036">Because the initial position of the second eccentric cam <b>38</b> may be changed continuously, the valve lifting characteristics of the intake valves <b>31</b> accordingly change continuously. That is, as shown in <figref idref="DRAWINGS">FIG. 3</figref>, the lifting of both intake valves <b>31</b> (the amount of lift for intake valves <b>31</b> and the operating angle of intake valves <b>31</b>) can be increased or decreased simultaneously. Although the configuration of each part, for example, determines how much the lift of the intake valves <b>31</b> and the operating angle of the intake valves <b>31</b> are increased or decreased, the timings for opening and closing the intake valves <b>31</b> change almost symmetrically.</p>
+<p id="p-0038" num="0037">Next, as also shown in <figref idref="DRAWINGS">FIG. 1</figref>, the variable phase mechanism <b>41</b> will now be described. The variable phase mechanism <b>41</b> comprises a sprocket <b>42</b> and a phase regulating actuator <b>43</b>. The sprocket <b>42</b> is provided at a front end of the driving shaft <b>22</b>. The phase regulating actuator <b>43</b> rotates the sprocket <b>42</b> and the driving shaft <b>22</b> relative to each other within a predetermined angular range. The sprocket <b>42</b> is mechanically linked to the crankshaft via a timing chain or a timing belt, not shown.</p>
+<p id="p-0039" num="0038">In the embodiment shown, the phase regulating actuator <b>43</b> comprises a hydraulic rotary actuator <b>44</b> and a second hydraulic device (for example, a hydraulic control valve) <b>45</b> that is used for controlling the hydraulic supply pressure to the hydraulic actuator <b>44</b>. The second hydraulic device <b>45</b> is controlled by control signals received from an engine control unit <b>39</b>. The phase regulating actuator <b>43</b> functions to rotate the sprocket <b>42</b> and the driving shaft <b>22</b> relative to each other so as to advance or delay the lift center angle of the intake valves <b>31</b> relative to the crank angle. That is, the overall angle is advanced or delayed without changing the lifting characteristics of the intake valves <b>31</b> (i.e., no valve-lift change and no working-angle change). In addition, the changes toward the advancing or delaying side of the lift center angle can be realized continuously. The control state of the variable phase mechanism <b>41</b> is detected by driving shaft sensors, not shown, and corresponds to a given rotational position of the driving shaft <b>22</b>.</p>
+<p id="p-0040" num="0039">In the embodiment shown, the control of variable lift mechanism <b>21</b> and variable phase mechanism <b>41</b> are not limited to a closed loop control based on the values detected by the respective driving shaft sensors. It is understood that a simple open loop control can be affected according to a given driving condition.</p>
+<p id="p-0041" num="0040">In the embodiment shown, it is desirably that the valve lifters <b>30</b> have a known hydraulic valve clearance regulating mechanism. Such a mechanism assists in maintaining the valve clearance substantially at zero at all times.</p>
+<p id="p-0042" num="0041">In an engine equipped with the above-described variable valve operating mechanisms (i.e., each comprising a variable lift mechanism <b>21</b> and a variable phase mechanism <b>41</b>), the amount of intake air is regulated by regulating the opening and closing of the intake valves <b>31</b> without dependence on a throttle valve. In the present embodiment, it is desirable that a slight vacuum exists in the intake system to re-circulate blow-by gas. Thus, although it is not shown, it is also desirable to provide an appropriate throttle mechanism or a flow-constricting mechanism in place of a throttle valve at an upstream side of an intake path to create the vacuum.</p>
+<p id="p-0043" num="0042">A characteristic of the above-described variable lift mechanism <b>21</b> is that as the timing for closing the intake valves <b>31</b> changes, the timing for opening the intake valves <b>31</b> also changes, as illustrated in <figref idref="DRAWINGS">FIG. 3</figref>. (The timing for opening the intake valves <b>31</b> is delayed as the timing for closing the intake valves <b>31</b> is advanced.) Thus, the variable lift mechanism <b>21</b> is used in combination with the variable phase mechanism <b>41</b> to enable opening and closing control of the intake valves <b>31</b> at an arbitrary crank angular position.</p>
+<p id="p-0044" num="0043">Accordingly, the timing for closing the intake valves <b>31</b> while the engine load is low (i.e., during an idle condition) is controlled using the variable valve operating mechanism comprising the variable lift mechanism <b>21</b> and the variable phase mechanism <b>41</b> to reduce the operating angle of the intake valves <b>31</b> more significantly than in an engine for which the timing for closing the intake valves <b>31</b> is fixed (see, for example, <figref idref="DRAWINGS">FIG. 4(C)</figref>). The timing for closing the intake valves <b>31</b> is advanced as shown in <figref idref="DRAWINGS">FIG. 4(B)</figref>, and suction is stopped during the suction stroke so as to expand or compress the intake air before and after the piston reached bottom dead center BDC. This is done to change the actual effective suction stroke so as to bring the pressure of the intake air at the time of suction closer to atmospheric pressure, in almost inverse proportion to the effective stroke, to effectively reduce a pumping loss. This phenomenon is well known as a Miller cycle.</p>
+<p id="p-0045" num="0044">Because the timing for closing intake valves <b>31</b> comes well ahead of bottom dead center BDC, the intake air inside the cylinders expands adiabatically to bottom dead center BDC despite the suction stroke, and the temperature inside the cylinders also drops as the in-cylinder pressure drops. Although the compression stroke begins once bottom dead center BDC is passed, almost nothing but adiabatic expansion and compression are present until the in-cylinder pressure at which the adiabatic expansion began is reached, that is, the in-cylinder pressure is merely restored. The actual compression therefore begins from the point at which the in-cylinder pressure is restored. Thus, the actual compression ratio drops significantly as the timing for closing the intake valves is further advanced. Because the drop in the actual compression ratio results in a significant drop in the temperature of the air-fuel mixture inside the cylinders at compression top dead center TDC, the combustion rate drops due to a deteriorated combustion state. The fuel economy therefore cannot be improved to the extent that pumping loss is reduced, as is illustrated in <figref idref="DRAWINGS">FIG. 4A</figref>.</p>
+<p id="p-0046" num="0045">Furthermore, in <figref idref="DRAWINGS">FIG. 4A</figref>, the timing for closing the intake valves <b>31</b> is shown by overlaying a PV curve for an engine in which it is fixed at a point delayed from bottom dead center BDC, as shown in <figref idref="DRAWINGS">FIG. 4C</figref>, with the PV curve for an engine in which the timing for closing the intake valves <b>31</b> is set ahead of bottom dead center BDC using the variable valve operating mechanism <b>21</b>, as shown in <figref idref="DRAWINGS">FIG. 4B</figref>. Here, while the pumping loss is reduced when the timing for closing the intake valves <b>31</b> is advanced using the variable valve operating mechanism <b>21</b>, the compression temperature drops, and the combustion state deteriorates. That is, there is a tradeoff between reduction of the pumping loss and deterioration of the combustion state due to a drop in compression temperature.</p>
+<p id="p-0047" num="0046">Thus, to keep the pumping loss reduction effect when the timing for closing intake valves <b>31</b> is advanced using the variable valve operating mechanism <b>21</b>, a coating layer <b>55</b> made of a heat insulating (nonmetallic) material such as a ceramic material is formed in a layer having a predetermined thickness on the crown surface of a piston <b>9</b>. The coating layer <b>55</b> may be applied by thermal spraying, as shown in <figref idref="DRAWINGS">FIG. 5B</figref>. Other suitable methods of applying coating layer <b>55</b> may also be employed. A cylinder liner <b>56</b> may also be provided. The cylinder liner <b>56</b> may also be made of the same heat insulating material (nonmetallic material) as used to form the coating layer <b>55</b>, such as a ceramic material. The fact that the thermal efficiency of an engine can be improved by reducing cooling losses using a configuration comprising said heat insulating piston and the heat insulating material liner is well known.</p>
+<p id="p-0048" num="0047">A prior art piston is shown in <figref idref="DRAWINGS">FIG. 5A</figref>. As is illustrated, the heat generated by combustion escapes from the piston <b>9</b> to the cylinder <b>10</b> through piston rings <b>51</b> and <b>52</b>. In contrast, in the case where the piston and liner are constructed of an insulating material, such as a ceramic material, transmission of heat generated by combustion is prevented by the coating layer <b>55</b>.</p>
+<p id="p-0049" num="0048">However, as described in an article entitled &#x201c;Combustion and Combustion Chambers of Heat insulating Engines&#x201d; published in the Japanese Society of Mechanical Engineers Lecture Articles, No. 96-1, 1996, the contents of which are incorporated herein by reference in its entirety, because, for example, the heat transfer rate of ceramic material increases at high temperatures, such as those that are present at high engine loads, the in-cylinder temperature increases, and knocking becomes inevitable. In addition, while intake air filling efficiency at high engine loads is essential, because the intake air temperature increases when heat insulating pistons <b>9</b> and heat insulating liners <b>10</b> are adopted, the volume of the air decreases to this extent, and a tradeoff, that is, a drop in torque, occurs.</p>
+<p id="p-0050" num="0049">In an embodiment of the present disclosure, as shown in <figref idref="DRAWINGS">FIGS. 9A and 9B</figref>, the following heat exchange control is affected to effectively eliminate the tradeoff between a drop in torque and an increase temperature. Basically, a ceramic (heat insulating) material is formed as a layer (see <figref idref="DRAWINGS">FIG. 6A</figref>, <b>7</b>A) on the wall surfaces of a combustion chamber <b>61</b> (at least portions of piston <b>9</b>, cylinder <b>10</b>, cylinder head <b>62</b> (see <figref idref="DRAWINGS">FIG. 7A</figref>), intake valves <b>31</b>, and exhaust valves <b>63</b>) to reduce the cooling losses while at a low engine load, while at the same time storing part of the combustion heat in the ceramic material layer. The control is then effected using the variable valve operating mechanism comprising the variable lift mechanism <b>21</b> and the variable phase mechanism <b>41</b>, such that the timing for closing intake valves <b>31</b> is set ahead of bottom dead center BDC of the intake stroke so as to reduce the actual compression ratio while at a low engine load (when a partial load is present) while minimizing the lift of the intake valves <b>31</b>, and the intake air is turned into a high-speed wall flow <b>65</b> (that is, a swirl) along the wall surface of the cylinder <b>10</b> to retrieve heat from the wall surface of cylinder <b>10</b> (cylinder liner <b>56</b>&#x2014;the cylinder liner <b>56</b> may be seen in <figref idref="DRAWINGS">FIG. 5B</figref>, but has been eliminated in <figref idref="DRAWINGS">FIGS. 6A and 6B</figref> for clarity), as shown in <figref idref="DRAWINGS">FIG. 6A</figref>. An increase in the intake air temperature due to the heat retrieval from the wall surface of the high-temperature cylinder <b>10</b> becomes highly effective for offsetting the problematic drop in the actual compression ratio (when the pumping loss is reduced) as a result of the control that sets the timing for closing the intake valves <b>31</b> ahead of bottom dead center BDC of the intake stroke.</p>
+<p id="p-0051" num="0050">Conversely, when a high engine load is present, control is affected to increase the lift of the intake valves <b>31</b> to lessen the wall flow along the wall surface of cylinder <b>10</b> (cylinder liner <b>56</b>). In other words, the control operates to form a wall flow <b>66</b> which does not pass along the wall surface of cylinder <b>10</b>, as is shown in <figref idref="DRAWINGS">FIG. 6B</figref>. In the manner demonstrated in <figref idref="DRAWINGS">FIG. 6B</figref>, heat retrieval from the wall surface of cylinder <b>10</b> is avoided to limit the drop in filling efficiency and the occurrence of knocking which would be caused by temperature increase in the intake air at high engine load.</p>
+<p id="p-0052" num="0051">As described above, in the present embodiment, the lift of the intake valves <b>31</b> is minimized at low engine loads to facilitate the reduction of pumping loss by reducing the effective stroke. At a high engine loads the present embodiment takes advantage of the characteristic that increasing the lift of intake valves <b>31</b> gives a flow characteristic to the intake air that limits the exchange of heat with cylinder <b>10</b> to attempt to have the occurrence of knocking reduced and preventing a reduction of the filling efficiency at high engine load. That is, the system is configured so as to regulate the lift of the intake valves <b>31</b> in conjunction with the concept of reducing pumping loss.</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. 7A</figref> is a schematic cross-sectional view of the entire system that includes not only the vicinity of combustion chamber <b>61</b>, but also the variable valve operating mechanism when both the intake valve <b>31</b> and the exhaust valve <b>63</b> are closed. <figref idref="DRAWINGS">FIG. 7B</figref> illustrates the condition when the intake valve <b>31</b> is open at low engine load as opposed to <figref idref="DRAWINGS">FIG. 7C</figref>, which is a partial cross-sectional view of only the vicinity of combustion chamber <b>61</b> when the intake valve <b>31</b> is open at high engine load. In the case of the variable valve operating mechanism shown in <figref idref="DRAWINGS">FIG. 7A</figref>, however, it is important to note that the front and back views are reversed as compared to <figref idref="DRAWINGS">FIGS. 2A-2B</figref>. Also, the coating layer <b>55</b> and the cylinder liner <b>56</b> shown in <figref idref="DRAWINGS">FIG. 5B</figref> are not shown in <figref idref="DRAWINGS">FIGS. 7A-7B</figref> for the sake of clarity.</p>
+<p id="p-0054" num="0053">As shown in <figref idref="DRAWINGS">FIG. 7A</figref>, streams <b>67</b> and <b>68</b> of intake air are created along the wall surface of the cylinder <b>10</b> when the intake valve <b>31</b> is opened very little at low engine loads. The orientation of the streams <b>67</b> and <b>68</b> can be intensified by forming a wall portion at part of the intake valve seat circumference (not shown). An example of structure for such an arrangement may be found in U.S. Pat. No. 5,797,368, the contents of which is incorporated by reference in its entirety. Strong streams of air <b>67</b> and <b>68</b> close to the speed of sound are merged to form the high-speed wall flow <b>65</b> shown in <figref idref="DRAWINGS">FIG. 6A</figref>, and the flow <b>65</b> flows (becomes more likely to flow) along the ceramic-coated wall surface of cylinder <b>10</b>, that is, along cylinder liner <b>56</b>, so that the heat transfer rate between the intake air and the wall surface of the cylinder <b>10</b> becomes extremely high, and the intake air receives enough heat for sufficient temperature increase from heat exchange with the wall surface of the cylinder <b>10</b>. Because the control is also affected to set the timing for closing the intake valve <b>31</b> ahead of the bottom dead center BDC of the intake stroke in the low engine load condition, the actual compression ratio is reduced as was described with reference to <figref idref="DRAWINGS">FIG. 4</figref>, so that effective combustion may be obtained without knocking. In addition, because of the heat insulating effect of the ceramic is also added during combustion, significant improvement of fuel consumption may also be realized.</p>
+<p id="p-0055" num="0054">Furthermore, due to the early disappearance of a quench layer during the engine warm-up due to the control of heat exchange between the intake air and the wall surface of cylinder <b>10</b>, an HC reduction effect may also be expected.</p>
+<p id="p-0056" num="0055">However, as shown in <figref idref="DRAWINGS">FIG. 7C</figref>, the lift of the intake valve <b>31</b> is increased at high engine load to reduce the wall flows along the wall surface of cylinder <b>10</b>, and the reduced streams <b>69</b> and <b>70</b> are merged to form the wall flow <b>66</b> that does not flow along the wall surface of cylinder <b>10</b> shown in <figref idref="DRAWINGS">FIG. 6B</figref>, thus preventing a drop in the filling efficiency and preventing the occurrence of knocking that would be caused by an increased temperature of the intake air at high engine load conditions.</p>
+<p id="p-0057" num="0056">The control affected by engine control unit <b>39</b> will now be explained with reference to the flow chart in <figref idref="DRAWINGS">FIG. 8</figref>. <figref idref="DRAWINGS">FIG. 8</figref> illustrates the opening and closing control of the intake valves <b>31</b>, and the control is executed at predetermined fixed time intervals (for example, in one embodiment, every 10 ms).</p>
+<p id="p-0058" num="0057">The process begin at Step I SI, where engine rotational speed Ne detected by a crank sensor (not shown), the engine load, the cooling water temperature Tw detected by a water temperature sensor (not shown), and the cylinder wall temperature Twall detected by a wall temperature sensor <b>74</b> (best seen in <figref idref="DRAWINGS">FIG. 7A</figref>) are read.</p>
+<p id="p-0059" num="0058">As shown in <figref idref="DRAWINGS">FIG. 7A</figref>, the wall temperature sensor <b>74</b> is attached to the wall surface of the cylinder <b>10</b> at a position near the cylinder head <b>62</b>. With respect to the engine load, because a basic fuel injection pulse width Tp is computed based on the volume of intake air detected by an air flowmeter, not shown, and the engine rotational speed Ne for the flow (not shown in the figure) for executing fuel injection control, for example, the basic injection pulse width Tp should be used as the engine load. In one embodiment, oil temperature may be used in place of the cooling water temperature Tw detected by water temperature sensor <b>73</b>.</p>
+<p id="p-0060" num="0059">Once the engine rotational speed Ne, the engine load, the cooling water temperature Tw, and the cylinder wall temperature Twall are read by the engine control unit <b>39</b>, the process proceeds to Step <b>2</b> S<b>2</b>.</p>
+<p id="p-0061" num="0060">In Step <b>2</b> S<b>2</b>, the cooling water temperature Tw detected by the water temperature sensor <b>73</b> is compared to a predetermined value in order to determine whether warm-up of the engine has been completed. If cooling water temperature Tw exceeds the predetermined value, a decision is made that warm-up of the engine is complete, and the process flow advances to Step <b>3</b> S<b>3</b>. If the cooling water temperature Tw is less than the predetermined value, a decision is made that warm-up of the engine is not complete, and the process flow ends.</p>
+<p id="p-0062" num="0061">In Step <b>3</b> S<b>3</b>, a determination is made as to the driving condition based on the detected engine rotational speed Ne and basic fuel injection pulse width Tp. In other words, it is determined whether the engine is within a low load region. To this end, a region to be used as the low load region should be predetermined in advance within a driving region which involves engine rotational speed Ne and basic fuel injection pulse width Tp as parameters. Here, because the temperature inside the combustion chamber <b>61</b> varies depending on the engine specifications, the material used for the coating layer <b>55</b> and the cylinder liner <b>56</b>, and their thickness, the boundary between the low load region and the high load region needs to be established appropriately.</p>
+<p id="p-0063" num="0062">When the driving condition is within the predetermined low load region, the process flow advances to Step <b>4</b> S<b>4</b>. If the driving condition is not within the low load region, the process flow advances to Step <b>7</b> S<b>7</b>.</p>
+<p id="p-0064" num="0063">In Step <b>4</b> S<b>4</b>, the cylinder wall temperature Twall detected by the wall temperature sensor <b>74</b> is compared with a predetermined value. Here, the predetermined value is the minimum cylinder temperature value at which combustion does not deteriorate without heat recovery, and it is set appropriately in advance. When the cylinder wall temperature Twall is less than or equal to the predetermined value, a decision is made that heat needs to be recovered from the wall surface of cylinder <b>10</b>. Accordingly, the process flow advances to Step <b>5</b> S<b>5</b>. If the cylinder wall temperature Twall is greater than the predetermined value, the process flow advances to Step <b>7</b>.</p>
+<p id="p-0065" num="0064">In Step <b>5</b> S<b>5</b>, an instruction to minimize the lift of the intake valves <b>31</b> is given to the first hydraulic device <b>36</b>. The process then proceeds to Step <b>6</b> S<b>6</b>. In Step <b>6</b> S<b>6</b> an instruction to delay the phase of the lift center angle of the intake valves <b>31</b> (that is, the timing for closing the intake valves) is given to the second hydraulic device <b>45</b> to open the intake valves <b>31</b> approximately at top dead center TDC and close them at a crank angular position ahead of bottom dead center BDC, as shown in <figref idref="DRAWINGS">FIG. 4B</figref>. As a result, the intake air is turned into the high-speed wall flow <b>65</b> along the wall surface of the cylinder <b>10</b> to recover heat from the wall surface of the cylinder <b>10</b>, as shown in <figref idref="DRAWINGS">FIG. 6A</figref>.</p>
+<p id="p-0066" num="0065">Conversely, when the driving condition is not within the low load region, that is, when the driving condition is within the high load region, a decision is made that there is no need to recover heat from the wall surface of cylinder <b>10</b>. Thus, the process flow proceeds to Step <b>7</b> S<b>7</b>. At Step <b>7</b> S<b>7</b>, an instruction to increase the lift of the intake valves <b>31</b> is given to the first hydraulic device <b>36</b> by the engine control unit <b>39</b>. The process flow the proceeds to Step <b>8</b> S<b>8</b>. At Step <b>8</b> S<b>8</b>, an instruction to delay the phase of the lift center angle (that is, the timing for closing the intake valves) is given to the second hydraulic device <b>45</b> to reduce the wall flow along the wall surface of cylinder <b>10</b> and turn it into wall flow <b>66</b> that does not flow along the wall surface of cylinder <b>10</b>, as shown in <figref idref="DRAWINGS">FIG. 6B</figref>, to avoid heat recovery from the wall surface of the cylinder <b>10</b>. In this manner, a reduction of filling efficiency may be avoided, as well as knocking due to an intake air temperature increase at high load.</p>
+<p id="p-0067" num="0066">However, when the driving condition is within the low load region but the cylinder wall temperature Twall exceeds the predetermined value, a decision is also made that there is no need to recover heat from the wall surface of cylinder <b>10</b>. In this case, the process flow also advances from Step <b>4</b> S<b>4</b> to Steps <b>7</b> S<b>7</b> and <b>8</b> S<b>8</b>. That is, an instruction to increase the lift of the intake valves <b>31</b> is given to the first hydraulic device <b>36</b>, and an instruction to delay the phase of the lift center angle of the intake valves <b>31</b> is given to the second hydraulic device <b>45</b> to lessen the wall flow along the wall surface of the cylinder <b>10</b> and turn it into the wall flow <b>66</b> that does not flow along the wall surface of cylinder <b>10</b>, as shown in <figref idref="DRAWINGS">FIG. 6B</figref>. This prevents heat recovery from the wall surface of cylinder <b>10</b> to prevent filling efficiency reduction and knocking due to an intake air temperature increase under a condition in which the cylinder wall temperature exceeds the predetermined value, even in the low load region.</p>
+<p id="p-0068" num="0067">Although it is stated above that the lift of the intake valves <b>31</b> is minimized in Step <b>5</b> S<b>5</b>, or the lift of the intake valves <b>31</b> is increased in Step <b>7</b> S<b>7</b>, the actual extent needs to be determined appropriately depending on the engine specifications. In such cases, because the intensity and orientation of the flow along the cylinder wall are affected by the timing of closing the intake valves, the extent of the lift center angle phase advancement for the intake valves <b>31</b> in Step <b>6</b> S<b>6</b> and the extent of the lift center angle phase delay for the intake valves <b>31</b> in Step <b>8</b> S<b>8</b> also need to be optimally determined.</p>
+<p id="p-0069" num="0068">As described above, according to the present embodiment, in an engine having the intake valves <b>31</b> for opening and closing the intake ports which open into combustion chamber <b>61</b>, the variable valve operating mechanisms <b>21</b> and <b>41</b> for variably controlling the lift of the intake valves <b>31</b> are provided, and the lifting of intake valves <b>31</b> is minimized at a low load condition using the variable valve operating mechanism so as to set the timing for closing intake valves <b>31</b> ahead of bottom dead center BDC of the intake stroke (see Steps <b>3</b>, <b>5</b>, and <b>6</b> in <figref idref="DRAWINGS">FIG. 8</figref>). The lifting of the intake valves <b>31</b> is increased relatively while at a high load condition so as to bring the timing for closing the intake valves <b>31</b> close to bottom dead center BDC of the intake stroke (see Steps <b>3</b>, <b>7</b>, and <b>8</b> in <figref idref="DRAWINGS">FIG. 8</figref>). In this way, even when there is the risk of combustion deterioration due to a drop in the compression temperature that occurs when the actual compression ratio is reduced to reduce the pumping loss at low engine load, the combustion is improved through active heat exchange with the cylinder liner <b>56</b> (cylinder <b>10</b>) and by creating an intake air flow characteristic that limits heat exchange with cylinder liner <b>56</b> (cylinder <b>10</b>) at high engine load, so that knocking and reduction of the filling efficiency at high engine load may be prevented.</p>
+<p id="p-0070" num="0069">According to the present embodiment, because the intake air is introduced into combustion chamber <b>61</b> along the wall surface of cylinder <b>10</b> (the wall surface of combustion chamber <b>61</b>) when the lifting of intake valves <b>31</b> is reduced (see <figref idref="DRAWINGS">FIG. 6A</figref>), the heat can be efficiently recovered from the high-temperature cylinder <b>10</b>.</p>
+<p id="p-0071" num="0070">According to the present embodiment, because the crown surface of the piston <b>9</b> (coating layer <b>55</b>) and the cylinder liner <b>56</b> (part of the wall surface of combustion chamber <b>61</b>) are made of a ceramic material with effective heat insulating and heat retaining properties, cooling losses can be reduced to improve the thermal efficiency of the engine at a low load condition.</p>
+<p id="p-0072" num="0071">According to the present embodiment, because the wall temperature sensor <b>74</b> for detecting the wall temperature of the wall surface of the cylinder <b>10</b> (wall surface of the combustion chamber) is provided and because lifting of the intake valves <b>31</b> is increased when the wall temperature Twall of cylinder <b>10</b> detected by the wall temperature sensor <b>74</b> at a low load condition is higher than a predetermined value (see Steps <b>3</b>, <b>4</b>, and <b>7</b> in <figref idref="DRAWINGS">FIG. 8</figref>), filling efficiency reduction and knocking that are due to an increased intake air temperature under a condition in which cylinder wall temperature Twall exceeds the predetermined value can be prevented even in the low load region.</p>
+<p id="p-0073" num="0072"><figref idref="DRAWINGS">FIG. 9B</figref> is a perspective partial cutaway view showing schematically a piston <b>9</b> in a second embodiment, wherein the structures of piston <b>9</b> and a cylinder liner <b>71</b> are shown. Conventional structures of the piston <b>9</b> and the cylinder liner <b>10</b> are shown in <figref idref="DRAWINGS">FIG. 9A</figref>, for the purpose of comparison.</p>
+<p id="p-0074" num="0073">Referring specifically to <figref idref="DRAWINGS">FIG. 9B</figref>, the cylinder liner <b>71</b> is formed with a gradient using a composite material. In other words, the cylinder liner <b>71</b> is divided roughly in half to form an upper liner part <b>71</b><i>a </i>and a lower liner part <b>71</b><i>b</i>. The upper liner part <b>71</b><i>a </i>is positioned next to the piston <b>9</b> at top dead center as is heat insulating. The lower liner part <b>71</b><i>b </i>is positioned next to the piston at bottom dead center and is a high heat conduction/heat transfer area. That is, the upper liner part <b>71</b><i>a </i>has a heat insulating structure which may be made primarily of a ceramic material. The lower liner part <b>71</b><i>b </i>has a heat conduction structure which may be made of a carbon nano-tube material. The lower line part <b>71</b><i>b </i>has the heat conduction structure coated partially on or blended with the inner circumferential surface of lower liner part <b>71</b><i>b </i>and the piston slides against this material to increase the heat conduction/heat transfer rate near bottom dead center. In this case, because placement of the boundary between the upper liner part <b>71</b><i>a </i>and the lower liner part <b>71</b><i>b </i>varies depending on individual engine specifications, it is determined accordingly.</p>
+<p id="p-0075" num="0074">In this second embodiment, the characteristic that the coating layer <b>55</b> is formed to a prescribed thickness on the crown surface of piston <b>9</b> using a heat insulating (nonmetallic) material such as a ceramic material is identical to that which was described above in the first embodiment.</p>
+<p id="p-0076" num="0075">When cylinder liner <b>71</b> is formed with a gradient using a composite material in this way, the piston rings of piston <b>9</b> can be cooled at the bottom dead center end, so that lubrication problems can be prevented; in other words, sticking (adhesion) of piston <b>9</b> to the wall surface of the cylinder (cylinder liner <b>71</b>) due to the coking that occurs when the piston rings reach a high temperature can be prevented even when the surface temperature of upper liner part <b>71</b><i>a </i>has increased.</p>
+<p id="p-0077" num="0076">As described above, according to the second embodiment, the wall surface of the combustion chamber <b>61</b> (the wall surface of cylinder <b>10</b>) is cylinder liner <b>71</b>. The upper liner part <b>71</b><i>a </i>of the cylinder liner <b>71</b> next to the piston <b>9</b> at the top dead center end is made of a highly heat insulating material. The lower liner part <b>71</b><i>b </i>next to piston <b>9</b> at the bottom dead center end is made of a highly heat conductive material. In this way, the piston rings of piston <b>9</b> can be cooled at the bottom dead center end, so that a lubrication problem, that is, sticking (adhesion) of piston <b>9</b> to the wall surface of cylinder liner <b>71</b> due to the coking that occurs when the piston rings reach a high temperature, can be prevented even when the liner surface temperature next to piston <b>9</b> at top dead center has increased.</p>
+<p id="p-0078" num="0077">Although an example has been explained in the above embodiments in which the wall surfaces (piston <b>8</b>, cylinder <b>10</b>, cylinder head <b>62</b> (see <figref idref="DRAWINGS">FIG. 7A</figref>), intake valves <b>31</b>, and exhaust valves <b>63</b>) of the combustion chamber <b>61</b> were partially made of a material with effective heat insulating and heat retaining properties, the entire wall surface of combustion chamber <b>61</b> may also be made of a material with effective heat insulating and heat retaining properties.</p>
+<p id="p-0079" num="0078">In addition, although the timing for closing intake valves <b>31</b> is set prior to bottom dead center BDC while at a low load condition in the embodiments, it goes without saying that the present invention may also be applied to a case in which it is set later than bottom dead center BDC, also.</p>
+<p id="p-0080" num="0079">The preceding description has been presented only to illustrate and describe exemplary embodiments of the exhaust system according to the claimed invention. It is not intended to be exhaustive or to limit the invention to any precise form disclosed. It will be understood by those skilled in the art that various changes may be made and equivalents may be substituted for elements thereof without departing from the scope of the invention. In addition, many modifications may be made to adapt a particular situation or material to the teachings of the invention without departing from the essential scope. Therefore, it is intended that the invention not be limited to the particular embodiment disclosed as the best mode contemplated for carrying out this invention, but that the invention will include all embodiments falling within the scope of the claims. The invention may be practiced otherwise than is specifically explained and illustrated without departing from its spirit or scope. The scope of the invention is limited solely by the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An engine intake control apparatus for an engine that comprises at least one combustion chamber operatively connected to an intake port and an intake valve associated with each intake port, wherein the intake valve is adapted to open and close the intake port, the intake control apparatus comprising:
+<claim-text>variable valve operating mechanism configured and arranged to selectively change a valve closing timing and a valve lift amount of the intake valve; and</claim-text>
+<claim-text>controller configured and arranged to control the variable valve operating mechanism when the engine is in a low load condition,</claim-text>
+<claim-text>wherein the valve closing timing is determined such that an actual compression ratio of the engine is reduced relative to the actual compression ratio when the engine is operating in a high load condition, and</claim-text>
+<claim-text>wherein the valve lift amount is smaller when the engine is in the low load condition relative to the valve lift amount when the engine is in the high load condition.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The intake control apparatus as described in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least a portion of the wall surfaces of the combustion chamber is made of a heat insulating material.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The engine intake control apparatus as described in <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the heat insulating material is a ceramic material.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The engine intake control apparatus as described in <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the heat insulating material is coated on a cylinder liner of the engine.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The engine intake control apparatus as described in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a cylinder wall that forms part of the combustion chamber has a lower thermal conductivity than a portion of the cylinder wall at a bottom dead center side.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The engine intake control apparatus as described in <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein a top dead center side of the cylinder wall is constructed of a first material, and the bottom dead center side of the cylinder wall is constructed of a second material, and wherein the first material is a heat insulating material and the second material is a conductive material.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The engine intake control apparatus as described in <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein a first cylinder liner forms the top dead center side of the cylinder wall and is constructed of the first material and a second cylinder liner forms the bottom dead center side of the cylinder wall and is constructed of the second material.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The engine intake control apparatus as described in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the valve lift amount of the intake valves is reduced sufficiently to let an intake air flow into the combustion chamber along the wall surfaces of the combustion chamber when the engine is in the low load condition.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The engine intake control apparatus as described in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the valve closing of the intake valves is set to occur prior to the bottom dead center of an intake stroke when the engine is operating in the low load condition, thereby reducing the actual compression ratio.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The engine intake control apparatus as described in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the variable valve operating mechanism comprises a variable lift mechanism that selectively varies the valve lift amount of the intake valves, and a variable valve closing timing mechanism that selectively varies the valve closing timing of the intake valves.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The engine intake control apparatus as described in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein when the engine is in a low load condition, the valve lift amount of the intake valve is increased when a temperature of a combustion chamber wall exceeds a predetermined temperature as compared to when the temperature of the combustion chamber wall is lower than the predetermined temperature.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The engine intake control apparatus as described in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein when the engine is in the high load condition, the controller actuates the variable valve operating mechanism to increase the valve lift amount of the intake valves so as to alleviate intake air flow from flowing along the wall surfaces of the combustion chamber.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A method for controlling an engine that comprises at least one combustion chamber that is operatively connected to an intake port through an intake valve that selectively and variably opens and closes the intake port, the method comprising:
+<claim-text>detecting an engine operational condition to determine whether the engine is in a low load condition; and</claim-text>
+<claim-text>actuating an intake valve with a valve closing timing and a valve lift amount when the engine is in the low load condition;</claim-text>
+<claim-text>wherein the valve closing timing is determined such that an actual compression ratio of the engine is reduced relative to the actual compression ratio of the engine with the engine is in a high load condition; and</claim-text>
+<claim-text>wherein the valve lift amount is smaller when the engine is in a low load condition relative to the valve lift amount when the engine is in the high load condition.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method for controlling the engine as described in <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein when a temperature of a combustion chamber wall exceeds a predetermined temperature, the valve lift amount is increased relative to the valve lift amount when the temperature of the combustion chamber wall is lower than the predetermined temperature.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. An intake control apparatus for an engine that comprises at least one combustion chamber operatively connected to an intake port and an intake valve associated with each intake port, wherein the intake valve is adapted to open and close the intake port, the intake control apparatus comprising:
+<claim-text>variable valve operating means for selectively changing a valve closing timing and a valve lift amount of the intake valve; and</claim-text>
+<claim-text>control means for controlling the variable valve operating means when the engine is in a low load condition,</claim-text>
+<claim-text>wherein the valve closing timing is determined such that an actual compression ratio of the engine is reduced relative to the actual compression ratio when the engine is operating in a high load condition, and</claim-text>
+<claim-text>wherein the valve lift amount is smaller when the engine is in a low load condition relative to the valve lift amount when the engine is in the high load condition. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

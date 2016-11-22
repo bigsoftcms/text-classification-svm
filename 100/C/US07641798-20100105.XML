@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641798-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641798</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11524314</doc-number>
+<date>20060921</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2005-281648</doc-number>
+<date>20050928</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>468</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>02</class>
+<subclass>F</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>210615</main-classification>
+<further-classification>210620</further-classification>
+<further-classification>210626</further-classification>
+<further-classification>210627</further-classification>
+<further-classification>210220</further-classification>
+</classification-national>
+<invention-title id="d0e71">Waste water treatment method and waste water treatment apparatus</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5431861</doc-number>
+<kind>A</kind>
+<name>Nagahiro et al.</name>
+<date>19950700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2611401</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5798091</doc-number>
+<kind>A</kind>
+<name>Trevino et al.</name>
+<date>19980800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>424  952</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2003/0085172</doc-number>
+<kind>A1</kind>
+<name>Yamasaki et al.</name>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2003/0132165</doc-number>
+<kind>A1</kind>
+<name>de Meulenaer et al.</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210695</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2004/0176649</doc-number>
+<kind>A1</kind>
+<name>Takahashi et al.</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>585 15</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2005/0258094</doc-number>
+<kind>A1</kind>
+<name>Chiba</name>
+<date>20051100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2006/0191847</doc-number>
+<kind>A1</kind>
+<name>Yamasaki et al.</name>
+<date>20060800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2007/0062869</doc-number>
+<kind>A1</kind>
+<name>Yamasaki et al.</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>JP</country>
+<doc-number>2003-136087</doc-number>
+<kind>A</kind>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>JP</country>
+<doc-number>2003-251384</doc-number>
+<kind>A</kind>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>JP</country>
+<doc-number>2003-334548</doc-number>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>JP</country>
+<doc-number>2004-50092</doc-number>
+<kind>A</kind>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>JP</country>
+<doc-number>2004-121962</doc-number>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>JP</country>
+<doc-number>2004-237144</doc-number>
+<kind>A</kind>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>JP</country>
+<doc-number>2004-321959</doc-number>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>JP</country>
+<doc-number>2007-75785</doc-number>
+<kind>A</kind>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>JP</country>
+<doc-number>3893396</doc-number>
+<kind>B2</kind>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>JP</country>
+<doc-number>3893401</doc-number>
+<kind>B1</kind>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>JP</country>
+<doc-number>2007-83108</doc-number>
+<kind>A</kind>
+<date>20070400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>JP</country>
+<doc-number>4029100</doc-number>
+<kind>B2</kind>
+<date>20080100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>JP</country>
+<doc-number>4088630</doc-number>
+<kind>B2</kind>
+<date>20080500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>8</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>210615</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210620</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210626-627</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210220</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>8</number-of-drawing-sheets>
+<number-of-figures>8</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070068869</doc-number>
+<kind>A1</kind>
+<date>20070329</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Yamasaki</last-name>
+<first-name>Kazuyuki</first-name>
+<address>
+<city>Hiroshima</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Sakata</last-name>
+<first-name>Kazuyuki</first-name>
+<address>
+<city>Fukuyama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Chuhjoh</last-name>
+<first-name>Kazumi</first-name>
+<address>
+<city>Takamatsu</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Nixon &#x26; Vanderhye P.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Sharp Kabushiki Kaisha</orgname>
+<role>03</role>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Barry</last-name>
+<first-name>Chester T</first-name>
+<department>1797</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A waster water treatment apparatus has micro-nano bubbles generation tanks, mixing tanks, a submerged membrane tank, a contact oxidation tank, and an activated charcoal adsorption device. In the micro-nano bubbles generation tanks, micro-nano bubbles are added to the waste water. In the mixing tanks, the waste water containing micro-nano bubbles is mixed with sludge containing microorganisms. In the contact oxidation tank, the waste water containing organofluoric compounds is microbially treated by the micro-nano bubbles added to the waste water. The micro-nano bubbles activate microorganisms in the waste water. Thereby organofluoric compounds are microbially decomposed with effect.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="165.18mm" wi="255.61mm" file="US07641798-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="257.47mm" wi="167.30mm" orientation="landscape" file="US07641798-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="259.84mm" wi="171.53mm" orientation="landscape" file="US07641798-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="260.01mm" wi="166.03mm" orientation="landscape" file="US07641798-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="259.25mm" wi="169.59mm" orientation="landscape" file="US07641798-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="264.41mm" wi="172.30mm" orientation="landscape" file="US07641798-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="264.84mm" wi="173.91mm" orientation="landscape" file="US07641798-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="262.47mm" wi="175.18mm" orientation="landscape" file="US07641798-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="260.60mm" wi="171.53mm" orientation="landscape" file="US07641798-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This nonprovisional application claims priority under 35 U.S.C. &#xa7;119(a) on Patent Application No. 2005-281648 filed in Japan on 28 Sep. 2005, the entire contents of which are incorporated herein by reference.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION </heading>
+<p id="p-0003" num="0002">The present invention relates to waste water treatment method and waste water treatment apparatus.</p>
+<p id="p-0004" num="0003">Organofluoric compounds and organochlorine compounds are chemically stable substances. The organofluoric compounds in particular are used for application such as surface-active agents since they have excellent properties in terms of heat resistance and chemical resistance.</p>
+<p id="p-0005" num="0004">However, it is difficult to microbially decomposite the organofluoric compounds or organochlorine compounds because they are chemically stable. Perfluorooctane sulfonic acid (PFOS) or perfluoro octanoic acid (PFOA), which is an example of the organofluoric compounds, is hardly decomposed in the ecosystem. This causes concern about harmful influence on the ecosystem. Thermal decomposition of PFOS or PFOA requires temperature as high as approx. 1000&#xb0; C. since PFOS and PFOA are chemically stable. On the other hand, however, it is extremely difficult to decompose PFOS or PFOA in such a conventional treatment as to use microorganisms, photocatalysts or the like.</p>
+<p id="p-0006" num="0005">JP 2004-121962A discloses a conventional method and apparatus for using nanometer bubbles. In the method and apparatus for using nano bubbles, there have been utilized characteristics of nano bubbles such as an effect of surface activity or an effect of sterilization caused by decrease in buoyancy, increase in surface areas, intensification of surface activity, generation of a local high pressure field, and electrostatic polarization which appear in the nano bubbles. More specifically, it has been disclosed that mutual association of these characteristics makes it possible to lead to the adsorbing function of pollution components, the high speed cleaning function and the sterilization function of object surfaces, and thereby objects and/or waste-water are effectively cleaned under a low environmental load.</p>
+<p id="p-0007" num="0006">Also, JP 2003-334548A discloses a method for producing nano air-bubbles. The method for producing nano air-bubbles is composed of (i) a process for decomposing a part of liquid into gas in the liquid and (ii) a process for applying ultrasonic waves in the liquid, or (iii) a process for decomposing a part of liquid into gas and a process for applying ultrasonic waves.</p>
+<p id="p-0008" num="0007">Further, JP 2004-321959A discloses a waste liquid treatment apparatus. In the waste liquid treatment apparatus, ozone gas generated by an ozonizer and waste liquid drawn from the bottom of a treatment tank are fed to a micro bubble generator through a pressurization pump. The generated ozone micro bubbles are fed from openings of a gas blowout pipe into the waste liquid in the treatment tank.</p>
+<p id="p-0009" num="0008">However, the aforementioned JP 2004-121962A, JP 2003-334548A and JP 2004-321959A have following problems:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0009">(1) It has not been disclosed that after micro-nano bubbles are added to treatment-receiving-water, the treatment-receiving-water containing micro-nano bubbles is introduced so that microorganisms are more activated. The term &#x201c;micro-nano bubbles&#x201d; herein refers to bubbles including both micro bubbles with a diameter of not more than 50 &#x3bc;m and not less than 1 &#x3bc;m and nano bubbles with a diameter of not more than 1 &#x3bc;m.</li>
+    <li id="ul0001-0002" num="0010">(2) It has not been disclosed that it is more effective in activating microorganisms than the case (1) that after micro-nano bubbles are added to treatment-receiving-water, the treatment-receiving-water and sludge containing microorganisms are mixed and introduced into a microbe tank.</li>
+    <li id="ul0001-0003" num="0011">(3) It has not been disclosed that after micro-nano bubbles are added to waste water containing organofluoric compounds or waste water containing organochlorine compounds, a first-stage microbial treatment is conducted, and then, after micro-nano bubbles are further added to the treatment-receiving-water, a second-stage microbial treatment is conducted to decomposite the above compounds.</li>
+</ul>
+</p>
+<p id="p-0010" num="0012">As is stated above, there has not conventionally been known a method for decomposing the organofluoric compounds and the organochlorine compounds, which are chemically stable substances, reasonably at low costs.</p>
+<heading id="h-0003" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0011" num="0013">An object of the present invention is to provide waste water treatment method and apparatus capable of conducting effective microbial decomposing of organofluoric compounds or organochlorine.</p>
+<p id="p-0012" num="0014">To achieve the above-mentioned object, the present invention provides a waste water treatment method, comprising the steps of:</p>
+<p id="p-0013" num="0015">introducing waste water as treatment-receiving-water into a micro-nano bubble generation tank for adding micro-nano bubbles, which are micrometer and nanometer size bubbles, to the treatment-receiving-water; and then</p>
+<p id="p-0014" num="0016">introducing the treatment-receiving-water containing the micro-nano bubbles into a microbe tank for applying microbial treatment to the treatment-receiving-water.</p>
+<p id="p-0015" num="0017">Since plenty of suspended substances are present in the microbe tank, it is generally impossible to sufficiently and/or efficiently generate micro-nano bubbles in the microbe tank. According to the present invention, however, after micro-nano bubbles are unfailingly added to waste water as treatment-receiving-water, the microbial treatment for the treatment-receiving-water is conducted in the microbe tank which has received the treatment-receiving-water. Therefore, microorganisms in the microbe tank are activated by micro-nano bubbles sufficiently added to the treatment-receiving-water. As the result, the activated microorganisms effectively decompose the organic compounds contained in the waste water.</p>
+<p id="p-0016" num="0018">The present invention also provides a waste water treatment method, comprising the steps of:</p>
+<p id="p-0017" num="0019">introducing waste water as treatment-receiving-water into a micro-nano bubble generation tank for adding micro-nano bubbles, which are micrometer and nanometer size bubbles, to the treatment-receiving-water;</p>
+<p id="p-0018" num="0020">introducing the treatment-receiving-water containing the micro-nano bubbles into a mixing tank for mixing the treatment-receiving-water with sludge containing microorganisms; and</p>
+<p id="p-0019" num="0021">introducing the treatment-receiving-water mixed with the sludge into a microbe tank for applying microbial treatment to the treatment-receiving-water.</p>
+<p id="p-0020" num="0022">According to the invention, the waste water, which is introduced into the microbe tank as treatment-receiving-water, contains the sufficient micro-nano bubbles and the mixed sludge having microorganisms. The micro-nano bubbles directly act on the microorganisms to greatly activate them.</p>
+<p id="p-0021" num="0023">The present invention further provides a waste water treatment method, comprising the steps of:</p>
+<p id="p-0022" num="0024">introducing waste water as treatment-receiving-water into a first micro-nano bubble generation tank for adding micro-nano bubbles, which are micrometer and nanometer size bubbles, to the treatment-receiving-water;</p>
+<p id="p-0023" num="0025">introducing the treatment-receiving-water containing the micro-nano bubbles into a first microbe tank for applying first-stage microbial treatment to the treatment-receiving-water;</p>
+<p id="p-0024" num="0026">introducing the treatment-receiving-water, after application of the first-stage microbial treatment, into a second micro-nano bubble generation tank for adding the micro-nano bubbles to the treatment-receiving-water; and then</p>
+<p id="p-0025" num="0027">introducing the treatment-receiving-water containing micro-nano bubbles into a second microbe tank for applying second-stage microbial treatment to the treatment-receiving-water.</p>
+<p id="p-0026" num="0028">According to the present invention, prior to the application of the second-stage microbial treatment, the micro-nano bubbles can be added to the treatment-receiving-water subjected to the first-stage microbial treatment. Thereby, it is possible to supplement micro-nano bubbles consumed in the first-stage microbial treatment prior to the application of the second-stage microbial treatment. As a result, the sufficient micro-nano bubbles can be added to the treatment-receiving-water not only in the first-stage microbial treatment but also in the second-stage microbial treatment, so that microorganisms in the second-stage microbial treatment can be further activated.</p>
+<p id="p-0027" num="0029">In one embodiment of the present invention, the waste water is waste water containing organofluoric compounds or organochlorine compounds.</p>
+<p id="p-0028" num="0030">According to this embodiment, the waste water containing organofluoric or organochlorine compounds, which have been generally difficult to decompose with microorganisms, can be treated in two stages with use of the activated microorganisms. This makes it possible to microbially decompose the organofluoric or organochlorine compounds with effect.</p>
+<p id="p-0029" num="0031">In one embodiment of the present invention, the first-stage microbial treatment is microbial treatment in a submerged membrane tank having a submerged membrane for filtration, and the second-stage microbial treatment is microbial treatment with use of charcoal in a contact oxidation tank provided with the charcoal.</p>
+<p id="p-0030" num="0032">According to this embodiment, for the first-stage microbial treatment, microbial treatment is conducted in the submerged membrane tank. The submerged membrane separates the microorganisms from the treatment-receiving-water which goes to the second micro-nano bubble generation tank. Consequently, it is possible to maintain high-concentration microorganisms and thereby to enhance the decomposing treatment efficiency by microorganisms. Further, for the second-stage microbial treatment, microbial treatment is conducted in the contact oxidation tank filled with charcoal. Thus, organic compounds in the waste water, which are adsorbed to the charcoal, can efficiently be decomposed by the microorganisms activated and propagated on the charcoal.</p>
+<p id="p-0031" num="0033">In one embodiment of the present invention, the waste water treatment method further comprises the step of introducing the treatment-receiving-water, after application of the second-stage microbial treatment, into a third micro-nano bubble generation tank for adding the micro-nano bubbles to the treatment-receiving-water; and then the step of introducing the treatment-receiving-water containing the micro-nano bubbles into an activated charcoal adsorption device for applying activated charcoal treatment to the treatment-receiving-water.</p>
+<p id="p-0032" num="0034">According to this embodiment, the treatment-receiving-water, which has received the second-stage microbial treatment, is subjected to the activated charcoal treatment in the activated charcoal adsorption device. The microorganisms contained in the treatment-receiving-water after reception of the second-stage microbial treatment can be activated on the surface of activated charcoal. Thus, the organic compounds in the waste water adsorbed to the activated charcoal can effectively be decomposed by the activated microorganisms propagated on the charcoal.</p>
+<p id="p-0033" num="0035">In one embodiment of the present invention, the organofluoric compounds in the waste water containing the organofluoric compounds are either perfluorooctane sulfonic acid or perfluoro octanoic acid.</p>
+<p id="p-0034" num="0036">According to this embodiment, perfluorooctane sulfonic acid and perfluoro octanoic acid, which have been hardly decomposed in a microbial way, can effectively be decomposed by microorganisms with small energy and without use of chemicals wherever possible.</p>
+<p id="p-0035" num="0037">In one embodiment of the present invention, the waste water treatment method further comprises the step of introducing the treatment-receiving-water containing the micro-nano bubbles, which comes from the first micro-nano bubble generation tank, into a mixing tank, while sludge is pumped up from a lower portion of the submerged membrane tank by an air lift pump and introducing the sludge into the mixing tank; and the step of mixing the treatment-receiving-water with the sludge in the mixing tank and introducing the treatment-receiving-water mixed with the sludge into the submerged membrane tank.</p>
+<p id="p-0036" num="0038">According to this embodiment, the sludge coming from the lower portion of the submerged membrane tank and the treatment-receiving-water containing the micro-nano bubbles are mixed in the mixing tank. Thereafter, the treatment-receiving-water is introduced into the submerged membrane tank. Therefore, plenty of the micro-nano bubbles can directly act on microorganisms in a short period of time, so that the microorganisms can be activated much more in a short period of time. Further, sludge is pumped up from the submerged membrane tank by an air lift pump. Therefore, the air lift pump makes it possible to transfer a large amount of the sludge in the submerged membrane tank to the mixing tank with small energy. Further, compared with the case of no mixing tank, the micro-nano bubbles can be spread throughout the submerged membrane tank.</p>
+<p id="p-0037" num="0039">In one embodiment of the present invention, when the micro-nano bubbles are added to the treatment-receiving-water in the third micro-nano bubble generation tank, ozone from an ozonizer is fed to the third micro-nano bubble generation tank for generating ozone micro-nano bubbles so as to add the ozone micro-nano bubbles to the treatment-receiving-water.</p>
+<p id="p-0038" num="0040">According to this embodiment, ozone micro-nano bubbles are added to the treatment-receiving-water in the third micro-nano bubble generation tank. Therefore, the ozone micro-nano bubbles, which are suspended in the treatment-receiving-water for a long period of time, decompose the organic compounds which have been hardly decomposed in the microbial way. This arises from powerful oxidative decomposition of ozone. Further, after the rigid organic compounds are oxidatively decomposed by ozone, the residual organic compounds are adsorption-treated by the activated charcoal in the activated charcoal adsorption device. In that case, the residual ozone can be also treated by the activated charcoal.</p>
+<p id="p-0039" num="0041">The present invention provides a waste water treatment apparatus, comprising:</p>
+<p id="p-0040" num="0042">a first micro-nano bubble generation tank receiving waste water, as treatment-receiving-water, introduced from outside and having a micro-nano bubble generator for generating micro-nano bubbles, which are micrometer and nanometer size bubbles, so as to add the micro-nano bubbles to the introduced treatment-receiving-water;</p>
+<p id="p-0041" num="0043">a submerged membrane tank for applying microbial treatment, with use of microorganisms propagating in sludge, to the treatment-receiving-water containing the micro-nano bubbles and for filtering the treatment-receiving-water with use of the submerged membrane;</p>
+<p id="p-0042" num="0044">a first mixing tank receiving the treatment-receiving-water containing micro-nano bubbles added in the first micro-nano bubble generation tank, and receiving the sludge having the microorganisms propagated in the submerged membrane tank for mixing the treatment-receiving-water with the sludge so as to introduce the treatment-receiving-water mixed with the sludge into the submerged membrane tank;</p>
+<p id="p-0043" num="0045">a second micro-nano bubble generation tank having a micro-nano bubble generator for generating the micro-nano bubbles so as to add the micro-nano bubbles to the treatment-receiving-water introduced from the submerged membrane tank;</p>
+<p id="p-0044" num="0046">a contact oxidation tank filled with charcoal for applying microbial treatment, with use of microorganisms propagated on the charcoal, to the treatment-receiving-water containing the micro-nano bubbles;</p>
+<p id="p-0045" num="0047">a second mixing tank receiving the treatment-receiving-water containing micro-nano bubbles added in the second micro-nano bubble generation tank, and receiving the sludge having microorganisms propagated in the contact oxidation tank for mixing the treatment-receiving-water with the sludge so as to introduce the treatment-receiving-water mixed with the sludge into the contact oxidation tank;</p>
+<p id="p-0046" num="0048">a third micro-nano bubble generation tank having a micro-nano bubble generator for generating the micro-nano bubbles so as to add the micro-nano bubbles to the treatment-receiving-water introduced from the contact oxidation tank; and</p>
+<p id="p-0047" num="0049">an activated charcoal adsorption device receiving the treatment-receiving-water containing micro-nano bubbles added in the third micro-nano bubble generation tank, and filled with activated charcoal so as to apply microbial treatment, with use of microorganisms propagated on the activated charcoal, to the treatment-receiving-water.</p>
+<p id="p-0048" num="0050">According to the present invention, the microorganisms propagating in the submerged membrane tank, the contact oxidation tank and the activated charcoal adsorption device can be activated by micro-nano bubbles which are added in the first to third micro-nano bubble generation tanks respectively placed before the above-stated tanks and device. Thus, the activated microorganisms effectively decompose the organic compounds contained in the waste water in each of the submerged membrane tank, the contact oxidation tank and the activated charcoal adsorption device.</p>
+<p id="p-0049" num="0051">In one embodiment of the present invention, he submerged membrane tank is provided with a polyvinylidene chloride filling.</p>
+<p id="p-0050" num="0052">According to this embodiment, the activated microorganisms at high concentration are stably maintained in the polyvinylidene chloride filling.</p>
+<p id="p-0051" num="0053">As is clear from the above, according to the present invention, waste water i.e. treatment-receiving-water is introduced into the micro-nano bubble generation tank so as to sufficiently add micro-nano bubbles to the treatment-receiving-water, and then introduced into the microbe tank so as to apply microbial treatment to the treatment-receiving-water. The sufficient micro-nano bubbles added to the treatment-receiving-water make it possible to greatly activate microorganisms in the microbe tank, so that the activated microorganisms can effectively decompose organic compounds contained in the waste water in microbial manner.</p>
+<p id="p-0052" num="0054">Moreover, according to the waste water treatment method of the present invention, the treatment-receiving-water is introduced into the micro-nano bubble generation tank so as to add micro-nano bubbles to the treatment-receiving-water, introduced into the mixing tank so as to be mixed with sludge containing microorganisms, and introduced into the microbe tank so as to apply microbial treatment. Consequently, the treatment-receiving-water introduced into the microbe tank has the sufficient micro-nano bubbles and microorganisms contained in the sludge. Thus, sufficient the micro-nano bubbles directly act on the microorganisms in the treatment-receiving-water, so that the microorganisms are much more activated.</p>
+<p id="p-0053" num="0055">That is, according to the present invention, the activated microorganisms more effectively decompose the organic compounds contained in the waste water.</p>
+<p id="p-0054" num="0056">Further, according to the present invention, waste water as treatment-receiving-water is introduced into the first micro-nano bubble generation tank so as to add micro-nano bubbles to the water, then introduced into the first microbe tank to apply the first-stage microbial treatment to the water, and thereafter introduced into the second micro-nano bubble generation tank so as to add micro-nano bubbles to the water, before introduction of the water into the second microbe tank so as to apply the second-stage microbial treatment to the water. Consequently, before application of the second-stage microbial treatment, the micro-nano bubbles can be to the treatment-receiving-water after application of the first-stage microbial treatment. This makes it possible to supplement micro-nano bubbles consumed in the first-stage microbial treatment prior to the application of the second-stage microbial treatment. As a result, sufficient micro-nano bubbles can be added to the treatment-receiving-water both in the first-stage microbial treatment and in the second-stage microbial treatment.</p>
+<p id="p-0055" num="0057">That is, according to the present invention, the microorganisms in the first-stage microbial treatment and in the second-stage microbial treatment can be activated, so that the two-stage microbial treatment by the activated microorganisms can effectively decompose the organic compounds contained in the waste water.</p>
+<p id="p-0056" num="0058">Moreover, the waster water treatment apparatus according to the present invention treats waste water as treatment-receiving-water, which is introduced from the outside, sequentially by the first micro-nano bubble generation tank, the first mixing tank, the submerged membrane tank, the second micro-nano bubble generation tank, the second mixing tank, the contact oxidation tank, the third micro-nano bubble generation tank and the activated charcoal adsorption device, by which the microorganisms propagating in the submerged membrane tank, the contact oxidation tank and the activated charcoal adsorption device can sufficiently be activated by the micro-nano bubbles added in the first to third micro-nano bubble generation tanks placed prior to the respective tanks. Therefore, the activated microorganisms allow effective decomposition of the organic compounds contained in the waste water in each of the submerged membrane tank, the contact oxidation tank and the activated charcoal adsorption device.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0057" num="0059">The present invention will become more fully understood from the detailed description given hereinbelow and the accompanying drawings which are given by way of illustration only, and thus are not limitative of the present invention, and wherein:</p>
+<p id="p-0058" num="0060"><figref idref="DRAWINGS">FIG. 1</figref> is a block diagram showing a waster water treatment apparatus for treating waste water containing organofluoric compounds by a waste water treatment method according to the present invention;</p>
+<p id="p-0059" num="0061"><figref idref="DRAWINGS">FIG. 2</figref> is a block diagram showing a waster water treatment apparatus different from that in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0060" num="0062"><figref idref="DRAWINGS">FIG. 3</figref> is a block diagram showing a waster water treatment apparatus different from those in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>;</p>
+<p id="p-0061" num="0063"><figref idref="DRAWINGS">FIG. 4</figref> is a block diagram showing a waster water treatment apparatus different from those in <figref idref="DRAWINGS">FIGS. 1 to 3</figref>;</p>
+<p id="p-0062" num="0064"><figref idref="DRAWINGS">FIG. 5</figref> is a block diagram showing a waster water treatment apparatus for treating waste water containing organochlorine compounds by a waste water treatment method according to the present invention;</p>
+<p id="p-0063" num="0065"><figref idref="DRAWINGS">FIG. 6</figref> is a block diagram showing a waster water treatment apparatus different from that in <figref idref="DRAWINGS">FIG. 5</figref>;</p>
+<p id="p-0064" num="0066"><figref idref="DRAWINGS">FIG. 7</figref> is a block diagram showing a waster water treatment apparatus different from those in <figref idref="DRAWINGS">FIGS. 5 and 6</figref>; and</p>
+<p id="p-0065" num="0067"><figref idref="DRAWINGS">FIG. 8</figref> is a block diagram showing a waster water treatment apparatus different from those in <figref idref="DRAWINGS">FIGS. 5 to 7</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0066" num="0068">Hereinbelow, the present invention will be described in detail in conjunction with embodiments with reference to the accompanying drawings.</p>
+<heading id="h-0006" level="1">FIRST EMBODIMENT</heading>
+<p id="p-0067" num="0069"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic block diagram showing a waster water treatment apparatus for treating waste water containing organofluoric compounds by a waste water treatment method according to the first embodiment of the present invention.</p>
+<p id="p-0068" num="0070">In this embodiment, the waste water containing organofluoric compounds are treated mainly in three stages as described below. In a first stage, the waster water is treated in a first micro-nano bubble generation tank <b>1</b>, a first mixing tank <b>2</b>, and a submerged membrane tank <b>3</b>. In a second stage, the waste water is treated in a second micro-nano bubble generation tank <b>4</b>, a second mixing tank <b>5</b> and a contact oxidation tank <b>6</b>. In a third stage, the waste water is treated in a third micro-nano bubble generation tank <b>7</b> and an activated charcoal adsorption device <b>8</b>.</p>
+<p id="p-0069" num="0071">Reference numeral <b>9</b> in <figref idref="DRAWINGS">FIG. 1</figref> denotes a raw water tank, to which the waste water containing organofluoric compounds is introduced. The waste water containing organofluoric compounds, which have been introduced into the raw water tank <b>9</b>, is introduced into the first micro-nano bubble generation tank <b>1</b> by a raw water pump <b>10</b>.</p>
+<p id="p-0070" num="0072">Inside the first micro-nano bubble generation tank <b>1</b>, a first micro-nano bubble generator <b>11</b> is placed. Outside the first micro-nano bubble generation tank <b>1</b>, a circulating pump <b>12</b> is placed. Water in the first micro-nano bubble generation tank <b>1</b> is sucked by the circulating pump <b>12</b> to supply the water under increased pressure to the first micro-nano bubble generator <b>11</b>. As a result, the first micro-nano bubble generator <b>11</b> generates micro-nano bubbles to produce a micro-nano bubble flow <b>15</b>, while sucking air fed from an air suction pipe <b>13</b> connected thereto. The air suction pipe <b>13</b> is equipped with a valve <b>14</b> for adjusting the air amount in order to easily generate an optimum micro-nano bubble flow. Thus, the treatment-receiving-water having micro-nano bubbles added in the first micro-nano bubble generation tank <b>1</b> is next introduced into the first mixing tank <b>2</b>.</p>
+<p id="p-0071" num="0073">The first mixing tank <b>2</b> has an agitator <b>16</b>. Sludge containing microorganisms is transferred and introduced from the submerged membrane tank <b>3</b> into the first mixing tank <b>2</b> by an air lift pump <b>17</b>. In the first mixing tank <b>2</b>, the agitator <b>16</b> agitates and mixes the above-stated sludge and the treatment-receiving-water containing micro-nano bubbles coming from the first micro-nano bubble generation tank <b>1</b>. An air diffuser pipe <b>18</b> is placed in the lower portion of the air lift pump <b>17</b> to discharge air from the air diffuser pipe <b>18</b>, the air being fed from a blower <b>19</b>.</p>
+<p id="p-0072" num="0074">The treatment-receiving-water, which contains micro-nano bubbles and biological sludge obtained in the first mixing tank <b>2</b>, is next introduced into the submerged membrane tank <b>3</b>. In this case, the micro-nano bubbles have a characteristic of being able to stay in water for a long period of time. Consequently, the micro-nano bubbles activate the microorganisms in the submerged membrane tank <b>3</b>, so that the first-stage treatment of the organofluoric compounds is conducted by using the activated microorganisms.</p>
+<p id="p-0073" num="0075">Next, a submerged membrane pump <b>21</b> is operated, which is placed in the submerged membrane tank <b>3</b> and connected to a submerged membrane <b>20</b>. Thereby, the treatment-receiving-water, which has permeated the submerged membrane <b>20</b>, is introduced into the second micro-nano bubble generation tank <b>4</b>. An air diffuser pipe <b>22</b> is placed below the submerged membrane <b>20</b>. The air diffuser pipe <b>22</b> discharges air fed from the blower <b>19</b>.</p>
+<p id="p-0074" num="0076">A second micro-nano bubble generator <b>23</b> is placed inside of the second micro-nano bubble generation tank <b>4</b>, and a circulating pump <b>24</b> is placed outside thereof. The second micro-nano bubble generator <b>23</b> has an air suction pipe <b>25</b>, wherein the suction air amount is adjustable by a valve <b>26</b>.</p>
+<p id="p-0075" num="0077">The treatment-receiving-water, which contains micro-nano bubbles added in the second micro-nano bubble generation tank <b>4</b>, is next introduced into the second mixing tank <b>5</b>.</p>
+<p id="p-0076" num="0078">The second mixing tank <b>5</b> has an agitator <b>27</b>. Sludge containing microorganisms is transferred from a settling tank <b>29</b> by an air lift pump <b>28</b> and introduced into the second mixing tank <b>5</b>. In the second mixing tank <b>5</b>, the agitator <b>27</b> agitates to mix the sludge and the treatment-receiving-water containing micro-nano bubbles coming from the second micro-nano bubble generation tank <b>4</b>. An air diffuser pipe <b>30</b> is placed in the lower portion of the air lift pump <b>28</b>. Air fed from the blower <b>19</b> is discharged from the air diffuser pipe <b>30</b>.</p>
+<p id="p-0077" num="0079">Next, the treatment-receiving-water, which contains micro-nano bubbles and biological sludge obtained in the second mixing tank <b>5</b>, is introduced into the contact oxidation tank <b>6</b>. Because the micro-nano bubbles have a characteristic of being able to stay in water for a long period of time, the micro-nano bubbles can activate the microorganisms propagating on charcoal <b>32</b> filled in a net <b>31</b> of the contact oxidation tank <b>6</b>. By using the activated microorganisms, the second-stage treatment is performed with respect to the organofluoric compounds. An air diffuser pipe <b>33</b>, which is connected to the blower <b>19</b>, is placed in the contact oxidation tank <b>6</b>. The air discharged from the air diffuser pipe <b>33</b> aerates the inside of the contact oxidation tank <b>6</b> to maintain an aerobic environment.</p>
+<p id="p-0078" num="0080">After the second-stage treatment in the contact oxidation tank <b>6</b>, the treatment-receiving-water overflows and is introduced into the settling tank <b>29</b>. Then, the treatment-receiving-water in the settling tank <b>29</b> is introduced into the third micro-nano bubble generation tank <b>7</b>.</p>
+<p id="p-0079" num="0081">A third micro-nano bubble generator <b>34</b> is placed inside of the third micro-nano bubble generation tank <b>7</b>. A circulating pump <b>35</b> is placed outside thereof. The third micro-nano bubble generator <b>34</b> has an air suction pipe <b>36</b>, wherein the suction air amount is adjustable by a valve <b>37</b>.</p>
+<p id="p-0080" num="0082">The treatment-receiving-water, which contains micro-nano bubbles added in the third micro-nano bubble generation tank <b>7</b>, is next introduced into a pit <b>38</b>. The treatment-receiving-water, which is introduced into the pit <b>38</b>, is further introduced into the activated charcoal adsorption device <b>8</b> by using an activated charcoal pit pump <b>39</b>. In the activated charcoal adsorption device <b>8</b>, the third-stage treatment for the organofluoric compounds is then performed with use of the microorganisms propagating on the activated charcoal and activated by the micro-nano bubbles.</p>
+<p id="p-0081" num="0083">As a result, it becomes possible to obtain treated water where the organofluoric compounds are effectively decomposed by microorganisms.</p>
+<p id="p-0082" num="0084">Any commercially available generator may be used for the first micro-nano bubble generator <b>11</b>, the second micro-nano bubble generator <b>23</b> and the third micro-nano bubble generator <b>34</b>. In the present embodiment, particularly, there are employed the generators made by Nanoplanet Research Institute Corporation. As other available products, on the other hand, there are a micro-nano bubble generator made by Aura Tec Corporation, a micro bubble water generating apparatus made by Seika Corporation and a micro bubble water generating apparatus made by Shigenkaihatsu Corporation, for example. From among these products, generators may be selected in accordance with the intended use.</p>
+<p id="p-0083" num="0085">Description is now given of three kinds of bubbles: normal bubbles, micro bubbles and nano bubbles. Normal bubbles ascend in water, and burst with a pop to disappear upon reaching the surface. Micro bubbles, which are microscopic bubbles with a diameter of not more than 50 &#x3bc;m and not less than 1 &#x3bc;m, shrink in water and eventually disappear (totally dissolved). Nano bubbles, which are microscopic bubbles smaller than the micro bubbles (with a diameter of not more than 1 &#x3bc;m: 100 nm to 200 nm), exist in water everlastingly. The micro-nano bubbles are mixture bubbles of the micro bubbles and the nano bubbles.</p>
+<p id="p-0084" num="0086">Thus, in the present embodiment, micro-nano bubbles are added to waste water containing organofluoric compounds by the first micro-nano bubble generation tank <b>1</b>, the second micro-nano bubble generation tank <b>4</b> and the third micro-nano bubble generation tank <b>7</b>. Thereafter, for microbial treatment, the waste water is introduced into the microbial tanks which are composed of the first mixing tank <b>2</b>, the submerged membrane tank <b>3</b>, the second mixing tank <b>5</b>, the contact oxidation tank <b>6</b> and the activated charcoal adsorption device <b>8</b>.</p>
+<p id="p-0085" num="0087">Plenty of suspended substances are present in the microbe tank, and therefore it is impossible to generate sufficient micro-nano bubbles efficiently. Accordingly, treatment-receiving-water, to which micro-nano bubbles are added to contain sufficient micro-nano bubbles, is introduced into the microbial tanks, as mentioned above. Thereby, microorganisms in the microbial tank can be activated, so that organic compounds contained in the waste water are microbially decomposed with effect.</p>
+<p id="p-0086" num="0088">Further, since each of the micro-nano bubbles generation tanks <b>1</b>, <b>4</b>, <b>7</b> is provided separately from the respective microbial tanks, it becomes possible to check the generating state of micro-nano bubbles. Specifically, it is possible to check generation of optimum micro-nano bubbles with unassisted eyes when the amount of air suction is adjusted by the valves <b>14</b>, <b>26</b>, <b>37</b> of the air suction pipes <b>13</b>, <b>25</b>, <b>36</b> connected to the respective micro-nano bubble generators <b>11</b>, <b>23</b>, <b>34</b>.</p>
+<p id="p-0087" num="0089">Moreover, microbial treatment for the first-stage treatment is conducted in the submerged membrane tank <b>3</b>. The submerged membrane <b>20</b> in the submerged membrane tank <b>3</b> separates the microorganisms from the treatment-receiving-water which goes to the second micro-nano bubble generation tank <b>4</b>, so that high-concentration microorganisms can be maintained in the submerged membrane tank <b>3</b> in order to enhance the efficiency of decomposition treatment with the microorganisms. Further, microbial treatment for the second-stage microbial treatment is conducted in the contact oxidation tank <b>6</b> wherein the net <b>31</b> is filled with charcoal <b>32</b>. Consequently, it is possible to more efficiently decompose organofluoric compounds adsorbed to the charcoal <b>32</b> by using the activated microorganisms propagating on the charcoal <b>32</b>. Further, microbial treatment for the third-stage treatment is conducted in the activated charcoal adsorption device <b>8</b>. Consequently, the microorganisms contained in the treatment-receiving-water after the second-stage treatment are activated on the surface of the activated charcoal. Also, organic substances adsorbed to the activated charcoal are efficiently decomposed by the microorganisms propagating on the surface of the activated charcoal.</p>
+<p id="p-0088" num="0090">Moreover, the second micro-nano bubble generator <b>23</b> and the third micro-nano bubble generator <b>34</b> are placed respectively before the contact oxidation tank <b>6</b> for the second-stage treatment and before the activated charcoal adsorption device <b>8</b> for the third-stage treatment. Those placements make it possible to supplement micro-nano bubbles consumed in the first-stage treatment and the second-stage treatment. As a result, micro-nano bubbles are sufficiently added to the treatment-receiving-water both in the second-stage treatment and in the third-stage treatment, which makes it possible to sufficiently activate microorganisms in the contact oxidation tank <b>6</b> and in the activated charcoal adsorption device <b>8</b>.</p>
+<p id="p-0089" num="0091">Moreover, the water containing micro-nano bubbles and the sludge containing microorganisms are mixed in the first mixing tank <b>2</b> and the second mixing tank <b>5</b>. Therefore, the effect of the micro-nano bubbles directly influences microorganisms to activate the microorganisms much more.</p>
+<heading id="h-0007" level="1">SECOND EMBODIMENT</heading>
+<p id="p-0090" num="0092"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic block diagram showing a waster water treatment apparatus in the second embodiment. In this embodiment, a polyvinylidene chloride filling is provided in the submerged membrane tank <b>3</b> shown in <figref idref="DRAWINGS">FIG. 1</figref> of the first embodiment.</p>
+<p id="p-0091" num="0093">In <figref idref="DRAWINGS">FIG. 2</figref>, the component members identical to those shown in <figref idref="DRAWINGS">FIG. 1</figref> for the first embodiment are designated by identical reference numerals. The detailed description thereof will be omitted. Hereinbelow, description will be given of different points from the first embodiment.</p>
+<p id="p-0092" num="0094">In this embodiment, the polyvinylidene chloride filling <b>40</b> is provided in the submerged membrane tank <b>3</b> as mentioned just above, and therefore the polyvinylidene chloride filling <b>40</b> allows the microorganisms, which are activated by micro-nano bubbles, to stably propagate. This makes it possible to stabilize water quality at the outlet of the submerged membrane tank <b>3</b>, more specifically, the submerged membrane pump <b>21</b>.</p>
+<p id="p-0093" num="0095">Further, since the polyvinylidene chloride filling <b>40</b> is provided in the submerged membrane tank <b>3</b>, treatment capability of the submerged membrane tank <b>3</b> is effectively enhanced.</p>
+<heading id="h-0008" level="1">THIRD EMBODIMENT</heading>
+<p id="p-0094" num="0096"><figref idref="DRAWINGS">FIG. 3</figref> is a schematic block diagram showing a waster water treatment apparatus in the third embodiment. The first mixing tank <b>2</b>, which is shown in <figref idref="DRAWINGS">FIG. 1</figref> of the first embodiment, is removed in this embodiment.</p>
+<p id="p-0095" num="0097">In <figref idref="DRAWINGS">FIG. 3</figref>, the component members identical to those shown in <figref idref="DRAWINGS">FIG. 1</figref> for the first embodiment are designated by identical reference numerals. The detailed description thereof will be omitted. Hereinbelow, description will be given of different points from the first embodiment.</p>
+<p id="p-0096" num="0098">In the present embodiment, the first mixing tank <b>2</b> of the first embodiment is removed. Therefore, the submerged membrane tank <b>3</b> provides a place where the micro-nano bubbles in treatment-receiving-water and the microorganisms in sludge transported by the air lift pump <b>17</b> come into contact each other. As a result, performance is slightly degraded in comparison with the first embodiment because of lack in the efficient contact between the micro-nano bubbles and the microorganisms in the first mixing tank <b>2</b>.</p>
+<p id="p-0097" num="0099">However, the absence of the first mixing tank <b>2</b> reduces cost of production, which leads to reduction in initial cost totally.</p>
+<heading id="h-0009" level="1">FOURTH EMBODIMENT</heading>
+<p id="p-0098" num="0100"><figref idref="DRAWINGS">FIG. 4</figref> is a schematic block diagram showing a waster water treatment apparatus in the fourth embodiment. In this embodiment, an ozonizer <b>41</b> is connected to the air suction pipe <b>36</b> shown in <figref idref="DRAWINGS">FIG. 1</figref> for the first embodiment.</p>
+<p id="p-0099" num="0101">In <figref idref="DRAWINGS">FIG. 4</figref>, the component members identical to those shown in <figref idref="DRAWINGS">FIG. 1</figref> for the first embodiment are designated by identical reference numerals. The detailed description thereof will be omitted. Hereinbelow, description will be given of given of different points from the first embodiment.</p>
+<p id="p-0100" num="0102">In the present embodiment, the ozonizer <b>41</b>, which is connected to the air suction pipe <b>36</b> used in the first embodiment as mentioned above, makes a change in micro-nano bubbles generated by the third micro-nano bubble generator <b>34</b> from conventional air micro-nano bubbles to ozone micro-nano bubbles. As a result, the micro-nano bubbles coming from the third micro-nano bubble generator <b>34</b> has increased oxidizability.</p>
+<p id="p-0101" num="0103">Thus, the treatment-receiving-water containing organofluoric compounds is oxidatively decomposed by strong oxidizability of the ozone. Thereafter, the treatment-receiving-water is introduced by the activated charcoal pit pump <b>39</b> into the activated charcoal adsorption device <b>8</b>, where residual organofluoric compounds are treated by the adsorption capacity of the activated charcoal. However, since the ozone micro-nano bubbles are suspended in water for a long period of time, the ozone micro-nano bubbles enter into the activated charcoal adsorption device <b>8</b> to hinder propagation of microorganisms. As a result, in the activated charcoal adsorption device <b>8</b>, the treatment is conducted only by the adsorption capacity of the activated charcoal, whereas decomposition treatment by microorganisms is not conducted.</p>
+<heading id="h-0010" level="1">FIFTH EMBODIMENT</heading>
+<p id="p-0102" num="0104"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic block diagram showing a waster water treatment apparatus in the fifth embodiment. In this embodiment, the treatment-receiving-water is waste water containing organochlorine compounds, whereas the treatment-receiving-water shown in <figref idref="DRAWINGS">FIG. 1</figref> for the first embodiment is waste water containing organofluoric compounds.</p>
+<p id="p-0103" num="0105">A structure of the waster water treatment apparatus in the present embodiment is quite identical to the structure of the waster water treatment apparatus shown in <figref idref="DRAWINGS">FIG. 1</figref> for the first embodiment. Therefore, identical component members of the waster water treatment apparatus in the present embodiment are designated by identical reference numerals in the first embodiment, and the detailed description thereof will be omitted.</p>
+<p id="p-0104" num="0106">Not only the organofluoric compounds but also the organochlorine compounds are substances difficult to decompose microbially. However, the present embodiment has the structure of the waster water treatment apparatus identical to that in the first embodiment which can microbially decompose the organofluoric compounds with effect. According to the present embodiment, as in the case of the first embodiment, the organochlorine compounds can be effectively decomposed in the microbial manner.</p>
+<heading id="h-0011" level="1">SIXTH EMBODIMENT</heading>
+<p id="p-0105" num="0107"><figref idref="DRAWINGS">FIG. 6</figref> is a schematic block diagram showing a waster water treatment apparatus in the sixth embodiment. This embodiment is different from the first embodiment shown in <figref idref="DRAWINGS">FIG. 1</figref> in the points that a polyvinylidene chloride filling is provided in the submerged membrane tank <b>3</b> and that the treatment-receiving-water is waste water containing organochlorine compounds.</p>
+<p id="p-0106" num="0108">A structure of the waster water treatment apparatus in the present embodiment is identical to the structure of the waster water treatment apparatus in the second embodiment shown in <figref idref="DRAWINGS">FIG. 2</figref>. Accordingly, identical component members of the waster water treatment apparatus in the present embodiment are designated by identical reference numerals in the second embodiment. The detailed description thereof will be omitted.</p>
+<p id="p-0107" num="0109">In the present embodiment, as in the case of the second embodiment, the microorganisms activated by micro-nano bubbles can stably propagate in the polyvinylidene chloride filling <b>40</b>. This makes it possible to stabilize water quality at the outlet of the submerged membrane tank <b>3</b>, more specifically, water quality at the outlet of the submerged membrane pump <b>21</b>. Further, there is also an effect of enhancing treatment capability of the submerged membrane tank <b>3</b>.</p>
+<heading id="h-0012" level="1">SEVENTH EMBODIMENT</heading>
+<p id="p-0108" num="0110"><figref idref="DRAWINGS">FIG. 7</figref> is a schematic block diagram showing a waster water treatment apparatus in the seventh embodiment. This embodiment is different from the first embodiment shown in <figref idref="DRAWINGS">FIG. 1</figref> in the points that the first mixing tank <b>2</b> is removed and that the treatment-receiving-water is waste water containing organochlorine compounds.</p>
+<p id="p-0109" num="0111">The structure of the waster water treatment apparatus in the present embodiment is identical to the structure of the waster water treatment apparatus in the third embodiment shown in <figref idref="DRAWINGS">FIG. 3</figref>. Accordingly, identical component members of the waster water treatment apparatus in the present embodiment are designated by identical reference numerals in the third embodiment. The detailed description thereof will be omitted.</p>
+<p id="p-0110" num="0112">In the present embodiment, as in the case of the third embodiment, there is no efficient contact between the micro-nano bubbles and the microorganisms is absent in the first mixing tank <b>2</b>. Therefore, performance of the apparatus is slightly degraded as compared with the fifth embodiment. However, the absence of the first mixing tank <b>2</b> can reduce cost of production, which leads to reduction in initial cost totally.</p>
+<heading id="h-0013" level="1">EIGHTH EMBODIMENT</heading>
+<p id="p-0111" num="0113"><figref idref="DRAWINGS">FIG. 8</figref> is a schematic block diagram showing a waster water treatment apparatus in the eighth embodiment. This embodiment is different from the first embodiment shown in <figref idref="DRAWINGS">FIG. 1</figref> in the points that the air suction pipe <b>36</b> is connected to an ozonizer <b>41</b> and that the treatment-receiving-water is waste water containing organochlorine compounds.</p>
+<p id="p-0112" num="0114">The structure of the waster water treatment apparatus in the present embodiment is identical to the structure of the waster water treatment apparatus in the fourth embodiment shown in <figref idref="DRAWINGS">FIG. 4</figref>. Accordingly, identical component members of the waster water treatment apparatus in the present embodiment are designated by identical reference numerals in the fourth embodiment. The detailed description thereof will be omitted.</p>
+<p id="p-0113" num="0115">In the present embodiment, as in the case of the fourth embodiment, micro-nano bubbles generated by the third micro-nano bubble generator <b>34</b> are changed from conventional air micro-nano bubbles to ozone micro-nano bubbles. As a result, the micro-nano bubbles coming from the third micro-nano bubble generator <b>34</b> has increased oxidizability. Thus, the treatment-receiving-water containing organochlorine compounds is oxidatively decomposed by strong oxidizability of the ozone. Thereafter, the treatment-receiving-water is introduced by the activated charcoal pit pump <b>39</b> into the activated charcoal adsorption device <b>8</b>, where residual organochlorine compounds are treated by the adsorption capacity of the activated charcoal.</p>
+<heading id="h-0014" level="1">EXPERIMENTAL EXAMPLE</heading>
+<p id="p-0114" num="0116">Description is now given of an example of experiment in the first embodiment. Specifically, an experimental apparatus was manufactured based on the apparatus shown in <figref idref="DRAWINGS">FIG. 1</figref>. In the experimental apparatus, the capacity of the raw water tank <b>9</b> was 300 liters. The capacity of the first micro-nano bubble generation tank <b>1</b> was 20 liters. The capacity of the first mixing tank <b>2</b> was 10 liters. The capacity of the submerged membrane tank <b>3</b> was 1000 liters.</p>
+<p id="p-0115" num="0117">The capacity of the second micro-nano bubble generation tank <b>4</b> was 20 liters. The capacity of the second mixing tank <b>5</b> was 10 liters. The capacity of the contact oxidation tank <b>6</b> was 500 liters. The capacity of the settling tank <b>29</b> was 50 liters.</p>
+<p id="p-0116" num="0118">The capacity of the third micro-nano bubble generation tank <b>7</b> was 20 liters, the capacity of the pit <b>38</b> was 10 liters, and the capacity of the activated charcoal adsorption device <b>8</b> was 5 liters.</p>
+<p id="p-0117" num="0119">As the treatment-receiving-water, waste water containing organofluoric compounds from a semiconductor plant was introduced into the raw water tank <b>9</b>. The measurement was conducted on the concentration of organofluoric compounds in the treatment-receiving-water (raw water) introduced into the raw water tank <b>9</b> and the concentration of organofluoric compounds in the treated water at the outlet of the activated charcoal adsorption device <b>8</b>. The removal ratio of organofluoric compounds was 92% between the raw water and the treated water.</p>
+<p id="p-0118" num="0120">The invention being thus described, it will be obvious that the invention may be varied in many ways. Such variations are not be regarded as a departure from the spirit and scope of the invention, and all such modifications as would be obvious to one skilled in the art are intended to be included within the scope of the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A waste water treatment method, comprising the steps of:
+<claim-text>introducing waste water as treatment-receiving-water into a first micro-nano bubble generation tank for adding micro-nano bubbles, which are micrometer and nanometer size bubbles, to the treatment-receiving-water;</claim-text>
+<claim-text>introducing the treatment-receiving-water containing the micro-nano bubbles into a first microbe tank for applying first-stage microbial treatment to the treatment-receiving-water;</claim-text>
+<claim-text>introducing the treatment-receiving-water, after application of the first-stage microbial treatment, into a second micro-nano bubble generation tank for adding the micro-nano bubbles to the treatment-receiving-water; and then</claim-text>
+<claim-text>introducing the treatment-receiving-water containing micro-nano bubbles into a second microbe tank for applying second-stage microbial treatment to the treatment-receiving-waste,</claim-text>
+<claim-text>wherein</claim-text>
+<claim-text>the waste water is waste water containing organofluoric compounds or organochlorine compounds.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A waste water treatment method, comprising the steps of:
+<claim-text>introducing waste water as treatment-receiving-water into a first micro-nano bubble generation tank for adding micro-nano bubbles, which are micrometer and nanometer size bubbles, to the treatment-receiving-water;</claim-text>
+<claim-text>introducing the treatment-receiving-water containing the micro-nano bubbles into a first microbe tank for applying first-stage microbial treatment to the treatment-receiving-water;</claim-text>
+<claim-text>introducing the treatment-receiving-water, after application of the first-stage microbial treatment, into a second micro-nano bubble generation tank for adding the micro-nano bubbles to the treatment-receiving-water; and then</claim-text>
+<claim-text>introducing the treatment-receiving-water containing micro-nano bubbles into a second microbe tank for applying second-stage microbial treatment to the treatment-receiving-waste,</claim-text>
+<claim-text>wherein</claim-text>
+<claim-text>the first-stage microbial treatment is microbial treatment in a submerged membrane tank having a submerged membrane for filtration, and</claim-text>
+<claim-text>the second-stage microbial treatment is microbial treatment with use of charcoal in a contact oxidation tank provided with the charcoal.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A waste water treatment method, comprising the steps of:
+<claim-text>introducing waste water as treatment-receiving-water into a first micro-nano bubble generation tank for adding micro-nano bubbles, which are micrometer and nanometer size bubbles, to the treatment-receiving-water;</claim-text>
+<claim-text>introducing the treatment-receiving-water containing the micro-nano bubbles into a first microbe tank for applying first-stage microbial treatment to the treatment-receiving-water;</claim-text>
+<claim-text>introducing the treatment-receiving-water, after application of the first-stage microbial treatment, into a second micro-nano bubble generation tank for adding the micro-nano bubbles to the treatment-receiving-water; and then</claim-text>
+<claim-text>introducing the treatment-receiving-water containing micro-nano bubbles into a second microbe tank for applying second-stage microbial treatment to the treatment-receiving-waste,</claim-text>
+<claim-text>comprising the steps of:</claim-text>
+<claim-text>introducing the treatment-receiving-water, after application of the second-stage microbial treatment, into a third micro-nano bubble generation tank for adding the micro-nano bubbles to the treatment-receiving-water; and then</claim-text>
+<claim-text>introducing the treatment-receiving-water containing the micro-nano bubbles into an activated charcoal adsorption device for applying activated charcoal treatment to the treatment-receiving-water.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The waste water treatment method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>the organofluoric compounds in the waste water containing the organofluoric compounds are either perfluorooctane sulfonic acid or perfluoro octanoic acid.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The waste water treatment method according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, comprising the steps of:
+<claim-text>introducing the treatment-receiving-water containing the micro-nano bubbles which comes from the first micro-nano bubble generation tank into a mixing tank, while sludge is pumped up from a lower portion of the submerged membrane tank by an air lift pump and introducing the sludge into the mixing tank; and</claim-text>
+<claim-text>mixing the treatment-receiving-water with the sludge in the mixing tank and introducing the treatment-receiving-water mixed with the sludge into the submerged membrane tank.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The waste water treatment method according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein
+<claim-text>when the micro-nano bubbles are added to the treatment-receiving-water in the third micro-nano bubble generation tank, ozone from an ozonizer is fed to the third micro-nano bubble generation tank for generating ozone micro-nano bubbles so as to add the ozone micro-nano bubbles to the treatment-receiving-water.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A waste water treatment apparatus, comprising:
+<claim-text>a first micro-nano bubble generation tank receiving waste water, as treatment-receiving-water, introduced from outside and having a micro-nano bubble generator for generating micro-nano bubbles, which are micrometer and nanometer size bubbles, so as to add the micro-nano bubbles to the introduced treatment-receiving-water;</claim-text>
+<claim-text>a submerged membrane tank for applying microbial treatment, with use of microorganisms propagating in sludge, to the treatment-receiving-water containing the micro-nano bubbles and for filtering the treatment-receiving-water with use of the submerged membrane;</claim-text>
+<claim-text>a first mixing tank receiving the treatment-receiving-water containing micro-nano bubbles added in the first micro-nano bubble generation tank, and receiving the sludge having the microorganisms propagated in the submerged membrane tank for mixing the treatment-receiving-water with the sludge so as to introduce the treatment-receiving-water mixed with the sludge into the submerged membrane tank;</claim-text>
+<claim-text>a second micro-nano bubble generation tank having a micro-nano bubble generator for generating the micro-nano bubbles so as to add the micro-nano bubbles to the treatment-receiving-water introduced from the submerged membrane tank;</claim-text>
+<claim-text>a contact oxidation tank filled with charcoal for applying microbial treatment, with use of microorganisms propagated on the charcoal, to the treatment-receiving-water containing the micro-nano bubbles;</claim-text>
+<claim-text>a second mixing tank receiving the treatment-receiving-water containing micro-nano bubbles added in the second micro-nano bubble generation tank, and receiving the sludge having microorganisms propagated in the contact oxidation tank for mixing the treatment-receiving-water with the sludge so as to introduce the treatment-receiving-water mixed with the sludge into the contact oxidation tank;</claim-text>
+<claim-text>a third micro-nano bubble generation tank having a micro-nano bubble generator for generating the micro-nano bubbles so as to add the micro-nano bubbles to the treatment-receiving-water introduced from the contact oxidation tank; and</claim-text>
+<claim-text>an activated charcoal adsorption device receiving the treatment-receiving-water containing micro-nano bubbles added in the third micro-nano bubble generation tank, and filled with activated charcoal so as to apply microbial treatment, with use of microorganisms propagated on the activated charcoal, to the treatment-receiving-water.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The waste water treatment apparatus according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein
+<claim-text>the submerged membrane tank is provided with a polyvinylidene chloride filling. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

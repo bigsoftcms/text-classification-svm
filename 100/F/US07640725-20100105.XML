@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640725-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640725</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11330596</doc-number>
+<date>20060112</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>569</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>02</class>
+<subclass>C</subclass>
+<main-group>9</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 60 39281</main-classification>
+<further-classification> 60776</further-classification>
+</classification-national>
+<invention-title id="d0e53">Pilot fuel flow tuning for gas turbine combustors</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4265085</doc-number>
+<kind>A</kind>
+<name>Fox et al.</name>
+<date>19810500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4394811</doc-number>
+<kind>A</kind>
+<name>Swick</name>
+<date>19830700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5319936</doc-number>
+<kind>A</kind>
+<name>Ikeda et al.</name>
+<date>19940600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60737</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5465570</doc-number>
+<kind>A</kind>
+<name>Szillat et al.</name>
+<date>19951100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5802584</doc-number>
+<kind>A</kind>
+<name>Kool et al.</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>711154</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5806299</doc-number>
+<kind>A</kind>
+<name>Bauermeister et al.</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5836164</doc-number>
+<kind>A</kind>
+<name>Tsukahara et al.</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60733</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5974781</doc-number>
+<kind>A</kind>
+<name>Correa et al.</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6082111</doc-number>
+<kind>A</kind>
+<name>Stokes</name>
+<date>20000700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6205765</doc-number>
+<kind>B1</kind>
+<name>Iasillo et al.</name>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6381947</doc-number>
+<kind>B2</kind>
+<name>Emmons</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6408611</doc-number>
+<kind>B1</kind>
+<name>Keller et al.</name>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>6425239</doc-number>
+<kind>B2</kind>
+<name>Hoffmann et al.</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>6490867</doc-number>
+<kind>B2</kind>
+<name>Braun et al.</name>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60776</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>6532726</doc-number>
+<kind>B2</kind>
+<name>Norster et al.</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6698207</doc-number>
+<kind>B1</kind>
+<name>Wiebe et al.</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>6742341</doc-number>
+<kind>B2</kind>
+<name>Ryan et al.</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6763664</doc-number>
+<kind>B2</kind>
+<name>Aoyama</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6848260</doc-number>
+<kind>B2</kind>
+<name>North et al.</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6877307</doc-number>
+<kind>B2</kind>
+<name>Ryan et al.</name>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>2001/0027639</doc-number>
+<kind>A1</kind>
+<name>Emmons</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>2003/0061817</doc-number>
+<kind>A1</kind>
+<name>Aoyama</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>2004/0194468</doc-number>
+<kind>A1</kind>
+<name>Ryan et al.</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>13</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 60776</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60737</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60 39281</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>1</number-of-drawing-sheets>
+<number-of-figures>2</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070157624</doc-number>
+<kind>A1</kind>
+<date>20070712</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Bland</last-name>
+<first-name>Robert J.</first-name>
+<address>
+<city>Oviedo</city>
+<state>FL</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ryan</last-name>
+<first-name>William R.</first-name>
+<address>
+<city>Oviedo</city>
+<state>FL</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Siemens Energy, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Orlando</city>
+<state>FL</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Cuff</last-name>
+<first-name>Michael</first-name>
+<department>3741</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Wongwian</last-name>
+<first-name>Phutthiwat</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method and system for controlling combustion in a gas turbine combustor (<b>18</b>) includes adjusting an amount of a premix fuel portion (<b>30</b>) of a pilot fuel (<b>28</b>) provided to a premix burner stage (<b>48</b>) of a pilot (<b>46</b>) of the gas turbine combustor. The amount of the premix fuel portion is adjusted from a preset premix fuel portion amount to an adjusted premix fuel portion amount to achieve a desired first operating condition of the combustor. An amount of a diffusion fuel portion (<b>34</b>) of the pilot fuel provided to a diffusion burner stage (<b>50</b>) of the pilot is then adjusted from a preset diffusion fuel portion amount to an adjusted diffusion fuel portion amount to achieve a desired second operating condition of the combustor.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="147.66mm" wi="145.37mm" file="US07640725-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="249.68mm" wi="169.93mm" file="US07640725-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention relates generally to gas turbines, and, more particularly, to controlling fuel flows to a pilot of a combustor of a gas turbine to achieve a desired lowered pollutant emission while maintaining dynamic stability of the combustor.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Gas turbine engines are known to include a compressor for compressing air, a combustor for producing a hot gas by burning fuel in the presence of the compressed air produced by the compressor, and a turbine for expanding the hot gas to extract shaft power. The design of a gas turbine combustor is complicated by the necessity for the gas turbine engine to operate reliably with a low level of emissions, such as oxides of nitrogen (NOx), at a variety of power levels. In addition, it is important to ensure the stability of the flame to avoid unexpected flameout and damaging levels of acoustic vibration. A relatively rich fuel/air mixture will improve the stability of the combustion process but will have an adverse affect on the level of emissions. A careful balance must be achieved among these various constraints in order to provide a reliable machine capable of satisfying very strict modern emissions regulations over a wide range of loading conditions. A pilot flame is commonly used to stabilize the flame. However, the pilot is a diffusion flame that produces a significant amount of NOx.</p>
+<p id="p-0004" num="0003">Staging is the delivery of fuel to the combustion chamber through at least two separately controllable fuel supply systems or stages. Staging is known as a method to control combustion in a gas turbine combustor. A staged gas turbine combustor pilot is described in U.S. Pat. No. 6,877,307 as having a premix stage wherein air and fuel are premixed prior to being combusted in a pilot combustion region to achieve reduced pollutant emission.</p>
+<p id="p-0005" num="0004">Traditionally, gas turbine engine settings for a land-based powder generation turbine are manually &#x201c;tuned&#x201d; by a combustion engineer during the start-up of the power plant in order to satisfy appropriate emissions criteria without exceeding dynamic load limitations. As emission limits become increasingly stringent, low NOx combustors must be operated increasingly close to their physical limits and operational margins become smaller. A power plant turbine may be required to operate for days, weeks or even months. During such extended intervals, many variables affecting the combustion conditions may change. For example, the temperature and humidity of the ambient combustion air may change, the fuel characteristics may change, and the combustion system components are subject to wear and drift over time.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0006" num="0005">The invention is explained in the following description in view of the drawings that show:</p>
+<p id="p-0007" num="0006"><figref idref="DRAWINGS">FIG. 1</figref> is a functional diagram of an exemplary embodiment of a gas turbine system including an improved method of pilot fuel flow control.</p>
+<p id="p-0008" num="0007"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic cross-sectional diagram of an exemplary embodiment of a two stage pilot of the gas turbine of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0009" num="0008">While gas turbine pilots having a two or more stages may be capable of providing lower overall emissions than a pilot having only a single stage, fuel control of the stages to achieve optimum combustion conditions has proven difficult. For example, fuel flow changes in one stage may affect the combustion characteristics in the other stage and vice versa. In addition, one stage may be exhibit a sharp or more rapid dynamic response in the presence of changing fuel flows than another stage. For, example, in a two stage pilot having a diffusion stage and a premix stage, it has been observed that a 0.2% to 0.3% change in an amount of a fuel fraction provided to the premix stage may cause the premix stage to exhibit an intermediate frequency dynamic instability while the diffusion stage dynamics remain relatively insensitive to such changes. Accordingly, tuning of respective pilot stages to achieve desired emissions and stability may be prohibitively time consuming or computationally intensive. The inventors have innovatively realized that by first setting a stage having a faster dynamic response characteristic than a second stage of a two stage pilot to achieve a first desired operating condition, and then setting the second stage to achieve a second desired operating condition, tuning may be achieved more quickly and easily compared to conventional techniques. Advantageously, stability of the first stage may be maintained while tuning the second stage.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 1</figref> shows a gas turbine <b>10</b> including a compressor <b>12</b> for receiving ambient air <b>14</b> and for providing compressed air <b>16</b> to a combustor <b>18</b>. The combustor <b>18</b> also receives combustible fuel, for example, from a main burner fuel supply <b>20</b> and from a pilot fuel supply <b>22</b>. The main fuel supply <b>22</b> may supply main burner fuel <b>24</b> to a main burner of the combustor <b>18</b> through a main fuel supply valve <b>26</b>. The pilot fuel supply <b>22</b> may supply pilot fuel <b>28</b> to a pilot of the combustor <b>18</b>. In an embodiment, the pilot fuel <b>28</b> may be split into a first fuel portion <b>30</b> and a second fuel portion <b>34</b> supplied through respective valves <b>32</b>, <b>36</b>. In another embodiment, separate first and second pilot fuel supplies may used to supply the respective first fuel portion <b>30</b> and second fuel portion <b>34</b> through corresponding valves <b>32</b>, <b>36</b>. Combustion of the combustible fuels <b>24</b>, <b>28</b> supplied to the combustor <b>18</b> in the compressed air <b>16</b> results in the supply of hot combustion gas <b>38</b> to turbine <b>40</b>, wherein the hot combustion gas <b>38</b> is expanded to recover energy in the form of the rotation of shaft <b>42</b> that is used, in turn, to drive the compressor <b>12</b>. The turbine exhaust <b>44</b> is delivered back to the ambient atmosphere.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic cross-sectional diagram of an exemplary embodiment of a two stage pilot disposed within the combustor <b>18</b> of the gas turbine <b>10</b> of <figref idref="DRAWINGS">FIG. 1</figref>. In the embodiment depicted in <figref idref="DRAWINGS">FIG. 2</figref>, the pilot <b>46</b> may include a first stage, such as a premix burner stage <b>48</b>, and a second stage, such as a diffusion burner stage <b>50</b>. In an embodiment, the diffusion stage <b>50</b> may be positioned in a central region <b>52</b> of the pilot <b>46</b> and the premix stage <b>48</b> may be annularly disposed around the diffusion stage <b>50</b>. The pilot <b>46</b> includes a premix fuel flow path <b>54</b> delivering the first fuel portion <b>30</b>, such as a premix fuel portion, of the pilot fuel flow to the premix burner stage <b>48</b>. The pilot <b>46</b> also includes a diffusion fuel flow path <b>56</b> delivering the second fuel portion <b>34</b>, such as a diffusion fuel portion, of the pilot fuel flow to the diffusion stage <b>50</b>. Valves <b>32</b>, <b>36</b> may be positioned in the respective fuel flow paths <b>54</b>, <b>56</b> for controlling the first fuel portion <b>30</b> and second fuel portion <b>34</b> flowing therethrough. The premix fuel path <b>54</b> may discharge the premix fuel portion from openings <b>58</b> in swirler vanes <b>60</b> disposed in a pilot air flow path <b>62</b> receiving a pilot portion <b>64</b> of the compressed air. The swirler vanes <b>60</b> may be positioned upstream of an outlet <b>66</b> of the pilot <b>46</b> to generate a fuel/air premixture <b>68</b> discharged into a downstream pilot combustion zone <b>70</b>. The diffusion fuel flow path <b>56</b> may discharge the second fuel portion <b>34</b> from an opening <b>72</b> directly into the downstream pilot combustion zone <b>68</b> to mix with the fuel/air mixture <b>68</b> and be combusted therein.</p>
+<p id="p-0012" num="0011">Returning to <figref idref="DRAWINGS">FIG. 1</figref>, the gas turbine <b>10</b> is provided with a controller <b>74</b> for implementing steps necessary for controlling the flow of fuels <b>24</b>, <b>30</b>, <b>34</b> to the combustor <b>18</b> to achieve desired operating conditions of the combustor <b>18</b>. Controller <b>74</b> may take any form known in the art, for example an analog or digital microprocessor or computer, and it may be integrated into or combined with one or more controllers used for other functions related to the operation of the gas turbine <b>10</b>. The steps necessary for such processes may be embodied in hardware, software and/or firmware in any form that is accessible and executable by controller <b>74</b> and may be stored on any medium that is convenient for the particular application.</p>
+<p id="p-0013" num="0012">In an aspect of the invention, the controller <b>74</b> receives an input signal <b>76</b> from an emission analyzer <b>78</b> such as may be part of a continuous emissions monitoring system provided as part of the gas turbine <b>10</b>. In one embodiment, emission analyzer <b>78</b> may be a NOx sensor. Other types of sensors may be used in other applications, depending upon the emission control requirements for a particular application. Controller <b>74</b> may also receive an input signal <b>80</b> from a dynamics sensor <b>82</b>. Dynamics sensor <b>44</b> may be a pressure sensor, an acoustic sensor, an electromagnetic energy sensor, or other type of sensor known in the art for sensing dynamic parameter fluctuations responsive to fluctuations in the combustion process. The controller <b>36</b> may have outputs <b>84</b>, <b>86</b>, <b>88</b> for controlling the position of respective valves <b>26</b>, <b>32</b>, <b>36</b> to control amounts of the main fuel <b>24</b> and pilot fuels <b>30</b>, <b>34</b> provided to the respective stages <b>48</b>, <b>50</b> of the pilot <b>46</b> as shown in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0014" num="0013">The controller <b>74</b> may be configured for controlling combustion in the gas turbine combustor <b>18</b>. A method for controlling combustion in the gas turbine combustor <b>18</b> may include adjusting an amount of the first fuel portion <b>30</b>, such as the premix fuel portion, of the pilot fuel <b>28</b> provided to the premix burner stage <b>48</b> to achieve a desired operating condition of the combustor <b>18</b>. Typically, the pilot <b>46</b> is operated according to preset fuel flow values corresponding to a fuel flow table that specifies fuel amounts, such as a fuel fraction of the total pilot fuel, delivered to the respective stages <b>48</b>, <b>50</b>. The values stored in fuel flow table may correspond to certain load ranges and environmental operating conditions, such as ambient temperature and/or humidity. For example, when the gas turbine <b>10</b> is being operated in a load range of about 50% to 100% of a base load rating of the gas turbine, 92% of the pilot fuel <b>28</b> may be provided to the premix stage <b>48</b> as the preset premix fuel portion amount and 8% of the pilot fuel <b>28</b> may be provided to the diffusion stage <b>56</b> as the preset diffusion fuel portion amount.</p>
+<p id="p-0015" num="0014">In an embodiment, the preset premix fuel portion amount may be reduced to an adjusted premix fuel portion amount to achieve an operating condition of the combustor <b>18</b> that may be closer to a dynamic instability condition than a condition maintained at a preset level. A reduction in the preset premix fuel portion amount advantageously results in a corresponding reduction of pollutant formation. A dynamic operating condition of the combustor <b>18</b> may be monitored while reducing the premix fuel portion amount until a desired dynamic operating condition is achieved, such as when a dynamic frequency spike having an amplitude exceeding a certain limit is detected. Upon reaching the desired dynamic operating condition, the adjusted premix fuel portion amount may then be further adjusted by increasing the adjusted premix fuel portion amount to provide a desired margin away from the desired dynamic operating condition. For example, when the desired dynamic condition is reached, the adjusted premix fuel portion amount may be increased by about 0.1% to 0.5% of the preset premix fuel portion amount, or more preferably about 0.25% to 0.4% of the preset premix fuel portion amount.</p>
+<p id="p-0016" num="0015">In another embodiment, an amount of adjustment of the premix fuel portion amount may be limited, for example, regardless of whether a desired dynamic operating condition is achieved. In an exemplary aspect, an adjustment limit may be set at 0.5% of the preset premix fuel portion amount. Accordingly, when attempting to adjust the premix fuel portion amount to reach a desired dynamic operating condition, the premix fuel portion amount is only allowed to be reduced by 0.5% of the preset premix fuel portion amount, even if the desired dynamic operating condition has not been reached. In other words, a difference between the preset premix fuel portion amount and the adjusted premix fuel portion amount may be limited so that a difference between these two amounts is no more than a desired difference in a range of about 0.25% to 0.75%, and preferably in a range of about 0.4% to 0.6%.</p>
+<p id="p-0017" num="0016">Once the premix stage <b>48</b> is set to achieve the desired operating condition, the diffusion stage <b>50</b> may then be adjusted. The diffusion fuel portion may be adjusted from a preset diffusion fuel portion amount to an adjusted diffusion fuel portion amount to achieve a desired second operating condition of the combustor <b>18</b> that may be closer to a dynamic instability condition than a condition maintained at a preset level. In an embodiment, a pollutant emission operating condition may be monitored while reducing the diffusion fuel portion amount until a desired pollutant emission operating condition is achieved, such as a lowered NOx emission level. While performing the diffusion fuel portion amount reduction operation, a dynamic operating condition of the combustor <b>18</b> may also be monitored to ensure that the combustor <b>18</b> does not become dynamically unstable, using, for example, a technique such as described in U.S. Pat. No. 6,877,307. For example, when a dynamic frequency spike having an amplitude exceeding a certain limit (indicative of operating close to a dynamic instability condition) occurs while lowering the amount of the diffusion fuel portion, further lowering of the amount may be aborted even though a desired pollutant emission operating condition may not have been reached. The diffusion fuel portion amount may be increased at this point, or left to remain at the edge of dynamic instability, because it has been observed that the diffusion stage exhibits a slower dynamic response characteristic than, for example the premix stage. Accordingly, there may be more time to perform further adjustments to the diffusion flow if dynamic instability increases reaching the adjusted diffusion fuel portion amount.</p>
+<p id="p-0018" num="0017">After adjusting the diffusion fuel portion amount to achieve the desired second operating condition, the amount may be further adjusted, for example, responsive to a change in the second operating condition, while allowing the adjusted preset premix fuel portion amount to remain the same. In another aspect, the above steps of tuning the premix and diffusion fuel portion amounts may be performed responsive to a change in an operating environment of the combustor <b>18</b>, such as a change in ambient conditions or load conditions.</p>
+<p id="p-0019" num="0018">While various embodiments of the present invention have been shown and described herein, it will be obvious that such embodiments are provided by way of example only. Numerous variations, changes and substitutions may be made without departing from the invention herein. Accordingly, it is intended that the invention be limited only by the spirit and scope of the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method for controlling combustion in a gas turbine pilot combustor, comprising:
+<claim-text>adjusting a premix fuel flow amount of a pilot fuel flow provided to a premix burner stage of a pilot of a gas turbine combustor from a preset premix fuel flow amount to an adjusted premix fuel flow amount to achieve a first operating condition of the combustor that is closer to a dynamically unstable condition than before the premix fuel flow amount was adjusted, in order to reduce pollutant formation; and</claim-text>
+<claim-text>adjusting subsequently a diffusion fuel flow amount of the pilot fuel flow provided to a diffusion burner stage of the pilot from a preset diffusion fuel flow amount to an adjusted diffusion fuel flow amount to achieve a second operating condition of the combustor that closer to a dynamically unstable condition than before the diffusion fuel flow amount was adjusted, in order to further reduce pollutant formation.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising, after adjusting of the diffusion fuel flow amount, further adjusting only the diffusion fuel flow amount in response to a change in operating condition in order to return to the second operating condition.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising performing the steps of <claim-ref idref="CLM-00001">claim 1</claim-ref> responsive to a change in an operating environment of the combustor.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first operating condition comprises a predetermined dynamic condition of the combustor.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein when the predetermined dynamic condition is reached, the adjusted premix fuel flow amount is then adjusted by about 0.1% to 0.5% of the preset premix fuel flow amount to achieve an adjusted first operating condition that is more dynamically stable than the first operating condition.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising adjusting the premix fuel flow amount to achieve a difference between the preset premix fuel flow amount and the adjusted premix fuel flow amount that is no more than a difference limit.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the difference limit is about 0.25% to 0.75% of the preset premix fuel flow amount.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second operating condition comprises a dynamic condition of the combustor.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second operating condition comprises an emission condition of the combustor.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the method is implemented only when a main gas turbine combustor is being operated in a load range of about 50% to 100% of a base load rating of the gas turbine.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising establishing a dynamically stable preset diffusion fuel flow amount provided to the diffusion stage of the pilot burner and a dynamically stable preset premix fuel flow amount provided to the premix stage of the pilot burner;
+<claim-text>wherein adjusting the premix fuel flow amount comprises reducing the premix fuel flow amount from the dynamically stable preset premix fuel flow amount without adjusting the diffusion fuel flow amount while monitoring combustion dynamics of the burner; and</claim-text>
+<claim-text>wherein adjusting the diffusion fuel flow amount comprises reducing the diffusion fuel flow amount from the preset diffusion fuel flow amount without adjusting the premix fuel flow amount while monitoring the combustion dynamics of the burner.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, further comprising terminating the reduction in the diffusion fuel flow amount in response to achieving a first of either a predetermined combustion dynamics setpoint or a predetermined pollutant formation setpoint.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref>, further comprising adjusting the diffusion fuel flow amount of the pilot fuel only without adjusting the premix fuel flow amount in response to a change in an ambient condition or a load condition of the gas turbine engine in order to maintain the second operating condition.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

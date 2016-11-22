@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07642100-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07642100</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11559781</doc-number>
+<date>20061114</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>355</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>L</subclass>
+<main-group>21</main-group>
+<subgroup>66</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>438 14</main-classification>
+</classification-national>
+<invention-title id="d0e53">Method and system for yield and productivity improvements in semiconductor processing</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>6721616</doc-number>
+<kind>B1</kind>
+<name>Ryskoski</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>700108</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>7292906</doc-number>
+<kind>B2</kind>
+<name>Funk et al.</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>700121</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>7403832</doc-number>
+<kind>B2</kind>
+<name>Schulze et al.</name>
+<date>20080700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>700110</main-classification></classification-national>
+</citation>
+<citation>
+<nplcit num="00004">
+<othercit>Chen et al., &#x201c;Virtual Metrology: A Solution for Wafer to Wafer Advanced Process Control&#x201d;, 2005 IEEE, pp. 155-157.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>29</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>None</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>17</number-of-drawing-sheets>
+<number-of-figures>12</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60844560</doc-number>
+<kind>00</kind>
+<date>20060913</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080064127</doc-number>
+<kind>A1</kind>
+<date>20080313</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Yu</last-name>
+<first-name>Chen-Hua</first-name>
+<address>
+<city>Hsin-Chu</city>
+<country>TW</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>TW</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Sheu</last-name>
+<first-name>Lawrance</first-name>
+<address>
+<city>Hsinchu</city>
+<country>TW</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>TW</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hsiao</last-name>
+<first-name>Yi-Li</first-name>
+<address>
+<city>Hsinchu</city>
+<country>TW</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>TW</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ko</last-name>
+<first-name>Francis</first-name>
+<address>
+<city>Taichung</city>
+<country>TW</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>TW</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Duane Morris LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Taiwan Semiconductor Manufacturing Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Hsin-Chu</city>
+<country>TW</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Garber</last-name>
+<first-name>Charles D.</first-name>
+<department>2812</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Stevenson</last-name>
+<first-name>Andre&#x2032;  C</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A semiconductor processing method includes processing a first substrate while detecting at least one first processing parameter value in a first apparatus. The first processing parameter is analyzed, thereby yielding at least one first predicted parameter value. The first predicted parameter value is compared with a first pre-defined parameter value, thereby yielding at least one first comparison result. A first recipe is applied corresponding to the first comparison result for processing a second substrate in the first apparatus.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="177.46mm" wi="323.17mm" file="US07642100-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="86.61mm" wi="113.54mm" file="US07642100-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="145.12mm" wi="172.30mm" file="US07642100-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="160.36mm" wi="148.00mm" file="US07642100-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="164.93mm" wi="163.32mm" file="US07642100-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="188.38mm" wi="157.23mm" file="US07642100-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="171.37mm" wi="167.98mm" file="US07642100-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="210.06mm" wi="161.29mm" file="US07642100-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="156.13mm" wi="175.09mm" file="US07642100-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="214.38mm" wi="180.76mm" file="US07642100-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="115.91mm" wi="163.15mm" file="US07642100-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="180.93mm" wi="151.72mm" file="US07642100-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="245.36mm" wi="170.86mm" file="US07642100-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="229.28mm" wi="165.52mm" file="US07642100-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="239.10mm" wi="164.93mm" file="US07642100-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="181.69mm" wi="170.60mm" file="US07642100-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="231.14mm" wi="170.35mm" file="US07642100-20100105-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="252.73mm" wi="181.36mm" file="US07642100-20100105-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<p id="p-0002" num="0001">This application claims the benefit of U.S. Provisional Patent Application No. 60/844,560, filed Sep. 13, 2006, which is expressly incorporated by reference herein in its entirety.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates to semiconductor processing methods and systems of using the semiconductor processing methods.</p>
+<p id="p-0005" num="0004">2. Description of the Related Art</p>
+<p id="p-0006" num="0005">With advances associated with electronic products, semiconductor technology has been widely applied in manufacturing memories, central processing units (CPUs), liquid crystal displays (LCDs), light emission diodes (LEDs), laser diodes and other devices or chipsets. In order to achieve high-integration and high-speed goals, dimensions of semiconductor integrated circuits continue to shrink. Various materials and techniques have been proposed to achieve these integration and speed goals and to overcome manufacturing obstacles associated therewith.</p>
+<p id="p-0007" num="0006">In addition, since wafer sizes gradually increase from 6 inch, 8 inch, 12 inch and even to 16 or 18 inch, more dies can be formed on a single wafer. For example, a 12-inch wafer can provide 2.25 times the number of dies formed from an 8-inch wafer. The increasing wafer size, however, results in concerns associated with the ability to maintain uniformity of various characteristics (e.g., thin film thickness, etch rate, resistance or the like) for layers and structures formed over the wafer. Due to the non-uniformity of substrate characteristics, devices, diodes or circuits formed over the same wafer, but at different locations (e.g., central region and peripheral region) may have different electrical characteristics. However, if the electrical characteristics of dies are substantially different from default levels or fall out of pre-defined specifications, the dies are considered failed, and the yield of the substrate declines. Accordingly, uniformity of substrate characteristics has become an issue to be solved in the field.</p>
+<p id="p-0008" num="0007"><figref idref="DRAWINGS">FIG. 1</figref> is a drawing showing a prior art method of adjusting processing conditions.</p>
+<p id="p-0009" num="0008">Referring to <figref idref="DRAWINGS">FIG. 1</figref>, a tool <b>100</b>, such as a chemical vapor deposition (CVD) tool is provided. A wafer (not shown) is placed in the CVD tool <b>100</b> for forming a thin film layer (not shown) thereover. Step <b>110</b> applies a recipe to the tool <b>100</b> for processing the wafer. After the formation of the thin film layer, the wafer is transferred to a measuring tool (not shown) in which step <b>120</b> is performed. In step <b>120</b>, the measuring tool measures the thickness of the thin film layer. The thickness of the film layer is then compared with a desired value of the film layer. In step <b>130</b>, the comparison result is then fed back to step <b>110</b> for adjusting the processing conditions for subsequent substrates. If the measured thickness is larger or less than the desired value, processing conditions are adjusted to form thin film layers with the desired value over subsequent wafers.</p>
+<p id="p-0010" num="0009">The prior art method, however, is not time effective. For example, a second wafer must wait for the measured thickness to be collected from the first wafer, such that a film layer with an ideal desired thickness can be formed over the second wafer. In other words, the second wafer or other subsequent wafers cannot be processed until the measured thickness is collected. If every single wafer fabrication process must go through the loop shown in <figref idref="DRAWINGS">FIG. 1</figref>, time is wasted while an immediately subsequent wafer is idle, waiting for the measured thickness retrieved from the last processed wafer.</p>
+<p id="p-0011" num="0010">In addition, the tool <b>100</b> cannot dynamically adjust the processing conditions for providing uniform substrate characteristics. For example, gas or plasma for forming a film layer is uniformly distributed over the wafer. If it is found that non-uniformity of substrate characteristics occurs in the wafer, the electrode or plate that uniformly provides gas or plasma is disassembled and another electrode or plate is substituted that provides a distribution profile corresponding to the measured non-uniform thickness. However, if another measured non-uniformity is collected, another electrode or distribution plate corresponding thereto should be assembled to the tool <b>100</b>. Not only is the tool <b>100</b> unable to dynamically respond to the changing non-uniform profiles, but also disassembling and assembling different electrodes or gas distribution plates increase processing time.</p>
+<p id="p-0012" num="0011">From the foregoing, a method for processing wafers and systems for performing the methods are desired.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0013" num="0012">In accordance with some exemplary embodiments, a semiconductor processing method includes processing a first substrate while detecting at least one first processing parameter value of a first processing parameter in a first apparatus. The first processing parameter is analyzed, thereby yielding at least one first predicted parameter value. The first predicted parameter value is compared with a first pre-defined parameter value, thereby yielding at least one first comparison result. A first recipe is applied corresponding to the first comparison result for processing a second substrate in the first apparatus.</p>
+<p id="p-0014" num="0013">In accordance with some exemplary embodiments, a semiconductor processing system comprises a first apparatus and at least one first processor coupled to the first apparatus. The first apparatus is configured to process a first substrate while detecting at least one first processing parameter value of a first processing parameter. The first processor is configured to analyze the first processing parameter, thereby yielding at least one first predicted parameter value; to compare the first predicted parameter value with a first pre-defined parameter value, thereby yielding at least one first comparison result; and to apply a first recipe corresponding to the first comparison result for processing a second substrate in the first apparatus.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0015" num="0014">The above and other features of the present invention will be better understood from the following detailed description of the preferred embodiments of the invention that is provided in connection with the accompanying drawings.</p>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0016" num="0015">Following are brief descriptions of exemplary drawings. They are mere exemplary embodiments and the scope of the present invention should not be limited thereto.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 1</figref> is a drawing showing a prior art method of adjusting processing conditions.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 2A</figref> is a schematic drawing showing an exemplary semiconductor processing system.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 2B</figref> is a schematic drawing showing a processing loop of an exemplary semiconductor processing method in a single apparatus.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 2C</figref> is a schematic flowchart showing an exemplary semiconductor processing method immediately after a preventive maintenance (PM) step.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 2D</figref> is a schematic flowchart showing an exemplary semiconductor processing method for adjusting processing conditions with at least one measurement parameter.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 2E</figref> is a schematic flowchart showing another exemplary semiconductor processing method for adjusting processing conditions with at least one measurement parameter.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 2F</figref> is a schematic drawing showing trends of apparatus conditions adjusted by the exemplary methods described in connection with <figref idref="DRAWINGS">FIG. 2A-2E</figref> and trends of apparatus conditions adjusted by a traditional method.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 3A</figref> is a schematic block diagram showing a processing system comprising two apparatuses.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 3B</figref> is a schematic flowchart showing an exemplary method for processing the i+1<sup>th </sup>substrate in accordance with the i+1<sup>th </sup>predicted parameter value generated in the system <b>200</b> and the j<sup>th </sup>predicted parameter value generated in the system <b>300</b>.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 4A</figref> is a schematic block diagram showing a processing system comprising three apparatuses.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 4B</figref> is a schematic flowchart showing an exemplary method for processing the i+1<sup>th </sup>substrate in accordance with the i+1<sup>th </sup>predicted parameter value generated in the system <b>200</b>, the j+1<sup>th </sup>predicted parameter value generated in the system <b>300</b> and the k<sup>th </sup>predicted parameter value generated in the system <b>400</b>.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 4C</figref> is a schematic flowchart showing another exemplary method for processing the i+1<sup>th </sup>substrate in accordance with the i+1<sup>th </sup>predicted parameter value generated in the system <b>200</b>, the j+1<sup>th </sup>predicted parameter value generated in the system <b>300</b> and the k<sup>th </sup>predicted parameter value generated in the system <b>400</b>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENT</heading>
+<p id="p-0029" num="0028">This description of the exemplary embodiments is intended to be read in connection with the accompanying drawings, which are to be considered part of the entire written description. In the description, relative terms such as &#x201c;lower,&#x201d; &#x201c;upper,&#x201d; &#x201c;horizontal,&#x201d; &#x201c;vertical,&#x201d; &#x201c;above,&#x201d; &#x201c;below,&#x201d; &#x201c;up,&#x201d; &#x201c;down,&#x201d; &#x201c;top&#x201d; and &#x201c;bottom&#x201d; as well as derivatives thereof (e.g., &#x201c;horizontally,&#x201d; &#x201c;downwardly,&#x201d; &#x201c;upwardly,&#x201d; etc.) should be construed to refer to the orientation as then described or as shown in the drawing under discussion. These relative terms are for convenience of description and do not require that the apparatus be constructed or operated in a particular orientation.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 2A</figref> is a schematic drawing showing an exemplary semiconductor processing system. The processing system <b>200</b> may comprise an apparatus <b>205</b> and a processor <b>210</b> coupled thereto. The apparatus <b>205</b> may comprise an etch apparatus, photolithographic apparatus, thin film apparatus (e.g., furnace, chemical vapor deposition (CVD), physical vapor deposition (PVD), electrochemical plating apparatus, electroless plating apparatus, or the like), implantation apparatus, thermal processing apparatus, cleaning apparatus, chemical mechanical planarization (CMP) tool, combinations thereof or the like. In some embodiments, the apparatus <b>205</b> may comprise a device <b>208</b> capable of altering at least one processing condition (e.g., processing temperature, type of a processing gas, flow rate of the gas, pressure, voltage, current, radio frequency (RF) power, power, implantation energy, implantation dosage, photolithographic exposure energy, photolithographic exposure time, photoresist spin rate, chemical mechanical planarization (CMP) erosion or erosive rate and CMP downward force, to a substrate so as to achieve a desired uniformity of one processed results of the substrate. In other words, the device <b>208</b> may distribute different levels or amounts of gas or processing conditions at different locations of the substrate. The device <b>208</b> may comprise, for example, an adjustable electrode, a gas distribution apparatus, a CMP pad or the like. In some embodiments, the device <b>208</b> may be of a type described in, for example, commonly assigned and copending U.S. patent application Ser. No. 11/335,455, filed on Jan. 19, 2006, the entirety of which is hereby incorporated by reference herein.</p>
+<p id="p-0031" num="0030">The processor <b>210</b> is configured to perform at least one step of analyzing various processing parameters and measurement parameters, comparing various measurement parameters with pre-defined parameter values, comparing various predicted parameter values with pre-defined parameter values, comparing various processing parameters and pre-defined parameter values, or the like. The processor <b>210</b> may comprise, for example, at least one of a digital signal processor (DSP), microprocessor, computer, combinations thereof or the like. In some embodiments, the processor <b>210</b> is further configured to apply a recipe corresponding to comparison result for processing substrates. Detailed descriptions are provided below.</p>
+<p id="p-0032" num="0031">Referring again to <figref idref="DRAWINGS">FIG. 2A</figref>, the processing system <b>200</b> may further comprise at least one storage medium <b>215</b> coupled to the processor <b>210</b>. The storage medium <b>215</b> may comprise, for example, at least one of a random access memory (RAM), floppy diskettes, read only memories (ROMs), flash drive, CD-ROMs, DVD-ROMs, hard drives, high density (e.g., &#x201c;ZIP&#x2122;&#x201d;) removable disks or any other computer-readable storage medium. The storage medium <b>215</b> may be configured to store processing parameters, measurement parameters, processing results, comparison results, processing recipes, pre-defined parameters, combinations thereof or the like.</p>
+<p id="p-0033" num="0032">In some embodiments, the processing system <b>200</b> is coupled to a measuring apparatus <b>220</b>. The measuring apparatus <b>220</b> is coupled to the processor <b>210</b> for measuring physical or electrical characteristics, e.g., width, length, depth, diameter, thickness, resistance, sheet resistance, refractive index, dielectric constant, hardness, elasticity, area, space, and therefore capable of calculating the uniformity of the characteristics. In some embodiments, the measuring apparatus <b>220</b> is integrated or embedded in the processing system to efficiently process and collect parameters from substrates.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 2B</figref> is a flow chart showing a processing loop of an exemplary semiconductor processing method in a single apparatus. In <figref idref="DRAWINGS">FIG. 2B</figref>, the processing loop shows exemplary steps for processing an i<sup>th </sup>substrate in order to generate parameter conditions in response to an i+1<sup>th </sup>recipe for processing an i+1<sup>th </sup>substrate. In some embodiments, a number i&#x2212;1 of substrates have been processed before the i<sup>th </sup>substrate is processed. After the i&#x2212;1<sup>th </sup>substrate is processed, the i&#x2212;1<sup>th </sup>comparison result may be generated by the processor <b>210</b> (shown in <figref idref="DRAWINGS">FIG. 2A</figref>) and fed back to a recipe applying step <b>232</b>. The substrates can be a silicon substrate, III-V compound substrate, display substrate such as a liquid crystal display (LCD), plasma display, electro luminescence (EL) lamp display, or light emitting diode (LED) substrate, for example.</p>
+<p id="p-0035" num="0034">Referring again to <figref idref="DRAWINGS">FIG. 2B</figref>, in step <b>232</b> the processor <b>210</b> may apply the i<sup>th </sup>recipe corresponding to the i&#x2212;1<sup>th </sup>comparison result. The i&#x2212;1<sup>th </sup>comparison result comes from parameters of the i&#x2212;1<sup>th </sup>substrate. In some embodiments, the recipe applying step <b>232</b> may comprise selecting a recipe corresponding to the i&#x2212;1<sup>th </sup>comparison result from a plurality of recipes or a recipe selection table (RST). The i<sup>th </sup>recipe is selected such that processing parameters of the i<sup>th </sup>recipe can process the i<sup>th </sup>substrate in order to generate at least one substrate characteristic with a desired uniformity. In one example, the system <b>200</b> comprises a thin film deposition (e.g., a CVD) chamber. The processor <b>210</b> applies the i<sup>th </sup>recipe for depositing a thin film (not shown), such as oxide layer, nitride layer, oxynitride layer, combinations thereof or the like, over the i<sup>th </sup>substrate. For depositing the thin film layer over the i<sup>th </sup>substrate, the processor <b>210</b> generates at least one signal corresponding to the i<sup>th </sup>recipe to the apparatus <b>205</b> in order to deposit the thin film layer with at least one desired substrate characteristic over the i<sup>th </sup>substrate.</p>
+<p id="p-0036" num="0035">In step <b>234</b>, the apparatus <b>205</b> (shown in <figref idref="DRAWINGS">FIG. 2A</figref>) may use the i<sup>th </sup>recipe for processing the i<sup>th </sup>substrate while detecting at least one i<sup>th </sup>processing parameter. The processing parameter may comprise, for example, a parameter value distribution of at least one of a processing temperature, type of a gas, flow rate of the gas, pressure, voltage, current, radio frequency (RF) power, power, implantation energy, implantation dosage, photolithographic exposure energy, photolithographic exposure time, photoresist spin rate, chemical mechanical planarization (CMP) erosion or erosive rate and CMP downward force. To detect the parameters, the apparatus <b>205</b> (shown in <figref idref="DRAWINGS">FIG. 2A</figref>) may comprise at least one detecting device <b>209</b>, such as a plurality of sensors, detectors, pressure gauges, flow rate gauges, voltage meters, current meters, power gauges, rotational meter, combinations thereof or the like. For embodiments forming a thin film layer, the processing parameter may comprise, for example, a parameter distribution of at least one of the type of gas, flow rate of the gas, pressure, processing time, voltage, power, combinations thereof or the like.</p>
+<p id="p-0037" num="0036">As described above in connection with <figref idref="DRAWINGS">FIG. 2A</figref>, the device <b>208</b> may provide, for example, a different amount of gas at different regions of the i<sup>th </sup>substrate. Accordingly, the device <b>208</b> can provide a desired uniformity, e.g., thickness, of the thin film layer over the i<sup>th </sup>substrate by providing different amounts of gas over different regions of the i<sup>th </sup>substrate.</p>
+<p id="p-0038" num="0037">In step <b>236</b>, the processor <b>210</b> may process the i<sup>th </sup>processing parameter, thereby yielding at least one i<sup>th </sup>predicted parameter. The predicted parameter may comprise, for example, predicted physical or electrical characteristics (e.g., width, length, depth, diameter, thickness, resistance, sheet resistance, refractive index, dielectric constant, hardness, elasticity, area, space, and uniformity of the characteristics. For embodiments forming a thin film layer, the predicted parameters may comprise, for example, a predicted thickness and uniformity of the thickness cross the substrate. The predicted parameter may be generated by at least one methodology, e.g., modeling software, simulation software or virtual metrology technology.</p>
+<p id="p-0039" num="0038">In step <b>238</b>, the processor <b>210</b> compares the i<sup>th </sup>predicted parameter with at least one i<sup>th </sup>pre-defined parameter, thereby yielding at least one i<sup>th </sup>comparison result for processing the i+1<sup>th </sup>substrate. The pre-defined parameter may comprise, for example, physical or electrical characteristics, e.g., width, length, depth, diameter, thickness, resistance, sheet resistance, refractive index, dielectric constant, hardness, elasticity, area, space, and uniformity of the characteristics. For embodiments forming a thin film layer, the pre-defined parameter may comprise a thickness and its uniformity, for example.</p>
+<p id="p-0040" num="0039">The predicted thickness and the pre-defined thickness are compared by the processor <b>210</b>, for example. In step <b>238</b>, the processor <b>210</b> may generate a comparison result <b>239</b>, e.g., a thickness difference. The comparison result <b>239</b> is then fed back to the applying step <b>232</b>, in which an i+1<sup>th </sup>recipe comprising at least one i+1<sup>th </sup>processing parameter is applied for processing the subsequent i+1<sup>th </sup>substrate. In view of the embodiments, the i<sup>th </sup>processing parameter can be retrieved while the i<sup>th </sup>substrate is being processed in step <b>234</b> or <b>236</b>. The retrieved i<sup>th </sup>processing parameter is then processed in step <b>236</b> for generating the i<sup>th </sup>predicted parameter. The comparison result <b>239</b> of the i<sup>th </sup>predicted parameter and the i<sup>th </sup>pre-defined parameter is then fed back for processing the i+1<sup>th </sup>substrate. In other words, the i+1<sup>th </sup>recipe can be ready for processing the i+1<sup>th </sup>substrate before the complete of processing the i<sup>th </sup>substrate in step <b>234</b>. Accordingly, processing the i+1<sup>th </sup>recipe does not need to wait for actual measurement parameters of the i<sup>th </sup>substrate for obtaining the i<sup>th </sup>comparison result. The process cycle time can thus be reduced and a desired adjustment of processing conditions for the subsequent substrate can be achieved.</p>
+<p id="p-0041" num="0040">Further, the comparison result <b>239</b> generated by step <b>238</b> may cooperate with the device <b>208</b> (shown in <figref idref="DRAWINGS">FIG. 2A</figref>) to further provide a desired characteristic uniformity over the i+1<sup>th </sup>substrate. For example, if the comparison result <b>239</b> generated in step <b>238</b> indicates that the i<sup>th </sup>substrate has a thick portion at the central region and a thin portion at the peripheral region, the processor <b>210</b> (shown in <figref idref="DRAWINGS">FIG. 2A</figref>) may apply the i+1<sup>th </sup>recipe, which will adjust, for example, amounts of gas provided through the device <b>208</b> in different regions over the i+1<sup>th </sup>substrate such that a substantially uniform film layer will be formed over the i+1<sup>th </sup>substrate.</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 2C</figref> is a schematic flowchart showing an exemplary semiconductor processing method immediately after a preventive maintenance (PM) step.</p>
+<p id="p-0043" num="0042">Steps <b>222</b>, <b>223</b>, <b>226</b>, <b>228</b>, <b>232</b>, <b>234</b>, <b>236</b> and <b>238</b> may be performed by the system <b>200</b> set forth above in connection with <figref idref="DRAWINGS">FIG. 2A</figref>. Step <b>224</b> is performed by the measuring apparatus <b>220</b> (shown in <figref idref="DRAWINGS">FIG. 2A</figref>).</p>
+<p id="p-0044" num="0043">Step <b>221</b> represents a PM step. The PM step <b>221</b> may occur after a regular shutdown, periodic shutdown, mis-operation or in any situation for which adjustments of the apparatus <b>205</b> shown in <figref idref="DRAWINGS">FIG. 2A</figref> is needed. For embodiments forming a thin film layer, after the PM step <b>221</b> the apparatus <b>205</b> should provide a film layer with a desired uniform film layer over a substrate. In other embodiments, the PM step <b>210</b> does not provide a desired characteristic, and other adjustments of the apparatus <b>205</b> may be needed.</p>
+<p id="p-0045" num="0044">After the PM step <b>221</b> of the apparatus <b>205</b>, step <b>222</b> may process the first substrate in the apparatus <b>205</b>. In some embodiments, since the first substrate is processed immediately after the PM step <b>221</b>, no comparison result provided from a last substrate is available for processing the first substrate. Accordingly, the first substrate may be processed based on a default processing parameter which may be intended to form the thin film layer with a desired thickness and thickness uniformity.</p>
+<p id="p-0046" num="0045">In some embodiments, step <b>223</b> may analyze the processing parameter value detected by step <b>222</b>, thereby yielding at least one first predicted parameter. The first predicted parameter may be, for example, predicted physical or electrical characteristics (such as, width, length, depth, diameter, thickness, resistance, sheet resistance, refractive index, dielectric constant, hardness, elasticity, area, space, and uniformity thereof. For embodiments forming a thin film layer, the first predicted parameter may be the predicted thickness and thickness uniformity of the thin film layer formed over the first substrate, for example.</p>
+<p id="p-0047" num="0046">In step <b>224</b>, at least one substrate characteristic of the processed first substrate is collected by the measuring apparatus <b>220</b> (shown in <figref idref="DRAWINGS">FIG. 2A</figref>), thereby yielding at least one first measurement parameter. The first measurement parameter may include, for example, physical or electrical characteristics such as, width, length, depth, diameter, thickness, resistance, sheet resistance, refractive index, dielectric constant, hardness, elasticity, area, space, and uniformity of the characteristics. For embodiments forming a thin film layer, the first measurement parameter may comprise the thickness and thickness uniformity of the thin film layer formed over the first substrate, for example.</p>
+<p id="p-0048" num="0047">In step <b>226</b>, the processor <b>210</b> may compare the first measurement parameter value, the first predicted parameter value or at least one pre-defined parameter value, thereby yielding at least one first comparison result <b>229</b>. The first pre-defined parameter may comprise, for example, physical or electrical characteristics such as, width, length, depth, diameter, thickness, resistance, sheet resistance, refractive index, dielectric constant, hardness, elasticity, area, space, and uniformity of the characteristics. For embodiments forming a thin film layer, the first pre-defined parameter may comprise, for example, a pre-defined thickness and uniformity of the thin film layer. In addition, the comparison result <b>229</b> may comprise a thickness difference and a uniformity difference of the first thin film layer.</p>
+<p id="p-0049" num="0048">In step <b>228</b>, the processor <b>210</b> may apply a second recipe corresponding to the first comparison result for processing a subsequent second substrate. For example, if the comparison result <b>229</b> generated in step <b>228</b> indicates that the first thin film layer formed over the first substrate has a thick portion at the central region and a thin portion at the peripheral region, the processor <b>210</b> (shown in <figref idref="DRAWINGS">FIG. 2A</figref>) may apply the second recipe, which will adjust, for example, amounts of gas provided through the device <b>208</b> over the second substrate such that a desired uniform film layer will be formed over the second substrate.</p>
+<p id="p-0050" num="0049">After step <b>228</b>, the apparatus <b>205</b> in response to the second recipe processes the second substrate with at least one second processing parameter in step <b>234</b>. Therefore, the loop shown in <figref idref="DRAWINGS">FIG. 2C</figref>, i.e., the loop shown in <figref idref="DRAWINGS">FIG. 2B</figref>, is performed for generating comparison results for processing the third and subsequent substrates.</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 2D</figref> is a schematic flow chart showing an exemplary semiconductor processing method for adjusting processing conditions with at least one measurement parameter.</p>
+<p id="p-0052" num="0051">Referring again to <figref idref="DRAWINGS">FIG. 2B</figref>, since the substrates are processed in accordance with the comparison results <b>239</b> yielded from comparison between the predicted parameters and the pre-defined parameters, no actual measurement parameter is applied thereto. For example, in some embodiments forming thin film layers, the pre-defined parameters of the substrates may be a default or fixed thickness. If the processing parameter detected while the i<sup>th </sup>substrate is subjected to the deposition process generates the predicted parameter that substantially matches the pre-defined parameter in step <b>238</b>, the subsequent processing parameters also become fixed. Without actually monitoring the apparatus <b>205</b> and/or the characteristics of the film layer formed over the substrates, the comparison results <b>239</b> from the predicted parameters may not really reflect the conditions of the apparatus <b>205</b> and/or the film layer thickness or uniformity over the substrates. Accordingly, subsequent substrates processed by the fixed processing parameters may not provide desired physical or electrical characteristics of the film layer. To avoid this situation, in some embodiments a checking step is added.</p>
+<p id="p-0053" num="0052">Referring to <figref idref="DRAWINGS">FIG. 2D</figref>, step <b>237</b> is added between processing steps <b>236</b> and <b>238</b>. &#x201c;M&#x201d; represents a number of substrates that are processed by the apparatus <b>205</b> between two consecutive checking steps. In other words, &#x201c;M&#x201d; also represents the M<sup>th </sup>substrate that is processed by the apparatus <b>205</b>. For example, &#x201c;M&#x201d; can be at least one of 120 (5 lots of wafers), 240 (10 lots of wafers), 360, . . . , 120&#xd7;, combinations thereof or the like. In some embodiments, &#x201c;M&#x201d; is selected in accordance with a processing history which may be stored in the storage medium <b>215</b> (shown in <figref idref="DRAWINGS">FIG. 2A</figref>). For example, the processing history of the apparatus <b>205</b> may indicate the trend of the processing conditions of the apparatus <b>205</b>, such that a number of substrates that is processed by the apparatus <b>205</b> between measurements does not result in the conditions of the apparatus <b>205</b> rising over or falling below undesired specifications. It is noted that the setting of &#x201c;M&#x201d; may vary in accordance with the type of the apparatus <b>205</b> and/or the process performed therein. One of ordinary skill in the art, after reading this disclosure, can readily adjust or select a desired number &#x201c;M&#x201d; for checking the apparatus <b>205</b> and/or the characteristics of the processed substrates.</p>
+<p id="p-0054" num="0053">As shown in <figref idref="DRAWINGS">FIG. 2D</figref>, if i is not equal to M, step <b>238</b> is performed and the processing loop set forth above in connection with <figref idref="DRAWINGS">FIG. 2B</figref> is kept running. If i is equal to M, the M<sup>th </sup>substrate is delivered to the measuring apparatus <b>220</b> (shown in <figref idref="DRAWINGS">FIG. 2A</figref>) for collecting physical and/or electrical characteristics of thereof, thereby yielding at least one M<sup>th </sup>measurement parameter in step <b>241</b>. The M<sup>th </sup>measurement parameter is the same as, or similar to, the measurement parameter set forth above in connection with <figref idref="DRAWINGS">FIG. 2A</figref>.</p>
+<p id="p-0055" num="0054">In step <b>242</b>, the processor <b>210</b> may compare the M<sup>th </sup>measurement parameter value and the M<sup>th </sup>predicted parameter value, thereby yielding a first M<sup>th </sup>comparison result. The first M<sup>th </sup>comparison result provides information with respect to the deviation of the predicted parameter value from the actual measurement parameter value. The information may be feedback to modify the methodology, e.g., a virtual metrology or a simulation software (not shown) described above in connection with <figref idref="DRAWINGS">FIG. 2A</figref>.</p>
+<p id="p-0056" num="0055">In step <b>243</b>, the processor <b>210</b> may determine whether the first M<sup>th </sup>comparison result is larger than, or equal to, about a pre-defined percentage (e.g., 1%) of the higher of the first M<sup>th </sup>measurement parameter value and the M<sup>th </sup>predicted parameter value. If not so, the simulation software is not modified. The first M<sup>th </sup>comparison result <b>243</b><i>a </i>is then sent back to the step <b>232</b> for processing the M+1<sup>th</sup>, i.e., i+1<sup>th</sup>, substrate. However, if the first M<sup>th </sup>comparison result is about pre-defined percentage (e.g., 1%) or more of the higher of the first M<sup>th </sup>measurement parameter value and the first M<sup>th </sup>predicted parameter value, the methodology (not shown) is modified as shown in step <b>244</b>.</p>
+<p id="p-0057" num="0056">In step <b>244</b>, the processor <b>210</b> may modify the methodology, e.g., a software, for yielding a modified M<sup>th </sup>predicted parameter value and compared the modified M<sup>th </sup>predicted parameter with a M<sup>th </sup>pre-defined parameter, thereby yielding a second M<sup>th </sup>comparison result. For example, the apparatus <b>205</b> comprises a CVD chamber. The M<sup>th </sup>predicted parameter value is a thickness of about 5,000 &#x212b; and the M<sup>th </sup>measurement parameter value is a thickness of about 4,950 &#x212b;. Accordingly, the first M<sup>th </sup>comparison result reveals a difference of about 50 &#x212b;, which is more than 10% of the higher of the both, i.e., M<sup>th </sup>predicted parameter value. In step <b>244</b>, the processor <b>210</b> may then modify the simulation software, e.g., a reference table, in which various processing parameters (e.g., deposition rate, temperature, pressure, power, gas, gas flow rate, combinations thereof or the like) and corresponding thickness values are provided. The processor <b>210</b> may modify the corresponding thickness values and reprocess the M<sup>th </sup>processing parameter detected in step <b>234</b> so that the modified M<sup>th </sup>predicted parameter is substantially equal to the M<sup>th </sup>measurement parameter. In other words, the modification of the methodology can desirably monitor the condition of the apparatus <b>205</b> (shown in <figref idref="DRAWINGS">FIG. 2A</figref>).</p>
+<p id="p-0058" num="0057">In step <b>244</b>, the processor <b>210</b> may also compare the modified M<sup>th </sup>predicted parameter with a M<sup>th </sup>pre-defined parameter, thereby yielding a second M<sup>th </sup>comparison result. Since the modified M<sup>th </sup>predicted parameter value is generated from the modified methodology, the modified M<sup>th </sup>predicted parameter value reflects a actual measurement value. In other words, the second M<sup>th </sup>comparison result <b>245</b> reflects the actual deviation of the M<sup>th </sup>measurement parameter from the M<sup>th </sup>pre-defined parameter. Accordingly, even if the comparison results <b>239</b> generated in step <b>238</b> do not desirably reflect the actual conditions of the apparatus <b>205</b> and/or the characteristics of the substrates, steps <b>237</b>, <b>241</b>-<b>244</b> provide a desired modification to the methodology such that a desired M+1<sup>th</sup>, i.e., i+1<sup>th</sup>, recipe corresponding to at least one M+1<sup>th </sup>processing parameter can be applied to the subsequent M+1<sup>th </sup>substrate in step <b>232</b>.</p>
+<p id="p-0059" num="0058">In step <b>244</b><i>a, </i>the processor <b>210</b> may determine if an offset value, e.g., adjustment or modification, to the apparatus <b>205</b> (shown in <figref idref="DRAWINGS">FIG. 2A</figref>) corresponding to a sum of the second comparison results is equal to, or over, a pre-defined limit. If yes, a PM step <b>244</b><i>b </i>is performed. If no, the M<sup>th </sup>comparison result <b>245</b> is fed back to step <b>232</b> for processing a subsequent substrate. The pre-defined limit may correspond to, for example, an upper critical level (UCL) and a lower critical level (LCL) set forth below in connection with <figref idref="DRAWINGS">FIG. 2F</figref>.</p>
+<p id="p-0060" num="0059">As described above in step <b>244</b>, the comparison result <b>245</b> is provided to be fed back for adjusting or modifying the apparatus <b>205</b> so that the adjusted apparatus <b>205</b> can process the subsequent substrate, generate a desired uniformity over the substrate. However, the adjustment to the apparatus <b>205</b> is advantageously limited. For example, a dielectric layer formed over a plurality of substrates by the apparatus <b>205</b>, the parameter that affects the thickness uniformity of substrates is the distance between the top electrode of the apparatus <b>205</b> and the substrate, for example. Steps <b>243</b> and <b>244</b> may modify the methodology for every 120-substrate processing period, and the distance between the top electrode of the apparatus <b>205</b> and the substrate is also adjusted corresponding to the modification of the methodology. In some embodiments, after several modifications of the distance corresponding to the multiple monitoring of the apparatus <b>205</b>, the top electrode of the apparatus <b>205</b> may be adjusted so close to the substrate that the top electrode of the apparatus <b>205</b> may damage the substrate. Accordingly, step <b>244</b><i>a </i>provides a safe monitoring such that a total adjustment to the apparatus <b>205</b> is not over a pre-defined limit.</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. 2E</figref> is a schematic flowchart showing another exemplary semiconductor processing method for adjusting processing conditions with at least one measurement parameters.</p>
+<p id="p-0062" num="0061">In these embodiments, steps <b>246</b>-<b>249</b><i>a </i>and <b>249</b><i>c </i>are similar to steps <b>241</b>-<b>244</b><i>a, </i>and <b>244</b><i>b, </i>respectively. Comparison results <b>248</b><i>a </i>and <b>249</b><i>b </i>are similar to the comparison results <b>243</b><i>a </i>and <b>245</b>, respectively. In step <b>237</b><i>a, </i>the processor <b>210</b> (shown in <figref idref="DRAWINGS">FIG. 2A</figref>) may determine if the processing time of the apparatus <b>205</b> is larger than, or equal to, a pre-defined processing time. If not, step <b>238</b> is processed as described above. If the processing time is larger than, or equal to, the pre-defined processing time, steps <b>246</b>-<b>249</b><i>a </i>and <b>249</b><i>c </i>are performed, and the first and second nth comparison result <b>248</b><i>a </i>and <b>249</b><i>b, </i>respectively, are used to apply the nth recipe for processing the n+1<sup>th </sup>substrate. For some embodiments, the processing time is measured after the PM step set forth above in connection with <figref idref="DRAWINGS">FIG. 2C</figref>. The unit of processing time may comprise, for example, second, minute, day, week, month, combinations thereof or the like.</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIG. 2F</figref> is a schematic drawing showing trends of apparatus conditions adjusted by the exemplary methods described in connection with <figref idref="DRAWINGS">FIGS. 2A-2E</figref> and trends of apparatus conditions adjusted by a traditional method.</p>
+<p id="p-0064" num="0063">Referring to <figref idref="DRAWINGS">FIG. 2F</figref>, dotted lines <b>252</b> and <b>254</b> represent trends of substrate characteristics by a continuous process by a traditional method in a single tool. Dotted lines <b>256</b> represent trends of characteristics by an exemplary adjusting method as described above. The coordinate system (not labeled) comprises a horizontal axis indicating &#x201c;substrate count or processing time&#x201d; and a vertical axis indicating &#x201c;monitored data.&#x201d; The substrate count and processing time correspond to the numeral &#x201c;M&#x201d; shown in <figref idref="DRAWINGS">FIG. 2D</figref> and the processing time shown in <figref idref="DRAWINGS">FIG. 2E</figref>, respectively. An upper critical level (UCL) and a lower critical level (LCL) represent desired levels of substrate characteristics. Traditionally, a PM step or a PM cycle is applied to an apparatus before the trends <b>252</b> and <b>254</b> reach the UCL and LCL, respectively. Since no adjustment of apparatus conditions is provided, a PM step or PM cycle must be applied by the end of a fixed period of time. Unlike the traditional trends <b>252</b> and <b>254</b>, the exemplary methods set forth above in connection with <figref idref="DRAWINGS">FIGS. 2A-2E</figref> provides intermediate corrections between the UCL and LCL. Each segment of the trend <b>256</b> corresponds to the apparatus adjustment performed by steps <b>235</b>, <b>235</b><i>a, </i><b>242</b>, <b>244</b>, <b>246</b> and <b>246</b> described in connection with <figref idref="DRAWINGS">FIGS. 2D and 2E</figref>. With the adjusting steps, apparatus conditions and/or substrate characteristics can be desirably adjusted at the beginning of each segment. In other words, the apparatus conditions and/or substrate characteristics are adjusted back to the conditions of the first substrate of each segment. Therefore, the PM cycle of the exemplary methods described above can be extended and longer than the traditional PM cycle.</p>
+<p id="p-0065" num="0064">In some embodiments as set forth above in connection with <figref idref="DRAWINGS">FIG. 2D</figref>, when the adjustment or modification to the apparatus <b>205</b> is equal to, or over, a pre-defined limit, the PM step <b>249</b> is provided to modify the apparatus <b>205</b> such that the apparatus <b>205</b> can be desirably operated.</p>
+<p id="p-0066" num="0065"><figref idref="DRAWINGS">FIG. 3A</figref> is a schematic block diagram showing a processing system comprising two of the apparatus as described above with reference to <figref idref="DRAWINGS">FIG. 2A</figref>.</p>
+<p id="p-0067" num="0066">Referring to <figref idref="DRAWINGS">FIG. 3A</figref>, the apparatus <b>305</b> may comprise at least one apparatus set forth above in connection with the apparatus <b>205</b> of <figref idref="DRAWINGS">FIG. 2A</figref>. The processor <b>310</b> may be the same as, or similar to, the processor <b>210</b>. In some embodiments, the processor <b>210</b> and <b>310</b> may be coupled to each other. In still other embodiments, the processors <b>210</b> and <b>310</b> may be integrated or embedded in a single device or tool for performing functions described below. The measuring apparatus <b>320</b> may be the same as, or similar to, the measuring apparatus <b>220</b>. The device <b>308</b> and the storage medium <b>315</b> are similar to the device <b>208</b> and the storage medium <b>215</b> described above, respectively. The detecting device <b>309</b> may be the same as, or similar to, the detecting device <b>209</b> described above in connection with <figref idref="DRAWINGS">FIG. 2A</figref>.</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. 3B</figref> is a schematic flow chart showing an exemplary method for processing the i+1<sup>th </sup>substrate in accordance with the i+1<sup>th </sup>predicted parameter generated in the system <b>200</b> and the j<sup>th </sup>predicted parameter generated in the system <b>300</b>. In some embodiments, the apparatus <b>205</b> may be a CVD apparatus and the apparatus <b>305</b> may be a CMP apparatus, the apparatus <b>205</b> may be a CVD apparatus and the apparatus <b>305</b> may be an etch apparatus, the apparatus <b>205</b> may be a photolithographic apparatus and the apparatus <b>305</b> may be an etch apparatus, or the apparatuses <b>205</b> and <b>305</b> may be apparatuses which provide correlated substrate characteristics.</p>
+<p id="p-0069" num="0068">Referring to <figref idref="DRAWINGS">FIG. 3B</figref>, steps <b>332</b>, <b>334</b>, <b>336</b> and <b>338</b> are similar to steps <b>232</b>, <b>234</b>, <b>236</b> and <b>238</b> described above in connection with <figref idref="DRAWINGS">FIG. 2B</figref>. The difference between the processing loops shown in <figref idref="DRAWINGS">FIGS. 2B and 3B</figref> is that the latter includes steps for generating the i+1<sup>th </sup>comparison result <b>339</b> for processing the i+2<sup>th </sup>substrate.</p>
+<p id="p-0070" num="0069">After step <b>336</b>, the i+1<sup>th </sup>predicted parameter <b>337</b> may be stored in the storage mediums <b>215</b>, <b>315</b>, combinations thereof or another storage medium. The processor <b>310</b> may apply the j<sup>th </sup>recipe for processing the i<sup>th </sup>substrate in step <b>342</b>. Step <b>342</b> is similar to step <b>232</b> described above in connection with <figref idref="DRAWINGS">FIG. 2B</figref>. In step <b>344</b>, the apparatus <b>305</b> may process the i<sup>th </sup>substrate while detecting at least one j<sup>th </sup>processing parameter. Step <b>344</b> is similar to step <b>234</b> described above in connection with <figref idref="DRAWINGS">FIG. 2B</figref>. In step <b>346</b>, the processor <b>310</b> may analyze the effects of the j<sup>th </sup>processing parameter, thereby yielding at least one j<sup>th </sup>predicted parameter. Step <b>346</b> is similar to step <b>246</b> described above by reference to <figref idref="DRAWINGS">FIG. 2B</figref>.</p>
+<p id="p-0071" num="0070">In step <b>347</b>, the processor <b>310</b> may compare the j<sup>th </sup>predicted parameter with a j<sup>th </sup>pre-defined parameter, thereby yielding at least one j<sup>th </sup>comparison result. The comparison step <b>347</b> is similar to the comparison step <b>238</b> set forth above in connection with <figref idref="DRAWINGS">FIG. 2B</figref>, except that the j<sup>th </sup>comparison result is not yet provided for processing the i+1<sup>th </sup>substrate.</p>
+<p id="p-0072" num="0071">In step <b>348</b>, the processor <b>310</b> may retrieve the i+1<sup>th </sup>predicted parameter <b>337</b> generated in the system <b>200</b> and process the i+1<sup>th </sup>predicted parameter <b>337</b> and the j<sup>th </sup>comparison result, thereby yielding at least one j<sup>th </sup>processing result <b>349</b> for processing the i+1<sup>th </sup>substrate.</p>
+<p id="p-0073" num="0072">For example, the apparatus <b>205</b> may be a CVD apparatus and the apparatus <b>305</b> may be a CMP apparatus. The CVD apparatus <b>205</b> forms the i+1<sup>th </sup>thin film layer over the i+1<sup>th </sup>substrate in step <b>334</b>. Step <b>336</b> then processes the processing parameters of step <b>334</b> (e.g., the distribution of processing gas, gas flow rate, processing temperature, processing pressure, power, combinations thereof or the like), thereby yielding the predicted thickness and/or its uniformity <b>337</b> of the i+1<sup>th </sup>substrate. The predicted thickness <b>337</b> may be stored in the storage medium <b>215</b>, for example. The CMP apparatus <b>305</b> processes the i<sup>th </sup>substrate while detecting the j<sup>th </sup>processing parameter (e.g., rotational speed, the distribution of downward force, slurry, amount of slurry, combinations thereof or the like) in step <b>344</b>. The processor <b>310</b> then processes the j<sup>th </sup>processing parameter, thereby yielding the j<sup>th </sup>predicted parameter (e.g., predicted removal rate or removal thickness and uniformity) in step <b>346</b>. In step <b>347</b>, the processor <b>310</b> may compare the j<sup>th </sup>predicted parameter (i.e., the predicted removal rate or removal thickness and uniformity thereof) with the j<sup>th </sup>pre-defined parameter (i.e., the pre-defined removal rate or removal thickness and uniformity thereof), thereby yielding the j<sup>th </sup>comparison result (e.g., deviation of the predicted removal rate or thickness from the pre-defined removal rate or thickness and uniformity thereof).</p>
+<p id="p-0074" num="0073">In step <b>348</b>, the processor <b>310</b> may process the j<sup>th </sup>comparison result (e.g., deviation of the predicted removal rate or thickness from the pre-defined removal rate or thickness and uniformity) with the predicted thickness <b>337</b> retrieved from the system <b>200</b>, thereby yielding the j<sup>th </sup>processing result <b>349</b> (e.g., the predicted remaining thickness and uniformity) for processing the i+1<sup>th </sup>substrate in the apparatus <b>305</b>. The j<sup>th </sup>processing result <b>349</b> is then fed back to step <b>342</b> for further processing the i+1<sup>th </sup>substrate.</p>
+<p id="p-0075" num="0074">It is noted that steps <b>222</b>, <b>224</b>, <b>226</b> and <b>228</b> shown in <figref idref="DRAWINGS">FIG. 2C</figref>, steps <b>235</b> and <b>241</b>-<b>244</b> shown in <figref idref="DRAWINGS">FIG. 2D</figref> and/or steps <b>235</b><i>a </i>and <b>246</b>-<b>249</b> shown in <figref idref="DRAWINGS">FIG. 2E</figref> can be applied in either or both of the systems <b>200</b> and <b>300</b> to achieve a desired process flow. In addition, the devices <b>208</b> and <b>308</b> may further provide at least one desired uniform substrate characteristic (e.g., thickness, width, depth, length, diameter, thickness, resistance, sheet resistance, refractive index, dielectric constant, combination thereof or the like). With the desired uniform characteristics, dies formed at a peripheral region and a central region of a substrate may be formed with approximate electrical characteristics (e.g., resistance, current, threshold voltage or the like) that all fall within desired specifications. in response to the exemplary methods set forth above, more dies that pass acceptance criteria can be provided from the substrate. Accordingly, yields and productivity of dies are thus enhanced.</p>
+<p id="p-0076" num="0075"><figref idref="DRAWINGS">FIG. 4A</figref> is a schematic block diagram showing a processing system comprising three apparatus.</p>
+<p id="p-0077" num="0076">Referring to <figref idref="DRAWINGS">FIG. 4A</figref>, the apparatus <b>405</b> may comprise at least one apparatus <b>205</b> as described above in connection with <figref idref="DRAWINGS">FIG. 2A</figref>. The processor <b>410</b> may be the same as, or similar to, the processor <b>410</b>. In some embodiments, the processors <b>210</b>, <b>310</b> and <b>410</b> are coupled to each other. In still other embodiments, at least two of the processors <b>210</b>, <b>310</b> and <b>410</b> may be integrated or embedded in a single device or tool for performing functions described below. The measuring apparatus <b>420</b> may be the same as, or similar to, the measuring apparatus <b>220</b>. The device <b>408</b> and the storage medium <b>415</b> are similar to the device <b>208</b> and the storage medium <b>215</b> described above. The detecting device <b>409</b> may be the same as, or similar to, the detecting device <b>209</b> described above in connection with <figref idref="DRAWINGS">FIG. 2A</figref>. The number of the apparatuses is not limited to the embodiments shown in <figref idref="DRAWINGS">FIGS. 2A</figref>, <b>3</b>A and <b>4</b>A. More than three apparatuses can be coupled and provide a desired semiconductor processing system.</p>
+<p id="p-0078" num="0077"><figref idref="DRAWINGS">FIG. 4B</figref> is a schematic flowchart showing an exemplary method for processing the i+1<sup>th </sup>substrate in accordance with the i+1<sup>th </sup>predicted parameter generated in the system <b>200</b>, the j+1<sup>th </sup>predicted parameter generated in the system <b>300</b> and the k<sup>th </sup>predicted parameter generated in the system <b>400</b>. In some embodiments, the apparatus <b>205</b> may be a CVD apparatus, the apparatus <b>305</b> may be a CMP apparatus and the apparatus <b>405</b> may be an etch apparatus; the apparatus <b>205</b> may be a CVD apparatus, the apparatus <b>305</b> may be an etch apparatus and the apparatus <b>405</b> may be a metal CVD apparatus; the apparatus <b>205</b> may be a photolithographic apparatus, the apparatus <b>305</b> may be an etch apparatus and the apparatus may be a CVD apparatus; or at least two of the apparatuses <b>205</b>, <b>305</b> and <b>405</b> may be apparatuses which correlatively affect at least one substrate characteristic.</p>
+<p id="p-0079" num="0078">Referring to <figref idref="DRAWINGS">FIG. 4B</figref>, steps <b>432</b>, <b>434</b>, <b>436</b>, <b>438</b>, <b>442</b>, <b>444</b>, <b>446</b> and <b>448</b> are similar to steps <b>232</b>, <b>234</b>, <b>236</b> and <b>238</b> described above in connection with <figref idref="DRAWINGS">FIG. 2B</figref>. The difference between the processing loops shown in <figref idref="DRAWINGS">FIGS. 2B and 4B</figref> is that the latter describes steps for generating the i+1<sup>th </sup>and j+1<sup>th </sup>comparison results for processing the i+1<sup>th </sup>substrate in the system <b>400</b>. In the embodiments of <figref idref="DRAWINGS">FIGS. 2A and 3A</figref>, the systems <b>200</b> and <b>300</b> are not correlated, for example, and the predicted parameter generated in the system <b>200</b> is not provided to the system <b>300</b> for processing the i+1<sup>th </sup>substrate.</p>
+<p id="p-0080" num="0079">After steps <b>436</b> and <b>446</b>, the i+1<sup>th </sup>predicted parameter <b>437</b> and the j+1<sup>th </sup>predicted parameter <b>447</b> may be stored in the storage medium <b>215</b>, <b>315</b>, <b>415</b>, combinations thereof or other storage medium. The processor <b>410</b> may apply the k<sup>th </sup>recipe for processing the i<sup>th </sup>substrate in step <b>452</b>. Step <b>452</b> is similar to step <b>232</b> described above in connection with <figref idref="DRAWINGS">FIG. 2B</figref>. In step <b>454</b>, the apparatus <b>405</b> may process the i<sup>th </sup>substrate while detecting at least one k<sup>th </sup>processing parameter. Step <b>454</b> is similar to step <b>234</b> described above in connection with <figref idref="DRAWINGS">FIG. 2B</figref>. In step <b>456</b>, the processor <b>410</b> may process the k<sup>th </sup>processing parameter, thereby yielding at least one k<sup>th </sup>predicted parameter. Step <b>456</b> is similar to step <b>246</b> described above by reference to <figref idref="DRAWINGS">FIG. 2B</figref>.</p>
+<p id="p-0081" num="0080">In step <b>457</b>, the processor <b>410</b> may compare the k<sup>th </sup>predicted parameter with a k<sup>th </sup>pre-defined parameter, thereby yielding at least one k<sup>th </sup>comparison result. The comparison step <b>457</b> is similar to the comparison step <b>238</b> set forth above in connection with <figref idref="DRAWINGS">FIG. 2B</figref>, except that the k<sup>th </sup>comparison result is not yet provided for processing the i+1<sup>th </sup>substrate.</p>
+<p id="p-0082" num="0081">In step <b>458</b>, the processor <b>410</b> may retrieve the i+1<sup>th </sup>predicted parameter <b>437</b> generated in the system <b>200</b> and the j+1<sup>th </sup>predicted parameter <b>447</b> generated in the system <b>300</b> and process the i+1<sup>th </sup>predicted parameter <b>437</b>, the j+1<sup>th </sup>predicted parameter <b>447</b> and the k<sup>th </sup>comparison result, thereby yielding at least one k<sup>th </sup>processing result <b>459</b> for processing the i+1<sup>th </sup>substrate.</p>
+<p id="p-0083" num="0082">For example, the apparatus <b>205</b> may be a CVD apparatus, the apparatus <b>305</b> may be a CMP apparatus and the apparatus <b>405</b> may be an etch apparatus. In <figref idref="DRAWINGS">FIG. 4A</figref>, the substrate characteristic resulting from the apparatus <b>205</b>, for example, does not affect the substrate characteristic resulting from the apparatus <b>305</b>. Accordingly, the predicted parameter <b>437</b> generated in step <b>436</b> is not provided in the system <b>300</b> for generating a processing result.</p>
+<p id="p-0084" num="0083">The CVD apparatus <b>205</b> may, for example, form a thin film layer over the i+1<sup>th </sup>substrate in step <b>434</b>. Step <b>436</b> then processes the processing parameters of step <b>434</b> (e.g., the distribution of processing gas, gas flow rate, processing temperature, processing pressure, power, combinations thereof or the like), thereby yielding the predicted thickness <b>437</b> of the i+1<sup>th </sup>substrate. The predicted thickness and/or its uniformity <b>437</b> may be stored in the storage medium <b>215</b>, for example. The CMP apparatus <b>305</b> may, for example process the i+1<sup>th </sup>substrate in step <b>444</b> with the j+1<sup>th </sup>processing parameter (e.g., rotational speed, the distribution of downward force, slurry, amount of slurry, combinations thereof or the like). The processor <b>310</b> would then process the j+1<sup>th </sup>processing parameter, thereby yielding the j+1<sup>th </sup>predicted parameter <b>447</b> (e.g., predicted removal rate or removal thickness and/or its uniformity). The predicted removal rate and removal thickness and removal uniformity may be stored, for example, in the storage medium <b>315</b>.</p>
+<p id="p-0085" num="0084">In system <b>400</b>, the etch apparatus <b>405</b> may remove portions of the thin film layer, corresponding to a patterned photoresist layer (not shown) formed over the thin film layer, to form a via/contact hole, damascene trench, damascene hole or the like, for example,. In step <b>452</b>, the processor <b>410</b> may apply the k<sup>th </sup>recipe to the etch apparatus <b>405</b> for processing the i<sup>th </sup>substrate. The etch apparatus <b>405</b> then process the i<sup>th </sup>substrate while detecting at least one k<sup>th </sup>processing parameter by the detecting device <b>409</b> (shown in <figref idref="DRAWINGS">FIG. 4A</figref>) in step <b>454</b>. In step <b>456</b>, the processor <b>410</b> may then process the k<sup>th </sup>processing parameter, thereby yielding at least one k<sup>th </sup>predicted parameter (e.g., predicted etch rate or etch thickness, i.e., etch depth and uniformities thereof).</p>
+<p id="p-0086" num="0085">In step <b>457</b>, the processor <b>410</b> may compare the k<sup>th </sup>predicted parameter (i.e., predicted etch rate or etch thickness, i.e., etch depth, and uniformities thereof) with the k<sup>th </sup>pre-defined parameter (i.e., the pre-defined predicted etch rate or etch thickness and uniformities thereof), thereby yielding the k<sup>th </sup>comparison result (e.g., deviation of the predicted etch rate or etch thickness and their uniformities from the pre-defined etch rate or etch thickness and uniformity thereof).</p>
+<p id="p-0087" num="0086">In step <b>458</b>, the processor <b>410</b> may process the k<sup>th </sup>comparison result (e.g., deviation of the predicted etch rate or etch thickness and/or its uniformity from the pre-defined etch rate or etch thickness and/or its uniformity) with the predicted thickness <b>437</b> retrieved from the system <b>200</b> and the predicted removal rate or removal thickness, i.e., etch depth, and/or its uniformity <b>447</b> retrieved from the system <b>300</b>, thereby yielding the k<sup>th </sup>processing result <b>459</b> (e.g., the predicted depth) for processing the i+1<sup>th </sup>substrate in the apparatus <b>405</b>. The k<sup>th </sup>processing result <b>459</b> is then fed back to step <b>452</b> for further processing the i+1<sup>th </sup>substrate.</p>
+<p id="p-0088" num="0087">For some embodiments, steps <b>222</b>, <b>223</b>, <b>224</b>, <b>226</b> and <b>228</b> shown in <figref idref="DRAWINGS">FIG. 2C</figref>, steps <b>235</b> and <b>241</b>-<b>244</b><i>a </i>shown in <figref idref="DRAWINGS">FIG. 2D</figref> and/or steps <b>235</b><i>a </i>and <b>246</b>-<b>249</b><i>a </i>and <b>249</b><i>c </i>shown in <figref idref="DRAWINGS">FIG. 2E</figref> can be applied in either or both of the systems <b>200</b> and <b>300</b> to achieve a desired process flow. In addition, the devices <b>208</b>, <b>308</b> and/or <b>408</b> may further provide at least one desired uniform substrate characteristic (e.g., the uniformity of thickness, width, depth, length, diameter, thickness, resistance, sheet resistance, refractive index, dielectric constant, combination thereof or the like). With the desired uniform characteristics, dies may be formed, at the peripheral region and central region, with approximate electrical characteristics (e.g., the uniformity of resistance, current, threshold voltage or the like) that all fall within desired specifications. Accordingly, yields and productivity of dies are thus enhanced.</p>
+<p id="p-0089" num="0088"><figref idref="DRAWINGS">FIG. 4C</figref> is a schematic flowchart showing an exemplary method for processing the i+1<sup>th </sup>substrate in accordance with the i+1<sup>th </sup>predicted parameter <b>437</b> generated in the system <b>200</b>, the j+1<sup>th </sup>predicted parameter <b>467</b><i>a </i>generated in the system <b>300</b> and the k<sup>th </sup>predicted parameter generated in the system <b>400</b>. In <figref idref="DRAWINGS">FIG. 4C</figref>, substrate characteristics generated in the systems <b>200</b> and <b>300</b> are correlated. Steps <b>432</b><i>a, </i><b>434</b><i>a, </i><b>436</b><i>a </i>and <b>438</b><i>a </i>are similar to steps <b>432</b>, <b>434</b>, <b>436</b> and <b>438</b>, respectively. Steps <b>432</b><i>a, </i><b>434</b><i>a, </i><b>436</b><i>a </i>and <b>438</b><i>a </i>are provided to generate the i+2<sup>th </sup>comparison result <b>439</b><i>a </i>for processing the i+3<sup>th </sup>substrate, and steps <b>432</b>, <b>434</b>, <b>436</b> and <b>438</b> are provided to generate the i+1<sup>th </sup>comparison result <b>439</b> for processing the i+2<sup>th </sup>substrate. In other words, the processing loop in the system <b>200</b> shown in <figref idref="DRAWINGS">FIG. 4C</figref> is an expanded processing loop of <figref idref="DRAWINGS">FIG. 2B</figref> to better show that the i+1<sup>th </sup>predicted parameter <b>437</b> is provided to step <b>458</b> for generating the k<sup>th </sup>processing result and that the i+2<sup>th </sup>predicted parameter <b>437</b><i>a </i>is provided to step <b>468</b> for generating the j+1<sup>th </sup>processing result. Steps <b>462</b>, <b>464</b>, <b>466</b>, <b>467</b> and <b>468</b> are similar to steps <b>342</b>, <b>344</b>, <b>346</b>, <b>347</b> and <b>348</b> described above in connection with <figref idref="DRAWINGS">FIG. 3B</figref>.</p>
+<p id="p-0090" num="0089">The present invention may be embodied in the form of computer-implemented processes and apparatus for practicing those processes. The present invention may also be embodied in the form of computer program code embodied in tangible media, such as floppy diskettes, read only memories (ROMs), CD-ROMs, hard drives, &#x201c;ZIP&#x2122;&#x201d; high density disk drives, flash memory drives, or any other computer-readable storage medium, wherein, when the computer program code is loaded into and executed by a computer, the computer becomes an apparatus for practicing the invention. The present invention may also be embodied in the form of computer program code, for example, whether stored in a storage medium, loaded into and/or executed by a computer, or transmitted over some transmission medium, such as over the electrical wiring or cabling, through fiber optics, or via electromagnetic radiation, wherein, when the computer program code is loaded into and executed by a computer, the computer becomes an apparatus for practicing the invention. When implemented on a general-purpose processor, the computer program code segments configure the processor to create specific logic circuits.</p>
+<p id="p-0091" num="0090">Although the present invention has been described in terms of exemplary embodiments, it is not limited thereto. Rather, the appended claims should be construed broadly to include other variants and embodiments of the invention which may be made by those skilled in the field of this art without departing from the scope and range of equivalents of the invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A semiconductor processing method, comprising:
+<claim-text>processing a first substrate while detecting at least one value of a first processing parameter in a first apparatus;</claim-text>
+<claim-text>analyzing the first processing parameter, thereby yielding at least one first predicted parameter value;</claim-text>
+<claim-text>comparing the first predicted parameter value with a first pre-defined parameter value, thereby yielding at least one first comparison result;</claim-text>
+<claim-text>applying a first recipe corresponding to the first comparison result for processing a second substrate in the first apparatus with at least one second processing parameter value corresponding to the first recipe;</claim-text>
+<claim-text>analyzing the second processing parameter value, thereby yielding at least one second predicted parameter value; and</claim-text>
+<claim-text>determining whether a processing time of the first apparatus is longer than, or equal to, a pre-defined processing time, and</claim-text>
+<claim-text>wherein if the processing time of the first apparatus is longer than, or equal to the pre-defined processing time, the method further comprises;
+<claim-text>measuring the second substrate, thereby yielding at least one first measurement parameter value;</claim-text>
+<claim-text>comparing the first measurement parameter with the second pre-defined parameter, thereby yielding at least one third comparison result.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The semiconductor processing method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first processing parameter comprises at least one of a processing temperature, a type of a gas, a flow rate of the gas, a pressure, a processing time, a voltage, a current, a radio frequency (RF) power, a power, an implantation energy, an implantation dosage, a photolithographic exposure energy, a photolithographic exposure time, a photoresist spin rate, a chemical mechanical planarization (CMP) rotation rate, and a CMP downward force.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The semiconductor processing method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first predicted parameter value comprises at least one of a thickness, a width, a depth, a length, a diameter, a thickness, a resistance, a sheet resistance, a refractive index, a dielectric constant, a uniformity, a hardness, an elasticity, an area, and a space.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The semiconductor processing method of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising:
+<claim-text>processing a third substrate while detecting at least one second processing parameter immediately after a preventive maintenance (PM) step and before processing the first substrate;</claim-text>
+<claim-text>measuring the third substrate, thereby yielding at least one first measurement parameter value;</claim-text>
+<claim-text>comparing the first measurement parameter value and a second pre-defined parameter value, thereby yielding at least one second comparison result; and</claim-text>
+<claim-text>applying a second recipe corresponding to the second comparison result for processing the first substrate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The semiconductor processing method of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising:
+<claim-text>processing the second substrate while detecting at least one second processing parameter value corresponding to the first recipe; and</claim-text>
+<claim-text>determining whether a numeral associated with the second substrate is equal to a pre-defined number, wherein the numeral indicates a number of substrates processed since a preventive maintenance operation or an amount of time since the preventive maintenance operation,</claim-text>
+<claim-text>wherein if the numeral is not equal to the pre-defined number, the method further comprises:
+<claim-text>comparing the second predicted parameter value with at least one second pre-defined parameter value, thereby yielding at least one second comparison result for processing a third substrate, and</claim-text>
+</claim-text>
+<claim-text>wherein if the numeral is equal to the pre-defined number, the method further comprises:
+<claim-text>measuring the second substrate, thereby yielding at least one first measurement parameter value;</claim-text>
+<claim-text>wherein if the third comparison result is not larger than, or equal to, about a pre-defined percentage of at least one of the first measurement parameter and the second predicted parameter value, the method further comprises:
+<claim-text>applying a second recipe corresponding to the third comparison result for processing a third substrate in the first apparatus, and</claim-text>
+</claim-text>
+<claim-text>wherein if the third comparison result is about the pre-defined percentage or more of at least one of the first measurement parameter and the second predicted parameter value, the method further comprises:
+<claim-text>modifying a simulation software for yielding a modified predicted parameter value;</claim-text>
+<claim-text>comparing the modified predicted parameter value with at least one third pre-defined parameter value, thereby yielding a fourth comparison result; and</claim-text>
+<claim-text>applying a third recipe corresponding to the fourth comparison result for processing the third substrate in the first apparatus.</claim-text>
+</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The semiconductor processing method of <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>wherein if the processing time of the first apparatus is not longer than, or equal to the pre-defined processing time, the method further comprises:
+<claim-text>comparing the second predicted parameter value with at least one second pre-defined parameter value, thereby yielding at least one second comparison result for processing a third substrate, and</claim-text>
+<claim-text>wherein if the third comparison result is not larger than, or equal to, about a pre-defined percentage of at least one of the first measurement parameter and the second predicted parameter value, the method further comprises:
+<claim-text>applying a second recipe corresponding to the third comparison result for processing a third substrate in the first apparatus, and</claim-text>
+</claim-text>
+<claim-text>wherein if the third comparison result is about the pre-defined percentage or more of at least one of the first measurement parameter and the second predicted parameter value, the method further comprises:
+<claim-text>modifying a simulation software for yielding a modified predicted parameter value;</claim-text>
+<claim-text>comparing the modified predicted parameter value with at least one third pre-defined parameter value, thereby yielding a fourth comparison result; and</claim-text>
+<claim-text>applying a third recipe corresponding to the fourth comparison result for processing the third substrate in the first apparatus.</claim-text>
+</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The semiconductor processing method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the applying step comprises selecting the first recipe from a recipe selection table (RST).</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The semiconductor processing method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first recipe is applied to provide at least one approximately uniform characteristic of the second substrate.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The semiconductor processing method of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising:
+<claim-text>processing the first substrate while detecting at least one third processing parameter value in a second apparatus;</claim-text>
+<claim-text>analyzing the third processing parameter, thereby yielding at least one third predicted parameter value;</claim-text>
+<claim-text>comparing the third predicted parameter value with at least one second pre-defined parameter value, thereby yielding at least one second comparison result;</claim-text>
+<claim-text>analyzing the second comparison result and the second predicted parameter value and the second comparison result, thereby yielding at least one first processing result; and</claim-text>
+<claim-text>applying a second recipe corresponding to the first processing result for processing the second substrate in the second apparatus.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The semiconductor processing method of <claim-ref idref="CLM-00009">claim 9</claim-ref> further comprising:
+<claim-text>processing the second substrate with at least one fourth processing parameter value corresponding to the second recipe in the second apparatus;</claim-text>
+<claim-text>analyzing the fourth processing parameter, thereby yielding at least one fourth predicted parameter value;</claim-text>
+<claim-text>processing the first substrate with at least one fifth processing parameter value in a third apparatus;</claim-text>
+<claim-text>analyzing the fifth processing parameter, thereby yielding at least one fifth predicted parameter value;</claim-text>
+<claim-text>comparing the fifth predicted parameter value with at least one third pre-defined parameter value, thereby yielding at least one third comparison result;</claim-text>
+<claim-text>analyzing the second predicted parameter value, the fourth predicted parameter value and the third comparison result, thereby yielding at least one second processing result; and</claim-text>
+<claim-text>applying a third recipe corresponding to the second processing result for processing the second substrate in the third apparatus.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A semiconductor processing method, comprising:
+<claim-text>processing a first substrate while detecting a first processing parameter value of at least one first processing parameter in a first apparatus;</claim-text>
+<claim-text>analyzing the first processing parameter, thereby yielding at least one first predicted parameter value;</claim-text>
+<claim-text>comparing the first predicted parameter value with a first pre-defined parameter value, thereby yielding at least one first comparison result; and</claim-text>
+<claim-text>applying a first recipe corresponding to the first comparison result for processing a second substrate while detecting at least one second processing parameter value in the first apparatus;</claim-text>
+<claim-text>analyzing the second processing parameter, thereby yielding at least one second predicted parameter value;</claim-text>
+<claim-text>processing the first substrate while detecting a third processing parameter value of at least one third processing parameter in a second apparatus;</claim-text>
+<claim-text>analyzing the third processing parameter, thereby yielding at least one third predicted parameter value;</claim-text>
+<claim-text>analyzing the second predicted parameter value and the third predicted parameter value, thereby yielding at least one first processing result; and</claim-text>
+<claim-text>comparing the first processing result with at least one second pre-defined parameter, thereby yielding at least one second comparison result;</claim-text>
+<claim-text>applying a second recipe corresponding to the second comparison result for processing the second substrate in the second apparatus, wherein at least one of the first recipe and the second recipe is applied to provide at least one approximately uniform characteristic of the second substrate</claim-text>
+<claim-text>determining whether a numeral associated with the second substrate is equal to a pre-defined number, wherein the numeral indicates a number of substrates processed since a preventive maintenance operation or an amount of time since the preventive maintenance operation;</claim-text>
+<claim-text>wherein if the numeral is not equal to the pre-defined number, the method further comprises;
+<claim-text>comparing the fourth predicted parameter value with the at least one third ore-defined parameter value, thereby yielding at least one third comparison result for processing a third substrate, and</claim-text>
+</claim-text>
+<claim-text>wherein if the numeral is equal to the pre-defined number, the method further comprises:
+<claim-text>measuring the second substrate, thereby yielding at least one second measurement parameter value;</claim-text>
+<claim-text>comparing the second measurement parameter with at least one third pre-defined parameter, thereby yielding at least one fourth comparison result,</claim-text>
+</claim-text>
+<claim-text>wherein if the fourth comparison result is about a pre-defined percentage or more of at least one of the second measurement parameter and the fourth predicted parameter value, the method further comprises:
+<claim-text>modifying a simulation software for yielding a modified predicted parameter value;</claim-text>
+<claim-text>comparing the modified predicted parameter value with at least one fourth pre-defined parameter value, thereby yielding a fifth comparison result;and</claim-text>
+<claim-text>applying a fourth recipe corresponding to the fifth comparison result for processing the fourth substrate.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The semiconductor processing method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the first processing parameter value comprises at least one of a processing temperature, a type of a gas, a flow rate of the gas, a pressure, a processing time, a voltage, a current, a radio frequency (RF) power, a power, an implantation energy, an implantation dosage, a photolithographic exposure energy, a photolithographic exposure time, a photoresist spin rate, a chemical mechanical planarization (CMP) rotation rate, and a CMP downward force.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The semiconductor processing method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the first predicted parameter value comprises at least one of a thickness, a width, a depth, a length, a diameter, a thickness, a resistance, a sheet resistance, a refractive index, a dielectric constant, a uniformity, a hardness, an elasticity, an area, and a space.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The semiconductor processing method of <claim-ref idref="CLM-00011">claim 11</claim-ref> further comprising:
+<claim-text>processing at least one third substrate while detecting at least one fourth processing parameter value immediately after a preventive maintenance (PM) step of the first apparatus and before processing the first substrate;</claim-text>
+<claim-text>measuring the third substrate, thereby yielding at least one first measurement parameter value;</claim-text>
+<claim-text>comparing the first measurement parameter value and a second pre-defined parameter value, thereby yielding at least one second comparison result; and</claim-text>
+<claim-text>applying a third recipe corresponding to the second comparison result for processing the first substrate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The semiconductor processing method of <claim-ref idref="CLM-00011">claim 11</claim-ref> further comprising:
+<claim-text>processing the second substrate while detecting at least one fourth processing parameter value corresponding to the second recipe;</claim-text>
+<claim-text>analyzing the fourth processing parameter value, thereby yielding at least one fourth predicted parameter value; and
+<claim-text>wherein if the third comparison result is not larger than, or equal to, about the pre-defined percentage of at least one of the second measurement parameter and the fourth predicted parameter value, the method further comprises: and
+<claim-text>applying a third recipe corresponding to the fourth comparison result for processing a fourth substrate.</claim-text>
+</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The semiconductor processing method of <claim-ref idref="CLM-00011">claim 11</claim-ref> further comprising:
+<claim-text>processing the second substrate with at least one fourth processing parameter value corresponding to the second recipe;</claim-text>
+<claim-text>determining whether a processing time of the first apparatus is longer than, or equal to, a pre-defined processing time,</claim-text>
+<claim-text>wherein if the processing time of the first apparatus is not longer than, or equal to the pre-defined processing time, the method further comprises:
+<claim-text>comparing the fourth predicted parameter value with at least one third pre-defined parameter value, thereby yielding at least one third comparison result for processing a third substrate, and</claim-text>
+</claim-text>
+<claim-text>wherein if the processing time of the first apparatus is longer than or equal to the pre-defined processing time, the method further comprises:
+<claim-text>measuring the second substrate, thereby yielding at least one first measurement parameter value;</claim-text>
+<claim-text>comparing the first measurement parameter with the third pre-defined parameter, thereby yielding at least one fourth comparison result,</claim-text>
+<claim-text>wherein if the third comparison result is not larger than, or equal to, about a pre-defined percentage of at least one of the second measurement parameter and the fourth predicted parameter value, the method further comprises:
+<claim-text>applying a third recipe corresponding to the fourth comparison result for processing a fourth substrate.</claim-text>
+</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The semiconductor processing method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein at least one of the applying steps comprises selecting the first recipe or the second recipe from at least one recipe selection table (RST).</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The semiconductor processing method of <claim-ref idref="CLM-00011">claim 11</claim-ref> further comprising:
+<claim-text>processing the second substrate with at least one fourth processing parameter value corresponding to the second recipe in the second apparatus;</claim-text>
+<claim-text>analyzing the fourth processing parameter, thereby yielding at least one fourth predicted parameter value;</claim-text>
+<claim-text>processing the first substrate with at least one fifth processing parameter value in a third apparatus;</claim-text>
+<claim-text>analyzing the fifth processing parameter, thereby yielding at least one fifth predicted parameter value;</claim-text>
+<claim-text>comparing fifth predicted parameter value with at least one third pre-defined parameter value, thereby yielding at least one third comparison result;</claim-text>
+<claim-text>analyzing the second predicted parameter value, the fourth predicted parameter value and the third comparison result, thereby yielding at least one second processing result; and</claim-text>
+<claim-text>applying a third recipe corresponding to the second processing result for processing the second substrate in the third apparatus.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. A semiconductor processing system, comprising:
+<claim-text>a first apparatus, wherein the first apparatus is configured to process a first substrate with at least one first processing parameter; and</claim-text>
+<claim-text>at least one first processor coupled to the first apparatus, wherein the first processor is configured to analyze the first processing parameter, thereby yielding at least one first predicted parameter value; to compare the first predicted parameter value with a first pre-defined parameter value, thereby yielding at least one first comparison result; and to control the first apparatus for modifying a simulation software for yielding a modified predicted parameter value,comparing the modified predicted parameter value with the first pre-defined parameter value, thereby yielding a second comparison result, and applying a recipe corresponding to the second comparison result for processing a second substrate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The semiconductor processing system of <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the first processing parameter comprises at least one of a processing temperature, a type of a gas, a flow rate of the gas, a pressure, a processing time, a voltage, a current, a radio frequency (RF) power, a power, an implantation energy, an implantation dosage, a photolithographic exposure energy, a photolithographic exposure time, a photoresist spin rate, a chemical mechanical planarization (CMP) rotation rate, and a CMP downward force.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The semiconductor processing system of <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the first predicted parameter comprises at least one of a thickness, a width, a depth, a length, a diameter, a thickness, a resistance, a sheet resistance, a refractive index, a dielectric constant, a uniformity, a hardness, an elasticity, an area, and a space.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The semiconductor processing system of <claim-ref idref="CLM-00019">claim 19</claim-ref> further comprising a firs measuring apparatus,
+<claim-text>wherein the first apparatus is further configured to process a third substrate with at least one second processing parameter immediately after a preventive maintenance (PM) step and before processing the first substrate,</claim-text>
+<claim-text>wherein the first measuring apparatus measures the third substrate, thereby yielding at least one first measurement parameter value, and</claim-text>
+<claim-text>wherein the first processor is further configured to compare the first measurement parameter value and a second pre-defined parameter value, thereby yielding at least one second comparison result; and to apply a second recipe corresponding to the second comparison result for processing the first substrate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The semiconductor processing system of <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the first processor is further configured to determine whether a numeral associated with the second substrate is equal to a pre-defined number, wherein the numeral indicates a number of substrate processed since a preventive maintenance operation or an amount of time since the preventive maintenance operation.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The semiconductor processing system of <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the first processor is further configured to determine whether a processing time of the first apparatus is longer than, or equal to, a pre-defined processing time.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The semiconductor processing system of <claim-ref idref="CLM-00019">claim 19</claim-ref> further comprising at least one memory storing a recipe selection table (RST) coupled to the first processor, wherein the first recipe is selected from the RST.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. The semiconductor processing system of <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the first apparatus comprises a device capable of providing at least one processing condition over the second substrate corresponding to the first recipe so as to achieve at least one approximately uniform characteristic of the second substrate.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text>27. The semiconductor processing system of <claim-ref idref="CLM-00019">claim 19</claim-ref> further comprising:
+<claim-text>a second apparatus; and</claim-text>
+<claim-text>at least one second processor coupled to the second apparatus and the first processor,
+<claim-text>wherein the first apparatus is further configured to process the second substrate while detecting at least one second processing parameter value corresponding to the first recipe in the first apparatus,</claim-text>
+<claim-text>wherein the first processor is further configured to analyze the second processing parameter, thereby yielding at least one second predicted parameter value,</claim-text>
+<claim-text>wherein the second apparatus is configured to process the first substrate while detecting at least one third processing parameter value, and</claim-text>
+<claim-text>wherein at least one of the first processor and the second processor is configured to analyze the third processing parameter, thereby yielding at least one third predicted parameter value, to compare the third predicted parameter value with at least one second pre-defined parameter value, thereby yielding at least one second comparison result; to analyze the second comparison result and the second predicted parameter value and the second comparison result, thereby yielding at least one first processing result; and to apply a second recipe corresponding to the first processing result for processing the second substrate in the second apparatus.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text>28. The semiconductor processing system of <claim-ref idref="CLM-00027">claim 27</claim-ref> further comprising:
+<claim-text>a third apparatus; and</claim-text>
+<claim-text>at least one third processor coupled to the third apparatus, the first processor and the second processor,</claim-text>
+<claim-text>wherein the second apparatus is further configured to process the second substrate while detecting at least one fourth processing parameter value corresponding to the second recipe,</claim-text>
+<claim-text>wherein at least one of the first and the second processor is further configured to analyze the fourth processing parameter, thereby yielding at least one fourth predicted parameter value,</claim-text>
+<claim-text>wherein the third apparatus is configured to process the first substrate while detecting at least one fifth processing parameter value,</claim-text>
+<claim-text>wherein the at least one of the first processor, the second processor and the third processor is configured to analyze the fifth processing parameter, thereby yielding at least one fifth predicted parameter value; to compare the fifth predicted parameter value with at least one third pre-defined parameter value, thereby yielding at least one third comparison result; to analyze the second predicted parameter value, the fourth predicted parameter value and the third comparison result, thereby yielding at least one second processing result; and to apply a third recipe corresponding to the second processing result for processing the second substrate in the third apparatus.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text>29. A semiconductor processing method, comprising:
+<claim-text>processing a first substrate using a first recipe while detecting at least one value of a first processing parameter in a first apparatus;</claim-text>
+<claim-text>analyzing the first processing parameter, thereby yielding at least one first predicted parameter value;</claim-text>
+<claim-text>comparing the first predicted parameter value with a first pre-defined parameter value, thereby yielding at least one first comparison result; and</claim-text>
+<claim-text>modifying a simulation software for yielding a modified predicted parameter value;</claim-text>
+<claim-text>comparing the modified predicted parameter value with the first pre-defined parameter value, thereby yielding a second comparison result; and</claim-text>
+<claim-text>applying a second recipe corresponding to the second comparison result for processing a second substrate.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

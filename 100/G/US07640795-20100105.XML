@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640795-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640795</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10323805</doc-number>
+<date>20021220</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>19</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 7311462</main-classification>
+</classification-national>
+<invention-title id="d0e43">Apparatus and method for starter RPM detection</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2579804</doc-number>
+<kind>A</kind>
+<name>Dotson</name>
+<date>19511200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73116</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2862391</doc-number>
+<kind>A</kind>
+<name>Schneider et al.</name>
+<date>19581200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 74  7 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3845375</doc-number>
+<kind>A</kind>
+<name>Stiebel</name>
+<date>19741000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>318463</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3903737</doc-number>
+<kind>A</kind>
+<name>Burden et al.</name>
+<date>19750900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 731181</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4310888</doc-number>
+<kind>A</kind>
+<name>Furuhashi et al.</name>
+<date>19820100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701113</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4325265</doc-number>
+<kind>A</kind>
+<name>Wakatsuki et al.</name>
+<date>19820400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 74  7 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4948997</doc-number>
+<kind>A</kind>
+<name>Ohmitsu et al.</name>
+<date>19900800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>310113</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5089759</doc-number>
+<kind>A</kind>
+<name>Miotke et al.</name>
+<date>19920200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>31856811</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5195366</doc-number>
+<kind>A</kind>
+<name>Duncan</name>
+<date>19930300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 731181</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5475270</doc-number>
+<kind>A</kind>
+<name>McRoy</name>
+<date>19951200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>307 106</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5601058</doc-number>
+<kind>A</kind>
+<name>Dyches et al.</name>
+<date>19970200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>1231792</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5691871</doc-number>
+<kind>A</kind>
+<name>Innes</name>
+<date>19971100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>361 96</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>6653807</doc-number>
+<kind>B2</kind>
+<name>Saito et al.</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>318430</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>7212911</doc-number>
+<kind>B2</kind>
+<name>Raichle et al.</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701114</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>7218010</doc-number>
+<kind>B2</kind>
+<name>Albertson et al.</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>290 38 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>7284416</doc-number>
+<kind>B2</kind>
+<name>Krampitz et al.</name>
+<date>20071000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73119 R</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>27</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 731181</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 7311439</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 7311462</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>6</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20040118194</doc-number>
+<kind>A1</kind>
+<date>20040624</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Raichle</last-name>
+<first-name>Kurt</first-name>
+<address>
+<city>Owatonna</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Baker &#x26; Hostetler LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>SPX Corporation</orgname>
+<role>02</role>
+<address>
+<city>Charlotte</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Caputo</last-name>
+<first-name>Lisa M</first-name>
+<department>2855</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Davis</last-name>
+<first-name>Octavia</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An engine starter motor tester applies power to a motor under test at the level normally applied while that motor is installed in a vehicle and monitors the ripple in the driving current. The ripple rate, scaled by the number of windings used in the construction of the motor, provides a direct reading of the shaft speed of the unloaded motor. This number allows a valid inference concerning the state of health of the motor, and is more certain than an estimate for an unloaded motor based on operator experience and motor &#x201c;sound&#x201d;. A complete test apparatus includes a stored lookup table, allowing the user to key in a product brand and model number and read directly both the RPM and the test apparatus's rating of the motor under test, expressed in terms such as percentage of life remaining.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="77.13mm" wi="113.71mm" file="US07640795-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="106.00mm" wi="124.71mm" file="US07640795-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="169.93mm" wi="137.92mm" orientation="landscape" file="US07640795-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="186.44mm" wi="102.70mm" orientation="landscape" file="US07640795-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="102.19mm" wi="129.12mm" file="US07640795-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="175.68mm" wi="72.56mm" file="US07640795-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="196.60mm" wi="97.79mm" orientation="landscape" file="US07640795-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention relates generally to vehicular and non-vehicular engine starter motor test equipment. More particularly, the present invention relates to an apparatus and method for testing a starter motor by measurement of rotational speed under power.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Engine-powered vehicles, recreational equipment, and machines commonly use battery-powered electric motors to start their engines. Such starter motors have a variety of failure modes. A typical maintenance procedure when starter motor failure is suspected involves removing the motor and testing it using dedicated test equipment. Such a unit of test equipment typically consists of a bracket to which the motor under test can be clamped, a wall-plug-AC-powered DC power supply, heavy-duty cables to feed the power to the motor under test, and a variety of connection and control schemes to allow any of the various styles of starter motors to be actuated in a way similar to their normal on-engine actuation modes.</p>
+<p id="p-0004" num="0003">In pursuit of minimization of complexity and component cost, typical starter motor testers employ simple power supplies and provide no direct indication of the condition of the starter motor, relying on the experience of the operating technician to decide whether the sound of the running starter motor is &#x201c;about right&#x201d;. While effective for diagnosing simple failures such as worn-out brushes, shorted commutators, open field windings, and failed hold coils, and to verify that a replacement starter motor acts nominally as part of a sales transaction, such tester designs may fall short when testing newer starters. For example, recent starter motor designs can differ greatly, so that technician experience may be less reliable as a guide to motor condition. Meanwhile, starter motors for fossil/renewable hybrid and low emissions vehicles may be used at virtually every vehicle stop, so demands for starter motor reliability and durability can increase, which can in turn dictate a need for higher analytical precision in a tester. Conventional tester designs may also fail to take advantage of recent innovations in electronic components and concepts that promise significant benefits, including the capability to detect failure modes that may be partially masked when starter motors are run without a load.</p>
+<p id="p-0005" num="0004">Incorporating into a starter motor tester the capability to apply a mechanical load simulating an engine sized for each motor has presented disadvantages. The variety of dimensions of run-away clutches, as well as the variety of mounting bracket styles used to affix starter motors to engines, makes the mechanical connection of a starter to a load simulator a significant challenge. Such a load simulator, in turn, would have significant technical challenges to its implementation in support of all likely engine types, from motorcycles to heavy trucks. Temperature testing to verify a starter motor's ability to function in a worst case would be desirable, but would require chilling the starter motor to simulate extreme winter conditions, which presents the disadvantage of complexity.</p>
+<p id="p-0006" num="0005">Accordingly, there is a need in the art for a starter motor tester that provides increased test capability compared to conventional designs.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0007" num="0006">A preferred embodiment of a starter motor tester comprises a mechanical clamping apparatus to restrain a motor under test from rotating during startup and slowdown; an electrical circuit to apply power to the starter motor; a detector circuit to sense the rate at which the starter motor spins; a current monitor circuit to detect the instantaneous current flowing through the motor under test; a current scaler to convert the detected level to a form usable by the test circuitry; a rate sense function to detect the ripple frequency of the load current; a rate scaler to adjust the signal from the rate sense circuit according to the properties of the motor under test; a display driver circuit to convert the scaled rate signal to a human-readable form; and a display to report the detected spin rate (commonly termed RPM in reference to the standard unit of measure, revolutions per minute).</p>
+<p id="p-0008" num="0007">In accordance with another embodiment of the present invention, an apparatus for performing starter motor testing tasks establishes electrical connection between a suitable source of DC power and a starter motor being tested and applies that DC power to the motor. It further applies control signals to the starter motor, senses the current level drawn by the starter motor, and detects pulsation in the sensed starter motor current level attributable to addition and removal of individual motor windings from the power circuit as the motor's brushes make and break contact with the individual segments of the motor's armature. It further converts detected pulses into a pulse rate indication, adjusts the pulse rate indication based on properties of the individual starter motor in order to determine the RPM of the starter motor under test, and displays as an output the sensed and scaled RPM of the starter motor under test.</p>
+<p id="p-0009" num="0008">In accordance with another embodiment of the present invention, a method for testing vehicle engine starter motors features the steps of accepting AC input power from public utility AC mains; converting the incoming AC input power to DC at the range of levels of voltage and current required for operating engine starter motors; applying the DC to the starter motor under test; sensing the average and transient current of the power applied to the starter motor under test; converting the ripples in the sensed current level to a ripple rate; scaling the ripple rate signal based on the number of windings and/or any gear reduction characteristic of the starter motor under test to yield an effective RPM value; displaying the effective RPM value in human-readable form; displaying a summary indication of the condition of the starter motor under test; and providing electrical connectivity to integrate the starter motor testing method and the starter motor under test.</p>
+<p id="p-0010" num="0009">There have thus been outlined, rather broadly, the more important features of the invention in order that the detailed description thereof that follows may be better understood, and in order that the present contribution to the art may be better appreciated. There are, of course, additional features of the invention that will be described below and which will form the subject matter of the claims appended hereto.</p>
+<p id="p-0011" num="0010">In this respect, before explaining at least one embodiment of the invention in detail, it is to be understood that the invention is not limited in its application to the details of construction and to the arrangements of the components set forth in the following description or illustrated in the drawings. The invention is capable of other embodiments, and of being practiced and carried out in various ways. It is also to be understood that the phraseology and terminology employed herein, as well as the abstract, are for the purpose of description, and should not be regarded as limiting.</p>
+<p id="p-0012" num="0011">As such, those skilled in the art will appreciate that the conception upon which this disclosure is based may readily be utilized as a basis for the designing of other structures, methods and systems for carrying out the several purposes of the present invention. It is important, therefore, that the claims be regarded as including such equivalent constructions insofar as they do not depart from the spirit and scope of the present invention.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of a mechanical arrangement suitable for implementing the preferred embodiment of a starter motor tester.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref> is a block diagram illustrating a starter motor tester that incorporates an RPM sensor according to a preferred embodiment of the present invention.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 3</figref> is a first schematic diagram showing the sensor configuration used in the preferred embodiment of the invention, in which a return-line current monitor and differentiator are used to implement the RPM sense circuit.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4</figref> is a &#x201c;screen shot&#x201d; representing an oscilloscope screen showing the waveforms characteristic of a signal from a current sensor and from a Hall effect probe operating at the same rate.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 5</figref> provides a flowchart illustrating the steps performed by a preferred embodiment of a starter motor tester.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 6</figref> is a second schematic diagram of an embodiment similar to <figref idref="DRAWINGS">FIG. 2</figref> with the exception that a magnetic field sensor is employed in place of a current sensor.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF PREFERRED EMBODIMENTS OF THE INVENTION</heading>
+<p id="p-0019" num="0018">A preferred embodiment of the invention provides a vehicle engine starter motor tester that includes a safety clamp to restrain the motor from moving during testing. A power source applies the equivalent of vehicle battery power to a subject motor. Interconnect cables, clamps, and switching circuitry allow multiple styles of conventional starter motors to be powered. A current monitor senses and displays the draw of the subject motor for comparison to the standard for that motor. Also, in the preferred embodiment of the invention, a detector and its associated circuitry sense and display motor RPM during the test.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 1</figref> shows a starter motor test set <b>12</b> that encloses the electronics in a simple housing <b>14</b> and restrains a starter <b>16</b> under test with a clamp <b>18</b>. The test results are displayed on a readout display <b>20</b>. The test set requires few or no controls on the panel; the preferred embodiment can use a simple test command pushbutton <b>22</b> to run the test. The power cables <b>40</b> and the associated power cable clamps <b>66</b> provide connection for primary power. Additional interconnecting wires <b>68</b> support whatever additional signals may be required for testing a specific type of starter motor.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 2</figref> illustrates a preferred embodiment of the present inventive apparatus and method in block diagram form. Within a starter motor tester <b>24</b>, a power supply <b>26</b> that uses a protection function <b>28</b>, an electromagnetic interference (EMI) filter <b>30</b>, and a main power switching device <b>32</b>, draws power from AC mains by a standard electrical plug <b>34</b> and provides the power to AC-to-DC conversion circuitry <b>36</b> and an output EMI filter <b>38</b>.</p>
+<p id="p-0022" num="0021">The power supply output in the preferred embodiment provides low-resistance electrical continuity through a pair of power cables <b>40</b> and a series current sensing device <b>42</b> to the primary inputs <b>44</b> of the starter unit under test <b>46</b>. The signal developed across the current sensing device <b>42</b> is subjected to analog signal level adjustment and filtering <b>48</b> to produce an isolated signal of suitable magnitude for processing by an analog-to-digital (A/D) converter <b>50</b> whose output digital data stream is fed to a digital signal processor (DSP) <b>52</b>. The DSP <b>52</b> also receives data from additional digital data sources via an interface buffer <b>54</b>; in this embodiment the additional sources include a Universal Serial Bus (USB&#xae;) port <b>56</b> that permits a lookup table of starter model numbers with selected characteristics of each to be downloaded into the tester from a remote source and a keyboard <b>58</b> that allows the user to enter characteristics for the starter type under test without depending on a remote source.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 2</figref> also shows the output of the DSP <b>52</b> as a display <b>60</b> that indicates results of the testing, for instance expected RPM, actual RPM, and average current draw. In this preferred embodiment, the DSP <b>52</b> also supports the keyboard <b>58</b>, and can be used to generate display information such starter motor data as model number, number of poles, gear reduction ratio, rated torque, and the like for presentation on the display <b>60</b>.</p>
+<p id="p-0024" num="0023">As further illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, a typical starter motor may have two main power conductors only (a first conductor in the form of a wire for &#x201c;hot&#x201d; and a second conductor in the form of ground return via the body of the starter is the minimum that can work; starters of this type as well as starters with two power wires can be supported using the preferred embodiment), or may have two main power conductors plus a varying number of additional wires; the configuration for a test depends on the number of additional components integrated into the starter unit under test <b>46</b>. A driver circuit <b>62</b> in the tester <b>24</b> allows these additional functions in the starter under test to be exercised with excitation and loads comparable to those in the vehicle.</p>
+<p id="p-0025" num="0024">The AC/DC power supply could apply power to starters designed for so-called positive-ground systems as well as for negative-ground systems.</p>
+<p id="p-0026" num="0025">The electronic circuitry in the preferred embodiment may require a stand-alone power unit <b>64</b> isolated from the DC supply <b>26</b> used to energize the starter under test <b>46</b>.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 3</figref> shows a greater level of detail in the analog portion of the waveform analysis function. <figref idref="DRAWINGS">FIG. 4</figref> shows waveforms characteristic of the circuit designs in <figref idref="DRAWINGS">FIG. 3</figref> and <figref idref="DRAWINGS">FIG. 6</figref>, and will be referenced during the discussion of both of the latter figures. The voltage developed across a sense resistor <b>70</b> may require amplification and buffering with an isolating amplifier <b>72</b>. The amplifier <b>72</b> output may require further conditioning with a bandpass filter <b>74</b> to remove the DC level and uncorrelated noise, such as high-frequency switching noise from the AC/DC converter <b>36</b> in <figref idref="DRAWINGS">FIG. 2</figref>. The filter <b>74</b> can thus yield a series of signal pulses associated with the powering of successive armature windings through the brushes in the starter under test <b>46</b> in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 4</figref> shows a representative waveform present in the current-sensor-based rate detection circuit as a waveform <b>76</b>. The voltage signal represented by this waveform <b>76</b> may then be applied to an analog-to-digital converter (A/D) <b>78</b> to be digitized at a sufficient sampling rate to avoid aliasing, with the sample rate under appropriate control. The term &#x201c;aliasing&#x201d; is used here as normally used by those skilled in the art, namely to specify sampling at or above the Nyquist rate. In the case of a starter tester, the sample rate would ordinarily be either twice the highest known pole rate for an unloaded starter or a rate selected by the DSP <b>80</b> for each starter type, as preferred for a given implementation. Alternative designs may be used, such as analog systems feeding shaped pulse streams to stand-alone counter modules.</p>
+<p id="p-0029" num="0028">The waveform <b>76</b> thus sampled could contain a characteristic repetitive pattern. Analysis within the DSP <b>80</b> could in turn detect the pulse rate causing this pattern, which is the rate at which poles of the starter armature are successively energized by the starter motor's brushes. From that rate and the data characterizing the selected starter, the tester can determine the rotation rate of the armature under test. Since the value of interest is generally the armature rate rather than the output shaft rate, the armature pole rate may be used to indicate the condition of the starter under test. Output shaft rate may also be a datum of interest.</p>
+<p id="p-0030" num="0029">The DSP <b>80</b> in the preferred embodiment should be able to store, manage, and upgrade a database of starter properties in internal or external nonvolatile memory, such database of sufficient size to meet the normal requirements of the intended product market.</p>
+<p id="p-0031" num="0030">An example of an alternative technology usable in place of a DSP is a general-purpose field programmable gate array (FPGA). Some FPGAs can be programmed with sufficient functionality to perform the required operations, as well as to store a block of starter data in internal or external nonvolatile memory.</p>
+<p id="p-0032" num="0031">Another embodiment can use a unitized microcontroller, such as a member of the PIC&#xae; product family, to implement a significant part of the design described above. Typical PIC family devices include buffering and A/D conversion, but would likely require some external passive lowpass filtering to suppress aliasing, and would lack a large memory store to manage a starter database internal to the PIC. Thus, an implementation with a PIC could require an additional external nonvolatile memory store, and would likely yield an effective product complexity comparable to the previously described embodiments.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 5</figref> illustrates another embodiment of the present inventive apparatus in flowchart form. This embodiment provides for conversion of mains AC to a DC level suitable for vehicle engine starter motors <b>82</b> and for application of this power to the motor under test <b>84</b> (UUT). The embodiment further detects pulsations in DC electric motor drive current <b>86</b>, converts the pulsations to a numerical rate value <b>88</b>, and converts this number to a corresponding motor performance value <b>90</b>. The embodiment then displays the performance value <b>92</b>, and rates <b>94</b> the motor under test compared to the standard for its type.</p>
+<p id="p-0034" num="0033">Additional manual or automatic capabilities, such as detection of the type of starter motor, determination of starter motor requirements, and furnishing of excitation requirements to motor drive circuitry, can be implemented to produce a complete commercial product.</p>
+<p id="p-0035" num="0034">A system according to the preferred embodiment of the invention may have other design elements, such as, for example, a housing, input electromagnetic interference (EMI) filter circuitry, output EMI filter circuitry, protection circuitry to provide circuit interruption in event of power fault, power factor correction, a user interface, a temperature monitor, and other design elements appropriate for industrial application of starter motor testing functions.</p>
+<p id="p-0036" num="0035">The preferred embodiment of the invention, in providing a built-in RPM scaling function, introduces a level of capability for precision whose benefit offsets the disadvantage of adding to system complexity. Similarly, the use of a digital readout to display RPM and/or other properties measured during the test, can provide information to allow a credible estimate of the performance capability of the unit under test compared to a new or ideal unit of the same type, rather than a simple go/no go observation.</p>
+<p id="p-0037" num="0036">Alternative embodiments can, for example, sense rotation rate directly by detecting changes in the magnetic field outside the starter during a test. <figref idref="DRAWINGS">FIG. 6</figref> shows an example of such a sensor circuit using a Hall effect device. Placed proximate to a motor under test, a sensor based on a Hall effect device could detect changes in the motor's magnetic field as the armature rotates. This signal, suitably buffered <b>100</b> and filtered <b>102</b> using a circuit as illustrated in <figref idref="DRAWINGS">FIG. 6</figref>, could produce a waveform <b>96</b> as shown in <figref idref="DRAWINGS">FIG. 4</figref>. The Hall effect component <b>98</b> of the circuit of <figref idref="DRAWINGS">FIG. 6</figref> could be an active sensor powered by the self power supply <b>64</b> shown in <figref idref="DRAWINGS">FIG. 2</figref>. Such a device, by directly producing a usable output signal as each armature pole passes, could simplify DSP <b>104</b> programming. Digital interface <b>106</b> signals and display <b>108</b> characteristics could be largely unaffected by the choice of sensor technology. There are still other existing sensing devices capable of producing accurate measurements.</p>
+<p id="p-0038" num="0037">Other alternative embodiments could include still other technologies for detecting motor speed by detecting current drawn by individual armature poles, such as an inductive current sensor, clamp-on DC ammeter, or the like, attached to or surrounding the DC power wiring, without deviating from the intent of the series resistor approach already described. Similarly, a motion detector for ferrous metals or a similar device, placed adjacent to the gear teeth of the starter motor drive mechanism, could directly sense output shaft motion, detecting the achieved rotation rate of the starter and permitting its display.</p>
+<p id="p-0039" num="0038">In a complete implementation of the present invention, certain of the steps making up the preferred embodiment could be performed using a computing device, stored memory system, binary data input, and a human interface for commands and signals.</p>
+<p id="p-0040" num="0039">The application of the inventive apparatus in the testing of motors manufactured for use in starting internal combustion engines in vehicles does not exclude its further application for testing other types of motors, such as those used for starting internal combustion engines used for powering generators, pumps, and other stationary and portable equipment, as well as other motor types that use DC power and provide intermittent or continuous service. The features of the inventive apparatus are further applicable to testing of motors powered from AC.</p>
+<p id="p-0041" num="0040">The many features and advantages of the invention are apparent from the detailed specification, and, thus, it is intended by the appended claims to cover all such features and advantages of the invention which fall within the true spirit and scope of the invention. Further, since numerous modifications and variations will readily occur to those skilled in the art, it is not desired to limit the invention to the exact construction and operation illustrated and described; accordingly, all suitable modifications and equivalents may be resorted to, that fall within the scope of the invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A tester for vehicle engine starter motors, comprising:
+<claim-text>a mechanical clamping apparatus to restrain a motor under test from rotating during startup and slowdown;</claim-text>
+<claim-text>an electrical circuit to apply power to the starter motor;</claim-text>
+<claim-text>a data storage capability allowing entered data characterizing a plurality of starter motor types to be retained within said starter tester;</claim-text>
+<claim-text>a data selection device allowing a single starter motor type to be selected from entered data;</claim-text>
+<claim-text>a detector circuit to sense the rate at which the starter motor spins and comparing with a standard spin rate of a motor of the same type; and</claim-text>
+<claim-text>a display to report the detected spin rate and the comparison with the standard spin rate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The tester of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said detector circuit further comprises:
+<claim-text>a current monitor circuit to detect the instantaneous current flowing through the motor under test; and</claim-text>
+<claim-text>a current scaler to convert the detected motor drive current to an electrical signal characterized by transient signal components associated with starter motor armature rotation.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The tester of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said detector circuit further comprises:
+<claim-text>a magnetic field detection device (MFDD) external to the motor under test to produce a sensible response to transient starter motor magnetic field effects; and</claim-text>
+<claim-text>an MFDD interface circuit to convert the sensible response from the MFDD to a form usable by the display circuitry.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The tester of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said detector circuit further comprises:
+<claim-text>a rate sense function to detect the ripple frequency of the load current;</claim-text>
+<claim-text>a rate scaler to adjust the signal from the rate sense circuit according to the properties of the motor under test; and</claim-text>
+<claim-text>a display driver circuit to convert the scaled rate signal to a form compatible with a display device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The tester of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said electrical circuit to apply power further comprises:
+<claim-text>an input circuit configured to accept alternating current input power from public utility alternating current mains; and</claim-text>
+<claim-text>a power supply to convert input alternating current to low-voltage direct current suitable for application to a starter motor under test.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The tester of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein said power source supports testing of 6-volt, 12-volt, and 24-volt starter motors.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The tester of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein said power source supports positive-ground electrical systems.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The tester of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a data entry device to furnish data characterizing a plurality of starter motor types to said starter tester; and</claim-text>
+<claim-text>a processing device to apply controlling values to the scaling circuit of said starter motor tester based on information extracted from entered data.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The tester of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein said data entry capability further comprises:
+<claim-text>a first data entry capability that permits entry of a store of information identifying starter motors by model designation associated with such properties of each model as may be relevant to the testing; and</claim-text>
+<claim-text>a second data entry capability that permits entry into the tester of type identification for the specific starter motor under test.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The tester of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein said system supports manual entry of test parameters.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The tester of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the data entry device including entry of standard values for the motor, stored in the data storage, and processed by the processing device for comparison of the standard values with the detected values of the motor.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The tester of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising an auxiliary power circuit configured to provide, from a source external to said tester, power to the electronic circuitry of the tester.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The tester of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a set of devices to provide electrical connection between the test apparatus and the starter motor under test.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The tester of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein said electrical connection devices support a connection that simulates the in-vehicle connection from the vehicle battery to the starter motor under test.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The tester of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein said electrical connection devices support a direct ground return through the case of the starter motor under test.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The tester of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein said electrical connection devices support a solenoid activation terminal separate from the battery and ground connections.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The tester of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein said electrical connection devices support testing the added function of starter motors equipped with an auxiliary ignition terminal separate from any power and solenoid activation terminals that may be present on such starter motors.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The tester of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein said electrical connection devices support testing starter motors used with separate solenoids.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The tester of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said system supports evaluation of the condition of the start and hold coils and any contacts of starter motor solenoids.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The tester of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a current sense circuit provides a measurement of the average motor current.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The tester of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the detector circuit further comprises:
+<claim-text>a resistor receiving input from the motor under test;</claim-text>
+<claim-text>an isolating amplifier connected to the resistor with voltage developed across the resistor, including amplification and buffering from the isolating amplifier; and</claim-text>
+<claim-text>a filter connected to the isolating amplifier removing the direct current level and uncorrelated noise from the electrical circuit, yielding a series of signal pulses associated with the powering of successive armature windings in the motor under test.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The tester of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the electrical circuit to apply power, further comprises:
+<claim-text>a protection device receiving input from an alternating current power source and providing a protection function for the received power;</claim-text>
+<claim-text>a filter providing electromagnetic interference filtering of the power from the protection device;</claim-text>
+<claim-text>a power switching device controlling the power from the filter;</claim-text>
+<claim-text>an alternating current to direct current device converting the power from the power switching device; and</claim-text>
+<claim-text>a second filter providing an electromagnetic interference filtering of the direct current from the alternating current to direct current device, providing power to the motor under test.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The tester of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the detector circuit further comprises:
+<claim-text>a signal processor receiving signal from a current sensor from a return of the current from the motor under test, the signal developed across the current sensor is subject to signal level adjustment and filtering from the signal processor to provide a predetermined magnitude;</claim-text>
+<claim-text>an analog to digital converter receiving the signal form the signal processor and converting the signal from analog to digital;</claim-text>
+<claim-text>a digital signal processor receiving the signal from the analog to digital converter and processing the signal for display; and</claim-text>
+<claim-text>an interface buffer providing information of the motor from a remote source to the digital signal processor for processing for display.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The tester of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the detector circuit further comprises:
+<claim-text>a means for detection of pulsations in the motor under testing;</claim-text>
+<claim-text>a means for converting the pulsations to a numerical rate value; and</claim-text>
+<claim-text>a means for comparing the rates of the motor under test and a standard for the type of motor under test for display.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The tester of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the mechanical clamping apparatus, the electrical circuit, the detector circuit and display being integrated and housed in a single unit.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. An apparatus for testing vehicle engine starter motors, comprising:
+<claim-text>a clamp restraining a motor under test from rotating during startup and slowdown;</claim-text>
+<claim-text>a power supply providing power to the starter motor at the level of a compatible vehicle;</claim-text>
+<claim-text>a detector module receiving the current output form a starter motor under test, further comprising:
+<claim-text>a first module sensing the current from the motor or from the magnetic field outside the motor;</claim-text>
+<claim-text>a second module converting the signal from the first module for processing; and</claim-text>
+<claim-text>a third module receiving input from the second module and converting the input received to a spin rate, and comparing the spin rate with standard spin rates of the motor received from an external input;</claim-text>
+</claim-text>
+<claim-text>a data storage capability allowing entered data characterizing a plurality of starter motor types to be retained and communicatively linked to the external input;</claim-text>
+<claim-text>a data selection device allowing a single starter motor type to be selected from entered data; and</claim-text>
+<claim-text>a display to report the information outputted from the detector module.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text>27. The apparatus of <claim-ref idref="CLM-00026">claim 26</claim-ref>, further comprising a driver circuit providing additional functions in the motor under test to be exercised with excitation and loads of the vehicle adapted for the motor. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

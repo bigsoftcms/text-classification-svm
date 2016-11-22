@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641122-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641122</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10971095</doc-number>
+<date>20041025</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2004-114188</doc-number>
+<date>20040408</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>440</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>K</subclass>
+<main-group>19</main-group>
+<subgroup>06</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>235492</main-classification>
+<further-classification>23547201</further-classification>
+</classification-national>
+<invention-title id="d0e71">Mobile device having an IC card function</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4395767</doc-number>
+<kind>A</kind>
+<name>Van Brunt et al.</name>
+<date>19830700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>714736</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5092799</doc-number>
+<kind>A</kind>
+<name>Kimura</name>
+<date>19920300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>439 60</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5623552</doc-number>
+<kind>A</kind>
+<name>Lane</name>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>382124</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5889866</doc-number>
+<kind>A</kind>
+<name>Cyras et al.</name>
+<date>19990300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5894423</doc-number>
+<kind>A</kind>
+<name>Ling et al.</name>
+<date>19990400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>700293</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2001/0017584</doc-number>
+<kind>A1</kind>
+<name>Shinzaki</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2003/0006280</doc-number>
+<kind>A1</kind>
+<name>Seita et al.</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2003/0045328</doc-number>
+<kind>A1</kind>
+<name>Natsuno</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2003/0174839</doc-number>
+<kind>A1</kind>
+<name>Yamagata et al.</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2004/0064698</doc-number>
+<kind>A1</kind>
+<name>Zhang</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2006/0183516</doc-number>
+<kind>A1</kind>
+<name>Ham</name>
+<date>20060800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>4555753</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>EP</country>
+<doc-number>0 803 830</doc-number>
+<kind>A1</kind>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>JP</country>
+<doc-number>07-141069</doc-number>
+<kind>A</kind>
+<date>19950600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>JP</country>
+<doc-number>11-177682</doc-number>
+<date>19990700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>JP</country>
+<doc-number>2001-168980</doc-number>
+<kind>A</kind>
+<date>20010600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>JP</country>
+<doc-number>2001-297315</doc-number>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>JP</country>
+<doc-number>2003-016398</doc-number>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>JP</country>
+<doc-number>2003-132029</doc-number>
+<kind>A</kind>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>JP</country>
+<doc-number>2003-242428</doc-number>
+<kind>A</kind>
+<date>20030800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>JP</country>
+<doc-number>2003-250183</doc-number>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00021">
+<othercit>European Office Action dated Aug. 29, 2005.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00022">
+<othercit>European Patent Office Action dated Nov. 16, 2005, corresponding to European Application No. 04256551.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00023">
+<othercit>Japanese Office Action dated Mar. 25, 2008, Application No. 2004-114188.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00024">
+<othercit>Japanese Office Action dated Aug. 26, 2008, Application No. 2004-114188.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00025">
+<othercit>Japanese Notice of Reason for Rejection dated Sep. 8, 2009, issued in corresponding Japanese patent application No. 2008-137246.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>33</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>235439</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>23547201-47203</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>235492</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>455558</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>14</number-of-drawing-sheets>
+<number-of-figures>14</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20050224587</doc-number>
+<kind>A1</kind>
+<date>20051013</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Shin</last-name>
+<first-name>Takahiro</first-name>
+<address>
+<city>Kawasaki</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Furuki</last-name>
+<first-name>Kenetsu</first-name>
+<address>
+<city>Kawasaki</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ono</last-name>
+<first-name>Yoshihiro</first-name>
+<address>
+<city>Kanagawa</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Inui</last-name>
+<first-name>Shinichiro</first-name>
+<address>
+<city>Kato-gun</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="005" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ebara</last-name>
+<first-name>Takayuki</first-name>
+<address>
+<city>Kawasaki</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="006" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nakajima</last-name>
+<first-name>Yuko</first-name>
+<address>
+<city>Kawasaki</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="007" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Watanabe</last-name>
+<first-name>Hideaki</first-name>
+<address>
+<city>Kawasaki</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="008" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hamada</last-name>
+<first-name>Wataru</first-name>
+<address>
+<city>Kawasaki</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="009" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nagasawa</last-name>
+<first-name>Hideyuki</first-name>
+<address>
+<city>Yokohama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="010" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Naruse</last-name>
+<first-name>Naoki</first-name>
+<address>
+<city>Yokohama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="011" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Yoshinaga</last-name>
+<first-name>Hisashi</first-name>
+<address>
+<city>Yokohama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Westerman, Hattori, Daniels &#x26; Adrian, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Fujitsu Limited</orgname>
+<role>03</role>
+<address>
+<city>Kawasaki</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+<assignee>
+<addressbook>
+<orgname>NTT DoCoMo, Inc.</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Lee</last-name>
+<first-name>Seung H</first-name>
+<department>2887</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">To provide a technology for making it possible to control enable/disable of an IC card function provided in a mobile device. A mobile device including an IC card unit for executing an IC card function, and a communication unit for carrying out communication through a radio telephone line detects a voltage of a battery unit for supplying an electric power to each of the IC card unit and the communication unit, judges whether or not the IC card function can be used in accordance with the detected voltage value, and issues an enable/disable instruction to the IC card unit in accordance with the Judgment results.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="156.29mm" wi="263.74mm" file="US07641122-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="276.52mm" wi="187.11mm" orientation="landscape" file="US07641122-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="257.81mm" wi="184.32mm" orientation="landscape" file="US07641122-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="200.58mm" wi="126.58mm" file="US07641122-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="196.77mm" wi="181.27mm" file="US07641122-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="262.64mm" wi="180.68mm" file="US07641122-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="260.52mm" wi="127.85mm" file="US07641122-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="261.96mm" wi="179.83mm" file="US07641122-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="255.95mm" wi="184.15mm" file="US07641122-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="263.91mm" wi="140.63mm" file="US07641122-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="205.15mm" wi="186.69mm" file="US07641122-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="260.43mm" wi="174.92mm" file="US07641122-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="266.11mm" wi="178.99mm" file="US07641122-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="221.83mm" wi="169.25mm" file="US07641122-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="253.07mm" wi="178.73mm" file="US07641122-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention relates to a technology for controlling a function of an IC card provided in a mobile terminal.</p>
+<p id="p-0003" num="0002">In recent years, IC cards are becoming widely used instead of conventional magnetic cards. The IC card includes an IC chip provided therein, so the IC card can store therein much information and also execute a simple processing. Therefore, application of the IC card to various services is expected.</p>
+<p id="p-0004" num="0003">For example, it is proposed to provide the IC card function to a mobile device such as a mobile telephone or a watch, and to utilize the mobile device as a commutation ticket for a train, a prepaid card, a ticket for an event, an ID card, or the like.</p>
+<p id="p-0005" num="0004">Thus, providing the IC card function to the mobile telephone, the watch, or the like offers such merits that a power supply and an interface can be used in common, and services of the IC card through a mobile telephone network become possible.</p>
+<p id="p-0006" num="0005">As for the prior art related to the present invention of this application, for example, there are technologies disclosed in the following Patent documents 1 and 2.
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0006">[Patent document 1] JP 2001-297315 A</li>
+        <li id="ul0002-0002" num="0007">[Patent document 2] JP 2003-250183 A</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0007" num="0008">As described above, in a case where the IC card function is provided in the mobile device, the mobile device can be used in various applications such as a credit card, an ID card, or the like. However, there encountered a problem in that if the mobile device is mislaid or stolen, and the mobile device is unlawfully used, the damage arising therefore is liable to be larger.</p>
+<p id="p-0008" num="0009">In addition, there had been another problem in that if the mobile device becomes not working due to battery exhaustion and the IC card function simultaneously becomes unavailable to use thereby, the mobile device cannot be used, for example, for payments using the credit card function, or for examinations of tickets using the function of the commutation tickets.</p>
+<p id="p-0009" num="0010">The present invention therefore provides a technology for making it possible to control enable/disable of the IC card function provided in the mobile device.</p>
+<p id="p-0010" num="0011">A mobile device having an IC card function of the present invention, includes:</p>
+<p id="p-0011" num="0012">an IC card unit for executing the IC card function;</p>
+<p id="p-0012" num="0013">a function unit for executing a function of at least communication and display;</p>
+<p id="p-0013" num="0014">a control unit for judging whether or not the IC card function can be used in accordance with an operation of the function unit, and outputting the judgment results; and</p>
+<p id="p-0014" num="0015">an instruction hold unit for issuing an enable/disable instruction to the IC card unit in response to reception of the judgment results, and holding the enable/disable state even in non-operation state of the control unit.</p>
+<p id="p-0015" num="0016">In the mobile device,</p>
+<p id="p-0016" num="0017">an input unit for receiving information from a user may be provided as the function unit, and</p>
+<p id="p-0017" num="0018">the control unit may judge whether or not the IC card function can be used in accordance with the input information from the input unit.</p>
+<p id="p-0018" num="0019">The input information from the input unit may be password or biometrics information.</p>
+<p id="p-0019" num="0020">The IC card unit may have a plurality of functions, the control unit may judge for each function whether or not the function can be used, and</p>
+<p id="p-0020" num="0021">the instruction hold unit may issue for each function an enable/disable instruction to the IC card unit.</p>
+<p id="p-0021" num="0022">A communication unit for carrying out communication with any of other devices may be provided as the function unit, and the control unit may judge whether or not the IC card function can be used in accordance with a signal received at the communication unit.</p>
+<p id="p-0022" num="0023">The mobile device may include:</p>
+<p id="p-0023" num="0024">a battery unit for supplying an electric power to at least the IC card unit and the function unit; and</p>
+<p id="h-0003" num="0000">a power supply monitoring unit for detecting a voltage from the battery unit, and</p>
+<p id="p-0024" num="0025">when the voltage detected by the power supply monitoring unit is equal to or smaller than a predetermined value, the instruction hold unit may issue a disable instruction to the IC card unit.</p>
+<p id="p-0025" num="0026">When the voltage detected by the power supply monitoring unit is equal to or smaller than a first threshold, the instruction hold unit may issue an enable instruction to the IC card unit, while halting the function unit, and when the voltage detected by the power supply monitoring unit is equal to or smaller than a second threshold, the instruction hold unit may issue a disable instruction to the IC card unit.</p>
+<p id="p-0026" num="0027">The mobile device may include a storage unit for storing therein enable/disable information issued from the instruction hold unit,</p>
+<p id="p-0027" num="0028">when the battery unit is attached/detached, the control unit may read out the enable/disable information before the attachment/detachment from the storage unit, and make the instruction hold unit to issue the same instruction as the enable/disable instruction before the attachment/detachment to the IC card unit.</p>
+<p id="p-0028" num="0029">Further, a mobile device having an IC card function of the present invention, includes:</p>
+<p id="p-0029" num="0030">an IC card unit for executing an IC card function; a communication unit for carrying out communication through a radio telephone line;</p>
+<p id="p-0030" num="0031">a battery unit for supplying an electric power to at least the IC card unit and the communication unit; a power supply monitoring unit for detecting a voltage from the battery unit;</p>
+<p id="p-0031" num="0032">a control unit for judging whether or not the IC card function can be used in accordance with the voltage value detected by the power supply unit, and outputting the judgment results; and</p>
+<p id="p-0032" num="0033">an instruction hold unit for issuing an enable/disable instruction to the IC card unit in response to reception of the judgment results, and holding the enable/disable state even in non-operation state of the control unit.</p>
+<p id="p-0033" num="0034">When the voltage detected by the power supply monitoring unit is equal to or smaller than a first threshold, the instruction hold unit may issue an enable instruction to the IC card unit, while halting the communication unit, and when the voltage detected by the power supply monitoring unit is equal to or smaller than a second threshold, the instruction hold unit may issue a disable instruction to the IC card unit.</p>
+<p id="p-0034" num="0035">An IC card function controlling method of the present invention for controlling an IC card function executed by a mobile device including an IC card unit for executing the IC card function, and a function unit for executing at least a communication function and/or a display function, includes the steps of:</p>
+<p id="p-0035" num="0036">judging whether or not the IC card function can be used in accordance with an operation of the function unit; and issuing an enable/disable instruction to the IC card unit in accordance with the judgment results.</p>
+<p id="p-0036" num="0037">When the mobile device includes an input unit for receiving information from a user as the function unit,</p>
+<p id="p-0037" num="0038">a judgment whether or not the IC card function can be used, may be carried out in accordance with the input information through the input unit.</p>
+<p id="p-0038" num="0039">The input information may be password or biometrics information.</p>
+<p id="p-0039" num="0040">When the IC card unit has a plurality of functions, in the step of judging whether or not the IC card function can be used, the judgment whether or not the IC card function can be used, may be carried out for each function, and</p>
+<p id="p-0040" num="0041">in the step of issuing an enable/disable instruction to the IC card unit, the instruction whether or not the IC card function can be used, may be issued for each function.</p>
+<p id="p-0041" num="0042">When the mobile device includes a communication unit for carrying out communication with any of other devices as the function unit,</p>
+<p id="p-0042" num="0043">in the step of judging whether or not the IC card function can be used, the judgment whether or not the IC card function can be used, may be carried out in accordance with a signal received at the communication unit.</p>
+<p id="p-0043" num="0044">When the IC card function controlling method further includes a step of detecting a voltage of a battery unit for supplying an electric power to the IC card unit and the function unit,</p>
+<p id="p-0044" num="0045">when the detected voltage is equal to or smaller than a predetermined value, the enable instruction may be issued to the IC card unit.</p>
+<p id="p-0045" num="0046">When the detected voltage is equal to or smaller than a first threshold, the enable instruction may be issued to the IC card unit, while halting the function unit, and when the detected voltage is equal to or smaller than a second threshold, a disable instruction may be issued to the IC card unit.</p>
+<p id="p-0046" num="0047">When the battery unit is attached/detached, the enable/disable information before the attachment/detachment may be read out from a storage unit to issue the same instruction as the enable/disable instruction before the attachment/detachment to the IC card unit.</p>
+<p id="p-0047" num="0048">Further, an IC card function controlling method of the present invention for controlling an IC card function executed by a mobile device including an IC card unit for executing the IC card function, and a communication unit for carrying out communication through a radio telephone line, includes the steps of:</p>
+<p id="p-0048" num="0049">detecting a voltage of a battery unit for supplying an electric power to the IC card unit and the communication unit; judging whether or not the IC card function can be used in accordance with the detected voltage value; and</p>
+<p id="h-0004" num="0000">issuing an enable/disable instruction to the IC card unit in accordance with the judgment results.</p>
+<p id="p-0049" num="0050">When the detected voltage is equal to or smaller than a first threshold, an enable instruction may be issued to the IC card unit, while halting the communication unit, and when the detected voltage is equal to or smaller than a second threshold, a disable instruction may be issued to the IC card unit.</p>
+<p id="p-0050" num="0051">Further, the present invention may be a program to execute the above-mentioned steps by a computer. Moreover, the present invention may be a recording medium storing the program that is readable by the computer. Then, by causing the computer to read out the program from the recording medium and to execute the program, it is possible to provide a function of the program.</p>
+<p id="p-0051" num="0052">Here, the computer readable recording medium refers to a recording medium, in which information such as data or a program can be accumulated by an electrical, magnetic, optical, mechanical or chemical action, and the information can be read out by the computer. Examples of the recording media among such recording media, which are capable of being removed from the computer, include a flexible disc, a magneto-optical disc, a CD-ROM, a CD-R/W, a DVD, a DAT, an 8 mm tape, and a memory card.</p>
+<p id="p-0052" num="0053">In addition, a hard disc, a read only memory (ROM) and the like may be given as the recording media to be fixed to the computers.</p>
+<p id="p-0053" num="0054">According to the present invention, it is possible to provide the technology with which enable/disable control of the IC card function provided in the mobile device can be performed.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0054" num="0055"><figref idref="DRAWINGS">FIG. 1</figref> is a constructional diagram of a mobile device having an IC card function.</p>
+<p id="p-0055" num="0056"><figref idref="DRAWINGS">FIG. 2</figref> is a constructional diagram of an instruction hold unit and a voltage monitoring IC.</p>
+<p id="p-0056" num="0057"><figref idref="DRAWINGS">FIGS. 3A and 3B</figref> are diagrams explaining a method including controlling enable/disable of the IC card function based on a key manipulation.</p>
+<p id="p-0057" num="0058"><figref idref="DRAWINGS">FIG. 4</figref> is a diagram explaining the method including controlling enable/disable of the IC card function based on the key manipulation.</p>
+<p id="p-0058" num="0059"><figref idref="DRAWINGS">FIG. 5</figref> is a diagram explaining a method including controlling enable/disable of the IC card function under remote control.</p>
+<p id="p-0059" num="0060"><figref idref="DRAWINGS">FIG. 6</figref> is a diagram explaining the method including controlling enable/disable of the IC card function under the remote control.</p>
+<p id="p-0060" num="0061"><figref idref="DRAWINGS">FIG. 7</figref> is a diagram explaining a method including controlling enable/disable of the IC card function under the remote control.</p>
+<p id="p-0061" num="0062"><figref idref="DRAWINGS">FIGS. 8A and 8B</figref> are diagrams explaining a method including controlling enable/disable of the IC card function under the remote control.</p>
+<p id="p-0062" num="0063"><figref idref="DRAWINGS">FIGS. 9A and 9B</figref> are diagrams explaining the method including controlling enable/disable of the IC card function under the remote control.</p>
+<p id="p-0063" num="0064"><figref idref="DRAWINGS">FIG. 10</figref> is a diagram explaining a method including controlling enable/disable of the IC card function in accordance with the results of monitoring of a power supply.</p>
+<p id="p-0064" num="0065"><figref idref="DRAWINGS">FIG. 11</figref> is a diagram explaining a method including controlling enable/disable of the IC card function in accordance with the results of monitoring of the power supply.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0065" num="0066">The best mode for carrying out the invention will hereinafter be described with reference to the drawings. A construction of the following embodiment mode is merely exemplified, and hence the present invention is not limited to the construction of the embodiment mode.</p>
+<p id="p-0066" num="0067">&#x3c;Overall Construction&#x3e;</p>
+<p id="p-0067" num="0068"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic constructional diagram of a mobile device according to the present invention. A mobile telephone C with an IC card function of this embodiment mode includes a function unit such as an audio control unit <b>3</b>, an RF unit (communication unit) <b>7</b>, a display unit <b>4</b>, a manipulation unit <b>5</b>, a biological authentication unit (fingerprint sensor) <b>10</b> and the like, a memory unit <b>9</b>, an instruction hold unit <b>11</b>, a control unit <b>8</b>, an IC card unit <b>12</b>, and voltage monitoring ICs (power supply monitoring units) <b>21</b><i>a </i>and <b>21</b><i>b. </i></p>
+<p id="p-0068" num="0069">The audio control unit <b>3</b> converts a voice inputted through a microphone <b>1</b> into an audio signal to input the radio signal to the control unit <b>8</b>, and also outputs a voice through a speaker <b>2</b> based on the audio signal from the control unit <b>8</b>.</p>
+<p id="p-0069" num="0070">Also, the RF unit <b>7</b> transmits a signal from the control unit <b>8</b> through an antenna <b>6</b> for a mobile telephone in the form of an radio wave, and is connected to another telephone set <b>16</b> or a server <b>18</b> for online connection through a network (such as a radio telephone line or the Internet line) <b>17</b>.</p>
+<p id="p-0070" num="0071">The manipulation unit (input unit) <b>5</b> has input buttons used to input numerical characters or alphabetical characters, a pointing device for menu selection, and the like.</p>
+<p id="p-0071" num="0072">The display unit (LCD) displays thereon a telephone number, the contents of an e-mail, or the like in accordance with the control made by the control unit <b>8</b>.</p>
+<p id="p-0072" num="0073">The memory unit (storage unit) <b>9</b> is a non-volatile memory (a Flash-ROM in this example), and has a user area in which telephone numbers, e-mail addresses and the like are to be stored, and a system area in which authentication data, a condition table, a user management table, enable/disable information and the like are to be stored.</p>
+<p id="p-0073" num="0074">The biological authentication unit (input unit) <b>10</b> reads biometrics information of a user to output the biometrics information to the control unit <b>8</b>. In this example, the fingerprint sensor is adopted as the biological authentication unit <b>10</b>. The fingerprint sensor reads fingerprint information of the user who touches a detection surface of the biological authentication unit <b>10</b> to output the fingerprint information to the control unit <b>8</b>. Note that the biometrics information is not limited to the fingerprint information, and hence may also be information of an iris, a voiceprint, or a blood vessel pattern. The control unit <b>8</b> compares the biometrics information inputted thereto with information registered in the memory unit <b>9</b> in order to carry out the authentication.</p>
+<p id="p-0074" num="0075">When the user manipulates the manipulation unit <b>5</b> of those constructional elements <b>1</b> to <b>10</b> to select a function of a telephone set, for example, the control unit <b>8</b> instructs the display unit <b>4</b> to display thereon a list of telephone numbers (address book) read out from the memory unit <b>9</b> to urge the user to select a telephone number of the other party. When the telephone number of the other party is selected, the control unit <b>8</b> controls the RF unit <b>7</b> so as to connect the mobile telephone C of the user to a telephone set of the other party in order to carry out the telephonic communication with the other party.</p>
+<p id="p-0075" num="0076">An IC card unit <b>12</b> is an LSI for executing the IC card function. The IC card unit <b>12</b> is connected to a terminal (reader/writer) <b>15</b> for an IC card through an antenna <b>14</b> for an IC card function to carry out the communication for the card information with the terminal <b>15</b> for an IC card. Thus, the IC card unit <b>12</b> executes the IC card function.</p>
+<p id="p-0076" num="0077">Also, the IC card unit <b>12</b> has a communication terminal post for communication of information related to the IC card function with the control unit <b>8</b>. Hence, information can be written from the control unit <b>8</b> to the IC card unit <b>12</b>, and also the control unit <b>8</b> can receive notification from the IC card unit <b>12</b>.</p>
+<p id="p-0077" num="0078">The IC card unit <b>12</b> is provided with an enable/disable pin. When a level of an input signal at this pin is High, the IC card function is enabled, while a level of an input signal at this pin is Low, the IC card function is disabled.</p>
+<p id="p-0078" num="0079">An instruction hold unit <b>11</b> is a flip-flop circuit shown in <figref idref="DRAWINGS">FIG. 2</figref>. The instruction hold circuit <b>11</b> issues an enable/disable instruction for the IC card function to the IC card unit <b>12</b> by making the level of the output signal at the enable/disable pin of the IC card unit <b>12</b> High or Low in accordance with inputs from the control unit <b>8</b> and a power supply monitoring unit <b>21</b><i>a. </i></p>
+<p id="p-0079" num="0080">A battery unit <b>22</b> is a power supply for supplying an electric power to each of the units, and is detachably mounted to a chassis <b>100</b> that builds-in those units.</p>
+<p id="p-0080" num="0081">The power supply monitoring unit <b>21</b><i>a </i>monitors a remaining power of the battery unit <b>22</b>, and informs the instruction hold unit <b>11</b> of enable/disable of the IC card function in accordance with the remaining power. In this example, a voltage monitoring IC is adopted as the power supply monitoring unit <b>21</b><i>a</i>. The voltage monitoring unit <b>21</b><i>a </i>compares the voltage of the battery unit <b>22</b> with a predetermined threshold, and selects a level of a signal to an XCLR input of a flip-flop (instruction hold unit) <b>11</b> in accordance with the comparison results to thereby inform the flip-flop (instruction hold unit) <b>11</b> of enable/disable of the IC card function.</p>
+<p id="p-0081" num="0082">The power supply monitoring unit <b>21</b><i>b</i>, as will be described later, monitors a remaining power of the battery unit <b>22</b> to inform the control unit <b>8</b> of stop of supply of the electric power to the function units and the like in accordance with the remaining power.</p>
+<p id="p-0082" num="0083">Note that although the mobile device of this embodiment is constructed with each of the units in the form of the special purpose hardware, the mobile device of the present invention may adopt such a construction that a general purpose computer including a CPU, a memory, and the like realizes the functions of the units <b>1</b> to <b>11</b> in accordance with software (a control program of the IC card function).</p>
+<p id="p-0083" num="0084">&#x3c;Control of Enable/Disable Based on Direct Input&#x3e;</p>
+<p id="p-0084" num="0085"><figref idref="DRAWINGS">FIGS. 3 and 4</figref> are flow charts each explaining a method including controlling enable/disable of the IC card function based on a key manipulation.</p>
+<p id="p-0085" num="0086">First of all, a user selects a function setting menu by manipulating the manipulation unit <b>5</b> (Step <b>1</b>: a Step number will hereinafter be abbreviated as Sn such as S<b>1</b>). If enable/disable of the IC card function is set (S<b>2</b>), an indication of waiting for a fingerprint input is displayed (S<b>3</b>).</p>
+<p id="p-0086" num="0087">When the user inputs his/her fingerprint information through the biological authentication unit <b>10</b> (S<b>4</b>), the control unit <b>8</b> judges whether or not the fingerprint information inputted thereto matches with fingerprint information of a registrant by referring to the memory unit <b>9</b> (S<b>5</b>).</p>
+<p id="p-0087" num="0088">When the judgment results show that the fingerprint information does not match with the information registered, the operation is returned back to Step <b>3</b> to wait for an input. When the judgment results show the matching, an indication of waiting for an input of setting of enable/disable of the IC function is displayed (S<b>6</b>).</p>
+<p id="p-0088" num="0089">When the user inputs selection of enable/disable (S<b>7</b>), and this input corresponds to enable, the control unit <b>8</b> issues an enable instruction to the instruction hold unit <b>11</b>. That is, a signal at a High level, and one CLK are inputted to a D input and a CLK input of the flip-flop (instruction hold unit) <b>11</b>, respectively (S<b>8</b> and S<b>9</b>). As a result, the instruction hold unit <b>11</b> issues an enable instruction (a signal at a High level is inputted) to the enable/disable pin of the IC card unit <b>12</b> to hold the enable instruction (S<b>10</b>) to thereby set the IC card unit <b>12</b> in an enable state (S<b>11</b>).</p>
+<p id="p-0089" num="0090">On the other hand, when a disable instruction is issued in Step <b>7</b>, the control unit <b>8</b> issues a disable instruction to the instruction hold unit <b>11</b>. That is, a signal at a Low level and one CLK are outputted to the D input and the CLK input of the flip-flop (instruction hold unit) <b>11</b> shown in <figref idref="DRAWINGS">FIG. 2</figref>, respectively (S<b>8</b> and S<b>12</b>). As a result, the instruction hold unit <b>11</b> issues a disable instruction (a signal at a Low level is inputted) to the enable/disable pin of the IC card unit <b>12</b> to hold the disable instruction (S<b>13</b>) to thereby set the IC card unit <b>12</b> in a disable state (S<b>14</b>).</p>
+<p id="p-0090" num="0091">&#x3c;Control of Enable/Disable Under Remote Control&#x3e;</p>
+<p id="p-0091" num="0092">Further, <figref idref="DRAWINGS">FIGS. 5 to 7</figref> are flow charts each explaining a method for controlling enable/disable of the IC card function under remote control.</p>
+<p id="p-0092" num="0093">A user makes a telephone call to the mobile telephone C of this example (S<b>21</b>), and a telephone exchange constructing the network <b>17</b> executes a processing for calling to the mobile telephone C (S<b>22</b>) to execute an incoming call processing for the mobile telephone C to start a telephonic communication (S<b>23</b>). The control unit <b>8</b> of the mobile telephone C, in correspondence to this telephonic communication (i.e., an operation of the communication unit), judges whether or not the condition of remote lock is met (S<b>24</b>).</p>
+<p id="p-0093" num="0094">When it is judged that the condition of the remote lock is met, the control unit <b>8</b> issues a disable instruction to the instruction hold unit <b>11</b> (S<b>25</b>). Then, the instruction hold unit <b>11</b> issues a disable instruction (a signal at a Low level is inputted) to the enable/disable pin of the IC card unit <b>12</b> to hold the disable instruction (S<b>26</b>) to set the IC card unit <b>12</b> in a disable state (S<b>27</b>).</p>
+<p id="p-0094" num="0095">At this time, in Step <b>24</b>, the control unit <b>8</b> carries out the judgment under the condition previously stored in the memory unit <b>9</b>, i.e., in this example, the condition that an incoming call of a predetermined telephone number (monitoring number) is received equal to or larger than predetermined times within a predetermined time period. When this condition is met, the control unit <b>8</b> judges that the remote lock is permitted (the setting of disable is made by the communication) to issue a disable instruction to the instruction hold unit <b>11</b>. <figref idref="DRAWINGS">FIG. 7</figref> is A diagram explaining this judgment processing.</p>
+<p id="p-0095" num="0096">When there is an incoming call (S<b>31</b>), the control unit <b>8</b> judges whether or not the remote lock is being set by referring to the memory unit <b>9</b> (S<b>32</b>). When the remote lock is inhibited, the control unit <b>8</b> ends the processing. When the remote lock is permitted (in being set), the control unit <b>8</b> judges whether or not the remote lock is being monitored (whether or not the number of times of an incoming call is incremented)(S<b>33</b>).</p>
+<p id="p-0096" num="0097">When it is judged in Step <b>33</b> that the remote lock is not being monitored, the control unit <b>8</b> judges whether or not an originating number is the monitoring number (S<b>41</b>). When it is judged that the originating number is the monitoring number, and hence the IC card unit is not already disabled (in being locked), the monitoring is started (S<b>42</b> and S<b>43</b>). Otherwise, the processing is stopped.</p>
+<p id="p-0097" num="0098">On the other hand, when it is judged in S<b>33</b> that the remote lock is being monitored, the control unit <b>8</b> judges whether or not the originating number is the monitoring number (S<b>34</b>). When it is judged in S<b>34</b> that the originating number is the monitoring number, the number of times of an incoming call is incremented (S<b>35</b>)</p>
+<p id="p-0098" num="0099">The control unit <b>8</b> judges whether or not the current number of times of an incoming call is equal to or larger than the predetermined number of times. When it is judged that the current number of times of an incoming call is smaller than the predetermined number of times, the monitoring is continued. When it is judged that the current number of times of an incoming call is equal to or larger than the predetermined number of times, the monitoring is stopped (S<b>36</b>). Next, the control unit <b>8</b> judges whether or not the IC card unit <b>12</b> is already in being locked. When it is judged that the IC card unit <b>12</b> is not yet in being locked, the control unit <b>8</b> reports an automatic answer message that &#x201c;the IC card function is halted&#x201d;, and informs the instruction hold unit <b>11</b> of disable of the IC card function.</p>
+<p id="p-0099" num="0100">Besides, <figref idref="DRAWINGS">FIGS. 8 and 9</figref> are flow charts each explaining a method of controlling enable/disable by inputting password through a tone input operation.</p>
+<p id="p-0100" num="0101">A user makes a telephone call to the mobile telephone C of this example (S<b>21</b>), and the network <b>17</b> executes a processing for calling to the mobile telephone C (S<b>22</b>) to execute an incoming call processing for the mobile telephone C to start a telephonic communication (S<b>23</b>).</p>
+<p id="p-0101" num="0102">The control unit <b>8</b> of the mobile telephone C, in response to this telephonic communication (i.e., the operation of the communication unit), starts to judge whether or not the condition of the remote lock is met. Thus, firstly, the mobile telephone C waits for an instruction under the remote control (S<b>44</b>).</p>
+<p id="p-0102" num="0103">When the user pushes the numeral keys in the order of &#x201c;0123&#x201d; for example showing start of the remote control, a corresponding tone signal is inputted to the mobile telephone C (S<b>45</b>). If this tone signal is a signal for setting of enable/disable of the IC card function (S<b>46</b>), then the mobile telephone C transmits an announcement that the mobile phone C waits for an input of password (S<b>47</b>).</p>
+<p id="p-0103" num="0104">When the user inputs the password in the form of a tone signal (S<b>48</b>), the control unit <b>8</b> judges whether or not the input password matches with the previously registered password by referring to the memory unit <b>9</b>. When it is judged that the input password matches with the previously registered password, the mobile telephone C makes an announcement that the mobile telephone C waits for an input of setting of enable/disable of the IC card (S<b>6</b>).</p>
+<p id="p-0104" num="0105">Hereinafter, similarly to the operation of <figref idref="DRAWINGS">FIG. 3</figref>, the user inputs a tone signal for selection of enable/disable (S<b>7</b>) When this input corresponds to enable, the control unit <b>8</b> issues an enable instruction to the instruction hold unit <b>11</b> (S<b>8</b> and S<b>9</b>). As a result, the instruction hold unit <b>11</b> issues an enable instruction (a signal at a High level is inputted) to the enable/disable pin of the IC card unit <b>12</b> to hold the enable instruction (S<b>10</b>) to set the IC card unit <b>12</b> in an enable state (S<b>11</b>).</p>
+<p id="p-0105" num="0106">On the other hand, when the input corresponds to disable, the control unit <b>8</b> issues a disable instruction to the instruction hold unit <b>11</b> (S<b>8</b> and S<b>12</b>). As a result, the instruction hold unit <b>11</b> issues a disable instruction (a signal at a Low level is inputted) to the enable/disable pin of the IC card unit <b>12</b> to hold the disable instruction (S<b>13</b>) to set the IC card unit <b>12</b> in a disable state (S<b>14</b>).</p>
+<p id="p-0106" num="0107">As described above, the IC card function can be halted from a distant place through the network <b>17</b>. Thus, since even when the mobile telephone C is mislaid, or even when the mobile telephone C is stolen, the mobile telephone C can be set in a disable state, it is possible to prevent the mobile telephone C from being unlawfully used.</p>
+<p id="p-0107" num="0108">Note that although this example shows a construction that an enable/disable instruction is issued to a single enable/disable pin, the present invention is not limited to this construction, and hence the following constructions may also be adopted.</p>
+<p id="p-0108" num="0109">(1) When the IC card unit <b>12</b> has a plurality of functions, an enable/disable pin is provided for each function. Then, a user selects enable/disable for each function. In response to this selection, the control unit <b>8</b> carries out a judgment of enable/disable with respect to only the selected function to instruct the instruction hold unit <b>11</b> to issue an enable/disable instruction. As a result, for example, it is possible to carry out such selective control that the function of a commutation ticket is made enable while a function of a prepaid card being made disable, and so forth.</p>
+<p id="p-0109" num="0110">(2) Moreover, in case of the construction (1), which of a plurality of functions is made enable and which of a plurality of functions is made disable may be set for each user. For example, when the mobile telephone Cis adapted to be used by the plurality of users, the enable functions and the disable functions are stored in association with each of the users in a user management table of the memory unit <b>9</b>. Then, in activating the mobile telephone C, the control unit <b>8</b> requires a user to input his/her biometrics information, and specifies a user of the biometrics information by referring to the memory unit <b>9</b>. Thus, the control portion <b>8</b> reads out the enable functions and the disable functions to the user, and output this read-out results to instruction hold unit <b>11</b>.</p>
+<p id="p-0110" num="0111">(3) The control unit <b>8</b> previously stores enable/disable (judgment results) of the IC card functions. Whenever the IC card unit <b>12</b> starts execution of the IC card function, the IC card unit <b>12</b> informs the control unit <b>8</b> of the function intended to be used through the communication terminal post. Then, the control unit <b>8</b> issues instruction regarding an enable/disable of the IC card functions to the IC card unit <b>12</b> through the communication terminal post. The IC card unit <b>12</b>, in response to the instruction issued thereto, executes the function when the instruction is an enable instruction, and halts the function when the instruction is a disable instruction.</p>
+<p id="p-0111" num="0112">(4) The IC card unit <b>12</b> is provided with the user management table to which the control unit <b>8</b> previously writes the enable/disable information for each function and information on current users. When executing the IC card function, the IC card unit <b>12</b> refers to its user management table to determine enable or disable of its IC card function.</p>
+<p id="p-0112" num="0113">(5) Whenever the IC card unit <b>12</b> starts execution of the IC card function, the IC card unit <b>12</b> informs the control unit <b>8</b> of the function intended to be used. In response to this information, the control unit <b>8</b> issues an instruction regarding enable/disable of the function concerned to one enable/disable terminal through the instruction hold unit <b>11</b>. As a result, even when the IC card unit <b>12</b> has a plurality of functions, the control for enable/disable can be carried out with one terminal.</p>
+<p id="p-0113" num="0114">(6) The control unit <b>8</b> may monitor the operation of the IC card unit <b>12</b> to carry out a judgment about enable/disable in accordance with the operation of the IC card unit <b>12</b>. For example, when after the control unit <b>8</b> judges that the function of the prepaid card is enabled, the control unit <b>8</b> detects that the payment operation is completed based on the prepaid card function, the control unit <b>8</b> carries out the disable setting again.</p>
+<p id="p-0114" num="0115">Note that although the example in which a telephone call is made to the mobile telephone C is shown for the remote control, the present invention is not limited to this example, and hence any construction may be adopted as long as the construction allows the mobile device to receive information exhibiting enable/disable of the IC card function such as transmission of only an e-mail, a chat or a control signal.</p>
+<p id="p-0115" num="0116">&#x3c;Control for Enable/Disable Based on Monitoring of Power Supply&#x3e;</p>
+<p id="p-0116" num="0117"><figref idref="DRAWINGS">FIG. 10</figref> is A diagram explaining a method including controlling enable/disable of the IC card function in accordance with the results of monitoring of the power supply.</p>
+<p id="p-0117" num="0118">The voltage monitoring IC <b>21</b><i>b </i>monitors a voltage value of the battery unit <b>22</b> at all times (S<b>51</b>) to judge whether or not the voltage value is equal to or lower than a first threshold (S<b>52</b>). When it is judged that the voltage value is equal to or lower than the first threshold, the voltage monitoring IC <b>21</b><i>b </i>sends a signal representing that the voltage value is equal to or lower than the first threshold to the control unit <b>8</b> through an output terminal VOUT (S<b>53</b>). In response to this notification sent thereto, even when the current instruction corresponds to a lock state (disable), the control unit <b>8</b> instructs the instruction hold unit <b>11</b> to forcibly release the lock state of the IC card unit <b>12</b> to provide an enable state. Also, the control unit <b>8</b> stops the supply of the electric power to each of the function units such as the communication unit (in this example, the portions other than the IC card unit <b>12</b>, the instruction hold unit <b>11</b>, and the voltage monitoring ICs <b>21</b>), i.e., turns OFF the power supply of the mobile telephone C (S<b>54</b>).</p>
+<p id="p-0118" num="0119">After the power supply of the mobile telephone C is turned OFF, the voltage monitoring IC <b>21</b><i>a </i>continuously monitors the voltage value of the battery unit <b>22</b> (S<b>55</b>) to judge whether or not the voltage value is equal to or smaller than a second threshold (S<b>56</b>). When it is judged that the voltage value is equal to or smaller than the second threshold, a level of a signal outputted through the output terminal VOUT is made Low. Then, even when the control unit <b>8</b> issues an enable instruction to the instruction hold unit <b>11</b>, the voltage monitoring IC <b>21</b><i>a </i>instructs the instruction hold unit <b>11</b> to forcibly lock the IC card unit <b>12</b> to provide a disable state for the IC card unit <b>12</b> (S<b>57</b>).</p>
+<p id="p-0119" num="0120">Note that the first threshold is set higher than the second threshold, and in this embodiment mode, the second threshold is set as a use limit (e.g., 2.7 V) of the IC card unit and the first threshold is set as a higher voltage value (e.g., 3.2 V) with which an electric power that is sufficient for the IC card unit <b>12</b> to be used for predetermined times can be ensured, which is higher than the second threshold.</p>
+<p id="p-0120" num="0121">As a result, even when the battery voltage decreases due to use of the mobile device to turn OFF the power supply of the mobile device, it is possible to ensure the use of the IC card function. For example, even if the battery of the mobile telephone is exhausted when a user does telephonic communication with the other party in a platform of a station, the user can pass through a ticket barrier of a station by using the IC card function.</p>
+<p id="p-0121" num="0122">Note that although in the example of <figref idref="DRAWINGS">FIG. 10</figref>, the lock of the IC card unit <b>12</b> is unconditionally released when the battery voltage is equal or lower than the first threshold, in a case where the IC card unit <b>12</b> is locked under the remote control, as shown in <figref idref="DRAWINGS">FIG. 11</figref>, the mobile telephone may also be constructed so as not release the lock of the IC card unit <b>12</b> since the mobile telephone may possibly be mislaid or stolen.</p>
+<p id="p-0122" num="0123">Thus, when the control unit <b>8</b> is informed in Step <b>53</b> of the effect that the battery voltage is equal to or lower than the first threshold, the control unit <b>8</b> judges whether or not the IC card unit <b>12</b> is locked under the remote control (S<b>61</b>). When it is judged that the IC card unit <b>12</b> is locked under the remote control, the lock state is kept as it is. When it is judged that the IC card unit <b>12</b> is not locked under the remote control, similarly to the foregoing, the processing is executed (S<b>54</b> to S<b>57</b>).</p>
+<p id="p-0123" num="0124">In addition, in this embodiment, when the battery voltage is extremely low, or when the battery is dislodged from the mobile telephone C, in order to prevent the instruction hold unit <b>11</b> and the IC card unit <b>12</b> from operating uncertainly, a grounded resistor R for pull-down is provided in an input line or an output line of the instruction hold unit <b>11</b> so as to surely provide the disable state for the mobile telephone C. Thus, the malfunction due to the reduction of the battery voltage is prevented.</p>
+<p id="p-0124" num="0125">Thus, even if the enable state is set for the mobile telephone C, attachment/detachment of the battery unit <b>22</b> for exchange etc of the battery surely results in the disable state. Therefore, a user must set the enable state again on such occasions. Thus, when carrying out the control for enable/disable, the control unit <b>8</b> may store the enable/disable information in the memory unit <b>9</b>, may detect that the battery unit <b>2</b> is attached, may read out the enable/disable information right before the attachment of the battery unit <b>2</b> by referring to the memory unit <b>9</b>, and may send enable/disable information to the instruction hold unit <b>11</b> based on the information thus read out. As a result, even when the battery unit <b>22</b> is attached/detached, the setting right before the attachment/detachment of the battery unit <b>22</b> is restored, so as to omit a work for resetting.</p>
+<p id="p-0125" num="0126">Note that although it is supposed in this embodiment that the function units are the communication unit <b>7</b>, the display unit <b>4</b>, the biological authentication unit <b>10</b> and the like, the present invention is not limited thereto. That is, any portion may become the function unit as long as this portion executes a predetermined function giving an opportunity for controlling enable/disable of the IC card function. For example, in case of a device adapted to carry out the remote lock, the device has to include at least a communication unit for receiving information of the remote control. In case of a device adapted to lock the IC card unit in accordance with a power supply voltage, the device has to include at least a unit adapted to share a power supply with the IC card unit for operation.</p>
+<p id="p-0126" num="0127">&#x3c;Other Embodiment Modes&#x3e;</p>
+<p id="p-0127" num="0128">It is to be understood that the present invention is not intended to be limited to only the illustrated examples and hence various changes may be made without departing the subject matter of the present invention.</p>
+<heading id="h-0007" level="1">INDUSTRIAL APPLICABILITY</heading>
+<p id="p-0128" num="0129">The present invention can be widely applied to mobile type electronic devices such as a mobile telephone, a PDA, a note type personal computer, a watch, an on-vehicle computer, an ETC terminal, and a game machine in each of which the IC card unit can be provided.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A mobile device, comprising:
+<claim-text>an IC card unit executing an IC card function;</claim-text>
+<claim-text>a function unit executing a function of at least one of communication and display and outputting a signal indicative of an operation of the function unit;</claim-text>
+<claim-text>a control unit when electric power is supplied thereto, receiving the signal output from the function unit and judging whether or not the IC card function can be used based on the signal received from the function unit, and outputting judgment results; and</claim-text>
+<claim-text>an instruction hold unit storing an enable state in response to the judgment results indicating that the IC card function can be used or storing a disable state in response to the judgment results indicating that the IC card cannot be used, and issuing an enable instruction or a disable instruction to the IC card unit according to the stored state, even in non-operation state of the control unit when electric power is not supplied to the control unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The mobile device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein an input unit receiving information from a user is provided as the function unit, and
+<claim-text>the control unit judges whether or not the IC card function can be used in accordance with the input information from the input unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The mobile device according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the input information from the input unit is password or biometrics information.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The mobile device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the IC card unit has a plurality of functions,
+<claim-text>the control unit judges for each function whether or not the function can be used, and</claim-text>
+<claim-text>the instruction hold unit issues for each function an enable instruction or a disable instruction to the IC card unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The mobile device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a communication unit carrying out communication with any of other devices is provided as the function unit, and
+<claim-text>the control unit judges whether or not the IC card function can be used in accordance with a signal received at the communication unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The mobile device according to <claim-ref idref="CLM-00001">claims 1</claim-ref>, further comprising:
+<claim-text>a battery unit supplying an electric power to at least the IC card unit and the function unit; and</claim-text>
+<claim-text>a power supply monitoring unit detecting a voltage from the battery unit,</claim-text>
+<claim-text>wherein when the voltage detected by the power supply monitoring unit is equal to or smaller than a predetermined value, the instruction hold unit issues a disable instruction to the IC card unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The mobile device according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein when the voltage detected by the power supply monitoring unit is equal to or smaller than a first threshold, the instruction hold unit issues an enable instruction to the IC card unit, while halting the function unit, and when the voltage detected by the power supply monitoring unit is equal to or smaller than a second threshold, the instruction hold unit issues a disable instruction to the IC card unit.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The mobile device according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, further comprising a storage unit storing therein enable/disable information issued from the instruction hold unit,
+<claim-text>when the battery unit is attached/detached, the control unit reads out the enable/disable information before the attachment/detachment from the storage unit, and make the instruction hold unit to issue the same instruction as the enable instruction or the disable instruction before the attachment/detachment to the IC card unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A mobile device, comprising:
+<claim-text>an IC card unit executing an IC card function;</claim-text>
+<claim-text>a communication unit carrying out communication through a radio telephone line;</claim-text>
+<claim-text>a battery unit supplying an electric power to at least the IC card unit and the communication unit;</claim-text>
+<claim-text>a power supply monitoring unit detecting a voltage from the battery unit;</claim-text>
+<claim-text>a control unit when electric power is supplied thereto, judging whether or not the IC card function can be used in accordance with the voltage value detected by the power supply monitoring unit, and outputting the judgment results; and</claim-text>
+<claim-text>an instruction hold unit issuing an enable instruction or a disable instruction to the IC card unit in response to reception of the judgment results, and holding the enable/disable state even in non-operation state of the control unit when electric power is not supplied to the control unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The mobile device according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein when the voltage detected by the power supply monitoring unit is equal to or smaller than a first threshold, the instruction hold unit issues an enable instruction to the IC card unit, while halting the communication unit, and
+<claim-text>when the voltage detected by the power supply monitoring unit is equal to or smaller than a second threshold, the instruction hold unit issues a disable instruction to the IC card unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. An IC card function controlling method for controlling an IC card function executed by a mobile device including an IC card unit executing the IC card function, a control unit and a function unit executing at least one of a communication function and a display function, comprising the steps of:
+<claim-text>outputting from the function unit a signal indicative of operation of the function unit;</claim-text>
+<claim-text>judging whether or not the IC card function can be used based on the signal indicative of the operation of the function unit, and outputting a judgment result when electric power is supplied to the control unit; and</claim-text>
+<claim-text>storing an enable state in response to the judgment result indicating that the IC card function can be used;</claim-text>
+<claim-text>storing a disable state in response to the judgment result indicating that the IC card function cannot be used;</claim-text>
+<claim-text>issuing an enable instruction or a disable instruction to the IC card unit in accordance with the stored state when electric power is not supplied to the control unit; and</claim-text>
+<claim-text>holding the enable state until a new judgment result is output.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The IC card function controlling method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein when the mobile device includes an input unit receiving information from a user as the function unit,
+<claim-text>in accordance with the input information through the input unit, a judgment related to whether or not the IC card function can be used is carried out.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The IC card function controlling method according to <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the input information is password or biometrics information.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The IC card function controlling method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein when the IC card unit has a plurality of functions,
+<claim-text>in the step of judging whether or not the IC card function can be used, the judgment whether or not the IC card function can be used is carried out for each function, and</claim-text>
+<claim-text>in the step of issuing an enable instruction or a disable instruction to the IC card unit, the instruction whether or not the IC card function can be used is issued for each function.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The IC card function controlling method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein when the mobile device includes a communication unit carrying out communication with any of other devices as the function unit,
+<claim-text>in the step of judging whether or not the IC card function can be used, the judgment related to whether or not the IC card function can be used is carried out in accordance with a signal received at the communication unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The IC card function controlling method according to any one of <claim-ref idref="CLM-00011">claims 11</claim-ref> to <claim-ref idref="CLM-00015">15</claim-ref>, wherein when the IC card function controlling method further comprises a step of detecting a voltage of a battery unit supplying an electric power to the IC card unit and the function unit,
+<claim-text>when the detected voltage is equal to or smaller than a predetermined value, the enable instruction is issued to the IC card unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The IC card function controlling method according to <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein when the detected voltage is equal to or smaller than a first threshold, the enable instruction is issued to the IC card unit while halting the function unit, and when the detected voltage is equal to or smaller than a second threshold, a disable instruction is issued to the IC card unit.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The IC card function controlling method according to <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein when the battery unit is attached/detached, the enable/disable information before the attachment/detachment is read out from a storage unit to issue the same instruction as the enable instruction or the disable instruction before the attachment/detachment to the IC card unit.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. An IC card function controlling method for controlling an IC card function executed by a mobile device including an IC card unit executing the IC card function, a control unit and a communication unit carrying out communication through a radio telephone line, comprising the steps of:
+<claim-text>detecting a voltage of a battery unit supplying an electric power to the IC card unit and the communication unit;</claim-text>
+<claim-text>judging whether or not the IC card function can be used in accordance with the detected voltage value when electric power is supplied to the control unit; and</claim-text>
+<claim-text>issuing an enable instruction or a disable instruction to the IC card unit in accordance with the judgment results when electric power is not supplied to the control unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The IC card function controlling method according to <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein when the detected voltage is equal to or smaller than a first threshold, an enable instruction is issued to the IC card unit, while halting the communication unit, and when the detected voltage is equal to or smaller than a second threshold, a disable instruction is issued to the IC card unit.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. A storage medium which stores an IC card function controlling program for controlling an IC card function executed by a mobile device including an IC card unit executing the IC card function, a control unit and a function unit executing at least one of a communication function and a display function, the program executing a method comprising the steps of:
+<claim-text>outputting from the function unit a signal indicative of an operation of the function unit:</claim-text>
+<claim-text>judging whether or not the IC card function can be used based on the signal indicative of the operation of the function unit, and outputting a judgment result when electric power is supplied to the control unit;</claim-text>
+<claim-text>storing an enable state in response to the judgment result indicating that the IC card function can be used;</claim-text>
+<claim-text>storing a disable state in response to the judgment result indicating that the IC card function cannot be used;</claim-text>
+<claim-text>issuing an enable instruction or a disable instruction to the IC card unit in accordance with the stored state when electric power is not supplied the control unit; and</claim-text>
+<claim-text>holding the enable state until a new judgment result is output.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. A storage medium which stores an IC card function controlling program according to <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein when the mobile device includes an input unit receiving information from a user as the function unit, and the program executing the method further comprising:
+<claim-text>a judgment whether or not the IC card function can be used is carried out in accordance with the input information through the input unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. A storage medium which stores an IC card function controlling program according to <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the input information is password or biometrics information.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. A storage medium which stores an IC card function controlling program according to <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein when the IC card unit has a plurality of functions,
+<claim-text>in the step of judging whether or not the IC card function can be used, the instruction whether or not the IC card function can be used is carried out for each function, and</claim-text>
+<claim-text>in the step of issuing the enable instruction or the disable instruction to the IC card unit, the judgment whether or not the IC card function can be used is issued for each function.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. A storage medium which stores an IC card function controlling program according to <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein when the mobile device includes a communication unit carrying out communication with any of other devices as the function unit,
+<claim-text>in the step of judging whether or not the IC card function can be used, the judgment related to whether or not the IC card function can be used is carried out in accordance with a signal received at the communication unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. A storage medium which stores an IC card function controlling program according to <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein when the IC card function controlling method further includes a step of detecting a voltage of a battery unit supplying an electric power to the IC card unit and the function unit,
+<claim-text>when the detected voltage is equal to or smaller than a predetermined value, the enable instruction is issued to the IC card unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text>27. A storage medium which stores an IC card function controlling program according to <claim-ref idref="CLM-00026">claim 26</claim-ref>, wherein when the detected voltage is equal to or smaller than a first threshold, the enable instruction is issued to the IC card unit while halting the function unit, and when the detected voltage is equal to or smaller than a second threshold, a disable instruction is issued to the IC card unit.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text>28. A storage medium which stores an IC card function controlling program according to <claim-ref idref="CLM-00026">claim 26</claim-ref>, wherein when the battery unit is attached/detached, the enable/disable information before the attachment/detachment is read out from a storage unit to issue the same instruction as the enable instruction or the disable instruction before the attachment/detachment to the IC card unit.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text>29. A storage medium which stores an IC card function controlling program for controlling an IC card function executed by a mobile device including an IC card unit executing the IC card function, a control unit and a communication unit carrying out communication through a radio telephone line, the program executing a method comprising the steps of:
+<claim-text>detecting a voltage of a battery unit supplying an electric power to the IC card unit and the communication unit;</claim-text>
+<claim-text>judging whether or not the IC card function can be used in accordance with the detected voltage value when electric power is supplied to the control unit; and</claim-text>
+<claim-text>issuing an enable instruction or a disable instruction to the IC card unit in accordance with the judgment results when electric power is not supplied to the control unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text>30. A storage medium which stores an IC card function controlling program according to <claim-ref idref="CLM-00029">claim 29</claim-ref>, wherein when the detected voltage is equal to or smaller than a first threshold, an enable instruction is issued to the IC card unit, while halting the communication unit, and when the detected voltage is equal to or smaller than a second threshold, a disable instruction is issued to the IC card unit.</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text>31. A mobile device, comprising:
+<claim-text>an IC card unit executing an IC card function;</claim-text>
+<claim-text>a function unit executing a function of at least one of communication and display;</claim-text>
+<claim-text>a control unit when electric power is supplied thereto, judging whether or not the IC card function can be used in accordance with an operation of the function unit, and outputting judgment results;</claim-text>
+<claim-text>an instruction hold unit storing an enable state in response to the judgment results indicating that the IC card function can be used or storing a disable state in response to the judgment results indicating that the IC card cannot be used, and issuing an enable instruction or a disable instruction to the IC card unit according to the stored state, even in non-operation state of the control unit when electric power is not supplied to the control unit;</claim-text>
+<claim-text>a battery unit supplying an electric power to at least the IC card unit and the function unit; and</claim-text>
+<claim-text>a power supply monitoring unit detecting a voltage from the battery unit,</claim-text>
+<claim-text>wherein when the voltage detected by the power supply monitoring unit is equal to or smaller than a predetermined value, the instruction hold unit issues a disable instruction to the IC card unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00032" num="00032">
+<claim-text>32. An IC card function controlling method for controlling an IC card function executed by a mobile device including an IC card unit executing the IC card function, a control unit and a function unit executing at least one of a communication function and a display function, comprising the steps of:
+<claim-text>judging whether or not the IC card function can be used in accordance with an operation of the function unit, and outputting a judgment result when electric power is supplied to the control unit; and</claim-text>
+<claim-text>storing an enable state in response to the judgment result indicating that the IC card function can be used;</claim-text>
+<claim-text>storing a disable state in response to the judgment result indicating that the IC card function cannot be used;</claim-text>
+<claim-text>issuing an enable instruction or a disable instruction to the IC card unit in accordance with the stored state when electric power is not supplied to the control unit;</claim-text>
+<claim-text>holding the enable state until a new judgment result is output; and</claim-text>
+<claim-text>detecting a voltage of a battery unit supplying an electric power to the IC card unit and the function unit, and</claim-text>
+<claim-text>when the detected voltage is equal to or smaller than a predetermined value, the enable instruction is issued to the IC card unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00033" num="00033">
+<claim-text>33. A storage medium which stores an IC card function controlling program for controlling an IC card function executed by a mobile device including an IC card unit executing the IC card function, a control unit and a function unit executing at least one of a communication function and a display function, the program executing a method comprising the steps of:
+<claim-text>judging whether or not the IC card function can be used in accordance with an operation of the function unit, and outputting a judgment result when electric power is supplied to the control unit;</claim-text>
+<claim-text>storing an enable state in response to the judgment result indicating that the IC card function can be used;</claim-text>
+<claim-text>storing a disable state in response to the judgment result indicating that the IC card function cannot be used;</claim-text>
+<claim-text>issuing an enable instruction or a disable instruction to the IC card unit in accordance with the stored state when electric power is not supplied to the control unit;</claim-text>
+<claim-text>holding the enable state until a new judgment result is output; and</claim-text>
+<claim-text>detecting a voltage of a battery unit supplying an electric power to the IC card unit and the function unit, and</claim-text>
+<claim-text>when the detected voltage is equal to or smaller than a predetermined value, the enable instruction is issued to the IC card unit. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641788-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641788</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10562571</doc-number>
+<date>20040614</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>DK</country>
+<doc-number>2003 00960</doc-number>
+<date>20030626</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>79</us-term-extension>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>10</class>
+<subclass>G</subclass>
+<main-group>11</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>20812001</main-classification>
+<further-classification>208107</further-classification>
+<further-classification>208108</further-classification>
+<further-classification>208111</further-classification>
+<further-classification>502 67</further-classification>
+</classification-national>
+<invention-title id="d0e73">Hydrocarbon conversion process and catalyst</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5350501</doc-number>
+<kind>A</kind>
+<name>Ward</name>
+<date>19940900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5536687</doc-number>
+<kind>A</kind>
+<name>Ward</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>502 67</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2002/0094931</doc-number>
+<kind>A1</kind>
+<name>Wang et al.</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>WO</country>
+<doc-number>WO 97/20016</doc-number>
+<date>19970600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>7</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>208108</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>208111</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>20812001</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>208107</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>502 67</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060175231</doc-number>
+<kind>A1</kind>
+<date>20060810</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hansen</last-name>
+<first-name>Jens A.</first-name>
+<address>
+<city>Holte</city>
+<country>DK</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DK</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Blom</last-name>
+<first-name>Niels J&#xf8;rgen</first-name>
+<address>
+<city>Hiller&#xf8;d</city>
+<country>DK</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DK</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Byberg</last-name>
+<first-name>Birgitte R.</first-name>
+<address>
+<city>Birker&#xf8;d</city>
+<country>DK</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DK</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ward</last-name>
+<first-name>John W.</first-name>
+<address>
+<city>Yorba Linda</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Dickstein Shapiro LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Haldor Topsoe A/S</orgname>
+<role>03</role>
+<address>
+<city>Lyngby</city>
+<country>DK</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Caldarola</last-name>
+<first-name>Glenn</first-name>
+<department>1797</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Singh</last-name>
+<first-name>Prem C.</first-name>
+</assistant-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2004/006376</doc-number>
+<kind>00</kind>
+<date>20040614</date>
+</document-id>
+<us-371c124-date>
+<date>20051227</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2005/001000</doc-number>
+<kind>A </kind>
+<date>20050106</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A process for hydrocracking a hydrocarbonaceous feedstock into a middle distillate utilising a hydrocarbon conversion catalyst comprising a modified beta zeolite and a modified Y zeolite, an amorphous inorganic oxide and a hydrogenation component, wherein the said middle distillate is characterised by having a low aromatics content and/or a low pour point.</p>
+</abstract>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">This invention relates to the refining of petroleum hydrocarbons into products of greater utility and higher value as compared with the feedstock.</p>
+<p id="p-0003" num="0002">Conversion of hydrocarbons into useful products has been practised for many years using catalytic materials. In recent years, the use of catalysts containing zeolite materials has been found in many cases to be superior to the catalysts containing amorphous inorganic oxide materials such as alumina, silica-alumina and the like. Many zeolitic materials have been found to be useful as catalysts, but depending on the specific process, zeolites such as Y, X, omega, ZSM-5, beta and L have been found to be particularly advantageous.</p>
+<p id="p-0004" num="0003">This invention relates in general to catalytic compositions useful for hydrocarbon conversion and in particular to their use in hydrocarbon cracking reactions such as catalytic cracking and hydrocracking. More particularly, the invention relates to compositions comprising certain zeolites in combination and metal hydrogenation components and their use in hydrocracking processes. In particular, the invention relates to catalytic compositions comprising beta and Y zeolite in conjunction with a hydrogenation component and their use in hydrocracking of hydrocarbons. The invention relates moreover to the composition and use of catalytic compositions comprising specifically modified beta zeolites and modified Y zeolites, which give enhanced performance in hydrocarbon conversion reactions especially in the conversion of hydrocarbon feedstock to middle distillates.</p>
+<p id="p-0005" num="0004">Petroleum refiners frequently produce desirable products, such as gasoline and middle distillates by catalytically hydrocracking high boiling hydrocarbons into product hydrocarbons of lower average molecular weight and boiling point. Hydrocracking is generally accomplished by contacting, in an appropriate reactor vessel, a gas oil or other hydrocarbon feedstock with a suitable hydrocracking catalyst under appropriate conditions including an elevated temperature and an elevated pressure and the presence of hydrogen, such that a hydrocarbon product is obtained containing a substantial portion of a desired product boiling in a specified range, as for example, a gasoline boiling in the range of 85&#xb0; C. to 215&#xb0; C. or middle distillate boiling in the range of 150&#xb0; C. to 425&#xb0; C.</p>
+<p id="p-0006" num="0005">Usually, hydrocracking is practised in a single reaction vessel or several in series utilising a single catalyst. In such a scenario, the catalyst not only hydrocracks the hydrocarbon feedstock, but simultaneously or sequentially converts the organonitrogen and organosulphur containing compounds into ammonia and hydrogen sulphide. Some isomerisation of normal or near normal paraffins can also take place simultaneously.</p>
+<p id="p-0007" num="0006">Hydrocracking can also be performed in conjunction with hydrotreating usually by a method referred to as &#x201c;integral operation&#x201d;. In this process, the hydrocarbon feedstock usually a gas oil containing a substantial proportion of components boiling above a desired end point, as for example 215&#xb0; C. in the case of certain gasolines, is introduced into a catalytic hydrotreating zone wherein, in the presence of a suitable catalyst, such as a zeolite or sieve-free, particulate catalyst comprising a Group VIII metal component and a Group VIB metal component on a porous, inorganic, refractory oxide catalyst support most often composed of alumina and under suitable conditions including an elevated temperature (e.g. 250&#xb0; C. to 540&#xb0; C.) and an elevated pressure (e.g. 0.7 to 35 MPa) and with hydrogen as a reactant, the organonitrogen components and the organosulphur components contained in the feedstock are converted to ammonia and hydrogen sulphide, respectively. Subsequently, the entire effluent removed from the hydrotreating zone is treated in a hydrocracking zone maintained under suitable conditions of elevated temperature, pressure and hydrogen partial pressure and containing a suitable hydrocracking catalyst such that a substantial conversion of high boiling feed components to products components boiling below the desired end point is obtained. Usually, the hydrotreating and hydrocracking zones in integral operation are maintained in separate reactor vessels, but on occasion it may be advantageous to employ a single, downflow reactor vessel containing an upper bed of hydrotreating catalyst particles and lower bed of hydrocracking particles. Examples of integral operation may be found in U.S. Pat. Nos. 3,132,087; 3,159,564; 3,655,551; and 4,040,944, all of which are herein incorporated by reference in their entireties.</p>
+<p id="p-0008" num="0007">When two catalysts in two separate vessels are used, it is often desirable to fractionate (or separate) the products of the first reactor (hydrotreating) so as to remove the produced ammonia, hydrogen sulphide and light gaseous hydrocarbons from the feed to the hydrocracking reactor. Such separation can also be made when two similar catalysts are used.</p>
+<p id="p-0009" num="0008">In some integral operation refining processes, and especially those designed to produce gasoline from the heavier gas oils, a relatively high proportion of the product hydrocarbons obtained from integral operation will have a boiling point above the desired end point. For example, in the production of a gasoline product boiling in the C<sub>4 </sub>to 215&#xb0; C. range from a gas oil boiling entirely above 300&#xb0; C., it may often be the case that as much as 30 to 60 percent by volume of the products obtained from integral operation boil above 215&#xb0; C. To convert these high boiling components to hydrocarbon components boiling below 215&#xb0; C., the petroleum refiner separates the 215&#xb0; C.+ high boiling components from the other products obtained in integral operation, usually after first removing ammonia by a water washing operation, a hydrogen-containing recycle gas by high pressure separation and an H<sub>2</sub>S-containing, C<sub>1 </sub>to C<sub>3 </sub>low BTU gas by low pressure separation. This 215&#xb0; C.+ boiling bottom fraction is then subjected to further hydrocracking either by recycle to the hydrocracking reactor in single stage operation or by introduction into a second hydrocracking zone wherein yet more conversion to the desired C<sub>4 </sub>to 215&#xb0; C. product takes place.</p>
+<p id="p-0010" num="0009">In the foregoing two-stage process, the two hydrocracking reaction zones often contain hydrocracking catalysts of the same composition. One catalyst suitable for such use is disclosed as Catalyst A in Example 16 of U.S. Pat. Nos. 3,897,327 and 3,929,672, both of which are herein incorporated by reference in their entireties, which catalyst is comprised of a palladium-exchanged, steam-stabilised Y zeolite hydrocracking component. But although the catalysts used in the two hydrocracking reaction zones may have the same composition and the same catalytic properties, the hydrocracking conditions required in the second hydrocracking reaction zone are less severe than those required in the first. The reason for this is that ammonia is not present in the second hydrocracking reaction zone (due to water washing), whereas a significant amount of ammonia is present in the first hydrocracking zone. To account for the difference in operating conditions, it is believed that ammonia neutralises or otherwise interferes with the acidity of the zeolite in the catalyst of the first reaction zone, thereby forcing the refiner to employ relatively severe conditions for operation, as for example increased temperature. On the other hand, in the ammonia-deficient atmosphere of the second hydrocracking reaction zone, high conversions to the desired product are obtainable under relatively moderate conditions, often with an operating temperature about 50&#xb0; C. to 110&#xb0; C. lower than that required in the first hydrocracking reaction zone.</p>
+<p id="p-0011" num="0010">Further description of two-stage hydrocracking operations may be found in U.S. Pat. Nos. 4,429,053 and 4,857,169 herein incorporated by reference in their entireties, which patents provide process flow sheets for typical two-stage hydrocracking processes.</p>
+<p id="p-0012" num="0011">Although there exist several types of commercial hydrocracking catalysts which can be used effectively in single stage hydrocracking or either the first, second or both stages of the above-discussed two-stage hydrocracking process, there is always a demand for new catalysts with superior overall activity, selectivity and stability for producing gasoline and/or middle distillate via hydrocracking.</p>
+<p id="p-0013" num="0012">WO patent application No. 92/16293 discloses a hydrocracking process for the production of particularly gasoline and jet fuel. A catalyst comprising zeolite Beta and Y xeolite having a unit cell size above about 24.40 &#x212b; and preferably 15 wt % of each zeolite is used in combination with one or more hydrogenation components. This catalyst, however, is not suitable for use in the preparation of middle distillates with low aromatic content and it would be expected to lead to a product of low quality.</p>
+<p id="p-0014" num="0013">The general object of the present invention is directed to novel catalysts and catalyst supports and novel acid catalysed chemical conversion processes employing such catalysts to promote the desired reactions. The present invention is particularly directed to hydrocarbon conversion catalysts and hydrocarbon conversion processes employing such catalysts comprising a hydrogenation component(s) on a catalyst support comprising modified zeolite beta and modified zeolite Y.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0015" num="0014">The present invention provides a composition for use in the acid catalysed chemical conversion of a feedstock containing organic compounds into reaction products, particularly in the acid catalysed conversion of hydrocarbons and most especially in hydrocracking. The composition, which may be a catalyst and/or catalyst support, comprises a modified zeolite beta and a modified zeolite Y. One or more amorphous, inorganic refractory oxides such as alumina, silica-alumina or other inorganic oxides may also be present in the composition. For hydrocracking purposes, the catalyst requires a hydrogenation component such as one or more Group VIB and/or Group VIII metal components, the hydrogenation components generally being dispersed on the catalyst support material composed of the modified zeolite beta, modified zeolite Y and amorphous oxides.</p>
+<p id="p-0016" num="0015">The catalysts are characterised specifically by having a catalyst support comprising a modified beta zeolite and a modified Y zeolite, the Y zeolite having a unit cell size below 24.40 &#x212b; and both possessing activity for promoting cracking reactions.</p>
+<p id="p-0017" num="0016">The catalysts have been found to be more active and more efficient to produce lower aromatics in the middle distillate products than those of the prior art. The middle distillate products of using such catalysts are also of low pour points.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0003" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0018" num="0017">The present invention is directed to novel catalysts and/or catalyst supports and novel acid catalysed chemical conversion processes employing such catalysts to promote the desired reactions.</p>
+<p id="p-0019" num="0018">The present invention is particularly directed to hydrocracking catalysts and hydrocracking processes employing such catalysts comprising a hydrogenation component on a support comprising a beta zeolite and a Y zeolite, the Y zeolite having a unit cell size below 24.40 &#x212b;.</p>
+<p id="p-0020" num="0019">The hydrocracking catalysts of the invention unexpectedly produce a lower aromatics product than a catalyst comprising a calculated average of the two components. Preferred forms of the zeolite are those which have been ion exchanged to remove alkali ions to a low level and have more preferably been hydrothermally treated and still more preferably acid washed or otherwise been treated so as to increase the silica to alumina ratio.</p>
+<p id="p-0021" num="0020">The catalysts of the invention have been shown to be more active and at the same time produce lower aromatics in the middle distillate product than the prior art. The products of using such catalysts are also of low pour point.</p>
+<p id="p-0022" num="0021">Zeolite beta is a crystalline zeolite whose composition and X-ray powder diffraction analysis are disclosed in U.S. Pat. Reissue No. 28,341, herein incorporated by reference in its entirety. This zeolite beta is a large pore zeolite having a molar silica to alumina ratio of 25-30 and a Constraint Index below 2, preferably between 0.6 and 1.0. Preparation of zeolite beta has been disclosed in U.S. Pat. Reissue No. 28,341. Standard preparation of zeolite beta having a SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>molar ratio of 25-30 has been described in the 2<sup>nd </sup>revised edition of &#x201c;Verified Syntheses of Zeolitic Materials&#x201d; by H. Robson (Editor) and K. P. Lillerud (XRD Patterns), Elsevier 2001, which is herein incorporated by reference in its entirety. Zeolite beta can be obtained commercially from companies like Tosoh Corporation, Japan; Zeolyst International, The Netherlands; or S&#xfc;d-Chemie AG, Germany.</p>
+<p id="p-0023" num="0022">As initially prepared, zeolite beta is usually in the alkali metal form and contains an organic templating agent. In this form, the zeolite has low if any catalytic activity for promoting acid catalysed conversion reactions, e.g. cracking reactions. Accordingly, the zeolite is generally converted to more active forms by calcination to decompose and drive off the templating agent followed by base exchange with ammonium cations to substantially reduce the alkali metal content finally followed by another calcination to convert the ammonium-exchanged zeolite to the hydrogen form. For zeolite beta initially prepared in the sodium form, the preferred sodium content upon conversion to an active form is below 1.0 percent by anhydrous weight, preferably below about 0.5 percent by anhydrous weight, calculated as Na<sub>2</sub>O.</p>
+<p id="p-0024" num="0023">Publications which further discuss the properties of zeolite Beta include U.S. Pat. Nos. 3,308,069; 3,923,641; 4,676,887; 4,812,223; 4,486,296; 4,601,993 and 4,612,108, all of which are herein incorporated by reference in their entireties. The beta zeolites have a silica-alumina ratio of at least 25, more preferably at least 100 and most preferably at least 250.</p>
+<p id="p-0025" num="0024">As mentioned previously, another component of the catalyst mixture of this invention is a zeolite such as zeolite Y, ultrastable zeolite Y or other natural or synthetic faujasite. As initially prepared, zeolite Y is usually in the alkali metal form with a molar silica to alumina ratio of about 5.</p>
+<p id="p-0026" num="0025">The Y zeolites used in the instant invention usually have the original cations associated therewith replaced by a wide variety of other cations according to techniques well known in the art. Typical replacing cations would include hydrogen, ammonium and metal cations including mixtures of the same. Of the replacing cations, particular preference is given to cations of ammonium and hydrogen.</p>
+<p id="p-0027" num="0026">Typical ion exchange techniques would be to contact the particular zeolite with a solution of a salt of the desired replacing cation or cations. Although a wide variety of salts can be employed, particular preference is given to chlorides, nitrates and sulphates.</p>
+<p id="p-0028" num="0027">A zeolite, which may be used, is the ultrastable zeolite Y. The ultrastable zeolites disclosed herein are well known to those skilled in the art. For example, they are described at pages 507-522 and pages 527 and 528 of the book Zeolite Molecular Sieves by Donald W. Breck, John Wiley &#x26; Sons, Inc. 1974 and are exemplified in U.S. Pat. Nos. 3,293,192 and 3,449,070. These two patents and the Breck reference above are incorporated herein by reference. These low soda, ultra stable zeolites are available commercially from the W.R. Grace &#x26; Company, Zeolyst Inc., Tosoh Inc. among others. Many other zeolites obtained by modifying the hydrothermal treatment and ion exchange of Y zeolites are now available. Such materials are envisioned as potential components of the catalyst.</p>
+<p id="p-0029" num="0028">It may be desirable to incorporate the zeolites into a material resistant to the temperatures and other conditions employed in the process. Such matrix materials include synthetic and naturally occurring substances such as inorganic materials e.g. clay, silica and metal oxides. The latter may be either naturally occurring or in the form of gelatinous precipitates or gels including mixtures of silica and metal oxides. Naturally occurring clays can be composed with the zeolties including those of the montmorillonite and kaolin families. The clays can be used in the raw state as originally mined or initially subjected to calcination, acid treatment or chemical modification.</p>
+<p id="p-0030" num="0029">The zeolite Y of the invention should have a molar SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>ratio of at least 5 and more preferably at least 8 and still more preferably at least 15.</p>
+<p id="p-0031" num="0030">In accordance with the invention, it has been found that catalysts containing a metal hydrogenation component a modified zeolite beta and a modified Y zeolite, the Y zeolite having a unit cell size below 24.40 &#x212b;, are significantly more active and selective for the production of middle distillate than comparable Y zeolites, which for many years have and still form the component of choice in many hydrocracking catalysts. The catalyst containing the mixed zeolites simultaneously produces a distillate containing less aromatics than the beta zeolite catalyst. The compositions can also be utilised to produce distillates with superior pour point properties.</p>
+<p id="p-0032" num="0031">The use of beta zeolite in hydrocracking catalysts has been reported over several years although there appears to be little if any commercial exploitation.</p>
+<p id="p-0033" num="0032">U.S. Pat. No. 3,923,641 to Morrison discloses the hydrocracking of C5+ naphtha into C<sub>4 </sub>hydrocarbons using beta zeolite.</p>
+<p id="p-0034" num="0033">U.S. Pat. No. 5,128,024 to La Pierre et al. discloses the use of beta zeolite containing catalysts with a SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>molar ratio of up to 280:1 for simultaneous hydrocracking and dewaxing.</p>
+<p id="p-0035" num="0034">U.S. Pat. No. 5,284,573 to La Pierre et al. discloses the use of beta zeolite containing catalysts with SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>ratios up to 500:1 for hydrotreating and dewaxing.</p>
+<p id="p-0036" num="0035">U.S. Pat. No. 4,612,108 to Angevine et al. discloses hydrocracking with beta zeolite directed to middle distillate production. The disclosure illustrates an improvement by using a graded bed in which the concentration of beta zeolite in the catalyst increases with bed depth.</p>
+<p id="p-0037" num="0036">U.S. Pat. No. 5,980,859 to Gajda et al. discloses modification of beta zeolite by steaming and extraction with ammonium nitrate by ion exchange. The modified zeolite was characterized by infrared spectroscopy. The disclosures suggest uses for catalytic cracking, hydrocracking, isomerization, transalkylation and alkylation although the use is specifically directed to benzene alkylation. No reference is made to the production of middle distillate, particularly low aromatics middle distillate by hydrocracking. The use of zeolite Y in hydrocracking catalysts has been the preferred zeolitic compound in many commercial hydrocracking catalysts.</p>
+<p id="p-0038" num="0037">U.S. Pat. No. 4,401,556 to Bezman discloses the use of Y zeolite containing catalyst for hydrocracking in which the Y zeolite has been modified by ion exchange and hydrothermal treatment. Middle distillate is the principal desired product. This patent, incorporated by reference, is exemplary of many patents disclosing modified Y zeolite.</p>
+<p id="p-0039" num="0038">U.S. Pat. No. 4,894,142 to Steigleder discloses hydrothermally modified Y zeolite for hydrocracking. The selectivity to middle distillate products is influenced by controlling the acidity of the modified zeolite.</p>
+<p id="p-0040" num="0039">U.S. Pat. No. 4,820,402 to Partridge et al. discloses the use of beta zeolite for hydrocracking with an SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>ratio of up to 200 for producing high boiling distillate products. The data illustrate a continuous change in distillate selectivity with SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>molar ratio for a range of zeolites such as Y, X, beta and ZSM-20 with SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>ratios from 3 to 300.</p>
+<p id="p-0041" num="0040">U.S. Pat. No. 3,758,402 to Oleck et al. discloses a process for hydrocracking using a catalyst mixture comprising a large pore zeolite such an X or Y and a small pore zeolite of the ZSM-5 type.</p>
+<p id="p-0042" num="0041">U.S. Pat. No. 4,486,296 to Oleck discloses a hydrocracking and dewaxing catalyst and process comprising zeolite beta and Y zeolites such as rare earth exchanged X and Y, ultra stable Y, acid form of zeolite Y or other natural or synthetic faujasite zeolites. The process enables heavy feed-stocks such as gas oils boiling above 650&#xb0; F. to be converted to distillate products boiling below 650&#xb0; F. Use of the catalyst composition of the invention results in much higher hydrocracking activity, about the same or higher dewaxing activity, about the same distillate selectivity at high (70%) conversion compared to similar catalysts containing only beta zeolite.</p>
+<p id="p-0043" num="0042">U.S. Pat. No. 4,757,041 to Oleck et al. discloses a catalyst composition for hydrodewaxing and hydrocracking a hydrocarbon fraction comprising a mixture of one or more zeolites selected from the groups consisting of X and Y zeolites and other natural or synthetic zeolites and zeolite beta.</p>
+<p id="p-0044" num="0043">U.S. Pat. No. 5,350,501 to Ward discloses a process for hydrocracking a hydrocarbon feedstock in an atmosphere containing no more than about 200 ppmv ammonia with a catalyst comprising beta zeolite and 15-50% by weight of a Y zeolite having a unit cell size between 24.20 and 24.35 angstroms and a water vapour sorption capacity of 25&#xb0; C. and p/p<sub>o </sub>value of less than about 10 wt %. The composition is useful for producing gasoline or middle distillate products, especially gasoline.</p>
+<p id="p-0045" num="0044">U.S. Pat. Nos. 5,447,623 and 5,536,687 to Ward, both of which are incorporated herein by reference, disclose processes, catalysts and a composition of matter comprising beta zeolite and a Y zeolite having a unit cell size of less than about 24.40 angstroms. A hydrocracking catalyst suitable for producing gasoline and turbine fuel is further described, preferably in the presence of ammonia.</p>
+<p id="p-0046" num="0045">U.S. Pat. No. 5,133,186 to Gosselink et al. discloses a process for performing a catalyst composition comprising a zeolite beta with a silica-alumina ratio greater than 120 and a second component selected from a crystalline molecular sieve having pores with diameter greater than 0.6 nm and/or a clay, the process comprising the steps of:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0046">(i) Preparing a mixture comprising the first cracking component and the second cracking component, the first cracking component being in the form of a sol,</li>
+        <li id="ul0002-0002" num="0047">(ii) Extruding the mixture into catalyst extrudates, and</li>
+        <li id="ul0002-0003" num="0048">(iii) Calcining the extrudates.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0047" num="0049">The conversion of hydrocarbon feedstocks over the above compositions is disclosed.</p>
+<p id="p-0048" num="0050">U.S. Pat. No. 5,853,566 to Kraushaar-Czarnetzki discloses a catalyst comprising a beta zeolite having a silica-alumina ratio of at least 50 which is in the form of crystals with sizes in the range from 20-95 nm, a second cracking component having pores with diameters greater than 0.6 nm, (ii) crystallite mesoporous alumina silicates having pores with diameters of at least 1.3 nm and (iii) clays and at least one hydrogenation component. The catalyst is stated to be useful for converting hydrocarbonaceous feedstocks into lower boiling materials.</p>
+<p id="p-0049" num="0051">U.S. Pat. No. 6,399,845 to Raulo et al. discloses the production of a middle distillate, suitable as a diesel fuel, with improved low temperature properties and a low content of aromatic compounds from a hydrocarbon feed as starting material which comprises contacting said feed material in a single reaction step in the presence of hydrogen and at an elevated temperature and pressure with a bifunctional catalyst which comprises:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0052">(a) a hydrogenating metal component which consists of one hydrogenating metal,</li>
+        <li id="ul0004-0002" num="0053">(b) a molecular sieve, and</li>
+        <li id="ul0004-0003" num="0054">(c) a carrier for the simultaneous removal of aromatics and isomerisation of paraffins.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0050" num="0055">The disclosure is limited to a composition comprising a molecular sieve with medium pore size, which excludes Y zeolites and is also limited to a simple hydrogenation component, which is preferred to be a noble metal.</p>
+<p id="p-0051" num="0056">The starting hydrocarbon is a middle distillate boiling in the range of 150&#xb0; C. to 400&#xb0; C. The suitable catalysts are described as any commercial catalyst for wax removal. The hydrogenation metal level specified is within the range of 0.01 to 10 wt %. A beta zeolite Si/Al ratio of 11 to 13 was shown to isomerize a tall oil fatty acid. The isomerization activity of the beta catalyst was much lower than that of a comparable SAPO 11 catalyst. No mention of dual zeolite catalysts is reported.</p>
+<p id="p-0052" num="0057">None of the above patents disclose the use of a catalyst comprising a mixture of beta and Y zeolites in hydrocracking for the production of low aromatics and/or low pour point middle distillates.</p>
+<heading id="h-0004" level="1">DISCLOSURE OF INVENTION</heading>
+<p id="p-0053" num="0058">The present invention is specifically directed to catalysts and catalyst support comprising beta zeolites and Y zeolites, which have been modified so as to have cracking activity.</p>
+<p id="p-0054" num="0059">Although the modified beta and Y zeolites are the key components of this invention, the catalyst or catalyst support will generally comprise the modified zeolites intimately mixed with an acidic amorphous component and optimally a binder. The amorphous inorganic oxide can be chosen from the well known acidic oxides such as alumina, silica, titania, magnesia, zirconia, boria, phosphorous oxides along with combinations and the like. The composition of the catalyst support may contain from about 0.5 to 50 wt % modified zeolite beta preferably 1 to 30 wt % and more preferably 1 to 15 wt % modified zeolite beta. The support also comprises from about 0.5 to 50 wt % of modified Y zeolite preferably 1-30 wt % and more preferably 1 to 15 wt % of modified Y zeolite.</p>
+<p id="p-0055" num="0060">The SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>molar ratio of the modified zeolite beta should be at least 50 and more preferably at least 100.</p>
+<p id="p-0056" num="0061">The modified zeolite beta, modified Y and amorphous component required in the catalyst and catalyst support of the invention are embodied into particles which contain both components. Perhaps the most convenient method for physically integrating the two components into individual particulates is to comull a wetted mixture of the components and then extrude the comulled material through a die having small openings therein of desired cross-sectional size and shape, e.g. circle, trilobal clover-leaf, quadrolobal clover leafs etc., breaking or cutting the extruded matter into appropriate lengths, drying the extrudates and then calcining at a temperature, e.g. 480&#xb0; C., or higher to produce a material suitable for use in high temperature chemical conversion reactions. As stated above different cross-sectional shapes are possible such as spheres, cloverleafs of polylobal design, for example trilobal or quadrolobal shapes as shown for example in FIGS. 8 and 10, respectively, in U.S. Pat. No. 4,028,227 herein incorporated by reference in its entirety. Typically, the amorphous oxides besides contributing to the catalytic properties of the catalyst support also serve as a binder for the modified zeolite beta and modified zeolite Y. Alumina and other conventional amorphous, inorganic refractory oxide binder components may be desired.</p>
+<p id="p-0057" num="0062">Regardless of whether an amorphous, inorganic refractory oxide component is used as a binder material to hold the zeolite beta, zeolite Y and amorphous oxides together in the catalyst support, it will be understood that other such components can also be incorporated into the comulled mixture including for example inorganic refractory oxide diluents, which may or may not possess some type of catalyst activity.</p>
+<p id="p-0058" num="0063">Examples of such diluents include clays, alumina, silica-alumina and a heterogeneous dispersion of finely divided silica-alumina particles in an alumina matrix, which dispersion is described in detail in U.S. Pat. Nos. 4,097,365; 4,419,271 and 4,857,171, the disclosures of which are herein incorporated by reference in their entireties. Additionally and alternatively, hydrogenation component precursors can also be comulled into the mixture, as will be discussed in more detail hereinafter.</p>
+<p id="p-0059" num="0064">At this time it is preferred that the catalyst support is devoid of clays.</p>
+<p id="p-0060" num="0065">It is further envisioned that the modified beta and modified Y zeolite components may be incorporated in separate particles. In such a case, the catalysts may be contained in the reactor after they have been mixed.</p>
+<p id="p-0061" num="0066">The catalyst of the invention can be used for converting hydrocarbons and other organic compounds into more valuable reaction products by acid catalysed reactions, such as alkylation, transalkylation, dealkylation, isomerisation, dehydrocyclisation, dehydrogenation, hydrogenation, cracking, hydrocracking, dewaxing, hydrodewaxing, oligomerisation, aromatisation, alcohol conversion reactions, the conversion of syngas into mixtures of hydrocarbons and the like. When the catalyst or catalyst support contains modified zeolite beta and modified Y zeolite, but no hydrogenation components, it is useful for any of a number of acid-catalysed hydrocarbon conversion reactions in which hydrogen is not an added reactant, e.g. isomerisation, alkylation, transalkylation, cracking, dewaxing, oligomerisation etc. However, since the main benefit of the invention as presently contemplated is in hydroprocessing such as hydrocracking, a process in which hydrogen is an added reactant, the catalyst for this purpose will further require one or more hydrogenation components, in which case the portion of the catalyst exclusive of any hydrogenation metal components is considered the catalyst support upon which the hydrogenation component(s) is dispersed.</p>
+<p id="p-0062" num="0067">Whether the modified zeolite beta and modified Y zeolite particulates, which may optionally include an inorganic refractory oxide binder and/or diluent, are used as the catalyst itself or as the catalyst support (or support component) for hydrogenation metals, the amounts of the modified zeolite beta, the modified zeolite Y and other components present will normally depend on the particular process in which the particles are used.</p>
+<p id="p-0063" num="0068">When the modified zeolite beta and modified Y zeolite particulates are used for selectively producing middle distillates in a hydrocracking process, the catalyst support will typically on a dry basis contain less than 50 wt %, preferably less than 30 wt % and more preferably less than 15 wt % modified zeolite beta and modified Y zeolite with at least 50 wt %, preferably 100 wt % of the balance being an amorphous, inorganic refractory oxide binder and diluent in combination.</p>
+<p id="p-0064" num="0069">For use in hydroprocessing, such as hydrocracking, the catalyst contains one or more hydrogenation components containing metals selected from the group consisting of Group VIB and/or Group VIII of the periodic table of elements, such components typically being in the form of the free metals or their respective oxides and sulphides the latter two being most preferred. As used herein &#x201c;Periodic Table of Elements&#x201d; refers to the version found in the inside front cover of the &#x201c;Handbook of Chemistry and Physics&#x201d;, 59<sup>th </sup>Edition, published in 1979 by the Chemical Rubber Company. The platinum group (or noble) metals of the Group VIII metals may be used, but preference is at present for the base (or non-noble) metals, e.g. nickel and cobalt in particular, and nickel most preferably of all. Of the group VIB metals, molybdenum and tungsten are preferred with molybdenum being most preferred when the catalyst is to be used in gasoline hydrocracking and tungsten being most preferred when the catalyst is to be used in middle distillate hydrocracking. The most highly preferred catalyst contains both a non-noble Group VIII metal component and a Group VIB metal component, most preferably nickel and molybdenum or nickel and tungsten in combination.</p>
+<p id="p-0065" num="0070">The hydrocracking catalysts of the invention contain at least 0.2 wt % of the hydrogenation components calculated as the metals. If noble metals are used, the hydrogenation components are generally present in a relatively low proportion, e.g. 0.2 wt % to 2 wt %. For the base or non-noble metals, the proportions are generally higher. Non-noble Group VIII metal components are typically employed in proportions between about 2 wt % and 15 wt %, preferably between 3 wt % and 10 wt %, calculated as the respective monoxide. The Group VIB metal component is generally employed in proportions of about 5 wt % to 35 wt %, preferably in the range of 8 wt % to 30 wt %, calculated as the respective trioxide. It is to be understood that the proportions given above for the hydrogenation metal components are based on the finished catalyst whereas the proportions expressed above for the modified zeolite beta and modified zeolite Y particulates are values in the absence of the hydrogenation metal component, i.e. for the catalyst support only. For purposes herein, the term &#x201c;catalyst support&#x201d; is defined as all materials in the catalyst except the hydrogenation metal components.</p>
+<p id="p-0066" num="0071">The hydrogenation components may be incorporated into the catalyst in any of many ways known in the art of combining hydrogenation components with catalyst supports containing zeolites. One such method is to first prepare the catalyst support, for example, as an extrudate containing zeolite beta, zeolite Y and an amorphous inorganic refractory oxide in calcined form and then impregnating the catalyst support with solutions containing the desired metal(s) in dissolved form. Calcination in air, typically in the absence of added steam at an elevated temperature, e.g. above 425&#xb0; C., preferably above 475&#xb0; C., produces the desired catalyst containing metals in oxide form. Likewise, in another embodiment, the desired metal(s) are introduced by comulling a compound containing such metal(s) in the zeolite beta and zeolite Y amorphous oxide mixture previously described followed by shaping (e.g. extrusion through a die), drying and calcining in the substantial absence of steam, e.g. at a temperature between about 425&#xb0; C. and 550&#xb0; C. to produce the oxide form of the catalyst. For one preferred catalyst, the comulling is effected with ammonium heptamolybdate as the source of molybdenum and nickel nitrate as the source of nickel with both compounds generally being introduced into the mulling mixture in the form of an aqueous solution. Other metals can be similarly introduced in dissolved aqueous form likewise, non-metallic elements, e.g. phosphorus.</p>
+<p id="p-0067" num="0072">Catalysts, which contain hydrogenation components in the oxide form as described above, are generally treated to convert the metals to the sulphide form prior to the use of the catalysts in hydrocracking. This can be accomplished by presulphiding the catalyst prior to use at an elevated temperature, e.g. 150&#xb0; C. to 375&#xb0; C. with for example a mixture consisting of 10 volume percent H<sub>2</sub>S and 90 volume percent H<sub>2</sub>. Alternatively, the catalyst can be presulphided ex situ by various sulphiding processes; as an illustration, see &#x201c;Sulphicat<sup>R</sup>: Offsite Presulphiding of Hydroprocessing Catalysts from Eurocat&#x201d; by J. H. Wilson and G. Berrebi, Catalysts 87, Studies in Surface Science and Catalysts #38 page 393. Alternatively, the sulphiding is accomplished in situ, i.e. by using the catalyst in the oxide form to hydrocrack a hydrocarbon feedstock containing sulphur compounds under hydrocracking conditions including elevated temperature and pressure and the presence of hydrogen.</p>
+<p id="p-0068" num="0073">Hydrocracking catalysts in accordance with the invention are useful in the conversion of a wide variety of hydrocarbon feedstocks to a hydrocarbon product of lower average boiling point and/or molecular weight. The feedstocks that may be subjected to hydrocracking by the methods of the invention include all mineral oils and synthetic oils (e.g. shale oil, tar sand products, etc.) and fractions thereof. Illustrative feedstocks include straight run gas oils, vacuum gas oils, coker gas oils and catcracker distillates. The typical hydrocracking feedstock, however, contains a substantial proportion of components usually at least 50 percent by volume, often at least 75% by volume boiling above the desired end point of the products, which end point, in the case of gasoline, will generally be in the range of about 190&#xb0; C. to 215&#xb0; C. and in the case of middle distillates will typically be in the range of 340&#xb0; C. to 425&#xb0; C. Usually, the feedstock will also contain gas oil components boiling above 285&#xb0; C. with highly useful results being achievable with feeds containing at least 30% by volume of components boiling between 315&#xb0; C. and 600&#xb0; C.</p>
+<p id="p-0069" num="0074">For best results in hydrocracking, the catalyst of the invention will be employed as a fixed bed of catalytic particulates in a hydrocracking reactor vessel into which hydrogen and the feedstock are introduced and passed in a downwardly direction. Operating conditions in the reactor vessel are chosen so as to convert the feedstock into the desired product, which in one preferred embodiment is a hydrocarbon product containing a substantial proportion of gasoline components boiling, for example in the 85&#xb0; C. to 215&#xb0; C. range. However, other products such as middle distillates boiling in the 150&#xb0; C. to 425&#xb0; C. range may also be highly desired and conditions must be adjusted according to the product (or distribution of products) desired. The unconverted oil, e.g. hydrocarbons boiling at a temperature higher than that of the middle distillate fraction may be used for production of lube oil blending stocks, fluid cracker feedstocks or ethylene cracker feedstock. The exact conditions required in a given situation will depend on the nature of the feedstock, the particular catalyst composition utilised and the desired product(s). In general, the conditions of operation for hydrocracking will fall into the following usual and preferred ranges.</p>
+<p id="p-0070" num="0075">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="21pt" align="left"/>
+<colspec colname="1" colwidth="84pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="70pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Conditions</entry>
+<entry>Usual</entry>
+<entry>Preferred</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Temperature, &#xb0; C.</entry>
+<entry>230-455</entry>
+<entry>260-430</entry>
+</row>
+<row>
+<entry/>
+<entry>Pressure, MPa</entry>
+<entry>&#x2002;4-30</entry>
+<entry>&#x2002;5-20</entry>
+</row>
+<row>
+<entry/>
+<entry>LHSV, h<sup>&#x2212;1</sup></entry>
+<entry>0.3-5.0</entry>
+<entry>0.5-3.5</entry>
+</row>
+<row>
+<entry/>
+<entry>H<sub>2</sub>/feedstock, Nm<sup>3</sup>/m<sup>3</sup></entry>
+<entry>&#x2002;200-2000</entry>
+<entry>&#x2002;500-1500</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0071" num="0076">The foregoing Table 1 shows the suitable and preferred hydrocracking conditions for single stage or for each stage of a two stage operation. It will be understood, however, that the operating conditions in the two stages of the two stage process are not necessarily identical. In fact, as mentioned before, the primary difference in conditions in the two hydrocracking reactor vessels of two stage operation is the presence of substantial amounts of ammonia often greater than about 2000 vol ppm in the first stage and its essential absence, i.e. less than 200 vol ppm and preferably less than about 20 vol ppm in the second allowing for less severe conditions in the second stage. There may, however, be yet other differences in conditions in any particular situation.</p>
+<p id="p-0072" num="0077">Based on the presently available data, the catalysts of the invention, when compared with single catalysts containing separately similar Y zeolite and similar beta zeolite, are found to be substantially more active for middle distillate production and producing low aromatic content product. The distillate products of hydrocracking with the catalyst of the invention also exhibit superior pour point characteristics. These achievements and others are illustrated in the following examples, which are provided for illustration purposes and not to limit the invention as defined by the claims.</p>
+<heading id="h-0005" level="1">EXAMPLES</heading>
+<p id="p-0073" num="0078">In the examples all compositions were determined on a dry basis.</p>
+<heading id="h-0006" level="1">Example 1</heading>
+<p id="p-0074" num="0079">A catalyst support was prepared by mixing together 5 wt % beta zeolite from Tosoh (molar SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>ratio 1500:1) with 5% of a Tosoh Y zeolite (molar SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>ratio 30:1, A<sub>0</sub>=24.27 &#x212b;) and 35 wt % amorphous silica-alumina (high alumina) and 55 wt % alumina.</p>
+<p id="p-0075" num="0080">The resulting mixture was extruded to form 1/16&#x2033; extrudates. The extrudates were dried and calcined at 550&#xb0; C. for 2 hours in air. The calcined extrudates were impregnated with an aqueous solution containing nickel nitrate and ammonium metatungstate. The wet extrudates were dried and calcined at 550&#xb0; C. for 2 hours in air. The final catalyst contained 6 wt % nickel oxide and 22 wt % tungsten trioxide.</p>
+<heading id="h-0007" level="1">Example 2</heading>
+<p id="p-0076" num="0081">A catalyst support was prepared by mixing 5 wt % beta zeolite from Tosoh (molar SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>ratio 1500:1) with 5 wt % of a Tosoh Y zeolite (molar SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>ratio 30:1, A<sub>0</sub>=24.29 &#x212b;) and 35 wt % silica-alumina (high alumina) and 55 wt % alumina.</p>
+<p id="p-0077" num="0082">The resulting mixture was extruded to form 1/16&#x2033; extrudates. The extrudates were dried and calcined at 550&#xb0; C. for 2 hours in air. The calcined extrudates were impregnated with an aqueous solution containing nickel nitrate and ammonium metatungstate. The wet extrudates were dried and calcined at 550&#xb0; C. for 2 hours in air. The final catalyst contained 6 wt % nickel oxide and 22 wt % tungsten trioxide.</p>
+<heading id="h-0008" level="1">Example 3</heading>
+<p id="p-0078" num="0083">A catalyst support was prepared by mixing 5 wt % of zeolite beta from Zeolyst (molar SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>ratio 300:1), 5 wt % zeolite Y (molar SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>ratio 30:1, A<sub>0</sub>=24.29 &#x212b;), 35 wt % silica-alumina (high alumina) and 55 wt % alumina. The resulting mixture was extruded to form 1/16&#x2033; extrudates. The extrudates were dried and calcined at 550&#xb0; C. for two hours in air. The calcined extrudates were impregnated with an aqueous solution containing nickel nitrate and ammonium metatungstate. The extrudates were dried and calcined at 550&#xb0; C. for two hours in air. The final catalyst contained 6 wt % nickel oxide and 22 wt % tungsten trioxide.</p>
+<heading id="h-0009" level="1">Example 4</heading>
+<p id="p-0079" num="0084">A catalyst support was prepared by mixing 10 wt % of zeolite Y from Tosoh (molar SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>ratio 30:1, A<sub>0</sub>=24.27 &#x212b;) with 35 wt % silica-alumina (high alumina) and 55% alumina by the procedure of Example 1. The catalyst support was impregnated as in Example 1. The final catalyst contained 6 wt % nickel oxide and 22 wt % tungsten trioxide.</p>
+<heading id="h-0010" level="1">Example 5</heading>
+<p id="p-0080" num="0085">A catalyst support and catalyst were prepared as in Example 1 except that 10 wt % beta zeolite obtained from Tosoh (molar SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>ratio 1500:1) was used. The final catalyst contained 6 wt % nickel oxide and 22 wt % tungsten trioxide.</p>
+<heading id="h-0011" level="1">Example 6</heading>
+<p id="p-0081" num="0086">A catalyst support and catalyst were prepared as in Example 1 except 10 wt % of a Y zeolite obtained from Tosoh (molar SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>ratio 30:1, A<sub>0</sub>=24.29 &#x212b;) was used. The final catalyst contained 6 wt % nickel oxide and 22 wt % tungsten trioxide.</p>
+<heading id="h-0012" level="1">Example 7</heading>
+<p id="p-0082" num="0087">A catalyst support and catalyst were prepared as in Example 1 except 10 wt % zeolite beta obtained from Zeolyst (molar SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3 </sub>ratio 300:1) was used. The final catalyst contained 6 wt % nickel oxide and 22 wt % tungsten trioxide.</p>
+<heading id="h-0013" level="1">Example 8</heading>
+<p id="p-0083" num="0088">The catalyst particles of Examples 4 and 5 are mixed in equal amounts so as to form a uniform mixture of the two catalyst particles.</p>
+<heading id="h-0014" level="1">Example 9</heading>
+<p id="p-0084" num="0089">The catalyst particles of Examples 4 and 5 are mixed together in the ratio of 60 parts by weight of the Y zeolite-containing catalyst particles and 40 parts by weight of the beta zeolite-containing catalyst particles.</p>
+<heading id="h-0015" level="1">Example 10</heading>
+<p id="p-0085" num="0090">The catalysts prepared in Examples 1-7 were tested according to the following conditions. Prior to testing, the catalyst was sulphided in the presence of hydrogen and hydrogen sulphide at a temperature from 150&#xb0; C. to 360&#xb0; C. Feed A (properties are given in Table 2) was passed on a once-through basis through an isothermal reactor containing catalyst particles uniformly mixed with carborundum. The catalyst was tested under the following operating conditions: LHSV of 0.5-1.0 h<sup>&#x2212;1</sup>, total pressure 14.2 MPa, and a hydrogen gas/feed ratio of 1500-1800 Nl/l. The temperature of the reactor was adjusted to provide 75 wt % conversion of the &#x3e;360&#xb0; C. fraction in the feedstock. The temperature required to obtain the desired conversion level was from 380-400&#xb0; C. The selectivity to middle distillate products was measured as the percentage fraction of the 360&#xb0; C. minus product fraction boiling in the range from 160-360&#xb0; C. The conversion and selectivity were calculated from gas chromatograph boiling range analyses of the product according to ASTM D 2887.</p>
+<heading id="h-0016" level="1">Example 11</heading>
+<p id="p-0086" num="0091">The catalysts of Examples 8 and 9 were evaluated under the test conditions of Example 10. The middle distillate products were found to have a low aromatics content and low pour points.</p>
+<p id="p-0087" num="0092">The results of the testing of all catalysts are given in Table 3. A comparison of catalysts containing modified zeolite beta and modified Y zeolite versus the calculated average for the catalysts containing only zeolite Y and beta zeolite (column 4) shows that the catalysts of the invention are very superior in terms of selectivity to middle distillates with lower aromatics content than expected. The sulphur and nitrogen content of the products are much lower than that of the feedstock. The pour point of the &#x3e;360&#xb0; C. product cut as compared with the pour point of the same fraction in the feedstock was reduced significantly during the processing.</p>
+<p id="p-0088" num="0093">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>FEED PROPERTIES</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="119pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>FEED A</entry>
+<entry>FEED B</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="21pt" align="left"/>
+<colspec colname="1" colwidth="98pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="char" char="."/>
+<colspec colname="3" colwidth="63pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Specific gravity</entry>
+<entry>0.8785</entry>
+<entry>0.8816</entry>
+</row>
+<row>
+<entry/>
+<entry>Sulphur, D-4294, wt %</entry>
+<entry>0.84</entry>
+<entry>0.55</entry>
+</row>
+<row>
+<entry/>
+<entry>Nitrogen, D-4629, wtppm</entry>
+<entry>641</entry>
+<entry>601</entry>
+</row>
+<row>
+<entry/>
+<entry>Hydrogen, D-4804, wt %</entry>
+<entry>12.95</entry>
+<entry>13.05</entry>
+</row>
+<row>
+<entry/>
+<entry>Aromatics, IP-391, wt %</entry>
+</row>
+<row>
+<entry/>
+<entry>Mono</entry>
+<entry>12.9</entry>
+<entry>15.4</entry>
+</row>
+<row>
+<entry/>
+<entry>Di</entry>
+<entry>5.1</entry>
+<entry>4.6</entry>
+</row>
+<row>
+<entry/>
+<entry>Tri+</entry>
+<entry>6.6</entry>
+<entry>6.1</entry>
+</row>
+<row>
+<entry/>
+<entry>Pour Point, D-5949, &#xb0; C.</entry>
+<entry>30</entry>
+<entry>30</entry>
+</row>
+<row>
+<entry/>
+<entry>Viscosity @40&#xb0; C., cSt</entry>
+<entry>13.79</entry>
+</row>
+<row>
+<entry/>
+<entry>Viscosity @50&#xb0; C., cSt</entry>
+<entry/>
+<entry>11.5</entry>
+</row>
+<row>
+<entry/>
+<entry>Viscosity @100&#xb0; C., cSt</entry>
+<entry>3.229</entry>
+<entry>3.506</entry>
+</row>
+<row>
+<entry/>
+<entry>Distillation, &#xb0; C., D-2887</entry>
+</row>
+<row>
+<entry/>
+<entry>IBP/5</entry>
+<entry>168/264</entry>
+<entry>209/274</entry>
+</row>
+<row>
+<entry/>
+<entry>10/20</entry>
+<entry>296/326</entry>
+<entry>308/344</entry>
+</row>
+<row>
+<entry/>
+<entry>30/40</entry>
+<entry>354/371</entry>
+<entry>366/383</entry>
+</row>
+<row>
+<entry/>
+<entry>50/60</entry>
+<entry>387/402</entry>
+<entry>399/413</entry>
+</row>
+<row>
+<entry/>
+<entry>70/80</entry>
+<entry>416/432</entry>
+<entry>425/437</entry>
+</row>
+<row>
+<entry/>
+<entry>90/95</entry>
+<entry>456/477</entry>
+<entry>451/462</entry>
+</row>
+<row>
+<entry/>
+<entry>FBP</entry>
+<entry>514</entry>
+<entry>489</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x3e;360&#xb0; C., wt %</entry>
+<entry>66.7</entry>
+<entry>72.6</entry>
+</row>
+<row>
+<entry/>
+<entry>&#x3e;360&#xb0; C. cut</entry>
+</row>
+<row>
+<entry/>
+<entry>Pour Point, D-5949, &#xb0; C.</entry>
+<entry>36</entry>
+</row>
+<row>
+<entry/>
+<entry>Specific gravity</entry>
+<entry>0.8869</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0089" num="0094">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>Example A</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="98pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Catalyst</entry>
+<entry>4</entry>
+<entry>1</entry>
+<entry>5</entry>
+<entry>Calculated</entry>
+</row>
+<row>
+<entry>Feed</entry>
+<entry>A</entry>
+<entry>A</entry>
+<entry>A</entry>
+<entry>A</entry>
+</row>
+<row>
+<entry>Reactor Temp. (&#xb0; C.)</entry>
+<entry>Base</entry>
+<entry>1.4</entry>
+<entry>3.6</entry>
+<entry>1.8</entry>
+</row>
+<row>
+<entry>Total liquid product</entry>
+</row>
+<row>
+<entry>S (wtppm)</entry>
+<entry>10&#x2002;</entry>
+<entry>7</entry>
+<entry>1</entry>
+<entry>5.5</entry>
+</row>
+<row>
+<entry>Relative Mono aromatics (wt %)</entry>
+<entry>Base</entry>
+<entry>0.76</entry>
+<entry>3.22</entry>
+<entry>1.61</entry>
+</row>
+<row>
+<entry>160-220&#xb0; C. product</entry>
+</row>
+<row>
+<entry>Relative Mono aromatics (wt %)</entry>
+<entry>Base</entry>
+<entry>0.14</entry>
+<entry>2.00</entry>
+<entry>1.00</entry>
+</row>
+<row>
+<entry>220-270&#xb0; C. product</entry>
+</row>
+<row>
+<entry>Relative Mono aromatics (wt %)</entry>
+<entry>Base</entry>
+<entry>0.26</entry>
+<entry>3.31</entry>
+<entry>1.65</entry>
+</row>
+<row>
+<entry>Relative pour point (&#xb0; C.)</entry>
+<entry>Base</entry>
+<entry>&#x2212;6</entry>
+<entry>&#x2212;2</entry>
+<entry>&#x2212;1</entry>
+</row>
+<row>
+<entry>270-360&#xb0; C. product</entry>
+</row>
+<row>
+<entry>Relative Mono aromatics (wt %)</entry>
+<entry>Base</entry>
+<entry>0.73</entry>
+<entry>3.61</entry>
+<entry>1.80</entry>
+</row>
+<row>
+<entry>Relative Pour point (&#xb0; C.)</entry>
+<entry>Base</entry>
+<entry>&#x2212;10.5</entry>
+<entry>&#x2212;17</entry>
+<entry>&#x2212;8.5</entry>
+</row>
+<row>
+<entry>&#x3e;360&#xb0; C.</entry>
+</row>
+<row>
+<entry>Relative Mono aromatics (wt %)</entry>
+<entry>Base</entry>
+<entry>0.75</entry>
+<entry>2.35</entry>
+<entry>1.18</entry>
+</row>
+<row>
+<entry>Relative pour point (&#xb0; C.)</entry>
+<entry>Base</entry>
+<entry>&#x2212;18</entry>
+<entry>&#x2212;30</entry>
+<entry>&#x2212;15</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Example B</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="98pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Catalyst</entry>
+<entry>6</entry>
+<entry>2</entry>
+<entry>5</entry>
+<entry>Calculated</entry>
+</row>
+<row>
+<entry>Feed</entry>
+<entry>A</entry>
+<entry>A</entry>
+<entry>A</entry>
+<entry>A</entry>
+</row>
+<row>
+<entry>Reactor Temp. (&#xb0; C.)</entry>
+<entry>Base</entry>
+<entry>&#x2212;2.4</entry>
+<entry>6.3</entry>
+<entry>3.15</entry>
+</row>
+<row>
+<entry>Total liquid product</entry>
+</row>
+<row>
+<entry>S (wtppm)</entry>
+<entry>4</entry>
+<entry>4</entry>
+<entry>1</entry>
+<entry>2.5</entry>
+</row>
+<row>
+<entry>Relative Mono aromatics (wt %)</entry>
+<entry>Base</entry>
+<entry>&#x2212;0.47</entry>
+<entry>2.10</entry>
+<entry>1.05</entry>
+</row>
+<row>
+<entry>160-220&#xb0; C. product</entry>
+</row>
+<row>
+<entry>Relative Mono aromatics (wt %)</entry>
+<entry>Base</entry>
+<entry>&#x2212;1.66</entry>
+<entry>0.49</entry>
+<entry>0.24</entry>
+</row>
+<row>
+<entry>220-270&#xb0; C. product</entry>
+</row>
+<row>
+<entry>Relative Mono aromatics (wt %)</entry>
+<entry>Base</entry>
+<entry>&#x2212;1.61</entry>
+<entry>1.75</entry>
+<entry>0.87</entry>
+</row>
+<row>
+<entry>Relative Pour point (&#xb0; C.)</entry>
+<entry>Base</entry>
+<entry>&#x2212;10</entry>
+<entry>&#x2212;5</entry>
+<entry>&#x2212;2.5</entry>
+</row>
+<row>
+<entry>270-360&#xb0; C. product</entry>
+</row>
+<row>
+<entry>Relative Mono aromatics (wt %)</entry>
+<entry>Base</entry>
+<entry>0.35</entry>
+<entry>3.46</entry>
+<entry>1.73</entry>
+</row>
+<row>
+<entry>Relative Pour point (&#xb0; C.)</entry>
+<entry>Base</entry>
+<entry>&#x2212;8</entry>
+<entry>&#x2212;17</entry>
+<entry>&#x2212;8.5</entry>
+</row>
+<row>
+<entry>&#x3e;360&#xb0; C.</entry>
+</row>
+<row>
+<entry>Relative Mono aromatics (wt %)</entry>
+<entry>Base</entry>
+<entry>0.50</entry>
+<entry>2.32</entry>
+<entry>1.16</entry>
+</row>
+<row>
+<entry>Relative Pour Point (&#xb0; C.)</entry>
+<entry>Base</entry>
+<entry>&#x2212;11</entry>
+<entry>&#x2212;32</entry>
+<entry>&#x2212;16</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Example C</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="98pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Catalyst</entry>
+<entry>6</entry>
+<entry>3</entry>
+<entry>7</entry>
+<entry>Calculated</entry>
+</row>
+<row>
+<entry>Feed</entry>
+<entry>A</entry>
+<entry>B</entry>
+<entry>A</entry>
+<entry>A</entry>
+</row>
+<row>
+<entry>Reactor Temp. (&#xb0; C.)</entry>
+<entry>Base</entry>
+<entry>&#x2212;3.4</entry>
+<entry>&#x2212;1.0</entry>
+<entry>&#x2212;0.3</entry>
+</row>
+<row>
+<entry>Total liquid product</entry>
+</row>
+<row>
+<entry>S (wtppm)</entry>
+<entry>4</entry>
+<entry>3</entry>
+<entry>3</entry>
+<entry>3.5</entry>
+</row>
+<row>
+<entry>Relative Mono aromatics (wt %)</entry>
+<entry>Base</entry>
+<entry>&#x2212;0.58</entry>
+<entry>1.19</entry>
+<entry>0.60</entry>
+</row>
+<row>
+<entry>160-220&#xb0; C. product</entry>
+</row>
+<row>
+<entry>Relative Mono aromatics (wt %)</entry>
+<entry>Base</entry>
+<entry>&#x2212;1.67</entry>
+<entry>&#x2212;0.67</entry>
+<entry>0.34</entry>
+</row>
+<row>
+<entry>220-270&#xb0; C. product</entry>
+</row>
+<row>
+<entry>Relative Mono aromatics (wt %)</entry>
+<entry>Base</entry>
+<entry>&#x2212;1.57</entry>
+<entry>0.02</entry>
+<entry>0.01</entry>
+</row>
+<row>
+<entry>Relative Pour point (&#xb0; C.)</entry>
+<entry>Base</entry>
+<entry>&#x2212;10</entry>
+<entry>&#x2212;11</entry>
+<entry>&#x2212;5.5</entry>
+</row>
+<row>
+<entry>270-360&#xb0; C. product</entry>
+</row>
+<row>
+<entry>Relative Mono aromatics (wt %)</entry>
+<entry>Base</entry>
+<entry>0.41</entry>
+<entry>2.96</entry>
+<entry>1.48</entry>
+</row>
+<row>
+<entry>Relative Pour point (&#xb0; C.)</entry>
+<entry>Base</entry>
+<entry>&#x2212;10</entry>
+<entry>&#x2212;14</entry>
+<entry>&#x2212;7</entry>
+</row>
+<row>
+<entry>&#x3e;360&#xb0; C. product</entry>
+</row>
+<row>
+<entry>Relative Mono aromatics (wt %)</entry>
+<entry>Base</entry>
+<entry>0.60</entry>
+<entry>2.68</entry>
+<entry>1.34</entry>
+</row>
+<row>
+<entry>Relative Pour point (&#xb0; C.)</entry>
+<entry>Base</entry>
+<entry>&#x2212;15</entry>
+<entry>&#x2212;25</entry>
+<entry>&#x2212;12</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0090" num="0095">The arithmetic mean of the mixed zeolite catalysts are substantially more active than the components individually.</p>
+<p id="p-0091" num="0096">Comparison of the performance data in Table 3 shows that the aromatic content for the mixed zeolite catalyst of the invention is significantly lower than that of the catalyst composition calculated from the components (e.g. exp. 1 vs. calculated composition, exp 2 vs. calculated composition, exp 3 vs calculated composition).</p>
+<p id="p-0092" num="0097">The pour points of the products from the comparative evaluations are also lower for the mixed zeolite catalyst than for the individual components or their arithmetic average.</p>
+<p id="p-0093" num="0098">Although it should be more than clear how the invention can be utilised in the industry, it can be summarised as follows: The invention will find its use in the petroleum refining industry and more specifically in those processes employed in the petroleum refining industry that require catalysts.</p>
+<p id="p-0094" num="0099">Catalysts prepared in accordance with the invention are most usefully employed without hydrogenation components in such processes as catalytic cracking, catalytic isomerisation, catalytic alkylation and catalytic transalkylation. The catalysts of the invention are most usefully employed with one or more hydrogenation components when catalytic hydrocracking, catalytic hydrodenitrogenation, catalytic isomerization, lube dewaxing or catalytic hydrodesulphurisation is required. The catalyst of the invention is particularly useful for hydrocracking of gas oils and the like to produce high yields of midbarrel products boiling in the 150&#xb0; C. to 420&#xb0; C. range with reduced aromatics content and/or pour point, and for such hydrocracking, the most preferred catalyst comprises sulphided nickel and tungsten components on a catalyst support consisting essentially of a modified Y zeolite and a modified beta zeolite, silica-alumina, alumina and binder.</p>
+<p id="p-0095" num="0100">The use of the catalysts of the invention produces overall superior activity and product properties. While particular embodiments of the invention have been described, it goes without saying that the invention is not limited thereto since many obvious modifications can be made, and it is intended to include within this definition any such modifications as will fall within the scope of the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A process for hydrocracking a hydrocarbon feedstock into a low aromatic content middle distillate in the presence of hydrogen, comprising:
+<claim-text>providing a catalyst comprising a catalyst support, the catalyst support comprising 1 to 15 wt % beta zeolite and 1 to 15 wt % Y zeolite, at elevated temperature and pressure of 260-430&#xb0; C. and 5-20 MPa, the Y zeolite having a unit cell size below 24.40 &#x212b; and a molar SiO<sub>2</sub>:Al<sub>2</sub>0<sub>3 </sub>ratio of at least 15, the beta zeolite having a silica-alumina ratio of at least about 250; and</claim-text>
+<claim-text>contacting the feedstock with the catalyst in the presence of hydrogen at elevated temperature and pressure of 260-430&#xb0; C. and 5-20 MPa, to obtain a middle distillate boiling at a temperature between 150-420&#xb0; C. and with a content of aromatic compounds and a pour point lower than the content of aromatic compounds, the pour point of a middle distillate being obtained by contacting the feedstock with a catalyst comprising only a Y zeolite.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the Y zeolite has a unit cell size below 24.30 &#x212b;.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the hydrocracking catalyst composition further comprises one or more hydrogenation components selected from nickel, cobalt, molybdenum, tungsten and chromium, their oxides and sulphides.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The process of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the hydrogenation component is selected from nickel and tungsten, their oxides and sulphides.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the said catalyst composition further comprises at least one amorphous component selected from the group comprising silica, alumina, titania, zirconium and their binary and tertiary compounds.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the catalyst is in form of a physical mixture of beta zeolite and Y zeolite particles.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the hydrocarbon feedstock has been subjected to hydrotreating so as to reduce its organic nitrogen and sulphur content.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

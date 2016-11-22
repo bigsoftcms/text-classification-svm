@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641474-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641474</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10748953</doc-number>
+<date>20031230</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>09</class>
+<subclass>B</subclass>
+<main-group>19</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>434 98</main-classification>
+<further-classification>345593</further-classification>
+<further-classification>345595</further-classification>
+<further-classification>434 81</further-classification>
+<further-classification>434 84</further-classification>
+<further-classification>434103</further-classification>
+<further-classification>283114</further-classification>
+<further-classification> 401242</further-classification>
+<further-classification> 401244</further-classification>
+</classification-national>
+<invention-title id="d0e43">Method and system for arranging a paint color display</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>173408</doc-number>
+<kind>A</kind>
+<name>Leggett</name>
+<date>18760200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>299052</doc-number>
+<kind>A</kind>
+<name>Brooks et al.</name>
+<date>18840500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>371701</doc-number>
+<kind>A</kind>
+<name>Parker</name>
+<date>18871000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>376634</doc-number>
+<kind>A</kind>
+<name>Church</name>
+<date>18880100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>731550</doc-number>
+<kind>A</kind>
+<name>Drummond</name>
+<date>19030600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>750620</doc-number>
+<kind>A</kind>
+<name>Dohse</name>
+<date>19040100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>757549</doc-number>
+<kind>A</kind>
+<name>Gould</name>
+<date>19040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>1175960</doc-number>
+<kind>A</kind>
+<name>Kroeger</name>
+<date>19160300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>1508988</doc-number>
+<kind>A</kind>
+<name>Ross</name>
+<date>19240900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>1629330</doc-number>
+<kind>A</kind>
+<name>Adler</name>
+<date>19270500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2203167</doc-number>
+<kind>A</kind>
+<name>Lodwick</name>
+<date>19400600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>434 98</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>2234609</doc-number>
+<kind>A</kind>
+<name>Rowe</name>
+<date>19410300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>2300360</doc-number>
+<kind>A</kind>
+<name>Remmers</name>
+<date>19421000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>434 79</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>2354493</doc-number>
+<kind>A</kind>
+<name>Adams, Jr.</name>
+<date>19440700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 88 14</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>2409285</doc-number>
+<kind>A</kind>
+<name>Egbert</name>
+<date>19461000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>434 98</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>2866277</doc-number>
+<kind>A</kind>
+<name>Wise</name>
+<date>19581200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>434 98</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>3069788</doc-number>
+<kind>A</kind>
+<name>Balinkin</name>
+<date>19621200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 35 283</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>3211470</doc-number>
+<kind>A</kind>
+<name>Wilson et al.</name>
+<date>19651000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>283 18</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>3229385</doc-number>
+<kind>A</kind>
+<name>DePauw</name>
+<date>19660100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 35 283</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>3384983</doc-number>
+<kind>A</kind>
+<name>Olson</name>
+<date>19680500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 35 285</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>3434227</doc-number>
+<kind>A</kind>
+<name>Brown, Jr.</name>
+<date>19690300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 35 283</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>3517448</doc-number>
+<kind>A</kind>
+<name>Wallace</name>
+<date>19700600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 35 283</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>4104809</doc-number>
+<kind>A</kind>
+<name>Day et al.</name>
+<date>19780800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>434104</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>4253259</doc-number>
+<kind>A</kind>
+<name>Schaffer et al.</name>
+<date>19810300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 40492</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>4665394</doc-number>
+<kind>A</kind>
+<name>Coles et al.</name>
+<date>19870500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>3408151</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>4992050</doc-number>
+<kind>A</kind>
+<name>Edwards</name>
+<date>19910200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>434 98</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>5275566</doc-number>
+<kind>A</kind>
+<name>Yang</name>
+<date>19940100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>434 98</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>5282690</doc-number>
+<kind>A</kind>
+<name>Moseley</name>
+<date>19940200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>402 79</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>5312001</doc-number>
+<kind>A</kind>
+<name>Sorensen</name>
+<date>19940500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>211 50</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>5522623</doc-number>
+<kind>A</kind>
+<name>Soules et al.</name>
+<date>19960600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>283 91</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>5531482</doc-number>
+<kind>A</kind>
+<name>Blank</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>283 67</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>5855480</doc-number>
+<kind>A</kind>
+<name>Housman</name>
+<date>19990100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>434 75</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>6270123</doc-number>
+<kind>B1</kind>
+<name>Spangler</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>283114</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>D470191</doc-number>
+<kind>S</kind>
+<name>Rice</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>D20 99</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>6632093</doc-number>
+<kind>B1</kind>
+<name>Rice et al.</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>434 98</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>6665965</doc-number>
+<kind>B1</kind>
+<name>Turchi et al.</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 40492</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>2002/0092221</doc-number>
+<kind>A1</kind>
+<name>DaRif et al.</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 40674</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>2003/0091962</doc-number>
+<kind>A1</kind>
+<name>Hung</name>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>434 84</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>2004/0004639</doc-number>
+<kind>A1</kind>
+<name>Simonis</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>345810</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>2004/0004719</doc-number>
+<kind>A1</kind>
+<name>Takada et al.</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>356421</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>2004/0046802</doc-number>
+<kind>A1</kind>
+<name>Wright et al.</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>345810</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>2004/0077471</doc-number>
+<kind>A1</kind>
+<name>Verbruggen et al.</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>493162</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>EP</country>
+<doc-number>0699544</doc-number>
+<date>19960300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>GB</country>
+<doc-number>2283104</doc-number>
+<date>19950400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>JP</country>
+<doc-number>2002351887</doc-number>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00046">
+<document-id>
+<country>JP</country>
+<doc-number>2003029642</doc-number>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00047">
+<othercit>Microsoft PhotoDraw 2000 (Microsoft Corp. &#xa9; 1995-1999, version 2.0.0.1229, Screenshots 1-17).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00048">
+<othercit>&#x201c;Painting on Location Lesson&#x2014;RCW, The Original Real Color Wheel,&#x201d; Jusko, Donald A. http://www.mauigateway.com/&#x2dc;donjusko/rcwmap.htm. Last updated Sep. 14, 2003. Accessed on May 2, 2005.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00049">
+<othercit>PCT/US2004/043367, Dec. 22, 2001, Int. Search Report for corresponding International Application, mailed Dec. 20, 2005.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>32</number-of-claims>
+<us-exemplary-claim>14</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>345594</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>345595</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>434103</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>10</number-of-drawing-sheets>
+<number-of-figures>11</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20050140691</doc-number>
+<kind>A1</kind>
+<date>20050630</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Rice</last-name>
+<first-name>Mary Rose</first-name>
+<address>
+<city>Laguna Niguel</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Greenberg Traurig LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Ubell</last-name>
+<first-name>Franklin D.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Behr Process Corporation</orgname>
+<role>02</role>
+<address>
+<city>Santa Ana</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Caschera</last-name>
+<first-name>Antonio A</first-name>
+<department>2628</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">One aspect of the present invention provides a method for systematically arranging paint color samples for convenient browsing and identification of desired colors by shoppers. Paint color sample cards are arranged on a two-dimensional display surface such that colors of similar hue are categorized or grouped together (e.g., along a column). Groups of paint color sample cards having different base hue or color are arranged such that there is a gradual transition between paint colors from one region to the next region. For instance, the colors of sample cards may gradually change from column to column across a two-dimensional display. Additionally, within each color group, paint color sample cards are arranged from most chromatic to least chromatic colors. Another aspect of the invention provides for accent color sample cards to be displayed adjacent to the various base color groups.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="135.64mm" wi="259.76mm" file="US07641474-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="245.45mm" wi="187.96mm" file="US07641474-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="227.67mm" wi="113.88mm" file="US07641474-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="250.53mm" wi="195.33mm" file="US07641474-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="260.01mm" wi="162.56mm" orientation="landscape" file="US07641474-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="242.40mm" wi="133.77mm" file="US07641474-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="170.94mm" wi="140.63mm" file="US07641474-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="252.98mm" wi="201.68mm" file="US07641474-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="233.51mm" wi="187.54mm" file="US07641474-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="240.88mm" wi="191.60mm" file="US07641474-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="240.71mm" wi="192.45mm" file="US07641474-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The invention pertains to displays of paint color samples. More particularly, at least one embodiment of the invention relates the systematic arrangement of paint color samples in a convenient-to-search order.</p>
+<heading id="h-0002" level="1">DESCRIPTION OF RELATED ART</heading>
+<p id="p-0003" num="0002">When selecting paints, it is often useful to display the paint colors available on color cards. Each card typically provides a color sample for a single paint color. When a large number of different paint colors are available, it becomes a difficult task to organize these cards in a way that is easily accessible to customers. Ideally, the cards should be organized and displayed in such a way that the customer is able to find the desired color(s) with relative ease. Additionally, it would be helpful if the card arrangement could also &#x201c;suggest&#x201d; other colors to the customer that would go well with a selected color. Prior art attempts to display paint color samples to consumers have been unsatisfactory in several respects. The present invention overcomes these shortcomings.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0004" num="0003">Paint color sample cards are arranged on a two-dimensional display surface such that colors having a similar hue angle, or colors that lie within a hue range, are categorized or grouped together (e.g., along a column) as a family of colors. For example, paint color sample cards having the same base hue or color are arranged on the same display region (e.g., column). Groups of paint color sample cards having different base hues or colors are arranged such that there is a gradual transition between paint colors from one region to the next region. For instance, the colors of sample cards may gradually change from column to column across a two-dimensional display array. Additionally, within each color group or family, paint color sample cards may be arranged from the most chromatic (purest) to the least chromatic colors (shaded). Thus, a customer may conveniently search for a desired color across columns and then search for the desired shade or tint down the rows. Accent color sample cards are preferably displayed adjacent to the various base color groups. For instance, along the region where red-based sample cards are displayed, color cards of white paint colors having a red tint are arranged to provide customers a convenient way to find accent colors.</p>
+<p id="p-0005" num="0004">Combination style cards may be provided within each color family. The combination style cards may include one or more color schemes having one or more colors found in the color family in which the combination style card is placed. That is, the combination style cards are used to provide color scheme ideas to shoppers for some of the colors in the color display. In one embodiment, the combination style card is a tri-fold card including three different color schemes. For each color scheme in the combination style card, a different room, environment, or exterior may be shown in the combination style card. Along each column and row of the color display, a plurality of different combination style cards may be displayed. The combination style cards may be organized such that a user may obtain color scheme ideas for every major room or environment of a home by the combination style cards arranged along a particular column and/or by the combination style cards arranged along a particular row.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0006" num="0005"><figref idref="DRAWINGS">FIG. 1</figref> illustrates how a tertiary color wheel may be mapped onto a paint color display according to one embodiment of the invention.</p>
+<p id="p-0007" num="0006"><figref idref="DRAWINGS">FIG. 2</figref> illustrates a method for arranging paint color samples in a color display according to one embodiment of the invention.</p>
+<p id="p-0008" num="0007"><figref idref="DRAWINGS">FIG. 3</figref> illustrates a paint color display according to one embodiment of the invention.</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 4</figref> illustrates a paint color display according to one embodiment of the invention.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 5</figref> illustrates a first view of a paint sample card according to one embodiment of the invention.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 6</figref> illustrates a second view of a paint sample card according to one embodiment of the invention.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 7</figref> illustrates a theme paint color sample card according to one embodiment of the invention.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIGS. 8-11</figref> illustrate a plurality of combination style cards that include color schemes and room samples and may be arranged in a particular order that facilitates obtaining a room-by-room paint scheme for a house according to one embodiment of the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0014" num="0013">In the following description numerous specific details are set forth in order to provide a thorough understanding of the invention. However, one skilled in the art would recognize that the invention may be practiced without these specific details. In other instances, well known methods, procedures, and/or components have not been described in detail so as not to unnecessarily obscure aspects of the invention.</p>
+<p id="p-0015" num="0014">In the following description, certain terminology is used to describe certain features of one or more embodiments of the invention. For instance, a paint color &#x201c;display&#x201d; includes any cabinet, counter, advertising panel, card holders, etc., and combination thereof that may be used to exhibit paint color samples for customers or shoppers.</p>
+<p id="p-0016" num="0015">One aspect of the present invention provides a method for systematically arranging paint color samples for convenient browsing, identification, and/or selection of desired colors by shoppers. Paint color sample cards are arranged on a two-dimensional display surface such that colors having a similar hue angle, or colors that lie within a hue range, are categorized or grouped together (e.g., along a column) as a family of colors. For example, paint color sample cards having the same base hue or color are arranged on the same display region (e.g., column). Groups of paint color sample cards having different base hues or colors are arranged such that there is a gradual transition between paint colors from one region to the next region. For instance, the colors of sample cards may gradually change from column to column across a two-dimensional display array. Additionally, within each color group or family, paint color sample cards may be arranged from the most chromatic (purest) to the least chromatic colors (shaded). Thus, a customer may conveniently search for a desired color across columns and then search for the desired shade or tint down the rows.</p>
+<p id="p-0017" num="0016">Another aspect of the invention provides for accent color sample cards to be displayed adjacent to the various base color groups. For instance, along the region where red-based sample cards are displayed, color cards of white paint colors having a red tint are arranged to provide customers a convenient way to find accent colors.</p>
+<p id="p-0018" num="0017">Yet another feature of the invention provides for combination style cards to be arranged within each color family. The combination style cards may include one or more color schemes having one or more colors found in the color family in which the combination style card is placed. That is, the combination style cards are used to provide color schemes ideas to shoppers for some of the colors in the color display. In one implementation of the invention, the combination style card is a tri-fold card including three different color schemes. For each color scheme in the combination style card, a different room or environment or exterior may be exhibited or shown in the combination style card. Along each column and row of the color display, a plurality of different combination style cards may be displayed. The combination style cards may be organized such that a user may obtain color scheme ideas for every major room or environment of a home by the combination style cards arranged along a particular column and/or by the combination style cards arranged along a particular row.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 1</figref> illustrates how a tertiary color wheel <b>102</b> may be mapped onto a paint color display <b>120</b> according to one embodiment of the invention. A tertiary color wheel <b>102</b> is a known way of arranging colors according to their hue, chroma, and lightness. The tertiary color wheel <b>102</b> is based on the basic primary color wheel of yellow, red, blue colors and includes six segments of gradually blending colors. These gradually blending colors have different hue angles within the tertiary color wheel <b>102</b>. For example, the region between yellow <b>110</b> and red <b>106</b> colors define orange colors <b>108</b>, the region between red <b>106</b> and blue <b>114</b> colors define purple colors <b>116</b>, and the region between blue <b>114</b> and yellow <b>110</b> colors define green colors <b>112</b>. The tertiary color wheel <b>102</b>, and other color models, typically arrange colors so that they gradually blend from one color to the next.</p>
+<p id="p-0020" num="0019">One embodiment of the invention translates the color wheel, or any other color model, into a two-dimensional display arrangement to provide customers or shoppers convenient access and/or identification of paint colors. For instance, a paint color display <b>120</b> is arranged so that each column <b>126</b>-<b>136</b> in the color display represents a different segment, i.e., a range of hue angles, of the color wheel <b>102</b>. Additionally, the columns <b>126</b>-<b>136</b> of the color display <b>120</b> may be maintained in the same order as the different segments <b>106</b>-<b>116</b> of the color wheel <b>102</b>. For instance, if the order of the color wheel segments is <b>106</b>-<b>116</b>, then the same order is maintained when arranging the corresponding columns <b>126</b>-<b>136</b> in the display <b>120</b>.</p>
+<p id="p-0021" num="0020">Within each column, a plurality of paint color display cards may be organized such that the more chromatic colors (purest) are placed at the top of the columns and the less chromatic colors are placed at the bottom of the columns. That is, outer colors in the color wheel <b>102</b>, typically the purest colors, are at the top of the column, the colors at the middle of the color wheel, typically more muted colors, are at the middle of the column, and the colors at the center/inner portion of the color wheel, typically more shaded colors, are at the bottom of the column. For instance, paint colors <b>142</b>-<b>146</b> in the Red segment <b>106</b> of color wheel <b>102</b> may be arranged from top to bottom of a corresponding column <b>126</b>, with the outer color <b>142</b> at the top of the column <b>126</b> and the inner color <b>146</b> at the bottom of the column <b>126</b>.</p>
+<p id="p-0022" num="0021">Within each category <b>142</b>, <b>144</b>, or <b>146</b> of a column or color family, the colors may be arranged according to their hue angle in the corresponding color model (e.g., color wheel <b>102</b>).</p>
+<p id="p-0023" num="0022">In one embodiment of the invention, an additional column <b>138</b> may be included in the paint color display <b>120</b> to display a particular category of colors. Such column <b>138</b> may serve to display a particular family of colors. For example, column <b>138</b> may display neutral colors in having different undertones. Yellow-toned neutral colors may be displayed at the top <b>150</b> of column <b>138</b>, followed by red-toned neutral colors in the middle portion <b>152</b> of column <b>138</b>, and blue-toned neutral colors in the bottom portion <b>154</b> of column <b>138</b>. According to one embodiment of the invention, the selection of colors that are placed in column <b>138</b> may be based on human expertise selection.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 2</figref> illustrates a method for arranging paint color samples in a color display according to one embodiment of the invention. The colors of a color wheel, or a color model are divided into groups, categories, families, or segments <b>202</b>. This may be done, for example, by dividing colors in a color wheel based on hue angle. A plurality of colors from each group, category or segment are selected for display <b>204</b>. Colors may be added or removed from a group, category or segment based on expert human input <b>206</b>. The selected paint colors are then organized on sample cards <b>208</b>. Each sample card may include one or more paint colors.</p>
+<p id="p-0025" num="0024">According to one implementation of the invention, each sample card includes a plurality of paint color samples belonging to the same category. The paint color samples in each paint sample card may be organized according to shade, hue, and/or chroma. For instance, a sample card may include three colors having approximately the same hue angle but having varying chromatic values.</p>
+<p id="p-0026" num="0025">The sample cards are then arranged on a two-dimensional display so that there is a gradual transition between paint sample colors <b>210</b>, both in the horizontal and vertical directions. For instance, paint color samples may have a gradual change in color hue angles from column to column and a gradual change in shades from row to row.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 3</figref> illustrates a paint color display according to one embodiment of the invention. This paint color display <b>300</b> may be arranged so that there is a gradual transition between paint colors. For instance, from columns <b>302</b>-<b>312</b>, there may be a gradual change in the hue angles of the paint colors displayed therein. Additionally, the paint color display <b>300</b> may also be arranged so that there is a gradual change in the shades or chroma of colors from row to row. For instance, from rows <b>316</b>-<b>330</b> the red-based paint colors may transition from pure red colors <b>332</b> to more muted red colors <b>334</b> to light shades of red <b>336</b>. Along each column or family of colors, as the chroma of a particular base-color changes, one or more whites colors <b>340</b>-<b>344</b> of similar tint may be placed alongside the other color samples. These white colors <b>340</b>-<b>344</b> are white paint colors having similar tint as the neighboring colors so that they may be aesthetically pleasing when used together.</p>
+<p id="p-0028" num="0027">According to one implementation of the invention, the paint color display <b>300</b> may be arranged into a plurality of columns, each column corresponding to a segment of a color wheel. For ease of color identification, each column may be associated with a number that is also used to identify the paint colors in that column. For example, each paint color card arranged under column &#x201c;<b>100</b>&#x201d; may include a unique number, e.g., &#x201c;<b>110</b>-D&#x201d;, &#x201c;<b>158</b>-A&#x201d;, etc., that identifies colors in that column.</p>
+<p id="p-0029" num="0028">According to one implementation of the invention, each column includes a plurality of color cards arranged from the purest color (i.e., most chromatic) to the most shaded color (least chromatic). Such arrangement permits a person to visually search the various shades of colors and identify the desired paint color.</p>
+<p id="p-0030" num="0029">In one implementation of the invention, a two-dimensional array paint color display system <b>300</b> includes a plurality of paint sample cards and is arranged so as to assist customers in the selection of paint colors. A plurality paint sample cards, each having one or more paint color samples, are selected from only one of a plurality of contiguous hue portions (e.g. <b>106</b>-<b>116</b>, in <figref idref="DRAWINGS">FIG. 1</figref>) of a full range of known color hues such that each hue in each of said hue portions (e.g., <b>106</b> in <figref idref="DRAWINGS">FIG. 1</figref>) is closely related to or the same as each other hue in that same hue portion.</p>
+<p id="p-0031" num="0030">Within each region or family of colors representing a hue portion (e.g. paint colors having a similar hue) <b>302</b>-<b>314</b>, paint color sample cards may be arranged according to either increasing or decreasing hue values in a first dimension of the two-dimensional array paint color display <b>300</b> and according to either increasing or decreasing chromatic values in a second dimension of two-dimensional array paint color display. In one implementation of the invention, adjacent paint color sample cards in each region represent substantially equal intervals of visual color perception. According to one embodiment of the invention, the two-dimensional array paint color display <b>300</b> includes a plurality of regions, portions or areas <b>302</b>-<b>314</b> of non-overlapping hue groups. The plurality of hue portions <b>302</b>-<b>312</b> may span the full range of known color hues.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 4</figref> illustrates a paint color display according to one embodiment of the invention. Like the paint color display of <figref idref="DRAWINGS">FIG. 3</figref>, each column <b>402</b>-<b>412</b> includes colors of a particular hue and arranged based on their chromatic value. Similar to the arrangement illustrated in <figref idref="DRAWINGS">FIG. 3</figref>, each column <b>402</b>-<b>412</b> corresponds to a particular range of hues, with the colors arranged based on their relative chromatic value within a column. For instance, the most chromatic colors may be found on row <b>416</b> and the least chromatic colors in row <b>418</b>, with their relative chromatic value decreasing from left to right. Such arrangement of colors permits a user to browse across the columns for a desired hue and then browse up and/or down along a the rows to find the desired color.</p>
+<p id="p-0033" num="0032">In one embodiment of the invention, a portion or all of rows <b>418</b>, <b>420</b>, and <b>422</b> may include white colors of similar tone as the surrounding color samples. Such positioning of similarly-toned white colors is intended to provide an easy way for a consumer, who has selected a desired paint color, to find an appropriate white paint color. For instance, if a user selects a color in color card <b>424</b>, then the user may find an appropriate white paint color by browsing the adjacent or proximate white paint color samples <b>426</b>.</p>
+<p id="p-0034" num="0033">According to another aspect of the invention, an additional column <b>414</b> may be appended to the rest of the display <b>400</b> for displaying a special category of colors (e.g., neutrals, earth-tones, etc.) that have been selected based on human expertise and may be arranged according to their respective underlying tones (e.g., yellow, red, blue, etc.).</p>
+<p id="p-0035" num="0034">Yet another aspect of the invention provides for one or more rows <b>425</b> and <b>427</b> to include paint sample cards of individual paint colors. For instance, each sample card in row <b>425</b> may contain a different saturated color found in rows <b>416</b> and/or <b>420</b>. Similarly, each sample card in row <b>427</b> may contain a different saturated color found in rows <b>421</b> and/or <b>422</b>.</p>
+<p id="p-0036" num="0035">Another feature of the invention provides for a plurality of combination style cards to be displayed along each column <b>402</b>-<b>414</b>. The combination style cards are used to provide color schemes ideas to shoppers for some of the colors in the color display. In one implementation of the invention, a combination style card is a tri-fold card including three different color schemes. For each color scheme in the combination style card, a different room or environment or exterior may be exhibited or shown in the combination style card.</p>
+<p id="p-0037" num="0036">A plurality of combination style cards <b>430</b>-<b>452</b> may be laid out at particular locations (e.g., the beginning of one or more rows) along one or more columns of the color display. A plurality of different combination style cards, showing different color schemes and sample rooms or environments, may be displayed. The combination style cards may be organized such that a user may browse color scheme ideas for every major room or environment of a home. For instance, for each color scheme in each combination style card, a sample room of a home (e.g., kitchen, family room, dining room, living room, bathroom, entrance, hallways, etc.) may be depicted as painted with the particular color scheme. By browsing the combination style cards down a particular column or color family, a user is shown color schemes having the same base hue (or within a color family) for every room in a home. In this manner, a user is able to select color schemes having the same base hue (or color family) for every room or environment in a home from the combination style cards (e.g., <b>430</b>, <b>432</b> and <b>434</b>) arranged along a column.</p>
+<p id="p-0038" num="0037">Additionally, the combination style cards may also be used to suggest color schemes for a plurality of rooms in a home, where the color schemes are based on two or more base colors. For instance, a user may select combination style cards (e.g., <b>432</b>, <b>438</b>, <b>444</b>) arranged along a particular row (e.g., <b>421</b>) in adjacent columns to obtain color schemes having different base colors. In one implementation of the invention, each combination style card shows three color combinations of typically related or adjoining rooms within a home. A user may select combination style card <b>432</b> having a sample entrance, living room and dining room using three different color schemes and the same first base color. The user may then select combination style card <b>438</b> having a sample kitchen, family room, and breakfast nook with three different color schemes and the same second base color. Lastly, the user may select combination style card <b>444</b> having a sample master bedroom, second bedroom, and bathroom with three different color schemes and the same third base color.</p>
+<p id="p-0039" num="0038">The combination style cards <b>430</b>-<b>452</b> are thus arranged to provide a user of the display the opportunity and ease of selecting paint color schemes for a whole house by selecting the combination style cards along a particular column or row.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 5</figref> illustrates a first view of a paint sample card <b>500</b> according to one embodiment of the invention. The paint sample card may be used in the paint color display unit illustrated in <figref idref="DRAWINGS">FIGS. 2 and 3</figref>. A paint sample card <b>500</b> may include a plurality of paint colors samples <b>502</b>, <b>504</b>, and <b>506</b> that are related to each other. For instance, the paint color samples <b>502</b>, <b>504</b>, and <b>506</b> may be different shades of the same color hue. Within a sample card, the paint color samples may be arranged from the lightest paint color <b>502</b> to the darkest paint color <b>506</b>.</p>
+<p id="p-0041" num="0040">According to one aspect of the invention, each color sample card may include one or more colors of similar hue but having varying chromatic values. The color samples on each color sample cards may span less than a total hue range and a total chroma range for the corresponding hue region or portion represented by that display. Each color sample card may represent a different hue range that is non-overlapping with other color sample cards in the same group.</p>
+<p id="p-0042" num="0041">According to one embodiment of the invention, a unique number or identifier <b>508</b> may identify a paint color card <b>500</b>. Similarly, each paint color sample on a card may have a unique number or identifier <b>510</b>, <b>512</b>, <b>514</b> identifying the paint color shown. The numbers or identifiers for each paint color may be associated with the number or identifier for the paint color card. For instance, if a color card is identified by &#x201c;<b>600</b>A&#x201d; <b>508</b> then the paint colors thereon may be identified as &#x201c;<b>600</b>A-<b>1</b>&#x201d; <b>510</b>, &#x201c;<b>600</b>A-<b>2</b>&#x201d; <b>512</b>, and &#x201c;<b>600</b>A-<b>3</b>&#x201d; <b>514</b>.</p>
+<p id="p-0043" num="0042">In one embodiment of the invention, each paint color sample <b>502</b> may also include a catchy name <b>516</b> that is descriptive, characteristic, and/or suggestive of the color. For example, names like &#x201c;December Dawn&#x201d; <b>516</b>, &#x201c;Lazy Sunday&#x201d; <b>518</b>, and &#x201c;California Lilac&#x201d; <b>520</b> maybe used to describe colors in a color card <b>500</b>.</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 6</figref> illustrates a second view of a paint sample card <b>600</b> according to one embodiment of the invention. The illustrated second view <b>600</b> may correspond to the opposite side of the paint color card <b>500</b> illustrated in <figref idref="DRAWINGS">FIG. 5</figref>. For each paint color on the opposite side of the card <b>600</b>, the color name <b>602</b> and associated paint number or identifier <b>604</b> may appear in a corresponding location on the card <b>600</b>. According to one implementation, for each sample color in a paint sample card <b>600</b>, a unique bar code <b>606</b> may be placed on the card <b>600</b>. This unique bar code <b>606</b> may serve to enter the desired paint color into a computer or scanning system and facilitate purchase or mixing of the corresponding paint.</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 7</figref> illustrates a theme paint color sample card <b>700</b> according to one embodiment of the invention. A paint sample card <b>700</b> may represent a color style (e.g., Yellow-toned Neutral). The card may include a depiction of a house interior or exterior <b>702</b> painted using a particular color scheme that includes a plurality of paint colors. For instance, the house interior or exterior <b>702</b> may be shown as painted in a four-color scheme. Paint color samples <b>704</b>, <b>706</b>, <b>708</b>, and <b>710</b> for the illustrated color scheme may be placed in the card <b>700</b>. Each of the paint colors in the samples <b>704</b>, <b>706</b>, <b>708</b>, and <b>710</b> may have an associated name and/or unique identifier to help shoppers identify each color. The color-scheme may be selected using color theory and/or expert input.</p>
+<p id="p-0046" num="0045">According to one embodiment of the invention, the paint color samples of a color-scheme may have different sizes depending on their purpose. For example, a larger color sample size <b>704</b> indicates a wall paint color while smaller paint color sample sizes may indicate trim <b>708</b>, accent <b>710</b>, and/or white <b>706</b> paint colors.</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIGS. 8-11</figref> illustrate a plurality of combination style cards that include color schemes and room samples and may be arranged in a particular order that facilitates obtaining a room-by-room paint scheme for a house according to one embodiment of the invention. These tri-fold combination style cards include three color schemes and a corresponding sample room for each color scheme. Each corresponding sample room is painted according to one of the associated color schemes in the combination style card. The cards illustrated in <figref idref="DRAWINGS">FIGS. 8-11</figref> may be some of the combination style cards shown in display illustrated in <figref idref="DRAWINGS">FIG. 4</figref>.</p>
+<p id="p-0048" num="0047">One aspect of the invention provides an arrangement of color schemes that may be used to paint a whole house. For example, where a home is to be painted using a particular family of color or base hue, a user may select from the combination style cards along the particular column corresponding to the desired color family or base hue. Each combination style card in said column includes one or more color schemes, with each color scheme including one or more colors in said column. For each color scheme in a combination style card, the combination style card includes a sample room illustration having its various surfaces, walls, doors, frames, windows, ceiling, etc., painted according to the color scheme.</p>
+<p id="p-0049" num="0048">According to one implementation of the invention, the combination style cards found in a column or color group illustrate the various rooms of a conventional home painted according to a corresponding color scheme. Each combination style card may include a set of rooms that may typically be adjacent to each other in a typical home. Thus, each combination style card may provide a plurality of color schemes that work together across various adjacent rooms or areas of a home.</p>
+<p id="p-0050" num="0049">In one embodiment of the invention the combination style cards found along a column or color family of a display each has illustrations and color schemes of different of rooms found in a typical home. That is, a first card may illustrate an entrance, a living room and a family room, a second card may illustrate a kitchen, dining room, and hallway, and a third card may illustrate a master bedroom, bathroom, and study. Thus, a user may be able to find color schemes for every room and environments in a home by browsing the combination style cards for a desired base hue.</p>
+<p id="p-0051" num="0050">Another aspect of the invention enables a user to select color schemes having different base colors or hues. For instance, a user may select from three contiguous hues or color families (e.g., reds, oranges, and yellows) to select color schemes that the various rooms or environments in a home. Harmonious color schemes across color families may be selected from combination style cards</p>
+<p id="p-0052" num="0051">Another aspect of the invention provides for</p>
+<p id="p-0053" num="0052">Referring to <figref idref="DRAWINGS">FIG. 8</figref>, a set of tri-folding combination style cards are illustrated therein. These cards may correspond to the combination cards found in column <b>402</b> of <figref idref="DRAWINGS">FIG. 4</figref>. For example, combination style cards <b>802</b>, <b>804</b>, and <b>806</b> may be arranged at the locations corresponding to cards <b>430</b>, <b>432</b> and <b>434</b> in <figref idref="DRAWINGS">FIG. 4</figref>, respectively. Similar to the card illustrated in <figref idref="DRAWINGS">FIG. 7</figref>, each combination card includes three color schemes <b>810</b>, <b>812</b>, and <b>814</b> with corresponding samples of rooms or environments <b>816</b>, <b>818</b>, and <b>820</b> painted according to the associated color scheme <b>810</b>, <b>812</b>, and <b>814</b>. A user may select combination style cards <b>802</b>, <b>804</b>, and <b>806</b> to obtain nine harmonious color schemes that may be used together to paint a conventional home. The various combination cards <b>802</b>, <b>804</b>, and <b>806</b> may provide different, yet harmonious, colors schemes using the same base color or family of colors. For example, combination card <b>802</b> may provide nine color schemes using red-based colors. These nine color schemes may enable a user to paint a home using a plurality of the harmonious color schemes. For instance, card <b>802</b> illustrates samples of a painted den, bedroom and bathroom, card <b>804</b> illustrates samples of a painted dinning room, living room, and hall, and card <b>806</b> illustrates samples of a painted family room, den, and kitchen.</p>
+<p id="p-0054" num="0053">According to one implementation of the invention, each color scheme <b>810</b>, <b>812</b>, and <b>814</b> in a combination card <b>802</b> includes a main color <b>822</b>, <b>824</b>, and <b>826</b> which belongs to the color family or column in which the combination card is displayed. In one implementation, each main color <b>822</b>, <b>824</b>, and <b>826</b> in a card <b>802</b> has a different chromatic value (shade) within the color family. For example, in card <b>802</b> color <b>822</b> may have a medium chromatic value, color <b>824</b> may have a light chromatic value and color <b>826</b> may have a deep chromatic value. The order in which the light, medium, and deep main colors are arranged may vary from combination cards to combination card. For instance, in card <b>804</b> color <b>828</b> may have a light chromatic value, color <b>830</b> may have a deep chromatic value, and color <b>832</b> may have a medium chromatic value. Similarly, in card <b>806</b> color <b>834</b> may have a deep chromatic value, color <b>830</b> may have a medium chromatic value, and color <b>832</b> may have a light chromatic value. Such rotation of the order of the relative chromatic values for the main colors in each color scheme is intended to generate aesthetically pleasing color scheme combinations. In another embodiment of the invention, the main colors within a combination style card may vary according to their relative hue angle instead of their relative chromatic values.</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIGS. 9-11</figref> similarly illustrate combination style cards having various color schemes and associated sample rooms. In one implementation of the invention, combination style cards <b>902</b>, <b>904</b>, and <b>906</b> in <figref idref="DRAWINGS">FIG. 9</figref> may be arranged at the locations corresponding to cards <b>436</b>, <b>438</b> and <b>440</b> in <figref idref="DRAWINGS">FIG. 4</figref>, respectively; combination style cards <b>1002</b>, <b>1004</b>, and <b>1006</b> in FIG. may be arranged at the locations corresponding to cards <b>442</b>, <b>444</b> and <b>446</b> in <figref idref="DRAWINGS">FIG. 4</figref>, respectively; and combination style cards <b>1102</b>, <b>1104</b>, and <b>1106</b> may be arranged at the locations corresponding to cards <b>448</b>, <b>450</b> and <b>452</b> in <figref idref="DRAWINGS">FIG. 4</figref>, respectively.</p>
+<p id="p-0056" num="0055">As previously mentioned, a user may also wish to select color schemes having different main colors or running across two or more columns of a two-dimensional color display. One embodiment of the invention arranges combination style cards in such a way that a user can select from coordinating color schemes across different base hues. A user may find color scheme suggestions for every room or environment of a convention home by browsing the combination style cards across a given row of a two-dimensional color display. For instance, a user may find harmonious color combination schemes by browsing cards <b>432</b>, <b>438</b> and <b>444</b> in <figref idref="DRAWINGS">FIG. 4</figref>.</p>
+<p id="p-0057" num="0056">In one implementation of the invention, card <b>804</b> in <figref idref="DRAWINGS">FIG. 8</figref>, card <b>904</b> in <figref idref="DRAWINGS">FIG. 9</figref>, and card <b>1004</b> in <figref idref="DRAWINGS">FIG. 10</figref> correspond to cards <b>432</b>, <b>438</b>, and <b>444</b>, in <figref idref="DRAWINGS">FIG. 4</figref>, respectively. A user may find red-based color schemes and samples of a dining room <b>840</b>, living room <b>842</b> and hall <b>844</b>, orange-based color schemes and samples of a den <b>908</b>, kitchen <b>910</b>, and study <b>912</b>, and yellow-based color schemes and samples of a bedroom <b>1008</b>, bathroom <b>1010</b>, and den <b>1012</b>. Similarly, a user may browse across any of the other rows of a two-dimensional color display to find color schemes and suggestive samples for the various rooms and environments of a home.</p>
+<p id="p-0058" num="0057">According to one implementation of the invention, the sample rooms and environments may repeat every three columns. For example, card <b>804</b> in <figref idref="DRAWINGS">FIG. 8</figref>, which may correspond to the first column card location <b>432</b> in <figref idref="DRAWINGS">FIG. 4</figref>, and card <b>1104</b> in <figref idref="DRAWINGS">FIG. 11</figref>, which may correspond to the fourth column card location <b>450</b> in <figref idref="DRAWINGS">FIG. 4</figref>, both have a sample hall <b>844</b> and <b>1108</b>, sample living room <b>842</b> and <b>1112</b> and sample dining room <b>840</b> and <b>1110</b>. Thus, in <figref idref="DRAWINGS">FIG. 4</figref>, a user may also select combination cards <b>440</b>, <b>446</b> and <b>452</b>, for example, to create a harmonious color scheme across different rooms and using different base hues. Typically, when selecting color schemes having different base hues, it is preferable to select combination style cards that have adjacent or neighboring base colors as their main color since this tends to improve the harmony between color schemes.</p>
+<p id="p-0059" num="0058">In other implementations of the invention combination style cards, a combination style card may have one or more color schemes and/or sample rooms without departing from the invention.</p>
+<p id="p-0060" num="0059">While certain exemplary embodiments have been described and shown in the accompanying drawings, it is to be understood that such embodiments are merely illustrative of and not restrictive on the broad invention, and that this invention not be limited to the specific constructions and arrangements shown and described, since various other modifications are possible. Those skilled, in the art will appreciate that various adaptations and modifications of the just described preferred embodiment can be configured without departing from the scope and spirit of the invention. Therefore, it is to be understood that, within the scope of the appended claims, the invention may be practiced other than as specifically described herein.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An apparatus comprising:
+<claim-text>a two-dimensional paint sample card display unit adapted for displaying physical color sample cards in a plurality of columns and rows;</claim-text>
+<claim-text>a first plurality of physical paint sample cards arranged on the display unit according to groups of different hue and chroma with the paint colors on the physical paint sample cards varying in hue, in a first direction, and varying in chroma, in a second direction; and</claim-text>
+<claim-text>one or more physical color combination paint sample cards disposed adjacent to each group of different hue and chroma physical paint sample cards, each physical color combination paint sample card containing a plurality of paint samples having the same base hue as the hue of the group it is adjacent to, and a picture of a building or a room painted with the plurality of colors on the physical color combination paint sample card.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the size of the paint sample on the physical combination paint sample card varies in size according to the area painted in the picture with this color.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising:
+<claim-text>a second plurality of physical paint color sample cards disposed adjacent to the first plurality of physical paint sample cards, based on expert human input.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The apparatus of <claim-ref idref="CLM-00003">claim 3</claim-ref> further comprising:
+<claim-text>a third plurality of physical paint sample cards arranged in groups, each group adjacent to a group in the first plurality of physical paint sample cards, the third plurality of physical paint sample cards having white paint of similar tint as the paint sample on the groups of the first plurality of physical paint sample cards it is adjacent to.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>
+<claim-text>wherein the first plurality of physical paint sample cards are arranged in columns in the two-dimensional display unit, with the most chromatic physical paint sample card at the top of the column, with gradually decreasing chromatic physical paint sample cards below to the least chromatic at the bottom of the column.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein each of the first plurality of physical paint sample cards carries two or more paint colors of similar hue that have varying chromatic values.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein
+<claim-text>the groups of different hue and chroma are arranged according to either ascending or descending hue value in a first dimension, and according to either ascending or descending chromatic value in a second dimension of the display unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein each color combination physical paint card comprises a single card that includes a base hue sample and a plurality of complementary color samples arranged adjacent to the base hue sample.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The apparatus of <claim-ref idref="CLM-00008">claim 8</claim-ref> wherein the base hue sample is larger in size than the complementary color samples.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The apparatus of <claim-ref idref="CLM-00008">claim 8</claim-ref> wherein at least one of the complementary color samples comprises one white color sample selected from a plurality of white colors.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein each physical color combination card comprises a single card that includes a base hue sample and a plurality of complementary color samples arranged adjacent to the base hue sample.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The apparatus of <claim-ref idref="CLM-00011">claim 11</claim-ref> wherein the base hue sample is larger in size than the complementary color samples.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The apparatus of <claim-ref idref="CLM-00011">claim 11</claim-ref> wherein at least one of the complementary color samples comprises one white color sample selected from a plurality of white colors.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. A paint sample display unit comprising:
+<claim-text>a two-dimensional paint sample card display unit adapted for displaying physical color sample cards in a plurality of columns and rows;</claim-text>
+<claim-text>a first plurality of physical paint sample cards, each physical paint sample card carrying a paint color of similar hue but different chroma to every other physical paint sample card of the first plurality, the first plurality of physical paint sample cards with similar hue being arranged in a first column of the paint sample card display unit, from most chromatic to least chromatic;</claim-text>
+<claim-text>a second plurality of physical paint sample cards carrying a paint color of similar hue but different chroma to every other physical paint sample card of the second plurality, the second plurality of physical paint sample cards being arranged in a second column of the paint sample card display unit, from most chromatic to least chromatic; and</claim-text>
+<claim-text>one or more physical color combination paint sample cards adjacent to each chromatic group of the first plurality of physical paint sample cards and the second plurality of physical paint sample cards, each physical color combination sample card containing a plurality of paint samples having the same base hue as the hue of the group it is adjacent to and a picture of a building or room painted with the plurality of paint sample colors on the physical color combination paint sample card.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The paint sample display unit of <claim-ref idref="CLM-00014">claim 14</claim-ref> wherein each of the first plurality of physical paint sample cards carries two or more paint colors of similar hue but having varying chromatic value.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. An apparatus comprising:
+<claim-text>a two-dimensional paint sample card display unit adapted for displaying physical color sample cards in a plurality of columns and rows;</claim-text>
+<claim-text>a first plurality of physical paint sample cards arranged on the display unit according to groups of different hue and chroma so that the paint colors displayed on the physical paint sample cards vary in hue in a first direction and vary in chroma in a second direction; and</claim-text>
+<claim-text>one or more physical color combination style cards disposed adjacent to each group of different hue and chromatic physical paint sample cards, each physical color combination style card having a tri-fold card with three separate sections, each separate section containing a plurality of paint samples having the same base hue as the hue of the group the tri-fold card is adjacent to, and a picture of a room painted with the plurality of paint sample colors on the section, each section of the tri-fold card having a picture of a different room.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The apparatus of <claim-ref idref="CLM-00016">claim 16</claim-ref> wherein the size of the paint sample on each separate section of the tri-fold card varies in size according to the size of the area painted in the picture with the respective paint sample.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The apparatus of <claim-ref idref="CLM-00016">claim 16</claim-ref> further comprising:
+<claim-text>a second plurality of physical paint color sample cards disposed adjacent to the first plurality of physical paint sample cards based on expert human input.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The apparatus of <claim-ref idref="CLM-00018">claim 18</claim-ref> further comprising:
+<claim-text>a third plurality of physical paint sample cards arranged in groups, each group adjacent to a group in the first plurality of physical paint sample cards, the third plurality of physical paint sample cards having white paint of tint similar to that of the paint samples on the adjacent group of first plurality of physical paint sample cards.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The apparatus of <claim-ref idref="CLM-00016">claim 16</claim-ref>
+<claim-text>wherein the first plurality of physical paint sample cards are arranged in columns in the two-dimensional display unit, with the most chromatic physical paint sample card at the top of the column, with gradually decreasing chromatic physical paint sample cards progressing to the least chromatic at the bottom of the column.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The apparatus of <claim-ref idref="CLM-00016">claim 16</claim-ref> wherein
+<claim-text>the groups of different hue and chroma are arranged according to ascending or descending hue value in a first dimension and according to either ascending or descending chromatic value in a second dimension of the display unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. A physical paint sample display unit having at least two dimensions, comprising:
+<claim-text>a first plurality of physical paint sample cards, each of the plurality of physical paint sample cards having one or more paint colors displayed thereon, the one or more colors being selected and positioned such that the first plurality of physical paint sample cards are arranged adjacent one another such that the colors thereon vary in hue in a first direction and vary in chroma in a second direction; and</claim-text>
+<claim-text>one or more physical color combination paint sample cards arranged adjacent to a first selected group of said physical paint sample cards, each physical color combination paint sample card containing a plurality of paint samples, each paint sample having a respective color, one of the paint samples having a hue which is the same as a base hue of the first selected group of said physical paint sample cards, each respective physical color combination paint sample card further having a picture of a building or a room painted with each of the plurality of respective colors of each of the paint samples on that respective physical color combination paint sample card.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The display unit of <claim-ref idref="CLM-00022">claim 22</claim-ref> wherein the picture of a building or room on one of said physical color combination paint sample cards has a plurality of areas of selected size, each area painted with a respective one of the colors on the physical color combination paint sample card and wherein the respective size of each paint sample on the physical combination paint sample card varies according to the size of the area painted in the picture with the respective color.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The display unit of <claim-ref idref="CLM-00022">claim 22</claim-ref> further comprising:
+<claim-text>a second plurality of physical paint color sample cards disposed adjacent to the first plurality of physical paint color sample cards, based on expert human input.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The display unit of <claim-ref idref="CLM-00022">claim 22</claim-ref>
+<claim-text>wherein the first plurality of physical paint sample cards are arranged in a first plurality of columns in the display unit; each column being associated with a selected hue, said first plurality of sample cards further being arranged such that a sample card having a higher chroma is positioned in each respective column above a sample card in that respective column having a lower chroma.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. The display unit of <claim-ref idref="CLM-00025">claim 25</claim-ref> further comprising
+<claim-text>a second plurality of physical paint sample cards disposed in a column adjacent said first plurality of columns based on expert human input.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text>27. The display unit of <claim-ref idref="CLM-00025">claim 25</claim-ref>
+<claim-text>wherein a third plurality of physical paint sample cards are arranged adjacent to a second selected group of the first plurality of physical paint sample cards, each of the third plurality of physical paint sample cards bearing a sample of white paint, each sample of white paint having a tint similar to that of a respective paint sample present on one of the sample cards of said second selected group.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text>28. The display unit of <claim-ref idref="CLM-00027">claim 27</claim-ref> wherein each of the sample cards in said second selected group lies in a common row.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text>29. The display unit of <claim-ref idref="CLM-00027">claim 27</claim-ref>
+<claim-text>wherein one or more physical color combination style cards are arranged adjacent to a third selected group of said paint color sample cards, each color combination style card being a tri-fold card with three separate sections, each separate section containing a plurality of paint samples of a hue the same as a base hue of the third selected group, each separate section further including a picture painted with the plurality of paint sample colors contained in that separate section.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text>30. The display unit of <claim-ref idref="CLM-00022">claim 22</claim-ref> wherein each of the first plurality of physical paint sample cards carries two or more paint colors, each said paint color having a chromatic value which is different than that of each other said paint color.</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text>31. The display unit of <claim-ref idref="CLM-00022">claim 22</claim-ref>
+<claim-text>wherein one or more physical color combination style cards are arranged adjacent to a third selected group of said paint color sample cards, each color combination style card being a tri-fold card with three separate sections, each separate section containing a plurality of paint samples of a hue the same as a base hue of the third selected group, each separate section further including a picture painted with the plurality of paint sample colors contained in that separate section.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00032" num="00032">
+<claim-text>32. The display unit of <claim-ref idref="CLM-00022">claim 22</claim-ref> further comprising:
+<claim-text>a third plurality of physical paint sample cards arranged adjacent to a second selected group of the first plurality of physical paint sample cards, each of the third plurality of physical paint sample cards bearing a sample of white paint, each sample of white paint having a tint similar to that of a respective paint sample present on one of the sample cards of said second selected group. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,2522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641727-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641727</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10551367</doc-number>
+<date>20040325</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2003-095668</doc-number>
+<date>20030331</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>476</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>04</class>
+<subclass>B</subclass>
+<main-group>14</main-group>
+<subgroup>48</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>106 315</main-classification>
+</classification-national>
+<invention-title id="d0e71">Electrode level difference absorbing print paste and method of producing electronic device</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5429846</doc-number>
+<kind>A</kind>
+<name>Sugimoto et al.</name>
+<date>19950700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>428 344</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6599463</doc-number>
+<kind>B2</kind>
+<name>Miyazaki et al.</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>264614</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2001/0006451</doc-number>
+<kind>A1</kind>
+<name>Miyazaki et al.</name>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>GB</country>
+<doc-number>2 357 280</doc-number>
+<kind>A</kind>
+<date>20010600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>GB</country>
+<doc-number>2 370 568</doc-number>
+<kind>A</kind>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>GB</country>
+<doc-number>370 569</doc-number>
+<kind>A</kind>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>JP</country>
+<doc-number>A 56-94719</doc-number>
+<date>19810700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>JP</country>
+<doc-number>A 3-74820</doc-number>
+<date>19910300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>JP</country>
+<doc-number>A 6-206756</doc-number>
+<date>19940700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>JP</country>
+<doc-number>A 9-106925</doc-number>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>JP</country>
+<doc-number>A 10-67567</doc-number>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>JP</country>
+<doc-number>A 2001-232617</doc-number>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>JP</country>
+<doc-number>A 2001-237140</doc-number>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>JP</country>
+<doc-number>A 2002-43161</doc-number>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>JP</country>
+<doc-number>A 2002-43164</doc-number>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>JP</country>
+<doc-number>A 2002-313672</doc-number>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>5</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>428 344</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>264614</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>8</number-of-drawing-sheets>
+<number-of-figures>18</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060191443</doc-number>
+<kind>A1</kind>
+<date>20060831</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Yamaguchi</last-name>
+<first-name>Akira</first-name>
+<address>
+<city>Chuo-ku</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Satou</last-name>
+<first-name>Shigeki</first-name>
+<address>
+<city>Chuo-ku</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Tokuoka</last-name>
+<first-name>Yasumichi</first-name>
+<address>
+<city>Chuo-ku</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Oliff &#x26; Berridge, PLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>TDK Corporation</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>King</last-name>
+<first-name>Roy</first-name>
+<department>1793</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Takeuchi</last-name>
+<first-name>Yoshitoshi</first-name>
+</assistant-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2004/004144</doc-number>
+<kind>00</kind>
+<date>20040325</date>
+</document-id>
+<us-371c124-date>
+<date>20051115</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2004/087608</doc-number>
+<kind>A </kind>
+<date>20041014</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A production method of an electronic device comprising the steps of forming a stacked body by stacking green sheets and electrode layers having a predetermined pattern and firing the stacked body. Before forming the stacked body, a blank pattern layer is formed on a space portion of the electrode layer having a predetermined pattern. The electrode level difference absorbing print paste for forming the blank pattern layer includes at least ceramic powder and a binder resin, and a polymerization degree of the binder resin is made equal to or more than that of a binder resin included in slurry for forming the green sheet. The binder resin of the electrode level difference absorbing print paste includes polyvinyl butyral resin with a polymerization degree of 1400 or more, a butyralation degree of 64 to 74 mol % and an acetalization degree of 66 to 74 mol %.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="120.14mm" wi="124.71mm" file="US07641727-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="153.50mm" wi="125.14mm" file="US07641727-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="205.99mm" wi="121.07mm" file="US07641727-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="202.61mm" wi="107.27mm" file="US07641727-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="199.05mm" wi="117.94mm" file="US07641727-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="226.74mm" wi="110.91mm" file="US07641727-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="233.76mm" wi="117.18mm" file="US07641727-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="165.95mm" wi="112.35mm" file="US07641727-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="185.42mm" wi="128.86mm" file="US07641727-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates to a production method of an electronic device, such as a multilayer ceramic capacitor.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0003" num="0002">In recent years, as a variety of electronic equipments become compact, electronic devices to be installed inside the electronic equipments have become more compact and higher in performance. As one of the electronic devices, there is a ceramic electronic device, such as a CR built-in substrate and a multilayer ceramic capacitor, and the ceramic electronic devices have been required to be more compact and higher in performance.</p>
+<p id="p-0004" num="0003">To pursue a more compact ceramic electronic device having a higher capacity, there is a strong demand for making a dielectric layer thinner. Recently, a thickness of a dielectric green sheet composing a dielectric layer has become a several &#x3bc;m or less.</p>
+<p id="p-0005" num="0004">To produce a multilayer ceramic capacitor, an interlayer thickness of a sheet formed with an internal electrode is in a range of about 3 &#x3bc;m to 100 &#x3bc;m based on a desired capacitance required as a capacitor. Also, in a multilayer ceramic capacitor, a part not formed with the internal electrode is formed on an outer part in the stacking direction of the capacitor chip.</p>
+<p id="p-0006" num="0005">In recent years, as electronic equipments become more compact, electronic devices to be used therein have rapidly become more compact. In multilayer electronic devices as typified by a multilayer ceramic capacitor, rapid development has been made on increasing the number of layers to be stacked and attaining a thinner interlayer thickness. To respond to the technical trends, a thickness of a green sheet, which determines the interlayer thickness, has almost become 3 &#x3bc;m or less to 2 &#x3bc;m or less. Therefore, in a production process of a multilayer ceramic capacitor, it is necessary to handle extremely thin green sheets and to design very advanced green sheet properties.</p>
+<p id="p-0007" num="0006">As characteristics required as the properties of such an extremely thin green sheet, sheet strength, flexibility, smoothness, adhesiveness when being stacked, handlability (electrostatic property), etc. may be mentioned, and balance of a higher order is required.</p>
+<p id="p-0008" num="0007">Also, when alternately stacking green sheets and internal electrode layers as in a multilayer ceramic capacitor, the internal electrode layers in a predetermined pattern sandwiched by green sheets are formed with a space (blank pattern) where an electrode is not formed. Due to the blank pattern, there arises a level difference from portions where the internal electrode layer exists, consequently, delamination between sheets and deformation of a stacked body, etc. become problems. To solve the problems, as disclosed in the Japanese Unexamined Patent Publication No. 56-94719, the Japanese Unexamined Patent Publication No. 3-74820, the Japanese Unexamined Patent Publication No. 9-106925 and the Japanese Unexamined Patent Publication No. 2001-237140, a method of forming a pattern layer made by the same dielectric paste as that of the green sheets on the blank pattern portions not formed with the internal electrode has been proposed.</p>
+<p id="p-0009" num="0008">However, in recent years, a thickness of the internal electrode is demanded to be 1 &#x3bc;m or less due to a more compact electronic device with a larger capacity, so that a thickness of the blank pattern is also demanded to be 1 &#x3bc;m or less.</p>
+<p id="p-0010" num="0009">When forming an extremely thin pattern layer made by a dielectric paste on the blank pattern portion not formed with internal electrodes, it is sufficient if a content of ceramic powder is reduced in the dielectric paste. However, in this case, viscosity of the dielectric paste extremely declines, so that there arises a problem that the paste flows out from a mesh of a print plate making and printing in a predetermined pattern becomes impossible. Also, to make up for the decline of the viscosity, it may be considered to increase an amount of an organic binder included in the paste. However, in this case, there is a problem that delamination, etc. arises between sheets when performing binder removal on the stacked body.</p>
+<p id="p-0011" num="0010">Furthermore, in the case of forming an extremely thin blank pattern, when a conventionally general ethyl cellulose based resin is used as the binder resin of the paste, there are also problems that the strength declines and adhesive force declines as the layer becomes thinner as the layer becomes thinner.</p>
+<heading id="h-0003" level="1">DISCLOSURE OF THE INVENTION</heading>
+<p id="p-0012" num="0011">An object of the present invention is to provide an electrode level difference absorbing print paste (a paste for forming a blank pattern) for printing a thin film, capable of forming a print material having excellent mechanical strength and adhesiveness. Specifically, an object of the present invention is to provide an electrode level difference absorbing print paste capable of preferably eliminate a level difference of an electrode layer between green sheets and effectively preventing delamination between sheets and deformation of a stacked body even when a thickness of the green sheet and/or electrode layer is extremely thin, and a method of producing an electronic device. Furthermore, an object of the present invention is to provide an electrode level difference absorbing print paste for forming a blank pattern having excellent adhesiveness particularly when forming a stacked body of green sheets and electrode layers by a transfer method.</p>
+<p id="p-0013" num="0012">The present inventors have been committed themselves to study to attain the above objects, found that it was possible to preferably eliminate a level difference of an electrode layer between green sheets and prevent delamination between sheets and deformation of a stacked body, etc. even when a thickness of the green sheet and/or electrode layer is extremely thin by making a polyvinyl butyral resin having a certain polymerization degree contained in a paste used for forming a blank pattern layer of an internal electrode layer as a binder resin, and completed the present invention.</p>
+<p id="p-0014" num="0013">Namely, an electrode level difference absorbing print paste according to the present invention is characterized by including</p>
+<p id="p-0015" num="0014">ceramic powder, a binder resin, a plasticizer and a solvent, wherein</p>
+<p id="p-0016" num="0015">the binder resin contains a polyvinyl butyral resin or a polyacetal resin, a polymerization degree of the resin is 1400 or more, a butyralation degree of the resin is 64 to 74 mol %, and an acetalization degree of the resin is 66 to 74 mol %.</p>
+<p id="p-0017" num="0016">According to the electrode level difference absorbing print paste according to the present invention, it becomes possible to preferably print even an extremely thin blank pattern layer without extremely declining viscosity of the electrode level difference absorbing print paste. Also, it is not necessary to increase an amount of a binder resin included in the electrode level difference absorbing print paste, so that there is a low possibility of causing delamination between sheets, etc. at the time of binder removal of the stacked body.</p>
+<p id="p-0018" num="0017">Preferably, a polymerization degree of a binder resin included in the electrode level difference absorbing-print paste is 1400 or more, more preferably 1700 or more, and particularly preferably 2000 or more. By using a binder resin having a polymerization degree as such, strength of a blank pattern layer is improved, strength of an electrode added sheet as a whole is improved, and handlability can be widely improved. Note that the upper limit of the polymerization degree of the binder resin is not particularly limited but is, for example, 3300 or so.</p>
+<p id="p-0019" num="0018">In the paste of the present invention, when a polymerization degree of the binder resin is too low, it is liable that viscosity of the electrode level difference absorbing print paste extremely declines and printing of an extremely thin blank pattern layer becomes difficult.</p>
+<p id="p-0020" num="0019">In the paste of the present invention, when the butyralation degree of the binder resin is too low, it is liable that the resin becomes hard to be dissolved and surface roughness after printing deteriorates, while when the butyralation degree is too high, it is liable that viscosity of the paste declines and printing becomes difficult.</p>
+<p id="p-0021" num="0020">In the paste of the present invention, when the acetalization degree of a binder resin is too high, it is liable that the resin becomes hard to be dissolved and surface roughness after printing deteriorates, while when the acetalization degree is too low, it is liable that viscosity of the paste declines and printing becomes difficult.</p>
+<p id="p-0022" num="0021">Preferably, the binder resin is contained by 3 parts by weight or more and 9 parts by weight or less, and more preferably 4 to 8 parts by weight with respect to 100 parts by weight of the ceramic powder.</p>
+<p id="p-0023" num="0022">When a content of the binder resin is too large, it is liable that applied film density after printing becomes low and thin film printing becomes difficult, while when the content is too low, it is liable that strength of the applied film after printing declines and handlability declines.</p>
+<p id="p-0024" num="0023">Preferably, the solvent contains at least one of terpineol, dihydroterpineol, terpinyl acetate, dihydroterpinyl acetate and 4-(1&#x2032;-acetoxy-1&#x2032;-)cyclohexanol acetate.</p>
+<p id="p-0025" num="0024">Preferably, the solvent is contained by 20 to 80 parts by weight, and more preferably 50 to 70 parts by weight or so with respect to a total amount of 100 parts by weight of the paste.</p>
+<p id="p-0026" num="0025">When the solvent amount is too small, it is liable that the binder resin becomes hard to be dissolved, while when the solvent amount is too large, it is liable that viscosity and printing becomes difficult.</p>
+<p id="p-0027" num="0026">Preferably, viscosity of the electrode level difference absorbing print paste when giving rotation of obtaining a shear rate of 8[1/s] is 4 to 30 Pa&#xb7;s at 25&#xb0; C., and more preferably 4 to 20. When viscosity of the paste is too low, printing tends to become difficult.</p>
+<p id="p-0028" num="0027">Preferably, ceramic powder is contained in the electrode level difference absorbing print paste at a rate of 30 to 55 wt %, more preferably 35 to 50 wt % with respect to the entire paste. When the content ratio of the ceramic powder is too small, viscosity of the paste becomes low, blur of printing, etc. arise and printing tends to become difficult. Also, when the content ratio of the ceramic powder is too large, it is liable that a print thickness becomes hard to be made thin.</p>
+<p id="p-0029" num="0028">Note that it is preferable to change the containing ratio of ceramic powder in accordance with a polymerization degree of the binder resin. For example, 36 to 55 wt % is preferable when the polymerization degree is 1400 to 1500, 36 to 55 wt % is preferable when the polymerization degree is 1500 to 1600, 36 to 52 wt % is preferable when the polymerization degree is 1600 to 1800, 32 to 48 wt % is preferable when the polymerization degree is 1800 to 2200, 32 to 45 wt % is preferable when the polymerization degree is 2200 to 2600, and 30 to 40 wt % is preferable when the polymerization degree is 2600 or more. As above, as the polymerization degree of the binder resin becomes high, the preferable range of the containing ratio of the ceramic powder tends to shift to the lower side.</p>
+<p id="p-0030" num="0029">Preferably, at least one of phthalate ester [dibutyl phthalate (DBP), dioctyl phthalate (DOP), benzylbutyl phthalate (BBP), butyl butylene glycol (BPBG)], adipic acid ester [dioctyl adipic acid (DOA)], sebacic acid ester and sebacic dibutyl is contained as the plasticizer. Among them, DBP, DOP and BBP are particularly preferable.</p>
+<p id="p-0031" num="0030">Preferably, in the electrode level difference absorbing print paste, the plasticizer is contained by preferably 10 to 200 parts by weight, more preferably 20 to 150 parts by weight, furthermore preferably 30 to 100 parts by weight, and particularly preferably 50 to 100 parts by weight with respect to 100 parts by weight of a binder resin.</p>
+<p id="p-0032" num="0031">When a content of the plasticizer is too small, a removing trouble (breaking) tends to arise, while when too large, it remains as a nonvolatile component on the applied film and rolling up of the printed matter tends to become difficult.</p>
+<p id="p-0033" num="0032">Preferably, in the electrode level difference absorbing print paste, at least one of a hygroscopic polymer, cation based surfactant (amine based surfactant) and amphoteric surfactant is included as an antistatic agent. As a hygroscopic polymer, ethylene glycol (EG), polyethylene glycol (PEG) and glycerin, etc. may be mentioned.</p>
+<p id="p-0034" num="0033">As a result that an antistatic agent is contained in the paste of the present invention, static electricity hardly arises and a removing trouble (breaking and bending, etc.) hardly arises when removing a molded sheet from a supporting sheet.</p>
+<p id="p-0035" num="0034">A production method of an electronic device according to a first aspect of the present invention is characterized by comprising the steps of:</p>
+<p id="p-0036" num="0035">forming a stacked body by stacking green sheets and electrode layers having a predetermined pattern; and</p>
+<p id="p-0037" num="0036">firing the stacked body;</p>
+<p id="p-0038" num="0037">wherein
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0038">before forming the stacked body, a blank pattern layer having a substantially the same thickness as that of the electrode layer is formed a space portion of the electrode layer having a predetermined pattern is formed; and</li>
+        <li id="ul0002-0002" num="0039">the electrode level difference absorbing print paste as set forth in any one of the above is used as an electrode level difference absorbing print paste for forming the blank pattern layer.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0039" num="0040">A production method of an electronic device according to a second aspect of the present invention is characterized by comprising the steps of:</p>
+<p id="p-0040" num="0041">forming a stacked body by stacking green sheets and electrode layers having a predetermined pattern; and</p>
+<p id="p-0041" num="0042">firing the stacked body;
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0043">wherein before forming the stacked body, a blank pattern layer having a substantially the same thickness as that of the electrode layer is formed on a space portion of the electrode layer having a predetermined pattern;</li>
+        <li id="ul0004-0002" num="0044">the electrode level difference absorbing print paste for forming the blank pattern layer includes at least ceramic powder and a binder resin; and</li>
+        <li id="ul0004-0003" num="0045">a polymerization degree of the binder resin included in the electrode level difference absorbing print paste is equal to or higher than that of a binder resin included in slurry for forming the green sheet.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0042" num="0046">Preferably, ceramic powder included in the electrode level difference absorbing print paste is the same as ceramic powder included in slurry for forming the green sheet. It is because the blank pattern layer is a portion to be integrated with the green sheets after firing.</p>
+<p id="p-0043" num="0047">Preferably, the binder resin included in the electrode level difference absorbing print paste and the binder resin included in slurry for forming the green sheets are the same kind. Due to this, an improvement of adhesiveness between the green sheets and setting of a condition of binder removal processing become easy.</p>
+<p id="p-0044" num="0048">Preferably, the binder resin included in slurry for forming the green sheet includes polyvinyl butyral resin, a polymerization degree of the polyvinyl butyral resin is 1000 or more and 3300 or less, a butyralation degree of the resin is more than 64% and less than 78%, and a residual acetyl group amount is less than 6%.</p>
+<p id="p-0045" num="0049">When the polymerization degree of the polyvinyl butyral resin is too low, it is liable that sufficient mechanical strength as a green sheet is hard to be obtained when made to be a thin layer. Also, when the polymerization degree is too high, surface roughness tends to deteriorate when made to be a sheet. Also, when the butyralation degree of the polyvinyl butyral resin is too low, solubility to the paste tends to decline, while when too high, the sheet surface roughness tends to deteriorate. Furthermore, when a residual acetyl group amount is too much, the sheet surface roughness tends to deteriorate.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0046" num="0050">Below, the present invention will be explained based on embodiments shown in drawings.</p>
+<p id="p-0047" num="0051"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic sectional view of a multilayer ceramic capacitor as an embodiment of an electronic device according to the present invention;</p>
+<p id="p-0048" num="0052"><figref idref="DRAWINGS">FIG. 2A</figref> to <figref idref="DRAWINGS">FIG. 2C</figref> and <figref idref="DRAWINGS">FIG. 3A</figref> to <figref idref="DRAWINGS">FIG. 3C</figref> are sectional views of a key part showing a transfer method of an electrode layer;</p>
+<p id="p-0049" num="0053"><figref idref="DRAWINGS">FIG. 4A</figref> to <figref idref="DRAWINGS">FIG. 4C</figref>, <figref idref="DRAWINGS">FIG. 5A</figref> to <figref idref="DRAWINGS">FIG. 5C</figref>, <figref idref="DRAWINGS">FIG. 6A</figref> to <figref idref="DRAWINGS">FIG. 6C</figref>, <figref idref="DRAWINGS">FIG. 7</figref> and <figref idref="DRAWINGS">FIG. 8</figref> are sectional views of a key part showing a stacking method of a green sheet on which an electrode layer is adhered.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">BEST MODE FOR CARRYING OUT THE INVENTION</heading>
+<p id="p-0050" num="0054">First, as an embodiment of an electronic device according to the present invention, an overall configuration of a multilayer ceramic capacitor will be explained.</p>
+<p id="p-0051" num="0055">As shown in <figref idref="DRAWINGS">FIG. 1</figref>, a multilayer ceramic capacitor <b>2</b> according to the present embodiment comprises a capacitor element <b>4</b>, a first terminal electrode <b>6</b> and a second terminal electrode <b>8</b>. The capacitor element <b>4</b> comprises dielectric layers <b>10</b> and internal electrode layers <b>12</b>, and the internal electrode layers <b>12</b> are stacked alternately between the dielectric layers <b>10</b>. The alternately stacked internal electrode layers <b>12</b> on one side are electrically connected to inside of the first terminal electrode <b>6</b> formed outside of a first end portion of the capacitor element <b>4</b>. Also, the alternately stacked internal electrode layers <b>12</b> on the other side are electrically connected to inside of the second terminal electrode <b>8</b> formed outside of a second end portion of the capacitor element <b>4</b>.</p>
+<p id="p-0052" num="0056">In the present embodiment, an internal electrode layer <b>12</b> is formed by transferring an electrode layer <b>12</b><i>a </i>to a ceramic green sheet <b>10</b><i>a </i>as shown in <figref idref="DRAWINGS">FIG. 2</figref> to <figref idref="DRAWINGS">FIG. 6</figref> as will be explained later on.</p>
+<p id="p-0053" num="0057">A material of the dielectric layer <b>10</b> is not particularly limited and composed of a dielectric material, for example, calcium titanate, strontium titanate and/or barium titanate, etc. A thickness of each of the dielectric layers <b>10</b> is not particularly limited, but those having a thickness of several &#x3bc;m to several hundreds of &#x3bc;m are general. Particularly in the present embodiment, it is made to be thin as preferably 5 &#x3bc;m or less, more preferably 3 &#x3bc;m or less, and more preferably 1.5 &#x3bc;m or less.</p>
+<p id="p-0054" num="0058">A material of the terminal electrodes <b>6</b> and <b>8</b> is not particularly limited, either, and copper, a copper alloy, nickel and a nickel alloy, etc. are normally used. An alloy of gold and silver with palladium may be also used. A thickness of the terminal electrodes <b>6</b> and <b>8</b> is not particularly limited, either, but is normally 10 to 50 &#x3bc;m or so.</p>
+<p id="p-0055" num="0059">A shape and size of the multilayer ceramic capacitor <b>2</b> may be suitably determined in accordance with the object and use. When the multilayer ceramic capacitor <b>2</b> has a rectangular parallelepiped shape, it is normally a length (0.6 to 5.6 mm, preferably 0.6 to 3.2 mm)&#xd7;width (0.3 to 5.0 mm, preferably 0.3 to 1.6 mm)&#xd7;thickness (0.1 to 1.9 mm, preferably 0.3 to 1.6 mm) or so.</p>
+<p id="p-0056" num="0060">Next, an example of production methods of the multilayer ceramic capacitor <b>2</b> according to the present embodiment will be explained.</p>
+<p id="p-0057" num="0061">(1) First, green sheet slurry is prepared to produce a ceramic green sheet for composing the dielectric layers <b>10</b> shown in <figref idref="DRAWINGS">FIG. 1</figref> after firing.</p>
+<p id="p-0058" num="0062">Green Sheet Slurry</p>
+<p id="p-0059" num="0063">The green sheet slurry is composed of an organic solvent based paste obtained by kneading a dielectric material (ceramic powder) and an organic vehicle.</p>
+<p id="p-0060" num="0064">The dielectric material is suitably selected from a variety of compounds which become composite oxides or oxides, such as carbonates, nitrites, hydroxides, and organic metal compounds, and mixed for use. The dielectric material is normally used as powder having an average particle diameter of 0.4 &#x3bc;m or less, and preferably 0.1 to 3.0 &#x3bc;m or less or so. Note that it is preferable to use finer powder than the green sheet thickness to form an extremely thin green sheet.</p>
+<p id="p-0061" num="0065">The organic vehicle is obtained by dissolving a binder resin in an organic solvent. As the binder resin used for the organic vehicle, a polyvinyl butyral resin is used in the present embodiment. A polymerization degree of the polyvinyl butyral resin is 1000 or higher and 3000 or lower, and preferably 1400 to 1700. Also, a butyralation degree of the resin is 64% or higher and 78% or lower, and preferably 64% or higher and 70% or lower, and the residual acetyl group amount is less than 6% and preferably 3% or less.</p>
+<p id="p-0062" num="0066">The polymerization degree of the polyvinyl butyral resin can be measured, for example, by a polymerization degree of a polyvinyl acetal resin as a material. Also, the butyralation degree can be measured, for example, based on the JISK6728. Furthermore, the residual acetyl group amount can be measured based on the JISK6728.</p>
+<p id="p-0063" num="0067">When the polymerization degree of the polyvinyl butyral resin is too low, it is liable that sufficient mechanical strength is hard to be obtained when made to be a thin film of, for example, 5 &#x3bc;m or less, and preferably 3 &#x3bc;m or less or so. Also, when the polymerization degree is too large, surface roughness tends to decline when made to be a sheet. Also, when the butyralation degree of the polybutyral resin is too low, solubility in the slurry tends to decline, while when too high, sheet surface roughness tends to decline. Furthermore, when the residual acetyl group amount is too large, sheet surface roughness tends to decline. Note that the Japanese Patent application No. 2003-20167 filed prior to the present invention discloses examples showing it is preferable for a green sheet slurry that the polymerization degree, butyralation degree and residual acetyl group amount of the polyvinyl butyral resin are in the above rages.</p>
+<p id="p-0064" num="0068">An organic solvent to be used for an organic vehicle is not particularly limited and an organic solvent, such as terpineol, alcohol, butyl carbitol, acetone and toluene, is used. In the present embodiment, the organic solvent preferably contains an alcohol based solvent and an aromatic solvent, and the aromatic solvent is contained by 10 parts by weight or more and 20 parts by weight or less when assuming total weight of the alcohol based solvent and aromatic solvent is 100 parts by weight. When a content of the aromatic solvent is too small, sheet surface roughness tends to increase, while when too large, the paste filtration properties decline and sheet surface roughness also declines by increasing.</p>
+<p id="p-0065" num="0069">As an alcohol based solvent, methanol, ethanol, propanol and butanol, etc. may be mentioned. As an aromatic solvent, toluene, xylene and benzyl acetate, etc. may be mentioned.</p>
+<p id="p-0066" num="0070">It is preferable that a binder resin is dissolved in an alcohol based solvent of at least one kind of methanol, ethanol, propanol and butanol and filtered to be a solution in advance, and dielectric powder and other components are added to the solution. A binder resin having a high polymerization degree is hard to be dissolved in a solvent, and dispersibility of the slurry tends to decline in a normal method. In a method of the present embodiment, a binder resin having a high polymerization degree is dissolved in the above good solvent and ceramic powder and other components are added to the solution, so that dispersibility of the slurry can be improved and generation of undissolved resin can be suppressed. Note that solid content concentration cannot be raised and changes of lacquer viscosity tend to become large over time in the case of a solvent other than the above solvents.</p>
+<p id="p-0067" num="0071">In the green sheet slurry, additives selected from a variety of dispersants, plasticizers, antistatic agents, dielectrics, glass flit, and insulators may be included in accordance with need.</p>
+<p id="p-0068" num="0072">By using the green sheet slurry, for example as shown in <figref idref="DRAWINGS">FIG. 3A</figref>, a green sheet <b>10</b><i>a </i>is formed to be a thickness of preferably 0.5 to 30 &#x3bc;m, and more preferably 0.5 to 10 &#x3bc;m or so on a carrier sheet <b>30</b> as a second supporting sheet by the doctor blade method, etc. The green sheet <b>10</b><i>a </i>is dried after being formed on the carrier sheet <b>30</b>. The temperature for drying the green sheet <b>10</b><i>a </i>is preferably 50 to 100&#xb0; C. and the drying time is preferably 1 to 20 minutes. A thickness of the green sheet <b>10</b><i>a </i>after drying is contracted to 5 to 25% comparing with that before drying. The thickness of the green sheet after drying is preferably 3 &#x3bc;m or less.</p>
+<p id="p-0069" num="0073">(2) As shown in <figref idref="DRAWINGS">FIG. 2A</figref>, a carrier sheet <b>20</b> as a first supporting sheet is prepared separately from the above carrier sheet <b>30</b>, and a release layer <b>22</b> is formed thereon. Furthermore, on top thereof, an electrode layer <b>12</b><i>a </i>having a predetermined pattern is formed. On a surface of the release layer <b>22</b> where the electrode layer <b>12</b><i>a </i>is not formed, a blank pattern layer <b>24</b> having substantially the same thickness as that of the electrode layer <b>12</b><i>a </i>is formed.</p>
+<p id="p-0070" num="0074">As the carrier sheets <b>20</b> and <b>30</b>, for example, a PET film, etc. is used, and those coated with silicon, etc. are preferable to improve the release property. Thicknesses of the carrier sheets <b>20</b> and <b>30</b> are not particularly limited and are preferably 5 to 100 &#x3bc;m. The thicknesses of the carrier sheets <b>20</b> and <b>30</b> may be same or different.</p>
+<p id="p-0071" num="0075">Release Layer</p>
+<p id="p-0072" num="0076">The release layer <b>22</b> preferably contains the same dielectric powder as the dielectric composing the green sheet <b>10</b><i>a </i>shown in <figref idref="DRAWINGS">FIG. 3A</figref>. Also, the release layer <b>22</b> contains a binder, a plasticizer and a release agent other than the dielectric powder. A particle diameter of the dielectric powder may be the same as that of the dielectric particles included in the green sheet but it is preferable to be smaller.</p>
+<p id="p-0073" num="0077">In the present embodiment, a thickness t<b>2</b> of the release layer <b>22</b> is preferably not more than a thickness of the electrode layer <b>12</b><i>a</i>, and more preferably, it is set to be a thickness of 60% or less, and further preferably 30% or less.</p>
+<p id="p-0074" num="0078">A method of applying the release layer <b>22</b> is not particularly limited, but it has to be formed to be extremely thin, so that an applying method using, for example, a wire bar coater or a die coater is preferable. Note that adjustment of the release layer thickness can be made by selecting a wire bar coater having a different wire diameter. Namely, to make the thickness of the release layer to be applied thinner, it can be done by selecting one having a small wire diameter, inversely, to form it thick, one with a large wire diameter may be selected. The release layer <b>22</b> is dried after being applied. The drying temperature is preferably 50 to 100&#xb0; C. and the drying time is preferably 1 to 10 minutes.</p>
+<p id="p-0075" num="0079">A binder for the release layer <b>22</b> is composed, for example, of an acrylic resin, polyvinyl butyral, polyvinyl acetal, polyvinyl alcohol, polyolefin, polyurethane, polystyrene, or an organic composed of a copolymer of these or emulsion. The binder contained in the release layer <b>22</b> may be the same as the binder contained in the green sheet <b>10</b><i>a </i>or may be different from that, but preferably the same.</p>
+<p id="p-0076" num="0080">A plasticizer for the release layer <b>22</b> is not particularly limited and, for example, phthalate ester, dioctyl phthalate, adipic acid, phosphate ester and glycols, etc. may be mentioned. The plasticizer to be contained in the release layer <b>22</b> may be the same as that contained in the green sheet <b>10</b><i>a </i>or may be different from that.</p>
+<p id="p-0077" num="0081">A release agent for the release layer <b>22</b> is not particularly limited and, for example, paraffin, wax and silicone oil, etc. may be mentioned. A release agent contained in the release layer <b>22</b> may be the same as that contained in the green sheet <b>10</b><i>a </i>or may be different from that.</p>
+<p id="p-0078" num="0082">A binder is contained in the release layer <b>22</b> by preferably 2.5 to 200 parts by weight, more preferably 5 to 30 parts by weight, and particularly preferably 8 to 30 parts by weight or so with respect to 100 parts by weight of dielectric particle.</p>
+<p id="p-0079" num="0083">A plasticizer is preferably contained in the release layer <b>22</b> by 0 to 200 parts by weight, preferably 20 to 200 parts by weight, and more preferably 50 to 100 parts by weight with respect to 100 parts by weight of the binder.</p>
+<p id="p-0080" num="0084">A release agent is preferably contained in the release layer <b>22</b> by 0 to 100 parts by weight, preferably 2 to 50 parts by weight, and more preferably 5 to 20 parts by weight with respect to 100 parts by weight of the binder.</p>
+<p id="p-0081" num="0085">Electrode Layer</p>
+<p id="p-0082" num="0086">After forming the release layer <b>22</b> on the surface of the carrier sheet <b>30</b>, as shown in <figref idref="DRAWINGS">FIG. 2A</figref>, an electrode layer <b>12</b><i>a </i>to compose an internal electrode layer <b>12</b> after firing is formed to be a predetermined pattern on the surface of the release layer <b>22</b>. A thickness of the electrode layer <b>12</b><i>a </i>is preferably 0.1 to 2 &#x3bc;m, and more preferably 0.1 to 1.0 &#x3bc;m or so. The electrode layer <b>12</b><i>a </i>may be configured by a single layer or two or more layers having different compositions.</p>
+<p id="p-0083" num="0087">The electrode layer <b>12</b><i>a </i>can be formed on the surface of the release layer <b>22</b> by a thick film formation method, such as a printing method using an electrode paste, or a thin film method, such as evaporation and sputtering. When forming the electrode layer <b>12</b><i>a </i>on the surface of the release layer <b>22</b> by a screen printing method or a gravure printing method as a kind of thick film method, it is as follows.</p>
+<p id="p-0084" num="0088">First, an electrode paste is prepared. The electrode paste is fabricated by kneading a conductive material composed of a variety of conductive metals and alloys, or a variety of oxides, organic metal compounds or resinates, etc. to be conductive materials after firing with an organic vehicle.</p>
+<p id="p-0085" num="0089">As a conductive material to be used when producing the electrode paste, Ni, a Ni alloy and a mixture of these are used. A shape of the conductive materials is not particularly limited and may be a spherical shape and scale-like shape, etc. or a mixture of these shapes. Those having an average particle diameter of the conductive material of normally 0.1 to 2 &#x3bc;m, and preferably 0.2 to 1 &#x3bc;m or so may be used.</p>
+<p id="p-0086" num="0090">An organic vehicle contains a binder and a solvent. As the binder, for example, ethyl cellulose, an acrylic resin, polyvinyl butyral, polyvinyl acetal, polyvinyl alcohol, polyolefin, polyurethane, polystyrene, or a copolymer of these may be mentioned. Particularly, butyrals, such as polyvinyl butyral, are preferable.</p>
+<p id="p-0087" num="0091">The binder is contained in the electrode paste by preferably 2 to 10 parts by weight with respect to 100 parts by weight of the conductive material (metal powder). As a solvent, any of well-known ones, such as terpineol, butylcarbitol and kerosene, may be used. A content of the solvent is preferably 20 to 55 wt % or so with respect to the entire paste.</p>
+<p id="p-0088" num="0092">To improve the adhesiveness, the electrode paste preferably contains a plasticizer. As a plasticizer, benzylbutyl phthalate (BBP) and other phthalate esters, adipic acids, phosphoric esters, and glycols, etc. may be mentioned. The plasticizer in the electrode paste is preferably 10 to 300 parts by weight, and more preferably 10 to 200 parts by weight with respect to 100 parts by weight of the binder. Note that when an adding quantity of the plasticizer or adhesive is too large, it is liable that strength of the electrode layer <b>12</b><i>a </i>remarkably declines. Also, to improve transferability of the electrode layer <b>12</b><i>a</i>, it is preferable to improve adhesiveness and/or adherence of the electrode paste by adding a plasticizer and/or adhesive in the electrode paste.</p>
+<p id="p-0089" num="0093">Blank Pattern Layer</p>
+<p id="p-0090" num="0094">After or before forming an electrode paste layer in a predetermined pattern on a surface of the release layer <b>22</b> by the printing method, a blank pattern layer <b>24</b> having substantially the same thickness as that of the electrode layer <b>12</b><i>a </i>is formed on the surface of the release layer <b>22</b> not formed with the electrode layer <b>12</b><i>a. </i></p>
+<p id="p-0091" num="0095">The blank pattern layer <b>24</b> shown in <figref idref="DRAWINGS">FIG. 2A</figref> can be formed on the surface of the release layer <b>22</b> by a thick film formation method, such as a printing method using an electrode level difference absorbing print paste. When forming the blank pattern layer (<figref idref="DRAWINGS">FIG. 2A</figref>) on the surface of the release layer <b>22</b> by a screen method as one of the thick film formation methods, it is as below.</p>
+<p id="p-0092" num="0096">First, an electrode level difference absorbing print paste is prepared. The electrode level difference absorbing print paste is composed of an organic solvent based paste obtained by kneading a dielectric material (ceramic powder) and an organic vehicle.</p>
+<p id="p-0093" num="0097">A dielectric material to be used when producing the electrode level difference absorbing print paste is produced by using the same dielectric particles as that in the dielectric composing the green sheet <b>10</b><i>a </i>and dielectric having the same average particle diameter. The electrode level difference absorbing print paste contains 30 to 55 parts by weight, and more preferably 40 to 50 parts by weight of dielectric particles (ceramic powder) with respect to the entire paste. When a containing ratio of the ceramic powder is too small, the paste viscosity becomes small and printing becomes difficult. While, when the containing ratio of the ceramic powder is too large, it is liable that the printing thickness becomes hard to be made thin.</p>
+<p id="p-0094" num="0098">The organic vehicle contains a binder and a solvent. As the binder, for example, ethyl cellulose, an acrylic resin, polyvinyl butyral, polyvinyl acetal, polyvinyl alcohol, polyolefin, or a copolymer of these may be mentioned. Particularly, butyrals, such as polyvinyl butyral, are preferable.</p>
+<p id="p-0095" num="0099">The polymerization degree of the butyral based binder contained in the electrode level difference absorbing print paste is made to be equal to, preferably higher than that of a binder contained in slurry for forming the green sheet <b>10</b><i>a</i>. For example, when the polymerization degree of polyvinyl butyral as a binder contained in the green sheet slurry is polyvinyl butyral or polyvinyl acetal having a polymerization degree of 1000 to 1700, a binder contained in the electrode level difference absorbing print paste is 1400 or more, more preferably 1700 or more, and particularly preferable 2400 or more. Among them, polyvinyl acetal having a polymerization degree of 2000 or more is preferable.</p>
+<p id="p-0096" num="0100">When the binder of the electrode level difference absorbing print paste is polyvinyl butyral, the butyralation degree thereof is preferably in a range of 64 to 74 mol %. Also, in the case of polyvinyl acetal, the acetalization degree is preferably 66 to 74 mol %.</p>
+<p id="p-0097" num="0101">The binder is contained preferably by 3 to 9 parts by weight with respect to 100 parts by weight of a dielectric material in the electrode level difference absorbing print paste. More preferably, it is contained by 4 to 8 parts by weight.</p>
+<p id="p-0098" num="0102">As the solvent, for example, terpineol, dihydroterpineol, terpinyl acetate, dihydroterpinyl acetate, and 4-(1&#x2032; acetoxy-1&#x2032;)cyclohexanol acetate are preferably used. The solvent content is preferably 20 to 80 parts by weight, and more preferably 50 to 70 parts by weight with respect to the entire paste.</p>
+<p id="p-0099" num="0103">Also, the electrode level difference absorbing print paste may contain a variety of additives, such as dispersants, plasticizers, adhesives and antistatic agents.</p>
+<p id="p-0100" num="0104">As a dispersant, it is not particularly limited and, for example, ester based polymers, carboxylic acids and other polymer materials are used, and the content is preferably 0.25 to 1.5 parts by weight, and more preferably 0.5 to 1.0 part by weight with respect to 100 parts by weight of ceramic powder.</p>
+<p id="p-0101" num="0105">As a plasticizer, while not particularly limited, benzylbutyl phthalate (BBP) and other phthalate esters, adipic acids, phosphoric esters, and glycols, etc. may be mentioned. The content is preferably 10 to 200 parts by weight, more preferably, 20 to 150 parts by weight, and more preferably 30 to 100 parts, especially 50 to 100 parts by weight with respect to 100 parts by weight of the binder.</p>
+<p id="p-0102" num="0106">As an antistatic agent, it is not particularly limited but, for example, imidazoline based antistatic agent, etc. are used, and the content is preferably 0.1 to 0.75 part by weight, and more preferably 0.25 to 0.5 part by weight with respect to 100 parts by weight of the ceramic powder.</p>
+<p id="p-0103" num="0107">Viscosity of the electrode level difference absorbing print paste is preferably 4 to 30 Pa&#xb7;s, and more preferably 7 to 15 Pa&#xb7;s when being given rotation of obtaining a shear rate of 8[1/s]. When the paste viscosity becomes less than 4 Pa&#xb7;s, it is liable to cause a trouble that the paste flows out from a mesh of a printing plate making, and when 30 Pa&#xb7;s or more, it is liable that the leveling declines and a surface shape of the applied film becomes remarkably deteriorated.</p>
+<p id="p-0104" num="0108">The electrode level difference absorbing print paste is printed on a blank pattern portion between electrode layers <b>12</b><i>a </i>as shown in <figref idref="DRAWINGS">FIG. 2A</figref>. After that, the electrode layer <b>12</b><i>a </i>and the blank pattern layer <b>24</b> are dried in accordance with need. The drying temperature is not particularly limited, but is preferably 70 to 120&#xb0; C., and the drying time is preferably 1 to 10 minutes.</p>
+<p id="p-0105" num="0109">(3) As shown in <figref idref="DRAWINGS">FIG. 2A</figref>, an adhesive layer transfer sheet formed with an adhesive layer <b>28</b> is prepared on the surface of a carrier sheet <b>26</b> as a third supporting sheet separately from the carrier sheets <b>20</b> and <b>30</b> explained above. The carrier sheet <b>26</b> is formed by the same sheet as that of the carrier sheets <b>20</b> and <b>30</b>.</p>
+<p id="p-0106" num="0110">Adhesive Layer</p>
+<p id="p-0107" num="0111">A composition of the adhesive layer <b>28</b> is the same as that of the release layer <b>22</b> except for not containing a release agent. Namely, the adhesive layer <b>28</b> contains a binder, a plasticizer and a release agent. The adhesive layer <b>28</b> may contain the same dielectric particle as that of the dielectrics composing the green sheet <b>10</b><i>a</i>, however, in the case of forming an adhesive layer having a thinner thickness than a particle diameter of the dielectric particles, it is better not to contain dielectric particles. Also, when dielectric particles are contained in the adhesive layer <b>28</b>, a particle diameter of the dielectric particles is preferably smaller than the particle diameter of the dielectric particles contained in the green sheet.</p>
+<p id="p-0108" num="0112">A plasticizer is preferably contained in the adhesive layer <b>28</b> by 0 to 200 parts by weight, preferably 20 to 200 parts by weight, and more preferably 50 to 100 parts by weight with respect to 100 parts by weight of the binder.</p>
+<p id="p-0109" num="0113">The adhesive layer <b>28</b> further contains an antistatic agent, and the antistatic agent includes one of imidazoline based surfactants, and weight based adding quantity of the antistatic agent is preferably not more than that of the binder (organic polymer material). Namely, the antistatic agent is preferably contained in the adhesive layer <b>28</b> by 0 to 200 parts by weight, preferably 20 to 200 parts by weight, and more preferably 50 to 100 parts by weight with respect to 100 parts by weight of the binder.</p>
+<p id="p-0110" num="0114">A thickness of the adhesive layer <b>28</b> is preferably 0.02 to 0.3 &#x3bc;m or so, more preferably, thinner than an average particle diameter of dielectric particles contained in the green sheet. Also, a thickness of the adhesive layer <b>28</b> is preferably 1/10 or less of a thickness of the green sheet <b>10</b><i>a. </i></p>
+<p id="p-0111" num="0115">When a thickness of the adhesive layer <b>28</b> is too thin, the adhesive force declines, while when too thick, a space is easily formed inside an element body after sintering depending on the thickness of the adhesive layer, and a capacitance by an amount of the volume tends to decrease remarkably.</p>
+<p id="p-0112" num="0116">The adhesive layer <b>28</b> is formed on the surface of the carrier sheet <b>26</b> as a third supporting sheet, for example, by a bar coater method, die coater method, reverse coater method, dip coater method and kiss coater method, etc. and dried in accordance with need. The drying temperature is not particularly limited, but is preferably the room temperature to 80&#xb0; C., and the drying time is preferably 1 to 5 minutes.</p>
+<p id="p-0113" num="0117">(4) To form the adhesive layer on the surface of the electrode layer <b>12</b><i>a </i>and the blank pattern layer <b>24</b> shown in <figref idref="DRAWINGS">FIG. 2A</figref>, a transfer method is applied in the present embodiment. Namely, as shown in <figref idref="DRAWINGS">FIG. 2B</figref>, the adhesive layer <b>28</b> of the carrier sheet <b>26</b> is pressed against the surface of the electrode layer <b>12</b><i>a </i>and the blank pattern layer <b>24</b>, heated and pressed, then, the carrier sheet <b>26</b> is removed. Consequently, as shown in <figref idref="DRAWINGS">FIG. 2C</figref>, the adhesive layer <b>28</b> is transferred to the surface of the electrode layer <b>12</b><i>a </i>and the blank pattern layer <b>24</b>. Note that transfer of the adhesive layer <b>28</b> may be performed on the surface of the green sheet <b>10</b><i>a </i>shown in <figref idref="DRAWINGS">FIG. 3A</figref>.</p>
+<p id="p-0114" num="0118">The heating temperature at transferring is preferably 40 to 100&#xb0; C., and the pressing force is preferably 0.2 to 15 MPa. Pressing may be performed by a press or a calendar roll, but is preferably performed by a pair of rolls.</p>
+<p id="p-0115" num="0119">After that, the electrode layer <b>12</b><i>a </i>is adhered to the surface of the green sheet <b>10</b><i>a </i>formed on the surface of the carrier sheet <b>30</b> shown in <figref idref="DRAWINGS">FIG. 3A</figref>. For that purpose, as shown in <figref idref="DRAWINGS">FIG. 3B</figref>, the electrode layer <b>12</b><i>a </i>and the blank pattern layer <b>24</b> of the carrier sheet <b>20</b> are pressed via the adhesive layer <b>28</b> against the surface of the green sheet <b>10</b><i>a </i>together with the carrier sheet <b>20</b>, heated and pressed, consequently, as shown in <figref idref="DRAWINGS">FIG. 3C</figref>, the electrode layer <b>12</b><i>a </i>and the blank pattern layer <b>24</b> are transferred to the surface of the green sheet <b>10</b><i>a</i>. Note that since the carrier sheet <b>30</b> on the green sheet side is peeled off, when seeing from the green sheet <b>10</b><i>a </i>side, the green sheet <b>10</b><i>a </i>is transferred to the electrode layer <b>12</b><i>a </i>and the blank pattern layer <b>24</b> via the adhesive layer <b>28</b>.</p>
+<p id="p-0116" num="0120">Heating and pressing at the time of transferring may be pressing and heating by a press or by a calendar roll, but is preferably performed by a pair of rolls. The heating temperature and the pressing force are same as those at the time of transferring the adhesive layer <b>28</b>.</p>
+<p id="p-0117" num="0121">A single-layer electrode layer <b>12</b><i>a </i>in a predetermined pattern is formed on the single green sheet <b>10</b><i>a </i>by steps shown in <figref idref="DRAWINGS">FIG. 2A</figref> to <figref idref="DRAWINGS">FIG. 3C</figref>. A green sheet <b>10</b><i>a </i>formed with the electrode layer <b>12</b><i>a </i>is stacked by repeating the steps shown in <figref idref="DRAWINGS">FIG. 4A</figref> to <figref idref="DRAWINGS">FIG. 6C</figref>. Note that the same reference numbers in <figref idref="DRAWINGS">FIG. 4A to 6C</figref> are given to common members with those shown in <figref idref="DRAWINGS">FIG. 3A</figref> to <figref idref="DRAWINGS">FIG. 4C</figref>, and an explanation thereon is partially omitted.</p>
+<p id="p-0118" num="0122">First, as shown in <figref idref="DRAWINGS">FIG. 4A</figref> to <figref idref="DRAWINGS">FIG. 4C</figref>, the adhesive layer <b>28</b> is transferred to the surface on the other side of the electrode layer (back side) on the green sheet <b>10</b><i>a</i>. After that, as shown in <figref idref="DRAWINGS">FIG. 5A</figref> to <figref idref="DRAWINGS">FIG. 5C</figref>, the electrode layer <b>12</b><i>a </i>and the blank pattern layer <b>24</b> are transferred to the back side of the green sheet <b>10</b><i>a </i>via the adhesive layer <b>28</b>.</p>
+<p id="p-0119" num="0123">Formation of Stacked Body</p>
+<p id="p-0120" num="0124">Next, as shown in <figref idref="DRAWINGS">FIG. 6A</figref> to <figref idref="DRAWINGS">FIG. 6C</figref>, on the surface of the electrode layer <b>12</b><i>a </i>and the blank pattern layer <b>24</b>, the green sheet <b>10</b><i>a </i>is transferred via the adhesive layer <b>28</b>. After that, by repeating the transfer, a multilayer block, wherein a large number of electrode layers <b>12</b><i>a </i>and the green sheet <b>10</b><i>a </i>are alternately stacked as shown in <figref idref="DRAWINGS">FIG. 7</figref>, is obtained.</p>
+<p id="p-0121" num="0125">Note that without applying the steps shown in <figref idref="DRAWINGS">FIG. 5C</figref> to <figref idref="DRAWINGS">FIG. 6C</figref>, from the step shown in <figref idref="DRAWINGS">FIG. 5B</figref>, not removing the carrier sheet <b>20</b> on the lower side, but the carrier sheet on the upper side may be removed, and a multilayer unit U<b>1</b> shown in <figref idref="DRAWINGS">FIG. 4C</figref> may be stacked thereon. After that, by repeating an operation of removing the carrier sheet <b>20</b> on the upper side again, stacking thereon the multilayer unit U<b>1</b> shown in <figref idref="DRAWINGS">FIG. 4C</figref>, and removing the carrier sheet <b>20</b> on the upper side, a multilayer block wherein a large number of electrode layers <b>12</b><i>a </i>and the green sheet <b>10</b><i>a </i>are alternately stacked as shown in <figref idref="DRAWINGS">FIG. 7</figref> is obtained. A method of stacking the multilayer unit U<b>1</b> shown in <figref idref="DRAWINGS">FIG. 4C</figref> is superior in terms of an efficiency of the stacking operation.</p>
+<p id="p-0122" num="0126">When the number of stacking layers of the green sheet is small, a firing step in the next step is performed by the multilayer block alone. Also, in accordance with need, a plurality of multilayer blocks as such may be stacked via adhesive layers <b>28</b> formed by a transfer method in the same way as above to obtain a multilayer body having larger number of layers.</p>
+<p id="p-0123" num="0127">(5) After that, as shown in <figref idref="DRAWINGS">FIG. 8</figref>, a green sheet <b>40</b> for an outer layer (a thick multilayer body obtained by stacking a plurality of green sheets not formed with an electrode layer) is stacked on the lower surface of the stacked body and the entire stacked body is supported by an absorption holder <b>50</b>. After that, the carrier sheet <b>20</b> on the upper side is peeled off, the green sheet <b>40</b> for an outer layer is formed on top of the multilayer body in the same way, and final pressing is performed.</p>
+<p id="p-0124" num="0128">Pressure at the time of the final pressing is preferably 10 to 200 MPa. Also, the heating temperature is preferably 40 to 100&#xb0; C. After that, the multilayer body is cut to be a predetermined size to form green chips. The green chips are subjected to binder removal processing and firing processing, then, thermal treatment is performed in order to re-oxidize the dielectric layer.</p>
+<p id="p-0125" num="0129">Binder Removal and Firing</p>
+<p id="p-0126" num="0130">The binder removal processing may be performed under a normal condition, but when using a base metal, such as Ni and a Ni alloy, as a conductive material of the internal electrode layer, it is preferably performed under the specific condition below.</p>
+<p id="p-0127" num="0131">temperature rising rate: 5 to 300&#xb0; C./hour, particularly 10 to 50&#xb0; C./hour</p>
+<p id="p-0128" num="0132">holding temperature: 200 to 400&#xb0; C., particularly 250 to 350&#xb0; C.</p>
+<p id="p-0129" num="0133">holding time: 0.5 to 20 hours, particularly 1 to 10 hours</p>
+<p id="p-0130" num="0134">atmosphere: a mixed gas of wet N<sub>2 </sub>and H<sub>2 </sub></p>
+<p id="p-0131" num="0135">A firing condition is preferably as below.</p>
+<p id="p-0132" num="0136">temperature rising rate: 50 to 500&#xb0; C./hour, particularly 200 to 300&#xb0; C./hour</p>
+<p id="p-0133" num="0137">holding temperature: 1100 to 1300&#xb0; C., particularly 1150 to 1250&#xb0; C.</p>
+<p id="p-0134" num="0138">holding time: 0.5 to 8 hours, particularly 1 to 3 hours</p>
+<p id="p-0135" num="0139">cooling rate: 50 to 500&#xb0; C./hour, particularly 200 to 300&#xb0; C./hour</p>
+<p id="p-0136" num="0140">atmosphere gas: a mixed gas of wet N<sub>2 </sub>and H<sub>2</sub>, etc.</p>
+<p id="p-0137" num="0141">Note that oxygen partial pressure in an atmosphere in the air at firing is preferably 10<sup>&#x2212;2 </sup>Pa or less, particularly 10<sup>&#x2212;2 </sup>to 10<sup>&#x2212;8 </sup>Pa. When exceeding the above ranges, the internal electrode layer tends to oxidize, while when the oxygen partial pressure is too low, abnormal sintering is caused in an electrode material of the internal electrode layer to be broken.</p>
+<p id="p-0138" num="0142">The thermal treatment after performing such firing is preferably performed with a holding temperature or highest temperature of 1000&#xb0; C. or higher, more preferably 1000 to 1100&#xb0; C. When the holding temperature or the highest temperature at the time of the thermal treatment is lower than the above ranges, it is liable that oxidization of the dielectric material is insufficient to make the insulation resistance lifetime short, while when exceeding the above ranges, Ni in the internal electrode oxidizes and the capacity decreases, moreover, Ni reacts with a dielectric base and the lifetime also tends to become short. The oxygen partial pressure at the time of thermal treatment is higher than a higher oxygen partial pressure than a reducing atmosphere at the time of firing, preferably 10<sup>&#x2212;3 </sup>Pa to 1 Pa, and more preferably 10<sup>&#x2212;2 </sup>Pa to 1 Pa. When it is lower than the above range, re-oxidization of the dielectric layer <b>2</b> becomes difficult, while when exceeding the above ranges, the internal electrode layer <b>3</b> tends to oxidize.</p>
+<p id="p-0139" num="0143">Other condition of the thermal treatment is preferably as below.</p>
+<p id="p-0140" num="0144">holding time: 0 to 6 hours, particularly 2 to 5 hours</p>
+<p id="p-0141" num="0145">cooling rate: 50 to 500&#xb0; C./hour, particularly 100 to 300&#xb0; C./hour</p>
+<p id="p-0142" num="0146">atmosphere gas: wet N<sub>2 </sub>gas, etc.</p>
+<p id="p-0143" num="0147">Note that to wet a N<sub>2 </sub>gas or a mixed gas, etc., for example, a wetter, etc. may be used. In this case, the water temperature is preferably 0 to 75&#xb0; C. or so. Also, the binder removal processing, firing and thermal treatment may be performed continuously or separately. When performing continuously, the atmosphere is changed without cooling after the binder removal processing, continuously, the temperature is raised to the holding temperature at firing to perform firing. Next, it is cooled and the thermal treatment is preferably performed by changing the atmosphere when the temperature reaches to the holding temperature of the thermal treatment. On the other hand, when performing them separately, after raising the temperature to the holding temperature at the binder removal processing in an atmosphere of a N<sub>2 </sub>gas or a wet N<sub>2 </sub>gas, the atmosphere is changed, and the temperature is furthermore raised. After cooling the temperature to the holding temperature at the thermal treatment, it is preferable that the cooling continues by changing the atmosphere again to a N<sub>2 </sub>gas or a wet N<sub>2 </sub>gas. Also, in the thermal treatment, after raising the temperature to the holding temperature under the N<sub>2 </sub>gas atmosphere, the atmosphere may be changed, or the entire process of the thermal processing may be in a wet N<sub>2 </sub>gas atmosphere.</p>
+<p id="p-0144" num="0148">The thus obtained sintered body (element body <b>4</b>) is subjected to end surface polishing, for example, by barrel polishing and sand-blast, etc., then, a terminal electrode paste is burnt to form terminal electrodes <b>6</b> and <b>8</b>. For example, a firing condition of the terminal electrode paste is preferably in a mixed gas of wet N<sub>2 </sub>and H<sub>2 </sub>at 600 to 800&#xb0; C. for 10 minutes to 1 hour or so. In accordance with need, soldering, etc. is performed on the terminal electrodes <b>6</b> and <b>8</b> to form a pad layer. Note that the terminal electrode paste may be fabricated in the same way as the electrode paste explained above.</p>
+<p id="p-0145" num="0149">A multilayer ceramic capacitor of the present invention produced as above is mounted on a print substrate, etc. by soldering, etc. and used for a variety of electronic equipments.</p>
+<p id="p-0146" num="0150">In a method of producing a multilayer ceramic capacitor according to the present embodiment, as a green sheet, a polyvinyl acetal resin having a polymerization degree in a specific range, a butyralation degree in a specific range and a residual acetyl group amount of a predetermined value or less is used as a binder. Therefore, even an extremely thin green sheet <b>10</b><i>a </i>of, for example, 5 &#x3bc;m or less is strong enough to be peeled from the carrier sheet <b>30</b> and has preferable adhesiveness and handlability. Also, surface roughness of the sheet <b>10</b><i>a </i>is small and stackability is excellent. Therefore, it becomes easy to stack a large number of green sheets <b>10</b><i>a </i>via electrode layers <b>12</b><i>a</i>, and it is also possible to stack without the adhesive layers <b>28</b> in accordance with need.</p>
+<p id="p-0147" num="0151">In the present embodiment, when forming a blank pattern layer <b>24</b> on a blank pattern portion of the electrode layer <b>12</b><i>a </i>shown in <figref idref="DRAWINGS">FIG. 2A</figref>, viscosity of the electrode level difference absorbing print paste is not extremely declined and preferable printing becomes possible even in the case of an extremely thin blank pattern layer. Also, since it is not necessary to increase a binder resin amount included in the electrode level difference absorbing print paste, there is a low possibility that delamination between sheets, etc. arise at the time of binder removal of a stacked body.</p>
+<p id="p-0148" num="0152">Note that the present invention is not limited to the above embodiments and may be variously modified within the scope of the present invention.</p>
+<p id="p-0149" num="0153">For example, a method of the present invention is not limited to a production method of a multilayer ceramic capacitor and may be applied as a production method of other multilayer electronic devices.</p>
+<heading id="h-0006" level="1">EXAMPLES</heading>
+<p id="p-0150" num="0154">Below, the present invention will be explained based on further detailed examples, but the present invention is not limited to the examples.</p>
+<heading id="h-0007" level="1">Example 1</heading>
+<p id="p-0151" num="0155">Production of Green Sheet Paste</p>
+<p id="p-0152" num="0156">As a starting material of ceramic powder, BaTiO<sub>3 </sub>powder (BT-02 made by Sakai Chemical Industry Co., Ltd.) was used. A ceramic powder subcomponent additives were prepared to satisfy (Ba<sub>0.6</sub>Ca<sub>0.4</sub>)SiO<sub>3</sub>: 1.48 parts by weight, Y<sub>2</sub>O<sub>3</sub>: 1.01 parts by weight, MgCO<sub>3</sub>: 0.72 wt %, Cr<sub>2</sub>O<sub>3</sub>: 0.13 wt % and V<sub>2</sub>O<sub>5</sub>: 0.045 wt % with respect to 100 parts by weight of the BaTiO<sub>3 </sub>powder.</p>
+<p id="p-0153" num="0157">First, only the subcomponents were mixed by a ball-mill to obtain slurry. Namely, the subcomponent additives (total amount 8.8 g) and a solvent (16 g), wherein ethanol/n-propanol is 1:1, were preliminary ground by a ball-mill for 20 hours. Next, the preliminary ground slurry of the subcomponent additives, ethanol: 38 g, n-propanol: 38 g, xylene: 28 g, mineral spirit: 14 g, DOP (dioctyl phthalate) as a plasticizer component: 6 g and a polyethylene glycol based nonionic dispersant (HLB=5 to 6) as a dispersant: 1.4 g were added to BaTiO<sub>3</sub>: 191.2 g and mixed by a ball-mill for 4 hours. Note that a block polymer of polyethylene glycol and fatty ester was used as the polyethylene glycol based nonionic dispersant (HLB=5 to 6) as a dispersant.</p>
+<p id="p-0154" num="0158">Next, as a binder resin, the dispersion slurry was added with 15% lacquer (BH6 made by Sekisui Chemical Co., Ltd. was dissolved in ethanol/n-propanol=1:1) of BH6 (polyvinyl butyral resin: PVB) made by Sekisui Chemical Co., Ltd. by 6 wt % as a solid content (80 g as a lacquer adding quantity). After that, by ball-milling for 16 hours, ceramic slurry (green sheet slurry) was obtained.</p>
+<p id="p-0155" num="0159">A polymerization degree of a polyvinyl butyral resin as the binder resin was 1400, a butyralation degree thereof was 69%&#xb1;3%, and a residual acetyl group amount thereof was 3&#xb1;2%. The binder resin was contained by 6 parts by weight in the ceramic slurry with respect to 100 parts by weight of ceramic powder (including ceramic powder subcomponent additives). Also, when assuming that total volume of the ceramic powder, binder resin and plasticizer in the ceramic slurry was 100 volume %, the volume ratio accounted by the ceramics powder was 67.31 volume %. The weight ratio of the ceramic powder in the entire slurry was 49 wt %.</p>
+<p id="p-0156" num="0160">Also, DOP as a plasticizer was contained in the ceramic slurry by 50 parts by weight with respect to 100 parts by weight of the binder resin. Water was contained by 2 parts by weight with respect to 100 parts by weight of the ceramic powder. The polyethylene glycol based nonionic dispersant as a dispersant was contained by 0.7 part by weight with respect to 100 parts by weight of the ceramic powder.</p>
+<p id="p-0157" num="0161">Also, in the slurry, mineral spirit of at least any one of a hydrocarbon based solvent, industrial gasoline, kerosene and solvent naphtha was added by 5 parts by weight with respect to 100 parts by weight of the ceramic powder. Furthermore, the slurry contains an alcohol based solvent and an aromatic solvent as a solvent. When assuming that total weight of the alcohol based solvent and aromatic solvent was 100 parts by weight, toluene as an aromatic solvent was contained by 15 parts by weight.</p>
+<p id="p-0158" num="0162">Production of Green Sheet</p>
+<p id="p-0159" num="0163">The slurry obtained as above was applied to a PET film as a supporting film shown in <figref idref="DRAWINGS">FIG. 3A</figref> to be a thickness of 1.2 &#x3bc;m by a wire bar coater and dried to produce a green sheet <b>10</b><i>a</i>. The applying rate was 50 m/min. and the drying condition was a temperature in the drying furnace of 60&#xb0; C. to 70&#xb0; C. and drying time of 2 minutes.</p>
+<p id="p-0160" num="0164">Release Layer Slurry</p>
+<p id="p-0161" num="0165">Other than changing BaTiO<sub>3 </sub>to BT-01 in the green sheet slurry explained above, slurry was produced in the same way as the green sheet slurry, and the slurry was diluted by five times by a-mixed solvent of ethanol: propanol:xylene (42.5:42.5:15) to obtain release layer slurry.</p>
+<p id="p-0162" num="0166">Adhesive Layer Slurry</p>
+<p id="p-0163" num="0167">As adhesive layer slurry, an organic vehicle was used. Specifically, with respect to 100 parts by weight of a polyvinyl butyral resin, a mixed solution of 50 parts by weight of bis(2 hethylhexyl) phthalate DOP as a plasticizer and 900 parts by weight of MEK was diluted by ten times furthermore by MEK to obtain adhesive layer slurry.</p>
+<p id="p-0164" num="0168">Internal Electrode Paste (Electrode Layer Paste to be Transferred)</p>
+<p id="p-0165" num="0169">With respect to 100 parts by weight of Ni particles having an average particle diameter of 0.2 &#x3bc;m,</p>
+<p id="p-0166" num="0170">BaTiO<sub>3 </sub>powder (BT-01 made by Sakai Chemical Industry Co., Ltd.): 20 parts by weight,</p>
+<p id="p-0167" num="0171">an organic vehicle: 58 parts by weight (obtained by dissolving 8 parts by weight of a polyvinyl butyral resin in 92 parts by weight of terpineol),</p>
+<p id="p-0168" num="0172">bis(2 hethylhexyl) phthalate DOP as a plasticizer: 50 parts by weight,</p>
+<p id="p-0169" num="0173">terpineol: 5 parts by weight, and</p>
+<p id="p-0170" num="0174">a dispersant: 1 part by weight were added and kneaded by a ball mill to make slurry as an internal electrode paste.</p>
+<p id="p-0171" num="0175">Production of Electrode Level Difference Absorbing Print Paste</p>
+<p id="p-0172" num="0176">As ceramic powder and subcomponent additives, those as same as those used for the green sheet slurry were prepared to obtain the same compounding ratio.</p>
+<p id="p-0173" num="0177">Ceramic powder and subcomponent additives (150 g) was added with a dispersant of an ester based polymer (1.5 g), an imidazoline based antistatic agent (0.6 g), terpineol (50 g) and dioctyl phthalate as a plasticizer (5 g) and mixed for 4 hours. Next, the mixed solution was added with 8% lacquer (8 wt % of polyvinyl butyral and 92 wt % of terpineol with respect to the entire lacquer) of BH6 (a polyvinyl butyral resin having a polymerization degree of 1450 and a butyralation degree of 69 mol %&#xb1;3%) made by Sekisui Chemical Co., Ltd. by an amount of 120 g and mixed for 16 hours. After that, 0 to 60 g of terpineol was added for viscosity adjustment to produce a paste.</p>
+<p id="p-0174" num="0178">As shown in Table 1 below, electrode level difference absorbing print pastes of sample numbers 1 to 8 were produced by changing a ceramic powder content (pigment concentration/wt %) with respect to the entire paste becomes 30 to 58 wt %, and viscosity of the pastes and the minimum possible printing thicknesses by the printing method (a print material thickness) were examined.</p>
+<p id="p-0175" num="0179">Note that viscosity of the paste was measured by using an RV20 type cone disc viscometer made by HAAKE when giving rotation of obtaining a shear rate of 8[1/s] at 25&#xb0; C.</p>
+<p id="p-0176" num="0180">The results are shown in Table 1. As shown in Table 1, it was confirmed that the lower the pigment concentration is, the more preferable in order to lessen the printing thickness as much as possible (3 &#x3bc;m or less, preferably 2 &#x3bc;m or less, and more preferably 1 &#x3bc;m or less).</p>
+<p id="p-0177" num="0181">However, when the pigment concentration is too low, the viscosity declines. When the viscosity of the paste becomes lower than 4 Pa&#xb7;s, a trouble that the paste flows out from a mesh of a print plate making was confirmed. Accordingly, the viscosity of the paste was confirmed to be preferably 4 Pa&#xb7;s or more, and more preferably 7 Pa&#xb7;s or more.</p>
+<p id="p-0178" num="0182">Also, when assuming that weight percentage of the ceramic powder in the paste is 58 wt %, which exceeds the upper limit of the preferable range of the present invention, the paste viscosity is heightened, and disadvantages that printing stability was deteriorated, etc. were observed.</p>
+<p id="p-0179" num="0183">Accordingly, to make a print thickness thinner and to improve print stability, the pigment concentration is preferably 30 to 55 wt %, and more preferably 35 to 50 wt %. Note that in Table 1, slashed portions indicate that troubles, such that blur of print material (low viscosity) and breaking of a printed material (release layer) (high viscosity) arise, etc. This will be the same in other Tables.</p>
+<p id="p-0180" num="0184">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="56pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="9" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="9" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Polymer-</entry>
+<entry>Resin</entry>
+<entry>Pigment</entry>
+<entry>Butyralation</entry>
+<entry>Acetalization</entry>
+<entry>Plasticizer</entry>
+<entry>Antistatic</entry>
+<entry>Viscosity</entry>
+<entry>Print</entry>
+</row>
+<row>
+<entry/>
+<entry>ization</entry>
+<entry>Amount</entry>
+<entry>Concentration</entry>
+<entry>Degree</entry>
+<entry>Degree</entry>
+<entry>Amount</entry>
+<entry>Agent</entry>
+<entry>[Pa &#xb7; s]</entry>
+<entry>Thickness</entry>
+</row>
+<row>
+<entry/>
+<entry>Degree</entry>
+<entry>[php]</entry>
+<entry>[wt. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[phr]</entry>
+<entry>Kind</entry>
+<entry>(at 8[1/s])</entry>
+<entry>[&#x3bc;m]</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="9" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="56pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="char" char="."/>
+<colspec colname="10" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Sample1</entry>
+<entry>1450</entry>
+<entry>6</entry>
+<entry>30</entry>
+<entry>69</entry>
+<entry/>
+<entry>50</entry>
+<entry>Imidazoline Base</entry>
+<entry>4</entry>
+<entry>0.7</entry>
+</row>
+<row>
+<entry>Sample2</entry>
+<entry>1450</entry>
+<entry>&#x2193;</entry>
+<entry>34</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>4</entry>
+<entry>0.8</entry>
+</row>
+<row>
+<entry>Sample3</entry>
+<entry>1450</entry>
+<entry>&#x2193;</entry>
+<entry>38</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>5</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry>Sample4</entry>
+<entry>1450</entry>
+<entry>&#x2193;</entry>
+<entry>42</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>7</entry>
+<entry>1.2</entry>
+</row>
+<row>
+<entry>Sample5</entry>
+<entry>1450</entry>
+<entry>&#x2193;</entry>
+<entry>46</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>11</entry>
+<entry>1.6</entry>
+</row>
+<row>
+<entry>Sample6</entry>
+<entry>1450</entry>
+<entry>&#x2193;</entry>
+<entry>50</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>18</entry>
+<entry>1.9</entry>
+</row>
+<row>
+<entry>Sample7</entry>
+<entry>1450</entry>
+<entry>&#x2193;</entry>
+<entry>54</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>30</entry>
+<entry>2.2</entry>
+</row>
+<row>
+<entry>Sample8</entry>
+<entry>1450</entry>
+<entry>&#x2193;</entry>
+<entry>58</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>52</entry>
+</row>
+<row>
+<entry namest="1" nameend="10" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0181" num="0185">Formation of Green Sheet and Transfer of Adhesive Layer and Electrode Layer</p>
+<p id="p-0182" num="0186">First, by using the above dielectric green sheet slurry, a green sheet having a thickness of 1.2 &#x3bc;m was formed on the PET film (second supporting sheet) by using a wire bar coater. Next, the above release layer slurry was applied by a wire bar coater and dried to form a 0.2 &#x3bc;m release layer on another PET film (first supporting sheet).</p>
+<p id="p-0183" num="0187">On the surface of the release layer, an electrode layer <b>12</b><i>a </i>and a blank pattern layer <b>24</b> were formed. The electrode layer <b>12</b><i>a </i>was formed to be a thickness of 1 &#x3bc;m by the printing method using the above internal electrode layer paste. The blank pattern layer <b>24</b> was formed to be a thickness of 1 &#x3bc;m by the printing method using the above electrode level difference absorbing print paste. During the printing using the electrode level difference absorbing print paste, a disadvantage that the paste flows out from a mesh of a print plate making was not observed.</p>
+<p id="p-0184" num="0188">Also, an adhesive layer <b>28</b> was formed on another PET film (third supporting sheet). The adhesive layer <b>28</b> was formed to be a thickness of 0.1 &#x3bc;m by a wire bar coater by using the above adhesive layer slurry.</p>
+<p id="p-0185" num="0189">First, on the surface of the electrode layer <b>12</b><i>a </i>and the blank pattern layer <b>24</b>, the adhesive layer <b>28</b> was transferred by a method shown in <figref idref="DRAWINGS">FIG. 2</figref>. At the time of transferring, a pair of rolls were used, the pressure force was 1 MPa, and the temperature was 80&#xb0; C., and it was confirmed that the transfer was preferably performed.</p>
+<p id="p-0186" num="0190">Next, by a method shown in <figref idref="DRAWINGS">FIG. 3</figref>, an internal electrode layer <b>12</b><i>a </i>and blank pattern layer <b>24</b> were adhered (transferred) to a surface of the green sheet <b>10</b><i>a </i>via the adhesive layer <b>28</b>. At the time of transferring, a pair of rolls were used, the pressure force was 1 MPa, and the temperature was 80&#xb0; C., and it was confirmed that the transfer was preferably performed.</p>
+<p id="p-0187" num="0191">Next, by a method shown in <figref idref="DRAWINGS">FIG. 4</figref> to <figref idref="DRAWINGS">FIG. 6</figref>, by successively stacking the internal electrode layers <b>12</b><i>a </i>and green sheets <b>10</b><i>a</i>, it was possible to finally stack 100 of the internal electrode layers <b>12</b><i>a</i>. As a result of observing the stacked body, it was confirmed that a level difference of an electrode layer between green sheets could be preferably eliminated and delamination between sheets and deformation of the stacked body, etc. could be effectively prevented.</p>
+<heading id="h-0008" level="1">Comparative Example 1</heading>
+<p id="p-0188" num="0192">Other than using a polyvinyl butyral resin having a polymerization degree of 800, which is lower than that of a binder resin of the green sheet slurry, as a binder resin of the electrode level difference absorbing print paste, an electrode level difference absorbing print paste was produced in the same way as in the example 1. As a result, due to a decline of the viscosity, a disadvantage that the paste flows out from a mesh of a print plate making was observed.</p>
+<heading id="h-0009" level="1">Reference Example 1</heading>
+<p id="p-0189" num="0193">Other than changing the weight percentage of the ceramic powder in the paste to less than 30 wt %, which is lower than the lower limit of the preferable range of the present invention, an electrode level difference absorbing print paste was produced in the same as in the example 1. As a result, due to a decline of the paste viscosity, a disadvantage that the paste flows out from a mesh of a print plate making was observed.</p>
+<heading id="h-0010" level="1">Example 2</heading>
+<p id="p-0190" num="0194">As shown in Table 2 below, other than using a polyvinyl butyral resin having a polymerization degree of 1700 as a binder resin, electrode level difference absorbing print pastes of sample numbers 10 to 17 were produced, and viscosity of the paste and the minimum possible print thickness by the printing method were examined.</p>
+<p id="p-0191" num="0195">The results are shown in Table 2. As shown in Table 2, pigment concentration of 38 to 50 wt % was preferable when the polymerization degree was 1700.</p>
+<p id="p-0192" num="0196">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="56pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="9" rowsep="1">TABLE 2</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="9" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Polymer-</entry>
+<entry>Resin</entry>
+<entry>Pigment</entry>
+<entry>Butyralation</entry>
+<entry>Acetalization</entry>
+<entry>Plasticizer</entry>
+<entry>Antistatic</entry>
+<entry>Viscosity</entry>
+<entry>Print</entry>
+</row>
+<row>
+<entry/>
+<entry>ization</entry>
+<entry>Amount</entry>
+<entry>Concentration</entry>
+<entry>Degree</entry>
+<entry>Degree</entry>
+<entry>Amount</entry>
+<entry>Agent</entry>
+<entry>[Pa &#xb7; s]</entry>
+<entry>Thickness</entry>
+</row>
+<row>
+<entry/>
+<entry>Degree</entry>
+<entry>[php]</entry>
+<entry>[wt. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[phr]</entry>
+<entry>Kind</entry>
+<entry>(at 8[1/s])</entry>
+<entry>[&#x3bc;m]</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="9" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="56pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="char" char="."/>
+<colspec colname="10" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Sample10</entry>
+<entry>1700</entry>
+<entry>6</entry>
+<entry>30</entry>
+<entry>69</entry>
+<entry/>
+<entry>50</entry>
+<entry>Imidazoline Base</entry>
+<entry>1</entry>
+<entry>0.7</entry>
+</row>
+<row>
+<entry>Sample11</entry>
+<entry>1700</entry>
+<entry>&#x2193;</entry>
+<entry>34</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>3</entry>
+<entry>0.8</entry>
+</row>
+<row>
+<entry>Sample12</entry>
+<entry>1700</entry>
+<entry>&#x2193;</entry>
+<entry>38</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>5</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry>Sample13</entry>
+<entry>1700</entry>
+<entry>&#x2193;</entry>
+<entry>42</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>9</entry>
+<entry>1.2</entry>
+</row>
+<row>
+<entry>Sample14</entry>
+<entry>1700</entry>
+<entry>&#x2193;</entry>
+<entry>46</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>17</entry>
+<entry>1.6</entry>
+</row>
+<row>
+<entry>Sample15</entry>
+<entry>1700</entry>
+<entry>&#x2193;</entry>
+<entry>50</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>29</entry>
+<entry>2.1</entry>
+</row>
+<row>
+<entry>Sample16</entry>
+<entry>1700</entry>
+<entry>&#x2193;</entry>
+<entry>54</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>45</entry>
+</row>
+<row>
+<entry>Sample17</entry>
+<entry>1700</entry>
+<entry>&#x2193;</entry>
+<entry>58</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>70</entry>
+</row>
+<row>
+<entry namest="1" nameend="10" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0011" level="1">Example 3</heading>
+<p id="p-0193" num="0197">As shown in Table 3 below, other than using a polyvinyl butyral resin having a polymerization degree of 2000 as a binder resin, electrode level difference absorbing print pastes of sample numbers 20 to 27 were produced in the same way as in the example 1, and viscosity of the paste and the minimum possible print thickness by the printing method were examined.</p>
+<p id="p-0194" num="0198">The results are shown in Table 3. As shown in Table 3, pigment concentration of 34 to 46 wt % was preferable when the polymerization degree was 2000.</p>
+<p id="p-0195" num="0199">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="56pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="9" rowsep="1">TABLE 3</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="9" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Polymer-</entry>
+<entry>Resin</entry>
+<entry>Pigment</entry>
+<entry>Butyralation</entry>
+<entry>Acetalization</entry>
+<entry>Plasticizer</entry>
+<entry>Antistatic</entry>
+<entry>Viscosity</entry>
+<entry>Print</entry>
+</row>
+<row>
+<entry/>
+<entry>ization</entry>
+<entry>Amount</entry>
+<entry>Concentration</entry>
+<entry>Degree</entry>
+<entry>Degree</entry>
+<entry>Amount</entry>
+<entry>Agent</entry>
+<entry>[Pa &#xb7; s]</entry>
+<entry>Thickness</entry>
+</row>
+<row>
+<entry/>
+<entry>Degree</entry>
+<entry>[php]</entry>
+<entry>[wt. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[phr]</entry>
+<entry>Kind</entry>
+<entry>(at 8[1/s])</entry>
+<entry>[&#x3bc;m]</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="9" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="56pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="char" char="."/>
+<colspec colname="10" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Sample20</entry>
+<entry>2000</entry>
+<entry>6</entry>
+<entry>30</entry>
+<entry>69</entry>
+<entry/>
+<entry>50</entry>
+<entry>Imidazoline Base</entry>
+<entry>1</entry>
+<entry>0.7</entry>
+</row>
+<row>
+<entry>Sample21</entry>
+<entry>2000</entry>
+<entry>&#x2193;</entry>
+<entry>34</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>4</entry>
+<entry>0.7</entry>
+</row>
+<row>
+<entry>Sample22</entry>
+<entry>2000</entry>
+<entry>&#x2193;</entry>
+<entry>38</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>6</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry>Sample23</entry>
+<entry>2000</entry>
+<entry>&#x2193;</entry>
+<entry>42</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>11</entry>
+<entry>1.2</entry>
+</row>
+<row>
+<entry>Sample24</entry>
+<entry>2000</entry>
+<entry>&#x2193;</entry>
+<entry>46</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>20</entry>
+<entry>1.6</entry>
+</row>
+<row>
+<entry>Sample25</entry>
+<entry>2000</entry>
+<entry>&#x2193;</entry>
+<entry>50</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>37</entry>
+</row>
+<row>
+<entry>Sample26</entry>
+<entry>2000</entry>
+<entry>&#x2193;</entry>
+<entry>54</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>64</entry>
+</row>
+<row>
+<entry>Sample27</entry>
+<entry>2000</entry>
+<entry>&#x2193;</entry>
+<entry>58</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>90</entry>
+</row>
+<row>
+<entry namest="1" nameend="10" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0012" level="1">Example 4</heading>
+<p id="p-0196" num="0200">As shown in Table 4 below, other than using a polyvinyl butyral resin having a polymerization degree of 2400 as a binder resin, electrode level difference absorbing print pastes of sample numbers 30 to 37 were produced in the same way as in the example 1, and viscosity of the paste and the minimum possible print thickness by the printing method were examined.</p>
+<p id="p-0197" num="0201">The results are shown in Table 4. As shown in Table 4, pigment concentration of 34 to 42 wt % was preferable when the polymerization degree was 2400.</p>
+<p id="p-0198" num="0202">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="56pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="9" rowsep="1">TABLE 4</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="9" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Polymer-</entry>
+<entry>Resin</entry>
+<entry>Pigment</entry>
+<entry>Butyralation</entry>
+<entry>Acetalization</entry>
+<entry>Plasticizer</entry>
+<entry>Antistatic</entry>
+<entry>Viscosity</entry>
+<entry>Print</entry>
+</row>
+<row>
+<entry/>
+<entry>ization</entry>
+<entry>Amount</entry>
+<entry>Concentration</entry>
+<entry>Degree</entry>
+<entry>Degree</entry>
+<entry>Amount</entry>
+<entry>Agent</entry>
+<entry>[Pa &#xb7; s]</entry>
+<entry>Thickness</entry>
+</row>
+<row>
+<entry/>
+<entry>Degree</entry>
+<entry>[php]</entry>
+<entry>[wt. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[phr]</entry>
+<entry>Kind</entry>
+<entry>(at 8[1/s])</entry>
+<entry>[&#x3bc;m]</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="9" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="56pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="char" char="."/>
+<colspec colname="10" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Sample30</entry>
+<entry>2400</entry>
+<entry>6</entry>
+<entry>30</entry>
+<entry>69</entry>
+<entry/>
+<entry>50</entry>
+<entry>Imidazoline Base</entry>
+<entry>2</entry>
+<entry>0.6</entry>
+</row>
+<row>
+<entry>Sample31</entry>
+<entry>2400</entry>
+<entry>&#x2193;</entry>
+<entry>34</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>5</entry>
+<entry>0.7</entry>
+</row>
+<row>
+<entry>Sample32</entry>
+<entry>2400</entry>
+<entry>&#x2193;</entry>
+<entry>38</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>10</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry>Sample33</entry>
+<entry>2400</entry>
+<entry>&#x2193;</entry>
+<entry>42</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>16</entry>
+<entry>1.3</entry>
+</row>
+<row>
+<entry>Sample34</entry>
+<entry>2400</entry>
+<entry>&#x2193;</entry>
+<entry>46</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>31</entry>
+</row>
+<row>
+<entry>Sample35</entry>
+<entry>2400</entry>
+<entry>&#x2193;</entry>
+<entry>50</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>47</entry>
+</row>
+<row>
+<entry>Sample36</entry>
+<entry>2400</entry>
+<entry>&#x2193;</entry>
+<entry>54</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>77</entry>
+</row>
+<row>
+<entry>Sample37</entry>
+<entry>2400</entry>
+<entry>&#x2193;</entry>
+<entry>58</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>115</entry>
+</row>
+<row>
+<entry namest="1" nameend="10" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0013" level="1">Example 5</heading>
+<p id="p-0199" num="0203">As shown in Table 5 below, other than using a polyvinyl butyral resin having a polymerization degree of 3000 as a binder resin, electrode level difference absorbing print pastes of sample numbers 40 to 47 were produced in the same way as in the example 1, and viscosity of the paste and the minimum possible print thickness by the printing method were examined.</p>
+<p id="p-0200" num="0204">The results are shown in Table 5. As shown in Table 5, pigment concentration of 30 to 38 wt % was preferable when the polymerization degree was 3000.</p>
+<p id="p-0201" num="0205">Also, from the results of the examples 1 to 5, it was confirmed that to make the print thickness as thin as possible (3 &#x3bc;m or less, preferably 2 &#x3bc;m or less, and more preferably 1 &#x3bc;m or less), the polymerization degree of the binder resin in the electrode level difference absorbing print paste was higher than that of the binder resin of the green sheet slurry, more preferably 1400 or higher, more preferably 1450 or higher, and particularly preferably 2000 or higher.</p>
+<p id="p-0202" num="0206">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="56pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="9" rowsep="1">TABLE 5</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="9" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Polymer-</entry>
+<entry>Resin</entry>
+<entry>Pigment</entry>
+<entry>Butyralation</entry>
+<entry>Acetalization</entry>
+<entry>Plasticizer</entry>
+<entry>Antistatic</entry>
+<entry>Viscosity</entry>
+<entry>Print</entry>
+</row>
+<row>
+<entry/>
+<entry>ization</entry>
+<entry>Amount</entry>
+<entry>Concentration</entry>
+<entry>Degree</entry>
+<entry>Degree</entry>
+<entry>Amount</entry>
+<entry>Agent</entry>
+<entry>[Pa &#xb7; s]</entry>
+<entry>Thickness</entry>
+</row>
+<row>
+<entry/>
+<entry>Degree</entry>
+<entry>[php]</entry>
+<entry>[wt. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[phr]</entry>
+<entry>Kind</entry>
+<entry>(at 8[1/s])</entry>
+<entry>[&#x3bc;m]</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="9" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="56pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="char" char="."/>
+<colspec colname="10" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Sample40</entry>
+<entry>3000</entry>
+<entry>6</entry>
+<entry>30</entry>
+<entry>69</entry>
+<entry/>
+<entry>50</entry>
+<entry>Imidazoline Base</entry>
+<entry>4</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry>Sample41</entry>
+<entry>3000</entry>
+<entry>&#x2193;</entry>
+<entry>34</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>7</entry>
+<entry>0.8</entry>
+</row>
+<row>
+<entry>Sample42</entry>
+<entry>3000</entry>
+<entry>&#x2193;</entry>
+<entry>38</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>15</entry>
+<entry>1.1</entry>
+</row>
+<row>
+<entry>Sample43</entry>
+<entry>3000</entry>
+<entry>&#x2193;</entry>
+<entry>42</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>30</entry>
+</row>
+<row>
+<entry>Sample44</entry>
+<entry>3000</entry>
+<entry>&#x2193;</entry>
+<entry>46</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>50</entry>
+</row>
+<row>
+<entry>Sample45</entry>
+<entry>3000</entry>
+<entry>&#x2193;</entry>
+<entry>50</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>84</entry>
+</row>
+<row>
+<entry>Sample46</entry>
+<entry>3000</entry>
+<entry>&#x2193;</entry>
+<entry>54</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>131</entry>
+</row>
+<row>
+<entry>Sample47</entry>
+<entry>3000</entry>
+<entry>&#x2193;</entry>
+<entry>58</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>200</entry>
+</row>
+<row>
+<entry namest="1" nameend="10" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0014" level="1">Example 6</heading>
+<p id="p-0203" num="0207">As shown in Table 6 below, other than using a polyvinyl butyral resin having a polymerization degree of 2000 as a binder resin, and making a weight ratio (resin amount) of the binder resin with respect to 100 parts by weight of the ceramic powder to 2 to 10 parts by weight, electrode level difference absorbing print pastes of sample numbers 50 to 54 were produced in the same way as in the example 1, and viscosity of the paste, the minimum possible print thickness by the printing method and film density were examined.</p>
+<p id="p-0204" num="0208">The film density was obtained by coating the electrode level difference absorbing print paste by using an applicator having a gap of 250 &#x3bc;m to form a film, drying at 100&#xb0; C. for 15 minutes, and calculated from a thickness and weight of a certain area.</p>
+<p id="p-0205" num="0209">The results are shown in Table 6. As shown in Table 6, as the resin amount increases, the film density becomes lower and thin film printing becomes difficult, while as the resin amount decreases, strength of the film declines and handlability declines. Accordingly, the resin amount is preferably 3 to 9 parts by weight, and more preferably 4 to 8 parts by weight.</p>
+<p id="p-0206" num="0210">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<colspec colname="10" colwidth="28pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" rowsep="1">TABLE 6</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Polymer-</entry>
+<entry>Resin</entry>
+<entry>Pigment</entry>
+<entry>Butyralation</entry>
+<entry>Acetalization</entry>
+<entry>Plasticizer</entry>
+<entry>Antistatic</entry>
+<entry>Viscosity</entry>
+<entry>Print</entry>
+<entry>Film</entry>
+</row>
+<row>
+<entry/>
+<entry>ization</entry>
+<entry>Amount</entry>
+<entry>Concentration</entry>
+<entry>Degree</entry>
+<entry>Degree</entry>
+<entry>Amount</entry>
+<entry>Agent</entry>
+<entry>[Pa &#xb7; s]</entry>
+<entry>Thickness</entry>
+<entry>Density</entry>
+</row>
+<row>
+<entry/>
+<entry>Degree</entry>
+<entry>[php]</entry>
+<entry>[wt. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[phr]</entry>
+<entry>Kind</entry>
+<entry>(at 8[1/s])</entry>
+<entry>[&#x3bc;m]</entry>
+<entry>[g/cm3]</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="42pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="char" char="."/>
+<colspec colname="10" colwidth="35pt" align="center"/>
+<colspec colname="11" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Sample50</entry>
+<entry>2000</entry>
+<entry>2</entry>
+<entry>42</entry>
+<entry>69</entry>
+<entry/>
+<entry>50</entry>
+<entry>Imidazoline</entry>
+<entry>2</entry>
+<entry>1.0</entry>
+<entry>3.8</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Base</entry>
+</row>
+<row>
+<entry>Sample51</entry>
+<entry>&#x2193;</entry>
+<entry>4</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>4</entry>
+<entry>1.1</entry>
+<entry>3.8</entry>
+</row>
+<row>
+<entry>Sample52</entry>
+<entry>&#x2193;</entry>
+<entry>6</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>11</entry>
+<entry>1.2</entry>
+<entry>3.6</entry>
+</row>
+<row>
+<entry>Sample53</entry>
+<entry>&#x2193;</entry>
+<entry>8</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>20</entry>
+<entry>1.3</entry>
+<entry>3.4</entry>
+</row>
+<row>
+<entry>Sample54</entry>
+<entry>&#x2193;</entry>
+<entry>10</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>35</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0015" level="1">Example 7</heading>
+<p id="p-0207" num="0211">As shown in Table 7 below, other than using a polyvinyl butyral resin having a polymerization degree of 2400 as a binder resin, and changing a butyralation degree thereof to be in a range of 77 to 63 mol %, electrode level difference absorbing print pastes of sample numbers 60 to 64 were produced in the same way as in the example 1, and viscosity of the paste, the minimum possible print thickness by the printing method and surface roughness (Ra: &#x3bc;m) of the print film were examined.</p>
+<p id="p-0208" num="0212">The surface roughness was obtained by printing the electrode level difference absorbing print paste on a green sheet by the screen printing method, dried at 80&#xb0; C. for 5 minutes, and measuring the surface roughness (Ra) of an obtained electrode layer. The measurement was made by using a Surfcorder (SE-30D) (product name) made by Kosaka Laboratories Ltd.</p>
+<p id="p-0209" num="0213">The results are shown in Table 7. As shown in Table 7, as the butyralation degree becomes lower, the resin becomes hard to be dissolved and the surface roughness deteriorates, while as the degree becomes higher, the paste viscosity declines. Accordingly, the butyralation degree of the binder resin is preferably in a range of 64 to 74 mol %.</p>
+<p id="p-0210" num="0214">
+<tables id="TABLE-US-00007" num="00007">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<colspec colname="10" colwidth="49pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" rowsep="1">TABLE 7</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Pigment</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Polymer-</entry>
+<entry>Resin</entry>
+<entry>Concen-</entry>
+<entry>Butyralation</entry>
+<entry>Acetalization</entry>
+<entry>Plasticizer</entry>
+<entry>Antistatic</entry>
+<entry>Viscosity</entry>
+<entry>Print</entry>
+<entry>Surface</entry>
+</row>
+<row>
+<entry/>
+<entry>ization</entry>
+<entry>Amount</entry>
+<entry>tration</entry>
+<entry>Degree</entry>
+<entry>Degree</entry>
+<entry>Amount</entry>
+<entry>Agent</entry>
+<entry>[Pa &#xb7; s]</entry>
+<entry>Thickness</entry>
+<entry>Roughness Ra</entry>
+</row>
+<row>
+<entry/>
+<entry>Degree</entry>
+<entry>[php]</entry>
+<entry>[wt. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[phr]</entry>
+<entry>Kind</entry>
+<entry>(at 8[1/s])</entry>
+<entry>[&#x3bc;m]</entry>
+<entry>[&#x3bc;m]</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="42pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="char" char="."/>
+<colspec colname="10" colwidth="35pt" align="center"/>
+<colspec colname="11" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Sample 60</entry>
+<entry>2400</entry>
+<entry>6</entry>
+<entry>42</entry>
+<entry>77</entry>
+<entry/>
+<entry>50</entry>
+<entry>Imidazoline</entry>
+<entry>3</entry>
+<entry>1.2</entry>
+<entry>0.55</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Base</entry>
+</row>
+<row>
+<entry>Sample 61</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>74</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>8</entry>
+<entry>1.3</entry>
+<entry>0.59</entry>
+</row>
+<row>
+<entry>Sample 62</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>69</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>16</entry>
+<entry>1.3</entry>
+<entry>0.62</entry>
+</row>
+<row>
+<entry>Sample 63</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>66</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>20</entry>
+<entry>1.4</entry>
+<entry>0.91</entry>
+</row>
+<row>
+<entry>Sample 64</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>63</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>33</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0016" level="1">Example 8</heading>
+<p id="p-0211" num="0215">As shown in Table 8 below, other than using a polyvinyl acetal resin having a polymerization degree of 2400 as a binder resin, and changing an acetalization degree thereof to be in a range of 77 to 63 mol %, electrode level difference absorbing print pastes of sample numbers 70 to 74 were produced in the same way as in the example 1, and viscosity of the paste, the minimum possible print thickness by the printing-method and surface roughness (Ra: &#x3bc;m) of the print film were examined. The surface roughness was measured ion the same way as that in the example 7.</p>
+<p id="p-0212" num="0216">The results are shown in Table 8. As shown in Table 8, as the acetalization degree becomes higher, the resin becomes hard to be dissolved and the surface roughness deteriorates, while as the degree becomes lower, the paste viscosity declines. Accordingly, the acetalization degree of the binder resin is preferably in a range of 66 to 74 mol %.</p>
+<p id="p-0213" num="0217">
+<tables id="TABLE-US-00008" num="00008">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<colspec colname="10" colwidth="49pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" rowsep="1">TABLE 8</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Pigment</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Polymer-</entry>
+<entry>Resin</entry>
+<entry>Concen-</entry>
+<entry>Butyralation</entry>
+<entry>Acetalization</entry>
+<entry>Plasticizer</entry>
+<entry>Antistatic</entry>
+<entry>Viscosity</entry>
+<entry>Print</entry>
+<entry>Surface</entry>
+</row>
+<row>
+<entry/>
+<entry>ization</entry>
+<entry>Amount</entry>
+<entry>tration</entry>
+<entry>Degree</entry>
+<entry>Degree</entry>
+<entry>Amount</entry>
+<entry>Agent</entry>
+<entry>[Pa &#xb7; s]</entry>
+<entry>Thickness</entry>
+<entry>RoughnessRa</entry>
+</row>
+<row>
+<entry/>
+<entry>Degree</entry>
+<entry>[php]</entry>
+<entry>[wt. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[phr]</entry>
+<entry>Kind</entry>
+<entry>(at 8[1/s])</entry>
+<entry>[&#x3bc;m]</entry>
+<entry>[&#x3bc;m]</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="42pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="char" char="."/>
+<colspec colname="10" colwidth="35pt" align="center"/>
+<colspec colname="11" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Sample 70</entry>
+<entry>2400</entry>
+<entry>6</entry>
+<entry>42</entry>
+<entry/>
+<entry>77</entry>
+<entry>50</entry>
+<entry>Imidazoline</entry>
+<entry>36</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Base</entry>
+</row>
+<row>
+<entry>Sample 71</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>74</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>28</entry>
+<entry>1.4</entry>
+<entry>0.92</entry>
+</row>
+<row>
+<entry>Sample 72</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>71</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>23</entry>
+<entry>1.4</entry>
+<entry>0.81</entry>
+</row>
+<row>
+<entry>Sample 73</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>66</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>14</entry>
+<entry>1.3</entry>
+<entry>0.63</entry>
+</row>
+<row>
+<entry>Sample 74</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>63</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>3</entry>
+<entry>1.3</entry>
+<entry>0.60</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0017" level="1">Example 9</heading>
+<p id="p-0214" num="0218">As shown in Table 9 below, other than using a polyvinyl butyral resin having a polymerization degree of 2000 as a binder resin, and making dioctyl phthalate as a plasticizer contained at a ratio of 0 to 150 parts by weight with respect to 100 parts by weight of the binder resin, electrode level difference absorbing print pastes of sample numbers 80 to 84 were produced in the same way as in the example 1, and viscosity of the paste, the minimum possible print thickness by the printing method and a PET release force (mN/cm) were examined.</p>
+<p id="p-0215" num="0219">Measurement of the PET release force was obtained by pulling up one end of the carrier sheet <b>20</b> in the direction of 90 degrees with respect to the plane of the stacked body at a rate of 8 mm/min., for example, in a state shown in <figref idref="DRAWINGS">FIG. 3B</figref>, and a force (mN/cm) applied to the carrier sheet <b>20</b> was considered as release strength. Since the carrier sheet <b>20</b> positions on the release layer <b>22</b> side, the release strength of the carrier sheet <b>20</b> was indicated as a PET release force on the release layer side in Table 9.</p>
+<p id="p-0216" num="0220">The results are shown in Table 9. As shown in <figref idref="DRAWINGS">FIG. 9</figref>, when an amount of the plasticizer is small, a release trouble (breaking) arises due to the heavy release, while when the plasticizer amount is large, the plasticizer remains as a nonvolatile component on the print film and the printing material becomes hard to be rolled up. Accordingly, the plasticizer is contained by preferably 10 to 200 parts by weight, more preferably 20 to 150 parts by weight, further preferably 30 to 100 parts by weight, and particularly preferably 50 to 100 parts by weight with respect to 100 parts by weight of the binder resin.</p>
+<p id="p-0217" num="0221">
+<tables id="TABLE-US-00009" num="00009">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<colspec colname="10" colwidth="49pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" rowsep="1">TABLE 9</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Pigment</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>PET</entry>
+</row>
+<row>
+<entry/>
+<entry>Polymer-</entry>
+<entry>Resin</entry>
+<entry>Concen-</entry>
+<entry>Butyralation</entry>
+<entry>Acetalization</entry>
+<entry>Plasticizer</entry>
+<entry>Antistatic</entry>
+<entry>Viscosity</entry>
+<entry>Print</entry>
+<entry>Release</entry>
+</row>
+<row>
+<entry/>
+<entry>ization</entry>
+<entry>Amount</entry>
+<entry>tration</entry>
+<entry>Degree</entry>
+<entry>Degree</entry>
+<entry>Amount</entry>
+<entry>Agent</entry>
+<entry>[Pa &#xb7; s]</entry>
+<entry>Thickness</entry>
+<entry>Force</entry>
+</row>
+<row>
+<entry/>
+<entry>Degree</entry>
+<entry>[php]</entry>
+<entry>[wt. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[phr]</entry>
+<entry>Kind</entry>
+<entry>(at 8[1/s])</entry>
+<entry>[&#x3bc;m]</entry>
+<entry>[mN/cm]</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="char" char="."/>
+<colspec colname="8" colwidth="42pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<colspec colname="10" colwidth="35pt" align="center"/>
+<colspec colname="11" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Sample80</entry>
+<entry>2000</entry>
+<entry>6</entry>
+<entry>42</entry>
+<entry>69</entry>
+<entry/>
+<entry>0</entry>
+<entry>Imidazoline</entry>
+<entry>12</entry>
+<entry>1.1</entry>
+<entry>35</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Base</entry>
+</row>
+<row>
+<entry>Sample81</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>10</entry>
+<entry>&#x2193;</entry>
+<entry>12</entry>
+<entry>1.1</entry>
+<entry>25</entry>
+</row>
+<row>
+<entry>Sample82</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>30</entry>
+<entry>&#x2193;</entry>
+<entry>12</entry>
+<entry>1.2</entry>
+<entry>20</entry>
+</row>
+<row>
+<entry>Sample83</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>50</entry>
+<entry>&#x2193;</entry>
+<entry>12</entry>
+<entry>1.2</entry>
+<entry>16</entry>
+</row>
+<row>
+<entry>Sample84</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>80</entry>
+<entry>&#x2193;</entry>
+<entry>12</entry>
+<entry>1.2</entry>
+<entry>14</entry>
+</row>
+<row>
+<entry>Sample85</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>100</entry>
+<entry>&#x2193;</entry>
+<entry>11</entry>
+<entry>1.3</entry>
+<entry>10</entry>
+</row>
+<row>
+<entry>Sample86</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>150</entry>
+<entry>&#x2193;</entry>
+<entry>10</entry>
+<entry>1.3</entry>
+<entry>Unmeasurable</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0018" level="1">Example 10</heading>
+<p id="p-0218" num="0222">As shown in Table 10 below, other than using a polyvinyl butyral resin having a polymerization degree of 2000 as a binder resin and using any one of polyethylene glycol (a hygroscopic polymer), polyalkylene glycol derivative based surfactant (amphoteric surfactant), carboxylic acid amidine salt based surfactant (amphoteric surfactant), and imidazoline based surfactant (amphoteric surfactant) as an antistatic agent, or not adding any antistatic agent, electrode level difference absorbing print pastes of sample numbers 90 to 94 were produced in the same way as in the example 1, and viscosity of the paste, the minimum possible thickness by the printing method and a static electricity amount (kV) were examined.</p>
+<p id="p-0219" num="0223">Note that the static electricity amount was evaluated as below. Namely, measurement was made by using S55-1 made by SHINKO Corporation immediately after removing the support sheet <b>20</b> shown in <figref idref="DRAWINGS">FIG. 3B</figref> and by making a distance from the blank layer <b>24</b> to be 1 cm. The measurement value is a value measured after 5 seconds from removal. The less the static electricity (kV) to be generated is, the more preferable. When electrostatic generates, the sheet gets wrinkled, so that stacking with high accuracy becomes difficult.</p>
+<p id="p-0220" num="0224">In Table 10, 1-hydroxyethyl 2-alkylimidazoline quarternary salt was used as an imidazoline based surfactant.</p>
+<p id="p-0221" num="0225">As shown in Table 10, it was confirmed that the static electricity can be reduced by making an antistatic agent contained comparing with the sample 94 with no antistatic agent contained therein. Also, imidazoline based antistatic agents were confirmed to be preferable among them.</p>
+<p id="p-0222" num="0226">
+<tables id="TABLE-US-00010" num="00010">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<colspec colname="10" colwidth="35pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" rowsep="1">TABLE 10</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Pigment</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Static</entry>
+</row>
+<row>
+<entry/>
+<entry>Polymer-</entry>
+<entry>Resin</entry>
+<entry>Concen-</entry>
+<entry>Butyralation</entry>
+<entry>Acetalization</entry>
+<entry>Plasticizer</entry>
+<entry>Antistatic</entry>
+<entry>Viscosity</entry>
+<entry>Print</entry>
+<entry>Electricity</entry>
+</row>
+<row>
+<entry/>
+<entry>ization</entry>
+<entry>Amount</entry>
+<entry>tration</entry>
+<entry>Degree</entry>
+<entry>Degree</entry>
+<entry>Amount</entry>
+<entry>Agent</entry>
+<entry>[Pa &#xb7; s]</entry>
+<entry>Thickness</entry>
+<entry>Amount</entry>
+</row>
+<row>
+<entry/>
+<entry>Degree</entry>
+<entry>[php]</entry>
+<entry>[wt. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[mol. %]</entry>
+<entry>[phr]</entry>
+<entry>Kind</entry>
+<entry>(at 8[1/s])</entry>
+<entry>[&#x3bc;m]</entry>
+<entry>[kV]</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<colspec colname="10" colwidth="35pt" align="center"/>
+<colspec colname="11" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Sample90</entry>
+<entry>2000</entry>
+<entry>6</entry>
+<entry>42</entry>
+<entry>69</entry>
+<entry/>
+<entry>50</entry>
+<entry>*1</entry>
+<entry>12</entry>
+<entry>1.1</entry>
+<entry>12</entry>
+</row>
+<row>
+<entry>Sample91</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>*2</entry>
+<entry>12</entry>
+<entry>1.2</entry>
+<entry>11</entry>
+</row>
+<row>
+<entry>Sample92</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>*3</entry>
+<entry>12</entry>
+<entry>1.2</entry>
+<entry>13</entry>
+</row>
+<row>
+<entry>Sample93</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>*4</entry>
+<entry>12</entry>
+<entry>1.2</entry>
+<entry>4</entry>
+</row>
+<row>
+<entry>Sample94</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry>&#x2193;</entry>
+<entry/>
+<entry>&#x2193;</entry>
+<entry>None</entry>
+<entry>11</entry>
+<entry>1.2</entry>
+<entry>36</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="11" align="left" id="FOO-00001">*1: polyethylene glycol</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="left" id="FOO-00002">*2: polyalkylene glycol derivative based surfactant</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="left" id="FOO-00003">*3: carboxylic acid amidine salt based surfactant</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="left" id="FOO-00004">*4: imidazoline based surfactant</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0019" level="1">EFFECTS OF THE INVENTION</heading>
+<p id="p-0223" num="0227">As explained above, according to the present invention, it is possible to provide an electrode level difference absorbing print paste capable of eliminating a level difference on an electrode layer between green sheets and effectively preventing delamination between sheets and deformation of a stacked body even when a thickness of the green sheet and/or electronic layer is extremely thin, and a production method of an electronic device. Therefore, an electrode level difference absorbing print paste suitable to make an electronic device thinner and multilayered, and a production method of an electronic device can be provided.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An electrode level difference absorbing print paste comprising ceramic powder, a binder resin, a plasticizer and a solvent, wherein:
+<claim-text>said binder resin comprises a polyvinyl butyral resin or a polyacetal resin,</claim-text>
+<claim-text>a polymerization degree of the resin is 1400 or more,</claim-text>
+<claim-text>a butyralation degree of the resin is 64 to 74 mol %,</claim-text>
+<claim-text>an acetalization degree of the resin is 66 to 74 mol %,</claim-text>
+<claim-text>a content of the binder resin is 3 parts by weight or more and 9 parts by weight or less with respect to 100 parts by weight of said ceramic powder;</claim-text>
+<claim-text>said solvent comprises at least one of terpineol, dihydroterpineol, terpinyl acetate, dihydroterpinyl acetate and 4-(1&#x2032;-acetoxy-1&#x2032;-)cyclohexanol acetate,</claim-text>
+<claim-text>a content of the solvent is 50 to 70 parts by weight with respect to 100 parts by weight of the paste,</claim-text>
+<claim-text>a content of the ceramic powder is 30 to 55 wt % with respect to a total weight of the paste,</claim-text>
+<claim-text>a viscosity of the electrode level difference absorbing print paste is 4 to 30 Pa's when being given rotation of obtaining a shear rate of 8[1/s], and</claim-text>
+<claim-text>a content of the plasticizer is 50 to 100 parts by weight with respect to 100 parts by weight of the binder resin.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The electrode level difference absorbing print paste as set forth in <claim-ref idref="CLM-00001">claim 1</claim-ref>, comprising at least one of phthalate ester, adipic acid ester, sebacic acid ester and sebacic dibutyl as said plasticizer.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The electrode level difference absorbing print paste as set forth in <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising at least one of a hygroscopic polymer, cation based surfactant and amphoteric surfactant as an antistatic agent.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The electrode level difference absorbing print paste as set forth in <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein:
+<claim-text>the phthalate ester is selected from the group consisting of dibutyl phthalate (DBP), dioctyl phthalate (DOP), benzylbutyl phthalate (BBP), butyl butylene glycol (BPBG), and</claim-text>
+<claim-text>the adipic acid ester is dioctyl adipic acid (DOA).</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The electrode level difference absorbing print paste as set forth in <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein said cation based surfactant is an amine based surfactant.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

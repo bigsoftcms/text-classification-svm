@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641017-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641017</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11421248</doc-number>
+<date>20060531</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2005-162393</doc-number>
+<date>20050602</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>JP</country>
+<doc-number>2005-162395</doc-number>
+<date>20050602</date>
+</priority-claim>
+<priority-claim sequence="03" kind="national">
+<country>JP</country>
+<doc-number>2005-162396</doc-number>
+<date>20050602</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>679</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>60</class>
+<subclass>K</subclass>
+<main-group>1</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>180291</main-classification>
+<further-classification>180 6522</further-classification>
+</classification-national>
+<invention-title id="d0e107">Fuel cell vehicle</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5193635</doc-number>
+<kind>A</kind>
+<name>Mizuno et al.</name>
+<date>19930300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 6525</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5392873</doc-number>
+<kind>A</kind>
+<name>Masuyama et al.</name>
+<date>19950200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 685</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5443578</doc-number>
+<kind>A</kind>
+<name>Davis, Jr.</name>
+<date>19950800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>280834</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5501289</doc-number>
+<kind>A</kind>
+<name>Nishikawa et al.</name>
+<date>19960300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 685</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5534364</doc-number>
+<kind>A</kind>
+<name>Watanabe et al.</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>429 61</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5641031</doc-number>
+<kind>A</kind>
+<name>Riemer et al.</name>
+<date>19970600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>429 13</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5673939</doc-number>
+<kind>A</kind>
+<name>Bees et al.</name>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>280831</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5702125</doc-number>
+<kind>A</kind>
+<name>Nakajima et al.</name>
+<date>19971200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>280834</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6188574</doc-number>
+<kind>B1</kind>
+<name>Anazawa</name>
+<date>20010200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>361695</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6220380</doc-number>
+<kind>B1</kind>
+<name>Mita et al.</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 651</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6378637</doc-number>
+<kind>B1</kind>
+<name>Ono et al.</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 6531</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6598691</doc-number>
+<kind>B2</kind>
+<name>Mita et al.</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 651</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>6676163</doc-number>
+<kind>B2</kind>
+<name>Joitescu et al.</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>280834</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>6824168</doc-number>
+<kind>B2</kind>
+<name>Kawazu et al.</name>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>280834</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>6874588</doc-number>
+<kind>B2</kind>
+<name>Kato et al.</name>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>429 13</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6953099</doc-number>
+<kind>B2</kind>
+<name>Kawasaki et al.</name>
+<date>20051000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 651</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>6974156</doc-number>
+<kind>B2</kind>
+<name>Kosuge et al.</name>
+<date>20051200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>280831</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6983945</doc-number>
+<kind>B2</kind>
+<name>Kawasaki et al.</name>
+<date>20060100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>280834</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6994178</doc-number>
+<kind>B2</kind>
+<name>Mizuno</name>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>429 13</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>7040432</doc-number>
+<kind>B2</kind>
+<name>Kawasaki et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 651</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>7048321</doc-number>
+<kind>B2</kind>
+<name>Bandoh et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>296 378</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>7063355</doc-number>
+<kind>B2</kind>
+<name>Hashimura</name>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>280830</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>7073824</doc-number>
+<kind>B2</kind>
+<name>Uhara et al.</name>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>280834</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>7108091</doc-number>
+<kind>B2</kind>
+<name>Guidry et al.</name>
+<date>20060900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 681</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>7137466</doc-number>
+<kind>B2</kind>
+<name>Kawasaki et al.</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>429 13</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>7137474</doc-number>
+<kind>B2</kind>
+<name>Yokote</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180314</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>7195282</doc-number>
+<kind>B2</kind>
+<name>Mizuno</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>280830</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>7219758</doc-number>
+<kind>B2</kind>
+<name>Guidry et al.</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 6531</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>7264277</doc-number>
+<kind>B2</kind>
+<name>Ono et al.</name>
+<date>20070900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>280830</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>7270209</doc-number>
+<kind>B2</kind>
+<name>Suess</name>
+<date>20070900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 695</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>7533748</doc-number>
+<kind>B2</kind>
+<name>Miyajima et al.</name>
+<date>20090500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 685</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>2003/0012998</doc-number>
+<kind>A1</kind>
+<name>Bruck et al.</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>429 34</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>2003/0047932</doc-number>
+<kind>A1</kind>
+<name>Kawazu et al.</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>280830</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>2003/0189334</doc-number>
+<kind>A1</kind>
+<name>Kawasaki et al.</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>280834</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>2004/0020696</doc-number>
+<kind>A1</kind>
+<name>Kawasaki et al.</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 651</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>2004/0062955</doc-number>
+<kind>A1</kind>
+<name>Kubota et al.</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>429  9</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>2004/0094340</doc-number>
+<kind>A1</kind>
+<name>Kawasaki et al.</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 651</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>2004/0101725</doc-number>
+<kind>A1</kind>
+<name>Kato et al.</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>429 24</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>2004/0101745</doc-number>
+<kind>A1</kind>
+<name>Kawasaki et al.</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>429 96</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>2005/0158606</doc-number>
+<kind>A1</kind>
+<name>Xia et al.</name>
+<date>20050700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>429 34</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>2005/0161935</doc-number>
+<kind>A1</kind>
+<name>Ono et al.</name>
+<date>20050700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>280834</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>2005/0173170</doc-number>
+<kind>A1</kind>
+<name>Miyajima et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 685</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>2005/0211496</doc-number>
+<kind>A1</kind>
+<name>Ito et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180314</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>2006/0102398</doc-number>
+<kind>A1</kind>
+<name>Mizuno</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 653</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>JP</country>
+<doc-number>2003-182624</doc-number>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>8</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>180 651</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180 6531</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180291</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180295</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180299</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180311</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180312</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>29619307</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>29618708</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>296204</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>12</number-of-drawing-sheets>
+<number-of-figures>14</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060272877</doc-number>
+<kind>A1</kind>
+<date>20061207</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nozaki</last-name>
+<first-name>Shujiro</first-name>
+<address>
+<city>Utsunomiya</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kato</last-name>
+<first-name>Takashi</first-name>
+<address>
+<city>Shioya-gun</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Anazawa</last-name>
+<first-name>Makoto</first-name>
+<address>
+<city>Utsunomiya</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nakaarai</last-name>
+<first-name>Masato</first-name>
+<address>
+<city>Utsunomiya</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Rankin, Hill &#x26; Clark LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Honda Motor Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Dayoan</last-name>
+<first-name>Glenn</first-name>
+<department>3618</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Coolman</last-name>
+<first-name>Vaughn T</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A fuel cell vehicle includes a vehicle body having a floor frame; a fuel cell that generates electricity by the electrochemical reaction of hydrogen and oxygen; and a subframe on which the fuel cell is mounted, being attached to the lower side of the floor frame and has a pair of side frames that extend in the fore-aft direction of the vehicle body, wherein the bottom end of the fuel cell disposed at a position between the upper end and the lower end of the subframe.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="99.40mm" wi="244.52mm" file="US07641017-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="213.44mm" wi="131.06mm" orientation="landscape" file="US07641017-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="273.73mm" wi="114.55mm" orientation="landscape" file="US07641017-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="246.55mm" wi="108.63mm" orientation="landscape" file="US07641017-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="252.56mm" wi="142.75mm" orientation="landscape" file="US07641017-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="259.25mm" wi="171.03mm" orientation="landscape" file="US07641017-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="235.12mm" wi="174.84mm" orientation="landscape" file="US07641017-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="244.69mm" wi="177.21mm" orientation="landscape" file="US07641017-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="248.50mm" wi="171.03mm" file="US07641017-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="235.80mm" wi="139.95mm" file="US07641017-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="225.98mm" wi="116.50mm" file="US07641017-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="195.33mm" wi="116.50mm" orientation="landscape" file="US07641017-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="140.21mm" wi="125.22mm" file="US07641017-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">The present invention relates to a fuel cell vehicle equipped with an electric motor powered by a fuel cell.</p>
+<p id="p-0004" num="0003">Priority is claimed on Japanese Patent Applications No. 2005-162393, No. 2005-162395, and No. 2005-162396 filed Jun. 2, 2005, the content of which is incorporated herein by reference.</p>
+<p id="p-0005" num="0004">2. Description of Related Art</p>
+<p id="p-0006" num="0005">There is known a fuel cell mounting structure for a fuel cell vehicle that provides a subframe on which are mounted the fuel cell and auxiliary components thereof, with the subframe being fastened to vehicle body frame members from below to be disposed under the vehicle floor. (see, for example, Japanese Unexamined Patent Application, First Publication No. 2003-182624.)</p>
+<p id="p-0007" num="0006">When mounting a fuel cell and the like on such a subframe to be disposed under the vehicle floor, care must be taken so that obstructions on the road do not interfere with the fuel cell.</p>
+<p id="p-0008" num="0007">Mechanical strength is required to the subframe for supporting the equipment mounted on the subframe while transmitting the weight to the vehicle body frame members. On the other hand, a lightweight subframe with a thin profile is sought to meet demands for reducing the vehicle weight. Simultaneously meeting both requirements has thus proven to be difficult.</p>
+<p id="p-0009" num="0008">Disposing the fuel cell and related components under the vehicle floor has also given rise to the issue of lowering the height of the vehicle floor. That is, since the fuel cell has conventionally been mounted on top of the subframe, mounting of the subframe has required that the height measurement from the bottom edge of the subframe to the vehicle floor be at least equal to the dimensions of the subframe in the height direction and the height dimension of the fuel cell. This has therefore posed a hurdle to lowering the height of the floor.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">An object of the present invention is to provide a fuel cell vehicle that can protect the fuel cell and related equipment from obstructions under the vehicle floor with a lightweight and simple structure.</p>
+<p id="p-0011" num="0010">Another object of the present invention is to provide a fuel cell vehicle provided with a subframe that ensures mechanical strength while being lightweight. Still another object of the present invention is to provide a fuel cell vehicle that allows for a lowering of the vehicle floor.</p>
+<p id="p-0012" num="0011">A first aspect of the present invention is a fuel cell vehicle including a vehicle body having a floor frame; a fuel cell that generates electricity by the electrochemical reaction of hydrogen and oxygen; and a subframe on which the fuel cell is mounted, being attached to the lower side of the floor frame and has a pair of side frames that extend in the fore-aft direction of the vehicle body, wherein the bottom end of the fuel cell disposed at a position between the upper end and the lower end of the subframe.</p>
+<p id="p-0013" num="0012">The fuel cell vehicle may further include a plurality of cross-members that extend in the width direction of the vehicle body to couple the side frames, wherein the fuel cell is disposed at a position between a mutually adjacent pair of the cross-members, with the bottom end of the fuel cell disposed at a position between the upper end and the lower end of the cross-members, and the front end portion and rear end portion of the fuel cell being fastened to those cross-members.</p>
+<p id="p-0014" num="0013">The fuel cell vehicle may further include an L-shape member which couples the fuel cell and the cross-members.</p>
+<p id="p-0015" num="0014">A second aspect of the present invention is a fuel cell vehicle including a vehicle body having a floor frame; front wheels; rear wheels; a fuel cell that generates electricity by the electrochemical reaction of hydrogen and oxygen; and a subframe on which the fuel cell is mounted, being attached to the lower side of the floor frame and has a pair of side frames that extend in the fore-aft direction of the vehicle body; wherein the lower end of each side frame is formed to have a recess portion so that the portion located substantially midway between the front wheels and the rear wheels is the highest point from the tire-ground contact surface.</p>
+<p id="p-0016" num="0015">The fuel cell vehicle may further include a plurality of cross-members that extend in the width direction of the vehicle body to couple the side frames, wherein each of the side frames has an upper side frame and a lower side frame, with the upper side frame and the lower side frame sandwiching and fixing the end portions of the cross-members.</p>
+<p id="p-0017" num="0016">The upper side frames, the lower side frames, and the end portions of the cross-members may be fastened to the floor frame by a common bolt.</p>
+<p id="p-0018" num="0017">The fuel cell vehicle may further include a plurality of cross-members that extend in the width direction of the vehicle body to couple the side frames and an underguard that is provided in front of the subframe and has a shape that slopes downward toward the rear of the vehicle body, wherein the vehicle body has a vehicle-body frame that extends in the width direction, and wherein the front edge of the underguard is coupled to the vehicle-body frame, and the rear edge of the underguard is coupled to the cross-member disposed closest to the front of the vehicle body.</p>
+<p id="p-0019" num="0018">The fuel cell vehicle may further include a second subframe attached to the lower side of the floor frame, separate from the subframe in the fore-aft direction of the vehicle body and a coupling member that couples mutually approaching portions of the subframe and the second subframe.</p>
+<p id="p-0020" num="0019">The fuel cell vehicle may further include a hydrogen tank which stores pressurized hydrogen to be supplied to the fuel cell, being mounted on the second subframe.</p>
+<p id="p-0021" num="0020">The fuel cell vehicle may further include a motor which drives at least one of the front wheels and rear wheels, being mounted on the second subframe.</p>
+<p id="p-0022" num="0021">The fuel cell vehicle may further include a plurality of cross-members that extend in the width direction of the vehicle body to couple the side frames, wherein the coupling member is coupled to one of the cross-members disposed at a position closest to the second subframe.</p>
+<p id="p-0023" num="0022">A third aspect of the present invention is a fuel cell vehicle including a vehicle body having a vehicle-body frame that extends in the width direction and a floor frame that extend in the fore-aft direction; a fuel cell that generates electricity by the electrochemical reaction of hydrogen and oxygen; a subframe on which the fuel cell is mounted, being attached to the lower side of the floor frame and has a pair of side frames that extend in the fore-aft direction of the vehicle body; a plurality of cross-members that extend in the width direction of the vehicle body to couple the side frames; and an underguard that is provided in front of the subframe and has a shape that slopes downward toward the rear of the vehicle body, wherein the front edge of the underguard is coupled to the vehicle-body frame, and the rear edge of the underguard is coupled to the cross-member disposed closest to the front of the vehicle body.</p>
+<p id="p-0024" num="0023">A fourth aspect of the present invention is a fuel cell vehicle including a vehicle body having a floor frame; a fuel cell that generates electricity by the electrochemical reaction of hydrogen and oxygen; a first subframe on which the fuel cell is mounted, being attached to the lower side of the floor frame and has a pair of side frames that extend in the fore-aft direction of the vehicle body; and a second subframe which is attached to the lower side of the floor frame, being coupled to one of the ends of the first subframe in the fore-aft direction of the vehicle body.</p>
+<p id="p-0025" num="0024">The fuel cell vehicle may further include a coupling member that couples mutually approaching portions of the first subframe and the second subframe.</p>
+<p id="p-0026" num="0025">The fuel cell vehicle may further include a hydrogen tank which stores pressurized hydrogen to be supplied to the fuel cell, being mounted on the second subframe.</p>
+<p id="p-0027" num="0026">The fuel cell vehicle may further include a motor which drives at least one of the front wheels and rear wheels, being mounted on the second subframe.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 1</figref> is a layout drawing of the fuel cell vehicle according to the present invention viewed from one side.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 2</figref> is an outline lineblock diagram of a fuel cell system mounted in the fuel cell vehicle.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 3</figref> is layout drawing of each subframe in the fuel cell vehicle.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 4</figref> is a drawing of the fuel cell vehicle showing the state of the fuel cell subframe mounted on the vehicle body, viewed from the rear of the vehicle.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 5</figref> is an exterior perspective view of the fuel cell subframe.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 6</figref> is a plan view of the fuel cell subframe.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 7</figref> is a plan view of the fuel cell subframe in the state of components being mounted thereon.</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 8</figref> is a perspective view of the coupling portion between a side frame and a cross-member in the fuel cell subframe.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 9</figref> is a cross-sectional view of the coupling portion.</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 10</figref> is a side elevation view showing the mounted state of the fuel cell on the fuel cell subframe.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 11</figref> is a side elevation view of the underguard provided forward of the fuel cell subframe.</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 12</figref> is a perspective view of the underguard when mounted on the fuel cell subframe, viewed at an angle from below.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 13</figref> is a plan view of the coupling portion between the fuel cell subframe and the hydrogen tank subframe.</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 14</figref> is a cross-sectional view along line X-X in <figref idref="DRAWINGS">FIG. 13</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0042" num="0041">An embodiment of the fuel cell vehicle according to the present invention shall be explained hereinbelow with reference to <figref idref="DRAWINGS">FIGS. 1 to 14</figref>. In the drawings, the arrows pointing in the front, rear, left, and right directions refer to the front, rear, left, and right of the vehicle body, respectively.</p>
+<p id="p-0043" num="0042">As shown in <figref idref="DRAWINGS">FIG. 1</figref>, a fuel cell vehicle <b>1</b> is one equipped with a fuel cell <b>2</b> that generates electricity by the electrochemical reaction of hydrogen and oxygen, and travels by driving a drive motor <b>3</b> with electric power produced by this generation</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 2</figref> shows an outline of the fuel cell system. As shown in <figref idref="DRAWINGS">FIG. 2</figref>, air including oxygen that is compressed by a compressor <b>4</b> is humidified with a humidifier <b>5</b> and then supplied to the cathode of the fuel cell <b>2</b>. After electricity generation, it is discharged from the fuel cell <b>2</b> and, after circulating through the humidifier <b>5</b> as a humidity source, is discharged through a pressure control valve <b>6</b>. On the other side, hydrogen gas from a hydrogen tank <b>7</b> is decompressed by a regulator <b>8</b> and supplied to the anode of the fuel cell <b>2</b> via an ejector <b>9</b>. Excess hydrogen gas is discharged from the fuel cell <b>2</b> and suctioned into the ejector <b>9</b>, where it is mixed with fresh hydrogen from the hydrogen tank <b>7</b> to be supplied again to the fuel cell <b>2</b>. In the following description, equipment such as the humidifier <b>5</b> and the pressure control valve <b>6</b> that are related to the feeding and discharging of air are referred to collectively as an air supply-discharge device <b>10</b>, while equipment such as the regulator <b>8</b> and the ejector <b>9</b> related to the supply of hydrogen are referred to collectively as a hydrogen circulation device <b>11</b>.</p>
+<p id="p-0045" num="0044">As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the drive motor <b>3</b> and the compressor <b>4</b> are mounted on a motor subframe <b>16</b> (refer to <figref idref="DRAWINGS">FIG. 3</figref>), to be installed near front tires <b>15</b>A. Two of the fuel cells <b>2</b> connected in series, a plurality of high-voltage electrical devices <b>12</b> that control the fuel cells <b>2</b>, the air supply-discharge device <b>10</b> and the hydrogen circulation device <b>11</b> are mounted on a fuel cell subframe <b>30</b> (refer to <figref idref="DRAWINGS">FIG. 3</figref>), to be installed in the underfloor area under a front floor <b>17</b> located under a front seat S. The hydrogen tank <b>7</b> is mounted with a capacitor <b>13</b> on a hydrogen tank subframe <b>90</b> (refer to <figref idref="DRAWINGS">FIG. 3</figref>), to be installed in the underfloor area below a rear floor <b>18</b> at the rear of the vehicle body. The capacitor <b>13</b> stores regenerative power from the drive motor <b>3</b> at the time of deceleration of the fuel cell vehicle <b>1</b>. The reference number <b>14</b> in <figref idref="DRAWINGS">FIG. 1</figref> indicates a radiator for cooling the cooling water that circulates through the fuel cells <b>2</b>.</p>
+<p id="p-0046" num="0045">As shown in <figref idref="DRAWINGS">FIG. 4</figref>, floor frames <b>19</b> that extend in the fore-aft direction of the vehicle body and have a hat-shaped cross section are joined by a flange portion <b>19</b>a to both sides of the bottom surface of the front floor <b>17</b> and the rear floor <b>18</b>. A vehicle body frame portion <b>20</b> is thereby formed in the fore-aft direction of the vehicle body by the floor frames <b>19</b>, the front floor <b>17</b>, and the rear floor <b>18</b>. The fuel cell subframe <b>30</b> is fastened to a lower wall <b>19</b><i>b </i>of each floor frame <b>19</b> from the lower side thereof by a bolt <b>55</b> and a nut <b>56</b>. Similarly, although not illustrated, the hydrogen tank subframe <b>90</b> is fastened by a bolt and a nut to the lower wall <b>19</b><i>b </i>of each floor frame <b>19</b> from the lower side thereof. The fuel cell subframe <b>30</b> and the hydrogen tank subframe <b>90</b> are disposed to be slightly separated in the fore-aft direction of the vehicle body.</p>
+<p id="p-0047" num="0046">As shown in <figref idref="DRAWINGS">FIGS. 5 to 7</figref>, the fuel cell subframe <b>30</b> is mainly constituted by a pair of side frames <b>31</b> that extend in the fore-aft direction along both sides of the vehicle body; five cross-members <b>40</b>A, <b>40</b>B, <b>40</b>C, <b>40</b>D, and <b>40</b>E that extend in the width direction of the vehicle and link the side frames <b>31</b> on both sides (hereinafter generically referred to as cross-members <b>40</b> as long as there is no need to distinguish between them); and four bottom plates <b>60</b> that are attached to the bottoms of the cross-members <b>40</b> so as to close up the gaps between adjacent cross-members <b>40</b>.</p>
+<p id="p-0048" num="0047">As shown in <figref idref="DRAWINGS">FIGS. 3 and 4</figref>, the side frame <b>31</b> is constituted by an approximately rectangular closed sectional shape by welding an upper side frame <b>32</b> and a lower side frame <b>33</b> to a flange portion <b>34</b>. Both of the frames <b>32</b> and <b>33</b> are formed by press molding or hydroforming aluminum and have a hat-shaped sectional shape. Also, as shown in <figref idref="DRAWINGS">FIG. 3</figref>, the fuel cell subframe <b>30</b> is disposed between the front tires <b>15</b>A and the rear tires <b>15</b>B, being offset slightly toward the front. The height of the upper surface of each side frame <b>31</b> from the tire-ground contact surface G is constant at every position along the fore-aft direction of the vehicle body. However, the lower surface of each side frame <b>31</b> curves, with the height from the tire-ground contact surface G being highest at approximately the center portion C between the front tires <b>15</b>A and the rear tires <b>15</b>B, and the height of the lower surface of the side frame <b>31</b> gradually decreasing toward the front or rear of the vehicle. In this embodiment, the dimension of the lower side frame <b>33</b> in the height direction is constant over its entire length in the fore-aft direction of the vehicle body, while the dimension of the upper side frame <b>32</b> in the height direction changes along the fore-aft direction of the vehicle body.</p>
+<p id="p-0049" num="0048">Each cross-member <b>40</b> is formed by extrusion molding of aluminum in an approximately rectangular closed sectional shape so as to have a flange <b>41</b> on the lower portion. Openings <b>35</b><i>a </i>are formed on the interior side of a crest portion <b>35</b> in each upper side frame <b>32</b>, with the end portions of each cross-member <b>40</b> being inserted from each opening <b>35</b><i>a. </i></p>
+<p id="p-0050" num="0049">The third cross-member <b>40</b>C from the vehicle body front side is disposed near the center portion C that is the highest location on the lower surface of the pair of side frames <b>31</b>. The thickness (a dimension of a member in the height direction) of the cross-member <b>40</b>C is the least among the five cross-members <b>40</b>A to <b>40</b>E. The thickness of the cross-member <b>40</b>A disposed closest to the front of the vehicle body is greater than that of the cross-member <b>40</b>C. The thickness of the cross-member <b>40</b>B, which is the second cross-member from the front of the vehicle body, is less than the cross-member <b>40</b>A but greater than the cross-member <b>40</b>C. Also, the cross-member <b>40</b>E, which is disposed closest to the rear of the vehicle body, is thicker than the cross-member <b>40</b>C, and the cross-member <b>40</b>D, which is the second cross-member from the rear of the vehicle body, is thinner than the cross-member <b>40</b>E but thicker than the cross-member <b>40</b>C.</p>
+<p id="p-0051" num="0050">The end portions of each cross-member <b>40</b> are inserted into the side frames <b>31</b> from each opening <b>35</b><i>a </i>in the upper side frames <b>32</b>, and fastened to the floor frame <b>19</b> together with the side frames <b>31</b>. Specifically, as shown in <figref idref="DRAWINGS">FIGS. 8 and 9</figref>, in the portion of the end portion of the cross-member <b>40</b> that is inserted into the side frame <b>31</b>, an opening <b>45</b> is formed along side walls <b>44</b> from a lower wall <b>43</b>, and a bolt insertion hole <b>42</b><i>a </i>is formed in an upper wall <b>42</b>. Also, in the lower side frame <b>33</b>, a circular hole <b>37</b> is provided at a location corresponding to the opening <b>45</b>, and a recessed portion <b>38</b> that recesses toward the upper side frame <b>32</b> is formed along the periphery of the hole <b>37</b>.</p>
+<p id="p-0052" num="0051">A stepped cylindrical collar <b>50</b> is inserted into the hole <b>37</b> from the lower side of the frame <b>33</b>. The collar <b>50</b> is made of aluminum and consists of a large diameter cylinder portion <b>51</b> having an outer diameter that is larger than the gap between the side walls <b>44</b> of the cross-member <b>40</b> and a small diameter cylinder portion <b>52</b> that can be inserted between the side walls <b>44</b>, with the large diameter portion <b>51</b> and the small diameter portion <b>52</b> being arranged consecutively along the same axis. A flange portion <b>53</b> is circularly formed along the lower end of the large diameter portion <b>51</b>, with a through-hole <b>54</b> passing through the small diameter portion <b>52</b>. The large diameter portion <b>51</b> and the small diameter portion <b>52</b> are inserted into the side frame <b>31</b> from the hole <b>37</b>, and the flange portion <b>53</b> abuts the recessed portion <b>38</b> and is welded thereto. The large diameter cylinder portion <b>51</b> is inserted into the opening <b>45</b>, and an upper wall <b>51</b><i>a </i>of the large diameter portion <b>51</b> abuts against an upper edge <b>45</b><i>a </i>of the opening <b>45</b> in the side walls <b>44</b> of the cross-member <b>40</b>. An upper wall <b>52</b><i>a </i>of the small diameter cylinder portion <b>52</b> inserted between the side walls <b>44</b> is abutted against the inner surface of the upper wall <b>42</b> of the cross-member <b>40</b>. Then a washer-faced bolt <b>55</b> is inserted from the lower side of the collar <b>50</b> into the through hole <b>54</b>, the bolt insertion hole <b>42</b><i>a </i>in the cross-member <b>40</b>, and a bolt insertion hole <b>35</b><i>b </i>in the upper side frame <b>32</b>, and moreover inserted into a bolt insertion hole (not illustrated) in the floor frame <b>19</b> to be screwed into a nut <b>56</b> that is welded to the floor frame <b>19</b> (refer to <figref idref="DRAWINGS">FIG. 4</figref>). Thereby, the cross-member <b>40</b> is forced upward by the collar <b>50</b>, and the upper wall <b>42</b> abuts against an upper wall <b>36</b> of the crest portion <b>35</b> of the upper side frame <b>32</b>.</p>
+<p id="p-0053" num="0052">Each of the bottom plates <b>60</b> is riveted to the flange portions <b>34</b> of the side frames <b>31</b> and the flange portions <b>41</b> of the cross-members <b>40</b>.</p>
+<p id="p-0054" num="0053">In the fuel cell subframe <b>30</b> constituted in this way, the upper side frame <b>32</b> and the lower side frame <b>33</b> are interposed by the collar <b>50</b> to grip the end portion of the cross-member <b>40</b>. The upper side frame <b>32</b>, the lower side frame <b>33</b>, and the end portion of the cross-member <b>40</b> are then integrally fastened to the floor frame <b>19</b> by the common bolt <b>55</b>.</p>
+<p id="p-0055" num="0054">As shown in <figref idref="DRAWINGS">FIG. 7</figref>, the fuel cells <b>2</b> are disposed between the second and third cross-members <b>40</b>B and <b>40</b>C from the front of the vehicle body in the fuel cell subframe <b>30</b>. As shown in <figref idref="DRAWINGS">FIG. 10</figref>, the lower end <b>2</b><i>a </i>of each of the fuel cells <b>2</b> is positioned between the lower end and the upper end of the cross-members <b>40</b>B and <b>40</b>C. A bolt <b>57</b> fixes a bracket <b>58</b> to each of the front and rear walls of the fuel cells <b>2</b>, and these brackets <b>58</b> are fixed to the upper wall <b>42</b> of the cross-members <b>40</b>B and <b>40</b>C by a bolt <b>59</b>, whereby the fuel cells <b>2</b> are attached to the fuel cell subframe <b>30</b>. That is, in the present embodiment, the rear end portions of the fuel cells <b>2</b> are fastened to the cross-member <b>40</b>C disposed near the center between the front tires <b>1</b> SA and the rear tires <b>15</b>B, so that the fuel cells <b>2</b> are disposed offset from the center portion toward the front of the vehicle body between the tires <b>15</b>A and <b>15</b>B. As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the fuel cells <b>2</b> are located under the front seat S.</p>
+<p id="p-0056" num="0055">The resulting structure has the lower portion of the fuel cells <b>2</b> embedded in the subframe <b>30</b>, with the fuel cell subframe <b>30</b> and the fuel cells <b>2</b> partially overlapping in the height direction. The height as a unit from the lower surface of the subframe <b>30</b> to the upper surface of the fuel cells <b>2</b> can thus be restricted. As a result, the height of the front floor <b>17</b> can be reduced to enable a lowering of the floor of the vehicle.</p>
+<p id="p-0057" num="0056">In addition, since the lower surface of the side frames <b>31</b> is curved as described above, when the vehicle drives over a road with an upwardly convex curve, the minimum clearance is ensured between the road surface and the lower surfaces of the side frames <b>31</b> at the center portion between the tires <b>15</b>A and <b>15</b>B, so that a lowering of the floor of the vehicle is attained.</p>
+<p id="p-0058" num="0057">The high-voltage electrical devices <b>12</b> are disposed more toward the front of the vehicle body than the fuel cells <b>2</b>, being installed between the cross-members <b>40</b>A and <b>40</b>B. The air supply-discharge device <b>10</b> and the hydrogen circulation device <b>11</b> are disposed more toward the rear of the vehicle body than the fuel cells <b>2</b>, being installed on the cross-members <b>40</b>D and <b>40</b>E. The reference number <b>21</b> in the drawings denotes piping space provided for the manifold and the like.</p>
+<p id="p-0059" num="0058">Also, as shown in <figref idref="DRAWINGS">FIG. 3</figref>, an underguard <b>70</b> is provided immediately in front of the fuel cell subframe <b>30</b>. <figref idref="DRAWINGS">FIG. 11</figref> is a side elevation view of the underguard <b>70</b>, and <figref idref="DRAWINGS">FIG. 12</figref> is perspective view of the underguard <b>70</b> mounted on the subframe <b>30</b>, viewed at an angle from below.</p>
+<p id="p-0060" num="0059">The underguard <b>70</b> is made of aluminum, with the front side disposed higher than the rear end side, being formed in a shape that mainly slopes downward toward the rear of the vehicle body. Specifically, the underguard <b>70</b> is constituted by a plate-shaped mounting flange <b>71</b> disposed at the front end side and sloping downward toward the rear of the vehicle body; a vertical portion <b>72</b> that extends vertically downward from the rear end of the mounting flange <b>71</b>; an inclined portion <b>73</b> continuous with the lower end of the vertical portion <b>72</b> and sloping downward toward the rear of the vehicle body; and an overhang portion <b>74</b> that extends horizontally from the rear end of the inclined portion <b>73</b> toward the rear of the vehicle body. A plurality of ribs <b>79</b> for reinforcement is provided at a specified interval in the vehicle width direction at the joint between the vertical portion <b>72</b> and the inclined portion <b>73</b>. Recessed portions <b>75</b> each having a horizontal wall portion <b>75</b><i>a </i>are provided at a specified interval in the vehicle width direction at the joint between the inclined portion <b>73</b> and the overhang portion <b>74</b>. Also, an opening <b>76</b> for allowing insertion of piping such as refrigerant piping that circulates cooling water between the radiator <b>14</b> and the fuel cells <b>2</b> is formed from the mounting flange <b>71</b> to the inclined portion <b>73</b>. A rib <b>80</b> is provided along the entire periphery of the opening <b>76</b>, and a mounting hole <b>80</b><i>a </i>for fixing refrigerant piping and electrical wiring is provided at a specified location in the rib <b>80</b>.</p>
+<p id="p-0061" num="0060">The horizontal wall portion <b>75</b><i>a </i>of each recessed portion <b>75</b> is disposed on the lower side of the flange portion <b>41</b> of the cross-member <b>40</b>A and fastened to the flange portion <b>41</b> by a bolt <b>77</b><i>a </i>and a nut <b>77</b><i>b</i>. The overhang portion <b>74</b> is thereby made to cover the lower side of the front end portion of the lower wall <b>43</b> of the cross-member <b>40</b>A. Also, the flange portion <b>71</b> is fastened to a lower cross (vehicle body frame) <b>100</b>, which constitutes the frame of the dashboard, by a bolt <b>78</b><i>a </i>and a nut <b>78</b><i>b</i>. That is, the rear end of the underguard <b>70</b> is connected to the cross-member <b>40</b>A disposed closest to the front side of the vehicle body, and the front end is connected to the vehicle body frame.</p>
+<p id="p-0062" num="0061">By providing the underguard <b>70</b> at the front of the fuel cell subframe <b>30</b>, when an obstruction is present under the vehicle body floor while the vehicle is moving forward, the obstruction can be guided to the underside of the fuel cell subframe <b>30</b> by the underguard <b>70</b>. Equipment such as the high-voltage electrical devices <b>12</b> and the fuel cells <b>2</b> mounted on the fuel cell subframe <b>30</b> can thus be prevented from interfering with the obstruction. Also, since the bolt <b>77</b><i>a </i>fixes the horizontal wall portion <b>75</b><i>a </i>of the recessed portion <b>75</b>, which is recessed inward of the inclined portion <b>73</b>, the head of the bolt <b>77</b><i>a </i>does not become a hindrance when the underguard <b>70</b> is guiding the obstruction downward. Also, since the underguard <b>70</b> is disposed in a confined region forward of the fuel cell subframe <b>30</b>, the structure is simple and can be made lightweight.</p>
+<p id="p-0063" num="0062">Also, the cross-member <b>40</b>E, which is disposed in the subframe <b>30</b> to be closest to the rear of the vehicle body, is coupled to the hydrogen tank subframe <b>90</b> via two coupling arms <b>22</b>, as shown in <figref idref="DRAWINGS">FIGS. 13 and 14</figref>.</p>
+<p id="p-0064" num="0063">The hydrogen tank subframe <b>90</b> is made of aluminum and is mainly constituted by six posts <b>91</b> and members <b>92</b> that link adjacent posts <b>91</b>. The posts <b>91</b> are fastened by bolts (not illustrated) to the lower walls <b>19</b><i>b </i>of the floor frames <b>19</b> from the lower side thereof. The capacitor <b>13</b> is installed more toward the front of the vehicle body than the member <b>92</b> installed in the middle of the hydrogen tank subframe <b>90</b>, while the hydrogen tank <b>7</b> is fixed by bands <b>93</b> to the vehicle body rear side of that member <b>92</b>. The total weight of the equipment (i.e., the hydrogen tank <b>7</b> and the capacitor <b>13</b>) mounted on the hydrogen tank subframe <b>90</b> is sufficiently greater than the total weight of the equipment mounted on the fuel cell subframe <b>30</b>. The hydrogen tank subframe <b>90</b> is accordingly designed to have greater mechanical strength than the fuel cell subframe <b>30</b>. As shown in <figref idref="DRAWINGS">FIG. 14</figref>, the sectional second moment of one of the members <b>92</b> which is disposed closest to the front of the vehicle body is therefore made far greater than that of the cross-member <b>40</b>E.</p>
+<p id="p-0065" num="0064">In the present embodiment, the cross-member <b>40</b>E is coupled to the member <b>92</b> of the hydrogen tank subframe <b>90</b> disposed closest to the front of the vehicle body by the coupling arms <b>22</b>. Specifically, as shown in <figref idref="DRAWINGS">FIG. 14</figref>, the coupling arms <b>22</b> are formed in an L-shape, with one end thereof being fixed to the rear wall of the cross-member <b>40</b>E by a bolt <b>23</b><i>a </i>and a nut <b>23</b><i>b</i>, with the other end fixed to a seat <b>94</b>, which is welded to the lower wall of the member <b>92</b>, by a bolt <b>25</b><i>a </i>and a nut <b>25</b><i>b</i>. By thus coupling the cross-member <b>40</b>E of the fuel cell subframe <b>30</b> to the member <b>92</b> of the hydrogen tank subframe <b>90</b>, the load to be applied to the cross-member <b>40</b>E can be reduced. This allows for a strength reduction of the cross-member <b>40</b>E and a corresponding reduction in weight. A strength reduction and weight saving become possible for the fuel cell subframe <b>30</b> as a result. For example, in the present embodiment, though the cross-member <b>40</b>E was formed with a closed cross-sectional shape similarly to the other cross-members <b>40</b>A to <b>40</b>D, the cross-member <b>40</b>E may also be formed with an open cross-sectional shape.</p>
+<p id="p-0066" num="0065">While the preferred embodiment of the invention has been described and illustrated above, it should be understood that this is exemplary of the invention and not to be considered as limiting. For example, the cross-sectional shape of the side frames and the cross-members for the fuel cell subframe are not limited to those disclosed in the embodiment. Also, the number of the cross-members is not limited to the five in the embodiment.</p>
+<p id="p-0067" num="0066">Additions, omissions, substitutions, and other modifications can be made without departing from the spirit or scope of the present invention. Accordingly, the invention is not to be considered as being limited by the foregoing description, and is only limited by the scope of the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A fuel cell vehicle comprising:
+<claim-text>a vehicle body having a floor frame;</claim-text>
+<claim-text>front wheels;</claim-text>
+<claim-text>rear wheels;</claim-text>
+<claim-text>a fuel cell that generates electricity by the electrochemical reaction of hydrogen and oxygen; and</claim-text>
+<claim-text>a subframe on which the fuel cell is mounted, being attached to the lower side of the floor frame and has a pair of side frames that extend in the fore-aft direction of the vehicle body;</claim-text>
+<claim-text>wherein the lower end of each side frame is formed to have a recess portion so that the portion located substantially midway between the front wheels and the rear wheels is the highest point from the tire-ground contact surface.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A fuel cell vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a plurality of cross-members that extend in the width direction of the vehicle body to couple the side frames,
+<claim-text>wherein each of the side frames has an upper side frame and a lower side frame, with the upper side frame and the lower side frame sandwiching and fixing the end portions of the cross-members.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A fuel cell vehicle according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the upper side frames, the lower side frames, and the end portions of the cross-members are fastened to the floor frame by a common bolt.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A fuel cell vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a plurality of cross-members that extend in the width direction of the vehicle body to couple the side frames; and</claim-text>
+<claim-text>an underguard that is provided in front of the subframe and has a shape that slopes downward toward the rear of the vehicle body,</claim-text>
+<claim-text>wherein the vehicle body has a vehicle-body frame that extends in the width direction, and</claim-text>
+<claim-text>wherein the front edge of the underguard is coupled to the vehicle-body frame, and the rear edge of the underguard is coupled to the cross-member disposed closest to the front of the vehicle body.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A fuel cell vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a second subframe attached to the lower side of the floor frame, separate from the subframe in the fore-aft direction of the vehicle body; and</claim-text>
+<claim-text>a coupling member that couples mutually approaching portions of the subframe and the second subframe.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A fuel cell vehicle according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, further comprising a hydrogen tank which stores pressurized hydrogen to be supplied to the fuel cell, being mounted on the second subframe.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A fuel cell vehicle according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, further comprising a motor which drives at least one of the front wheels and rear wheels, being mounted on the second subframe.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A fuel cell vehicle according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, further comprising a plurality of cross-members that extend in the width direction of the vehicle to couple the side frames,
+<claim-text>wherein the coupling member is coupled to one of the cross-members disposed at a position closest to the second subframe. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

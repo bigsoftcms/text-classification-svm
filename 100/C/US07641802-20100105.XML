@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641802-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641802</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11816985</doc-number>
+<date>20060131</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2005-060613</doc-number>
+<date>20050304</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>129</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>02</class>
+<subclass>F</subclass>
+<main-group>1</main-group>
+<subgroup>42</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>210748</main-classification>
+<further-classification>210763</further-classification>
+<further-classification>210205</further-classification>
+<further-classification>210220</further-classification>
+</classification-national>
+<invention-title id="d0e71">Wastewater treatment method and wastewater treatment equipment</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5314644</doc-number>
+<kind>A</kind>
+<name>Michelsen et al.</name>
+<date>19940500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6209855</doc-number>
+<kind>B1</kind>
+<name>Glassford</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6830690</doc-number>
+<kind>B2</kind>
+<name>Schmid</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2003/0209501</doc-number>
+<kind>A1</kind>
+<name>Leung</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210748</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2005/0045557</doc-number>
+<kind>A1</kind>
+<name>Daigger et al.</name>
+<date>20050300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210605</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2005/0072718</doc-number>
+<kind>A1</kind>
+<name>Lacy et al.</name>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210 961</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2006/0054205</doc-number>
+<kind>A1</kind>
+<name>Yabe et al.</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2009/0020474</doc-number>
+<kind>A1</kind>
+<name>Yamasaki et al.</name>
+<date>20090100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>JP</country>
+<doc-number>51-124666</doc-number>
+<date>19761000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>JP</country>
+<doc-number>52-129677</doc-number>
+<date>19771000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>JP</country>
+<doc-number>62-197197</doc-number>
+<date>19870800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>JP</country>
+<doc-number>04-083594</doc-number>
+<date>19920300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>JP</country>
+<doc-number>07-195091</doc-number>
+<date>19950800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>JP</country>
+<doc-number>10-047649</doc-number>
+<date>19980200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>JP</country>
+<doc-number>10-128377</doc-number>
+<date>19980500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>JP</country>
+<doc-number>11-047738</doc-number>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>JP</country>
+<doc-number>11-057772</doc-number>
+<date>19990300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>JP</country>
+<doc-number>11-151486</doc-number>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>JP</country>
+<doc-number>11-333490</doc-number>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>JP</country>
+<doc-number>2000-167555</doc-number>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>JP</country>
+<doc-number>3095620</doc-number>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>JP</country>
+<doc-number>2000-271577</doc-number>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>JP</country>
+<doc-number>2000-279975</doc-number>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>JP</country>
+<doc-number>2000-308900</doc-number>
+<date>20001100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>JP</country>
+<doc-number>2001-038348</doc-number>
+<date>20010200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>JP</country>
+<doc-number>2001-198584</doc-number>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>JP</country>
+<doc-number>2002-143885</doc-number>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>JP</country>
+<doc-number>2003-033625</doc-number>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>JP</country>
+<doc-number>2003-071256</doc-number>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>JP</country>
+<doc-number>2003-094086</doc-number>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>JP</country>
+<doc-number>3467671</doc-number>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>JP</country>
+<doc-number>2003-284946</doc-number>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>JP</country>
+<doc-number>2003-334548</doc-number>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>JP</country>
+<doc-number>2004-121962</doc-number>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>JP</country>
+<doc-number>2004-290735</doc-number>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00036">
+<othercit>U.S. Appl. No. 11/816,880, filed Aug. 22, 2007, entitled &#x201c;Wastewater Treatment Equipment and Method of Wastewater Treatment&#x201d;.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00037">
+<othercit>Kukizaki et al., &#x201c;Generation of Monodisperse Nanometer Bubbles Through a Porous Membrane and Control of Bubble Sizes,&#x201d; pp. 654-659 (2004).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00038">
+<othercit>Takagi et al., &#x201c;Behavior of Rising Bubbles in Water Containing Surfactant,&#x201d; pp. 16-23 (2003).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00039">
+<othercit>U.S. Office Action mailed Jan. 28, 2009 in related U.S. Appl. No. 11/816,880.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00040">
+<othercit>U.S. Appl. No. 11/816,867, filed Aug. 22, 2007, entitled &#x201c;Waste Gas/Wastewater Treatment Equipment and Method of Treating Waste Gas/Wastewater&#x201d;.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00041">
+<othercit>International Search Report for PCT/JP2006/301551 mailed May 2, 2006.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00042">
+<othercit>English translation of the International Preliminary Report on Patentability mailed Sep. 20, 2007 in corresponding PCT application PCT/JP2006/301551.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>15</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>210205</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210220</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210748</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210763</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090032460</doc-number>
+<kind>A1</kind>
+<date>20090205</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Yamasaki</last-name>
+<first-name>Kazuyuki</first-name>
+<address>
+<city>Hiroshima</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Chuhjoh</last-name>
+<first-name>Kazumi</first-name>
+<address>
+<city>Kagawa-ken</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ohoka</last-name>
+<first-name>Kohji</first-name>
+<address>
+<city>Yamatokooriyama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Uda</last-name>
+<first-name>Keichiro</first-name>
+<address>
+<city>Kyoto-fu</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Nixon &#x26; Vanderhye P.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Sharp Kabushiki Kaisha</orgname>
+<role>03</role>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Barry</last-name>
+<first-name>Chester T</first-name>
+<department>1797</department>
+</primary-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2006/301551</doc-number>
+<kind>00</kind>
+<date>20060131</date>
+</document-id>
+<us-371c124-date>
+<date>20070823</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2006/095509</doc-number>
+<kind>A </kind>
+<date>20060914</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">In a micronanobubble reaction vessel <b>3</b> of wastewater treatment equipment, wastewater containing organic matter is treated with micronanobubbles. Thereafter, the wastewater is introduced into an aeration tank <b>7</b>. Part of organic matter in the wastewater is oxidized in the micronanobubble reaction vessel <b>3</b> by micronanobubble treatment prior to treatment with activity of microorganisms enhanced in the aeration tank <b>7</b>. After organic matter load is thus reduced, the treatment water is introduced into the aeration tank <b>7</b>, in which microorganisms exist in high concentration due to submerged membranes <b>17</b>, so that the organic matter in wastewater can be effectively treated. This makes it possible to accomplish miniaturization of the aeration tank <b>7</b>, reduction in scale of the whole equipment and therefore reduction in initial cost. Also, a photocatalyst tank <b>22</b> is provided downstream of the aeration tank <b>7</b>, so that a minute amount of organic matter unaffected by the microbial treatment alone can be oxidized at high-level by using a photocatalyst plate <b>24. </b></p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="156.80mm" wi="221.40mm" file="US07641802-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="226.74mm" wi="169.84mm" orientation="landscape" file="US07641802-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="225.13mm" wi="161.04mm" orientation="landscape" file="US07641802-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="223.60mm" wi="167.22mm" orientation="landscape" file="US07641802-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="232.24mm" wi="168.91mm" orientation="landscape" file="US07641802-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="195.83mm" wi="166.79mm" file="US07641802-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<p id="p-0002" num="0001">This application is the U.S. national phase of International Application No. PCT/JP2006/301551, filed Jan. 31, 2006, which designated the U.S. and claims priority to Japanese Patent Application No. 2005-060613, filed Mar. 4, 2005, the entire contents of each of which are hereby incorporated by reference.</p>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">The present invention relates to wastewater treatment method and wastewater treatment equipment for treating wastewater containing organic matter. More specifically, the present invention relates to wastewater treatment equipment and wastewater treatment method allowing high-concentration microbial treatment with use of a submerged membrane, micronanobubble treatment and photocalytic treatment and also allowing downsizing and increase in quality of treated water.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0004" num="0003">Conventionally, general microbial treatment systems have an aeration tank with a large capacity, which makes it difficult for factories having smaller installation areas to install the aeration tank. This gives rise to a demand for wastewater treatment methods and wastewater treatment equipment which has a small installation area therefor as well as good performance.</p>
+<p id="p-0005" num="0004">The high-concentration microbial treatment system with use of a submerged membrane suffers a problem of reduction in filtered water amount due to clogging of the submerged membrane as time passes. This gives rise to a demand for a method which makes it possible to effectively clean oil and fat content on the surface of the submerged membrane that causes clogging, even when the clogging of the submerged membrane occurs.</p>
+<p id="p-0006" num="0005">In the case of systems involving only the high-concentration microbial treatment, or in the case of requiring further advanced treatment, treatment of activated carbon adsorption is sometimes added. This causes a problem of higher running cost due to replacement of activated carbon after adsorption of organic matter or the like. This gives rise to a demand for a method which can effectively be cleaned oil and fat content on the surface of the submerged membrane that causes clogging, even when the clogging of the submerged membrane occurs.</p>
+<p id="p-0007" num="0006">As another prior art, JP2004-121962A has disclosed a treatment method and a treatment device with use of nanobubbles.</p>
+<p id="p-0008" num="0007">This prior art utilizes characteristics of nanobubbles such as decrease in buoyancy, increase in surface area, increase in surface activity, generation of local high pressure fields, a surface active property and an antiseptic property which are attained by achievement of electrostatic polarization. More specifically, this prior art has disclosed that the correlation among these characteristics shows a fouling component adsorption function, a substance surface high-speed cleaning function and an antiseptic function, so that it becomes possible to clean various substances with high performance and low environmental load so as to purify contaminated water.</p>
+<p id="p-0009" num="0008">As yet another prior art, JP 2003-334548A has disclosed a nanobubble generation method.</p>
+<p id="p-0010" num="0009">In the nanobubble generation method according to this prior art, there is provided with (1) a step for gasifying part of liquid by decomposition in liquids, (2) a step for applying ultrasonic waves in liquids, or (3) a step for gasifying part of liquid by decomposition and a step for applying ultrasonic waves.</p>
+<p id="p-0011" num="0010">Both these two prior arts have disclosed purification of contaminated water by using nanobubbles or removal of dirt on the surface of solids by using nanobubbles. However, the two prior arts fail to disclose any technology for enhancing efficiency in treatment and quality of treated water by increasing the activity of microorganisms when treating wastewater containing organic matter with use of microorganisms.</p>
+<heading id="h-0003" level="1">DISCLOSURE OF INVENTION</heading>
+<heading id="h-0004" level="1">Subjects which the Invention is to Solve</heading>
+<p id="p-0012" num="0011">It is a primary object of the present invention to provide wastewater treatment method and wastewater treatment equipment allowing increase in treatment efficiency of wastewater containing organic matter while achieving downsizing and reduction in running cost.</p>
+<heading id="h-0005" level="1">Means for Solving the Subjects</heading>
+<p id="p-0013" num="0012">In order to achieve the above object, the present invention provide a wastewater treatment method, comprising:</p>
+<p id="p-0014" num="0013">a micronanobubble treatment step for treating wastewater containing organic matter with micronanobubble;</p>
+<p id="p-0015" num="0014">a microbial treatment step for applying microbial treatment with use of a submerged membrane to treatment water obtained by treating the wastewater containing organic matter in the micronanobubble treatment step; and</p>
+<p id="p-0016" num="0015">a photocalytic step for applying photocalytic treatment to treatment water after the microbial treatment step.</p>
+<p id="p-0017" num="0016">In the wastewater treatment method of the present invention, the treatment water containing organic matter is subjected to pretreatment with micronanobubbles in the micronanobubble treatment step. Then, the treatment water is subjected to microbial treatment in the microbial treatment step. Consequently, the effects of the pretreatment with the micronanobubbles make it possible to reduce organic load or to increase activity of microorganisms in the subsequent microbial treatment as well as to downsize the equipment for microbial treatment.</p>
+<p id="p-0018" num="0017">Further, applying photocalytic treatment to the treatment water after subjected to the microbial treatment in the microbial treatment step allows photocalytic treatment of a minute amount of residual organic matter contained in the treatment water, so that advanced treatment beyond the limit of the treatment by the microbial treatment can be achieved.</p>
+<p id="p-0019" num="0018">The present invention also provides wastewater treatment equipments comprising:</p>
+<p id="p-0020" num="0019">a micronanobubble reaction vessel for receiving wastewater containing organic matter and treating the wastewater containing organic matter with micronanobubbles;</p>
+<p id="p-0021" num="0020">an aeration tank for receiving treatment water from the micronanobubble reaction vessel and applying microbial treatment to the treatment water with a submerged membrane included in the aeration tank; and</p>
+<p id="p-0022" num="0021">a photocatalyst tank for receiving treatment water from the aeration tank and applying photocalytic treatment to the treatment water.</p>
+<p id="p-0023" num="0022">In the wastewater treatment equipment of this embodiment, the wastewater containing organic matter is treated with use of micronanobubble in the micronanobubble reaction vessel, and thereafter introduced into the aeration tank having a submerged membrane. In this embodiment, therefore, prior to the microbial treatment in the aeration tank, the wastewater containing organic matter is treated with micronanobubbles in the micronanobubble reaction vessel. Consequently, the organic matter in wastewater is oxidized by micronanobubbles to reduce organic matter load, and thereafter the treatment water is introduced into the aeration tank in which microorganisms are present in high concentration by means of the submerged membrane, so that treatment of organic matter is effectively accomplished. This allows miniaturization of the aeration tank, reduction in scale of the whole equipment and reduction in initial cost. In photocatalyst tank provided downstream of the aeration tank, oxidation treatment using photocatalyst makes it possible to perform high-level oxidation of a minute amount of organic matter which has been unaffected by general microbial treatment alone.</p>
+<p id="p-0024" num="0023">In one embodiment of the invention, the wastewater treatment equipment further comprises</p>
+<p id="p-0025" num="0024">an adjustment tank provided upstream of the micronanobubble reaction vessel for receiving the wastewater containing organic matter and adjusting quality and quantity of the wastewater containing organic matter,</p>
+<p id="p-0026" num="0025">wherein the micronanobubble reaction vessel receives wastewater containing organic matter with quality and quantity adjusted in the adjustment tank.</p>
+<p id="p-0027" num="0026">In the wastewater treatment equipment of this embodiment, the micronanobubble reaction vessel receives wastewater containing organic matter with quality and quantity adjusted in the adjustment tank, which allows efficient oxidation of the organic matter by micronanobubble.</p>
+<p id="p-0028" num="0027">In one embodiment of the invention, the micronanobubble reaction vessel has a micronanobubble generator, and</p>
+<p id="p-0029" num="0028">a water conveyance section for conveying treatment water from the aeration tank to the micronanobubble generator through the submerged membrane.</p>
+<p id="p-0030" num="0029">In the wastewater treatment equipment of this embodiment, the water conveyance section conveys treatment water from the aeration tank to the micronanobubble generator included in the micronanobubble reaction vessel through the submerged membrane. In other words, the treatment water (water containing electrolyte) is conveyed to the micronanobubble generator from the aeration tank in which becomes the concentration of microorganisms becomes high by means of the submerged membrane. Consequently, the micronanobubble generator can stably supply extremely fine bubbles in the micronanobubble reaction vessel.</p>
+<p id="p-0031" num="0030">In one embodiment of the invention, the aeration tank has a micronanobubble cleaning section for generating micronanobubbles to clean the submerged membrane.</p>
+<p id="p-0032" num="0031">In the wastewater treatment equipment, the micronanobubble cleaning section can clean the submerged membrane by using the generated micronanobubbles, so that oil and fat contents causing the clogging of the submerged membrane can effectively be washed away.</p>
+<p id="p-0033" num="0032">In one embodiment of the invention, the aeration tank has an air diffusion pipe for discharging air to the submerged membrane to clean the submerged membrane, and</p>
+<p id="p-0034" num="0033">the submerged membrane is cleaned with mixed bubbles composed of micronanobubbles generated by the micronanobubble cleaning section and air discharged from the air diffusion pipe.</p>
+<p id="p-0035" num="0034">According to the wastewater treatment equipment in this embodiment, the submerged membrane in the aeration tank can be cleaned by two kinds of mixed bubbles: micronanobubbles generated by the micronanobubble cleaning section and large air bubbles discharged from the air diffusion pipe. Therefore, the synergistic effects of these two kinds of bubbles can be obtained by exerting the respective capabilities of these two kinds of bubbles. Thereby more reliable cleaning of the submerged membrane can be achieved. More particularly, air bubbles from the air diffusion pipe move toward the submerged membrane in such a way that micronanobubbles excellent in cleaning effect can be guided to the submerged membrane.</p>
+<p id="p-0036" num="0035">In one embodiment of the invention, the air diffusion pipe is placed below the submerged membrane while the micronanobubble cleaning section is placed between the submerged membrane and the air diffusion pipe, and</p>
+<p id="p-0037" num="0036">there are provided: a first guide mounted on the air diffusion pipe for guiding air discharged from the air diffusion pipe to the micronanobubble cleaning section; and</p>
+<p id="p-0038" num="0037">a second guide mounted on the submerged membrane for guiding micronanobubbles generated by the micronanobubble cleaning section and air discharged from the air diffusion pipe to the submerged membrane.</p>
+<p id="p-0039" num="0038">According to the effluent treatment device in this embodiment, the first and second guides can laconically bring the micro nano bubbles, which are generated in the micro nano bubble cleaning section, and air bubbles, which are generated by the air diffusion pipe, into contact with the submerged membrane. This allows more reliable cleaning of the submerged membrane.</p>
+<p id="p-0040" num="0039">In one embodiment of the invention, the aeration tank has a plurality of submerged membranes placed vertically in two or more rows.</p>
+<p id="p-0041" num="0040">According to the wastewater treatment equipment in this embodiment, a plurality of the submerged membranes are placed in two or more rows in vertical direction in the aeration tank. This makes it possible to reduce the installation floor space for the aeration tank, thereby making it possible to provide space saving equipment.</p>
+<p id="p-0042" num="0041">In one embodiment of the invention, the photocatalyst tank has</p>
+<p id="p-0043" num="0042">an ultraviolet irradiation section; and</p>
+<p id="p-0044" num="0043">a photocatalyst plate which comes into contact with the treatment water and which includes a sputtered thin film irradiated with ultraviolet light from the ultraviolet irradiation section.</p>
+<p id="p-0045" num="0044">According to the wastewater treatment equipment in this embodiment, the ultraviolet irradiation section applies ultraviolet light to the photocatalyst plate so as to be able to increase the photocalytic effect of the photocatalyst plate. Moreover, the sputtered thin film included in the photocatalyst plate can be made into a close-grained thin film with high hardness as a photocatalyst. Therefore, the sputtered thin film is free from wear and detachment from the photocatalyst plate even when it is impacted by intense water flow. The ultraviolet irradiation section is preferably placed in a location away from the treatment water. The ultraviolet irradiation section may be constituted of a mercury lamp and the like.</p>
+<p id="p-0046" num="0045">In one embodiment of the invention, the photocatalyst tank has</p>
+<p id="p-0047" num="0046">a light emitting diode lamp; and</p>
+<p id="p-0048" num="0047">a photocatalyst plate which comes into contact with the treatment water and which includes a sputtered thin film irradiated with light from the light emitting diode lamp.</p>
+<p id="p-0049" num="0048">According to the wastewater treatment equipment in this embodiment, applying light beams from the light emitting diode lamp, which is in noncontact with the treatment water, to the photocatalyst plate can enhance the photocalytic effect of the photocatalyst plate. Moreover, the light emitting diode lamp does not contain mercury unlike ultraviolet lamps, and therefore the light emitting diode lamp is environmentally safe. The light emitting diode lamp is preferably placed in a location away from the treatment water.</p>
+<p id="p-0050" num="0049">In one embodiment of the invention, the photocatalyst plate includes the sputtered thin film and a substrate which is made of either glass or quart.</p>
+<p id="p-0051" num="0050">According to the wastewater treatment equipment in this embodiment, the photocatalyst plate is made of glass or quart, and therefore is inexpensive and easy to manufacture.</p>
+<p id="p-0052" num="0051">In one embodiment of the invention, the photocatalyst tank has a micronanobubble generator.</p>
+<p id="p-0053" num="0052">According to this embodiment, the photocatalyst tank can increase the efficiency of contact between treatment water and the photocatalyst plate by generating micronanobubbles with use of the micronanobubble generator. Furthermore, it is possible to oxidize residual organic matter in treatment water in a short time by using two oxidations, oxidation with use of micronanobubbles and oxidation with photocatalyst.</p>
+<p id="p-0054" num="0053">In one embodiment of the invention, the aeration tank receives treatment water subjected to biological treatment or sludge generated after biological treatment.</p>
+<p id="p-0055" num="0054">According to the wastewater treatment equipment in this embodiment, the aeration tank receives treatment water subjected to biological treatment or sludge generated after the biological treatment. This makes it possible to reinforce the activity of microorganisms in the aeration tank. More particularly, culturing high concentrations of microorganisms requires minerals in the treatment water subjected to biological treatment or in the sludge generated after the biological treatment. Shortage of the minerals causes poor activity of microorganisms. Moreover, treatment water rich in electrolyte can be obtained by introducing the treatment water subjected to biological treatment or the sludge resulting from the biological treatment, which are sources of electrolyte ions, into the aeration tank.</p>
+<p id="p-0056" num="0055">In one embodiment of the invention, the photocatalyst tank is structured to have a transparent outer wall, and the ultraviolet irradiation section is placed around the transparent outer wall.</p>
+<p id="p-0057" num="0056">According to the wastewater treatment equipment in this embodiment, the photocatalyst tank has a transparent outer wall, so that outside light incoming through the transparent outer wall can increase the photocalytic action of the photocatalyst plate and thereby enhance the treatment efficiency of treatment water through the photocalytic action. Making the entire surfaces of the outer wall transparent allows the light incoming from upper, lower and side surfaces, so that the photocalytic action is further enhanced.</p>
+<heading id="h-0006" level="1">EFFECT OF THE INVENTION</heading>
+<p id="p-0058" num="0057">According to the wastewater treatment method in this invention, the treatment water is subjected to the micronanobubble treatment step, in which the organic matter in the wastewater containing organic matter is pretreated with micronanobubbles, and then the treatment water is subjected to microbial treatment in the microbial treatment step. Therefore, the pretreatment with use of the micronanobubbles increases the activity of microorganisms, and thereby it is possible to reduce organic matter load and downsize the device for microbial treatment. Further, the treatment water is subjected to photocalytic treatment after the microbial treatment in the microbial treatment step, and thereby it becomes possible to treat a minute amount of residual organic matter. This makes it possible to perform an advanced treatment beyond the limit of the treatment by the microbial treatment.</p>
+<p id="p-0059" num="0058">Therefore, according to the wastewater treatment method in the present invention, it becomes possible to enhance treatment efficiency of wastewater containing organic matter and to achieve reduction in scale of the wastewater treatment equipment as well as reduction in running cost.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0007" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. 1</figref> shows a schematic view of an effluent treatment device in a first embodiment of the present invention;</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. 2</figref> shows a schematic view of an effluent treatment device in a second embodiment of the present invention;</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIG. 3</figref> shows a schematic view of an effluent treatment device in a third embodiment of the present invention;</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIG. 4</figref> shows a schematic view of an effluent treatment device in a fourth embodiment of the present invention;</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIG. 5A</figref> shows a time chart in the case where total organic carbon concentration of wastewater containing organic matter in the first to fourth embodiments is 800 ppm; and</p>
+<p id="p-0065" num="0064"><figref idref="DRAWINGS">FIG. 5B</figref> shows a time chart in the case where total organic carbon concentration of wastewater containing organic matter in the first to fourth embodiments is 1600 ppm.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0008" level="1">SYMBOLS</heading>
+<p id="p-0066" num="0000">
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0065"><b>1</b> adjustment tank</li>
+        <li id="ul0002-0002" num="0066"><b>2</b> adjustment tank pump</li>
+        <li id="ul0002-0003" num="0067"><b>3</b> micronanobubble reaction vessel</li>
+        <li id="ul0002-0004" num="0068"><b>4</b> micronanobubble generator</li>
+        <li id="ul0002-0005" num="0069"><b>5</b>,<b>14</b>,<b>26</b> air suction pipe</li>
+        <li id="ul0002-0006" num="0070"><b>6</b> circulating pump</li>
+        <li id="ul0002-0007" num="0071"><b>7</b>,<b>7</b>N,<b>7</b>V,<b>7</b>Z aeration tank</li>
+        <li id="ul0002-0008" num="0072"><b>8</b>,<b>11</b> diffusion pipe</li>
+        <li id="ul0002-0009" num="0073"><b>9</b> intermittent operation blower</li>
+        <li id="ul0002-0010" num="0074"><b>10</b> air pipe</li>
+        <li id="ul0002-0011" num="0075"><b>12</b> diffusion pipe cover</li>
+        <li id="ul0002-0012" num="0076"><b>13</b>,<b>27</b>,<b>29</b> water pipe</li>
+        <li id="ul0002-0013" num="0077"><b>15</b> micronanobubble generator</li>
+        <li id="ul0002-0014" num="0078"><b>16</b> submerged membrane cover</li>
+        <li id="ul0002-0015" num="0079"><b>17</b> submerged membrane</li>
+        <li id="ul0002-0016" num="0080"><b>18</b> gravity pipe</li>
+        <li id="ul0002-0017" num="0081"><b>19</b>,<b>20</b>,<b>21</b> water pump</li>
+        <li id="ul0002-0018" num="0082"><b>22</b> photocatalyst tank</li>
+        <li id="ul0002-0019" num="0083"><b>23</b> ultraviolet lamp</li>
+        <li id="ul0002-0020" num="0084"><b>24</b> photocatalyst plate</li>
+        <li id="ul0002-0021" num="0085"><b>25</b> micronanobubble generator</li>
+        <li id="ul0002-0022" num="0086"><b>28</b> blower</li>
+        <li id="ul0002-0023" num="0087"><b>30</b> polyvinylidene chloride filling</li>
+        <li id="ul0002-0024" num="0088"><b>31</b> separation plate</li>
+        <li id="ul0002-0025" num="0089"><b>32</b>A ascending water flow</li>
+        <li id="ul0002-0026" num="0090"><b>32</b>B descending water flow</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<heading id="h-0009" level="1">BEST MODE FOR CARRYING OUT THE INVENTION</heading>
+<p id="p-0067" num="0091">Hereinbelow, the present invention will be described in detail in conjunction with embodiments with reference to the drawings.</p>
+<heading id="h-0010" level="1">First Embodiment</heading>
+<p id="p-0068" num="0092"><figref idref="DRAWINGS">FIG. 1</figref> shows a schematic view of wastewater treatment equipment in a first embodiment of the present invention. In the first embodiment, the wastewater treatment equipment has an adjustment tank <b>1</b>, a micronanobubble reaction vessel <b>3</b>, an aeration tank <b>7</b> and a photocatalyst tank <b>22</b>.</p>
+<p id="p-0069" num="0093">Wastewater containing organic matter is introduced into the adjustment tank <b>1</b>, where the quantity and the quality of the wastewater containing organic matter are adjusted. The wastewater introduced into the adjustment tank <b>1</b> may include various kinds of wastewater containing organic matter such as wastewater from food factories and organic alkali wastewater from semiconductor factories, for example. Domestic wastewater is also included in the wastewater containing organic matter since domestic wastewater contains organic matter. The wastewater containing organic matter is adjusted as to its quantity and quality in the adjustment tank <b>1</b>, and is then introduced into the micronanobubble reaction vessel <b>3</b> by an adjustment tank pump <b>2</b> as treatment water.</p>
+<p id="p-0070" num="0094">A micronanobubble generator <b>4</b> is placed inside of the micronanobubble reaction vessel <b>3</b>. An air suction pipe <b>5</b> and a water pipe <b>29</b> are connected to the micronanobubble generator <b>4</b>. Through the air suction pipe <b>5</b>, air is introduced into the micronanobubble generator <b>4</b>. Through the water pipe <b>29</b>, treatment water is fed into the micronanobubble generator <b>4</b>, where the treatment water is conveyed by a water pump <b>19</b> from a submerged membrane <b>17</b> placed inside the aeration tank <b>7</b>. In this way, the micronanobubble generator <b>4</b> generates micronanobubbles.</p>
+<p id="p-0071" num="0095">The water pipe <b>29</b> and the water pump <b>19</b> constitute a water conveyance section. The micronanobubble generator <b>4</b> is not limited by manufacturers, but any micronanobubble generator available in the market can be used therefor. For a specific example, it is possible to adopt a micronanobubble generator made by Nanoplanet Research Institute Corporation. It is also possible as other available products to adopt micronanobubble water generating apparatuses made by Aura Tec Corporation, Shigenkaihatsu Corporation, or made by Seika Corporation.</p>
+<p id="p-0072" num="0096">In the micronanobubble reaction vessel <b>3</b>, the organic matter contained in the wastewater is partially oxidized by micronanobubbles. Then, the treatment water partially oxidized is introduced into the aeration tank <b>7</b>.</p>
+<p id="p-0073" num="0097">The aeration tank <b>7</b> is equipped with a circulating pump <b>6</b>. The circulating pump <b>6</b> introduces sludge into the micronanobubble reaction vessel <b>3</b> through a circulating pipe L<b>1</b>, wherein the sludge includes the treatment water in the aeration tank <b>7</b>. The sludge in the micronanobubble reaction vessel <b>3</b> is treated with use of micronanobubbles generated by the micronanobubble generator <b>4</b>, and then returned to the aeration tank <b>7</b>.</p>
+<p id="p-0074" num="0098">In other words, the sludge including the treatment water is circulated between the aeration tank <b>7</b> and the micronanobubble reaction vessel <b>3</b> by the circulating pump <b>6</b>. During circulation of the treatment water with use of the circulating pump <b>6</b>, oxygen is supplied to the treatment water to oxidize the treatment water by micronanobubbles. Particularly, it has been found out that nanobubbles stay in water for ever to increase dissolved oxygen concentration.</p>
+<p id="p-0075" num="0099">There are three kinds of babble as follows, and description is given thereof.</p>
+<p id="p-0076" num="0100">(i) general bubbles rise in water to end up bursting on the surface and disappear.</p>
+<p id="p-0077" num="0101">(ii) micro bubbles, which are fine bubbles with a diameter of 50 microns (&#x3bc;m) or less, shrink in water and end up disappearing (i.e. completely dissolving).</p>
+<p id="p-0078" num="0102">(iii) nano bubbles are smaller than micro bubbles and have a diameter of several hundred nm or less (e.g., diameter of 100 to 200 nm), are said to be able to keep on existing in water permanently.</p>
+<p id="p-0079" num="0103">Thus, the micronanobubbles are bubbles which are formed by mixture of the microbubbles and the nanobubbles.</p>
+<p id="p-0080" num="0104">The water is circulated by the circulating pump <b>6</b> from the submerged membrane <b>17</b> in the aeration tank <b>7</b> through the water pipe <b>29</b> to the micronanobubble reaction vessel <b>3</b>, so that the circulated water is introduced into the micronanobubble generator <b>4</b> in the micronanobubble reaction vessel <b>3</b>. Consequently, the circulated water is supplied with oxygen by using micronanobubbles. Nanobubbles in the micronanobubble remain in treatment water inside the aeration tank <b>7</b> for a long period of time, so that the dissolved oxygen in the aeration tank <b>7</b> is maintained for a long period of time.</p>
+<p id="p-0081" num="0105">In conventional aeration tanks where oxygen supply by micronanobubbles is not available, an aerating blower operates for 24 hours. In the present embodiment, on the other hand, the aeration tank <b>7</b> is intermittently aerated by the air bubbles discharged from a diffusion pipe <b>8</b>, to which the air is supplied through an air pipe <b>10</b> by a blower <b>9</b> which is intermittently operated. The intermittent operation by the intermittent operation blower <b>9</b> can save energy in comparison with continuous operation.</p>
+<p id="p-0082" num="0106">As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the aeration tank <b>7</b> is equipped with three water pumps <b>19</b>, <b>20</b>, <b>21</b> each connected to the submerged membrane <b>17</b>.</p>
+<p id="p-0083" num="0107">As described before, the water pump <b>19</b> conveys treatment water from the submerged membrane <b>17</b> to the micronanobubble reaction vessel <b>3</b>. The water pump <b>20</b> conveys treatment water from the submerged membrane <b>17</b> to a micronanobubble generator <b>15</b> for cleaning the submerged membrane <b>17</b> through a water pipe <b>13</b>. An air suction pipe <b>14</b> is connected to the micronanobubble generator <b>15</b>, so that air is introduced into the micronanobubble generator <b>15</b> through the air suction pipe <b>14</b>.</p>
+<p id="p-0084" num="0108">The water pump <b>21</b> conveys treatment water from the submerged membrane <b>17</b> to a micronanobubble generator <b>25</b> through a water pipe <b>27</b>, where micronanobubble generator <b>25</b> is placed in the photocatalyst tank <b>22</b> provided downstream of the aeration tank <b>7</b>. An air suction pipe <b>26</b> is connected to the micronanobubble generator <b>25</b>, so that air is introduced from the air suction pipe <b>26</b> into the micronanobubble generator <b>25</b>.</p>
+<p id="p-0085" num="0109">The submerged membrane <b>17</b> is also equipped with a submerged membrane cover <b>16</b> as a second guide. When the air is discharged and ascends from an air diffusion pipe <b>11</b>, which is placed below the micronanobubble generator <b>15</b>, the submerged membrane cover <b>16</b> plays a role of guiding super fine micronanobubbles, together with the air discharged from the air diffusion pipe <b>11</b>, to the submerged membrane <b>17</b> so as to effectively contact with the submerged membrane <b>17</b>.</p>
+<p id="p-0086" num="0110">The air diffusion pipe <b>11</b> connected to a blower <b>28</b> is also equipped with an air diffusion pipe cover <b>12</b> as a first guide. The air diffusion pipe cover <b>12</b> plays a role of efficiently guiding the air discharged from the air diffusion pipe <b>11</b> to the micronanobubble generator <b>15</b>. The blower <b>28</b>, which supplies air to the air diffusion pipe <b>11</b>, continuously operates for 24 hours. The reason of the continuous operation is that air cleaning of the submerged membrane <b>17</b> needs 24 hours' operation.</p>
+<p id="p-0087" num="0111">The operating time of the micronanobubble generator <b>15</b> may be determined in association with the clogging state of the submerged membrane <b>17</b>. More specifically, in the case where treatment water contains a large amount of oil and fat contents, the operating time of the micronanobubble generator <b>15</b> generally becomes relatively long. The air supplied from the blower <b>28</b> to the air diffusion pipe <b>11</b> is discharged from the air diffusion pipe <b>11</b> and cleans the surface of the submerged membrane <b>17</b>. Mixed bubbles, which are composed of micronanobubbles and the air discharged from the air diffusion pipe <b>11</b>, have higher effect of cleaning the submerged membrane <b>17</b>.</p>
+<p id="p-0088" num="0112">Treatment water, which is subjected to biological treatment or sludge generated by biological treatment, is introduced into the aeration tank <b>7</b> through a pipe L<b>2</b>. The biologically treatment water or the biologically treated sludge includes microelements such as phosphorus, potassium, calcium and magnesium. The microelements promote s activity of all the microorganisms in the aeration tank <b>7</b>. Unless the microelements are sufficiently contained in the water, the treatment unstable because microorganisms stay inactive in high-concentration microbial treatment, in particular, with use of the submerged membrane <b>17</b> within the aeration tank <b>7</b>. The aeration tank <b>7</b> is operated with a microbial concentration of 10,000 ppm or higher in terms of MLSS (Mixed Liquor Suspended Solid) concentration. The treatment water comes out of the submerged membrane <b>17</b>, and is introduced into the photocatalyst tank <b>22</b> through a gravity pipe <b>18</b>-A. The treatment water is introduced through the gravity pipe <b>18</b>-A by using water head difference.</p>
+<p id="p-0089" num="0113">The photocatalyst tank <b>22</b> is equipped with an ultraviolet lamp <b>23</b> as an ultraviolet irradiation section, which lamp is placed on the uppermost section of the tank in such a way that treatment water does not reach the ultraviolet lamp <b>23</b>. Inside the photocatalyst tank <b>22</b>, the micronanobubble generator <b>25</b> is also placed. A photocatalyst plate <b>24</b> is placed between the ultraviolet lamp <b>23</b> and the micronanobubble generator <b>25</b>. The photocatalyst plate <b>24</b> contacts with treatment water, whereas the ultraviolet lamp <b>23</b> does not contact with the treatment water.</p>
+<p id="p-0090" num="0114">In the photocatalyst tank <b>22</b>, the treatment water is mixed and agitated with the photocatalyst of the photocatalyst plate <b>24</b> by using the micronanobubbles generated by the micronanobubble generator <b>25</b>, and also the treatment water is oxidized by the micronanobubbles. The photocatalyst plate <b>24</b> has specifically been manufactured by forming a sputtered thin film on a glass plate by using the sputtering method. Generally, the ultraviolet lamp <b>23</b> contains harmful mercury. Therefore, an environmentally-safe light emitting diode lamp may be employed in place of the ultraviolet lamp <b>23</b>. The water fed to the micronanobubble generator <b>25</b> is the treatment water supplied through the water pipe <b>27</b> by the water pump <b>21</b> which is connected to the submerged membrane <b>17</b>.</p>
+<p id="p-0091" num="0115">Then, treated water is obtained from an outlet of the photocatalyst tank <b>22</b>. According to the wastewater treatment equipment in the first embodiment, wastewater containing organic matter is treated with micronanobubbles in the micronanobubble reaction vessel <b>3</b>, and then introduced into the aeration tank <b>7</b> having the submerged membrane <b>17</b>. This allows the treatment to be carried out in the sate that the activity of microorganisms is enhanced by micronanobubbles. At the same time, the wastewater containing organic matter is treated with micronanobubbles in the micronanobubble reaction vessel <b>3</b> prior to microbial treatment in the aeration tank <b>7</b>. Therefore, it becomes possible to achieve miniaturization of the aeration tank <b>7</b>, reduction in scale of the whole equipment and reduction in initial cost. Moreover, the organic matter contained in wastewater is oxidized with micronanobubbles. Thereby, the organic matter load is reduced. Thereafter, the treatment water is introduced into the aeration tank <b>7</b> where microorganisms are present in high concentration due to submerged membrane <b>17</b>. Thereby, treatment of the organic matter is effectively accomplished. In photocatalyst tank <b>22</b> provided downstream of the aeration tank <b>7</b>, it is possible to perform high-level oxidation treatment of organic matter by oxidation with use of the photocatalyst. This oxidation treatment can treat such a minute amount of organic matter as the microbial treatment alone cannot treat.</p>
+<p id="p-0092" num="0116">According to the present embodiment, it is possible to enhance the efficiency of contact between the treatment water and the photocatalyst plate <b>24</b> in the photocatalyst tank <b>22</b>, by using micronanobubbles generated by the micronanobubble generator <b>25</b>. Furthermore, it is possible to oxidize residual organic matter in treatment water in a short period of time by both the oxidation with micronanobubbles and the oxidation with photocatalyst.</p>
+<p id="p-0093" num="0117">According to the first embodiment, therefore, the treatment efficiency of wastewater containing organic matter is not only enhanced, but also reduction in scale of the wastewater treatment equipment and reduction in running cost can be achieved.</p>
+<p id="p-0094" num="0118">In the first embodiment, the water pump <b>19</b> and the water pipe <b>29</b>, which constitute a water conveyance section, convey the treatment water from the aeration tank <b>7</b> through the submerged membrane <b>17</b> to the micronanobubble generator <b>4</b> provided in the micronanobubble reaction vessel <b>3</b>. In other words, the treatment water, which contains electrolyte and is treated by the submerged membrane, is conveyed from the aeration tank <b>7</b> to the micronanobubble generator <b>4</b>. The aeration tank <b>7</b> is a high-concentration biological treatment device utilizing the submerged membrane <b>17</b>. Thus, the micronanobubble generator <b>4</b> can stably supply extremely fine air bubbles in the micronanobubble reaction vessel <b>3</b>.</p>
+<heading id="h-0011" level="1">Second Embodiment</heading>
+<p id="p-0095" num="0119"><figref idref="DRAWINGS">FIG. 2</figref> shows wastewater treatment equipment in a second embodiment of the present invention. The second embodiment is different from the first embodiment only in the point that an aeration tank <b>7</b>N is equipped with other submerged membranes <b>117</b> placed above the submerged membrane <b>17</b>. Consequently, in the second embodiment, the component parts identical to those in the first embodiment are designated by identical reference numerals, and description will be omitted except the component parts different from the first embodiment.</p>
+<p id="p-0096" num="0120">In the second embodiment, as shown in <figref idref="DRAWINGS">FIG. 2</figref>, the submerged membrane <b>117</b> is placed above the submerged membrane <b>17</b> in such a way that two submerged membranes <b>17</b> and <b>117</b> are placed three-dimensionally. This allows effectively three-dimensional utilization of the micronanobubbles and cleaning air when they ascend along the submerged membranes <b>17</b> and <b>117</b>, without increasing the installation floor space for the aeration tank <b>7</b>.</p>
+<heading id="h-0012" level="1">Third Embodiment</heading>
+<p id="p-0097" num="0121"><figref idref="DRAWINGS">FIG. 3</figref> shows wastewater treatment equipment in a third embodiment of the present invention. The third embodiment is different from the aforementioned first embodiment only in the point that an aeration tank <b>7</b>V is filled with a polyvinylidene chloride filling <b>30</b>. Consequently, in the third embodiment, the component parts identical to those in the first embodiment are designated by identical reference numerals, and description will be omitted except the component parts different from the first embodiment.</p>
+<p id="p-0098" num="0122">In the third embodiment, since the aeration tank <b>7</b>V is filled with polyvinylidene chloride filling <b>30</b>, the whole aeration tank <b>7</b>V has higher microbial concentration on an average than the aeration tank without the filling <b>30</b>. In addition, microorganisms attach to the polyvinylidene chloride filling <b>30</b> and proliferate thereon. Therefore, the microorganisms are more stabilized, and also the capability to treat organic matter in the wastewater containing organic matter is enhanced, compared with the aeration tank without the filling.</p>
+<p id="p-0099" num="0123">It is preferable that the polyvinylidene chloride filling <b>30</b> is placed entirely in the tank <b>7</b>V. In such a case, the concentration of overall microorganism becomes high in the aeration tank <b>7</b>V.</p>
+<p id="p-0100" num="0124">In the third embodiment, microorganisms proliferate on the polyvinylidene chloride filling <b>30</b> as time proceeds starting from an initial run. The microorganism concentration becomes 30,000 ppm or more on the surface of the polyvinylidene chloride filling <b>30</b>, which contributes to increase in treatment efficiency of organic matter. The polyvinylidene chloride filling <b>30</b> is made of vinylidene chloride. Vinylidene chloride is solid and resistant to chemical substances, so that it can be used semipermanently. For the polyvinylidene chloride filling <b>30</b>, the products are available under the product name such as Biocode, Ling-Lace, BioMultiLeaf and BioModule. Any of them may be selected depending on the properties of wastewater. The third embodiment may be combined with the second embodiment.</p>
+<heading id="h-0013" level="1">Fourth Embodiment</heading>
+<p id="p-0101" num="0125"><figref idref="DRAWINGS">FIG. 4</figref> shows wastewater treatment equipment in a fourth embodiment of the present invention. The fourth embodiment is different from the aforementioned first embodiment only in the point that a separation plate <b>31</b> extending in a vertical direction is placed in the vicinity of approximately the center of an aeration tank <b>7</b>Z. Consequently, in the fourth embodiment, the component parts identical to those in the first embodiment are designated by identical reference numerals, and description will be omitted except the component parts different from the first embodiment.</p>
+<p id="p-0102" num="0126">In the fourth embodiment, the air supplied by the blower <b>28</b> and discharged from the air diffusion pipe <b>11</b> generates an ascending water flow <b>32</b>A in the aeration tank <b>7</b>Z. The ascending water flow <b>32</b>A moves beyond the separation plate <b>31</b>, which is positioned approximately in the center, to the opposite side of the air diffusion pipe <b>11</b>, where it becomes a descending water flow <b>32</b>B. This provides sufficient agitation in the aeration tank <b>7</b>Z, so that microbial decomposition of the organic matter in treatment water is promoted. The fourth embodiment may be combined with the aforementioned second and third embodiments.</p>
+<heading id="h-0014" level="1">Experimental Example</heading>
+<p id="p-0103" num="0127">There was experimental equipment having a configuration identical to that of the wastewater treatment equipment in the first embodiment shown in <figref idref="DRAWINGS">FIG. 1</figref>. The capacities of the adjustment tank <b>1</b>, the micronanobubble reaction vessel <b>3</b>, and the aeration tank <b>7</b> were 50, 20 and 200 liters, respectively in the experimental equipment. Microorganisms were cultured for two months to have a microbial concentration of 14,000 ppm in the experimental equipment. Wastewater containing organic matter discharged from a factory is used for this experiment, wherein the wastewater has an organic matter concentration of 860 ppm as measured in TOC (Total Organic Carbon). This wastewater was continuously introduced into the adjustment tank <b>1</b>. Thereafter, one month elapsed and the water quality was stabilized. Then, TOC of wastewater obtained from the outlet port of the gravity pipe <b>18</b>-B was measured, and the result of measurement was 12 ppm.</p>
+<p id="p-0104" num="0128"><figref idref="DRAWINGS">FIG. 5A</figref> shows an example of a time chart in the first to fourth embodiments in the case where the wastewater containing organic matter has TOC of 800 ppm. <figref idref="DRAWINGS">FIG. 5B</figref> shows an example of a time chart in the first to fourth embodiments in the case where the wastewater containing organic matter has TOC of 1,600 ppm. Moreover, in the first to fourth embodiments, making the outer wall of the photocatalyst tank <b>22</b> transparent allows outside light incoming through the transparent outer wall to increase the photocalytic action of the photocatalyst plate <b>24</b>. This makes it possible to enhance the treatment efficiency of treatment water through the photocalytic action. Particularly, making the entire surfaces of the outer wall transparent allows the light incoming from upper, lower and side surfaces to further enhance the photocalytic action.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A wastewater treatment method, comprising:
+<claim-text>a micronanobubble treatment step for treating wastewater containing organic matter with micronanobubble;</claim-text>
+<claim-text>a microbial treatment step for applying microbial treatment with use of a submerged membrane to treatment water obtained by treating the wastewater containing organic matter in the micronanobubble treatment step; and</claim-text>
+<claim-text>a photocatalytic step for applying photocatalytic treatment to treatment water after the microbial treatment step.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A semi-continuous wastewater treatment method comprising
+<claim-text>an adjustment treatment of wastewater containing organic matter to produce an adjusted wastewater,</claim-text>
+<claim-text>treating the adjusted wastewater with micronanobubbles in a micronanobubble reaction vessel in the presence of recycled sludge from a downstream aeration treatment, to produce a micronanobubble reaction product,</claim-text>
+<claim-text>treating the micronanobubble reaction product to the aeration treatment in an aeration tank in the presence of separately added biologically treated water or sludge, and micronanobubbles, said aeration tank containing a submerged membrane and a microbubble generator and a micronanobubble generator which clean the submerged membrane, the aeration treatment producing an aerated product, and</claim-text>
+<claim-text>treating the aerated product to a photocatalytic treatment process in a photocatalytic tank in the presence of micronanobubbles to produce a photocatalytically treated product,</claim-text>
+<claim-text>said method being conducted in a semi-continuous manner such that the adjustment treatment is not conducted during the aeration treatment and the photocatalytic treatment process, and the adjusted wastewater is not being treated with micronanobubbles during the photocatalytic treatment process.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. Wastewater treatment equipment, comprising:
+<claim-text>a micronanobubble reaction vessel constructed and arranged to receive wastewater containing organic matter and to treat the wastewater containing organic matter with micronanobubbles, said micronanobubble reaction vessel containing a micronanobubble generator;</claim-text>
+<claim-text>an aeration tank in fluid communication with the micronanobubble reaction vessel, said aeration tank being constructed and arranged to receive treatment water from the micronanobubble reaction vessel, said aeration tank being constructed and arranged to apply aerated microbial treatment to the treatment water with a membrane included in the aeration tank which is submerged during operation of the equipment, the aeration tank being constructed and arranged to receive at least one of biologically treated water or sludge, and the aeration tank being constructed and arranged to supply liquid circulation from the aeration tank to the micronanobubble reaction vessel; and</claim-text>
+<claim-text>a photocatalyst tank in fluid communication with the aeration tank, the photocatalyst tank being constructed and arranged to receive treatment water from the aeration tank and to apply a photocatalytic treatment to the treatment water, the photocatalyst tank containing a micronanobubble generator.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The wastewater treatment equipment according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, comprising
+<claim-text>an adjustment tank provided in fluid communication and upstream of the micronanobubble reaction vessel, the adjustment tank being constructed and arranged to receive wastewater containing organic matter.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The wastewater treatment equipment according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, further comprising fluid communication from the aeration tank
+<claim-text>to the micronanobubble generator of the micronanobubble reaction vessel through the membrane of the aeration tank.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The wastewater treatment equipment according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the aeration tank further comprises a micronanobubble generator which is constructed and arranged to be submerged during operation of the equipment and to clean the membrane during operation of the equipment.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The wastewater treatment equipment according to <claim-ref idref="CLM-00006">claim 6</claim-ref>,
+<claim-text>wherein the aeration tank has an air diffusion pipe for discharging air to the membrane to clean the membrane during operation of the equipment, and</claim-text>
+<claim-text>the membrane is constructed and arranged to be cleaned with mixed bubbles composed of micronanobubbles generated by the micronanobubble cleaning section and air discharged from the air diffusion pipe during operation of the equipment.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The wastewater treatment equipment according to <claim-ref idref="CLM-00007">claim 7</claim-ref>,
+<claim-text>wherein the air diffusion pipe is constructed and arranged below the membrane while the micronanobubble cleaning section is constructed and arranged between the membrane and the air diffusion pipe, and</claim-text>
+<claim-text>wherein there is provided in the aeration tank a first guide mounted on the air diffusion pipe which is constructed and arranged to guide air discharged from the air diffusion pipe to the micronanobubble generator during operation of the equipment; and</claim-text>
+<claim-text>there is provided in the aeration tank a second guide mounted on the membrane for guiding micronanobubbles generated by the micronanobubble generator and air discharged from the air diffusion pipe to the membrane submerged during operation of the equipment.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The wastewater treatment equipment according to <claim-ref idref="CLM-00003">claim 3</claim-ref>,
+<claim-text>wherein the aeration tank is constructed and arranged with a plurality of membranes placed vertically in two or more rows and which are submerged during operation of the equipment.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The wastewater treatment equipment according to <claim-ref idref="CLM-00003">claim 3</claim-ref>,
+<claim-text>wherein the photocatalyst tank has:</claim-text>
+<claim-text>an ultraviolet irradiation section; and</claim-text>
+<claim-text>a photocatalyst plate, the photocatalyst plate being constructed and arranged to be in contact with the treatment water during operation of the equipment, the photocatalyst plate containing a sputtered thin film and the photocatalyst plate is constructed and arranged so as to be irradiated with ultraviolet light from the ultraviolet irradiation section during operation of the equipment.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The wastewater treatment equipment according to <claim-ref idref="CLM-00003">claim 3</claim-ref>,
+<claim-text>wherein the photocatalyst tank has:</claim-text>
+<claim-text>a light emitting diode lamp; and</claim-text>
+<claim-text>a photocatalyst plate, the photocatalyst plate being constructed and arranged to be in contact with the treatment water during operation of the equipment, the photocatalyst plate containing a sputtered thin film and the photocatalyst plate is constructed and arranged so as to be irradiated with light from the light emitting diode lamp during operation of the equipment.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The wastewater treatment equipment according to <claim-ref idref="CLM-00010">claim 10</claim-ref>,
+<claim-text>wherein the photocatalyst plate includes the sputtered thin film and a substrate which is made of either glass or quartz.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The wastewater treatment equipment according to <claim-ref idref="CLM-00011">claim 11</claim-ref>,
+<claim-text>wherein the photocatalyst plate includes the sputtered thin film and a substrate, and</claim-text>
+<claim-text>the substrate is made of either glass or quartz.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The wastewater treatment equipment according to <claim-ref idref="CLM-00010">claim 10</claim-ref>,
+<claim-text>wherein the photocatalyst tank has a transparent outer wall, and the ultraviolet irradiation section is constructed and arranged around the transparent outer wall.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The wastewater treatment equipment according to <claim-ref idref="CLM-00011">claim 11</claim-ref>,
+<claim-text>wherein the photocatalyst tank has a transparent outer wall, and an ultraviolet irradiation section is constructed and arranged around the transparent outer wall. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,1899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641390-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641390</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12101962</doc-number>
+<date>20080412</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>83</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>7</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>15</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>R</subclass>
+<main-group>35</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>374183</main-classification>
+<further-classification>374169</further-classification>
+<further-classification>374  1</further-classification>
+<further-classification>374168</further-classification>
+<further-classification>712133</further-classification>
+<further-classification>712 90</further-classification>
+<further-classification>712104</further-classification>
+<further-classification>712107</further-classification>
+<further-classification>712 99</further-classification>
+</classification-national>
+<invention-title id="d0e53">Digitally modified resistive output for a temperature sensor</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3526135</doc-number>
+<kind>A</kind>
+<name>Wortz</name>
+<date>19700900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3704803</doc-number>
+<kind>A</kind>
+<name>Ponder</name>
+<date>19721200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3872726</doc-number>
+<kind>A</kind>
+<name>Kauffeld et al.</name>
+<date>19750300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3949388</doc-number>
+<kind>A</kind>
+<name>Fuller</name>
+<date>19760400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4122719</doc-number>
+<kind>A</kind>
+<name>Carlson et al.</name>
+<date>19781000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4241303</doc-number>
+<kind>A</kind>
+<name>Thompson</name>
+<date>19801200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4302971</doc-number>
+<kind>A</kind>
+<name>Luk</name>
+<date>19811200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4308870</doc-number>
+<kind>A</kind>
+<name>Arkans</name>
+<date>19820100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4314143</doc-number>
+<kind>A</kind>
+<name>Bilstad et al.</name>
+<date>19820200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4349031</doc-number>
+<kind>A</kind>
+<name>Perlin</name>
+<date>19820900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4428382</doc-number>
+<kind>A</kind>
+<name>Walsall et al.</name>
+<date>19840100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4476872</doc-number>
+<kind>A</kind>
+<name>Perlin</name>
+<date>19841000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4481596</doc-number>
+<kind>A</kind>
+<name>Townzen</name>
+<date>19841100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>4566808</doc-number>
+<kind>A</kind>
+<name>Pompei et al.</name>
+<date>19860100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>4576487</doc-number>
+<kind>A</kind>
+<name>Conover et al.</name>
+<date>19860300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>4588306</doc-number>
+<kind>A</kind>
+<name>Burger et al.</name>
+<date>19860500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>4602642</doc-number>
+<kind>A</kind>
+<name>O'Hara et al.</name>
+<date>19860700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>4619271</doc-number>
+<kind>A</kind>
+<name>Burger et al.</name>
+<date>19861000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>4629336</doc-number>
+<kind>A</kind>
+<name>Ishizaka</name>
+<date>19861200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>4636091</doc-number>
+<kind>A</kind>
+<name>Pompei et al.</name>
+<date>19870100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>4648055</doc-number>
+<kind>A</kind>
+<name>Ishizaka et al.</name>
+<date>19870300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>4669049</doc-number>
+<kind>A</kind>
+<name>Kosednar et al.</name>
+<date>19870500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>4709704</doc-number>
+<kind>A</kind>
+<name>Lukasiewicz</name>
+<date>19871200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>4727500</doc-number>
+<kind>A</kind>
+<name>Jackson et al.</name>
+<date>19880200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>4790324</doc-number>
+<kind>A</kind>
+<name>O'Hara et al.</name>
+<date>19881200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>4863281</doc-number>
+<kind>A</kind>
+<name>Suszynski</name>
+<date>19890900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>4883366</doc-number>
+<kind>A</kind>
+<name>Dohi et al.</name>
+<date>19891100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>4911559</doc-number>
+<kind>A</kind>
+<name>Meyst et al.</name>
+<date>19900300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>4993419</doc-number>
+<kind>A</kind>
+<name>Pompei et al.</name>
+<date>19910200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>5012813</doc-number>
+<kind>A</kind>
+<name>Pompei et al.</name>
+<date>19910500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>5015102</doc-number>
+<kind>A</kind>
+<name>Yamaguchi</name>
+<date>19910500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>5018872</doc-number>
+<kind>A</kind>
+<name>Suszynski et al.</name>
+<date>19910500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>5050612</doc-number>
+<kind>A</kind>
+<name>Matsumura</name>
+<date>19910900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>5062432</doc-number>
+<kind>A</kind>
+<name>James et al.</name>
+<date>19911100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>5073034</doc-number>
+<kind>A</kind>
+<name>Beran et al.</name>
+<date>19911200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>5150969</doc-number>
+<kind>A</kind>
+<name>Goldberg et al.</name>
+<date>19920900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>5168874</doc-number>
+<kind>A</kind>
+<name>Segalowitz</name>
+<date>19921200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>5169236</doc-number>
+<kind>A</kind>
+<name>Iest</name>
+<date>19921200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>5181521</doc-number>
+<kind>A</kind>
+<name>Lemelson</name>
+<date>19930100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>5186047</doc-number>
+<kind>A</kind>
+<name>Gordon et al.</name>
+<date>19930200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>5187943</doc-number>
+<kind>A</kind>
+<name>Taniguchi et al.</name>
+<date>19930200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>5199436</doc-number>
+<kind>A</kind>
+<name>Pompei et al.</name>
+<date>19930400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>5242225</doc-number>
+<kind>A</kind>
+<name>Kasanami et al.</name>
+<date>19930900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>5243297</doc-number>
+<kind>A</kind>
+<name>Perkins et al.</name>
+<date>19930900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>5271407</doc-number>
+<kind>A</kind>
+<name>Pompei et al.</name>
+<date>19931200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>5293877</doc-number>
+<kind>A</kind>
+<name>O'Hara et al.</name>
+<date>19940300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>5381796</doc-number>
+<kind>A</kind>
+<name>Pompei</name>
+<date>19950100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00048">
+<document-id>
+<country>US</country>
+<doc-number>5441476</doc-number>
+<kind>A</kind>
+<name>Kitado et al.</name>
+<date>19950800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00049">
+<document-id>
+<country>US</country>
+<doc-number>5445158</doc-number>
+<kind>A</kind>
+<name>Pompei</name>
+<date>19950800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00050">
+<document-id>
+<country>US</country>
+<doc-number>5453682</doc-number>
+<kind>A</kind>
+<name>Hinrichs et al.</name>
+<date>19950900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00051">
+<document-id>
+<country>US</country>
+<doc-number>5473629</doc-number>
+<kind>A</kind>
+<name>Muramoto</name>
+<date>19951200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00052">
+<document-id>
+<country>US</country>
+<doc-number>5483190</doc-number>
+<kind>A</kind>
+<name>McGivern</name>
+<date>19960100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00053">
+<document-id>
+<country>US</country>
+<doc-number>5511553</doc-number>
+<kind>A</kind>
+<name>Segalowitz</name>
+<date>19960400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00054">
+<document-id>
+<country>US</country>
+<doc-number>5559497</doc-number>
+<kind>A</kind>
+<name>Hong</name>
+<date>19960900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00055">
+<document-id>
+<country>US</country>
+<doc-number>5582021</doc-number>
+<kind>A</kind>
+<name>Masauji</name>
+<date>19961200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00056">
+<document-id>
+<country>US</country>
+<doc-number>5617868</doc-number>
+<kind>A</kind>
+<name>Harada et al.</name>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00057">
+<document-id>
+<country>US</country>
+<doc-number>5622182</doc-number>
+<kind>A</kind>
+<name>Jaffe</name>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00058">
+<document-id>
+<country>US</country>
+<doc-number>5632555</doc-number>
+<kind>A</kind>
+<name>Gregory et al.</name>
+<date>19970500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00059">
+<document-id>
+<country>US</country>
+<doc-number>5634468</doc-number>
+<kind>A</kind>
+<name>Platt et al.</name>
+<date>19970600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00060">
+<document-id>
+<country>US</country>
+<doc-number>5653238</doc-number>
+<kind>A</kind>
+<name>Pompei</name>
+<date>19970800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00061">
+<document-id>
+<country>US</country>
+<doc-number>5653239</doc-number>
+<kind>A</kind>
+<name>Pompei et al.</name>
+<date>19970800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00062">
+<document-id>
+<country>US</country>
+<doc-number>5733313</doc-number>
+<kind>A</kind>
+<name>Barreras, Sr. et al.</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00063">
+<document-id>
+<country>US</country>
+<doc-number>5738441</doc-number>
+<kind>A</kind>
+<name>Cambridge et al.</name>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00064">
+<document-id>
+<country>US</country>
+<doc-number>5813766</doc-number>
+<kind>A</kind>
+<name>Chen</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00065">
+<document-id>
+<country>US</country>
+<doc-number>5816706</doc-number>
+<kind>A</kind>
+<name>Heikkila  et al.</name>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00066">
+<document-id>
+<country>US</country>
+<doc-number>5818044</doc-number>
+<kind>A</kind>
+<name>Sodickson et al.</name>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00067">
+<document-id>
+<country>US</country>
+<doc-number>5820263</doc-number>
+<kind>A</kind>
+<name>Ciobanu</name>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00068">
+<document-id>
+<country>US</country>
+<doc-number>5839094</doc-number>
+<kind>A</kind>
+<name>French</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00069">
+<document-id>
+<country>US</country>
+<doc-number>5857775</doc-number>
+<kind>A</kind>
+<name>Vodzak et al.</name>
+<date>19990100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00070">
+<document-id>
+<country>US</country>
+<doc-number>5857777</doc-number>
+<kind>A</kind>
+<name>Schuh</name>
+<date>19990100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00071">
+<document-id>
+<country>US</country>
+<doc-number>5874736</doc-number>
+<kind>A</kind>
+<name>Pompei</name>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00072">
+<document-id>
+<country>US</country>
+<doc-number>5876122</doc-number>
+<kind>A</kind>
+<name>Eryurek</name>
+<date>19990300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00073">
+<document-id>
+<country>US</country>
+<doc-number>5893833</doc-number>
+<kind>A</kind>
+<name>Pompei et al.</name>
+<date>19990400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00074">
+<document-id>
+<country>US</country>
+<doc-number>5924996</doc-number>
+<kind>A</kind>
+<name>Cho et al.</name>
+<date>19990700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00075">
+<document-id>
+<country>US</country>
+<doc-number>5938619</doc-number>
+<kind>A</kind>
+<name>Dogre Cuevas</name>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00076">
+<document-id>
+<country>US</country>
+<doc-number>5957854</doc-number>
+<kind>A</kind>
+<name>Besson et al.</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00077">
+<document-id>
+<country>US</country>
+<doc-number>5964701</doc-number>
+<kind>A</kind>
+<name>Asada et al.</name>
+<date>19991000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00078">
+<document-id>
+<country>US</country>
+<doc-number>5991700</doc-number>
+<kind>A</kind>
+<name>Clay et al.</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00079">
+<document-id>
+<country>US</country>
+<doc-number>6000846</doc-number>
+<kind>A</kind>
+<name>Gregory et al.</name>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00080">
+<document-id>
+<country>US</country>
+<doc-number>6030342</doc-number>
+<kind>A</kind>
+<name>Amano et al.</name>
+<date>20000200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00081">
+<document-id>
+<country>US</country>
+<doc-number>6036361</doc-number>
+<kind>A</kind>
+<name>Gregory et al.</name>
+<date>20000300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00082">
+<document-id>
+<country>US</country>
+<doc-number>6047205</doc-number>
+<kind>A</kind>
+<name>Pompei</name>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00083">
+<document-id>
+<country>US</country>
+<doc-number>6048304</doc-number>
+<kind>A</kind>
+<name>Koch</name>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00084">
+<document-id>
+<country>US</country>
+<doc-number>6056435</doc-number>
+<kind>A</kind>
+<name>Pompei</name>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00085">
+<document-id>
+<country>US</country>
+<doc-number>6059452</doc-number>
+<kind>A</kind>
+<name>Smith et al.</name>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00086">
+<document-id>
+<country>US</country>
+<doc-number>6087641</doc-number>
+<kind>A</kind>
+<name>Kinouchi et al.</name>
+<date>20000700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00087">
+<document-id>
+<country>US</country>
+<doc-number>6179785</doc-number>
+<kind>B1</kind>
+<name>Martinosky et al.</name>
+<date>20010100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00088">
+<document-id>
+<country>US</country>
+<doc-number>6220750</doc-number>
+<kind>B1</kind>
+<name>Palti</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00089">
+<document-id>
+<country>US</country>
+<doc-number>6238354</doc-number>
+<kind>B1</kind>
+<name>Alvarez</name>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00090">
+<document-id>
+<country>US</country>
+<doc-number>6270252</doc-number>
+<kind>B1</kind>
+<name>Siefer</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00091">
+<document-id>
+<country>US</country>
+<doc-number>6280397</doc-number>
+<kind>B1</kind>
+<name>Yarden et al.</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00092">
+<document-id>
+<country>US</country>
+<doc-number>6283632</doc-number>
+<kind>B1</kind>
+<name>Takaki</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00093">
+<document-id>
+<country>US</country>
+<doc-number>6289238</doc-number>
+<kind>B1</kind>
+<name>Besson et al.</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00094">
+<document-id>
+<country>US</country>
+<doc-number>6292685</doc-number>
+<kind>B1</kind>
+<name>Pompei</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00095">
+<document-id>
+<country>US</country>
+<doc-number>6300871</doc-number>
+<kind>B1</kind>
+<name>Irwin et al.</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00096">
+<document-id>
+<country>US</country>
+<doc-number>6355916</doc-number>
+<kind>B1</kind>
+<name>Siefert</name>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00097">
+<document-id>
+<country>US</country>
+<doc-number>6367972</doc-number>
+<kind>B1</kind>
+<name>Kamiyama et al.</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00098">
+<document-id>
+<country>US</country>
+<doc-number>6383144</doc-number>
+<kind>B1</kind>
+<name>Mooney et al.</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00099">
+<document-id>
+<country>US</country>
+<doc-number>6394648</doc-number>
+<kind>B1</kind>
+<name>Tseng</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00100">
+<document-id>
+<country>US</country>
+<doc-number>6402371</doc-number>
+<kind>B2</kind>
+<name>Pompei et al.</name>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00101">
+<document-id>
+<country>US</country>
+<doc-number>6439768</doc-number>
+<kind>B1</kind>
+<name>Wu et al.</name>
+<date>20020800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00102">
+<document-id>
+<country>US</country>
+<doc-number>6454725</doc-number>
+<kind>B1</kind>
+<name>Yu</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00103">
+<document-id>
+<country>US</country>
+<doc-number>6495806</doc-number>
+<kind>B2</kind>
+<name>Siefert</name>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00104">
+<document-id>
+<country>US</country>
+<doc-number>6496705</doc-number>
+<kind>B1</kind>
+<name>Ng et al.</name>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00105">
+<document-id>
+<country>US</country>
+<doc-number>6499877</doc-number>
+<kind>B2</kind>
+<name>Pompei</name>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00106">
+<document-id>
+<country>US</country>
+<doc-number>6544173</doc-number>
+<kind>B2</kind>
+<name>West et al.</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00107">
+<document-id>
+<country>US</country>
+<doc-number>6544174</doc-number>
+<kind>B2</kind>
+<name>West et al.</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00108">
+<document-id>
+<country>US</country>
+<doc-number>6577893</doc-number>
+<kind>B1</kind>
+<name>Besson et al.</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00109">
+<document-id>
+<country>US</country>
+<doc-number>6616606</doc-number>
+<kind>B1</kind>
+<name>Petersen et al.</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00110">
+<document-id>
+<country>US</country>
+<doc-number>6629776</doc-number>
+<kind>B2</kind>
+<name>Bell et al.</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00111">
+<document-id>
+<country>US</country>
+<doc-number>6631287</doc-number>
+<kind>B2</kind>
+<name>Newman et al.</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00112">
+<document-id>
+<country>US</country>
+<doc-number>6646567</doc-number>
+<kind>B1</kind>
+<name>Olivas</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00113">
+<document-id>
+<country>US</country>
+<doc-number>6839651</doc-number>
+<kind>B2</kind>
+<name>Lantz et al.</name>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00114">
+<document-id>
+<country>US</country>
+<doc-number>2002/0026119</doc-number>
+<kind>A1</kind>
+<name>Pompei</name>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00115">
+<document-id>
+<country>US</country>
+<doc-number>2002/0143257</doc-number>
+<kind>A1</kind>
+<name>Newman et al.</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00116">
+<document-id>
+<country>US</country>
+<doc-number>2003/0045781</doc-number>
+<kind>A1</kind>
+<name>Rosenheimer</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00117">
+<document-id>
+<country>US</country>
+<doc-number>2003/0210146</doc-number>
+<kind>A1</kind>
+<name>Tseng</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00118">
+<document-id>
+<country>US</country>
+<doc-number>2004/0019293</doc-number>
+<kind>A1</kind>
+<name>Schweitzer, Jr. et al.</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00119">
+<document-id>
+<country>US</country>
+<doc-number>2004/0071188</doc-number>
+<kind>A1</kind>
+<name>Knieriem et al.</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00120">
+<document-id>
+<country>US</country>
+<doc-number>2004/0252750</doc-number>
+<kind>A1</kind>
+<name>Gruszecki et al.</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00121">
+<document-id>
+<country>DE</country>
+<doc-number>10220171</doc-number>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00122">
+<document-id>
+<country>EP</country>
+<doc-number>0411121</doc-number>
+<date>19910200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00123">
+<document-id>
+<country>JP</country>
+<doc-number>56027625</doc-number>
+<kind>A</kind>
+<date>19810300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00124">
+<document-id>
+<country>JP</country>
+<doc-number>58178234</doc-number>
+<kind>A</kind>
+<date>19831000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00125">
+<document-id>
+<country>WO</country>
+<doc-number>98/01730</doc-number>
+<date>19980100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00126">
+<document-id>
+<country>WO</country>
+<doc-number>98/08431</doc-number>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00127">
+<document-id>
+<country>WO</country>
+<doc-number>99/39166</doc-number>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00128">
+<document-id>
+<country>WO</country>
+<doc-number>01/01093</doc-number>
+<date>20010100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00129">
+<othercit>Pompei, F. et al., &#x201c;Arterial Thermometry Via Heat Balance at the Ear, &#x201d; Physicians Reference Handbook of Temperature, Exergen Corp. (1996).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00130">
+<othercit>Web page for Mini Mitter Physiological and Behavioral Monitoring for Humans and Animals, VitalSense, Integrated Physiological Monitoring System (date of first publication unknown). Applicants admit the status of this publication as prior art for the limited purpose of examination of this application, but otherwise reserve the right to challenge the status of this publication as prior art.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00131">
+<othercit>Higgins, K.T., &#x201c;Engineering R &#x26; D: Temperature readings by remote control&#x201d;, Food Engineering (May 2003).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00132">
+<othercit>&#x201c;What is a Blackbody and Infrared Radiation?&#x201d; (date of first publication unknown). Applicants admit the status of this publication as prior art for the limited purpose of examination of this application, but otherwise reserve the right to challenge the status of this publication as prior art.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00133">
+<othercit>&#x201c;Heat Transfer&#x201d; (date of first publication unknown)). Applicants admit the status of this publication as prior art for the limited purpose of examination of this application, but otherwise reserve the right to challenge the status of this publication as prior art.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>8</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>374168</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374183</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374185</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374169</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374  1</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>702107</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>702 99</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>702104</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>702 90</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>702 91</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>702133</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>2</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>10783491</doc-number>
+<kind>00</kind>
+<date>20040220</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7484887</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12101962</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60448692</doc-number>
+<kind>00</kind>
+<date>20030220</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080195348</doc-number>
+<kind>A1</kind>
+<date>20080814</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Shidemantle</last-name>
+<first-name>Jack P.</first-name>
+<address>
+<city>Springfield</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kill</last-name>
+<first-name>Robert A.</first-name>
+<address>
+<city>Brighton</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Howard IP Law Group, PC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>YSIS Incorporated</orgname>
+<role>02</role>
+<address>
+<city>Beavercreek</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Verbitsky</last-name>
+<first-name>Gail</first-name>
+<department>2855</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Jagan</last-name>
+<first-name>Mirellys</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method for digitally controlling the resistive output of a temperature probe is disclosed. The system is comprised of a temperature sensor, a processor and a means under the control of the processor for modifying the resistive output such as a digital potentiometer. In one embodiment, the processor reads the temperature sensor and adjusts the potentiometer based on a correlative or predictive technique so as to provide a modified output that matches that of a standard resistive temperature probe and is compatible for display on a multi-parameter monitor.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="61.98mm" wi="278.47mm" file="US07641390-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="208.28mm" wi="140.29mm" file="US07641390-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="191.09mm" wi="150.28mm" file="US07641390-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a divisional of U.S. patent application Ser. No. 10/783,491, entitled DIGITALLY MODIFIED RESISTIVE OUTPUT FOR A TEMPERATURE SENSOR, filed Feb. 20, 2004, which also claims priority to the provisional U.S. Application Ser. No. 60/448,692, which was filed on Feb. 20, 2003, the disclosures and content of both of which are hereby incorporated by reference in their entireties.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">This invention relates generally to temperature probes used in the medical field and more particularly to temperature probes that are connected to medical monitors used to measure conditions such as blood pressure, oxygen content in the blood and body temperature.</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">Many medical monitors in use today have a port for connecting a temperature probe. This port is often used for connecting a resistive type probe where the monitor measures the resistance of the temperature probe to determine its temperature and thus the temperature of the tissue that the probe is in contact with.</p>
+<p id="p-0005" num="0004">Temperature probes, when they come in contact with a body that is at a temperature different from themselves, generally take about three minutes to adjust to the temperature of that body. The goal of some applications is to continuously measure a patient's temperature over a prolonged period of time such as during an operation. Waiting for a few minutes for a probe to come to temperature before an operation begins is acceptable but other temperature measurements require a faster response time. For example, when a practitioner is taking a patient's temperature once every hour it requires a quick response so the practitioner can acquire the temperature reading and then proceed to other duties.</p>
+<p id="p-0006" num="0005">Predictive type thermometers use techniques to determine or predict what the final stabilized temperature will be before the probe has reached thermal stability. These types of thermometers generally show the predicted temperature on an attached display and are usually not connected to a monitor where other vital signs are taken.</p>
+<p id="p-0007" num="0006">Previous to this invention, a monitor that has been constructed for use with a resistive temperature probe could not readily be adapted for use with a predictive temperature probe. This is because the monitor is designed to receive a resistive input to indicate temperature whereas the output from the predictive probe is a digital output of the temperature. Thus, the output from a predictive probe cannot be input to a monitor designed to receive an input from a resistive probe.</p>
+<p id="p-0008" num="0007">This invention in one embodiment allows a predictive temperature probe to be used with multipurpose monitors that are designed to receive resistive temperature inputs. A patient's temperature can be quickly taken and recorded on the same device as other vital signs. In another embodiment, this invention allows the resistive output of a temperature probe to be modified to reflect other corrections and adjustments as described herein in more detail.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0009" num="0008">In accordance with one embodiment of the invention, the resistive output of a temperature sensing device such as a thermistor is adjusted using predictive or correlative techniques and a modified resistive output is generated that is input to a multipurpose monitor. In one embodiment in particular, the sensed temperature is input to a microprocessor that determines a modified temperature reading that is translated in to a potentiometer setting required to achieve an output resistance that corresponds to the modified temperature reading.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 1</figref> is a diagram of a temperature probe connected to a medical monitor in a conventional manner.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 2</figref> is a diagram of a probe in accordance with one embodiment of the invention connected to a medical monitor by means of an interface in accordance with one embodiment of the invention.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 3</figref> is a diagram of a probe having two thermistor outputs connected to a monitor via an interface in accordance with another embodiment of the invention.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 4</figref> is a diagram of probe and an interface that utilizes a field effect transistor (FET) to modify resistance of a probe in accordance with one embodiment of the invention.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 5</figref> is a diagram of a probe and interface which utilizes a photocell to modify resistance of a probe in accordance with one embodiment of the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0015" num="0014">With reference now to the drawings, and particularly to <figref idref="DRAWINGS">FIG. 1</figref>, there is shown a multiparameter medical monitor <b>1</b> with a sensor <b>2</b> connected to its temperature port in a conventional manner. The sensor <b>2</b> contains a temperature sensitive element such as a thermistor. The monitor includes conventional circuitry such as an ADC and a resistive bridge to monitor the resistive signal received from the sensor and displays the temperature reading. The resistance of the thermistor located in the tip of the probe changes in relation to the temperature. The monitor detects the probe resistance to determine the temperature at any given time.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 2</figref> illustrates a medical monitor <b>1</b> with a sensor <b>2</b> and an interface in accordance with one embodiment of the invention. The interface includes thermometer circuitry <b>4</b> such as an ADC and a resistive bridge for obtaining a digital signal from the sensor. The output from the circuitry <b>4</b> is input to a microprocessor <b>9</b>. The microprocessor <b>9</b> may employ correlative or predictive techniques or algorithms to determine a temperature for reporting to the monitor <b>1</b>. In one embodiment, the microprocessor <b>9</b> executes a correlation algorithm or uses a look up table to report a temperature to the monitor <b>1</b>. For example, if the thermistor is being used to measure skin or temporal temperature, the microprocessor may correlate the measured temperature with a temperature such as internal body or core body temperature. In another embodiment the processor may use a predictive algorithm to convert a temperature reading taken shortly after the thermistor is placed, i.e., during a period of thermal instability, to a final predicted temperature before thermal stability actually occurs so as to provide a more rapid temperature reading. In any case, the temperature that is measured by the probe is converted to a resistance output <b>6</b> that is input to the monitor <b>1</b> that corresponds to a modified or corrected reading that the clinician desires to monitor. The microprocessor <b>9</b> adjusts the resistance output from the sensor <b>2</b> by sending a signal to the digital potentiometer <b>8</b> that sets the resistance of the digital potentiometer <b>8</b> such that the resultant resistance observed at the output <b>6</b> is indicative of the temperature that is to be displayed on the monitor as determined by the microprocessor. For example, a commercially-available 1024-step digital potentiometer may be set by digital input from the microprocessor to a value that corresponds to the resistance of an equivalent thermistor probe at the measured temperature. The interface circuit may use isolation devices and isolated power supplies to preserve the safety isolation of the monitor. In a particular embodiment, there will be no direct galvanic connection between the monitor and the interface circuit.</p>
+<p id="p-0017" num="0016">The present invention is particularly useful in conjunction with a YSI 400 series temperature probe which has a single thermistor output. In accordance with this embodiment of the invention, the 400 series output is modified by the microprocessor as illustrated in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0018" num="0017">The invention is also useful to simulate the output of a YSI 700 series temperature probe. This probe is different than the 400 series probe in that it includes two thermistors sandwiched together. As such, this probe includes two thermistor outputs. <figref idref="DRAWINGS">FIG. 3</figref> illustrates a medical monitor <b>1</b>&#x2032; with a sensor <b>2</b>&#x2032; and an interface in accordance with one embodiment of the invention. The interface includes thermometer circuitry <b>4</b>&#x2032; such as an ADC and a resistive bridge for obtaining a digital signal from the sensor. The output from the circuitry <b>4</b>&#x2032; is input to a microprocessor <b>9</b>. The microprocessor <b>9</b> employs correlative or predictive techniques or algorithms to determine a temperature for reporting to the monitor <b>1</b>&#x2032;. In this embodiment, the interface includes two digital potentiometers <b>8</b>A and <b>8</b>B and the microprocessor <b>9</b> adjusts the resistance for each of the thermistor outputs by sending signals to the respective digital potentiometers. The adjusted outputs <b>6</b>A and <b>6</b>B are input to the monitor <b>1</b>&#x2032;. As a further manifestation of the invention, an interface may be provided with two digital potentiometers that can be used with a series 400 probe or a series 700 probe or their equivalent. In this embodiment, when used with a series 400 probe, only one of the potentiometers would be adjusted whereas when used with a series 700 probe, both would be adjusted.</p>
+<p id="p-0019" num="0018">A further embodiment of the invention uses a FET in place of the digital potentiometer to modify the resistive output and is illustrated in <figref idref="DRAWINGS">FIG. 4</figref>. Temperature is measured with a sensor <b>51</b> and converted to digital form using circuitry <b>52</b>. A microprocessor <b>53</b> calculates the modified thermistor resistance as described above. A FET <b>54</b> is connected to the input of the monitor <b>58</b>, and the gate of the FET is controlled by an analog output of the microprocessor <b>53</b>. The source-drain voltage of the FET is measured with a high-impedance differential amplifier <b>57</b> and connected to an analog input of the microprocessor <b>53</b>. The source current of the FET is measured by a low-value (e.g., less than 10 ohms) resistor <b>55</b> connected to the source terminal. The voltage across this resistor is amplified by amplifier <b>57</b> and sent to the microprocessor <b>53</b>. The microprocessor calculates current from the voltage reading, given the known value of the source resistor. The microprocessor divides the voltage input by the current to get the equivalent resistance of the FET. This resistance is compared with the desired resistance and any difference is applied as negative feedback to the FET gate. Therefore the thermistor equivalent resistance can be obtained despite the non-linear characteristics of the FET.</p>
+<p id="p-0020" num="0019">If the polarity of the monitor <b>58</b> is not compatible with the FET configuration shown in <figref idref="DRAWINGS">FIG. 4</figref>, those skilled in the art will recognize that the FET may alternatively be connected in the reverse of the configuration illustrated in <figref idref="DRAWINGS">FIG. 4</figref>. Most FETs will function in this mode, although at lower gain. The feedback loop compensates for this lower gain. Furthermore, some monitors may apply pulsed or variable voltages to the thermistor input. The microprocessor <b>53</b> may measure the peak-to-peak voltages for these cases to obtain the voltage and current readings needed to compute the resistance. The interface circuit will be isolated from the monitor as described above using isolation devices and isolated power supplies to preserve the safety isolation of the monitor. For use with a monitor that is designed with inputs for more than one thermistor, the FET configuration is duplicated analogous to <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0021" num="0020">In a further embodiment illustrated in <figref idref="DRAWINGS">FIG. 5</figref>, a cadmium sulfide photocell <b>65</b> is used in place of the FET in <figref idref="DRAWINGS">FIG. 4</figref>. Temperature is measured with a sensor <b>61</b> and converted to digital form using circuitry <b>62</b>. A microprocessor <b>63</b> calculates the modified thermistor resistance as described above. A light-emitting diode (LED) <b>64</b> connected to a microprocessor analog output is used to illuminate the photocell <b>65</b>. The LED current is adjusted to obtain the desired photocell resistance. A negative feedback loop is used to compensate for the photocell nonlinearity as in the FET method. The current amplifier <b>67</b> and voltage amplifier <b>68</b> transmit current and voltage information to the microprocessor to compute equivalent resistance of the photocell. The photocell is a non-polarized device, so there is no problem with reverse connection to the monitor <b>69</b>. For use with a monitor that is designed with inputs for two thermistors, the LED/photocell configuration can be duplicated analogous to <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0022" num="0021">Other embodiments of this invention can be foreseen where the temperature to be reported to the medical monitor is determined from some other means. The temperature could be reported to the microprocessor via a serial port and then reported to the medical monitor via the resistive output.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An interface for a monitor and a temperature probe including a temperature sensor, said interface comprising:
+<claim-text>a logic circuit for modifying a resistive output of the temperature sensor to determine a modified resistive output for the temperature sensor; and</claim-text>
+<claim-text>a means for providing the modified resistive output, wherein the means for providing the modified resistive output is compatible with the monitor such that the monitor can display a temperature that corresponds to the modified resistive output from said means, said means including a digital potentiometer,</claim-text>
+<claim-text>wherein the logic circuit sends a control signal to the digital potentiometer such that the potentiometer provides the modified resistive output to the monitor.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The interface of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the means for providing the modified resistive output includes two digital potentiometers.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The interface of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the logic circuit is programmed to execute a predictive or a correlative algorithm.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The interface of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the logic circuit is a microprocessor.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A temperature probe comprising:
+<claim-text>a temperature sensor having a resistive output;</claim-text>
+<claim-text>a processor for modifying the resistive output of the temperature sensor to determine a modified resistive output for the temperature sensor, the processor being programmed to execute a predictive or a correlative algorithm; and</claim-text>
+<claim-text>a digital potentiometer for providing the modified resistive output to a monitor in response to a signal from the processor,</claim-text>
+<claim-text>wherein the algorithm converts the resistive output of the temperature sensor during a thermally unstable condition to a modified resistive output representative of a predicted temperature during a condition of thermal stability.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The temperature probe of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the probe includes two digital potentiometers.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A method for digitally modifying the resistive output of a temperature sensor, said method comprising the steps of:
+<claim-text>inputting the resistive output from the temperature sensor to a logic circuit;</claim-text>
+<claim-text>implementing a predictive or a correlative algorithm using the logic circuit to modify the resistive output to determine a modified resistive output; and</claim-text>
+<claim-text>signaling a digital potentiometer to adopt a setting corresponding to the modified resistive output; wherein the digital potentiometer outputs a resistance corresponding to the modified resistive output.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the signaling step comprises signaling two digital potentiometers to adopt a setting corresponding to the modified resistive output.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

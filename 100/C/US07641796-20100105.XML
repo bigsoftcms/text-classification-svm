@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641796-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641796</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11420335</doc-number>
+<date>20060525</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>216</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>02</class>
+<subclass>F</subclass>
+<main-group>11</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>02</class>
+<subclass>F</subclass>
+<main-group>3</main-group>
+<subgroup>30</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>210603</main-classification>
+<further-classification>210609</further-classification>
+<further-classification>210613</further-classification>
+<further-classification>210630</further-classification>
+</classification-national>
+<invention-title id="d0e53">Anaerobic digestion process for low-solid waste</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2064529</doc-number>
+<kind>A</kind>
+<name>Fischer et al.</name>
+<date>19361200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210603</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2850449</doc-number>
+<kind>A</kind>
+<name>Torpey</name>
+<date>19580900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210609</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3220945</doc-number>
+<kind>A</kind>
+<name>Torpey</name>
+<date>19651100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210609</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3386910</doc-number>
+<kind>A</kind>
+<name>Forrest</name>
+<date>19680600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210624</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>RE26514</doc-number>
+<kind>E</kind>
+<name>Albertson et al.</name>
+<date>19681200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>110342</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3440165</doc-number>
+<kind>A</kind>
+<name>Davis et al.</name>
+<date>19690400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210609</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3787316</doc-number>
+<kind>A</kind>
+<name>Brink et al.</name>
+<date>19740100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210608</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4213857</doc-number>
+<kind>A</kind>
+<name>Ishida et al.</name>
+<date>19800700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4277342</doc-number>
+<kind>A</kind>
+<name>Hayes et al.</name>
+<date>19810700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>4352625</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4289625</doc-number>
+<kind>A</kind>
+<name>Tarman et al.</name>
+<date>19810900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4315823</doc-number>
+<kind>A</kind>
+<name>Witt et al.</name>
+<date>19820200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210605</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4551243</doc-number>
+<kind>A</kind>
+<name>Martin</name>
+<date>19851100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210180</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4735724</doc-number>
+<kind>A</kind>
+<name>Chynoweth et al.</name>
+<date>19880400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>4975195</doc-number>
+<kind>A</kind>
+<name>Urbani</name>
+<date>19901200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210608</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>4988442</doc-number>
+<kind>A</kind>
+<name>Highsmith et al.</name>
+<date>19910100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5076927</doc-number>
+<kind>A</kind>
+<name>Hunter</name>
+<date>19911200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>H1149</doc-number>
+<kind>H</kind>
+<name>Wyman et al.</name>
+<date>19930300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5207911</doc-number>
+<kind>A</kind>
+<name>Pellegrin et al.</name>
+<date>19930500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5264349</doc-number>
+<kind>A</kind>
+<name>De Baere</name>
+<date>19931100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>5338445</doc-number>
+<kind>A</kind>
+<name>Zumbragel et al.</name>
+<date>19940800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>5451319</doc-number>
+<kind>A</kind>
+<name>Kobayashi</name>
+<date>19950900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>5723048</doc-number>
+<kind>A</kind>
+<name>Kobayashi et al.</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>5733758</doc-number>
+<kind>A</kind>
+<name>Nguyen</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>435162</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>6077430</doc-number>
+<kind>A</kind>
+<name>Chudoba et al.</name>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210605</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>6254775</doc-number>
+<kind>B1</kind>
+<name>McElvaney</name>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>6299774</doc-number>
+<kind>B1</kind>
+<name>Ainsworth et al.</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210603</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>6444124</doc-number>
+<kind>B1</kind>
+<name>Onyeche et al.</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>6692642</doc-number>
+<kind>B2</kind>
+<name>Josse et al.</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>2004/0144735</doc-number>
+<kind>A1</kind>
+<name>Shepherd et al.</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210769</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>JP</country>
+<doc-number>59-388</doc-number>
+<date>19840100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+</references-cited>
+<number-of-claims>20</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>210603</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210605</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210609</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210612</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210613</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210620</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210630</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>2</number-of-drawing-sheets>
+<number-of-figures>2</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60594991</doc-number>
+<kind>00</kind>
+<date>20050525</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060266703</doc-number>
+<kind>A1</kind>
+<date>20061130</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Stroot</last-name>
+<first-name>Peter George</first-name>
+<address>
+<city>Lutz</city>
+<state>FL</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Cutter</last-name>
+<first-name>Matthew Raymond</first-name>
+<address>
+<city>Tampa</city>
+<state>FL</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Lawson</last-name>
+<first-name>Michele L.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<orgname>Smith &#x26; Hopen, P.A.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>University of South Florida</orgname>
+<role>02</role>
+<address>
+<city>Tampa</city>
+<state>FL</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Prince</last-name>
+<first-name>Fred</first-name>
+<department>1797</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An anaerobic digestion process for the treatment of domestic wastewater sludge that requires less space and funding to construct. Sludge to be treated is combined with recycled anaerobic digester sludge to form a blended sludge. The recycled anaerobic digester sludge provides a source of microorganisms necessary to initiate the breakdown of organic matter in the sludge to be treated. The sludge is then concentrated to increase total solids content to about 10-20%. Excess liquid is removed from the concentrated sludge. The concentrated sludge is then digested in an anaerobic reactor system such as a plug-flow reactor. Some benefits of the system's reduced volume, as a result of concentration of the sludge, include elimination of the necessity of substantially continuous stirring and the new possibilities for the types of construction to be used for the reactor. In addition to the reduced cost of the process itself, the process creates biogas that can be used to offset energy requirements for the process.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="114.47mm" wi="150.20mm" file="US07641796-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="213.95mm" wi="163.24mm" file="US07641796-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="139.45mm" wi="174.92mm" file="US07641796-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority to U.S. Provisional Patent Application 60/594,991, entitled, &#x201c;Anaerobic Digestion Process for Low-Solid Wastes&#x201d;, filed May 25, 2005, the contents of which are herein incorporated by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">FIELD OF INVENTION</heading>
+<p id="p-0003" num="0002">This invention relates to wastewater treatment. More particularly, this invention relates to an anaerobic digestion process for the treatment of domestic wastewater sludge utilizing thickened sludge allowing for reduced reactor size.</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">There is considerable interest in the treatment of wastewater sludge. Anaerobic digestion of municipal wastewater sludge typically requires the use of large holding tanks sized to accommodate enough sludge to account for a 20-day hydraulic retention time. In addition to these tanks, equipment is used to constantly stir the contents. This new process requires a much smaller tank and no stirring equipment, and yet does not sacrifice performance as compared to standard anaerobic digestion processes. Resulting equipment costs and capital costs are reduced considerably. Land requirements are similarly reduced.</p>
+<p id="p-0005" num="0004">Anaerobic digestion is a microbiological process in which organic materials are broken down by the action of microorganisms in the absence of oxygen. The anaerobic microorganisms reduce the quantity of organic matter present in the biologically activated sludge thereby generating bio-gas having a relatively high methane gas content. The stabilized sludge is typically removed from a digestion tank for dewatering and disposal. The methane gas can be burned off or recovered to supply energy to heat the digesters as well as supply energy for use elsewhere in the treatment facility. There exists a great need to maximize the effectiveness and costs of the anaerobic digestion to allow municipalities and other treatment facilities to operate efficiently and reduce the burdens on space. This invention serves these important needs and others as will become apparent.</p>
+<heading id="h-0004" level="1">SUMMARY OF INVENTION</heading>
+<p id="p-0006" num="0005">An anaerobic digestion process for the treatment of domestic wastewater sludge that requires less space and funding to construct. Sludge to be treated is combined with recycled anaerobic digester sludge to form a blended sludge. The recycled anaerobic digester sludge provides a source of microorganisms necessary to initiate the breakdown of organic matter in the sludge to be treated. The sludge is then concentrated to increase total solids content to about 10-20%. Excess liquid is removed from the concentrated sludge. The concentrated sludge is then digested in an anaerobic reactor system such as a plug-flow reactor. Some benefits of the system's reduced volume, as a result of concentration of the sludge, include elimination of the necessity of substantially continuous stirring and the new possibilities for the types of construction to be used for the reactor. In addition to the reduced cost of the process itself, the process creates biogas that can be used to offset energy requirements for the process.</p>
+<p id="p-0007" num="0006">In accordance with one aspect of the invention there is provided a method for the treatment of sludge generated in a wastewater treatment system including the steps of blending sludge to be treated with recycled anaerobic digester sludge to form a blended sludge, concentrating the blended sludge wherein the total solids content is increased to about 10% to about 20% and excess liquid is removed, transferring the excess liquid for aerobic digestion, digesting the concentrated sludge in an anaerobic digestion systems and recycling a portion of the digester waste stream to provide as recycled anaerobic digester sludge input for the blending step. In certain embodiments the sludge to be treated is primary and waste activated sludge. In an advantageous embodiment the reactor of the anaerobic digestion system is a plug-flow reactor. In a further embodiments the temperature of the anaerobic digestion system is maintained by a heating jacket. The anaerobic digestion system may also be insulated to maintain a substantially constant temperature. In certain embodiments the reactor of the anaerobic digestion system is small volume reactor relative to the size of a reactor used in a conventional digestion process. Reducing reactor size results in a significant economic advantage and allows the use of standard-size plastic or metal tanks as opposed to the pre-stressed concrete required in larger systems. In certain aspects the digesting of the concentrated sludge in an anaerobic digestion system is performed in the absence of substantially continuous stirring. Eliminating the requirement for stirring substantially reduces the cost and complexity of the system. In certain aspects the blended sludge is concentrated using a centrifuge. In alternative aspects the blended sludge is concentrated using a belt filter press. Alternatively a combination of these means, and other, could be used to concentrate the blended sludge. The concentrated, blended sludge can be transferred to the anaerobic digestion system using an auger. In an advantageous embodiment a portion of the produced biogas can be captured to offset the cost of the wastewater treatment process.</p>
+<p id="p-0008" num="0007">In alternative aspects the present invention provides a method for treating sludge generated in a wastewater treatment system including the steps of blending sludge to be treated with recycled anaerobic digester sludge to form a blended sludge, concentrating the blended sludge wherein the total solids content is increased to about 10% to about 20% and excess liquid is removed, transferring the excess liquid for aerobic digestion, digesting the concentrated sludge in a plug-flow reactor anaerobic digestion system; and recycling a portion of the digester waste stream to provide as recycled anaerobic digester sludge input for the blending step. In certain embodiments the anaerobic digestion system is maintained a substantially constant temperature. The temperature of the anaerobic digestion system can be maintained by a heating jacket. The anaerobic digestion system may also be insulated to maintain a substantially constant temperature. In certain aspects the digesting of the concentrated sludge in an anaerobic digestion system is performed in the absence of substantially continuous stirring.</p>
+<p id="p-0009" num="0008">In further alternative aspects the present invention provides a method for treating sludge generated in a wastewater treatment system comprising the steps of providing primary and waste-activated sludge to be treated, concentrating the sludge wherein the total solids content is increased to about 10% to about 20% and excess liquid is removed, transferring the excess liquid for aerobic digestion and digesting the concentrated sludge in a plug-flow reactor anaerobic digestion system. In certain embodiments the anaerobic digestion system is maintained a substantially constant temperature. The temperature of the anaerobic digestion system can be maintained by a heating jacket. The anaerobic digestion system may also be insulated to maintain a substantially constant temperature. In certain aspects the digesting of the concentrated sludge in an anaerobic digestion system is performed in the absence of substantially continuous stirring.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0010" num="0009">For a fuller understanding of the invention, reference should be made to the following detailed description, taken in connection with the accompanying drawings, in which:</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 1</figref> is a flowchart depicting standard (prior-art) anaerobic digestion processes. At the top of the figure is shown a 2-Stage Anaerobic Digester (Conventional). At the bottom of the figure is shown a High-rate Anaerobic Digester.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 2</figref> is a flowchart depicting the anaerobic digestion process of the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENT</heading>
+<p id="p-0013" num="0012">The disclosed invention is an anaerobic digestion process for the treatment of domestic wastewater sludge.</p>
+<p id="p-0014" num="0013">By way of background, a wastewater treatment system cleans wastewater before it is discharged into a receiving stream. Traditional anaerobic digestion is a stirred, low-solids process performed in a continuously-stirred tank reactor (CSTR). Both the conventional and high-rate processes use this design configuration. <figref idref="DRAWINGS">FIG. 1</figref> presents a schematic block diagram of such conventional and high-rate processes that may be used by a municipality or the like. Typically, industrial or municipal primary and waste-activated sludge initially passes along a flow path into an anaerobic digester. In general, the micro-organisms consume the organic particulates suspended in the wastewater. In this way, the treatment microorganisms reduce contaminants present in the wastewater as well as the biological oxygen demand. Biogas, including methane, is one product of the digestion process. In a conventional, two-stage anaerobic digester the product to the first digestion is passed to a second anaerobic digester without additional mixing. Following the second anaerobic digestion, or, in the case of a high-rate anaerobic digester, a first anaerobic digestion, the digested product is passed to a belt filter press where the biosolids are separated from the supernatant. The stabilized, digested sludge can then proceed towards disposal.</p>
+<p id="p-0015" num="0014">The new anaerobic digestion process breaks the three tenets illustrated in <figref idref="DRAWINGS">FIG. 1</figref>. Referring to <figref idref="DRAWINGS">FIG. 2</figref> there is presented a schematic block diagram exemplary of the invention. The new process converts a low-solids problem to a high-solids one. Whereas the conventional process deals with a total solids content of 1-4%, the new process thickens this solids content to 10-20%. This allows for a large reduction in reactor volume, thus generating large capital cost savings. Smaller reactor volume also means that different building materials than pre-stressed concrete can be used. The new process allows for standard sized plastic or metallic tanks. The conventional process requires stirring of the sludge, whereas the new process does not. Finally, the conventional process utilizes CSTRs, whereas the new process uses a plug-flow reactor (PFR) which is universally recognized as a more efficient reactor configuration. Eliminating excessive reactor size and stirring drastically reduces the equipment costs, and as a result, overall capital costs.</p>
+<p id="p-0016" num="0015">The invention will be further described by way of the following non-limiting examples.</p>
+<heading id="h-0007" level="1">EXAMPLE 1</heading>
+<heading id="h-0008" level="1">Development and Characterization of the New Anaerobic Digestion Process</heading>
+<p id="h-0009" num="0000">Process Steps for New Anaerobic Digestion Process:</p>
+<p id="p-0017" num="0000">
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0016">1. Primary and waste activated sludge are blended with recycled anaerobic digester sludge.</li>
+    <li id="ul0001-0002" num="0017">2. The waste is thickened to increase the total solids content from 1-3% to 10-20%. Excess liquid (supernatant) from the centrifugation or belt filter press process is transferred to the head of the treatment plant for aerobic treatment. The thickened sludge is transferred into the anaerobic digester via an auger or similar system.</li>
+    <li id="ul0001-0003" num="0018">3. Thickened sludge is added to the anaerobic digester for a defined retention time. During this period, volatile solids are converted to biogas and biosolids. A portion of the biogas (methane and carbon dioxide) can be used to offset energy requirements for the digestion process. The digester temperature is maintained by a heating jacket and insulation. This is not possible in conventional or high-rate processes because of the size of the reactors. The digester is a plug flow reactor, and does not require stirring.</li>
+    <li id="ul0001-0004" num="0019">4. A portion of the digester waste stream is recycled as described in step one. The main purpose of this is to maintain the microorganism population in the digester. The remaining portion of the biosolids is removed for disposal or further processing.
+<br/>
+Financial Benefits:
+</li>
+</ul>
+</p>
+<p id="p-0018" num="0020">The equipment costs for conventional and high-rate digestion processes (serving 10,000 customers) are as follows:</p>
+<p id="p-0019" num="0021">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="56pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="56pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Equipment</entry>
+<entry>Capacity</entry>
+<entry>2-Stage</entry>
+<entry>High-rate</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Anaerobic</entry>
+<entry>485,851 gal</entry>
+<entry>$558,729</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry/>
+<entry>Digester #1</entry>
+</row>
+<row>
+<entry/>
+<entry>Anaerobic</entry>
+<entry>485,851 gal</entry>
+<entry>$558,729</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry/>
+<entry>Digester #2</entry>
+</row>
+<row>
+<entry/>
+<entry>High-rate</entry>
+<entry>364,388 gal</entry>
+<entry>&#x2014;</entry>
+<entry>$470,152</entry>
+</row>
+<row>
+<entry/>
+<entry>Anaerobic</entry>
+</row>
+<row>
+<entry/>
+<entry>Digester</entry>
+</row>
+<row>
+<entry/>
+<entry>Gas Collection</entry>
+<entry/>
+<entry>$120,000</entry>
+<entry>&#x2002;$60,000</entry>
+</row>
+<row>
+<entry/>
+<entry>Total</entry>
+<entry/>
+<entry>$1,237,000&#x2002;&#x2009;</entry>
+<entry>$530,152</entry>
+</row>
+<row>
+<entry/>
+<entry>Capital Cost</entry>
+<entry/>
+<entry>7&#xd7;</entry>
+<entry>7&#xd7;</entry>
+</row>
+<row>
+<entry/>
+<entry>Factor</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Estimated</entry>
+<entry/>
+<entry>$8,659,000&#x2002;&#x2009;</entry>
+<entry>$3,711,064&#x2002;&#x2009;</entry>
+</row>
+<row>
+<entry/>
+<entry>Capital Costs</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0020" num="0022">These costs are for systems serving 10,000 customers. Costs are in year 2000 dollars. Costs for belt filter presses, heating equipment, and pumps are not included because they are common to both systems. Gas collection equipment here are floating steel covers for the reactors. Costs are estimates based upon conversations with equipment vendors. However, the gas collection equipment is estimated to cost less for the new system, since costs are based upon surface area of the reactor. The PFR reactor for the new digestion method will not require a large floating cover or dome. The capital cost factor is based upon a conversation with a local environmental engineering consulting firm. Generally, capital costs for a project are six to seven times the total cost of equipment. The cost break down for the new system is as follows:</p>
+<p id="p-0021" num="0023">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="84pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="70pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Equipment</entry>
+<entry>Capacity</entry>
+<entry>New System</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Anaerobic Digester</entry>
+<entry>42,026 gallons</entry>
+<entry>$63,000</entry>
+</row>
+<row>
+<entry/>
+<entry>Gas Collection</entry>
+<entry/>
+<entry>&#x2002;&#x2009;$5000</entry>
+</row>
+<row>
+<entry/>
+<entry>Total</entry>
+<entry/>
+<entry>$68,000</entry>
+</row>
+<row>
+<entry/>
+<entry>Capital Cost Factor</entry>
+<entry/>
+<entry>7&#xd7;</entry>
+</row>
+<row>
+<entry/>
+<entry>Estimated Capital Costs</entry>
+<entry/>
+<entry>$476,000&#x2002;</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0022" num="0024">The digester costs are based upon a tank with dimensions of 32 feet tall by 15 feet diameter. It is sized for 15% solids with a hydraulic retention time of 15 days. Based upon these data, the equipment cost savings of the new process over the standard 2-stage system is 95%, and 87% versus the high-rate system.</p>
+<p id="p-0023" num="0025">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="77pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="77pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Capital Cost Savings</entry>
+<entry>2-Stage Process</entry>
+<entry>High-rate Process</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Percentage</entry>
+<entry>95%</entry>
+<entry>87%</entry>
+</row>
+<row>
+<entry/>
+<entry>Dollars</entry>
+<entry>$8,183,000</entry>
+<entry>$3,235,000</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0024" num="0026">It should be noted that the 15-day hydraulic retention time that our process is designed for is constrained by regulations for class A pathogen reduction (see EPA 40 CFR Part 503 for regulations for land application of biosolids). Our process retention time could be further reduced through lime additions to the treated biosolids to remove pathogens. Through this process, additional cost savings through reactor size reduction could be realized. It is also important to note that the dimensions for the reactor size listed here are for domestic/municipal sludge treatment only. Applications involving animal, crop, and other organic wastes may require smaller digesters, and will also likely have different disposal regulations.</p>
+<p id="h-0010" num="0000">Further Applications:</p>
+<p id="p-0025" num="0027">In addition to the digestion of municipal wastewater sludge, this technology lends itself to a variety of other waste digestion problems in industries such as: Swine manure (instead of covered lagoons), poultry waste, crop waste, paper waste, solid waste pre-landfill treatment, cattle waste, industrial waste, high-solid waste.</p>
+<p id="p-0026" num="0028">These waste streams would require further research and development to optimize the system operation; however the principle is sound and would likely only require minor adjustments. For instance, high-solids waste streams would require a dilution step to allow for homogeneous mixing of waste and anaerobic digester sludge. This would be accomplished by adding a small tank using process water prior to the thickening step. The smaller size and cost of the new system lends itself well to these applications, since conventional systems are cost and size prohibitive for the private user.</p>
+<p id="p-0027" num="0029">The disclosure of all publications cited above are expressly incorporated herein by reference, each in its entirety, to the same extent as if each were incorporated by reference individually.</p>
+<p id="p-0028" num="0030">It will be seen that the advantages set forth above, and those made apparent from the foregoing description, are efficiently attained and since certain changes may be made in the above construction without departing from the scope of the invention, it is intended that all matters contained in the foregoing description or shown in the accompanying drawings shall be interpreted as illustrative and not in a limiting sense.</p>
+<p id="p-0029" num="0031">It is also to be understood that the following claims are intended to cover all of the generic and specific features of the invention herein described, and all statements of the scope of the invention which, as a matter of language, might be said to fall therebetween. Now that the invention has been described,</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method for treating sludge generated in a wastewater treatment system comprising the steps of:
+<claim-text>blending sludge to be treated with recycled anaerobic digester sludge to form a blended sludge;</claim-text>
+<claim-text>concentrating the blended sludge wherein the total solids content is increased to about 10% to about 20% and excess liquid is removed;</claim-text>
+<claim-text>transferring the excess liquid for aerobic treatment;</claim-text>
+<claim-text>digesting the concentrated sludge in a single vessel anaerobic digestion system wherein the digestion of the concentrated sludge is performed without substantially continuous stirring; and</claim-text>
+<claim-text>recycling a portion of the digester waste stream to provide as recycled anaerobic digester sludge input for the blending step.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the sludge to be treated is primary and waste activated sludge.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the sludge to be treated is selected from the group consisting of primary sludge and waste activated sludge.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the reactor of the anaerobic digestion system is a plug-flow reactor.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the temperature of the anaerobic digestion system is maintained by a heating jacket.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the anaerobic digestion system is insulated to maintain a substantially constant temperature.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the blended sludge is concentrated using a centrifuge.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the blended sludge is concentrated using a belt filter press.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the concentrated blended sludge is transferred to the anaerobic digestion system using an auger.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein digesting the concentrated sludge in the anaerobic digester produces a biogas and a portion of the produced biogas is captured to offset the cost of the wastewater treatment system.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A method for treating sludge generated in a wastewater treatment system comprising the steps of:
+<claim-text>blending sludge to be treated with recycled anaerobic digester sludge to form a blended sludge;</claim-text>
+<claim-text>concentrating the blended sludge wherein the total solids content is increased to about 10% to about 20% and excess liquid is removed;</claim-text>
+<claim-text>transferring the excess liquid for aerobic treatment;</claim-text>
+<claim-text>digesting the concentrated sludge in a plug-flow reactor anaerobic digestion system; and</claim-text>
+<claim-text>recycling a portion of the digester waste stream to provide as recycled anaerobic digester sludge input for the blending step.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref> wherein the anaerobic digestion system is maintained a substantially constant temperature.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method according to <claim-ref idref="CLM-00012">claim 12</claim-ref> wherein the substantially constant temperature is maintained by heating the reactor.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method according to <claim-ref idref="CLM-00012">claim 12</claim-ref> wherein the substantially constant temperature is maintained by insulating the reactor.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref> wherein the digesting the concentrated sludge in an anaerobic digestion system is performed in the absence of substantially continuous stirring.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. A method for treating sludge generated in a wastewater treatment system comprising the steps of:
+<claim-text>providing primary and waste-activated sludge to be treated;</claim-text>
+<claim-text>concentrating the sludge wherein the total solids content is increased to about 10% to about 20% and excess liquid is removed;</claim-text>
+<claim-text>transferring the excess liquid for aerobic treatment; and</claim-text>
+<claim-text>digesting the concentrated sludge in a plug-flow reactor anaerobic digestion system.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The method according to <claim-ref idref="CLM-00016">claim 16</claim-ref> wherein the anaerobic digestion system is maintained a substantially constant temperature.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The method according to <claim-ref idref="CLM-00017">claim 17</claim-ref> wherein the substantially constant temperature is maintained by heating the reactor.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The method according to <claim-ref idref="CLM-00017">claim 17</claim-ref> wherein the substantially constant temperature is maintained by insulating the reactor.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The method according to <claim-ref idref="CLM-00016">claim 16</claim-ref> wherein the digesting the concentrated sludge in an anaerobic digestion system is performed in the absence of substantially continuous stirring.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

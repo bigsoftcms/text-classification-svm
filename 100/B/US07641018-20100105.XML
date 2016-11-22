@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641018-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641018</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11837798</doc-number>
+<date>20070813</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>331</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>60</class>
+<subclass>K</subclass>
+<main-group>17</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>180306</main-classification>
+<further-classification>180 6521</further-classification>
+<further-classification>180 65265</further-classification>
+<further-classification>180 6527</further-classification>
+<further-classification>180 65275</further-classification>
+<further-classification>180 6531</further-classification>
+<further-classification>180 534</further-classification>
+<further-classification>180 535</further-classification>
+<further-classification>180 538</further-classification>
+</classification-national>
+<invention-title id="d0e53">Control strategy for DC emergency direct current motor for an emergency hydraulic pump</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2968915</doc-number>
+<kind>A</kind>
+<name>Feistel, Jr.</name>
+<date>19610100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60435</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6272402</doc-number>
+<kind>B1</kind>
+<name>Kelwaski</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6360834</doc-number>
+<kind>B1</kind>
+<name>Gauthier</name>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 6523</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6922990</doc-number>
+<kind>B2</kind>
+<name>Naruse et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60414</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2006/0052215</doc-number>
+<kind>A1</kind>
+<name>Beaty et al.</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>8</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>180 6521</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180 65265</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180 6527</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180 65275</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180 6531</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180 534</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180 535</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180 538</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>3</number-of-drawing-sheets>
+<number-of-figures>3</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090044993</doc-number>
+<kind>A1</kind>
+<date>20090219</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Bissontz</last-name>
+<first-name>Jay E.</first-name>
+<address>
+<city>Fort Wayne</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Calfa</last-name>
+<first-name>Jeffrey P.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Bach</last-name>
+<first-name>Mark C.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>International Truck Intellectual Property Company, LLC</orgname>
+<role>02</role>
+<address>
+<city>Warrenville</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Dickson</last-name>
+<first-name>Paul N</first-name>
+<department>3618</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Evans</last-name>
+<first-name>Bryan A</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A control system for a hybrid-vehicle equipped with power takeoff equipment provides control over primary and redundant, relatively low output systems so that the redundant system is not damaged by concurrent operation of the primary system.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="83.23mm" wi="164.68mm" file="US07641018-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="168.49mm" wi="101.09mm" orientation="landscape" file="US07641018-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="243.16mm" wi="182.37mm" file="US07641018-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="210.14mm" wi="141.05mm" orientation="landscape" file="US07641018-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Technical Field</p>
+<p id="p-0003" num="0002">The invention relates to control of power takeoff operation equipment installed on a hybrid-vehicle and more particularly to back up, twelve-volt, direct current supported power takeoff operation of the equipment.</p>
+<p id="p-0004" num="0003">2. Description of the Problem</p>
+<p id="p-0005" num="0004">The use of a hybrid-vehicle chassis to support power takeoff operation (PTO) of equipment such as an aerial lift unit (colloquially called a &#x201c;cherry picker&#x201d;), a compactor on a garbage truck, a liquid fuel delivery pump on a tanker truck and the like, is relatively new, even in the context of the development of hybrid-vehicles. Integration of the control of PTO equipment on the hybrid-vehicle poses specific challenges.</p>
+<p id="p-0006" num="0005">It is favored practice to use hybrid-vehicle electric traction motors to support PTO as opposed to using the vehicle's internal combustion (IC) engine. A reason for this is that the vehicle's IC engine, typically a diesel capable of moving the vehicle at highway speeds, is designed to provide far more power than is required by the PTO equipment and accordingly is not operated in an optimal manner when the vehicle is supporting PTO operation. The problem is magnified in the environment of an aerial tower vehicle where the vehicle is not moving during PTO operation and PTO operation may only be occasional as and when demanded by an operator. If the IC engine is kept running to be ready for PTO, much fuel is wasted with the engine idling while waiting for operator inputs and in parasitic losses at the low power output levels. Electric motors by contrast suffer far less from parasitic losses than do thermal engines and demand relatively little power input in excess of their output. Moreover, electric motors are not run at idle. Use of the primary traction motor to power a high-pressure high-volume hydraulic pump allows greater efficiency over use of an idling diesel engine to power a PTO hydraulic pump.</p>
+<p id="p-0007" num="0006">For some types of PTO, particularly aerial lift units, it is necessary to provide a backup prime mover. In an aerial lift unit a small output direct current electric motor driving an auxiliary hydraulic pump is advantageously used. The DC electric motor can run off the twelve volt direct current source such vehicles are conventionally equipped with instead of the much higher voltage traction system. Thus the back up motor is supplied with electricity from a different source than the traction motor uses to energize the primary pump. An automotive starter motor may be used as the backup motor, such motors being relatively inexpensive.</p>
+<p id="p-0008" num="0007">However, the potential for conflict exists between the PTO hydraulic pump driven by the traction motor and the emergency hydraulic pump powered by the twelve volt DC motor. Such conflict may result in damage to the emergency hydraulic pump or its DC motor, which have a much lower maximum power output than do the primary PTO pump and motor.</p>
+<p id="p-0009" num="0008">Many contemporary vehicles are now equipped with body computers, local controllers and controller area networks to implement most aspects of vehicle control. In vehicles designed, built and sold by International Truck and Engine Corporation, an Electrical System Controller (&#x201c;ESC&#x201d;) carries out the functions of the body computer. Local controllers which communicate with each other and with the ESC to distribute data and requests essential for operation of local programming by which control is implemented. Controller area networks have been applied both to conventional vehicles and to hybrid-vehicles. Control strategies relating both to the primary and backup motors are preferably implemented on the ESC, which will control the operation of both motors.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">According to the invention there is provided a hybrid diesel-electric vehicle equipped with power takeoff operation accessories. The hybrid diesel-electric vehicle includes a conventional public data bus with its body computer, and at least a first secondary data bus. One secondary data bus interlinks a transmission controller with a hybrid system controller and transmission gear selection controller and provides a gateway to the public data bus. Another secondary controller links a generic programmable module used for PTO accessory control with the body computer, which in turn provides a gateway to the public data bus. Still another secondary data bus is connected between a switch pack and the body computer, which again provides a gateway to the public data bus. Control is provided for two alternative hydraulic pump systems which are energized from different sources, which have differing output capacities and where one pump system serves as an auxiliary or supplement to the other under certain circumstances.</p>
+<p id="p-0011" num="0010">At issue in the present application is implementing a control strategy which avoids damage to an auxiliary direct current electric motor and auxiliary hydraulic pump by conflicting operation of the primary system. The auxiliary motor/pump combination provide alternative, generally reduced, energization to an aerial lift unit system (or other PTO system) from the vehicle's 12 volt electrical system. The primary PTO hydraulic pump is run from a traction motor which is energized from a much higher voltage source and which has a capacity for much higher maximum power output.</p>
+<p id="p-0012" num="0011">Control arrangements are finalized by programming, which may be specific to a particular vehicle and alterable with time, the vehicle gains flexibility and system robustness is enhanced.</p>
+<p id="p-0013" num="0012">Additional effects, features and advantages will be apparent in the written description that follows.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0014" num="0013">The novel features believed characteristic of the invention are set forth in the appended claims. The invention itself however, as well as a preferred mode of use, further objects and advantages thereof, will best be understood by reference to the following detailed description of an illustrative embodiment when read in conjunction with the accompanying drawings, wherein:</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 1</figref> is a simplified illustration of a truck mounted aerial lift assembly for locating an operator in various raised positions.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 2</figref> is a high level schematic of a vehicle control system for a hybrid-vehicle equipped with a PTO application.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 3</figref> is a highly simplified state diagram illustrating a possible control scenario for an aerial lift unit installed on a hybrid vehicle.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0018" num="0017">Referring now to the figures and in particular to <figref idref="DRAWINGS">FIG. 1</figref>, an example of a diesel-electric hybrid mobile aerial lift truck <b>1</b> is illustrated. The mobile aerial lift truck <b>1</b> includes an aerial lift unit <b>2</b> mounted to a bed on the back portion of the truck. The aerial lift unit <b>2</b> includes a lower boom <b>3</b> and an upper boom <b>4</b> pivotally interconnected to each other. The lower boom <b>3</b> is in turn mounted to rotate on the truck bed on a support <b>6</b> and rotatable support bracket <b>7</b>. The rotatable support bracket <b>7</b> includes a pivoting mount <b>8</b> for one end of lower boom <b>3</b>. A bucket <b>5</b> is secured to the free end of upper boom <b>4</b> and supports personnel during lifting of the bucket to and support of the bucket within a work area. Bucket <b>5</b> is pivotally attached to the free end of boom <b>4</b> to maintain a horizontal orientation at all times. A lifting unit <b>9</b> is interconnected between bracket <b>7</b> and the lower boom <b>3</b>. A pivot connection <b>10</b> connects the lower boom cylinder <b>11</b> of unit <b>9</b> to the bracket <b>7</b>. A cylinder rod <b>12</b> extends from the cylinder <b>11</b> and is pivotally connected to the boom <b>3</b> through a pivot <b>13</b>. Lower boom cylinder unit <b>9</b> is connected to a pressurized supply of a suitable hydraulic fluid, which allows the assembly to be lifted and lowered.</p>
+<p id="p-0019" num="0018">The outer end of the lower boom <b>3</b> is interconnected to the lower and pivot end of the upper boom <b>4</b>. A pivot <b>16</b> interconnects the outer end of the lower boom <b>3</b> to the pivot end of the upper boom <b>4</b>. An upper boom compensating cylinder unit or assembly <b>17</b> is connected between the lower boom <b>3</b> and the upper boom <b>4</b> for moving the upper boom about pivot <b>16</b> to position the upper boom relative to the lower boom <b>3</b>. The upper boom compensating cylinder <b>17</b> permits independent movement of the upper boom <b>4</b> relative to lower boom <b>3</b> and provides compensating motion between the booms to raise the upper boom with the lower boom. Unit <b>17</b> is supplied with pressurized hydraulic fluid from the same sources as unit <b>9</b>.</p>
+<p id="p-0020" num="0019">A vehicle such as diesel-electric hybrid vehicle <b>1</b> is an example of a vehicle having a power takeoff operation (PTO) application with which the present invention is advantageously employed, that is, where there is a need for both a primary and a backup/auxiliary hydraulic PTO system. As discussed below, the primary source of pressurized hydraulic fluid is preferably an automatic transmission driven by an electric traction motor. In the case of International vehicles using a hybrid drive system supplied by the Eaton Corporation, the transmission is an automated manual transmission. The invention is applicable to manual transmission equipped vehicles. An auxiliary source of pressurized hydraulic fluid could be a power steering type pump driven by a 12 volt starter motor. Such a pump would usually serve as a backup to use of the automatic transmission as a PTO pump, but may, in some applications operate to supplement operation of the automatic transmission.</p>
+<p id="p-0021" num="0020">Referring to <figref idref="DRAWINGS">FIG. 2</figref>, a high level schematic of a control system <b>21</b> which provides for vehicle <b>1</b> control is illustrated. An electrical system controller <b>24</b>, a type of a body computer, is linked by a public datalink <b>18</b> to a variety of local controllers which in turn implement direct control over most vehicle <b>1</b> functions. Electrical system controller (ESC) <b>24</b> may also be directly connected to selected inputs and outputs. As illustrated, an ignition switch input, a brake pedal position input and a park brake position sensor are connected to supply signals to the ESC <b>24</b>. In some embodiments, a fuel level sensor input and a throttle position input may also supply signals to the ESC <b>24</b>. Signals for PTO operational control from within a cab may be implemented using switch pack(s) <b>56</b>. It is customary where with aerial lift unit systems, where intended for work on electrical lines, that the bucket is provided with pneumatic links to electrical switches installed on the vehicle proper. In-cab switch pack <b>56</b> is connected to ESC <b>24</b> over a proprietary data link <b>64</b> conforming to the SAE J1708 standard. Data link <b>64</b> is a low baud rate data connection, typically on the order of 9.7 Kbaud. Four major local controllers in addition to the ESC <b>24</b> are illustrated connected to the public datalink <b>18</b>. These controllers are the engine controller <b>46</b>, the transmission controller <b>42</b>, a gauge controller <b>58</b> and an anti-lock brake system controller (ABS) <b>50</b>. Datalink <b>18</b> is preferably the bus for a public controller area network (CAN) conforming to the SAE J1939 standard and under current practice supports data transmission at up to 250 Kbaud. It will be understood that other controllers may be installed on the vehicle <b>1</b> in communication with datalink <b>18</b>. ABS controller <b>50</b>, as is conventional, controls application of brakes <b>52</b> and receives wheel speed sensor signals from sensors <b>54</b>. Wheel speed is reported over datalink <b>18</b> and is monitored by transmission controller <b>42</b>. The presence of an ABS controller <b>50</b> is not meant to imply that it is the primary braking means. Normal braking is provided by operation of traction motor/generator <b>32</b> in its generation mode for recapture and storage of vehicle kinetic energy in batteries.</p>
+<p id="p-0022" num="0021">Vehicle <b>1</b> is preferably a hybrid diesel-electric vehicle which utilizes a drive train <b>20</b> in which the traction motor/generator <b>32</b> is connected in line with an engine <b>28</b>. As with other hybrid designs, the system is intended to recapture the vehicle's inertial momentum during braking to later supplement engine output. Drive train <b>20</b> is a particular variation of hybrid design which affords advantages in a utility vehicle application. Engine <b>28</b> can, in some applications, support PTO operation directly and/or can drive traction motor/generator <b>32</b> to generate electrical power for storage. It is often preferable to operate engine <b>28</b> is run at its optimal power output level to generate electricity for storage and then to tap the electrical power storage facility for power to support of PTO operation. This is true particularly where the PTO application demands intermittent operation and requires substantially less power than the IC unit generates in its most efficient operating range. Traction motor/generator <b>32</b> is also used to recapture vehicle kinetic energy during deceleration by using the drive wheels <b>26</b> to drive the traction motor/generator <b>32</b>. Engine <b>28</b> may be utilized to supply power to generate electricity, to both generate electricity and operate PTO system <b>22</b>, to provide motive power to drive wheels <b>26</b>, or to provide motive power and to run a generator to generate electricity. Where the PTO system <b>22</b> is an aerial lift unit <b>2</b> it is unlikely that the aerial lift unit would be operated when the vehicle was in motion, and the description here assumes that in fact that the vehicle will be required to be stopped. However, other PTO applications may exist where motion would be permitted. Since aerial lift unit <b>2</b> operation tends to be intermittent and to require fine positioning control it is also less likely that the engine <b>28</b> would be used for direct support of PTO operation. However, with sufficient engine capacity, it is conceivable that electrical power generation, motive power generation and PTO operation could be concurrent. Such an arrangement might advantageously be used on a garbage truck with a trash compactor PTO application.</p>
+<p id="p-0023" num="0022">Drive train <b>20</b> provides for the recapture of kinetic energy in response to the traction motor/generator <b>32</b> being back driven by the vehicle's kinetic force. Transitions between positive and negative traction motor contribution are detected and managed by a hybrid controller <b>48</b>. Traction motor/generator <b>32</b>, during braking, generates electricity which is applied to a storage battery <b>34</b> through inverter <b>36</b>. Hybrid controller <b>48</b> looks at the ABS controller <b>50</b> datalink traffic to determine if regenerative kinetic braking would increase or enhance a wheel slippage condition if regenerative braking were initiated. Transmission controller <b>42</b> detects such traffic on datalink <b>18</b> and translates this as control signals for application to hybrid controller <b>48</b> over datalink <b>68</b>. Traction motor/generator <b>32</b>, during braking, generates electricity which is applied to a Lithium-ion storage battery <b>34</b> through hybrid inverter <b>36</b>. Some electrical power may be diverted from hybrid inverter to maintain the charge of a conventional 12-volt DC Chassis battery <b>60</b> through a DC/DC inverter <b>62</b>. The 12-volt DC battery <b>60</b> is used to support operation of the auxiliary DC electric motor <b>92</b>.</p>
+<p id="p-0024" num="0023">Traction battery <b>34</b> is a lithium-ion battery and is preferably the only electrical power storage system for vehicle <b>1</b>. Lithium ion batteries are used in 42 volt DC power systems. In vehicles contemporary to the writing of this application numerous 12 volt applications remain in common use and vehicle <b>1</b> is equipped with a 12 volt system to support these systems. The parallel system is not shown is full detail for the sake of simplicity of illustration and since such systems have been in common use in automotive applications for decades. The twelve volt vehicle power system supplies power to an auxiliary motor <b>92</b> for the PTO back up system and is based on an engine driven alternator and 12 volt, 6 cell lead acid batteries. The use of this parallel electrical system allows the use of readily available and inexpensive starter motors to serve as the auxiliary electric motor <b>92</b>.</p>
+<p id="p-0025" num="0024">Traction motor/generator <b>32</b> may be used to propel vehicle <b>1</b> by drawing power from battery <b>34</b> through inverter <b>36</b>, which supplies 3 phase 340 volt rms power. Battery <b>34</b> is sometimes referred to as the traction battery to distinguish it from a secondary 12 volt lead acid battery <b>60</b>. High mass vehicles tend to exhibit far poorer gains from hybrid locomotion than do automobiles vehicles but hybrid technology can be highly advantageous when applied to PTO applications. Thus the preferred use of stored electrical power is to power PTO system <b>22</b>. In addition, traction motor/generator <b>32</b> is used for starting engine <b>28</b> when the ignition is in the start position. Under some circumstances engine <b>28</b> is used to drive the traction motor/generator <b>32</b> with the transmission <b>38</b> in a neutral state to generate electricity for recharging battery <b>34</b> and/or engaged to the PTO system <b>22</b> to generate electricity for recharging the battery <b>34</b> and operate the PTO system <b>22</b>. This would occur in response to heavy PTO system <b>22</b> use which draws down the charge on battery <b>34</b>. Typically engine <b>28</b> has a far greater output capacity than is required for operating PTO system <b>22</b>. As a result using it to directly run PTO system <b>22</b> full time would be highly inefficient due to parasitic losses incurred in the engine. Greater efficiency is obtained by running engine <b>28</b> at close to its rated output to recharge battery <b>34</b> and then shutting down the engine and using battery <b>34</b> to supply electricity to traction motor/generator <b>32</b> to operate PTO system <b>22</b>. An aerial lift unit <b>2</b> is often used only sporadically by a worker for reposition of basket <b>5</b> and wasteful idling of engine <b>28</b> is thus avoided. Engine <b>28</b> runs periodically at an efficient speed to recharge the battery only if required by the battery <b>34</b> state of charge. Battery <b>34</b> state of charge is determined by the hybrid controller <b>48</b>, which passes this information to transmission controller <b>42</b> over datalink <b>68</b>. Transmission controller <b>42</b> can in turn request ESC <b>24</b> to engage engine <b>28</b> by a message to the ESC <b>24</b>, which in turn sends power request signals, (and start and stop signals) to engine controller <b>46</b>. The availability of engine <b>28</b> may depend on certain programmed (or hardwired) interlocks, such as hood position. It is presumed that data relating to such conditions are available to ESC <b>24</b>.</p>
+<p id="p-0026" num="0025">Drive train <b>20</b> comprises an engine <b>28</b> connected in line with an auto clutch <b>30</b> which allows disconnection of the engine <b>28</b> from the rest of the drive train when the engine is not required for motive power or for recharging battery <b>34</b>. Auto clutch is directly coupled to the traction motor/generator <b>32</b> which is in turn connected to a transmission <b>38</b>. Transmission <b>38</b> is in turn used to apply power from the traction motor/generator <b>32</b> to the PTO system <b>22</b> or to drive wheels <b>26</b>. Transmission <b>38</b> is bi-directional and can be used to transmit energy from the drive wheels <b>26</b> back to the traction motor/generator <b>32</b>. Traction motor/generator <b>32</b> may be used to provide motive energy (either alone or in cooperation with the engine <b>28</b>) to transmission <b>38</b>. When used as a generator the traction motor/generator supplies electricity to inverter <b>36</b> which supplies direct current for recharging battery <b>34</b>.</p>
+<p id="p-0027" num="0026">A control system <b>21</b> implements cooperation of the control elements to implement the operations just described. ESC <b>24</b> receives inputs relating to throttle position, brake pedal position, ignition state and PTO inputs from a user and passes these to the transmission controller <b>42</b> which in turn passes them to the hybrid controller <b>48</b>. Hybrid controller <b>48</b> determines, based on available battery charge state, requests for power. Hybrid controller <b>48</b> with ESC <b>24</b> generates the appropriate signals for application to datalink <b>18</b> for instructing the engine controller <b>46</b> to turn engine <b>28</b> on and off and, if on, at what power output to operate the engine. Transmission controller <b>42</b> controls engagement of auto clutch <b>30</b>. Transmission controller <b>42</b> further controls the state of transmission <b>38</b> in response to transmission push button controller <b>72</b>, determining the gear the transmission is in or if the transmission is to deliver drive torque to the drive wheels <b>26</b> or to deliver pressurized hydraulic fluid to the hydraulic manifolds and valves which are part of PTO system <b>22</b> and which position the aerial lift unit <b>2</b>. The arrangement shown is characteristic of an automatic transmission equipped vehicle and an alternative arrangement, providing a hydraulic pump intermediate the transmission and PTO device <b>22</b>, would be required for a vehicle equipped with a manual transmission. PTO device <b>22</b> provides full rotational motion as well as lifting and lowering of aerial lift unit <b>2</b>.</p>
+<p id="p-0028" num="0027">PTO control is implemented through one or more remote power modules (RPMs). Remote power modules are datalinked expansion input/output modules dedicated to the ESC, which is programmed to utilize them. RPMs <b>40</b> function as the local PTO controller, and provide hardwire outputs <b>70</b> and hardwire inputs <b>66</b> required by the PTO device <b>22</b> to and from the aerial lift unit <b>2</b>. Requests for movement from the aerial lift unit <b>2</b> and position reports are applied to the proprietary datalink <b>74</b> for transmission to the ESC <b>24</b>, which translates them into specific requests for the other controllers, e.g. a request for PTO power. ESC <b>24</b> is also programmed to control valve states through RPMs <b>40</b> in PTO device <b>22</b>. Remote power modules are more fully described in U.S. Pat. No. 6,272,402 which is assigned to the assignee of the present invention and is fully incorporated herein by reference. At the time the '402 patent was written what are now termed &#x201c;Remote Power Modules&#x201d; were called &#x201c;Remote Interface Modules&#x201d;. RPMs may be treated as slaves of ESC <b>24</b>.</p>
+<p id="p-0029" num="0028">Auxiliary operation of aerial lift unit <b>2</b> through PTO device <b>22</b> is done by provision of an auxiliary DC electric motor <b>92</b> and an auxiliary hydraulic pump <b>94</b>, which is connected into a manifold in PTO device <b>22</b>. Auxiliary electric motor <b>92</b> is powered from the twelve volt battery <b>60</b> under the control of RPM <b>40</b>, which operates to turn close and open a relay <b>96</b> between battery <b>60</b> and motor <b>92</b> in response to control commands.</p>
+<p id="p-0030" num="0029">Transmission controller and ESC <b>24</b> both operate as portals and/or translation devices between the various datalinks. Proprietary datalinks <b>68</b> and <b>74</b> operate at substantially higher baud rates than does the public datalink <b>18</b>, and accordingly, buffering is provided for a message passed from one link to another. Additionally, a message may have to be reformatted, or a message on one link may require another type of message on the second link, e.g. a movement request over datalink <b>74</b> may translate to a request for transmission engagement from ESC <b>24</b> to transmission controller <b>42</b>. Datalinks <b>18</b>, <b>68</b> and <b>74</b> are all controller area networks and conform to the SAE J1939 protocol. Datalink <b>64</b> conforms to the SAE J1708 protocol.</p>
+<p id="p-0031" num="0030">The invention uses the vehicle ESC <b>24</b> to coordinate operation of the traction motor <b>32</b> powered hydraulic pump/transmission <b>38</b> and the auxiliary motor <b>92</b> powered auxiliary hydraulic pump <b>94</b> to avoid overpowering and damaging the auxiliary pump <b>94</b>. Valve arrangements within PTO device <b>22</b>, under the control of RPM <b>40</b>, allow selective interruption of the hydraulic circuit within the PTO device from the transmission <b>38</b>. Such coordinated operation can be implemented to mitigate the effects of a primary pump/transmission <b>38</b> that has experienced at least a partial failure. Specifically, in such a circumstance the emergency DC hydraulic pump <b>94</b> could be made to supplement the hydraulic output of a failing traction-motor powered primary hydraulic pump <b>38</b>. The particular control strategy selected is programmed directly into the vehicle ESC <b>24</b>. Depending upon a customer's specifications, programming could implement smooth transition from one pump system to another to allow the system to compensate for such things as hydraulic transients during the transition. However, the possibility rather than the detail of a particular control strategy are the focus of the present invention. Other variables that may be considered during the management of the system may include the amount of time the emergency DC hydraulic pump is allowed to run at a certain pressure and displacement, the state of charge of both the primary traction batteries and the 12 volt vehicle batteries, ambient temperature, aerial tower position, and others. Because the backup motor <b>92</b> runs at only a single speed, unlike the traction motor <b>32</b> which runs at variable speeds, control over aerial lift unit <b>2</b> positioning is more limited than with the traction motor. Moreover, the volume of fluid moved is substantially less, so the auxiliary system can move the aerial lift unit <b>2</b> at only a fraction of the speed that is obtainable using traction motor <b>32</b> powered pump.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 3</figref> is a state diagram for a representative, although highly simplified, control system for an aerial lift unit <b>2</b> mounted on a hybrid, diesel-electric utility vehicle <b>1</b> where operation of the lift unit is supported by PTO. It is anticipated that each customer will customize the particular control arrangements for its vehicles and thus the state machine <b>301</b> depicted is to be taken as an example only and in no way limiting of possible control arrangements which may be adopted. The example is directed to an aerial lift unit, but the system could be applied to trash compacting arrangements on a hybrid garbage truck, among other possibilities.</p>
+<p id="p-0033" num="0032">The default state of state machine <b>301</b> on turning the vehicle on is a PTO system interlock engaged state <b>300</b>. In the system interlock engaged state the aerial lift unit <b>2</b> or boom is stowed and locked for vehicle travel. Upon a request for PTO and under conditions where the conditions <b>302</b> for release of the interlock on the aerial lift unit have been satisfied state machine <b>301</b> assumes an interlock dis-engaged state <b>304</b>. From interlock disengaged state <b>304</b> operation of the aerial lift unit <b>2</b> is allowed upon receipt of a request for movement. Conditions <b>302</b> for release of the interlock are not exhaustively listed here, but may include deployment of outriggers, level status of the vehicle, transmission position, traction battery state of charge, etc. Tests for primary and auxiliary system readiness may be included as part of the programming.</p>
+<p id="p-0034" num="0033">State machine <b>301</b> may assume a number of different states from the interlock disengaged state <b>304</b>. As illustrated here, a design philosophy has been adopted that avoids concurrent operation of the traction motor and the auxiliary motor. Accordingly, it is first determined if there are faults with the primary or auxiliary systems. Obviously if neither is available, and the aerial lift has not been moved, a fault <b>342</b> has occurred and the state machine <b>301</b> returns to the default interlock engaged state <b>300</b>. If the aerial lift unit has not been moved, the failure of either the primary or auxiliary system independently may be taken as a fault. In other words, a design philosophy may be used that requires a backup be available before the system is initially used. As laid out here, state machine <b>301</b> does not treat with the possibility of a double failure occurring if both primary and auxiliary systems are available initially. In some applications a higher level of fail safe operation may be considered desirable, though those skilled in the art will realize that such would be obtainable only at greater expense. Under normal operation the condition <b>324</b> that the primary system is available obtains and machine <b>301</b> moves to the primary system on and ready to accept movement requests condition <b>326</b>. From the primary ready state <b>326</b> a movement request condition <b>330</b> results in activation of the primary system prime mover <b>332</b>, i.e. the vehicle electric traction motor. With completion of the movement and end of movement request condition <b>334</b> exists and the state transitions back to the primary-system ready state <b>326</b>.</p>
+<p id="p-0035" num="0034">It is possible that a primary system failure condition <b>328</b>/<b>329</b> can occur after either the primary system ready state <b>326</b> or primary system activated condition <b>332</b> has been assumed by the machine. In either case machine <b>301</b> assumes the auxiliary system ready state <b>308</b>. The auxiliary system ready state <b>308</b> can also be reached directly from the interlock disengaged state if the primary system condition <b>306</b> is that it is unavailable. This may be termed a primary system failure <b>306</b>, however, the system may be temporarily unavailable due to other conditions, such as a run down state of the traction battery. If the traction battery is in a discharged state the vehicle's IC engine is likely on the traction motor is running in its power generating mode. Depending upon customer specifications the hydraulic pump may or may not be engaged to the IC engine at this time. The IC engine will presumably be run at an efficient power output level for recharging the battery and it may or may not be desirable to run the vehicle hydraulics at these output levels. Thus a return condition <b>310</b> is provided from the auxiliary system ready state <b>308</b> to the interlock disengaged state <b>304</b>. The auxiliary system ready state <b>308</b> provides that the primary system is OFF, that is unavailable to accept commands.</p>
+<p id="p-0036" num="0035">From the auxiliary system ready state <b>308</b> a movement request condition <b>314</b> is responded to activating the auxiliary system prime mover, reflected by movement of machine <b>301</b> to the auxiliary prime mover ON state <b>316</b>. When an end of movement request condition <b>312</b> obtains, the state returns to the auxiliary system ready state <b>308</b>. Thus, in this embodiment, the primary system can never become active when the auxiliary primary system is on, to protect the auxiliary system. Once the auxiliary system has been engaged the primary system can only be reached again through the interlock disengaged state <b>304</b> or the system interlock engaged state <b>300</b> thereby assuring that the auxiliary system is off.</p>
+<p id="p-0037" num="0036">In this exemplary embodiment the aerial lift unit/boom is returned to a stowed position and the interlocks engaged upon loss of all (or selected) interlock release conditions, such as an attempt to move the vehicle, or upon operator cancellation of PTO operation. All of these events are treated as release lost condition <b>318</b>, <b>319</b>, <b>336</b>, <b>345</b> and <b>347</b> from the auxiliary prime mover ON state <b>316</b>, the auxiliary system ready state <b>308</b>, the primary system ready state <b>326</b>, the main prime mover ON state <b>332</b> and the interlock disengaged state <b>304</b>. Conditions <b>318</b>, <b>319</b> result in the machine <b>301</b> moving to the stow boom state <b>320</b> with the auxiliary prime mover being utilized to provide hydraulic pressure and appropriate commands being issued to steer and move the aerial lift unit into its travel position for lock down. It will be understood that sensors are installed on the vehicle to provide aerial lift position to the ESC <b>24</b> which directs RPM <b>40</b> to open the appropriate valves in PTO device <b>22</b> to effect repositioning of the boom/aerial lift. Transition conditions <b>336</b>, <b>345</b> and <b>347</b> result in stow boom state <b>338</b> occurring in which the main system operates to reposition the aerial lift. Once the aerial lift unit is stowed (conditions <b>322</b>, <b>340</b>) the system interlocks are engaged and the aerial lift is locked down.</p>
+<p id="p-0038" num="0037">The invention provides an effective regime for management of pump systems of differing output capacities where one pump system serves as a backup to the other.</p>
+<p id="p-0039" num="0038">While the invention is shown in only one of its forms, it is not thus limited but is susceptible to various changes and modifications without departing from the spirit and scope of the invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A hybrid vehicle comprising:
+<claim-text>a power takeoff operation application;</claim-text>
+<claim-text>a traction motor/generator;</claim-text>
+<claim-text>a primary pump for supplying pressurized fluid to the power takeoff operation application, the traction motor/generator being connectable to the primary pump for operating the primary pump;</claim-text>
+<claim-text>an auxiliary pump for supplying pressurized fluid to the power takeoff operation application;</claim-text>
+<claim-text>an auxiliary motor connected to the auxiliary pump for operating the auxiliary pump;</claim-text>
+<claim-text>a first electrical power source for supplying electrical power to the traction motor/generator;</claim-text>
+<claim-text>a second electrical power source for supplying electrical power to the auxiliary motor; and</claim-text>
+<claim-text>a programmable control system for coordinating energization of the traction motor/generator and auxiliary motor in response to an operator request for operation of the power takeoff operation application.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A hybrid vehicle in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>the programmable control system being responsive to at least a first programmed condition for automatically transferring energization from the traction motor/generator and to the auxiliary motor under an operator request for operation of the power takeoff operation application.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A hybrid vehicle in accordance with <claim-ref idref="CLM-00002">claim 2</claim-ref>, further comprising:
+<claim-text>the programmable control system being programmed to prevent concurrent operation of the traction/motor generator for power takeoff operation and the auxiliary motor.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A hybrid vehicle in accordance with <claim-ref idref="CLM-00002">claim 2</claim-ref>, further comprising:
+<claim-text>the second electrical power source including a twelve volt automotive battery.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. Apparatus comprising:
+<claim-text>a primary motor;</claim-text>
+<claim-text>a primary pump for coupling to the primary motor for pressurizing a working fluid at pressure;</claim-text>
+<claim-text>an auxiliary motor;</claim-text>
+<claim-text>an auxiliary pump coupled to the auxiliary motor for delivering the working fluid at pressure;</claim-text>
+<claim-text>a machine connected to the primary pump and the auxiliary pump for utilizing pressurized working fluid from the primary pump or the auxiliary pump; and</claim-text>
+<claim-text>a control system for selecting a source of pressurized fluid for the machine from among the primary pump and the auxiliary pump, the controller providing control over operation of the auxiliary motor in response to the selection.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. Apparatus in accordance with <claim-ref idref="CLM-00005">claim 5</claim-ref>, further comprising:
+<claim-text>the control system being programmable to allow operator selection of conditions determining selection of the primary pump and the auxiliary pump for providing the pressurized working fluid.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. Apparatus in accordance with <claim-ref idref="CLM-00006">claim 6</claim-ref>, further comprising:
+<claim-text>the control system providing for disengagement of the primary pump from the primary motor in response to selection of the auxiliary pump to provide pressurized fluid.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. Apparatus in accordance with <claim-ref idref="CLM-00006">claim 6</claim-ref>, where installed on a motor vehicle. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

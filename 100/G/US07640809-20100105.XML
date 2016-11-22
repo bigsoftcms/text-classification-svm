@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640809-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640809</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12133708</doc-number>
+<date>20080605</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2007-199611</doc-number>
+<date>20070731</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>9</main-group>
+<subgroup>24</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 73622</main-classification>
+<further-classification> 73577</further-classification>
+<further-classification> 73587</further-classification>
+</classification-national>
+<invention-title id="d0e61">Spot welding inspecting apparatus</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3554029</doc-number>
+<kind>A</kind>
+<name>Deininger, Jr.</name>
+<date>19710100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73620</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3739628</doc-number>
+<kind>A</kind>
+<name>Saglio</name>
+<date>19730600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73627</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3986391</doc-number>
+<kind>A</kind>
+<name>Vahaviolos</name>
+<date>19761000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73781</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4083223</doc-number>
+<kind>A</kind>
+<name>Hashimoto et al.</name>
+<date>19780400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>374  5</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4265119</doc-number>
+<kind>A</kind>
+<name>Dubetz et al.</name>
+<date>19810500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73588</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5537875</doc-number>
+<kind>A</kind>
+<name>Viehmann et al.</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73588</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5920014</doc-number>
+<kind>A</kind>
+<name>Waschkies</name>
+<date>19990700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73597</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>6184487</doc-number>
+<kind>B1</kind>
+<name>Visscher</name>
+<date>20010200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>219 911</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6250163</doc-number>
+<kind>B1</kind>
+<name>MacLauchlan et al.</name>
+<date>20010600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73643</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6515251</doc-number>
+<kind>B1</kind>
+<name>Wind</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>219 861</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6640632</doc-number>
+<kind>B1</kind>
+<name>Hatanaka et al.</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73598</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6948369</doc-number>
+<kind>B2</kind>
+<name>Fleming et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73588</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>7373822</doc-number>
+<kind>B2</kind>
+<name>Waschkies et al.</name>
+<date>20080500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73597</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>JP</country>
+<doc-number>11104848</doc-number>
+<kind>A</kind>
+<date>19990400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>JP</country>
+<doc-number>2005-527374</doc-number>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>4</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 73622</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73573</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73577</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73587</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73598</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73600</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73618</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73623</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73 37</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73 375</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73 378</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>219 911</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>11</number-of-drawing-sheets>
+<number-of-figures>15</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090031812</doc-number>
+<kind>A1</kind>
+<date>20090205</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Shibata</last-name>
+<first-name>Kaoru</first-name>
+<address>
+<city>Tochigi</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Shigematsu</last-name>
+<first-name>Noriaki</first-name>
+<address>
+<city>Tochigi</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Igaue</last-name>
+<first-name>Mitsutaka</first-name>
+<address>
+<city>Tochigi</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kurimoto</last-name>
+<first-name>Noriko</first-name>
+<address>
+<city>Tochigi</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Rankin, Hill &#x26; Clark LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Honda Motor Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Williams</last-name>
+<first-name>Hezron</first-name>
+<department>2856</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Shah</last-name>
+<first-name>Samir M</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A spot welding inspecting apparatus is provided with: a gun chip; a signal transmitting part; an ultrasonic sensor; an inner cylinder; a through hole; a partitioning cylinder; a first flow path; a second flow path; and a third flow path.</p>
+<p id="p-0002" num="0000">The inner cylinder is inserted to an outer cylinder of spot welding gun and holds the ultrasonic sensor. The through hole is provided on the inner cylinder. The partitioning cylinder surrounds the through hole and is inserted into a gap between the ultrasonic sensor and the outer cylinder. The first flow path is formed between the inner cylinder and the partitioning cylinder by passing the through hole from an inner portion of the inner cylinder. The second flow path is formed at the gun chip to be circulated around a front end of the partitioning cylinder. The third flow path is formed between the outer cylinder and the partitioning cylinder. A cooling agent flows in an order of the first flow path, the second flow path and the third flow path.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="209.30mm" wi="152.06mm" file="US07640809-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="218.27mm" wi="154.43mm" file="US07640809-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="214.88mm" wi="120.40mm" file="US07640809-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="222.84mm" wi="110.24mm" file="US07640809-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="129.62mm" wi="134.70mm" file="US07640809-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="204.47mm" wi="128.19mm" file="US07640809-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="220.81mm" wi="130.47mm" file="US07640809-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="102.11mm" wi="101.52mm" file="US07640809-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="205.91mm" wi="142.58mm" file="US07640809-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="217.09mm" wi="105.83mm" file="US07640809-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="211.24mm" wi="108.03mm" file="US07640809-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="155.96mm" wi="117.77mm" file="US07640809-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0001">1. Field of the Invention</p>
+<p id="p-0004" num="0002">The present invention relates to a spot welding inspecting apparatus which is mounted in a spot welding gun and capable of inspecting a welded portion by an ultrasonic sensor.</p>
+<p id="p-0005" num="0003">2. Background Art</p>
+<p id="p-0006" num="0004">In spot welding, a weld metal molten and solidified at a contact portion of, for example, two sheets of steel plates after welding is referred to as a nugget. A bonding strength of a welded portion is evaluated by a nugget diameter indicating a size of the nugget.</p>
+<p id="p-0007" num="0005">In inspecting after welding, as an apparatus of measuring the nugget diameter utilizing a nondestructive inspection method, there is proposed an electrode including an ultrasonic probe at inside thereof (refer to, for example, Patent Reference 1).</p>
+<p id="h-0002" num="0000">[Patent Reference 1] JP-T-2005-527374 (FIG. 1, FIG. 2)</p>
+<p id="p-0008" num="0006">Patent Reference 1 will be explained in reference to the following drawings.</p>
+<p id="p-0009" num="0007">FIG. 15 is a view for explaining a basic constitution of a related art. A welding electrode 100 is constituted by a shaft 102, an ultrasonic probe 106, a probe holder 107, a cooling water pipe 108, and a signal line 109. The shaft 102 has a hollow shape and is attached with a welding cap 101 at a front end thereof. The ultrasonic probe 106 is mounted in the welding cap 101 and a front end portion 105 of the shaft 102 by way of a connection pad 104 placed at an inner bottom portion 103 of the welding cap 101. The probe holder 107 holds the ultrasonic probe 106 from a rear side and is inserted into the shaft 102.</p>
+<p id="p-0010" num="0008">The cooling water pipe 108 extends from the probe holder 107 and is inserted into the shaft 102. The signal line 109 extends from a rear end of the ultrasonic probe 106 to an upper side of the drawing and is inserted into the probe holder 107 and the cooling water pipe 108.</p>
+<p id="p-0011" num="0009">According to the welding electrode 100 of Patent Reference 1, as shown by arrow marks, cooling water flows from a rear end portion 111 of the cooling water pipe 108. The cooling water passes a periphery of the ultrasonic probe 106 by way of an inner portion of the probe holder 107. The cooling water changes a flowing direction at the inner bottom portion of the welding cap 101. Then, the cooling water flows along the periphery of the ultrasonic probe 106 and a partition plate 112 attached to a lower portion of the probe holder 107. Finally, the cooling water flows out from a rear end portion 113 of the shaft 102 in the hollow shape as indicated by arrow marks.</p>
+<p id="p-0012" num="0010">The welding electrode 100 can be cooled by the flow of the cooling water.</p>
+<p id="p-0013" num="0011">The inventors have carried out spot welding by using a welding electrode having a structure of the welding electrode 100 of Patent Reference 1, and tried to inspect a bonding portion immediately thereafter. As a result thereof, the cooling water flowing at an inner portion of the welding electrode 100 flows deviatedly in a constant direction to be along the partition plate 112. Therefore, it has been found that cooling of the welding cap 101 is deviated.</p>
+<p id="p-0014" num="0012">The cooling water at the inner portion of the welding electrode 100 is divided in two to a side (cool water side) in which cooling is positively carried out by passing the cooling water and a side (warm water side) in which the cooling water is not supplied sufficiently and cooling becomes insufficient by receiving heat from the welded portion. Therefore, the ultrasonic probe 106 is dipped to both sides of the cool water side and the warm water side. So, there is a concern of bringing about a deterioration in a measurement accuracy and a reduction in a durability by thermal shock in the ultrasonic probe 106 by heat transmitted from the warm water side.</p>
+<p id="p-0015" num="0013">In addition thereto, in FIG. 2 of Patent Reference 1, according to the welding electrode, a pad 16 and a welding cap 12 are brought into close contact with each other by pressing a probe 14 by a spring element. However, there is a case in which the pad 16 and the welding cap 12 are insufficiently brought into close contact with each other to hamper transmission of an ultrasonic signal.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0016" num="0014">one or more embodiments of the invention provide a spot welding inspecting apparatus capable of nondeviatedly cooling a gun chip and capable of realizing to stabilize measurement of an ultrasonic sensor and a reduction in thermal shock to the ultrasonic sensor.</p>
+<p id="p-0017" num="0015">Moreover, one or more embodiments of the invention provide a spot welding inspecting apparatus capable of promoting a stability of transmission of an ultrasonic signal.</p>
+<p id="p-0018" num="0016">In accordance with one or more embodiments of the invention, a spot welding inspecting apparatus is provided with: a gun chip fitted to one end of an outer cylinder of a spot welding gun; a signal transmitting part mounted in the gun chip and configured to transmit a signal; an ultrasonic sensor having a cylindrical shape, one end of the ultrasonic sensor being brought into contact with the signal transmitting part; an inner cylinder inserted to the outer cylinder and holding the ultrasonic sensor; a through hole provided on the inner cylinder; a partitioning cylinder surrounding the through hole and inserted into a gap between the ultrasonic sensor and the outer cylinder, a front end of the partitioning cylinder reaching the signal transmitting part; a first flow path formed between the inner cylinder and the partitioning cylinder by passing the through hole from an inner portion of the inner cylinder; a second flow path formed at the gun chip to be circulated around a front end of the partitioning cylinder; and a third flow path formed between the outer cylinder and the partitioning cylinder.</p>
+<p id="p-0019" num="0017">In the spot welding inspecting apparatus, the first, second and third flow paths are configured so that a cooling agent flows in an order of the first flow path, the second flow path and the third flow path.</p>
+<p id="p-0020" num="0018">In the embodiments, the spot welding inspecting apparatus is constituted such that the cooling agent can be made to flow in an order of the first flow path, the second flow path and the third flow path. The first flow path is formed between the inner cylinder and the partitioning cylinder. The second flow path is formed at the gun chip in the cap-like shape to be circulated around a front end of the partitioning cylinder.</p>
+<p id="p-0021" num="0019">The third flow path is formed between the outer cylinder and the partitioning cylinder. As a result, there is not present a large obstacle for disturbing a flow in circumferential directions and longitudinal directions of the first flow path, the second flow path and the third flow path. Therefore, the flow of the cooling agent is not deviated in a constant direction as in Patent Reference 1, and therefore, the gun chip can undeviatedly be cooled.</p>
+<p id="p-0022" num="0020">Further, the ultrasonic sensor is held by the inner cylinder, and the cooling agent is made to flow to the first flow path formed between the inner cylinder and the partitioning cylinder by passing the through hole from the inner portion of the inner cylinder. That is, the ultrasonic sensor provided below the inner cylinder is always brought into contact with the cooling agent flowing through the first flow path, and therefore, the ultrasonic sensor does not undergo a temperature change by warm water as in Patent Reference 1. Therefore, the ultrasonic sensor is stabilized in measurement and is less deteriorated by the thermal shock.</p>
+<p id="p-0023" num="0021">As described above, according to the embodiments, there can be provided the spot welding inspecting apparatus capable of cooling the gun chip undeviatedly and capable of realizing stabilization of measurement by the ultrasonic sensor and a reduction in the thermal shock to the ultrasonic sensor.</p>
+<p id="p-0024" num="0022">According to the embodiments, the second flow path may constituted by a plurality of groove portions formed on an outer peripheral face of the signal transmitting part. Accordingly, the cooling agent is always made to flow to the groove portions, and therefore, the signal transmitting part can sufficiently be cooled. Therefore, thermal deformation of the signal transmitting part in a spot welding operation can be prevented.</p>
+<p id="p-0025" num="0023">In accordance with one or more embodiments of the invention, a spot welding inspecting apparatus is provided with: a gun chip configured to be brought into contact with a work; an ultrasonic sensor mounted in a spot welding gun and configured to transmit an ultrasonic signal to the work; and a signal transmitting part mounted in the gun chip, a front end of the signal transmitting part being brought into contact with the gun chip, and a rear end of the signal transmitting part is being brought into contact with the ultrasonic sensor. The signal transmitting member includes a male screw portion on an outer peripheral face of the signal transmitting member, the gun chip includes a female screw in an inner peripheral face of the gun chip, and the male screw portion is engaged with the female screw portion.</p>
+<p id="p-0026" num="0024">In the embodiments, the signal transmitting part includes the male screw portion to be engaged with the female screw portion provided at the inner peripheral face of the gun chip at the outer peripheral face. A degree of bringing the signal transmitting part and the gun chip into close contact with each other is promoted, and therefore, stability of transmitting the ultrasonic signal can be promoted. Accordingly, there can be provided the spot welding inspecting apparatus capable of promoting stability of transmitting the ultrasonic signal.</p>
+<p id="p-0027" num="0025">In accordance with one or more embodiments of the invention, a spot welding inspecting apparatus is provided with: a shank; a gun chip engaged with a front end of the shank and configured to be brought into contact with a work; an ultrasonic sensor mounted in a spot welding gun and configured to transmit an ultrasonic signal to the work; and a signal transmitting part mounted in the gun chip, a front end of the signal transmitting part being brought into contact with the gun chip, and a rear end of the signal transmitting part being brought into contact with the ultrasonic sensor. A front end of the shank presses the rear end of the signal transmitting part.</p>
+<p id="p-0028" num="0026">In the embodiments, the front end of the shank presses the rear end of the signal transmitting member, and therefore, the signal transmitting part can firmly be held. Accordingly, there can be provided the spot welding inspecting apparatus capable of firmly holding the signal transmitting part.</p>
+<p id="p-0029" num="0027">Other aspects and advantages of the invention will be apparent from the following description, the drawings and the claims.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0030" num="0028"><figref idref="DRAWINGS">FIG. 1</figref> is a disassembled perspective view of a spot welding inspecting apparatus according to a first exemplary embodiment.</p>
+<p id="p-0031" num="0029"><figref idref="DRAWINGS">FIG. 2</figref> is a sectional view of the spot welding inspecting apparatus.</p>
+<p id="p-0032" num="0030"><figref idref="DRAWINGS">FIG. 3</figref> is a sectional view taken along a line <b>3</b>-<b>3</b> of <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0033" num="0031"><figref idref="DRAWINGS">FIG. 4</figref> is a sectional view taken along a line <b>4</b>-<b>4</b> of <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0034" num="0032"><figref idref="DRAWINGS">FIG. 5</figref> is an explanatory view of attaching the spot welding inspecting apparatus.</p>
+<p id="p-0035" num="0033"><figref idref="DRAWINGS">FIG. 6</figref> is a view enlarging portion <b>6</b> of <figref idref="DRAWINGS">FIG. 5</figref>.</p>
+<p id="p-0036" num="0034"><figref idref="DRAWINGS">FIG. 7</figref> is a view of a modified example of <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0037" num="0035"><figref idref="DRAWINGS">FIG. 8</figref> is a view enlarging a gun chip in a cap-like shape shown in <figref idref="DRAWINGS">FIG. 7</figref>.</p>
+<p id="p-0038" num="0036"><figref idref="DRAWINGS">FIG. 9</figref> is a sectional view taken along a line <b>9</b>-<b>9</b> of <figref idref="DRAWINGS">FIG. 8</figref>.</p>
+<p id="p-0039" num="0037"><figref idref="DRAWINGS">FIG. 10</figref> is a sectional view of a spot welding inspecting apparatus according to a second exemplary embodiment.</p>
+<p id="p-0040" num="0038"><figref idref="DRAWINGS">FIG. 11</figref> is a sectional view taken along a line <b>11</b>-<b>11</b> of <figref idref="DRAWINGS">FIG. 10</figref>.</p>
+<p id="p-0041" num="0039"><figref idref="DRAWINGS">FIG. 12</figref> is a view of a modified example of <figref idref="DRAWINGS">FIG. 10</figref>.</p>
+<p id="p-0042" num="0040"><figref idref="DRAWINGS">FIG. 13</figref> is a view of a modified example of <figref idref="DRAWINGS">FIG. 12</figref>.</p>
+<p id="p-0043" num="0041"><figref idref="DRAWINGS">FIG. 14</figref> is a view of a further modified example of <figref idref="DRAWINGS">FIG. 10</figref>.</p>
+<p id="p-0044" num="0042"><figref idref="DRAWINGS">FIG. 15</figref> is a view for explaining a basic constitution of a background art.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE EXEMPLARY EMBODIMENTS</heading>
+<p id="p-0045" num="0043">Exemplary embodiments of the invention will be explained as follows in reference to the attached drawings.</p>
+<p id="p-0046" num="0044"><figref idref="DRAWINGS">FIG. 1</figref> is a disassembled perspective view of a spot welding inspecting apparatus according to a first exemplary embodiment.</p>
+<p id="p-0047" num="0045">The spot welding inspecting apparatus <b>10</b> is an electrode chip of an ultrasonic sensor including type constituted by integrating an outer cylinder <b>12</b>, a gun chip <b>16</b> in a cap-like shape, a signal transmitting part <b>19</b>, a reflecting type ultrasonic sensor <b>23</b> of, for example, a cylindrical shape, an inner cylinder <b>26</b>, a partitioning cylinder <b>32</b>, a compression coil spring <b>33</b> and a holding cylinder <b>34</b>.</p>
+<p id="p-0048" num="0046"><figref idref="DRAWINGS">FIG. 2</figref> is a sectional view of the spot welding inspecting apparatus of the first exemplary embodiment. The spot welding inspecting apparatus <b>10</b> is constituted by the outer cylinder <b>12</b> constituting an outlook constituting member of a spot welding gun and including a first male screw portion <b>11</b> formed by, for example, a taper screw at an outer face of a front end portion, the gun chip <b>16</b> in a cap-like shape including a first female screw portion <b>13</b> formed by, for example, a taper screw capable of being screwed to the first male screw portion <b>11</b> at an inner face of a rear end portion, including a second female screw portion <b>14</b> at a middle portion of the inner face and including a heat conducting groove <b>15</b> formed in a lower direction of the drawing from the second female screw portion <b>14</b>, the signal transmitting part <b>19</b> (details of which will be described later) made of a resin mounted to a projected portion <b>17</b> provided at a middle portion of the inner face of the gun chip <b>16</b> in the cap-like shape and including a second male screw portion <b>18</b> capable of being screwed to the second female screw portion <b>14</b>, the reflection type ultrasonic sensor <b>23</b> in the cylindrical shape a front end <b>22</b> of which is brought into close contact with a rear end face <b>21</b> of the signal transmitting part <b>19</b> by way of, for example, an adhering agent, the inner cylinder <b>26</b> inserted to the outer cylinder <b>12</b> for holding the reflection type ultrasonic sensor <b>23</b> having a cylindrical shape and including a plurality of pieces of fixing projections <b>25</b> . . . ( . . . designate a plurality of pieces. The same as follows) at a middle portion and a rear end portion to be brought into contact with an inner face <b>24</b> of the outer cylinder <b>12</b>, a plurality of through holes <b>27</b> . . . (details of which will be described later) provided at a front end portion of the inner cylinder <b>26</b>, and the partitioning cylinder <b>32</b> made of glass which surrounds the through holes <b>27</b> . . . and in which a front end <b>28</b> inserted to a gap between the reflection type ultrasonic sensor <b>23</b> of the cylindrical shape and the outer cylinder <b>12</b> reaches the signal transmitting part <b>19</b> and a rear end portion <b>29</b> is fitted to a projected portion <b>31</b> provided at a front end portion of the inner cylinder <b>26</b>.</p>
+<p id="p-0049" num="0047">Further, the spot welding inspecting apparatus <b>10</b> is constituted to include a first flow path <b>35</b> passing the through holes <b>27</b> . . . from an inner portion of the inner cylinder <b>26</b> and formed between the inner cylinder <b>26</b> and the partitioning cylinder <b>32</b>, a second flow path <b>36</b> formed at the gun chip <b>16</b> in the cap-like shape to circular around the front end <b>28</b> of the partitioning cylinder <b>32</b>, and a third flow path <b>37</b> formed between the outer cylinder <b>12</b> and the partitioning cylinder <b>32</b> to be able to make the cooling water as, for example, a cooling agent flow in an order of the first flow path <b>35</b>, the second flow path <b>36</b>, and the third flow path <b>37</b>.</p>
+<p id="p-0050" num="0048">Numeral <b>38</b> designates a cable extended from the reflection type ultrasonic sensor <b>23</b> of the cylindrical shape.</p>
+<p id="p-0051" num="0049">Further, although the first male screw portion <b>11</b> and the first female screw portion <b>13</b> are formed by the taper screws, the first male screw portion <b>11</b> and the first female screw portion <b>13</b> may be constituted by parallel screws, and therefore, the first male screw portion <b>11</b> and the first female screw portion <b>13</b> may be changed to other kinds of screws.</p>
+<p id="p-0052" num="0050">Further, although the adhering agent is used for integrating the signal transmitting part <b>19</b> and the reflection type ultrasonic sensor <b>23</b> of the cylindrical shape, a contact portion thereof may be constituted to be coupled by a screw, and therefore, the integration may be changed to other coupling method.</p>
+<p id="p-0053" num="0051">Referring back to <figref idref="DRAWINGS">FIG. 1</figref>, the signal transmitting portion <b>19</b> includes three pieces of support portions <b>39</b> . . . lower portions of which are formed by a cylindrical shape and upper portions of which are trifurcated. Upper faces of three pieces of the support portions <b>39</b> . . . are respectively formed with fixing grooves <b>41</b>, and the fixing screws <b>41</b> are fitted with the front end <b>28</b> of the partitioning cylinder <b>32</b>.</p>
+<p id="p-0054" num="0052"><figref idref="DRAWINGS">FIG. 3</figref> is a sectional view taken along a line <b>3</b>-<b>3</b> of <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0055" num="0053">The inner cylinder <b>26</b>, the holding cylinder <b>34</b> and the cable <b>38</b> are inserted to the outer cylinder <b>12</b>. The inner cylinder <b>16</b> includes, for example, 3 piece of fixing projections <b>25</b> . . . projected from an outer face of the inner cylinder <b>26</b> to an inner face of the outer cylinder <b>12</b>. Therefore, the reflection type ultrasonic sensor (notation <b>23</b> in <figref idref="DRAWINGS">FIG. 2</figref>) in the cylindrical shape can stably be held without being moved in an up and down direction and in a left and right direction of the drawing.</p>
+<p id="p-0056" num="0054">Thereby, a positional shift of the reflection type ultrasonic sensor in the cylindrical shape can be prevented.</p>
+<p id="p-0057" num="0055">Further, although an explanation has been given by constituting a number of pieces of the fixing projections <b>25</b> . . . by three pieces, the number of pieces may be changed by outer diameters of the outer cylinder <b>12</b> and the inner cylinder <b>16</b> and the number of pieces is not limited to three pieces.</p>
+<p id="p-0058" num="0056">Further, referring back to <figref idref="DRAWINGS">FIG. 2</figref>, also with regard to the fixing projections <b>25</b> . . . provided at a middle portion of the inner cylinder <b>26</b>, a similar effect can be achieved.</p>
+<p id="p-0059" num="0057"><figref idref="DRAWINGS">FIG. 4</figref> is a sectional view taken along a line <b>4</b>-<b>4</b> of <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0060" num="0058">The partitioning cylinder <b>32</b>, the inner cylinder <b>26</b> and the cable <b>38</b> are inserted to the outer cylinder <b>12</b>. The inner cylinder <b>26</b> includes, for example, three pieces of the through holes <b>27</b> . . . constituted by penetrating a wall thickness of the inner cylinder <b>26</b>. Therefore, when the cooling water flows in from a head direction to a tail direction of the drawing of the inner cylinder <b>26</b>, the cooling water can be made to flow to be dispersed from three pieces of the through holes <b>27</b> . . . to the first flow path <b>35</b>. Thereby, the cooling water can be prevented from flowing deviatedly in a constant direction.</p>
+<p id="p-0061" num="0059">Further, although an explanation has been given by constituting a number of pieces of the through holes <b>27</b> . . . by three pieces, the number of pieces may be changed by outer diameters of the inner cylinder <b>26</b> and the partitioning cylinder <b>32</b> and the number of pieces are not limited to three pieces.</p>
+<p id="p-0062" num="0060"><figref idref="DRAWINGS">FIG. 5</figref> is an explanatory view of attaching the spot welding inspecting apparatus according to the first exemplary embodiment.</p>
+<p id="p-0063" num="0061">A spot welding gun <b>42</b> is constituted by a C type frame <b>44</b> attached to a front end of a robot arm <b>43</b>, a fixing side holder <b>46</b> provided to a lower side finger portion <b>45</b> of the C type frame <b>44</b>, a fixing side electrode chip <b>47</b> attached to the fixing side holder <b>46</b>, a cylinder unit <b>49</b> provided to an upper side finger portion <b>48</b> of the C type frame <b>44</b>, a movable side holder <b>52</b> attached to a cylinder rod <b>51</b> of the cylinder unit <b>49</b>, and the spot welding inspecting apparatus <b>10</b> attached to the movable side cylinder <b>52</b>.</p>
+<p id="p-0064" num="0062">In the drawing, a nugget diameter after welding is measured by the spot welding inspecting apparatus <b>10</b> in a state of squeezing two sheets of steel plates <b>53</b>, <b>54</b> laminated by the fixing side electrode chip <b>47</b> and the spot welding inspecting apparatus <b>10</b>.</p>
+<p id="p-0065" num="0063">Numeral <b>55</b> designates a support member of the cylinder unit, numerals <b>56</b>, <b>56</b> designate work holders.</p>
+<p id="p-0066" num="0064">An operation of the spot welding inspecting apparatus <b>10</b> constituted by the above-described constitution will be explained as follows.</p>
+<p id="p-0067" num="0065"><figref idref="DRAWINGS">FIG. 6</figref> is a view enlarging portion <b>6</b> of <figref idref="DRAWINGS">FIG. 5</figref>. A nugget <b>57</b> is formed at a contact face of the steel plate <b>53</b> and the steel plate <b>54</b> laminated together after finishing to weld. By continuously supplying cooling water to the inner cylinder <b>26</b> as shown by arrow marks, the cooling water flows from the inner portion of the inner cylinder <b>26</b>, passes the through holes <b>27</b> . . . , flows in an order of the first flow path <b>36</b>, the second flow path <b>36</b> and the third flow path <b>37</b> and continuously flows out from the outer cylinder <b>12</b>.</p>
+<p id="p-0068" num="0066">When the nugget diameter is measured under the state, an ultrasonic signal is shot from the reflection type ultrasonic sensor <b>23</b> in the cylindrical shape to the nugget <b>57</b> by way of the signal transmitting part <b>19</b>. The ultrasonic signal is reflected by a reflecting face provided at the fixed side electrode chip <b>47</b> and a reflecting wave is received by the reflection type ultrasonic sensor <b>23</b> in the cylindrical shape.</p>
+<p id="p-0069" num="0067">The nugget diameter can be predicted from information of the provided reflecting wave.</p>
+<p id="p-0070" num="0068">In measuring the nugget diameter, a flow of cooling water is not deviated by the first flow path <b>35</b>, the second flow path <b>36</b> and the third flow path <b>37</b>, and therefore, the reflection type ultrasonic sensor <b>23</b> in the cylindrical shape can always be dipped in the cooling water. Therefore, stable measurement can be realized without bringing about an erroneous operation or the like in measuring.</p>
+<p id="p-0071" num="0069">Further, when the cooling water flows through the second flow path <b>36</b>, the cooling water passes the heat conducting groove <b>15</b>. The heat conducting groove <b>15</b> is formed in a ring-like shape in view of a section provided by cutting the gun chip <b>16</b> in the cap-like shape in head and tail direction of the drawing, and therefore, the flow of the cooling water is not deviated. Further, the heat conducting groove <b>15</b> is formed to be dug down deeply to the inner face of the gun chip <b>16</b> in the cap-like shape, and therefore, cold by the cooling water is made to be easy to be conducted to the front end portion of the gun chip <b>16</b> in the cap-like shape. Thereby, two sheets of the steel plates <b>53</b> and <b>54</b> can firmly be cooled, and therefore, the cold amounts to stabilize to form the nugget <b>57</b>.</p>
+<p id="p-0072" num="0070">Therefore, the spot welding inspecting apparatus <b>10</b> is constituted to be able to make the cooling water flow in the order of the first flow path <b>35</b>, the second flow path <b>36</b> and the third flow path <b>37</b>. The first flow path <b>35</b> is formed at the gun chip <b>16</b> in the cap-like shape to circulate between the inner cylinder <b>26</b> and the partitioning cylinder <b>32</b>, the second flow path <b>36</b> is formed to circulate around the front end <b>28</b> of the partitioning cylinder <b>32</b>, the third flow path <b>37</b> is formed between the outer cylinder <b>12</b> and the partitioning cylinder <b>32</b>, respectively, and there is not present a large obstacle of disturbing the flow in circumferential directions and longitudinal directions of the first flow path <b>35</b>, the second flow path <b>36</b> and the third flow path <b>37</b>. The flow of the cooling water is not deviated in a constant direction, and therefore, the gun chip <b>16</b> in the cap-like shape can undeviatedly cooled.</p>
+<p id="p-0073" num="0071">Further, the reflection type ultrasonic sensor <b>23</b> in the cylindrical shape is held by the inner cylinder <b>26</b>, and the cooling water is made to flow from the inner portion of the inner cylinder <b>26</b> to the first flow path <b>35</b> formed between the inner cylinder <b>26</b> and the partitioning cylinder <b>32</b> by passing the through holes <b>27</b> . . . . That is, the cooling water flowing through the first flow path <b>35</b> is always brought into contact with the reflection type ultrasonic sensor <b>23</b> provided below the inner cylinder <b>26</b>, and therefore, the reflection type ultrasonic sensor <b>23</b> does not undergo a temperature change by warm water. Therefore, the reflection type ultrasonic sensor <b>23</b> in the cylindrical shape is stabilized in the measurement and is less deteriorated by thermal shock.</p>
+<p id="p-0074" num="0072">As described above, the gun chip <b>16</b> in the cap-like can undeviatedly cooled, and stabilization of measurement by the reflection type ultrasonic sensor <b>23</b> in the cylindrical shape and a reduction in thermal shock to the ultrasonic sensor <b>23</b> can be realized.</p>
+<p id="p-0075" num="0073">Next, an example of changing a material of the signal transmitting part <b>19</b> included in the gun chip <b>16</b> in the cap-like shape will be described.</p>
+<p id="p-0076" num="0074"><figref idref="DRAWINGS">FIG. 7</figref> is a view of an modified example of the first exemplary embodiment. Notations are also used for constitutions common to those of <figref idref="DRAWINGS">FIG. 2</figref> and an explanation thereof will be omitted.</p>
+<p id="p-0077" num="0075">In a spot welding inspecting apparatus <b>10</b>B, a flat face <b>58</b> is provided at an inner face of a gun chip <b>16</b>B in a cap-like shape. A signal transmitting part <b>19</b>B made of copper is mounted to the flat face <b>58</b>. Since the signal transmitting part <b>19</b>B is made of copper, cold of the cooling water is facilitated to be transmitted to the gun chip <b>16</b>B in the cap-like shape.</p>
+<p id="p-0078" num="0076">Further, the gun chip <b>16</b>B in the cap-like shape does not need to be grooved in contrast to the gun chip <b>16</b> in the cap-like shape since the flat face <b>58</b> is provided. Therefore, working expense can be reduced, and therefore, the constitution contributes to low price formation of the spot welding inspecting apparatus <b>10</b>B.</p>
+<p id="p-0079" num="0077"><figref idref="DRAWINGS">FIG. 8</figref> is a view enlarging the gun chip in the cap-like shape shown in <figref idref="DRAWINGS">FIG. 7</figref>, notations are used for constitutions common to those of <figref idref="DRAWINGS">FIG. 2</figref> and an explanation thereof will be omitted.</p>
+<p id="p-0080" num="0078">The signal transmitting part <b>19</b>B made of copper is provided with a second male screw portion <b>18</b>B to be engaged with a screw portion <b>14</b>B provided at an inner peripheral face of the gun chip <b>16</b>B in the cap-like shape at an outer peripheral face thereof.</p>
+<p id="p-0081" num="0079">Therefore, a degree of bringing the signal transmitting part <b>19</b>B and the gun chip <b>16</b>B into close contact with each other is promoted, and therefore, there can be provided the spot welding inspecting apparatus <b>16</b>B capable of promoting a stability of transmitting the ultrasonic signal.</p>
+<p id="p-0082" num="0080">Further, the signal transmitting part <b>10</b>B does not hamper transmission of the ultrasonic signal transmitted from the reflection type ultrasonic sensor <b>23</b> in the cylindrical shape since a rear end face <b>21</b>B is formed in a flat face shape and a front end face <b>59</b> is attached to be brought into contact with the flat face <b>58</b> of the gun chip <b>16</b>B in the cap-like shape.</p>
+<p id="p-0083" num="0081">Numeral <b>61</b> designates a ring-like flow path provided at an inner bottom portion of the gun chip in the cap-like shape, numeral <b>62</b> designates a cylindrical portion of the signal transmitting part, and numeral <b>63</b> designates an outer peripheral face of the cylindrical portion.</p>
+<p id="p-0084" num="0082"><figref idref="DRAWINGS">FIG. 9</figref> is a sectional view taken along a line <b>9</b>-<b>9</b> of <figref idref="DRAWINGS">FIG. 8</figref>, and a second flow path <b>36</b>B is constituted by an inner peripheral face <b>64</b> of the gun chip <b>16</b>B in the cap-like shape, three pieces of support portions <b>39</b>B, <b>39</b>B, <b>39</b>B projected from the cylindrical portion (notation <b>62</b> in <figref idref="DRAWINGS">FIG. 8</figref>) of the signal transmitting part <b>19</b>B to an outer side in a diameter direction and, for example, three pieces of grooves portions <b>65</b>, <b>65</b>, <b>65</b> formed at the outer peripheral face (notation <b>63</b> in <figref idref="DRAWINGS">FIG. 8</figref>) of the cylindrical portion, and a ring-like flow path (notation <b>61</b> in <figref idref="DRAWINGS">FIG. 8</figref>) formed in a tail direction of the drawing of the support portions <b>39</b>B, <b>39</b>B, <b>39</b>B.</p>
+<p id="p-0085" num="0083">That is, the second flow path <b>36</b>B is constituted by, for example, three pieces of the groove portions <b>65</b>, <b>65</b>, <b>65</b> notched to be formed at an outer peripheral face <b>66</b> of the signal transmitting part <b>19</b>B by constituting outer peripheral faces of the support portions <b>39</b>B, <b>39</b>B, <b>39</b>B as the outer peripheral face <b>66</b> of the signal transmitting part <b>19</b>B.</p>
+<p id="p-0086" num="0084">Further, although a number of the groove portions <b>65</b> is constituted by three pieces in the above-described, the number is arbitrary and the number is not limited to three pieces.</p>
+<p id="p-0087" num="0085">A cooing agent always flows in the groove portions <b>65</b>, <b>65</b>, <b>65</b>, and therefore, the signal transmitting part <b>19</b>B can sufficiently be cooled. Therefore, thermal deformation of the signal transmitting part <b>19</b>B can be prevented in a spot welding operation.</p>
+<p id="p-0088" num="0086">Further, the front end (notation <b>28</b> in <figref idref="DRAWINGS">FIG. 8</figref>) of the partitioning cylinder <b>32</b> is fitted to the fixing grooves <b>41</b>, <b>41</b>, <b>41</b> of the support portions <b>39</b>B, <b>39</b>B, <b>39</b>B provided at an upper portion of the signal transmitting part <b>19</b>B, and therefore, the partitioning cylinder <b>32</b> can be prevented from being shifted in an up and down direction and in a left and right direction of the drawing when the cooling agent is made to flow.</p>
+<p id="p-0089" num="0087">Although according to the spot welding inspecting apparatus <b>10</b> and <b>10</b>B are explained above, the signal transmitting parts <b>19</b> and <b>19</b>B are coupled to the gun chips <b>16</b> and <b>16</b>B by screws, an explanation will be given as follows of an example in which the signal transmitting part can be fixed to the gun chip without using screw coupling.</p>
+<p id="p-0090" num="0088"><figref idref="DRAWINGS">FIG. 10</figref> is a sectional view of other spot welding inspecting apparatus according to a second exemplary embodiment. Notations are used for constitutions common to those of <figref idref="DRAWINGS">FIG. 2</figref> and an explanation thereof will be omitted. Further, in the second exemplary embodiment, an explanation will be given by changing a name of the outer cylinders of the spot welding inspecting apparatus <b>10</b> and <b>10</b>B to shank. A main point of a change resides in that the signal transmitting part is held by a front end of the shank.</p>
+<p id="p-0091" num="0089">A spot welding inspecting apparatus <b>70</b> includes a shank <b>72</b> in, for example, a shape of a cylinder a front end portion of which is formed by a converging shape to be, for example, a taper portion <b>71</b>, a gun chip <b>74</b> having a cylindrical shape in, for example, a cross-sectional view thereof provided with, for example, a taper portion <b>73</b> to constitute an engaging portion formed at an inner periphery to be engaged with the taper portion <b>71</b> of the shank <b>72</b>, a reflection type ultrasonic sensor <b>78</b> in, for example, a cylindrical shape provided with a plurality of sheets of projected members <b>77</b>, (described later in details) transmitting an ultrasonic signal and provided at a lower end portion thereof, a signal transmitting part <b>75</b> in, for example, a circular shape which is included in the gun chip <b>74</b> and in which a front end face <b>85</b> constituting a front end is brought into contact with a flat face <b>86</b> provided at an inner bottom portion of the gun chip <b>74</b> and a rear end face <b>76</b> constituting a rear end is brought into contact with the reflection type ultrasonic sensor <b>78</b>, and a contact face <b>82</b> which includes a second flow path <b>79</b> formed at the gun chip <b>74</b> to be circulated around the front end <b>28</b> of the partitioning cylinder <b>32</b> and in which a front end <b>81</b> of the taper portion <b>71</b> of the shank <b>72</b> is brought into contact with the rear end face <b>76</b> constituting the rear end of the signal transmitting part <b>75</b> and the signal transmitting part <b>75</b> is pressed by the contact face <b>82</b>.</p>
+<p id="p-0092" num="0090">Further, although an explanation has been given of a method of coupling the shank <b>72</b> and the gun chip <b>74</b> such that the taper portion <b>73</b> provided at the gun chip <b>74</b> is fitted to the taper portion <b>71</b> provided to the shank <b>72</b> as described above, the shank <b>72</b> and the gun chip can be coupled by screws, and therefore, the method may be changed to other coupling method.</p>
+<p id="p-0093" num="0091">Further, although an explanation has been given such that the shank <b>72</b>, the gun chip <b>74</b>, the reflection type ultrasonic sensor <b>78</b> and the signal transmitting part <b>75</b> are respectively formed by shapes of cylinders and the circular shape, the cylindrical shape, the cylindrical shape in cross-like sectional views thereof, otherwise, the shank <b>72</b>, the gun chip <b>74</b>, the reflection type ultrasonic sensor <b>78</b> and the signal transmitting part <b>75</b> can respectively be formed by shapes of square pipes, a square shape, a square pillar shape, a square shape in cross-sectional views thereof, and therefore, the shapes may be changed to other shapes.</p>
+<p id="p-0094" num="0092">Numeral <b>83</b> designates an attaching seat in a circumferential shape, numeral <b>87</b> designates a ring-like flow path provided at an inner bottom portion of the gun chip in the cap-like shape, numeral <b>88</b> designates a cylindrical portion of the signal transmitting part, and numeral <b>89</b> designates an outer peripheral face of the cylindrical portion.</p>
+<p id="p-0095" num="0093">According to the spot welding inspecting apparatus <b>70</b>, the contact face <b>82</b> provided at the front end <b>81</b> of the shank <b>72</b> is made to press the rear end face <b>76</b> constituting the rear end of the signal transmitting part <b>75</b>, and therefore, the signal transmitting part <b>75</b> can firmly be held.</p>
+<p id="p-0096" num="0094"><figref idref="DRAWINGS">FIG. 11</figref> is a sectional view taken along a line <b>11</b>-<b>11</b> of <figref idref="DRAWINGS">FIG. 10</figref>, and the second flow path <b>79</b> is constituted by an inner peripheral face <b>91</b> of the gun chip <b>74</b>, for example, three pieces of support portions <b>92</b>, <b>92</b>, <b>92</b> projected from the cylindrical portion (notation <b>88</b> in <figref idref="DRAWINGS">FIG. 10</figref>) of the signal transmitting part <b>75</b> to an outer side in a diameter direction and, for example, three pieces of groove portions <b>93</b>, <b>93</b>, <b>93</b> formed by the outer peripheral face (notation <b>89</b> in <figref idref="DRAWINGS">FIG. 10</figref>) of the cylindrical portion, and the ring-like flow path (notation <b>87</b> in <figref idref="DRAWINGS">FIG. 10</figref>) formed in a tail direction of the drawing of the support portions <b>92</b>, <b>92</b>, <b>92</b>.</p>
+<p id="p-0097" num="0095">That is, the second flow path <b>79</b> is constituted by three pieces of groove portions <b>93</b>, <b>93</b>, <b>93</b> notched to be formed at an outer peripheral face <b>94</b> of the signal transmitting part <b>75</b> by constituting outer peripheral faces of the support portions <b>92</b>, <b>92</b>, <b>92</b> as the outer peripheral face <b>94</b> of the signal transmitting part <b>75</b>.</p>
+<p id="p-0098" num="0096">Further, although a number of the support portions <b>92</b> is constituted by three pieces as described above, the number is arbitrary, and therefore, the number of the support portions <b>92</b> is not limited to three pieces.</p>
+<p id="p-0099" num="0097">Further, although a number of the groove portions <b>93</b> is constituted by three pieces as described above, the number is arbitrary, and therefore, the amount of the groove portions <b>93</b> is not limited to three pieces.</p>
+<p id="p-0100" num="0098">A cooling agent is always made to flow through the grooves <b>93</b>, <b>93</b>, <b>93</b>, and therefore, the signal transmitting part can sufficiently be cooled.</p>
+<p id="p-0101" num="0099">Further, the reflection type ultrasonic sensor <b>78</b> in the cylindrical shape is attached such that, for example, 3 sheets of the projecting members <b>77</b>, <b>77</b>, <b>77</b> are brought into contact with the inner peripheral face <b>75</b> of the partitioning cylinder <b>32</b>, and therefore, when the cooling agent is made to flow, the partitioning cylinder <b>32</b> can be prevented from being shifted in an up and down direction and in a left and right direction of the drawing.</p>
+<p id="p-0102" num="0100"><figref idref="DRAWINGS">FIG. 12</figref> is a view of a modified example the second exemplary embodiment shown in <figref idref="DRAWINGS">FIG. 10</figref>. Notations are used for constitutions common to those of <figref idref="DRAWINGS">FIG. 10</figref> and an explanation thereof will be omitted. A point of a major change resides in that the material of the signal transmitting part is changed from copper to resin.</p>
+<p id="p-0103" num="0101">According to a spot welding inspecting apparatus <b>70</b>B, a gun chip <b>74</b>B in a circular shape in, for example, cross-sectional view includes an attaching seat <b>83</b>B in, for example, a circumferential shape at an inner peripheral face, and the attaching seat <b>83</b>B in the circumferential shape is fitted with a signal transmitting part <b>75</b>B made of a resin formed in, for example, a circular shape. Notation <b>92</b>B designates a support portion.</p>
+<p id="p-0104" num="0102">Further, although the shank <b>72</b>, the gun chip <b>72</b>B, the attaching seat <b>83</b>B, the reflection type ultrasonic sensor <b>78</b> and the signal transmitting part <b>75</b>B are respectively formed in shapes of the cylinders and in a circular shape, a circumferential shape, a cylindrical shape, a circular shape in cross-sectional views thereof, otherwise, the shank <b>72</b>, the gun chip <b>72</b>B, the attaching seat <b>83</b>B, the reflection type ultrasonic sensor <b>78</b>, and the signal transmitting part <b>75</b>B can respectively be formed by a square shape, a square peripheral shape, a square pillar shape, a square shape, and therefore, the shapes may be changed to other shapes.</p>
+<p id="p-0105" num="0103">The cooling agent is made to flow in an order of the first flow path <b>35</b>, the second flow path <b>79</b>, a heat conducting groove <b>96</b>, and the third flow path <b>37</b>, and therefore, the cooling agent is always brought into contact with the signal transmitting part <b>75</b>B. Therefore, the signal transmitting part <b>75</b>B can be prevented from being deformed by welding heat.</p>
+<p id="p-0106" num="0104">According to the spot welding inspecting apparatus <b>70</b> and <b>70</b>B explained above, the signal transmitting parts <b>75</b> and <b>75</b>B are held by contact faces at front ends of the shanks. When the signal transmitting part and the gun chip are coupled by a screw in addition thereto, the signal transmitting part and the gun chip are further strongly fixed. An explanation will be given as follows of an embodiment in which a signal transmitting part is pressed by a contact face of a front end of a shank and the signal transmitting part and the gun chip are coupled by a screw.</p>
+<p id="p-0107" num="0105"><figref idref="DRAWINGS">FIG. 13</figref> is a view of a modified example of <figref idref="DRAWINGS">FIG. 12</figref>, notations are used for constitutions common to those of <figref idref="DRAWINGS">FIG. 12</figref> and an explanation thereof will be omitted. A point of a major change resides in that a method of attaching the signal transmitting part to the gun chip is changed from press-fitting to screw coupling.</p>
+<p id="p-0108" num="0106">According to a spot welding inspecting apparatus <b>70</b>C, a signal transmitting part <b>75</b>C is attached to a gun chip <b>74</b>C by screwing a second male screw portion <b>98</b> provided at an outer peripheral face of the signal transmitting part <b>74</b>C in a circular shape made of a resin to a second female screw portion <b>97</b> provided at an inner peripheral face of the gun chip <b>74</b>C in, for example, a circular shape in a cross-sectional view. Notation <b>92</b>C designates a support portion and notation <b>96</b>C designates a heat conducting groove.</p>
+<p id="p-0109" num="0107">Further, although the shank <b>72</b>, the gun chip <b>74</b>C and the reflection type ultrasonic sensor <b>78</b> are formed respectively by shapes of cylinders, a circular shape, and a cylindrical shape in a cross-sectional view, otherwise, the shank <b>72</b>, the gun chip <b>74</b>C and the reflection type ultrasonic sensor <b>78</b> can be formed respectively by shapes of square pipes, a square shape and a square pillar shape in cross-sectional views, and therefore, the shapes may be changed to other shapes.</p>
+<p id="p-0110" num="0108">According to the spot welding inspecting apparatus <b>70</b>C, a degree of bringing the signal transmitting part <b>75</b>C and the gun chip <b>74</b>C into close contact with each other is promoted, and therefore, stability of transmitting an ultrasonic signal can be promoted.</p>
+<p id="p-0111" num="0109"><figref idref="DRAWINGS">FIG. 14</figref> is a view of a further modified example of <figref idref="DRAWINGS">FIG. 10</figref>.</p>
+<p id="p-0112" num="0110">Notations are used for constitutions common to those of <figref idref="DRAWINGS">FIG. 10</figref> and an explanation thereof will be omitted. A point of a major change resides in that similar to <figref idref="DRAWINGS">FIG. 13</figref>, a method of attaching a signal transmitting part to a gun chip is changed from press-fitting to screw coupling.</p>
+<p id="p-0113" num="0111">According to a spot welding inspecting apparatus <b>70</b>D, a signal transmitting part <b>75</b>D is attached to a gun chip <b>74</b>D by screwing a second male screw portion <b>98</b>D provided at an outer peripheral face of the signal transmitting part <b>75</b>D made of copper and in a circular cylinder shape to a second female screw portion <b>97</b>D provided at an inner peripheral face of the gun chip <b>74</b>D in, for example, a circular shape in a cross-sectional view. Notation <b>92</b>D designates a support portion.</p>
+<p id="p-0114" num="0112">Further, although the shank <b>72</b>, the gun chip <b>74</b>D and the reflection type ultrasonic sensor <b>78</b> are respectively formed by shapes of cylinders and a circular shape and a cylindrical shape in a cross-sectional view, otherwise, the shank <b>72</b>, the gun chip <b>72</b>D, and the reflection type ultrasonic sensor <b>78</b> can respectively be formed by a square shape and a square pillar shape in cross-sectional views, and therefore, the shapes may be changed to other shapes.</p>
+<p id="p-0115" num="0113">According to the spot welding inspecting apparatus <b>70</b>D, a degree of bringing the signal transmitting part <b>75</b>D and the gun chip <b>74</b>D into close contact with each other is promoted, and therefore, stability of transmitting an ultrasonic signal can be promoted.</p>
+<p id="p-0116" num="0114">Further, although an explanation has been given of the ultrasonic sensor used in the spot welding inspecting apparatus of the invention by the reflection type in the embodiment, a transmission type can be adopted, and therefore, the ultrasonic sensor may be changed to other type.</p>
+<p id="p-0117" num="0115">Further, although the cooling water is adopted in the embodiment for the cooling agent used in the spot welding inspecting apparatus of the invention, an incombustible gas or liquid is applicable, and therefore, other cooling medium may be applied.</p>
+<p id="p-0118" num="0116">Further, although an explanation has been given such that a method of coupling an outer cylinder and a gun chip in a cap-like is constituted by screw coupling in the embodiment, for example, the outer cylinder and the gun chip in the cap-like shape can be coupled by fitting, for example, a projected member provided in an axial direction at an outer face of the outer cylinder and a groove portion provided in the axial direction at an inner face of the gun chip in the cap-like shape, and therefore, the method may be changed to other coupling method.</p>
+<p id="p-0119" num="0117">Further, although an explanation has been given such that a signal transmitting part is coupled to a gun chip in a cap-like shape by a screw in the embodiment, it can be adopted to press-fit a signal transmitting part which is not screwed to the gun chip in the cap-like shape, and therefore, the method may be changed to other coupling method.</p>
+<p id="p-0120" num="0118">While description has been made in connection with specific exemplary embodiments and modified examples of the present invention, it will be obvious to those skilled in the art that various changes and modification may be made therein without departing from the present invention. It is aimed, therefore, to cover in the appended claims all such changes and modifications falling within the true spirit and scope of the present invention.</p>
+<p id="p-0121" num="0119">The spot welding inspecting apparatus of the invention is preferably used in a vehicle body fabricating line of an automobile which carries out welding and inspection at high speed.</p>
+<heading id="h-0006" level="1">DESCRIPTION OF REFERENCE NUMERALS AND SIGNS</heading>
+<p id="p-0122" num="0120"><b>10</b>, <b>10</b>B, <b>70</b>, <b>70</b>B, <b>70</b>C, <b>70</b>D . . . spot welding inspecting apparatus, <b>12</b> . . . outer cylinder, <b>14</b>, <b>14</b>B, <b>97</b>, <b>97</b>B . . . second female screw portions (female screw portions), <b>16</b>, <b>16</b>B . . . gun chips in cap-like shape, <b>18</b>, <b>18</b>B, <b>98</b>, <b>98</b>B . . . second male screw portions (male screw portions), <b>19</b>, <b>19</b>B, <b>75</b>, <b>75</b>B, <b>75</b>C, <b>75</b>D . . . signal transmitting parts, <b>23</b> . . . reflection type ultrasonic sensor in cylindrical shape (ultrasonic sensor in cylindrical shape), <b>26</b> . . . inner cylinder, <b>27</b> . . . through hole, <b>28</b> . . . front end of partitioning cylinder, <b>32</b> . . . partitioning cylinder, <b>35</b> . . . first flow path, <b>36</b>, <b>36</b>B, <b>79</b> . . . second flow paths, <b>37</b> . . . third flow path, <b>39</b>, <b>39</b>B, <b>92</b>, <b>92</b>B, <b>92</b>C, <b>92</b>D . . . support portions, <b>42</b> . . . spot welding gun, <b>57</b> . . . nugget (welded portion), <b>58</b>, <b>86</b> . . . flat faces, <b>59</b>, <b>85</b> . . . front end faces of signal transmitting parts, <b>64</b>, <b>91</b> . . . inner peripheral faces of gun chips, <b>65</b>, <b>93</b> . . . groove portions, <b>66</b>, <b>94</b> . . . outer peripheral faces of signal transmitting parts, <b>71</b> . . . taper portion, <b>72</b> . . . shank in cylinder shape (shank), <b>73</b> . . . taper portion, <b>74</b>, <b>74</b>B, <b>74</b>C, <b>74</b>D . . . gun chips in circular shape (gun chips), <b>76</b> . . . rear end face of signal transmitting part (rear end of signal transmitting part), <b>78</b> . . . reflection type ultrasonic sensor in cylindrical shape (ultrasonic sensor), <b>81</b> . . . front end portion of taper portion of shank (front end of shank), <b>82</b> . . . contact face, <b>83</b>, <b>83</b>B . . . attaching seats in circumferential shape</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A spot welding inspecting apparatus comprising:
+<claim-text>a gun chip fitted to one end of an outer cylinder of a spot welding gun;</claim-text>
+<claim-text>a signal transmitting part mounted in the gun chip and configured to transmit a signal;</claim-text>
+<claim-text>an ultrasonic sensor having a cylindrical shape, one end of the ultrasonic sensor being brought into contact with the signal transmitting part;</claim-text>
+<claim-text>an inner cylinder inserted to the outer cylinder and holding the ultrasonic sensor;</claim-text>
+<claim-text>a through hole provided on the inner cylinder;</claim-text>
+<claim-text>a partitioning cylinder surrounding the through hole and inserted into a gap between the ultrasonic sensor and the outer cylinder, a front end of the partitioning cylinder reaching the signal transmitting part;</claim-text>
+<claim-text>a first flow path formed between the inner cylinder and the partitioning cylinder by passing the through hole from an inner portion of the inner cylinder;</claim-text>
+<claim-text>a second flow path formed at the gun chip to be circulated around a front end of the partitioning cylinder; and</claim-text>
+<claim-text>a third flow path formed between the outer cylinder and the partitioning cylinder,</claim-text>
+<claim-text>wherein the first, second and third flow paths are configured so that a cooling agent flows in an order of the first flow path, the second flow path and the third flow path.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The spot welding inspecting apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second flow path comprises a plurality of groove portions formed on an outer peripheral face of the signal transmitting part.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A spot welding inspecting apparatus comprising:
+<claim-text>a gun chip configured to be brought into contact with a work;</claim-text>
+<claim-text>an ultrasonic sensor mounted in a spot welding gun and configured to transmit an ultrasonic signal to the work; and</claim-text>
+<claim-text>a signal transmitting part mounted in the gun chip, a front end of the signal transmitting part being brought into contact with the gun chip, and a rear end of the signal transmitting part is being brought into contact with the ultrasonic sensor,</claim-text>
+<claim-text>wherein the signal transmitting member includes a male screw portion on an outer peripheral face of the signal transmitting member, the gun chip includes a female screw in an inner peripheral face of the gun chip, and the male screw portion is engaged with the female screw portion.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A spot welding inspecting apparatus comprising:
+<claim-text>a shank;</claim-text>
+<claim-text>a gun chip engaged with a front end of the shank and configured to be brought into contact with a work;</claim-text>
+<claim-text>an ultrasonic sensor mounted in a spot welding gun and configured to transmit an ultrasonic signal to the work; and</claim-text>
+<claim-text>a signal transmitting part mounted in the gun chip, a front end of the signal transmitting part being brought into contact with the gun chip, and a rear end of the signal transmitting part being brought into contact with the ultrasonic sensor,</claim-text>
+<claim-text>wherein a front end of the shank presses the rear end of the signal transmitting part. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07647663-20100119.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20100104" date-publ="20100119">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07647663</doc-number>
+<kind>B2</kind>
+<date>20100119</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11296863</doc-number>
+<date>20051208</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>KR</country>
+<doc-number>10-2004-0103480</doc-number>
+<date>20041209</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>769</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>D</section>
+<class>06</class>
+<subclass>F</subclass>
+<main-group>33</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100119</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  8159</main-classification>
+<further-classification> 68  3 R</further-classification>
+<further-classification> 68 1202</further-classification>
+<further-classification> 68 20</further-classification>
+</classification-national>
+<invention-title id="d0e71">Combination laundry device and method thereof</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3102796</doc-number>
+<kind>A</kind>
+<name>Erickson</name>
+<date>19630900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 34 75</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3173767</doc-number>
+<kind>A</kind>
+<name>Perloff</name>
+<date>19650300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 34 82</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3242584</doc-number>
+<kind>A</kind>
+<name>Jacobs</name>
+<date>19660300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 34448</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3402477</doc-number>
+<kind>A</kind>
+<name>Hubbard</name>
+<date>19680900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 34543</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3417481</doc-number>
+<kind>A</kind>
+<name>Rumsey</name>
+<date>19681200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3555701</doc-number>
+<kind>A</kind>
+<name>Hubbard</name>
+<date>19710100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 34602</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3673701</doc-number>
+<kind>A</kind>
+<name>Albertson</name>
+<date>19720700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>3866333</doc-number>
+<kind>A</kind>
+<name>Surakahanian et al.</name>
+<date>19750200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>3921308</doc-number>
+<kind>A</kind>
+<name>Freze</name>
+<date>19751100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4103433</doc-number>
+<kind>A</kind>
+<name>Taylor</name>
+<date>19780800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4189341</doc-number>
+<kind>A</kind>
+<name>McPherson</name>
+<date>19800200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4204339</doc-number>
+<kind>A</kind>
+<name>Muller</name>
+<date>19800500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4207683</doc-number>
+<kind>A</kind>
+<name>Horton</name>
+<date>19800600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 34 60</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>4819341</doc-number>
+<kind>A</kind>
+<name>Gayso</name>
+<date>19890400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5546678</doc-number>
+<kind>A</kind>
+<name>Dhaemers</name>
+<date>19960800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5644936</doc-number>
+<kind>A</kind>
+<name>Yasutake et al.</name>
+<date>19970700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 68 1202</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5715555</doc-number>
+<kind>A</kind>
+<name>Reber et al.</name>
+<date>19980200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  8158</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6463940</doc-number>
+<kind>B1</kind>
+<name>Thomas et al.</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6629439</doc-number>
+<kind>B2</kind>
+<name>Wobkemeier</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 68 1202</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6796055</doc-number>
+<kind>B2</kind>
+<name>Baltes</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6868621</doc-number>
+<kind>B1</kind>
+<name>Grimm et al.</name>
+<date>20050300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>6904703</doc-number>
+<kind>B2</kind>
+<name>Naganawa et al.</name>
+<date>20050600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>6928752</doc-number>
+<kind>B2</kind>
+<name>Johnson et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 34595</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>7191546</doc-number>
+<kind>B2</kind>
+<name>Maruca</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>7481178</doc-number>
+<kind>B2</kind>
+<name>Laackmann</name>
+<date>20090100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>116216</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>2001/0049846</doc-number>
+<kind>A1</kind>
+<name>Guzzi et al.</name>
+<date>20011200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  8158</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>2004/0088075</doc-number>
+<kind>A1</kind>
+<name>Batcher</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>2004/0134237</doc-number>
+<kind>A1</kind>
+<name>Sunshine et al.</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 68  3 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>2004/0154194</doc-number>
+<kind>A1</kind>
+<name>Prows</name>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>2004/0194339</doc-number>
+<kind>A1</kind>
+<name>Johnson et al.</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>2007/0169279</doc-number>
+<kind>A1</kind>
+<name>Park et al.</name>
+<date>20070700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>DE</country>
+<doc-number>3204718</doc-number>
+<date>19820900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>DE</country>
+<doc-number>197 43 508</doc-number>
+<date>19990400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>DE</country>
+<doc-number>19810907</doc-number>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>DE</country>
+<doc-number>19917206</doc-number>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>DE</country>
+<doc-number>10-2005-053702</doc-number>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>EP</country>
+<doc-number>1441059</doc-number>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>GB</country>
+<doc-number>2 026 147</doc-number>
+<date>19800100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>JP</country>
+<doc-number>63-082700</doc-number>
+<date>19880400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>JP</country>
+<doc-number>04-126198</doc-number>
+<date>19920400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>KR</country>
+<doc-number>20-0243057</doc-number>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>WO</country>
+<doc-number>WO 97/10376</doc-number>
+<date>19970300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2006/009375</doc-number>
+<kind>A2</kind>
+<date>20060100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2006/025650</doc-number>
+<kind>A2</kind>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2006/028326</doc-number>
+<kind>A2</kind>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00046">
+<othercit>European Patent Office 1 225 267 Jan. 2001.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+</references-cited>
+<number-of-claims>18</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>134184</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>134198</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  8158</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 68 15</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 68  3 R</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 68 1202</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 68 20</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>6</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060150689</doc-number>
+<kind>A1</kind>
+<date>20060713</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kim</last-name>
+<first-name>Young Soo</first-name>
+<address>
+<city>Changwon-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Choi</last-name>
+<first-name>Soung Bong</first-name>
+<address>
+<city>Changwon-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ahn</last-name>
+<first-name>Byung Hwan</first-name>
+<address>
+<city>Gimhae-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Lee</last-name>
+<first-name>Deug Hee</first-name>
+<address>
+<city>Gimhae-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+<applicant sequence="005" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Cho</last-name>
+<first-name>Hung Myong</first-name>
+<address>
+<city>Gyeongsangnam-do</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>McKenna Long &#x26; Aldridge LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>LG Electronics Inc</orgname>
+<role>03</role>
+<address>
+<city>Seoul</city>
+<country>KR</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Stinson</last-name>
+<first-name>Frankie L</first-name>
+<department>1792</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A combination laundry device and a method thereof are disclosed. The present invention relates to a combination laundry device that can interchange information between two laundry mechanisms, and that can automatically set operation conditions for a washing and a drying and/or a refreshing cycle based on information from each information tag attached on the laundry without a user's inputting additional conditions.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="187.79mm" wi="156.21mm" file="US07647663-20100119-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="207.43mm" wi="160.70mm" file="US07647663-20100119-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="185.08mm" wi="154.77mm" orientation="landscape" file="US07647663-20100119-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="239.27mm" wi="156.97mm" file="US07647663-20100119-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="203.71mm" wi="164.00mm" file="US07647663-20100119-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="220.56mm" wi="150.11mm" orientation="landscape" file="US07647663-20100119-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="240.28mm" wi="165.10mm" file="US07647663-20100119-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<p id="p-0002" num="0001">This application claims the benefit of the Patent Korean Application No. P2004-103480, filed on Dec. 9, 2004, which is hereby incorporated by reference as if fully set forth herein.</p>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates to a combination laundry device combining two related laundry mechanisms.</p>
+<p id="p-0005" num="0004">2. Discussion of the Related Art</p>
+<p id="p-0006" num="0005">In general, laundry devices including washing machines and dryers are electric home appliances which can wash or dry cloth items, cloths and beddings (hereinafter, &#x2018;the laundry&#x2019;). A dryer of the laundry devices used in a house usually dries a small amount of the laundry.</p>
+<p id="p-0007" num="0006">That is, the dryer receives the laundry washed by the washing machine, and dries the laundry by supplying hot air.</p>
+<p id="p-0008" num="0007">However, since conventional related art washing machines and dryers are separate and different from each other, a user who tries to wash and dry the laundry may have an inconvenience of washing the laundry by controlling the washing machine, followed by drying the laundry by controlling the dryer.</p>
+<p id="p-0009" num="0008">Thus, recently there have been provided accordingly a new type of a combination dryer providing a dryer and an auxiliary cabinet dryer, which controls the dryer and the cabinet dryer at the same time by sharing one controller. For example, US Laid-open Patent Application No. 2004-0194339 A1 or US Laid-open Patent Application No. 2004-0154194.</p>
+<p id="p-0010" num="0009">However, the combination dryer described above has an inconvenience that it performs only a drying cycle and keeping of the laundry, not a washing cycle.</p>
+<p id="p-0011" num="0010">That is, since an auxiliary washing machine should be provided for washing the laundry, the user should purchase a washing machine and a combination dryer separately. Thus, it is difficult to secure an installation space, and also the user should control each controller.</p>
+<p id="p-0012" num="0011">That is because the two mechanisms fail to share information. Thereby, complete automation of washing processes is not accomplished, because operation control between the two mechanisms is performed separately.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0013" num="0012">Accordingly, the present invention is directed to a combination laundry device and a method thereof that substantially obviates one or more problems due to limitations and disadvantages of the related art.</p>
+<p id="p-0014" num="0013">An object of the present invention is to provide a new type of a combination laundry device that can interchange information between two related laundry mechanisms, and that can automatically set operation conditions for a washing and a drying and/or a refreshing cycle based on information from each information tag attached on the laundry without the user's inputting additional conditions.</p>
+<p id="p-0015" num="0014">Additional advantages, objects, and features of the invention will be set forth in part in the description which follows and in part will become apparent to those having ordinary skill in the art upon examination of the following or may be learned from practice of the invention. The objectives and other advantages of the invention may be realized and attained by the structure particularly pointed out in the written description and claims hereof as well as the appended drawings.</p>
+<p id="p-0016" num="0015">To achieve these objects and other advantages and in accordance with the purpose of the invention, as embodied and broadly described herein, a combination laundry device comprises a washing and/or drying part having a drum for performing a washing and a drying cycle for the laundry each having an information tag memorizing information relating to washing and/or drying conditions; a cabinet dryer combined with the washing and/or drying part for performing a drying or a refreshing cycle, or keeping the laundry therein; a reading part for acquiring information memorized in each information tag of the laundry; and a controller provided in at least one of the washing and/or drying part and the cabinet dryer for acquiring information of the entire laundry loaded into the drum from said reading part, and for controlling the washing and/or drying part and the cabinet dryer by selectively setting operation conditions of the washing and/or drying part and the cabinet dryer.</p>
+<p id="p-0017" num="0016">At that time, the information tag is a RFID tag and the reading part is a RFID reader which receives information from the RFID tag, interchanging signals with the RFID tag or recording new information in the RFID tag.</p>
+<p id="p-0018" num="0017">Also, a hot air generating part is further provided in at least one of the washing and/or drying part and the cabinet dryer for generating hot air to supply the hot air into the washing and/or drying part and the cabinet dryer.</p>
+<p id="p-0019" num="0018">To achieve these objects and other advantages and in accordance with the purpose of the invention, as embodied and broadly described herein, a method of a combination laundry device comprising: a first step of acquiring information relating to washing and/or drying conditions from each information tag of the laundry loaded into a drum of a washing and/or drying part; a second step of setting each process of each cycle for washing and/or drying the laundry based on the acquired information; and a third step of performing a washing and/or a drying cycle based on an order of the set processes by controlling the washing and/or drying part, and/or the cabinet dryer.</p>
+<p id="p-0020" num="0019">It is to be understood that both the foregoing general description and the following detailed description of the present invention are exemplary and explanatory and are intended to provide further explanation of the invention as claimed.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0021" num="0020">The accompanying drawings, which are included to provide a further understanding of the invention and are incorporated in and constitute a part of this application, illustrate embodiment(s) of the invention and together with the description serve to explain the principle of the invention. In the drawings:</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 1</figref> is a diagram schematically illustrating an exterior of a combination laundry device according to a first embodiment of the present invention.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 2</figref> is a block diagram schematically illustrating the combination laundry device according to the first embodiment of the present invention.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 3</figref> is a flow chart schematically illustrating operation control processes of the combination laundry device according to the first embodiment of the present invention.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 4</figref> is a diagram schematically illustrating an exterior of a combination laundry device according to a second embodiment of the present invention.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 5</figref> is a block diagram schematically illustrating the combination laundry device according to the second embodiment of the present invention.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 6</figref> is a flow chart schematically illustrating controlling processes of the combination laundry device according to the second embodiment of the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0028" num="0027">Reference will now be made in detail to the preferred embodiments of the present invention, examples of which are illustrated in the accompanying drawings. Wherever possible, the same reference numbers will be used throughout the drawings to refer to the same or like parts.</p>
+<p id="p-0029" num="0028">As shown in <figref idref="DRAWINGS">FIGS. 1 to 2</figref>, a combination laundry device according to a first embodiment of the present invention includes a washing and/or drying part <b>100</b>, a cabinet dryer <b>200</b>, a reading part <b>410</b> and a controller <b>300</b>.</p>
+<p id="p-0030" num="0029">Each of the above configurations will be described in detail as follows.</p>
+<p id="p-0031" num="0030">First, the washing and/or drying part <b>100</b> will be described.</p>
+<p id="p-0032" num="0031">The washing and/or drying part <b>100</b> performs a washing and/or a drying cycle(s), and includes a drum <b>120</b> capable of rotating and agitating.</p>
+<p id="p-0033" num="0032">The first embodiment of the present invention presents that the washing and/or drying part <b>100</b> is a washing machine performing only a washing cycle.</p>
+<p id="p-0034" num="0033">Next, the cabinet dryer <b>200</b> will be described.</p>
+<p id="p-0035" num="0034">The cabinet dryer <b>200</b> is mounted on a top of the washing and/or drying part <b>100</b> for drying the laundry washed in the washing and/or drying part <b>100</b>, keeping the laundry for a while and refreshing the laundry.</p>
+<p id="p-0036" num="0035">The cabinet dryer <b>200</b> includes a keeping part <b>220</b> for keeping lots of the laundry therein.</p>
+<p id="p-0037" num="0036">The keeping part <b>220</b> is space within the cabinet dryer <b>200</b>, which keeps the laundry.</p>
+<p id="p-0038" num="0037">Next, the reading part <b>410</b> will be described.</p>
+<p id="p-0039" num="0038">The reading part <b>410</b> is provided in the washing and/or drying part <b>100</b> and employed for acquiring information from each information tag <b>500</b> of the laundry loaded into the drum <b>120</b>.</p>
+<p id="p-0040" num="0039">The information tag <b>500</b> attached on each of the laundry is a tag capable of transmitting information through sending/receiving signals with the reading part <b>410</b> as well as memorizing new information. Each information tag <b>500</b> has information, relating to washing and/or drying conditions of each laundry, memorized thereon.</p>
+<p id="p-0041" num="0040">Especially, the information tag <b>500</b> is a radio-frequency-identification (RFID) tag capable of recording additional information. Preferably, the reading part <b>410</b> is a RFID reader, which interchanges signals with the RFID tag and receives information from the RFID tag or records new information in the RFID tag.</p>
+<p id="p-0042" num="0041">Alternatively, the information tag <b>500</b> may be formed as a bar code, and the reading part <b>410</b> may be a bar code reader as well as various structures capable of interchanging information by a non-contact system.</p>
+<p id="p-0043" num="0042">Also, the washing related information memorized in the information tag on each laundry includes at least one of a washing temperature, a spinning speed, a drying temperature and a drying time period.</p>
+<p id="p-0044" num="0043">Preferably, the reading part <b>410</b> is provided in a portion of the washing and/or drying part <b>100</b>, where the laundry is loaded.</p>
+<p id="p-0045" num="0044">That is for helping the reading part <b>410</b> to acquire information of the laundry, while loading the laundry into the washing and/or drying part <b>100</b>.</p>
+<p id="p-0046" num="0045">Alternatively, the reading part <b>410</b> is enabled to acquire information collectively after completing the introduction of the laundry into the drum <b>120</b>. In that case also, the reading part <b>410</b> may be provided in a laundry-loading portion.</p>
+<p id="p-0047" num="0046">Next, the controller <b>300</b> will be described.</p>
+<p id="p-0048" num="0047">The controller <b>300</b> acquires information of the laundry loaded into the drum <b>120</b> from the reading part <b>410</b>, and sets, based on the kind of the laundry, the washing and/or drying part <b>100</b>'s operation and the cabinet dryer <b>200</b>'s operation variously to perform a washing and/or drying or, refreshing cycle.</p>
+<p id="p-0049" num="0048">At that time, the controller <b>300</b> may be provided only in the washing and/or drying part <b>100</b>, only in the cabinet dryer <b>200</b>, or in the washing and/or drying part <b>100</b> and the cabinet dryer <b>200</b>.</p>
+<p id="p-0050" num="0049">The first embodiment of the present invention embodies that the controller <b>300</b> is provided only in the cabinet dryer <b>200</b>.</p>
+<p id="p-0051" num="0050">According to the embodiments of the present invention, a hot air generating part <b>610</b> is further provided in a combination laundry device for making a drying cycle possible.</p>
+<p id="p-0052" num="0051">The hot air generating part <b>610</b> will be described.</p>
+<p id="p-0053" num="0052">The hot air generating part <b>610</b> generates high temperature hot air and supplies the hot air into the drum <b>120</b> of the washing and/or drying part <b>100</b> and the keeping part <b>220</b> of the cabinet dryer <b>200</b>.</p>
+<p id="p-0054" num="0053">The hot air generating part <b>610</b> may be provided at least one of the washing and/or drying part <b>100</b> and the cabinet dryer <b>200</b>, and the first embodiment of the present invention embodies that the hot air generating part <b>610</b> is provided only in the cabinet dryer <b>200</b>.</p>
+<p id="p-0055" num="0054">Also, the hot air generating part <b>610</b> is connected with the drum <b>120</b> of the washing and/or drying part <b>100</b> and/or the keeping part <b>220</b> of the cabinet dryer <b>200</b> by a hot air supplying pipe <b>620</b>.</p>
+<p id="p-0056" num="0055">The hot air generating part <b>610</b> includes a drying heater <b>611</b> for heating air flowing in the hot air supplying pipe <b>620</b>. Preferably, the hot air generating part <b>610</b> further includes a fan <b>612</b> for forcibly ventilating air within the hot air supplying pipe <b>620</b>.</p>
+<p id="p-0057" num="0056">On the other hand, the combination laundry device according to the present invention further includes a steam generating part <b>710</b> for making a refreshing cycle possible.</p>
+<p id="p-0058" num="0057">The steam generating part <b>710</b> will be described.</p>
+<p id="p-0059" num="0058">The steam generating part <b>710</b> generates steam and supplies the steam into the drum <b>120</b> of the drum washing part <b>100</b>, and/or the keeping part <b>220</b> of the cabinet dryer <b>200</b>.</p>
+<p id="p-0060" num="0059">The steam generating part <b>710</b> is provided in at least one of the washing and/or drying part <b>100</b> and the cabinet dryer <b>200</b>, and the first embodiment of the present invention embodies that the steam generating part <b>710</b> is provided only in the cabinet dryer <b>200</b>.</p>
+<p id="p-0061" num="0060">At that time, the steam generating part <b>710</b> is connected with the washing and/or drying part <b>100</b>, and/or the cabinet dryer <b>200</b> by a steam supplying pipe <b>720</b>.</p>
+<p id="p-0062" num="0061">The steam generating part <b>710</b> includes a heat radiating part <b>711</b> having space for temporarily storing water, and a heating element <b>712</b> provided within the heat radiating part <b>711</b> for heating and evaporating the water into steam.</p>
+<p id="p-0063" num="0062">The heat radiating part <b>711</b> may receive water from a detachable water chamber (not shown), and may be connected with a water pipe (not shown) supplying washing water for receiving the water, and also may receive water such as condensed water generated in the washing and/or drying part <b>100</b>.</p>
+<p id="p-0064" num="0063">On the other hand, the embodiments of the present invention embodies that an auxiliary reading part <b>420</b> is further provided in the cabinet dryer <b>200</b>.</p>
+<p id="p-0065" num="0064">The auxiliary reading part <b>420</b> acquires information memorized in each tag <b>500</b> of the laundry loaded into the keeping part <b>220</b> of the cabinet dryer <b>200</b>, and then supplies the information to the controller <b>300</b>.</p>
+<p id="p-0066" num="0065">Referring to a flow chart of <figref idref="DRAWINGS">FIG. 3</figref>, an operation controlling method of the combination laundry device will be described.</p>
+<p id="p-0067" num="0066">First, the controller <b>300</b> controls a reading part <b>410</b> so that information relating to washing and drying conditions on the laundry may be acquired from each tag <b>500</b> of the laundry within a drum <b>120</b>, and stores the acquired information (S<b>110</b>).</p>
+<p id="p-0068" num="0067">The reading part <b>410</b> communicates with each information tag <b>500</b> of the laundry for acquiring various pieces of information stored in each tag <b>500</b>.</p>
+<p id="p-0069" num="0068">The information relating to washing and drying conditions includes at least one of a kind of the laundry, a quantity of each kind of the laundry, a preferred washing temperature, a dehydrating speed, a kind of detergent, a washing water level, a drying temperature and a drying time period.</p>
+<p id="p-0070" num="0069">Although not embodied as an embodiment, the information acquired by the reading part <b>410</b> may further include directions for a washing and a drying cycles, in addition to the above information.</p>
+<p id="p-0071" num="0070">Next, based on the information acquired through the reading part <b>410</b>, the controller <b>300</b> sets up a washing cycle for the washing and/or drying part <b>100</b>, and a drying cycle for the cabinet dryer <b>200</b> (S<b>120</b>).</p>
+<p id="p-0072" num="0071">Each cycle is set up based on at least one classification of a washing time period, a washing temperature, a kind of detergent, a hydrating speed, a drying temperature and a drying time period.</p>
+<p id="p-0073" num="0072">For example, once the kind of the laundry loaded into the drum <b>120</b> is identified as wool, a washing temperature is set up between 30&#x2dc;50&#xb0; C. in a stat of warmth. The washing time period is set up longer than the other kinds of the laundries, as well as having lots of pauses. The detergent is set up as detergent for wool only and the dehydrating speed is set up slow. The drying is set up at a low temperature for a long time period.</p>
+<p id="p-0074" num="0073">Of course, each time period of each cycle and each washing water level should be set up variously, based on the quantity of the laundry.</p>
+<p id="p-0075" num="0074">Next, once each cycle operation is set by the above processes, the controller <b>300</b> controls the washing and/or drying part <b>100</b> based on the set processes of cycles to wash the laundry loaded into the drum washing machine <b>100</b> (S<b>130</b>).</p>
+<p id="p-0076" num="0075">Once the washing cycle is completed, the washed laundry is taken out of the washing and/or drying part <b>100</b> and moved into the keeping part <b>220</b> of the cabinet dryer <b>200</b> (S<b>140</b>).</p>
+<p id="p-0077" num="0076">At that time, the controller <b>300</b> controls the auxiliary reading part <b>420</b> and acquires various pieces of information from each tag <b>500</b> of the laundry. Hence, the controller <b>300</b> compares the information acquired by the auxiliary reading part <b>420</b> and the one initially acquired by the reading part <b>410</b>(S<b>150</b>).</p>
+<p id="p-0078" num="0077">The comparison is for identifying if all of the washed laundry is loaded into the keeping part <b>220</b>.</p>
+<p id="p-0079" num="0078">That is, it is identified if all of the laundry initially loaded into the washing and/or drying part <b>100</b> is moved into the keeping part <b>220</b> of the cabinet dryer <b>200</b>.</p>
+<p id="p-0080" num="0079">If there is a difference between the first laundry of the washing and/or drying part <b>100</b> and the laundry of the keeping part <b>220</b> of the cabinet dryer <b>200</b>, the controller <b>300</b> compensates for the difference (S<b>160</b>).</p>
+<p id="p-0081" num="0080">For example, once some of the laundry initially loaded into the washing and/or drying part <b>100</b> is loaded into the keeping part <b>220</b>, the controller <b>300</b> makes up for values of a drying temperature or a drying time period as much as the lessened values of the laundry quantities and laundry qualities (or laundry kinds).</p>
+<p id="p-0082" num="0081">Preferably, the controller <b>300</b> further identifies information of the laundry within the keeping part <b>220</b>, and makes up for the difference to help a drying and a refreshing cycle based on the information.</p>
+<p id="p-0083" num="0082">Hence, the controller <b>300</b> performs a drying cycle for the laundry within the keeping part <b>220</b> based on the compensating operation process (S<b>170</b>).</p>
+<p id="p-0084" num="0083">When it is identified that all of the laundry initially loaded into the washing and/or drying part <b>100</b> is moved into the keeping part <b>220</b>, based on an order of an initially set drying cycle, a drying cycle is performed without compensation for a drying cycle.</p>
+<p id="p-0085" num="0084">The drying cycle is accomplished by controlling the hot air generating part <b>610</b>.</p>
+<p id="p-0086" num="0085">That is, the drying heater <b>611</b> is operated by the controller <b>300</b> for heating air within the hot air supplying pipe <b>620</b>. Hence, the fan <b>612</b> is driven by the controller for guiding the heated air along the hot air supplying pipe <b>620</b>.</p>
+<p id="p-0087" num="0086">High temperature air flowing like that, in other words hot air, is discharged into the keeping part <b>220</b> of the cabinet dryer <b>200</b> to dry the laundry within the keeping part <b>220</b>.</p>
+<p id="p-0088" num="0087">Once the drying cycle is completed through the above series of processes, the controller <b>300</b> performs a refreshing cycle for the laundry within the keeping part <b>220</b> (S<b>180</b>).</p>
+<p id="p-0089" num="0088">The refreshing cycle is performed through controlling the steam generating part <b>710</b>.</p>
+<p id="p-0090" num="0089">That is, the heating element <b>712</b> is operated by the controller <b>300</b> for evaporating water within the heat radiating part <b>711</b> into steam. Hence, the steam is guided by the steam supplying pipe <b>720</b> and discharged into the keeping part <b>220</b> of the cabinet dryer <b>200</b>.</p>
+<p id="p-0091" num="0090">Thus, the laundry within the keeping part <b>220</b> is refreshed, with being sterilized and wrinkles thereof smoothed out.</p>
+<p id="p-0092" num="0091">In another aspect of the present invention, a second embodiment of the present invention embodies that a washing and/or drying part <b>100</b> is a tumble dryer.</p>
+<p id="p-0093" num="0092">The tumble dryer may be an exhaust type dryer which generates hot air by using external air to dry the laundry and discharges the air outside thereof, or a condense type dryer which condenses and heats circulating air to dry the laundry.</p>
+<p id="p-0094" num="0093">Furthermore, in case the washing and/or drying part <b>100</b> is a tumble dryer, a hot air generating part <b>610</b> and a steam generating part <b>710</b> are preferably provided in the washing and/or drying part <b>100</b>, as shown in <figref idref="DRAWINGS">FIGS. 4 and 5</figref>. Also, a hot air supplying pipe <b>620</b> and a steam supplying pipe <b>720</b> are in communication with an inside of a keeping part <b>220</b> within the cabinet dryer <b>200</b>.</p>
+<p id="p-0095" num="0094">Referring to a flow chart of <figref idref="DRAWINGS">FIG. 6</figref>, an operation control method of the combination laundry device according to the second embodiment of the present invention will be described.</p>
+<p id="p-0096" num="0095">First, a controller <b>300</b> controls a reading part <b>410</b> to acquire information relating to drying from each information tag <b>500</b> of the laundry loaded into the drum <b>120</b>, and the acquired information is stored (S<b>210</b>).</p>
+<p id="p-0097" num="0096">The information relating to drying includes at least one of a kind of each laundry, a quantity of each laundry according to each kind, a preferred drying temperature and a preferred drying time period.</p>
+<p id="p-0098" num="0097">Alternatively, the information acquired by the reading part <b>410</b> may further include directions for drying.</p>
+<p id="p-0099" num="0098">Hence, the controller <b>300</b> receives the information acquired by the reading part <b>410</b>, and sets up each process of a drying cycle performed in the washing and/or drying part <b>100</b> and each process of a drying cycle performed in the cabinet dryer <b>200</b> (S<b>220</b>).</p>
+<p id="p-0100" num="0099">At that time, each of the processes is preset based on at least one of categories, one category including a drying temperature and a drying time period for a drying cycle in the washing and/or drying part <b>100</b>, and the other category including a drying temperature and a drying time period for a drying cycle in the cabinet dryer <b>200</b>.</p>
+<p id="p-0101" num="0100">For example, once the kind of the laundry loaded into the drum <b>120</b> is identified as wool, a drying cycle within the washing and/or drying part <b>100</b> is set to be performed at a low drying temperature and for a long period of time, and a drying cycle within the cabinet dryer <b>200</b> is set to be performed at a lower temperature than the drying cycle of the washing and/or drying part <b>100</b>.</p>
+<p id="p-0102" num="0101">That is why the cabinet dryer <b>200</b> is operated not for drying the laundry, but for keeping the laundry for a long period of time.</p>
+<p id="p-0103" num="0102">Hence, once setting each process of each drying cycle, the controller <b>300</b> controls the washing and/or drying part <b>100</b> to perform a drying cycle for the laundry loaded into the drum, based on the order of the set processes of each cycle (S<b>230</b>).</p>
+<p id="p-0104" num="0103">When the drying cycle described above is completed, the dried laundry is taken out of the washing and/or drying part <b>100</b>. Hence, after loading the laundry into the keeping part <b>220</b> of the cabinet dryer <b>200</b>, another drying cycle and a refreshing cycle are performed by controlling the cabinet dryer <b>200</b> (S<b>270</b> and S<b>280</b>).</p>
+<p id="p-0105" num="0104">The drying cycle is performed by controlling a hot air generating part <b>610</b>, and the refreshing cycle is performed by controlling a steam generating part <b>710</b>.</p>
+<p id="p-0106" num="0105">Preferably, like steps of S<b>250</b> and S<b>260</b> shown in <figref idref="DRAWINGS">FIG. 6</figref>, the laundry within the keeping part <b>220</b> is re-identified by using an auxiliary reading part <b>420</b>, and once there is an information difference, the difference is made up for.</p>
+<p id="p-0107" num="0106">Thus, the drying and refreshing cycle is completed by the processes described above.</p>
+<p id="p-0108" num="0107">In another aspect of the present invention, a third embodiment embodies that a washing and/or drying part <b>100</b> is a washing machine with a drying function.</p>
+<p id="p-0109" num="0108">In that case, preferably a hot air generating part <b>610</b> and a steam generating part <b>710</b> are provided in the washing and/or drying part <b>100</b>, and the operation control method thereof is the same as that of the first embodiment.</p>
+<p id="p-0110" num="0109">Preferably, while operating control processes according to the first embodiment, a washing cycle is completed and then a rough drying cycle for the laundry within the washing and/or drying part <b>100</b> is performed.</p>
+<p id="p-0111" num="0110">At that time, when the rough drying cycle is performed, a drum <b>120</b> constantly rotates and supplies hot air therein to dry the laundry. Thereby, the rough drying cycle may have more smooth drying efficiency than a drying cycle within the cabinet dryer <b>200</b>.</p>
+<p id="p-0112" num="0111">In that case, it is preferred but not necessary that the cabinet dryer <b>200</b> is controlled to perform a drying and refreshing cycle not for drying the laundry, but for keeping the laundry for a long period of time.</p>
+<p id="p-0113" num="0112">Therefore, although a washing machine and a cabinet dryer, a tumble dryer and a cabinet dryer, and a washing machine with a drying function and a cabinet dryer are provided as one body, it is possible for the above mechanisms to communicate each other. Thereby, collective unification control is possible.</p>
+<p id="p-0114" num="0113">That is, the present invention has an advantageous effect that the user need not put each mechanism into operation for washing and drying the laundry every time.</p>
+<p id="p-0115" num="0114">It will be apparent to those skilled in the art that various modifications and variations can be made in the present invention without departing from the spirit or scope of the inventions. Thus, it is intended that the present invention covers the modifications and variations of this invention provided they come within the scope of the appended claims and their equivalents.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A combination laundry device comprising:
+<claim-text>a washing and/or drying part having a drum for performing a washing and a drying cycle for the laundry each having an information tag memorizing information relating to washing and/or drying conditions;</claim-text>
+<claim-text>a cabinet dryer combined with the washing and/or drying part for performing a drying or a refreshing cycle, or keeping the laundry therein;</claim-text>
+<claim-text>a reading part for acquiring information memorized in each information tag of the laundry; the reading part provided in the washing and/or drying part, and</claim-text>
+<claim-text>an auxiliary reading part provided in the cabinet dryer for acquiring information memorized in each information tag of the laundry within a keeping part, and</claim-text>
+<claim-text>a controller provided in at least one of the washing and/or drying part and the cabinet dryer for acquiring information of the entire laundry loaded into the drum and the keeping part from the reading part and the auxiliary reading part respectively, and for controlling the washing and/or drying part and the cabinet dryer by selectively setting operation conditions of the washing and/or drying part and the cabinet dryer,</claim-text>
+<claim-text>wherein the controller compares the information acquired from the reading part with the information acquired from the auxiliary reading part, and compensates for operating conditions of the cabinet dryer as much as a difference when there is the difference between the information acquired from the reading part and the information acquired from the auxiliary reading part.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The combination laundry device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the information tag is a RFID tag and the reading part is a RFID reader which receives information from the RFID tag, interchanging signals with the RFID tag or recording new information in said RFID tag.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The combination laundry device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the reading part is provided at a portion of the washing and/or drying part, where the laundry is loaded.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The combination laundry device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the washing and/or drying part is a washing machine performing only a washing cycle for the laundry.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The combination laundry device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the washing and/or drying part is a washing machine with a drying function performing a washing and a drying cycle for the laundry.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The combination laundry device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the washing and/or drying part is a tumble dryer performing only a drying cycle for the laundry.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The combination laundry device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a hot air generating part is further provided in at least one of the washing and/or drying part and the cabinet dryer for generating hot air to supply the hot air into the washing and/or drying part and the cabinet dryer.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The combination laundry device of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the hot air generating part is connected with the drum of the washing and/or drying part, and/or the keeping part of the cabinet dryer by a hot air supplying pipe.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The combination laundry device of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the hot air generating part comprises a drying heater for heating air within the hot air supplying pipe.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The combination laundry device of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the hot air generating part further comprises a fan for ventilating air within the hot air supplying pipe.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The combination laundry device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a steam generating part is further provided in at least one of the washing and/or drying part and the cabinet dryer for generating steam.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The combination laundry device of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the steam generating part is connected with the drum of the washing and/or drying part, and/or the keeping part of the cabinet dryer by a steam generating pipe.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The combination laundry device of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the steam generating part comprises
+<claim-text>a heat radiating part having space for storing supplied water temporarily, and</claim-text>
+<claim-text>a heating element provided within the heat radiating part for heating and evaporating the supplied water into steam.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. A method of combination laundry device, comprising:
+<claim-text>a first step of acquiring information relating to washing and/or drying conditions from each information tag of the laundry loaded into a drum of a washing and/or drying part;</claim-text>
+<claim-text>a second step of setting each process of each cycle for washing and/or drying the laundry based on the acquired information; and</claim-text>
+<claim-text>a third step of performing a washing and/or drying cycle based on an order of the set processes by controlling the washing and/or drying part, and/or a cabinet dryer,</claim-text>
+<claim-text>wherein the third comprises a step of acquiring information of the laundry from each information tag within a keeping part of the cabinet dryer, and a comparing the information with the information acquired in the first step,</claim-text>
+<claim-text>wherein in case othere is a difference between the information and the information acquired in the first step, the third step further comprises a step of compensating for the operating conditions of the cabinet dryer as much as the difference.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The method of the combination laundry device of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the information relating to washing and/or drying conditions acquired from each information tag of the laundry includes at least one of a kind of the laundry, a quantity of each kind, a preferred washing temperature, a dehydrating speed, a kind of detergent, a washing water level, a drying temperature and a drying time period, and additional directions.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The method of the combination laundry device of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein each process of each cycle operation within the washing and/or drying part is set and operated based in at least one category of a washing time period, a washing temperature, a dehydrating speed, a drying temperature and a drying time period.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The method of the combination laundry device of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the third step further comprises step of:
+<claim-text>performing a washing and/or drying cycle for the laundry loaded into the drum based on the order of the set processes by controlling the washing and/or drying part;</claim-text>
+<claim-text>moving the washed and/or dried laundry within the keeping part of the cabinet dryer; and</claim-text>
+<claim-text>performing a drying and/or a refreshing cycle for the laundry within the keeping part by controlling the cabinet dryer based on the order of the set processes.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The method of the combination laundry device of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the step of compensating for the operating conditions is compensating for at least one of a drying temperature and a drying time period as much as the difference.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

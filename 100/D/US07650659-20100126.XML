@@ -1,0 +1,2228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07650659-20100126.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20100111" date-publ="20100126">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07650659</doc-number>
+<kind>B2</kind>
+<date>20100126</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10591171</doc-number>
+<date>20060309</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2006-062616</doc-number>
+<date>20060308</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>208</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>D</section>
+<class>06</class>
+<subclass>F</subclass>
+<main-group>35</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100126</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  8158</main-classification>
+</classification-national>
+<invention-title id="d0e71">Washing method</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1641780</doc-number>
+<kind>A</kind>
+<name>Parker</name>
+<date>19270900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210122</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2591143</doc-number>
+<kind>A</kind>
+<name>Eilersgaard</name>
+<date>19520400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 68140</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3866731</doc-number>
+<kind>A</kind>
+<name>Nagel</name>
+<date>19750200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>192104 C</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>EP</country>
+<doc-number>1 433 887</doc-number>
+<kind>A1</kind>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>EP</country>
+<doc-number>1 502 982</doc-number>
+<kind>A2</kind>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>JP</country>
+<doc-number>35-31858</doc-number>
+<kind>U</kind>
+<date>19591100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>JP</country>
+<doc-number>60-246790</doc-number>
+<kind>A</kind>
+<date>19851200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>JP</country>
+<doc-number>4-61893</doc-number>
+<kind>A</kind>
+<date>19920200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>JP</country>
+<doc-number>4-164494</doc-number>
+<kind>A</kind>
+<date>19920600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>JP</country>
+<doc-number>6-238086</doc-number>
+<kind>A</kind>
+<date>19940800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>JP</country>
+<doc-number>9-248395</doc-number>
+<kind>A</kind>
+<date>19970900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>JP</country>
+<doc-number>9-276582</doc-number>
+<kind>A</kind>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>JP</country>
+<doc-number>11-169579</doc-number>
+<kind>A</kind>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>JP</country>
+<doc-number>11-267391</doc-number>
+<kind>A</kind>
+<date>19991000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>JP</country>
+<doc-number>2001-269495</doc-number>
+<kind>A</kind>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>JP</country>
+<doc-number>2002-58892</doc-number>
+<kind>A</kind>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>JP</country>
+<doc-number>2003-260290</doc-number>
+<kind>A</kind>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>6</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  8158</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>6</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080229516</doc-number>
+<kind>A1</kind>
+<date>20080925</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hashimoto</last-name>
+<first-name>Hideo</first-name>
+<address>
+<city>Uji</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Birch, Stewart, Kolasch &#x26; Birch, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Kabushiki Kaisha Kyotosangyo</orgname>
+<role>03</role>
+<address>
+<city>Uji-Shi, Kyoto</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Stinson</last-name>
+<first-name>Frankie L</first-name>
+<department>1792</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Waldbaum</last-name>
+<first-name>Samuel A</first-name>
+</assistant-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2006/304649</doc-number>
+<kind>00</kind>
+<date>20060309</date>
+</document-id>
+<us-371c124-date>
+<date>20060830</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2006/098224</doc-number>
+<kind>A </kind>
+<date>20060921</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">It is intended to provide a washing method for reliably cleaning water-soluble contaminations such as sweat without damaging fabrics.</p>
+<p id="p-0002" num="0000">A frame body <b>18</b> is disposed horizontally in a casing. The frame body <b>18</b> is rotated by a drive motor <b>23</b> in the casing. The casing and the frame body <b>18</b> are filled with water, and then clothes are placed in the frame body <b>18</b>. A plurality of protrusions <b>40</b> are formed in order that an inner periphery <b>39</b> of the frame body <b>18</b> has a wavy pattern. A height of the protruding parts is set to from 3.0 to 6.0% of the inner diameter of the frame body <b>18</b>. A surfant contained in cleaning liquid permeates deep into the clothes.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="195.83mm" wi="148.00mm" file="US07650659-20100126-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="205.99mm" wi="160.53mm" file="US07650659-20100126-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="195.33mm" wi="169.67mm" orientation="landscape" file="US07650659-20100126-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="192.19mm" wi="182.20mm" file="US07650659-20100126-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="213.53mm" wi="158.41mm" file="US07650659-20100126-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="227.41mm" wi="174.84mm" orientation="landscape" file="US07650659-20100126-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="209.72mm" wi="162.22mm" file="US07650659-20100126-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0001">This invention relates to a method for washing clothes and the like.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0004" num="0002">As a method of washing clothes made from wool, for example, a washing method called dry cleaning has widely been known. The dry cleaning is a method of cleaning clothes using a petroleum solvent or an organic solvent as a cleaning liquid. The dry cleaning is the washing method capable of preventing loss of shape, shrinkage, swelling, and the like of the clothes while washing clothes conveniently. This is one of reasons of the widespread of the dry cleaning.</p>
+<p id="p-0005" num="0003">More specifically, contaminations adhered to clothes are usually of water-soluble contaminations such as sweat, foods, and mud. In order to perfectly clean such water-soluble contaminations, it is necessary to wash the clothes with water. However, when the clothes made from wool are washed with water, a scale formed on a surface of fibers (wool) is damaged to change a fabric to a felt-like one. When the fabric becomes feltish, the clothes are hardened to loose the original texture and to be difficult to wear. However, when the petroleum solvent or the like is used as the cleaning liquid, the above-described fabric change does not occur. Therefore, the dry cleaning has widely been employed as the clothes washing method.</p>
+<p id="p-0006" num="0004">However, in the case where the petroleum solvent is used as the cleaning liquid, the water soluble contaminations adhered to the clothes are not cleaned perfectly, and yellowing and the like of the clothes can occur later on. That is, the dry cleaning is employed for the purpose of avoiding the risk of damage on clothes though it is necessary to wash the clothes with water in order to perfectly clean the contaminations of the clothes.</p>
+<p id="p-0007" num="0005">The washing method employed for conventional washing machines can be divided into two types. One of them is a washing method utilizing a rotating current of a washing liquid (see, for example, Patent Publication 1), and the other is a washing method utilizing a mechanical force (see, for example, Patent Publications 2 and 3).</p>
+<p id="p-0008" num="0006">With the washing method utilizing the rotating current of cleaning liquid, a washing tub is rotated about a rotation shaft disposed in a substantially vertical direction, so that the cleaning liquid is rotated in a substantially horizontal direction inside the washing tub. Clothes are cleaned by means of the rotating current of cleaning liquid. With the washing method utilizing the mechanical force, a washing tub is rotated about a rotation shaft disposed in a substantially horizontal direction, so that clothes placed in the washing tub are moved upward along an inner wall surface of the washing tub and then fall down. The clothes are cleaned by means of impact caused when the clothes fall on the inner wall surface of the washing tub. That is, with the washing method utilizing the rotating current of cleaning liquid, the contaminations are separated when the clothes are twisted round by means of the rotating cleaning liquid. With the washing method utilizing the mechanical force, the contaminations are separated by means of the impact applied on the clothes. In both washing methods, burden on the fabrics is large, and, though a certain cleaning effect is achieved by the washing methods, the fabrics are steadily damaged.</p>
+<p id="p-0009" num="0007">Conventional washing apparatuses and washing methods are disclosed in Patent Publications 1 to 10 listed below. Particularly, Patent Publication 4 (JP-A-4-61893) discloses a washing method for flipping a laundry article by means of a jet current and a washing apparatus for performing the washing method. As disclosed in Patent Publication 4, the washing apparatus is provided with an outer barrel (<b>1</b>) and an inner barrel (<b>4</b>). The laundry article is placed in the inner barrel (<b>4</b>), and the outer barrel (<b>1</b>) is filled with a washing liquid. A propelling wing (<b>18</b>) is disposed in a space communicated with an interior of the outer barrel (<b>1</b>). When the propelling wing (<b>18</b>) is rotated, a strong swirling current of the washing liquid is generated in the outer barrel (<b>1</b>). The laundry article is twisted round by the swirl of washing liquid, so that the contaminations are cleaned.</p>
+<p id="p-0010" num="0008">As explained above, Patent Publication 4 discloses that the contaminations of the laundry article thrown into the washing liquid filled in the washing tub are cleaned by the strong current of the washing liquid. It is said in Patent Publication 4 that the washing method causes little damage on the laundry article and exhibits a strong detergency (see page 4, fourth line of upper right column to lower left column). However, since the washing method disclosed by Patent Publication 4 utilizes the strong swirl of the washing liquid generated by the propelling wing (<b>18</b>) as explained in the foregoing, the washing method is far from being harmless for the laundry article. More specifically, with the washing method disclosed by Patent Publication 4, a swirling jet current turning around repeatedly in the vertical direction of the inner barrel is generated. This swirling jet current moves the laundry article vertically. The laundry article is cleaned in such a manner that the laundry article is pressed against an inner upper surface and an inner lower surface of the inner barrel to be rubbed and, at the same time, twisted round and then untwisted. With such washing method, the damage on the laundry article is not small at all, and it is apparent that the laundry article is strongly twisted so that the fibers constituting the laundry article are damaged.</p>
+<p id="p-0011" num="0009">Patent Publication 1: JP-A-2002-58892</p>
+<p id="p-0012" num="0010">Patent Publication 2: JP-A-2003-260290</p>
+<p id="p-0013" num="0011">Patent Publication 3: JP-A-2001-269495</p>
+<p id="p-0014" num="0012">Patent Publication 4: JP-A-4-61893</p>
+<p id="p-0015" num="0013">Patent Publication 5: JP-A-4-164494</p>
+<p id="p-0016" num="0014">Patent Publication 6: JP-A-11-169579</p>
+<p id="p-0017" num="0015">Patent Publication 7: JP-A-60-246790</p>
+<p id="p-0018" num="0016">Patent Publication 8: JP-UM-B-35-31858</p>
+<p id="p-0019" num="0017">Patent Publication 9: JP-A-11-267391</p>
+<p id="p-0020" num="0018">Patent Publication 10: JP-A-6-238086</p>
+<heading id="h-0003" level="1">DISCLOSURE OF THE INVENTION</heading>
+<p id="h-0004" num="0000">Problems to be Solved by the Invention</p>
+<p id="p-0021" num="0019">This invention has been accomplished in view of the above-described circumstances, and an object thereof is to provide a washing method for reliably cleaning oil-soluble contaminations and water-soluble contaminations such as sweat without damaging a fabric even when the fabric is a delicate one such as wool.</p>
+<p id="h-0005" num="0000">Means for Solving the Problems</p>
+<p id="p-0022" num="0020">(1)In order to attain the above object, the washing method of this invention is performed as follows. A cylindrical basket-like washing tub whose central shaft is disposed in a horizontal direction is disposed in an outer casing. A laundry article is placed in the cylindrical basket-like washing tub. Then a cleaning liquid is fed into the outer casing so as to fill the cylindrical basket-like washing tub with the cleaning liquid. After that, the cylindrical basket-like washing tub is rotated about the central shaft for washing the laundry article in the near zero gravity state, namely in such a manner that the laundry article floats in the cleaning liquid and is spread out so as to be increased in contact area with the cleaning liquid in the cylindrical basket-like washing tub.</p>
+<p id="p-0023" num="0021">As used herein, &#x201c;the near-zero gravity state&#x201d; does not mean a real zero gravity state in that the weight of a laundry becomes zero but means such a state in which the laundry article floats while being spread out in the cleaning liquid. Therefore, certain gravity is exerted on the laundry article disposed in the cylindrical basket-like washing tub. At the same time, since the cylindrical basket-like washing tub is filled with the cleaning liquid, buoyancy corresponding to a volume of the laundry article and a density of the cleaning liquid is exerted on the laundry article. Accordingly, the laundry article floats inside the cylindrical basket-like washing tub. The cleaning liquid is fed into the outer casing surrounding the cylindrical basket-like washing tub so as to fill the cylindrical basket-like washing tub with the cleaning liquid. Therefore, the laundry article maintains a floating state in the cylindrical basket-like washing tub when the cylindrical basket-like washing tub is rotated.</p>
+<p id="p-0024" num="0022">Since the central shaft of the cylindrical basket-like washing tub is disposed in the horizontal direction, the cylindrical basket-like washing tub functions as a so-called front-loading design tub. When the cylindrical basket-like washing tub is rotated, the laundry article is maintained in a floating state and is spread out in such a manner as to be unfolded in the cylindrical basket-like washing tub. Thus, the contact area of the laundry article with the cleaning liquid is increased, thereby enabling the surfactant contained in the cleaning liquid to permeate deep into fibers of the fabric forming the laundry article. Due to the deep permeation of the surfactant to the fibers of fabric forming the laundry article, contaminations adhered to the fibers are easily removed without the aid of physical external force. That is, the contaminations adhered to fibers are removed easily without the application of mechanical external force to the laundry article and the pounding and twisting of the laundry article by water-current jet.</p>
+<p id="p-0025" num="0023">(2) A wavy patterned surface may preferably be formed on an inner periphery of the cylindrical basket-like washing tub along a circumferential direction for causing the cleaning liquid to flow toward a center of the cylindrical basket-like washing tub when the cylindrical basket-like washing tub is rotated. The cylindrical basket-like washing tub may preferably have an inner diameter of less than 500 mm and may preferably be rotated for 60 to 120 times per minute. The wavy pattered surface may preferably be in the form of a sine curve having protrusions protruding in a radial direction of the cylindrical basket-like washing tub.</p>
+<p id="p-0026" num="0024">Due to the wavy patterned surface of the inner periphery of the cylindrical basket-like washing tub, the cleaning liquid moves mildly to the center of the cylindrical basket-like washing tub and then moves in the axial direction when the cylindrical basket-like washing tub is set to the above size and rotated at the above speed. The cleaning liquid moving to the center of the cylindrical basket-like washing tub maintains the laundry article at a floating state and causes the laundry article to move away from the inner periphery of the cylindrical basket-like washing tub. Particularly, since the wavy patterned surface is formed on the inner wall surface of the cylindrical basket-like washing tub, a mild current in the form of a swirl generates near an inner wall surface of the cylindrical basket-like washing tub. Due to the swirl, the laundry article is prevented from contacting the inner periphery of the cylindrical basket-like washing tub, and damages on the laundry article are reliably prevented. Further, the cleaning liquid moving in the axial direction from the center of the cylindrical basket-like washing tub spreads out the laundry article in the cylindrical basket-like washing tub. Thus, the cleaning liquid mildly and reliably flows between fibers of the laundry article, and the surfactant contained in the cleaning liquid reliably separates the contaminations adhered to the laundry article from the laundry article.</p>
+<p id="p-0027" num="0025">(3) In the case where the wavy patterned surface is formed on the inner periphery of the cylindrical basket-like washing tub along the circumferential direction for causing the cleaning liquid to flow toward the center of the cylindrical basket-like washing tub when the cylindrical basket-like washing tub is rotated, the cylindrical basket-like washing tub may have an inner diameter of more than or equal to 500 mm and may be rotated for 5 to 60 times per minute. The wavy pattered surface may preferably be in the form of a sine curve having protrusions protruding in the radial direction of the cylindrical basket-like washing tub.</p>
+<p id="p-0028" num="0026">(4) Further, in the case where the cylindrical basket-like washing tub is rotated for 10 or more times per minute, the cylindrical basket-like washing tub may preferably be rotated normally and reversely with regularity.</p>
+<p id="p-0029" num="0027">Due to the normal and reverse rotations, the cleaning liquid is regulated to flow in the predetermined direction without fail in the case where the cylindrical basket-like washing tub is rotated at the high speed of 10 or more times per minute. By appropriately setting a cycle of the normal and reverse rotations, the cylindrical basket-like washing tub rotates in a swinging manner like a cradle. Such rotation manner has the advantage that the laundry article is cleaned remarkably softly.</p>
+<p id="p-0030" num="0028">(5) The wavy patterned surface may be formed of protruding parts disposed on the inner periphery of the cylindrical basket-like washing tub parallelly to one another along the circumferential direction at a constant interval, the protruding parts extending in a longitudinal direction of the cylindrical basket-like washing tub. A height of each of the protruding parts may preferably be set to from 3.0% to 6.0% of the inner diameter D of the cylindrical basket-like washing tub.</p>
+<p id="p-0031" num="0029">The protruding parts may be formed integrally with the cylindrical basket-like washing tub. Thus, the wavy patterned surface has an advantage that it is formed simply and at a low cost. Also, by setting the height of the protruding parts within the above range, a swirl-like cleaning liquid current which is considerably mild and capable of reliably keeping the laundry article away from the inner periphery of the cylindrical basket-like washing tub is formed near the inner periphery of the cylindrical basket-like washing tub. Therefore, the contact of the laundry article with the inner periphery of the cylindrical basket-like washing tub is more reliably prevented, and, at the same time, the laundry article is further spread out at the central part of the cylindrical basket-like washing tub.</p>
+<p id="p-0032" num="0030">(6) The cylindrical basket-like washing tub may preferably be rotated intermittently.</p>
+<p id="p-0033" num="0031">With the intermittent rotation of the cylindrical basket-like washing tub, the cleaning liquid current becomes irregular. Therefore, though the cleaning liquid current is mild, the cleaning liquid flows between fibers of the laundry article without fail. Accordingly, the surfactant acts more effectively to reliably separate the contaminations adhered to the laundry article from the laundry article.</p>
+<p id="p-0034" num="0032">(7) The cleaning liquid in the cylindrical basket-like washing tub may preferably be increased or decreased in pressure by a pressure change device.</p>
+<p id="p-0035" num="0033">By the change in pressure of the cleaning liquid, the cleaning liquid permeates deep into the fibers constituting the laundry article. Also, since the air contained in the fibers is removed by the change in pressure of the cleaning liquid, the cleaning liquid reliably permeates deep into the fibers. Further, since the cylindrical basket-like washing tub is filled with the cleaning liquid, a strong swirl or the like does not occur by the change in pressure of the cleaning liquid. Therefore, the laundry article is not damaged by the pressure change of the cleaning liquid.</p>
+<p id="p-0036" num="0034">That is, contaminations adhered to surfaces of the fibers as well as contaminations permeated deep into the fibers (deposited contaminations) are removed without fail. Particularly, though the contaminations permeated deep into the fibers become the cause of yellowing of the fabric when they are oxidized, the yellowing of fabrics is prevented without fail since such contaminations are removed without fail.</p>
+<p id="h-0006" num="0000">Effect of the Invention</p>
+<p id="p-0037" num="0035">According to this invention, since the surfactant permeates deep into fibers of a fabric constituting a laundry article, contaminations adhered to the laundry article is easily removed without applying a physical external force to the laundry article. Therefore, water soluble contaminations adhered to the fabric, such as sweat and mud, are reliably removed without loosing a texture of the fabric even when the laundry article is made from wool, for example, which is easily damaged. As a result, the following effects are achieved.</p>
+<p id="p-0038" num="0036">(1) It is possible to use water and an emulsified liquid in addition to an organic solvent and a petroleum solvent as a cleaning liquid. The use of the organic solvent is of course possible in this invention; however, it is possible to realize a remarkably environment-friendly commercial laundry method by refraining from using the organic and petroleum solvents.</p>
+<p id="p-0039" num="0037">(2) Since shrinkage and texture loss of fabric are prevented, even in the case of washing a clothing item constituted of a plurality of types of fabrics (typically a lounge suit formed of an outer material made of wool, an interlining cloth made from cotton, and a lining cloth made from rayon), creases due to differences in shrinkage factor of the fabrics do not occur in the clothing item. In the commercial laundry, it is generally difficult to remove the creases caused by shrinkage factor differences of fabrics, particularly creases caused by shrinkage of a sewing thread, through correction of such shrinkage, and, therefore, a high cost is incurred for a finishing work (press finishing). However, since the creases due to shrinkage factor differences are prevented according to this invention, this invention enables easier press finishing in the commercial laundry to reduce the cost of cleaning service. For instance, with the washing method of this invention, it is possible to perform washing at a cost which is 1/10 of the conventional water washing.</p>
+<p id="p-0040" num="0038">(3) Further, since the contaminations are removed due to the action of surfactant as described above, it is possible to suppress damages on fabric as compared to hand washing. Therefore, this invention enables secure washing of expensive underwear or the like made from a remarkably delicate fabric.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0007" level="1">BEST MODE FOR CARRYING OUT THE INVENTION</heading>
+<p id="p-0041" num="0039">Hereinafter, this invention will be described in detail with reference to the drawings and based on preferred embodiments.</p>
+<p id="p-0042" num="0040"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic diagram showing a washing apparatus for implementing a washing method according to one embodiment of this invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<p id="p-0043" num="0041">The washing apparatus <b>10</b> is provided with a washing tub unit <b>11</b>, a support device <b>12</b> for supporting the washing tub unit <b>11</b>, a rotation drive device <b>13</b> for rotating the washing tub unit <b>11</b> in the manner described later in this specification, a cleaning liquid supply device <b>14</b> for supplying a cleaning liquid to the washing tub unit <b>11</b> and forcibly generating a mild current of the cleaning liquid in the washing tub unit <b>11</b>, and a pressure change device <b>16</b> for changing an inside pressure of the washing tub unit <b>11</b>. Though not shown in <figref idref="DRAWINGS">FIG. 1</figref>, the washing apparatus <b>10</b> is provided with a control device for controlling operations of the rotation drive device <b>13</b>, the cleaning liquid supply device <b>14</b>, and the pressure change device <b>16</b>. Constitution of the control device will be described later in this specification.</p>
+<p id="p-0044" num="0042">The washing tub unit <b>11</b> is provided with a casing (outer casing) <b>17</b> and a frame body (cylindrical basket-like washing tub) <b>18</b>. The frame body <b>18</b> is disposed inside the casing <b>17</b> and enclosed by the casing <b>17</b>. The casing <b>17</b> may be made from a metal such as a stainless steel and an aluminum alloy. The casing <b>17</b> is provided with a door <b>20</b> disposed at its front face as shown in <figref idref="DRAWINGS">FIG. 1</figref>. The door <b>20</b> is provided with a handle <b>15</b>. A user of the washing apparatus <b>10</b> operates the handle <b>15</b> to open/close the door <b>20</b>. The front face of the casing <b>17</b> is opened/closed in a liquid tight fashion by the door <b>20</b>. After the door <b>20</b> is closed, a cleaning liquid is supplied as described later in this specification. Thus, the casing <b>17</b> is filled with the cleaning.</p>
+<p id="p-0045" num="0043">The casing <b>17</b> has the shape of a cylindrical container as shown in <figref idref="DRAWINGS">FIG. 1</figref>. Of course, the casing <b>17</b> may have a different shape. In short, it is sufficient that the casing <b>17</b> has the shape capable of being filled with the cleaning liquid and housing the frame body <b>18</b>. The door <b>20</b> of the casing <b>17</b> may be provided with a window for watching the inside of the casing <b>17</b>. A transparent acryl plate or the like may preferably be fitted to the window. The provision of such window makes it possible to watch a washing state from the outside.</p>
+<p id="p-0046" num="0044">The support device <b>12</b> is attached to the casing <b>17</b>. The support device <b>12</b> stably supports the casing <b>17</b>. The support device <b>12</b> is made from a metal such as a stainless steel and aluminum, too. The casing <b>17</b> is disposed in such a fashion that a central axis N thereof is horizontal as being supported by the support device <b>12</b>. The central axis N coincides with a central axis of the washing tub unit <b>11</b> and a central axis of the frame body <b>18</b>.</p>
+<p id="p-0047" num="0045"><figref idref="DRAWINGS">FIG. 2</figref> is a perspective view showing the frame body <b>18</b>. <figref idref="DRAWINGS">FIG. 3</figref> is a sectional view showing the frame body <b>18</b>, and <figref idref="DRAWINGS">FIG. 4</figref> is an enlarged view showing a major part of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0048" num="0046">The frame body <b>18</b> has a cylindrical shape. The frame body <b>18</b> is disposed inside the casing <b>17</b> (see <figref idref="DRAWINGS">FIG. 1</figref>). That is, the frame body <b>18</b> is fitted into the casing <b>17</b> in a nested fashion. Interior part of the frame body <b>18</b> is used as a laundry article housing chamber for housing laundry articles. The frame body <b>18</b> has a basket-like shape. More specifically, a plurality of slits <b>37</b> are provided on a periphery <b>36</b> of the frame body <b>18</b>. Each of the slits <b>37</b> penetrates through the periphery <b>36</b> of the frame body <b>18</b> in a radial direction. Therefore, the cleaning liquid supplied to the casing <b>17</b> is allowed to freely move into and out of the frame body <b>18</b>. The slits <b>37</b> extend in an axial direction of the frame body <b>18</b> as shown in <figref idref="DRAWINGS">FIG. 2</figref>. The number of the slits <b>37</b>, a width, and a length of the slits <b>37</b> are set appropriately.</p>
+<p id="p-0049" num="0047">A multiple of punching holes may be provided on the frame body <b>18</b> in place of the slits <b>37</b>. The frame body <b>18</b> may have a skeleton structure. In short, it is sufficient that the frame body <b>18</b> has the basket-like shape which allows the cleaning liquid to freely move into and out of the frame body <b>18</b>.</p>
+<p id="p-0050" num="0048">The frame body <b>18</b> is provided with a central shaft <b>19</b>. The central shaft <b>19</b> is projected from a rear end face <b>38</b> (see <figref idref="DRAWINGS">FIG. 2</figref>) of the frame body <b>18</b>. As described in the foregoing, the center of the central shaft <b>19</b> coincides with the central axis N (see <figref idref="DRAWINGS">FIG. 1</figref>). That is, the frame body <b>18</b> is disposed in the casing <b>17</b> coaxially with the casing <b>17</b>. As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the central shaft <b>19</b> of the frame body <b>18</b> is supported by a bearing (not shown). Thus, the frame body <b>18</b> rotates about the central axis N freely inside the casing <b>17</b>. The central shaft <b>19</b> is connected to a drive motor <b>23</b> described later in this specification. In this embodiment, the central shaft <b>19</b> is so supported by the bearing as to support the frame body <b>18</b> in a cantilever fashion. Note that the central shaft <b>19</b> may be provided on a door <b>15</b> of the casing <b>17</b> so that the frame body <b>18</b> is supported at opposite ends thereof.</p>
+<p id="p-0051" num="0049">As shown in <figref idref="DRAWINGS">FIGS. 2 to 4</figref>, an inner periphery (wavy patterned surface) <b>39</b> of the frame body <b>18</b> has the shape of a wavy patterned surface. The pattern is formed by forming a plurality of protruding parts <b>40</b> on the inner periphery <b>39</b> of the frame body <b>18</b>. The protruding parts <b>40</b> extend along an axial direction of the frame body <b>18</b>. In this embodiment, the multiple of protruding parts <b>40</b> are provided on the inner periphery <b>39</b> along a circumferential direction of the inner periphery <b>39</b> and at a constant interval.</p>
+<p id="p-0052" num="0050">Examples of position of the slits <b>37</b> and the shape of the inner periphery <b>39</b> are shown in <figref idref="DRAWINGS">FIG. 3</figref>. More specifically, the slits <b>37</b> are provided at 6 parts in this embodiment, and the width (length of the frame body <b>18</b> in the circumferential direction) of each of the slits <b>37</b> is decided by an angle a based on the center of the frame body <b>18</b>. In this embodiment, the angle a is 8.80 degrees. A distance (length of the frame body <b>18</b> in the circumferential direction) between adjacent slits <b>37</b> is decided by angles .beta. and .gamma. based on the center of the frame body <b>18</b>. In this embodiment, the angle .beta. is set to 55.16 degrees, and the angle .gamma. is set to 31.29 degrees.</p>
+<p id="p-0053" num="0051">The wavy shape formed by surfaces of the protruding parts <b>40</b> may be formed with a sine curve extending along the circumferential direction of the inner periphery <b>39</b>. Further, successive half-round surfaces may be formed for achieving the wavy shape. In this embodiment, a pitch p of the protruding parts is set to a predetermined proportion with respect to an inner diameter D of the frame body <b>18</b>. In the example of <figref idref="DRAWINGS">FIG. 4</figref>, the pitch p is set to from 5.0% to 15.0% of the inner diameter D. The pitch p may preferably be set to from 7% to 12% of the inner diameter D. The height h of the protruding parts <b>40</b> is set to a predetermined proportion with respect to the inner diameter D of the frame body <b>18</b>. In the example of <figref idref="DRAWINGS">FIG. 4</figref>, the height maybe set to from 3.0% to 6.0% of the inner diameter D. In this embodiment, the inner diameter D of the frame body <b>18</b> is set to more than 300 mm to less than 500 mm. The inner diameter D can be modified when so required.</p>
+<p id="p-0054" num="0052">As shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, the rotation drive device <b>13</b> has the drive motor <b>23</b>. The drive motor <b>23</b> is mounted on an end face <b>21</b> of the casing <b>17</b>. A driving shaft <b>24</b> of the drive motor <b>23</b> is coupled to the central shaft <b>19</b> of the frame body <b>18</b>. Therefore, the frame body <b>18</b> is rotated about the central axis N in the casing <b>17</b> when the drive motor <b>23</b> is activated. The frame body <b>18</b> rotates normally (in one direction) inside the casing <b>17</b> when the drive motor <b>23</b> rotates normally, and the frame body <b>18</b> rotates reversely (in the other direction) inside the casing <b>17</b> when the drive motor <b>23</b> rotates reversely. For example in an embodiment, the frame body <b>18</b> is designed to be rotated at the speed more than 60 rotations per minute and less than 120 rotations per minute. The rotation speed of the frame body <b>18</b> may be optionally designed.</p>
+<p id="p-0055" num="0053">As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the washing liquid supply device <b>14</b> is provided with a tank <b>25</b> for storing cleaning liquid, an induction pipe <b>26</b> connected to the tank <b>25</b>, a pump <b>27</b> to which the induction pipe <b>26</b> is connected, a supply pipe <b>28</b> connected to the pump <b>27</b>, a drain pipe <b>29</b> connected to the casing <b>17</b>, and a bypass pipe <b>30</b> providing connection between the drain pipe <b>29</b> and the induction pipe <b>26</b>. A pipe made from a stainless steel which is generally used is used as each of the pipes <b>26</b>, <b>28</b>, <b>29</b>, and <b>30</b>. The induction pipe <b>26</b>, the drain pipe <b>29</b>, and the bypass pipe <b>30</b> are provided with valves <b>31</b> to <b>33</b> for opening/closing the pipes. The pump <b>27</b> pumps the cleaning liquid filled in the tank <b>25</b> to supply the cleaning liquid to the casing <b>17</b> and circulates the cleaning liquid as described later in this specification. As the cleaning liquid, water or an emulsified liquid may be used. The cleaning liquid may include a surfactant. In addition, a petroleum solvent and an organic solvent may be used.</p>
+<p id="p-0056" num="0054">The cleaning liquid is temporarily withdrawn from the casing <b>17</b> when the cleaning liquid supply device <b>14</b> circulates the cleaning liquid filled in the casing <b>17</b> as described later in this specification. The withdrawn cleaning liquid is directly returned to the casing <b>17</b> with a predetermined pressure. Therefore, a current of the cleaning liquid is generated in the casing <b>17</b>. In the case where the current is strong, a swirl of the cleaning liquid in the casing <b>17</b> can be generated. However, the current of cleaning liquid in this embodiment is so mild as to prevent fabrics of clothes from being damaged even if the swirl is generated by the current of cleaning liquid. Further, as described later in this specification, the cleaning liquid current forcibly positions the laundry articles at a central part of the casing <b>17</b>. The cleaning liquid may be discharged from the casing <b>17</b> during its supply to the casing <b>17</b> in addition to the circulation in the casing <b>17</b> described above.</p>
+<p id="p-0057" num="0055">The pressure change device <b>16</b> is a cylinder piston device in this embodiment. The cylinder piston device is connected to the casing <b>17</b>. Therefore, the inside pressure of the washing tub unit <b>11</b>, i.e. the inside pressure of the casing <b>17</b>, is changed when the piston is activated. The pressure change device <b>16</b> is not limited to the cylinder piston device, and any device may be used insofar as the device changes the pressure inside the casing <b>17</b> (pressure of the cleaning liquid).</p>
+<p id="p-0058" num="0056"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic diagram showing a constitution of the control device.</p>
+<p id="p-0059" num="0057">The control device <b>50</b> controls operations of the drive motor <b>23</b> of the rotation drive device <b>13</b>, the pump <b>27</b> and the valves <b>31</b> to <b>33</b> of the cleaning liquid supply device <b>14</b>, and the pressure change device <b>16</b> and the like. Therefore, a liquid level sensor <b>75</b> is provided in the casing <b>17</b>, and a rotary encoder <b>76</b>, a rotation speed sensor <b>77</b>, and the like are provided in the frame body <b>18</b>. The liquid level sensor <b>75</b> detects an amount of the cleaning liquid in the casing <b>17</b>. The rotary encoder <b>76</b> detects a rotation angle of the frame body <b>18</b>, and the rotation speed sensor <b>77</b> detects a rotation speed of the frame body <b>18</b>.</p>
+<p id="p-0060" num="0058">The control device <b>50</b> is a microcomputer constituted mainly of a CPU (Central Processing Unit) <b>51</b>, a ROM (Read Only Memory) <b>52</b>, a RAM (Random Access Memory) <b>53</b>, and an EEPROM (Electrically Erasable and Programmable ROM) <b>54</b>. The control device <b>50</b> is connected to an ASIC (Application Specific Integrated Circuit) <b>70</b> via a bus <b>69</b>.</p>
+<p id="p-0061" num="0059">The ROM <b>52</b> stores a computer program and the like for controlling various operations of the washing apparatus <b>10</b>. The RAM <b>54</b> is used as a storage region or a work region for temporarily storing various data to be used for execution of the program by the CPU <b>51</b>. The EEPROM <b>68</b> stores settings and flags to be retained after the power is turned off.</p>
+<p id="p-0062" num="0060">The ASIC <b>70</b> generates signals and the like to be communicated to the drive motor <b>23</b> in accordance with instructions from the CPU <b>51</b>. The signals are sent to a drive circuit <b>78</b> of the drive motor <b>23</b>, and drive signals are communicated to the drive motor <b>23</b> via the drive circuit <b>78</b>. Rotation of the drive motor <b>23</b> is controlled as described above, and, as a result, the rotation of the frame body <b>18</b> is controlled. The drive circuit <b>78</b> is used for driving the drive motor <b>23</b> and generates electric signals for rotating the drive motor <b>23</b> upon reception of output signals from the ASIC <b>70</b>. The drive motor <b>23</b> rotates upon reception of the electric signals.</p>
+<p id="p-0063" num="0061">The ASIC <b>70</b> generates signals and the like to be communicated to the pump <b>27</b> in accordance with instructions from the CPU <b>51</b>. The signals are applied to a drive circuit <b>79</b> of the pump <b>27</b>, and drive signals are communicated to the pump <b>27</b> via the drive circuit <b>79</b>. Rotation of the pump <b>27</b> is controlled as described above, and, as a result, supply of the cleaning liquid to the casing <b>17</b> is controlled. The drive circuit <b>79</b> is used for driving the pump <b>27</b> and generates electric signals for rotating the pump <b>27</b> upon reception of output signals from the ASIC <b>70</b>. The pump <b>27</b> rotates upon reception of the electric signals.</p>
+<p id="p-0064" num="0062">The ASIC <b>70</b> generates signals and the like for driving the pressure change device <b>16</b> in accordance with instructions from the CPU <b>51</b>. The signals are sent to a drive circuit <b>80</b> of the pressure change device <b>16</b>, and drive signals are sent to the pressure change device <b>16</b> via the drive circuit <b>80</b>. The pressure change device <b>16</b> is controlled as described above, and, as a result, the pressure of the cleaning liquid in the casing <b>17</b> is controlled. The drive circuit <b>80</b> is used for driving the pressure change device <b>16</b> and generates electric signals for activating pressure change device <b>16</b> upon reception of output signals from the ASIC <b>70</b>. The pressure change device <b>16</b> is activated upon reception of the electric signals.</p>
+<p id="p-0065" num="0063">The ASIC <b>70</b> generates signals and the like to be communicated to the valves <b>31</b> to <b>33</b> in accordance with instructions from the CPU <b>65</b>. The signals are applied to drive circuits <b>81</b> to <b>83</b> of the valves <b>31</b> to <b>33</b>, and drive signals are communicated to the valves <b>31</b> to <b>33</b> via the drive circuits <b>81</b> to <b>83</b>. Open/close of the valves <b>31</b> to <b>33</b> are controlled as described above, and, as a result, supply/discharge of the cleaning liquid to/from the casing <b>17</b> are controlled. The drive circuits <b>81</b> to <b>83</b> are used for driving the valves <b>31</b> to <b>33</b> and generate electric signals for opening/closing the valves <b>31</b> to <b>33</b> upon reception of output signals from the ASIC <b>70</b>. The valves <b>31</b> to <b>33</b> open/close upon reception of the electric signals.</p>
+<p id="p-0066" num="0064"><figref idref="DRAWINGS">FIG. 6</figref> is a diagram schematically showing a procedure of washing by the washing apparatus <b>10</b>. The washing apparatus <b>10</b> performs washing of clothes in the following procedure.</p>
+<p id="p-0067" num="0065">As shown in <figref idref="DRAWINGS">FIG. 5(</figref><i>a</i>), clothes (laundry articles) <b>35</b> are placed in the washing tub unit <b>11</b>. More specifically, the door <b>20</b> (see <figref idref="DRAWINGS">FIG. 1)</figref> provided on the casing <b>17</b> is opened so that the clothes <b>35</b> are thrown into the inside of the frame body <b>18</b>. The work of placing the clothes <b>35</b> in the washing tub unit <b>11</b> may be performed automatically by a laundry article conveying device (not shown) or the like. In such case, the control device <b>50</b> controls operation of the laundry article conveying device. The valves <b>31</b> to <b>33</b> are closed when the clothes <b>35</b> are placed in the washing tub unit <b>11</b>. A preparation of a cleaning liquid may be performed in the tank <b>25</b> simultaneously with the work of placing the clothes <b>35</b>. Though it is possible to use water as the cleaning liquid in addition to the organic solvent and the petroleum solvent as described in the foregoing, water and a detergent are mixed as the cleaning liquid in this embodiment. Of course, water may be used as the cleaning liquid as it is.</p>
+<p id="p-0068" num="0066">As shown in <figref idref="DRAWINGS">FIG. 5(</figref><i>b</i>), the washing tub unit <b>11</b> is filled with the cleaning liquid. The cleaning liquid supply device <b>14</b> is activated to supply the cleaning liquid to the washing tub unit <b>11</b>. More specifically, the valve <b>31</b> is opened simultaneously with closure of the valves <b>32</b> and <b>33</b>, and then the pump <b>27</b> is activated. With such operations, the cleaning liquid is pumped up from the tank <b>25</b> to be supplied to the casing <b>17</b> via the induction pipe <b>26</b> and the supply pipe <b>28</b>. The pump <b>27</b> supplies the cleaning liquid until the casing <b>17</b> is filled with the cleaning liquid. That is, the cleaning liquid is supplied until the casing <b>17</b> is filled with the cleaning liquid. In this embodiment, the casing <b>17</b> is provided with the liquid level sensor <b>75</b> (not shown)(See a schematic diagram in <figref idref="DRAWINGS">FIG. 5)</figref>. The liquid level sensor <b>75</b> is used for sensing a level of the cleaning liquid supplied to the casing <b>17</b>. Examples of the liquid level sensor <b>75</b> include a sensor which directly detects the level of the cleaning liquid and a pressure sensor which detects a pressure of the cleaning liquid. Since the cleaning liquid is supplied until the casing <b>17</b> is filled with the cleaning liquid, it is preferable to use the pressure sensor as the liquid level sensor <b>75</b>.</p>
+<p id="p-0069" num="0067">The cleaning liquid filled in the casing <b>17</b> is tightly sealed. The clothes <b>35</b> are disposed in the cleaning liquid tightly sealed in the casing <b>17</b>. Therefore, a certain gravity is exerted on the clothes <b>35</b> in the frame body <b>18</b> and buoyancy corresponding to a volume of the clothes <b>35</b> and a density of the cleaning liquid are exerted on the clothes <b>35</b>. Moreover, since the casing <b>17</b> is filled with the cleaning liquid, the cleaning liquid fills up the frame body <b>18</b>. Accordingly, the clothes <b>35</b> float inside the frame body <b>18</b>. Thus, the clothes <b>35</b> float in the cleaning liquid, thereby being cleaned softly.</p>
+<p id="p-0070" num="0068">Then, as shown in <figref idref="DRAWINGS">FIG. 6(</figref><i>c</i>), the valves <b>31</b> to <b>33</b> are closed, followed by start of rotation of the washing tub unit <b>11</b>. The rotation drive device <b>13</b> (see <figref idref="DRAWINGS">FIG. 1)</figref> is activated to rotate the washing tub unit <b>11</b> about the central axis N. More specifically, the drive motor <b>23</b> of the rotation drive device <b>13</b> is activated so that the frame body <b>18</b> rotates about the central axis N inside the casing <b>17</b>. When the frame body <b>18</b> is rotated, the cleaning liquid is rotated inside the frame body <b>18</b> in a direction of the frame body rotation.</p>
+<p id="p-0071" num="0069">Since the central shaft <b>19</b> of the frame body <b>18</b> is disposed in the horizontal direction as described in the foregoing, the frame body <b>18</b> functions as a so-called front-loading design tub. As shown in <figref idref="DRAWINGS">FIGS. 2 to 5</figref>, the inner periphery <b>39</b> of the frame body <b>18</b> has the wavy patterned surface. Therefore, the cleaning liquid moves mildly to the center of the frame body <b>18</b> and moves along the axial direction from the center of the frame body <b>18</b> when the inner diameter D of the frame body <b>18</b> is set within the above-described range and the frame body <b>18</b> is rotated at the above-described rotation speed.</p>
+<p id="p-0072" num="0070">The cleaning liquid moving to the center of the fame body <b>18</b> maintains the clothes in a floating state and moves the clothes <b>35</b> away from the inner periphery <b>39</b> of the frame body <b>18</b>. Particularly, since the inner periphery <b>39</b> is formed with the wavy patterned surface, a mild current in the form of a swirl generates near the inner wall surface of the frame body <b>18</b>. This swirl like current prevents contact of the clothes <b>35</b> with the inner periphery <b>39</b> of the frame body <b>18</b>. Therefore, fabrics of the clothes <b>35</b> are prevented from being damaged during the washing. Further, the cleaning liquid moving along the axial direction from the center of the frame body <b>18</b> spreads out each of the clothes <b>35</b> inside the frame body <b>18</b>, thereby increasing a contact area of each of the clothes <b>35</b> with the cleaning liquid. Therefore, the surfactant contained in the cleaning liquid permeates deep into fibers of the fabrics constituting the clothes <b>35</b>. As a result, contaminations adhered to the clothes <b>35</b> are easily removed by the action of the surfactant without pounding or twisting of the clothes <b>35</b>.</p>
+<p id="p-0073" num="0071">When the cleaning of the clothes <b>35</b> is finished, the valve <b>32</b> is opened at the same time with closure of the valves <b>31</b> and <b>33</b> as shown in <figref idref="DRAWINGS">FIG. 6(</figref><i>d</i>).</p>
+<p id="p-0074" num="0072">In the washing method according to this embodiment, since the surfactant contained in the cleaning liquid permeates deep into the fibers of the fabrics constituting the clothes <b>35</b>, the contaminations adhered to the clothes <b>35</b> are easily removed without application of physical external forces to the clothes <b>35</b>. Moreover, the clothes <b>35</b> are washed in a floating state in the cleaning liquid. Therefore, even in the case where the clothes are made from delicate fabrics such as wool, the fabrics are not damaged. That is, the contaminations adhered to the fabrics are removed without deteriorating the shapes and the textures of the clothes <b>35</b>. Accordingly, this invention enables water washing of the clothes made from delicate fabrics such as wool and reliable removal of water-soluble contaminations such as sweat and mud adhered to the clothes. In addition, this invention has advantages that a finishing work becomes easier and creases hardly occur since the clothes <b>35</b> are free from the deterioration in shape.</p>
+<p id="p-0075" num="0073">Particularly, in this embodiment, the frame body <b>18</b> rotates about the central shaft <b>19</b> disposed horizontally. That is, inside the frame body <b>18</b>, the cleaning liquid rotates about the central axis N. Such constitution has an advantage that the cleaning liquid smoothly passes through the clothes <b>35</b>. The reason for the advantage is still unclear, but it has been confirmed that more excellent washing is realized by the above-described constitution as compared with a constitution wherein the axial center of the frame body <b>18</b> is extended in the vertical direction.</p>
+<p id="p-0076" num="0074">In this embodiment, since the inner periphery <b>39</b> of the frame body <b>18</b> is formed with the wavy patterned surface, a mild current is formed near the inner periphery <b>39</b> of the frame body <b>18</b> when the frame body <b>18</b> is rotated. Therefore, the clothes <b>35</b> are reliably prevented from contacting the frame body <b>18</b> and more gently cleaned. Moreover, due to the prevention of the contact of the clothes <b>35</b> with the frame body <b>18</b>, the clothes <b>35</b> are always positioned in the vicinity of the center of the frame body <b>18</b>. Thus, each of the clothes <b>35</b> is reliably spread out, and the surfactant acts effectively.</p>
+<p id="p-0077" num="0075">Also, in this embodiment, the wavy patterned surface formed on the inner periphery <b>39</b> of the frame body <b>18</b> is formed of the protruding parts <b>40</b> extending in the axial direction of the frame body <b>18</b> and provided along the circumferential direction at a constant interval. More specifically, a wavy and curved thin plate is disposed on the inner surface of the frame body <b>18</b>. Thus, the wavy patterned surface is formed simply and at a low cost, thereby suppressing an increase in production cost of the washing apparatus <b>10</b>.</p>
+<p id="p-0078" num="0076">In addition, it is preferable to set the height h of the protruding parts <b>40</b> to from 3.0% to 6.0% of the inner diameter D of the frame body <b>18</b>. Accordingly, the current of cleaning liquid which is remarkably mild and reliably keeps the clothes <b>35</b> away from the inner periphery <b>39</b> of the frame body <b>18</b> is generated near the inner wall surface of the frame body <b>18</b>. Thus, the contact of the clothes <b>35</b> with the inner wall surface of the frame body is more reliably prevented, and each of the clothes <b>35</b> is more reliably spread out at the central part of the frame body <b>18</b>.</p>
+<p id="p-0079" num="0077">The frame body <b>18</b> may preferably be rotated intermittently. In order to rotate the frame body <b>18</b> intermittently, the rotation of the drive motor <b>23</b> is controlled. The rotation control of the drive motor <b>23</b> is easily performed by the control device <b>50</b>. By rotating the frame body <b>18</b> intermittently, the current of cleaning liquid in the frame body <b>18</b> becomes irregular. Such rotation has the advantage that the cleaning liquid flows between fibers of the clothes <b>35</b> without fail though the cleaning liquid current flows mildly.</p>
+<p id="p-0080" num="0078">For instance, a cycle consisting of a rotation of the frame body <b>18</b> for 1 to 240 seconds, a halt for 1 to 60 seconds, and a rotation of the frame body <b>18</b> for 1 to 240 seconds is repeated. The initial rotation period of the frame body <b>18</b> may preferably be from 5 to 200 seconds, more preferably from 10 to 120 seconds, yet more preferably from 20 to 80 seconds. The halt period of the frame body <b>18</b> may be set to less than or equal to a second, for example. The rotation period after the halt of the frame body <b>18</b> may preferably be from 5 to 200 seconds, more preferably from 10 to 120 seconds, yet more preferably from 20 to 80 seconds. With such rotation cycle, the cleaning liquid more reliably flows between fibers of the clothes <b>35</b>. Therefore, it is possible to more reliably separate the contaminations adhered to the clothes <b>35</b> from the clothes <b>35</b> without damaging the clothes <b>35</b> by the washing. Of course, the initial rotation period of the frame body <b>18</b> and the rotation period after the halt of the frame body <b>18</b> may be different from each other.</p>
+<p id="p-0081" num="0079">Also, the frame body <b>18</b> may be rotated normally and reversely with regularity. More specifically, the drive motor <b>23</b> is rotated normally and reversely with regularity. Such rotation control of the drive motor <b>23</b> is easily performed by the control device <b>50</b>. With such rotation control, the cleansing liquid flows more reliably between fibers of the clothes <b>35</b>.</p>
+<p id="p-0082" num="0080">For instance, the frame body <b>18</b> may be rotated clockwise (in one direction) for 1 to 540 seconds, followed by a halt for 1 to 60 seconds, and then rotated anticlockwise (in the other direction) for 1 to 540 seconds. The clockwise rotation period of the frame body <b>18</b> may preferably be from 5 to 440 seconds, more preferably from 10 to 280 seconds, yet more preferably from 20 to 180 seconds. The halt period of the frame body <b>18</b> after the clockwise rotation may be set to less than or equal to a second, for example. The anticlockwise rotation period of the frame body <b>18</b> after the halt may preferably be from 5 to 440 seconds, more preferably from 10 to 280 seconds, yet more preferably from 20 to 180 seconds. The normal rotation and the reverse rotation are set as one cycle, and this rotation cycle is repeated. Since the frame body <b>18</b> is rotated normally and reversely, the cleaning liquid more reliably flows between fibers of the clothes <b>35</b>. Therefore, it is possible to more reliably separate the contaminations adhered to the clothes <b>35</b> from the clothes <b>35</b> without damaging the clothes <b>35</b> by the washing.</p>
+<p id="p-0083" num="0081">Though the normal rotation is set to the clockwise rotation and the reverse rotation is set to the anticlockwise rotation in the above description, the clockwise and anticlockwise rotations may of course be replaced with each other. Also, the normal rotation period and the reverse rotation period may of course be different from each other.</p>
+<p id="p-0084" num="0082">In this embodiment, the cleaning liquid in the casing <b>17</b>, i.e. the cleaning liquid in the frame body <b>18</b>, is increased or decreased in pressure by the pressure change device <b>16</b>. By the change in pressure of the cleaning liquid, the cleaning liquid permeates deep into the fibers constituting the clothes <b>35</b>. Further, since the air contained in the fibers is removed by the change in pressure of the cleaning liquid, the cleaning liquid permeates deep into the fibers without fail. Also, since the cleaning liquid is tightly sealed in the frame body <b>18</b>, the change in pressure of the cleaning liquid does not cause a strong swirl or the like in the frame body <b>18</b>. Therefore, the clothes <b>35</b> are not damaged by the pressure change of the cleaning liquid.</p>
+<p id="p-0085" num="0083">Due to the increase in pressure of the cleaning liquid, the contaminations adhered on surfaces of the fibers as well as contaminations entered deep into the fibers (contaminations deposited on the fibers) are reliably removed without damaging the clothes <b>35</b>. Particularly, the contaminations entered deep into the fibers can be the cause of yellowing of the fabrics when they are oxidized. However, since such contaminations are reliably removed, this invention has an advantage of reliable prevention of the yellowing of fabrics.</p>
+<p id="p-0086" num="0084">Further, a mild jet current of the cleaning liquid may be formed in the frame body <b>18</b> during the cleaning of the clothes <b>35</b>.</p>
+<p id="p-0087" num="0085">More specifically, the cleaning liquid supply device <b>14</b> is activated during the cleaning of the clothes <b>35</b>. As shown in <figref idref="DRAWINGS">FIG. 6(</figref><i>c</i>), when the valves <b>31</b> and <b>32</b> are closed at the same time with opening of the valve <b>33</b>, the pump <b>27</b> is activated. Thus, the cleaning liquid is withdrawn from the washing tub unit <b>11</b> to be returned to the washing tub unit <b>11</b> after passing through the bypass pipe <b>30</b> and the supply pipe <b>28</b>. In this case, a mild current of the cleaning liquid is formed in the washing tub unit <b>11</b>. Note that it is necessary that the current is considerably weak and does not cause strong twisting of the clothes <b>35</b>. Such mild current is readily formed by the control of the operation of the pump <b>27</b> by the control device <b>50</b>. The cleaning liquid more smoothly flows between fibers of the clothes <b>35</b> due to the cleaning liquid current and the cleaning liquid circulation. As a result, a superior detergency is expected.</p>
+<p id="p-0088" num="0086">The above-described mild current may be formed in the reverse direction. That is, when the valves <b>31</b> and <b>32</b> are closed at the same time with opening of the valve <b>33</b>, the pump <b>27</b> is activated in the reverse direction. Thus, the cleaning liquid is withdrawn from an upper part of the washing tub unit <b>11</b> to be returned to the washing tub unit <b>11</b> after passing through the supply pipe <b>28</b> and the bypass pipe <b>30</b>. In this case, a cleaning liquid current oriented upward from the bottom is formed in the washing tub unit <b>11</b>. Due to such cleaning liquid current, the clothes <b>35</b> are reliably positioned at the central part of the washing tub unit <b>11</b>.</p>
+<p id="p-0089" num="0087">More specifically, the clothes <b>35</b> disposed in the washing tub unit <b>11</b> are in the above-described floating state. This state is caused by the buoyancy exerted on the clothes <b>35</b>. Since certain gravity is always exerted on the clothes <b>35</b>, the clothes <b>35</b> tend to sink to the bottom (in a vertically downward direction) of the washing tub unit <b>11</b>. Due to the cleaning liquid current oriented upward from the bottom in the washing tub unit <b>11</b>, the clothes <b>35</b> are always pushed upward to be positioned at the central part of the washing tub unit <b>11</b>. Thus, the clothes <b>35</b> are reliably prevented from contacting the inner wall surface of the washing tub unit <b>11</b>, so that the clothes <b>35</b> are reliably prevented from being damaged.</p>
+<p id="p-0090" num="0088">In the case where the clothes <b>35</b> are moved to the upper part of the washing tub unit <b>11</b> due to the cleaning liquid current, the above-described cleaning liquid current oriented downward from the upper part of the washing tub unit <b>11</b> is formed to position the clothes <b>35</b> at the central part of the washing tub unit <b>11</b> again.</p>
+<p id="p-0091" num="0089">In the washing method according to this embodiment, a temperature of the cleaning liquid is not particularly limited. However, the washing apparatus <b>10</b> may be provided with a temperature adjustment device for adjusting the temperature of cleaning liquid. The temperature adjustment device may be a heater or the like disposed inside the washing tub unit <b>11</b>. Outputs from the heater may be controlled by the control device <b>50</b>. The temperature of cleaning liquid may be set to an optimum value for removing contaminations depending on the type and degree of contaminations. By adjusting the temperature of cleaning liquid, the contaminations adhered to the clothes <b>35</b> are removed rapidly and reliably.</p>
+<p id="p-0092" num="0090">Hereinafter, a modification example of this embodiment will be described.</p>
+<p id="p-0093" num="0091">Though the inner diameter D of the frame body <b>18</b> of the foregoing embodiment is set to from 300 mm to less than 500 mm, the inner diameter D of this modification example is set to 650 mm. Due to the inner diameter D of 650 mm of this modification example, it is possible to sufficiently clean a lounge suit, for example. By the larger inner diameter D of the frame body <b>18</b>, it is possible to sufficiently clean clothes <b>35</b> having large size. Therefore, by setting the inner diameter to from 500 mm to 1,000 mm, the washing method is applicable to commercial laundry. However, with the increase in the inner diameter D, an amount of the cleaning liquid to be supplied to the frame body <b>18</b> is increased. Accordingly, the optimum inner diameter for the commercial laundry is from 600 mm to 850mm. Also, the rotation speed of the frame body <b>18</b> is set to 5 to 60 rotations per minute.</p>
+<p id="p-0094" num="0092">In this embodiment, too, the cleaning liquid moves mildly to the center of the frame body <b>18</b> and moves in the axial direction from the center of the frame body <b>18</b> when the frame body <b>18</b> is rotated because the inner periphery <b>39</b> of the frame body <b>18</b> is in the form of a sine curve and by setting the size and the rotation speed of the frame body <b>18</b> within the above ranges. The cleaning liquid moving to the center of the frame body <b>18</b> maintains the clothes <b>35</b> in a floating state and keeps the clothes away from the inner periphery <b>39</b> of the frame body <b>18</b>. Therefore, as is the case with the foregoing embodiment, contact of the clothes <b>35</b> with the inner periphery <b>39</b> of the frame body <b>18</b> is prevented, so that the clothes <b>35</b> are reliably prevented from being damaged. Further, the cleaning liquid moving in the axial direction from the center of the frame body <b>18</b> spreads each of the clothes <b>35</b> inside the frame body <b>18</b>. Thus, the surfactant contained in the cleaning liquid reliably flows between fibers of the clothes <b>35</b> to separate the contaminations adhered to the clothes <b>35</b> though the flow is mild.</p>
+<p id="p-0095" num="0093">In the case where the frame body <b>18</b> is rotated at a speed of 10 or more rotations per minute, the frame body <b>18</b> may preferably be rotated normally and reversely with regularity. In the case where the frame body <b>18</b> is rotated normally and reversely with regularity, the cleaning liquid will not flow strongly in one direction inside the frame body <b>18</b> even if the frame body <b>18</b> is rotated at the high speed of 10 or more rotations per minute, and a floating state of the clothes <b>35</b> in the cleaning liquid is reliably maintained. Also, the frame body <b>18</b> may be rotated in a swinging manner like a cradle. It is possible to rotate the frame body <b>18</b> in the cradle-swinging manner easily by controlling rotation of the drive motor <b>23</b> using the control device <b>50</b>. Such rotation manner has the advantage that the clothes <b>35</b> are cleaned remarkably softly.</p>
+<heading id="h-0008" level="1">EXAMPLES</heading>
+<p id="p-0096" num="0094">Effects of this invention will hereinafter be clarified in conjunction with examples; however, this invention should not be interpreted in a limited way based on descriptions of the examples.</p>
+<p id="p-0097" num="0095">In Examples and Comparative Examples, sample pieces (wool) were washed with water. Results of Examples and Comparative Examples are shown in Tables 1 and 2. In Examples and Comparative Examples, the proportion of the height h of the protruding parts <b>40</b> (See <figref idref="DRAWINGS">FIG. 4</figref>) to the inner diameter D of the frame body <b>18</b> is represented as a drum height ratio (%) (See Tables 1 and 2), and the number of rotations of the frame body <b>18</b> means the number of rotations per minute.</p>
+<p id="p-0098" num="0096">In each of Examples and Comparative Examples, a state of the sample pieces during washing and a texture of the sample pieces after washing were observed. The state of the sample pieces during washing was evaluate by way of a degree of impact of the sample pieces on the wall of the frame body <b>18</b> and a degree of spreading of each the sample pieces in the frame body <b>18</b>. The texture of the sample pieces after washing is evaluated by way of a Dp value.</p>
+<p id="p-0099" num="0097">The Dp value means a dimensionless number calculated from a friction coefficient of a surface of each of the sample pieces and a change in friction coefficient in a certain region of the surface of the sample piece. An increase in Dp value means deterioration in texture. A Dp value of the sample pieces before washing was 143. Also, a Dp value of the sample pieces after washing with water by the use of a conventional horizontal washing machine was 185.</p>
+<heading id="h-0009" level="1">Example 1</heading>
+<p id="p-0100" num="0098">A drum inner diameter was 340 mm. A drum height ratio was 3%. A rotation direction of the frame body <b>18</b> was normal rotation. A rotation period was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 5 rotations per minute, 10 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0010" level="1">Example 2</heading>
+<p id="p-0101" num="0099">A drum inner diameter was 340 mm. A drum height ratio was 5%. A rotation direction of the frame body <b>18</b> was normal rotation. A rotation period was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 5 rotations per minute, 10 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0011" level="1">Example 3</heading>
+<p id="p-0102" num="0100">A drum inner diameter was 340 mm. A drum height ratio was 6%. A rotation direction of the frame body <b>18</b> was normal rotation. A rotation period was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 5 rotations per minute, 10 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0012" level="1">Comparative Example 1</heading>
+<p id="p-0103" num="0101">A drum inner diameter was 340 mm. A drum height ratio was 0%. A rotation direction of the frame body <b>18</b> was normal rotation. A rotation period was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 5 rotations per minute, 10 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0013" level="1">Comparative Example 2</heading>
+<p id="p-0104" num="0102">A drum inner diameter was 340 mm. A drum height ratio was 8%. A rotation direction of the frame body <b>18</b> was normal rotation. A rotation period was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 5 rotations per minute, 10 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0014" level="1">Comparative Example 3</heading>
+<p id="p-0105" num="0103">A drum inner diameter was 340 mm. A drum height ratio was 10%. A rotation direction of the frame body <b>18</b> was normal rotation. A rotation period was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 5 rotations per minute, 10 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0015" level="1">Example 4</heading>
+<p id="p-0106" num="0104">A drum inner diameter was 340 mm. A drum height ratio was 3%. The frame body <b>18</b> was rotated normally and then reversely. A rotation period of the normal rotation was 60 seconds, a halt was one second, and a rotation period of the reverse rotation was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 5 rotations per minute, 10 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0016" level="1">Example 5</heading>
+<p id="p-0107" num="0105">A drum inner diameter was 340 mm. A drum height ratio was 5%. The frame body <b>18</b> was rotated normally and then reversely. A rotation period of the normal rotation was 60 seconds, a halt was one second, and a rotation period of the reverse rotation was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 5 rotations per minute, 10 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0017" level="1">Example 6</heading>
+<p id="p-0108" num="0106">A drum inner diameter was 340 mm. A drum height ratio was 6%. The frame body <b>18</b> was rotated normally and then reversely. A rotation period of the normal rotation was 60 seconds, a halt was one second, and a rotation period of the reverse rotation was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 5 rotations per minute, 10 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0018" level="1">Comparative Example 4</heading>
+<p id="p-0109" num="0107">A drum inner diameter was 340 mm. A drum height ratio was 0%. The frame body <b>18</b> was rotated normally and then reversely. A rotation period of the normal rotation was 60 seconds, a halt was one second, and a rotation period of the reverse rotation was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 5 rotations per minute, 10 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0019" level="1">Comparative Example 5</heading>
+<p id="p-0110" num="0108">A drum inner diameter was 340 mm. A drum height ratio was 8%. The frame body <b>18</b> was rotated normally and then reversely. A rotation period of the normal rotation was 60 seconds, a halt was one second, and a rotation period of the reverse rotation was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 5 rotations per minute, 10 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0020" level="1">Comparative Example 6</heading>
+<p id="p-0111" num="0109">A drum inner diameter was 340 mm. A drum height ratio was 10%. The frame body <b>18</b> was rotated normally and then reversely. A rotation period of the normal rotation was 60 seconds, a halt was one second, and a rotation period of the reverse rotation was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 5 rotations per minute, 10 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0021" level="1">Example 7</heading>
+<p id="p-0112" num="0110">A drum inner diameter was 650 mm. A drum height ratio was 3%. A rotation direction of the frame body <b>18</b> was normal rotation. A rotation period was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 3 rotations per minute, 5 rotations per minute, 10 rotations per minute, 30 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0022" level="1">Example 8</heading>
+<p id="p-0113" num="0111">A drum inner diameter was 650 mm. A drum height ratio was 5%. A rotation direction of the frame body <b>18</b> was normal rotation. A rotation period was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 3 rotations per minute, 5 rotations per minute, 10 rotations per minute, 30 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0023" level="1">Example 9</heading>
+<p id="p-0114" num="0112">A drum inner diameter was 650 mm. A drum height ratio was 6%. A rotation direction of the frame body <b>18</b> was normal rotation. A rotation period was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 3 rotations per minute, 5 rotations per minute, 10 rotations per minute, 30 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0024" level="1">Comparative Example 7</heading>
+<p id="p-0115" num="0113">A drum inner diameter was 650 mm. A drum height ratio was 0%. A rotation direction of the frame body <b>18</b> was normal rotation. A rotation period was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 3 rotations per minute, 5 rotations per minute, 10 rotations per minute, 30 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0025" level="1">Comparative Example 8</heading>
+<p id="p-0116" num="0114">A drum inner diameter was 650 mm. A drum height ratio was 8%. A rotation direction of the frame body <b>18</b> was normal rotation. A rotation period was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 3 rotations per minute, 5 rotations per minute, 10 rotations per minute, 30 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0026" level="1">Comparative Example 9</heading>
+<p id="p-0117" num="0115">A drum inner diameter was 650 mm. A drum height ratio was 10%. A rotation direction of the frame body <b>18</b> was normal rotation. A rotation period was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 3 rotations per minute, 5 rotations per minute, 10 rotations per minute, 30 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0027" level="1">Example 10</heading>
+<p id="p-0118" num="0116">A drum inner diameter was 650 mm. A drum height ratio was 3%. The frame body <b>18</b> was rotated normally and then reversely. A rotation period of the normal rotation was 60 seconds, a halt was one second, and a rotation period of the reverse rotation was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 3 rotations per minute, 5 rotations per minute, 10 rotations per minute, 30 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0028" level="1">Example 11</heading>
+<p id="p-0119" num="0117">A drum inner diameter was 650 mm. A drum height ratio was 5%. The frame body <b>18</b> was rotated normally and then reversely. A rotation period of the normal rotation was 60 seconds, a halt was one second, and a rotation period of the reverse rotation was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 3 rotations per minute, 5 rotations per minute, 10 rotations per minute, 30 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0029" level="1">Example 12</heading>
+<p id="p-0120" num="0118">A drum inner diameter was 650 mm. A drum height ratio was 6%. The frame body <b>18</b> was rotated normally and then reversely. A rotation period of the normal rotation was 60 seconds, a halt was one second, and a rotation period of the reverse rotation was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 3 rotations per minute, 5 rotations per minute, 10 rotations per minute, 30 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0030" level="1">Comparative Example 10</heading>
+<p id="p-0121" num="0119">A drum inner diameter was 650 mm. A drum height ratio was 0%. The frame body <b>18</b> was rotated normally and then reversely. A rotation period of the normal rotation was 60 seconds, a halt was one second, and a rotation period of the reverse rotation was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 3 rotations per minute, 5 rotations per minute, 10 rotations per minute, 30 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0031" level="1">Comparative Example 11</heading>
+<p id="p-0122" num="0120">A drum inner diameter was 650 mm. A drum height ratio was 8%. The frame body <b>18</b> was rotated normally and then reversely. A rotation period of the normal rotation was 60 seconds, a halt was one second, and a rotation period of the reverse rotation was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 3 rotations per minute, 5 rotations per minute, 10 rotations per minute, 30 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<heading id="h-0032" level="1">Comparative Example 12</heading>
+<p id="p-0123" num="0121">A drum inner diameter was 650 mm. A drum height ratio was 10%. The frame body <b>18</b> was rotated normally and then reversely. A rotation period of the normal rotation was 60 seconds, a halt was one second, and a rotation period of the reverse rotation was 60 seconds. A rotation speed of the frame body <b>18</b> was changed in the order of 3 rotations per minute, 5 rotations per minute, 10 rotations per minute, 30 rotations per minute, 60 rotations per minute, and 120 rotations per minute.</p>
+<p id="p-0124" num="0122">Contents of Examples 1 to 3 and Comparative Examples 1 to 3 are shown in Table 1. Contents of Examples 4 to 6 and Comparative Examples 4 to 6 are shown in Table 2. Contents of Examples 7 to 9 and Comparative Examples 7 to 9 are shown in Table 3. Contents of Examples 10 to 12 and Comparative Examples 10 to 12 are shown in Table 4.</p>
+<p id="p-0125" num="0123">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="371pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>(Normal Drum Rotation Only)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="offset" colwidth="98pt" align="left"/>
+<colspec colname="1" colwidth="49pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Comp. Ex. 1</entry>
+<entry>Ex. 1</entry>
+<entry>Ex. 2</entry>
+<entry>Ex. 3</entry>
+<entry>Comp. Ex. 2</entry>
+<entry>Comp. Ex. 3</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="98pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<colspec colname="6" colwidth="49pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Drum Height Ratio (%)</entry>
+<entry>&#x2003;0</entry>
+<entry>&#x2003;3</entry>
+<entry>&#x2003;5</entry>
+<entry>&#x2003;6</entry>
+<entry>&#x2003;8</entry>
+<entry>&#x2002;10</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="char" char="."/>
+<colspec colname="3" colwidth="42pt" align="left"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="49pt" align="center"/>
+<colspec colname="8" colwidth="49pt" align="center"/>
+<colspec colname="9" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Number of</entry>
+<entry>5</entry>
+<entry>Degree of</entry>
+<entry>Spread wide.</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+</row>
+<row>
+<entry>Rotations</entry>
+<entry/>
+<entry>Impact and</entry>
+<entry>Tumbled on</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>the wall</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry>slowly.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>145</entry>
+<entry>145</entry>
+<entry>149</entry>
+<entry>149</entry>
+<entry>148</entry>
+<entry>149</entry>
+</row>
+<row>
+<entry/>
+<entry>10</entry>
+<entry>Degree of</entry>
+<entry>Spread wide.</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Impact and</entry>
+<entry>Tumbled on</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>the wall and</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry>gathered at</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>the center.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>146</entry>
+<entry>147</entry>
+<entry>150</entry>
+<entry>149</entry>
+<entry>147</entry>
+<entry>149</entry>
+</row>
+<row>
+<entry/>
+<entry>60</entry>
+<entry>Degree of</entry>
+<entry>Spread wide.</entry>
+<entry>Sufficiently</entry>
+<entry>Spread near</entry>
+<entry>Spread near</entry>
+<entry>Contacted with</entry>
+<entry>Pressed</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Impact and</entry>
+<entry>Contacted the</entry>
+<entry>spread at the</entry>
+<entry>the wall.</entry>
+<entry>the wall.</entry>
+<entry>the wall</entry>
+<entry>against the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>wall.</entry>
+<entry>center. No</entry>
+<entry>Tumbled</entry>
+<entry>Tumbled along</entry>
+<entry>continuously.</entry>
+<entry>wall.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry/>
+<entry>contact.</entry>
+<entry>along the</entry>
+<entry>the wall.</entry>
+<entry>Gathered</entry>
+<entry>Gathered</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>wall.</entry>
+<entry/>
+<entry>tightly.</entry>
+<entry>tightly.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>150</entry>
+<entry>159</entry>
+<entry>162</entry>
+<entry>174</entry>
+<entry>185</entry>
+<entry>183</entry>
+</row>
+<row>
+<entry/>
+<entry>120</entry>
+<entry>Degree of</entry>
+<entry>Spread wide.</entry>
+<entry>Sufficiently</entry>
+<entry>Spread at</entry>
+<entry>Tumbled along</entry>
+<entry>Pressed</entry>
+<entry>Pressed</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Impact and</entry>
+<entry>Contacted the</entry>
+<entry>spread at the</entry>
+<entry>the center.</entry>
+<entry>the wall. No</entry>
+<entry>against the</entry>
+<entry>against the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>wall</entry>
+<entry>center. No</entry>
+<entry>No contact.</entry>
+<entry>contact.</entry>
+<entry>wall.</entry>
+<entry>wall.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry>continuously.</entry>
+<entry>contact.</entry>
+<entry/>
+<entry/>
+<entry>Gathered</entry>
+<entry>Gathered</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>tightly.</entry>
+<entry>tightly.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>150</entry>
+<entry>161</entry>
+<entry>169</entry>
+<entry>173</entry>
+<entry>185</entry>
+<entry>184</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0126" num="0124">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="371pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>(Normal and Reverse Drum Rotation)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="offset" colwidth="98pt" align="left"/>
+<colspec colname="1" colwidth="49pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Comp. Ex. 4</entry>
+<entry>Ex. 4</entry>
+<entry>Ex. 5</entry>
+<entry>Ex. 6</entry>
+<entry>Comp. Ex. 5</entry>
+<entry>Comp. Ex. 6</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="98pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<colspec colname="6" colwidth="49pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Drum Height Ratio (%)</entry>
+<entry>&#x2003;0</entry>
+<entry>&#x2003;3</entry>
+<entry>&#x2003;5</entry>
+<entry>&#x2003;6</entry>
+<entry>&#x2003;8</entry>
+<entry>&#x2002;10</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="char" char="."/>
+<colspec colname="3" colwidth="42pt" align="left"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="49pt" align="center"/>
+<colspec colname="8" colwidth="49pt" align="center"/>
+<colspec colname="9" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Number of</entry>
+<entry>5</entry>
+<entry>Degree of</entry>
+<entry>Spread wide.</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+</row>
+<row>
+<entry>Rotations</entry>
+<entry/>
+<entry>Impact and</entry>
+<entry>Tumbled on</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>the wall</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry>slowly.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>145</entry>
+<entry>149</entry>
+<entry>150</entry>
+<entry>149</entry>
+<entry>150</entry>
+<entry>149</entry>
+</row>
+<row>
+<entry/>
+<entry>10</entry>
+<entry>Degree of</entry>
+<entry>Spread wide.</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Impact and</entry>
+<entry>Tumbled on</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>the wall and</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry>gathered at</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>the center.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>147</entry>
+<entry>151</entry>
+<entry>153</entry>
+<entry>149</entry>
+<entry>151</entry>
+<entry>149</entry>
+</row>
+<row>
+<entry/>
+<entry>60</entry>
+<entry>Degree of</entry>
+<entry>Spread wide.</entry>
+<entry>Sufficiently</entry>
+<entry>Spread near</entry>
+<entry>Spread near</entry>
+<entry>Pressed</entry>
+<entry>Pressed</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Impact and</entry>
+<entry>No contact.</entry>
+<entry>spread at the</entry>
+<entry>the wall.</entry>
+<entry>the wall.</entry>
+<entry>against the</entry>
+<entry>against the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry/>
+<entry>center. No</entry>
+<entry>Tumbled</entry>
+<entry>Tumbled along</entry>
+<entry>wall. Gathered</entry>
+<entry>wall.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry/>
+<entry>contact.</entry>
+<entry>along the</entry>
+<entry>the wall.</entry>
+<entry>tightly.</entry>
+<entry>Gathered</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>wall.</entry>
+<entry/>
+<entry/>
+<entry>tightly.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>155</entry>
+<entry>162</entry>
+<entry>169</entry>
+<entry>177</entry>
+<entry>188</entry>
+<entry>187</entry>
+</row>
+<row>
+<entry/>
+<entry>120</entry>
+<entry>Degree of</entry>
+<entry>Spread wide.</entry>
+<entry>Sufficiently</entry>
+<entry>Spread at</entry>
+<entry>Tumbled along</entry>
+<entry>Pressed</entry>
+<entry>Pressed</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Impact and</entry>
+<entry>Contacted the</entry>
+<entry>spread at the</entry>
+<entry>the center.</entry>
+<entry>the wall. No</entry>
+<entry>against the</entry>
+<entry>against the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>wall</entry>
+<entry>center. No</entry>
+<entry>No contact.</entry>
+<entry>contact.</entry>
+<entry>wall.</entry>
+<entry>wall.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry>continuously.</entry>
+<entry>contact.</entry>
+<entry/>
+<entry/>
+<entry>Gathered</entry>
+<entry>Gathered</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>tightly.</entry>
+<entry>tightly.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>156</entry>
+<entry>161</entry>
+<entry>169</entry>
+<entry>178</entry>
+<entry>187</entry>
+<entry>188</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0127" num="0125">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="371pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>(Normal Drum Rotation Only)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="offset" colwidth="98pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Comp. Ex. 7</entry>
+<entry>Ex. 7</entry>
+<entry>Ex. 8</entry>
+<entry>Ex. 9</entry>
+<entry>Comp. Ex. 8</entry>
+<entry>Comp. Ex. 9</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="98pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<colspec colname="6" colwidth="49pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Drum Height Ratio (%)</entry>
+<entry>&#x2003;0</entry>
+<entry>&#x2003;3</entry>
+<entry>&#x2003;5</entry>
+<entry>&#x2003;6</entry>
+<entry>&#x2003;8</entry>
+<entry>&#x2002;10</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="char" char="."/>
+<colspec colname="3" colwidth="42pt" align="left"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="49pt" align="center"/>
+<colspec colname="8" colwidth="49pt" align="center"/>
+<colspec colname="9" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Number</entry>
+<entry>3</entry>
+<entry>Degree of</entry>
+<entry>Spread</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+</row>
+<row>
+<entry>of</entry>
+<entry/>
+<entry>Impact and</entry>
+<entry>wide.</entry>
+</row>
+<row>
+<entry>Rotations</entry>
+<entry/>
+<entry>Degree of</entry>
+<entry>Tumbled on</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry>the wall</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>slowly.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>147</entry>
+<entry>145</entry>
+<entry>146</entry>
+<entry>147</entry>
+<entry>146</entry>
+<entry>147</entry>
+</row>
+<row>
+<entry/>
+<entry>5</entry>
+<entry>Degree of</entry>
+<entry>Spread</entry>
+<entry>Spread near</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>Spread near the</entry>
+<entry>&#x2190;</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Impact and</entry>
+<entry>wide.</entry>
+<entry>the wall.</entry>
+<entry/>
+<entry/>
+<entry>wall. Contacted</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>Contacted</entry>
+<entry>Tumbled along</entry>
+<entry/>
+<entry/>
+<entry>the wall.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry>the wall.</entry>
+<entry>the wall. No</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>contact.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>146</entry>
+<entry>146</entry>
+<entry>146</entry>
+<entry>149</entry>
+<entry>157</entry>
+<entry>155</entry>
+</row>
+<row>
+<entry/>
+<entry>10</entry>
+<entry>Degree of</entry>
+<entry>Spread</entry>
+<entry>Spread wide</entry>
+<entry>Spread wide</entry>
+<entry>Spread near</entry>
+<entry>Contacted the</entry>
+<entry>Pressed</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Impact and</entry>
+<entry>wide.</entry>
+<entry>at the</entry>
+<entry>at the</entry>
+<entry>the wall.</entry>
+<entry>wall</entry>
+<entry>against the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>Contacted</entry>
+<entry>center. No</entry>
+<entry>center. No</entry>
+<entry>Tumbled along</entry>
+<entry>continuously</entry>
+<entry>wall and</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry>the wall.</entry>
+<entry>contact.</entry>
+<entry>contact.</entry>
+<entry>the wall.</entry>
+<entry>and gathered.</entry>
+<entry>gathered.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>146</entry>
+<entry>147</entry>
+<entry>148</entry>
+<entry>154</entry>
+<entry>166</entry>
+<entry>171</entry>
+</row>
+<row>
+<entry/>
+<entry>30</entry>
+<entry>Degree of</entry>
+<entry>Spread</entry>
+<entry>Spread wide</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>Contacted the</entry>
+<entry>Pressed</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Impact and</entry>
+<entry>wide.</entry>
+<entry>at the</entry>
+<entry/>
+<entry/>
+<entry>wall</entry>
+<entry>against the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>Contacted</entry>
+<entry>center. No</entry>
+<entry/>
+<entry/>
+<entry>continuously.</entry>
+<entry>wall.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry>the wall.</entry>
+<entry>contact.</entry>
+<entry/>
+<entry/>
+<entry>Gathered</entry>
+<entry>Gathered</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>tightly.</entry>
+<entry>tightly.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>147</entry>
+<entry>151</entry>
+<entry>155</entry>
+<entry>154</entry>
+<entry>177</entry>
+<entry>175</entry>
+</row>
+<row>
+<entry/>
+<entry>60</entry>
+<entry>Degree of</entry>
+<entry>Spread</entry>
+<entry>Spread wide</entry>
+<entry>Spread wide</entry>
+<entry>Spread at the</entry>
+<entry>Pressed against</entry>
+<entry>Pressed</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Impact and</entry>
+<entry>wide.</entry>
+<entry>at the</entry>
+<entry>at the</entry>
+<entry>center. No</entry>
+<entry>the wall.</entry>
+<entry>against the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>Contacted</entry>
+<entry>center. No</entry>
+<entry>center. No</entry>
+<entry>contact.</entry>
+<entry>Gathered</entry>
+<entry>wall.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry>the wall.</entry>
+<entry>contact.</entry>
+<entry>contact.</entry>
+<entry/>
+<entry>tightly.</entry>
+<entry>Gathered</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>tightly.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>146</entry>
+<entry>160</entry>
+<entry>166</entry>
+<entry>165</entry>
+<entry>181</entry>
+<entry>182</entry>
+</row>
+<row>
+<entry/>
+<entry>120</entry>
+<entry>Degree of</entry>
+<entry>Spread</entry>
+<entry>Spread wide.</entry>
+<entry>Spread</entry>
+<entry>Tumbled along</entry>
+<entry>Pressed against</entry>
+<entry>Pressed</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Impact and</entry>
+<entry>wide.</entry>
+<entry>Contacted the</entry>
+<entry>wide.</entry>
+<entry>the wall.</entry>
+<entry>the wall.</entry>
+<entry>against the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>Contacted</entry>
+<entry>wall.</entry>
+<entry>Contacted</entry>
+<entry>Contacted the</entry>
+<entry>Gathered</entry>
+<entry>wall.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry>the wall.</entry>
+<entry/>
+<entry>the wall.</entry>
+<entry>wall.</entry>
+<entry>tightly.</entry>
+<entry>Gathered</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>tightly.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>152</entry>
+<entry>173</entry>
+<entry>175</entry>
+<entry>179</entry>
+<entry>185</entry>
+<entry>184</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0128" num="0126">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="378pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>(Normal and Reverse Drum Rotation)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="offset" colwidth="98pt" align="left"/>
+<colspec colname="1" colwidth="49pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<colspec colname="6" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Comp. Ex. 10</entry>
+<entry>Ex. 10</entry>
+<entry>Ex. 11</entry>
+<entry>Ex. 12</entry>
+<entry>Comp. Ex. 11</entry>
+<entry>Comp. Ex. 12</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="98pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="49pt" align="center"/>
+<colspec colname="7" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Drum Height Ratio (%)</entry>
+<entry>&#x2003;0</entry>
+<entry>&#x2003;3</entry>
+<entry>&#x2003;5</entry>
+<entry>&#x2003;6</entry>
+<entry>&#x2003;8</entry>
+<entry>&#x2002;10</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="char" char="."/>
+<colspec colname="3" colwidth="42pt" align="left"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<colspec colname="8" colwidth="49pt" align="center"/>
+<colspec colname="9" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Number</entry>
+<entry>3</entry>
+<entry>Degree of</entry>
+<entry>Contacted the</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+</row>
+<row>
+<entry>of</entry>
+<entry/>
+<entry>Impact and</entry>
+<entry>wall. Tumbled</entry>
+</row>
+<row>
+<entry>Rotations</entry>
+<entry/>
+<entry>Degree of</entry>
+<entry>on the wall</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry>slowly.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>146</entry>
+<entry>145</entry>
+<entry>146</entry>
+<entry>147</entry>
+<entry>146</entry>
+<entry>147</entry>
+</row>
+<row>
+<entry/>
+<entry>5</entry>
+<entry>Degree of</entry>
+<entry>Spread wide.</entry>
+<entry>Spread near</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>Spread near the</entry>
+<entry>&#x2190;</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Impact and</entry>
+<entry>Tumbled on</entry>
+<entry>the wall.</entry>
+<entry/>
+<entry/>
+<entry>wall. Contacted</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>the wall.</entry>
+<entry>Tumbled along</entry>
+<entry/>
+<entry/>
+<entry>the wall.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry/>
+<entry>the wall. No</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>contact.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>147</entry>
+<entry>147</entry>
+<entry>146</entry>
+<entry>149</entry>
+<entry>160</entry>
+<entry>158</entry>
+</row>
+<row>
+<entry/>
+<entry>10</entry>
+<entry>Degree of</entry>
+<entry>Spread wide.</entry>
+<entry>Spread wide</entry>
+<entry>Spread wide</entry>
+<entry>Spread near</entry>
+<entry>Contacted the</entry>
+<entry>Pressed</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Impact and</entry>
+<entry>Tumbled on</entry>
+<entry>at the</entry>
+<entry>at the</entry>
+<entry>the wall.</entry>
+<entry>wall</entry>
+<entry>against the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>the wall.</entry>
+<entry>center. No</entry>
+<entry>center. No</entry>
+<entry>Tumbled</entry>
+<entry>continuously</entry>
+<entry>wall and</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry/>
+<entry>contact.</entry>
+<entry>contact.</entry>
+<entry>along the</entry>
+<entry>and gathered.</entry>
+<entry>gathered.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>wall.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>148</entry>
+<entry>146</entry>
+<entry>148</entry>
+<entry>152</entry>
+<entry>174</entry>
+<entry>175</entry>
+</row>
+<row>
+<entry/>
+<entry>30</entry>
+<entry>Degree of</entry>
+<entry>Spread wide.</entry>
+<entry>Spread wide</entry>
+<entry>&#x2190;</entry>
+<entry>&#x2190;</entry>
+<entry>Contacted the</entry>
+<entry>Pressed</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Impact and</entry>
+<entry>Contacted the</entry>
+<entry>at the</entry>
+<entry/>
+<entry/>
+<entry>wall</entry>
+<entry>against the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>wall.</entry>
+<entry>center. No</entry>
+<entry/>
+<entry/>
+<entry>continuously.</entry>
+<entry>wall.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry/>
+<entry>contact.</entry>
+<entry/>
+<entry/>
+<entry>Gathered</entry>
+<entry>Gathered</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>tightly.</entry>
+<entry>tightly.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>148</entry>
+<entry>150</entry>
+<entry>154</entry>
+<entry>154</entry>
+<entry>180</entry>
+<entry>180</entry>
+</row>
+<row>
+<entry/>
+<entry>60</entry>
+<entry>Degree of</entry>
+<entry>Spread wide.</entry>
+<entry>Spread well</entry>
+<entry>Spread wide</entry>
+<entry>Spread wide</entry>
+<entry>Contacted the</entry>
+<entry>Pressed</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Impact and</entry>
+<entry>Contacted the</entry>
+<entry>at the</entry>
+<entry>at the</entry>
+<entry>at the</entry>
+<entry>wall</entry>
+<entry>against the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>wall.</entry>
+<entry>center. No</entry>
+<entry>center. No</entry>
+<entry>center. No</entry>
+<entry>continuously.</entry>
+<entry>wall.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry/>
+<entry>contact.</entry>
+<entry>contact.</entry>
+<entry>contact.</entry>
+<entry>Gathered</entry>
+<entry>Gathered</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>tightly.</entry>
+<entry>tightly.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>146</entry>
+<entry>160</entry>
+<entry>161</entry>
+<entry>163</entry>
+<entry>182</entry>
+<entry>182</entry>
+</row>
+<row>
+<entry/>
+<entry>120</entry>
+<entry>Degree of</entry>
+<entry>Spread wide.</entry>
+<entry>Spread wide</entry>
+<entry>Spread at</entry>
+<entry>Tumbled</entry>
+<entry>Pressed against</entry>
+<entry>Pressed</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Impact and</entry>
+<entry>Contacted the</entry>
+<entry>at the</entry>
+<entry>the center.</entry>
+<entry>along the</entry>
+<entry>the wall.</entry>
+<entry>against the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Degree of</entry>
+<entry>wall.</entry>
+<entry>center.</entry>
+<entry>Contacted</entry>
+<entry>wall.</entry>
+<entry>Gathered</entry>
+<entry>wall.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Spread</entry>
+<entry/>
+<entry>Contacted the</entry>
+<entry>the wall.</entry>
+<entry>Contacted</entry>
+<entry>tightly.</entry>
+<entry>Gathered</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>wall.</entry>
+<entry/>
+<entry>the wall.</entry>
+<entry/>
+<entry>tightly.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Texture (Dp)</entry>
+<entry>148</entry>
+<entry>173</entry>
+<entry>176</entry>
+<entry>181</entry>
+<entry>188</entry>
+<entry>187</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0129" num="0127">As shown in Tables 1 and 2, when the inner diameter D of the frame body <b>18</b> was 340 mm, the sample pieces were washed in the remarkably gentle manner in each of the case where the frame body <b>18</b> was normally rotated and the case where the frame body <b>18</b> was normally rotated and then reversely rotated insofar as the drum height ratio was set to from 3% to 6% and the rotation speed was set to from 60 to 120 rotations per minute. Note that it was difficult to clean contaminations of the sample pieces when the rotation speed of the frame body <b>18</b> was 10 rotations per minute or less and the drum height ratio was 0%.</p>
+<p id="p-0130" num="0128">As shown in Tables 3 and 4, when the inner diameter D of the frame body <b>18</b> was 650 mm, the sample pieces were washed in the remarkably gentle manner in each of the case where the frame body <b>18</b> was normally rotated and the case where the frame body <b>18</b> was normally rotated and then reversely rotated insofar as the drum height ratio was set to from 3% to 6% and the rotation speed was set to from 5 to 60 rotations per minute. Note that it was difficult to clean contaminations of the sample pieces when the rotation speed of the frame body <b>18</b> was 5 or less rotations per minute and the drum height ratio was 0%. Also, in Comparative Examples 8, 9, 11, and 12, the texture of the sample pieces was not lost in the case where the rotation speed of the frame body <b>18</b> was 10 or less rotations per minute, but the texture can be deteriorated by actual washing since the sample pieces continuously contacted the frame body <b>18</b>. Further, as is apparent from Tables 3 and 4, in the case of the rotation speed of 10 or more rotations per minute, deterioration in texture of the sample pieces was more reliably prevented when the frame body <b>18</b> was rotated normally and reversely.</p>
+<heading id="h-0033" level="1">INDUSTRIAL APPLICABILITY</heading>
+<p id="p-0131" num="0129">This invention is applicable to a method for washing clothes and the like.</p>
+<heading id="h-0034" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0132" num="0130"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic diagram showing a washing apparatus to be used for implementing a washing method according to one embodiment of this invention.</p>
+<p id="p-0133" num="0131"><figref idref="DRAWINGS">FIG. 2</figref> is a perspective view showing a frame body of a washing apparatus according to the embodiment of this invention.</p>
+<p id="p-0134" num="0132"><figref idref="DRAWINGS">FIG. 3</figref> is a sectional view showing the frame body of the washing apparatus according to the embodiment of this invention.</p>
+<p id="p-0135" num="0133"><figref idref="DRAWINGS">FIG. 4</figref> is an enlarged view showing a major part of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0136" num="0134"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic diagram showing a constitution of a control device of the washing apparatus according to the embodiment of this invention.</p>
+<p id="p-0137" num="0135"><figref idref="DRAWINGS">FIG. 6</figref> is a diagram schematically showing a procedure of washing by the washing apparatus according to the embodiment of this invention.</p>
+<p id="p-0138" num="0136">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Reference Numerals</entry>
+</row>
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="133pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>N:</entry>
+<entry>center</entry>
+</row>
+<row>
+<entry/>
+<entry>10:</entry>
+<entry>washing apparatus</entry>
+</row>
+<row>
+<entry/>
+<entry>11:</entry>
+<entry>washing tub unit</entry>
+</row>
+<row>
+<entry/>
+<entry>12:</entry>
+<entry>support device</entry>
+</row>
+<row>
+<entry/>
+<entry>13:</entry>
+<entry>rotation drive device</entry>
+</row>
+<row>
+<entry/>
+<entry>14:</entry>
+<entry>cleaning liquid supply device</entry>
+</row>
+<row>
+<entry/>
+<entry>16:</entry>
+<entry>pressure change device</entry>
+</row>
+<row>
+<entry/>
+<entry>17:</entry>
+<entry>casing</entry>
+</row>
+<row>
+<entry/>
+<entry>18:</entry>
+<entry>frame body</entry>
+</row>
+<row>
+<entry/>
+<entry>19:</entry>
+<entry>central shaft</entry>
+</row>
+<row>
+<entry/>
+<entry>21:</entry>
+<entry>end face</entry>
+</row>
+<row>
+<entry/>
+<entry>23:</entry>
+<entry>drive motor</entry>
+</row>
+<row>
+<entry/>
+<entry>24:</entry>
+<entry>drive shaft</entry>
+</row>
+<row>
+<entry/>
+<entry>25:</entry>
+<entry>tank</entry>
+</row>
+<row>
+<entry/>
+<entry>26:</entry>
+<entry>induction pipe</entry>
+</row>
+<row>
+<entry/>
+<entry>27:</entry>
+<entry>pump</entry>
+</row>
+<row>
+<entry/>
+<entry>28:</entry>
+<entry>supply pipe</entry>
+</row>
+<row>
+<entry/>
+<entry>29:</entry>
+<entry>drain pipe</entry>
+</row>
+<row>
+<entry/>
+<entry>30:</entry>
+<entry>bypass pipe</entry>
+</row>
+<row>
+<entry/>
+<entry>31:</entry>
+<entry>valve</entry>
+</row>
+<row>
+<entry/>
+<entry>32:</entry>
+<entry>valve</entry>
+</row>
+<row>
+<entry/>
+<entry>33:</entry>
+<entry>valve</entry>
+</row>
+<row>
+<entry/>
+<entry>35:</entry>
+<entry>clothes</entry>
+</row>
+<row>
+<entry/>
+<entry>36:</entry>
+<entry>periphery</entry>
+</row>
+<row>
+<entry/>
+<entry>37:</entry>
+<entry>slit</entry>
+</row>
+<row>
+<entry/>
+<entry>38:</entry>
+<entry>rear end</entry>
+</row>
+<row>
+<entry/>
+<entry>39:</entry>
+<entry>inner periphery</entry>
+</row>
+<row>
+<entry/>
+<entry>40:</entry>
+<entry>protruded part</entry>
+</row>
+<row>
+<entry/>
+<entry>50:</entry>
+<entry>control device</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A washing method using a washing apparatus comprising an outer casing in which a cleaning liquid is contained and a cylindrical basket-like washing tub of which a central rotating shaft is disposed in a horizontal direction in said outer casing, and wherein said cylindrical basket-like washing tub has plural protruding portions extending at an inner surface along its axial direction and protruding from said inner surface of said cylindrical basket-like washing tub towards the center of said cylindrical basket-like washing tub, said method comprising:
+<claim-text>a step of placing a laundry article to be washed in said cylindrical basket-like washing tub;</claim-text>
+<claim-text>a step of introducing said cleaning liquid into said casing and said cylindrical basket-like washing tub to completely fill said basket-like washing tub with said cleaning liquid; and</claim-text>
+<claim-text>a step of rotating said cylindrical basket-like washing tub, thereby washing said laundry article in such manner that cleaning liquid flow moving from said inner surface of said cylindrical basket-like washing tub toward the center of said cylindrical basket-like washing tub is generated by said protruding portions accompanied by rotation of said cylindrical basket-like washing tub, thereby causing said laundry article in said cylindrical basket-like washing tub to spread out in said cleaning liquid while keeping said laundry article out of contact with said inner surface of said cylindrical basket-like washing tub.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The washing method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said protruding portions have a wavy patterned cross section along a circumferential direction of said cylindrical basket-like washing tub.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The washing method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein, in said step of rotating said washing tub in order to wash said laundry article, said cylindrical basket-like washing tub is rotated normally and reversely with regularity for washing.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The washing method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said protruding portions are provided on said inner surface of the cylindrical basket-like washing tub at a constant interval along the circumferential direction of the cylindrical basket-like washing tub.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The washing method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein, in said step of rotating said washing tub in order to wash said laundry article, said cylindrical basket-like washing tub is rotated intermittently.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The washing method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein, in said step for rotating said washing tub in order to wash said laundry article, said cleaning liquid in said cylindrical basket-like washing tub is controlled so as to be increased or decreased in pressure by a pressure change device.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

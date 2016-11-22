@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640746-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640746</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11440493</doc-number>
+<date>20060525</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>402</us-term-extension>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>60</class>
+<subclass>K</subclass>
+<main-group>16</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 606418</main-classification>
+<further-classification> 60653</further-classification>
+<further-classification> 60677</further-classification>
+<further-classification> 60679</further-classification>
+</classification-national>
+<invention-title id="d0e55">Method and system integrating solar heat into a regenerative rankine steam cycle</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3995429</doc-number>
+<kind>A</kind>
+<name>Peters</name>
+<date>19761200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4069674</doc-number>
+<kind>A</kind>
+<name>Warren</name>
+<date>19780100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4164123</doc-number>
+<kind>A</kind>
+<name>Smith</name>
+<date>19790800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 6064111</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4192144</doc-number>
+<kind>A</kind>
+<name>Pierce</name>
+<date>19800300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4613409</doc-number>
+<kind>A</kind>
+<name>Volland</name>
+<date>19860900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5444972</doc-number>
+<kind>A</kind>
+<name>Moore</name>
+<date>19950800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5727379</doc-number>
+<kind>A</kind>
+<name>Cohn</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5806317</doc-number>
+<kind>A</kind>
+<name>Kohler et al.</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5857322</doc-number>
+<kind>A</kind>
+<name>Cohn</name>
+<date>19990100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6694740</doc-number>
+<kind>B2</kind>
+<name>Nayar</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6792759</doc-number>
+<kind>B2</kind>
+<name>Rollins</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00012">
+<othercit>12th Solar PACES International Symposium, Mexico 2004 Plug-In Strategy for Market Introduction of Fresnel Collectors, Lurchenmuller et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00013">
+<othercit>&#x201c;Stanwell Solar Thermal Power Project&#x201d; by Burbidge, et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>13</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 606418</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60643</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60677-680</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60653</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>2</number-of-drawing-sheets>
+<number-of-figures>2</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60684845</doc-number>
+<kind>00</kind>
+<date>20050527</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060266039</doc-number>
+<kind>A1</kind>
+<date>20061130</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Skowronski</last-name>
+<first-name>Mark Joseph</first-name>
+<address>
+<city>San Clemente</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kincaid</last-name>
+<first-name>Ronald Farris</first-name>
+<address>
+<city>Los Alamitos</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Knobbe Martens Olson &#x26; Bear, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Markon Technologies, LLC</orgname>
+<role>02</role>
+<address>
+<city>Los Alamitos</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Nguyen</last-name>
+<first-name>Hoang M</first-name>
+<department>3748</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method to integrate collected solar thermal energy into the feedwater system of a Rankine cycle power plant is disclosed. This novelty uses a closed loop, single phase fluid system to collect both the solar heat and to provide the heat input into the feedwater stream of a regenerative Rankine cycle. One embodiment of this method of integrating solar energy into a regenerative Rankine power plant cycle, such as a coal power plant, allows for automatic balancing of the steam extraction flows and does not change the temperature of the feedwater to the boiler. The concept, depending on the application, allows for the spare turbine capacity normally available in a coal plant to be used to produce incremental capacity and energy that is powered by solar thermal energy. By &#x201c;piggybacking&#x201d; on the available components and infrastructure of the host Rankine cycle power plant, considerable cost savings are achieved resulting in lower solar produced electricity costs.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="182.37mm" wi="228.01mm" file="US07640746-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="233.51mm" wi="191.52mm" orientation="landscape" file="US07640746-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="229.11mm" wi="185.93mm" orientation="landscape" file="US07640746-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims the benefits of the U.S. Provisional Patent Application No. 60/684,845 entitled &#x201c;Method To Integrate Solar Thermal With A Coal Fired Rankine Cycle&#x201d; filed on May 27, 2005. This provisional application is incorporated by reference herein in its entirety.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">REFERENCES CITED</heading>
+<heading id="h-0003" level="1">U.S. Patent Documents</heading>
+<p id="p-0003" num="0002">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="133pt" align="center"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<thead>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>3,995,429</entry>
+<entry>Rollins</entry>
+</row>
+<row>
+<entry>4,069,674</entry>
+<entry>Warren</entry>
+</row>
+<row>
+<entry>4,192,144</entry>
+<entry>Pierce</entry>
+</row>
+<row>
+<entry>4,613,409</entry>
+<entry>Volland</entry>
+</row>
+<row>
+<entry>5,444,972</entry>
+<entry>Moore</entry>
+</row>
+<row>
+<entry>5,727,379</entry>
+<entry>Cohn</entry>
+</row>
+<row>
+<entry>5,806,317</entry>
+<entry>Kohler, et al</entry>
+</row>
+<row>
+<entry>5,857,322</entry>
+<entry>Cohn</entry>
+</row>
+<row>
+<entry>6,792,759</entry>
+<entry>Rollins</entry>
+</row>
+<row>
+<entry>6,694,740</entry>
+<entry>Nayar</entry>
+</row>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0004" level="1">TECHNICAL PAPERS AND PUBLICATIONS</heading>
+<p id="h-0005" num="0000">12<sup>th </sup>SolarPACES Intern. Symposium, Mexico 2004 &#x201c;Plug-In Strategy for Market Introduction of Fresnel Collectors&#x201d;, Lurchenmuller et al</p>
+<p id="h-0006" num="0000">&#x201c;Stanwell Solar Thermal Power Project&#x201d; by Burbidge, et al</p>
+<heading id="h-0007" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0004" num="0003">This invention pertains to the electric power generation field wherein large utility size power plants are used to generate the nation's electricity. The ever increasing cost of fossil fuels will not abate since fossil fuels have a finite limit and, as the finite quantity decreases with use, the growing demand for electricity will ultimately lead to significantly higher electricity costs. This invention utilizes the sun to provide supplemental heat into a conventional Rankine cycle. A major advantage of this novelty is that it &#x201c;piggybacks&#x201d; on the existing components and infrastructure of the new or existing Rankine cycle power plant. This piggybacking results in significant cost reduction since a solar boiler, solar feedwater train and solar steam turbine-generator are not needed; these components are supplied in the Rankine cycle instead and convert the solar supplied heat into electricity resulting in a significant reduction in the cost of solar produced electricity.</p>
+<p id="p-0005" num="0004">In addition, the novelty is particularly well suited to supply supplemental solar heat to a coal regenerative Rankine cycle since this type of coal plant often has surplus capacity in its steam turbine generator and associated equipment. This surplus capacity is normally installed since the valving out of a feedwater heater for maintenance or unexpected outage will result in a higher capacity steam flow through the steam turbine and the operators of the plant would then have the extra turbine capacity to handle the excess steam flow. By having this surplus capacity, the Rankine cycle can then produce greater amounts of generation. However, there is a detrimental impact on the heat rate (efficiency) when a feedwater heater is valved out. The novelty proposed herein supplements the heat input into the Rankine cycle such that this inefficiency is essentially eliminated. The type of novelty proposed herein is best suited for large scale Rankine cycle power plants that utilize regenerative feedwater stream and are typically in the 100 MW and greater size range.</p>
+<heading id="h-0008" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0006" num="0005">The concept of integrating a solar thermal power plant into a fossil fuel power plant has previously been investigated; in these investigations, solar heat was used to preheat feedwater through evaporation of the feedwater or the feedwater is bifurcated resulting in a portion of the feedwater stream to be heated with extraction steam and the remaining feedwater stream heated by solar means. For example, Cohn U.S. Pat. No. 5,727,379 teaches that solar heat is used to evaporate the feedwater prior to boiler entrance. This method would then require an expensive solar boiler and is not applicable to a Rankine cycle using regenerative heating. Warren U.S. Pat. No. 4,069,674 teaches that the feedwater is bifurcated immediately at the condenser hotwell resulting in high temperature solar being used to heat relatively cold feedwater resulting in high entropic losses. Thermodynamically, it is always preferable to add heat at the highest possible temperature. In addition, current technology being explored uses solar heat to evaporate water into steam which is then used to directly provide energy to a feedwater heater. This type of technology results in complex and costly equipment when compared to the novelty proposed.</p>
+<p id="p-0007" num="0006">While all of these methods provide some sort of value addition, they all have certain thermodynamic restrictions and cost disadvantages. The following concept proposes a novelty that is more cost effective and energy efficient than any of the previously studied integration methods and poses less capital and less operational risk to the host regenerative steam cycle power plant. The concept can be used for new installations or can be easily retrofitted into existing regenerative Rankine power cycles such as coal plants. In particular, the southwest United States has numerous coal plants that are located in isolated areas that have high solar insolation that are prime candidates for solar thermal retrofit. This method may also be used for other fossil fueled (including natural gas) or nuclear fueled boiler scenarios and most other regenerative steam Rankine power cycles.</p>
+<p id="p-0008" num="0007">For purposes of illustration, this novelty is discussed herein as applied to a coal plant. Nearly all large coal plants use both reheat and regeneration to achieve high cycle efficiency. Reheat can be defined as returning steam, which has been partially expanded in the turbine, back to the boiler for additional heating prior to continued expansion in the turbine. Regeneration is a method to limit condenser loss in a Rankine cycle by taking partially expanded steam (extracted from the steam turbine) and using it to pre-heat the feedwater prior to additional heating and vaporization in the boiler. By pre-heating the feedwater, less heat energy is needed in the boiler to produce steam and, since the partially expanded steam is condensed using feedwater as the &#x201c;heat sink&#x201d;, less heat is rejected to the condenser. Regeneration can be accomplished using either &#x201c;open&#x201d; or &#x201c;closed&#x201d; feedwater heaters. In the &#x201c;open&#x201d; feedwater heater, the extracted steam from the turbine is mixed directly with the feedwater; in the &#x201c;closed&#x201d; feedwater heater, the extraction steam is not mixed with the feedwater but uses both sensible and latent heat in normally a tube and shell feedwater heater to boost the feedwater temperature.</p>
+<p id="p-0009" num="0008">This novelty achieves lower solar power electricity costs by utilizing the existing power plant components and infrastructure, primarily the turbine and generator of the Rankine cycle power plant. A solar boiler is also not necessary since all solar heat is directly transferred to the Rankine cycle via a common fluid that is used for both solar heat collection and heating the feedwater stream in the Rankine cycle.</p>
+<heading id="h-0009" level="1">SUMMARY OF TH INVENTION</heading>
+<p id="p-0010" num="0009">The proposed concept uses a &#x201c;closed&#x201d; feedwater heater system to heat the feedwater directly with collected solar thermal energy and without the additional steam conversion process typically found in other studied solar Rankine integration methods. A common single phase heat transfer fluid is used in a sensible heat transfer process to both collect the solar heat energy and to add heat into the feedwater stream of the coal plant thus supplanting a portion of the turbine extraction steam used to pre-heat the feedwater. The additional feedwater heater which is heated with solar energy is added either serially or in parallel to the conventional feedwater heaters that use extraction steam to heat the feedwater. In this manner, the extracted steam from the turbine is reduced but the boiler still receives the feedwater at the same temperature as before. Accordingly, the amount of turbine output is increased because more steam is now directed through the turbine and the overall efficiency remains high because there is no degradation in the feedwater temperature. Typically, there are sufficient margins in the turbine generator of a coal regenerative steam cycle to allow an increase in capacity output resulting from an increase in steam flow through the turbine; typically these margins are in the order of 5% to 10% of additional generating capacity which would then be available to provide the additional generation when the Rankine cycle is augmented with solar heat. This increase in steam turbine flow would result from the reduction in extraction steam flows since solar heat is now replacing a portion of the extracted steam used for feedwater heating. Consequently, the direct heating of the feedwater through solar thermal energy will allow an increase in turbine output in new facilities where the extra steam turbine capacity is designed into the plant or at existing facilities where there are additional margins in the steam turbine. In existing facilities where there is no spare capacity in the steam turbine, the solar heat will still displace fossil fuel.</p>
+<p id="p-0011" num="0010">The proposed novelty can be used to input solar heat in an added feedwater heater that is located downstream of the last feedwater heater (in a retrofit application) and have the potential, if so desired by the coal plant operators, to increase the feedwater temperature to the boiler (typically, this is the economizer section of the boiler). Alternately, the solar heat input can be made through a feedwater heater that is added in between two feedwater heaters that are heated with extraction steam. In this embodiment, the solar heat input into the feedwater stream can be varied by temperature and flow and, accordingly, the steam extraction heaters downstream of the solar feedwater heater will auto adjust to maintain the design feedwater temperature. This is achieved by the extraction steam flow auto adjusting based on the operating pressure and temperature of the feedwater heater.</p>
+<p id="p-0012" num="0011">Given the second law of thermodynamics, it is always beneficial to heat a working fluid at the highest possible temperature. Consequently it proposed that mainly the 1<sup>st </sup>point heater be the primary source for supplemental solar heat; the 1<sup>st </sup>point heater (last heater in the feedwater train) is operated at the highest pressure and is used to achieve heat addition to the feedwater at the highest temperature. The solar added feedwater heater can be placed either upstream or downstream of the 1<sup>st </sup>point heater. If downstream, then the novelty has the ability to adjust the temperature of the feedwater that is directed to the boiler (economizer). If upstream, then the novelty can input variable solar heat resulting in the auto adjust of the extraction steam for all heaters downstream of the solar heater. For additional turbine capacity increase or to offset fossil fuel consumption, additional heaters could be used, however, this novelty proposes the solar direct heating of feedwater that is downstream of the boiler feed pump in order to maintain high efficiency.</p>
+<p id="p-0013" num="0012">It is noted that all of the feedwater heating in the proposed concept is provided by solar sensible heat. Accordingly, there is higher solar system efficiency since no heat of evaporation (latent heat) is solar provided; this allows heat transfer with smaller temperature differences than otherwise would be realized if the solar heat was used for evaporation also. The heat of evaporation for the Rankine cycle occurs in the fossil fueled boiler and, consequently, entropic losses associated with this flashing are already accounted for in the fossil fueled Rankine cycle. The use of solar provided sensible heat to an existing Rankine cycle is an advantage compared to a solar cycle which must provide its own latent heat for flashing.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0010" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 1</figref> shows the embodiment that has the solar added feedwater heater downstream of the last extraction steam feedwater heater (at the end of the regenerative feedwater train); in this embodiment, the feedwater temperature into the boiler can be varied.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 2</figref> shows the embodiment that has the solar added feedwater heater upstream of the last extraction steam feedwater heater; in this embodiment, the solar heat input, through control of the solar heat collection fluid flow and temperature, can be varied.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0011" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENT</heading>
+<p id="p-0016" num="0015">Referring to <figref idref="DRAWINGS">FIG. 1</figref>, solar heat is collected with trough technology or other suitable solar concentrating heat collection devices. Using the solar trough technology (which can be substituted with other high temperature solar heating devices), the sun's energy is &#x201c;line&#x201d; focused on a Heat Collection Element (HCE). The HCE is essentially a specially designed pipe that contains a fluid suitable for the collection of high temperature heat. Once the sun's energy has been focused and concentrated on the HCE, the energy is collected in the high temperature collection fluid <b>4</b> that is typically special oil designed to withstand high temperatures. Current technology limits this temperature to about 730-750 F. The hot oil is then pumped into a Hot Oil Storage (optional) that would provide both storage for extended operation or storage that would allow for higher outputs of thermal energy for shorter durations. The Hot Oil Storage also provides a buffer to smooth out heat spikes and heat loss from the solar collectors. Once the heat has been delivered to the storage or to the feedwater train of the steam Rankine cycle, the oil <b>5</b> is then returned to the solar collector for reheating. The storage system can consist of a single tank using thermocline storage technology or also consist of two tanks; one specially designated for &#x201c;hot&#x201d; oil and the other specially designated for &#x201c;cold&#x201d; oil in order to ensure even flow delivery to the solar collector field. The hot oil storage may also be designed through additional length and oversized transfer piping to the solar feedwater heater. In this manner, the amount of heat transfer fluid in the pipeline provides the necessary storage.</p>
+<p id="p-0017" num="0016">The hot oil <b>6</b> fed from the Hot Oil Storage Tank is then directed to a new feedwater heater X that provides heat in addition to or in substitution for the heat provided by the steam extraction <b>8</b> to the upstream heater. Typically, the hot oil would be on the &#x201c;shell side&#x201d; of the feedwater heater X and the feedwater, because it would be at a much higher pressure, would be on the &#x201c;tube side&#x201d; of the feedwater heater. It is anticipated that most retrofit applications would consist of substituting heat provided by the hot oil <b>6</b> for the high pressure extraction steam <b>8</b>. In this manner, design operating parameters of the economizer is maintained and additional generating capacity may be realized since more steam would then be available to expand through the Steam Turbine. The cooled oil <b>7</b> is then returned to storage and eventually cold oil <b>5</b> is returned to the solar loop for reheating.</p>
+<p id="p-0018" num="0017">As noted in <figref idref="DRAWINGS">FIG. 1</figref>, the proposed additional new oil feedwater heater X would be installed in series with the existing feedwater train is the novelty is applied to an existing plant (typical heater train shown in <figref idref="DRAWINGS">FIG. 1</figref> are designated as heaters a, b, c, d, and e) which is used in typical Rankine cycles to preheat the condensate <b>1</b> and feedwater <b>2</b> (note: for simplicity, the boiler feed pump is not shown) prior to entry to the boiler economizer. When there is no heated oil <b>4</b> provided by the solar collector and when there is no storage hot oil <b>5</b>, the feedwater would merely pass through the feedwater heater X having already been pre-heated with the conventional feedwater train with the only penalty being a small feedwater pressure drop through the added solar heater X. Valve <b>10</b> would then be valved open to allow steam extraction <b>8</b> from the turbine and another valve <b>12</b> would allow drips <b>9</b> to flow to the next lower pressure heater. When solar heat is available, the hot oil <b>4</b>, <b>6</b> would then be pumped to the heater and the valving reversed to restrict the extraction steam flow to the existing heater and to restrict the drip flow <b>9</b> to the next lower pressure heater. Valving <b>11</b>, <b>13</b> would allow safe operation of the solar hot oil supply system. Alternately, the new feedwater heater could be installed in parallel with the existing heater(s) with appropriate valving for when the heater is in use and when it is not. It should be noted that the additional new oil feedwater heater X could also be easily installed in parallel with the feedwater train to achieve the same effects (not shown).</p>
+<p id="p-0019" num="0018">Although the concept can be applied to existing coal Rankine systems, if applied to new systems, the boiler could then be designed to receive higher feedwater temperatures heated by supplemental solar heat. In this manner, efficiencies more closely resembling Carnot efficiencies would be achieved since the feedwater temperature would be closer to the feedwater's saturation temperature. In addition, higher turbine capability would also be achieved since extraction steam would be further reduced permitting higher turbine flows and resulting higher outputs.</p>
+<p id="p-0020" num="0019">In <figref idref="DRAWINGS">FIG. 2</figref> the same process is shown as is illustrated in <figref idref="DRAWINGS">FIG. 1</figref> with the exception that the solar heat is supplied to a feedwater heater that is upstream of the 1<sup>st </sup>point (high pressure) feedwater heater. In this manner, the solar heat into the feedwater stream can be varied by the control of the solar heating fluid's temperature and flow. The downstream feedwater heater, which is heated with extraction steam, from the solar feedwater heater X will automatically adjust the extraction steam flow based on the design temperature and pressure of the feedwater stream and the design temperature and pressure of the extraction steam flow.</p>
+<p id="p-0021" num="0020">This phenomenon results since the feedwater heater will condense that amount of pressurized steam based on the incoming temperature of the feedwater. As the temperature of the feedwater stream increases due to solar heating then the extraction steam will automatically diminish to compensate. In this manner, the total amount of solar heat that can be collected on days when the solar insolation may exceed the design can be utilized in an efficient manner. It is uneconomic to design the solar collection system to collect all possible solar insolation since it makes little economic sense to design the system when the full system may only operate, say, 3% or 4% of the time. However, this novelty allows all solar heat collected to be used and useful. No solar heat is ever lost due to the lack of capacity to process and use the solar heat. The auto adjust mechanism of the novelty compensates for any excess solar insolation that may be collected. In addition, this novelty also allows the Rankine cycle to automatically compensate for any modulation of the solar heat input.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method of integrating solar heat into a regenerative Rankine cycle for generating electric power, the method comprising the steps of:
+<claim-text>boiling water into steam with a fossil fuel boiler;</claim-text>
+<claim-text>expanding the steam through at least one power generation turbine; condensing the expanded steam with at least one condenser to thereby generate condensed water;</claim-text>
+<claim-text>heating the condensed water with a first plurality of serially connected feedwater heaters;</claim-text>
+<claim-text>heating the condensed water with at least a first higher pressure feedwater heater connected in series with the first plurality of serially connected feedwater heaters and disposed downstream of a boiler feed pump;</claim-text>
+<claim-text>feeding steam turbine extraction steam from the turbine to the at least one higher pressure feedwater heater to thereby heat the condensed water through regeneration;</claim-text>
+<claim-text>generating a heated circulating fluid through the use of solar thermal sensible heat in a closed loop, single phase system in which all of the circulating fluid remains in the single phase of a liquid state as it circulates through the closed loop; and</claim-text>
+<claim-text>transferring energy from the solar heated fluid to the feedwater, at least one dedicated feedwater heater in series with other feedwater heaters and downstream of the boiler feed pump of a host regenerative Rankine cycle power plant, wherein the transferred solar heat is used to augment or replace steam turbine extraction steam used for heating feedwater in the one or more high pressure feedwater heaters downstream of the boiler feed pump of the host regenerative Rankine cycle power plant.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the solar heated fluid's temperature is controlled to optimize the feedwater temperature during varying capacity loads of the host plant's Rankine cycle to maximize the overall efficiency of the Rankine cycle.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the solar heated fluid's flow is controlled to optimize the feedwater temperature during varying capacity loads of the host plant's Rankine cycle to maximize the overall efficiency of the Rankine cycle.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the solar fluid heating of the feedwater that replaces or augments the host plant's steam turbine extraction steam heating of the feedwater utilizes the idle capacity in the host Rankine power plant's steam turbine and generator that exists to handle increased steam flow through the steam turbine when one or more feedwaters are valved out of the steam cycle while maintaining essentially the same fuel input into the Rankine cycle.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the solar fluid heating of the feedwater that replaces or augments the host plant's steam turbine extraction steam heating of the feedwater allows the boiler operator to reduce the fuel flow to the boiler realizing a lower fuel consumption at the same capacity output by replacing fossil fuel with solar heat.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the placement of the transferred solar heat into the host plant's feedwater stream is such that the subsequent steam turbine extraction flows to the downstream feedwater heaters in the host plant's Rankine regenerative cycle are automatically regulated through the modulation of the solar heated fluid resulting in essentially the same feedwater temperature discharge temperature to the boiler with or without solar heat input into the previous feedwater heaters.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method of claim of <b>1</b>, wherein the maximum amount of solar collected heat and full use of the concentrated solar collectors can be inputted into the host plant's feedwater through the use of automatic regulation of the host plant's extraction steam resulting from varying the solar heat input.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the transferring of energy from the solar heated fluid to the feedwater of a host regenerative Rankine cycle power plant comprises the steps of: transferring the energy from the solar heated, closed loop system to a second closed loop system circulating a second fluid; transferring the energy from the second fluid in the second circulating closed loop system to the host plant's feedwater thereby eliminating any direct leakage of the solar heated fluid in the first circulating closed loop system into the host plant's feedwater stream.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, additionally comprising using a lower pressure solar heated transfer fluid in a single closed loop system to preclude leakage into the higher pressure feedwater stream of the host plant's regenerative Rankine cycle.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the use of solar heat storage is utilized.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the transfer pipe carrying the solar heated fluid between the solar field and the regenerative Rankine cycle power plant is used as the primary storage mechanism.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, additionally comprising inputting variable solar heat without the use of storage into the regenerative Rankine power plant cycle while maintaining constant heat input to the boiler and without altering the boiler fuel input.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A method of convening an existing fuel-fired Rankine cycle power generation system into a solar hybrid system by adding solar generated heat into the existing system, the method of comprising:
+<claim-text>generating steam by combusting fuel in a fuel-fired boiler;</claim-text>
+<claim-text>generating electrical power by expanding the steam through a turbine system connected to the fossil fuel fired boiler, the turbine system including at least one turbine;</claim-text>
+<claim-text>discharging the expanded steam from a downstream end of the turbine;</claim-text>
+<claim-text>condensing the expanded steam with at least one condenser so as to form condensed water;</claim-text>
+<claim-text>heating the condensed water with partially expanded steam extracted from the turbine and directed into a first plurality of serially connected feedwater heaters connected to the condenser;</claim-text>
+<claim-text>pumping the water from the first plurality of heaters to a high pressure with a boiler feed pump and into at least one high pressure feedwater heater;</claim-text>
+<claim-text>heating the high-pressure water in the high-pressure feedwater heater with additional partially expanded steam from the turbine system;</claim-text>
+<claim-text>adding at least one solar feedwater heater downstream from the boiler feed pump and in series with the at least one high pressure feedwater heater;</claim-text>
+<claim-text>heating a liquid with a solar energy collector such that the liquid remains in a single liquid phase;</claim-text>
+<claim-text>feeding the heated liquid into the at least one solar feedwater heater so as to transfer heat from the heated liquid into the feedwater in the at least one solar feedwater heater such that the liquid remains in the single liquid phase. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

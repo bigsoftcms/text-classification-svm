@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641491-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641491</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12105667</doc-number>
+<date>20080418</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>R</subclass>
+<main-group>13</main-group>
+<subgroup>64</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>439247</main-classification>
+<further-classification>439131</further-classification>
+</classification-national>
+<invention-title id="d0e43">Load control device having a flexible connector</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3588489</doc-number>
+<kind>A</kind>
+<name>Gaines</name>
+<date>19710600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3609647</doc-number>
+<kind>A</kind>
+<name>Castellano</name>
+<date>19710900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3707697</doc-number>
+<kind>A</kind>
+<name>Izumi</name>
+<date>19721200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4117258</doc-number>
+<kind>A</kind>
+<name>Shanker</name>
+<date>19780900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4760218</doc-number>
+<kind>A</kind>
+<name>Gutman</name>
+<date>19880700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4875880</doc-number>
+<kind>A</kind>
+<name>Welch et al.</name>
+<date>19891000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4940417</doc-number>
+<kind>A</kind>
+<name>Hyogo et al.</name>
+<date>19900700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5893768</doc-number>
+<kind>A</kind>
+<name>Gawron et al.</name>
+<date>19990400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>439248</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6000959</doc-number>
+<kind>A</kind>
+<name>Curtindale et al.</name>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>439247</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6057982</doc-number>
+<kind>A</kind>
+<name>Kloeppel</name>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>360 9701</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6159030</doc-number>
+<kind>A</kind>
+<name>Gawron et al.</name>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>439247</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6283773</doc-number>
+<kind>B1</kind>
+<name>Price et al.</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>439131</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>6309248</doc-number>
+<kind>B1</kind>
+<name>King</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>439535</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>6398565</doc-number>
+<kind>B1</kind>
+<name>Johnson et al.</name>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>439131</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>6558190</doc-number>
+<kind>B1</kind>
+<name>Pierson, Jr.</name>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>7213932</doc-number>
+<kind>B1</kind>
+<name>Savicki, Jr.</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>7232336</doc-number>
+<kind>B1</kind>
+<name>Evans</name>
+<date>20070600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>7273392</doc-number>
+<kind>B2</kind>
+<name>Fields</name>
+<date>20070900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>7321120</doc-number>
+<kind>B1</kind>
+<name>Gorman et al.</name>
+<date>20080100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>7332683</doc-number>
+<kind>B2</kind>
+<name>Gorman</name>
+<date>20080200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>7400239</doc-number>
+<kind>B2</kind>
+<name>Kiko et al.</name>
+<date>20080700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>7458837</doc-number>
+<kind>B2</kind>
+<name>Mineo, Hiroyuki</name>
+<date>20081200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>439248</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>2001/0029128</doc-number>
+<kind>A1</kind>
+<name>Horiuchi et al.</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>2004/0206609</doc-number>
+<kind>A1</kind>
+<name>Tilley</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>2005/0280598</doc-number>
+<kind>A1</kind>
+<name>Webb et al.</name>
+<date>20051200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>2006/0065510</doc-number>
+<kind>A1</kind>
+<name>Kiko et al.</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>2007/0037442</doc-number>
+<kind>A1</kind>
+<name>Sullivan et al.</name>
+<date>20070200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>2007/0290628</doc-number>
+<kind>A1</kind>
+<name>Altonen et al.</name>
+<date>20071200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>2007/0290874</doc-number>
+<kind>A1</kind>
+<name>Nearhoof et al.</name>
+<date>20071200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>2007/0291010</doc-number>
+<kind>A1</kind>
+<name>Altonen et al.</name>
+<date>20071200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>2008/0258644</doc-number>
+<kind>A1</kind>
+<name>Altonen et al.</name>
+<date>20081000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>DE</country>
+<doc-number>19847225</doc-number>
+<kind>A1</kind>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>DE</country>
+<doc-number>10127997</doc-number>
+<kind>B1</kind>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>FR</country>
+<doc-number>2806249</doc-number>
+<kind>A1</kind>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00035">
+<othercit>Lutron Electronics Co., Inc., Telume Incandescent/Halogen Dimmer Installation Instructions, May 29, 2002, 6 sheets.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00036">
+<othercit>European Patent Office, International Search Report and Written Opinion for International Patent Application No. PCT/US2008/005160, Aug. 25, 2008, 11 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00037">
+<othercit>European Patent Office, International Search Report and Written Opinion for International Patent Application No. PCT/US2008/005226, Oct. 6, 2008, 10 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>21</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>439247</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>439131</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>21</number-of-drawing-sheets>
+<number-of-figures>23</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60925821</doc-number>
+<kind>00</kind>
+<date>20070423</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080258859</doc-number>
+<kind>A1</kind>
+<date>20081023</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Altonen</last-name>
+<first-name>Gregory</first-name>
+<address>
+<city>Easton</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nearhoof</last-name>
+<first-name>Jeremy</first-name>
+<address>
+<city>Lansdale</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>DiMaggio</last-name>
+<first-name>John M.</first-name>
+<address>
+<city>Souderton</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hibshman</last-name>
+<first-name>Bradley T.</first-name>
+<address>
+<city>Allentown</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Rose</last-name>
+<first-name>Mark E.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Smith</last-name>
+<first-name>Philip N.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Lutron Electronics Co., Inc.</orgname>
+<role>02</role>
+<address>
+<city>Coopersburg</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Nguyen</last-name>
+<first-name>Truc T</first-name>
+<department>2833</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A load control device has a modular assembly to allow for easy adjustment of the aesthetic and the color of the load control device after installation. The load control device comprises a user interface module and a base module. The user interface module includes an actuation member for receiving a user input and a visual display for providing feedback to the user. A connector of the base module is adapted to be coupled to a connector of the user interface module, such that the base module and the user interface module are electrically connected. The connector of the base module is adapted to move along a longitudinal axis and a lateral axis of the dimmer, such that the actuation member is easily aligned within an opening of a faceplate.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="228.01mm" wi="180.00mm" file="US07641491-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="192.79mm" wi="123.87mm" file="US07641491-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="220.98mm" wi="168.49mm" file="US07641491-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="236.22mm" wi="180.51mm" file="US07641491-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="187.62mm" wi="120.90mm" file="US07641491-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="230.04mm" wi="196.60mm" orientation="landscape" file="US07641491-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="125.73mm" wi="172.13mm" file="US07641491-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="237.07mm" wi="132.76mm" file="US07641491-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="166.03mm" wi="170.01mm" file="US07641491-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="227.33mm" wi="123.70mm" file="US07641491-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="148.25mm" wi="154.86mm" file="US07641491-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="159.85mm" wi="133.69mm" file="US07641491-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="239.95mm" wi="179.32mm" file="US07641491-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="236.98mm" wi="189.82mm" orientation="landscape" file="US07641491-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="229.36mm" wi="174.24mm" orientation="landscape" file="US07641491-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="215.90mm" wi="170.10mm" orientation="landscape" file="US07641491-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="226.23mm" wi="147.74mm" orientation="landscape" file="US07641491-20100105-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="208.53mm" wi="136.06mm" file="US07641491-20100105-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="242.65mm" wi="168.74mm" file="US07641491-20100105-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="242.91mm" wi="187.11mm" file="US07641491-20100105-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="242.57mm" wi="190.25mm" file="US07641491-20100105-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="220.13mm" wi="154.18mm" file="US07641491-20100105-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority to commonly-assigned U.S. Provisional Application Ser. No. 60/925,821, filed Apr. 23, 2007, entitled LOAD CONTROL DEVICE HAVING A MODULAR ASSEMBLY, the entire disclosure of which is hereby incorporated by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates to load control devices for controlling the amount of power delivered to an electrical load from a power source. More specifically, the present invention relates to a wall-mountable dimmer having a flexible connector allowing for easy installation of a user interface module and alignment of the user interface module in an opening of a faceplate.</p>
+<p id="p-0005" num="0004">2. Description of the Related Art</p>
+<p id="p-0006" num="0005">A conventional two-wire dimmer has two terminals: a &#x201c;hot&#x201d; terminal for connection to an alternating-current (AC) power supply and a &#x201c;dimmed hot&#x201d; terminal for connection to a lighting load. Standard dimmers use one or more semiconductor switches, such as triacs or field effect transistors (FETs), to control the current delivered to the lighting load and thus to control the intensity of the light. The semiconductor switches are typically coupled between the hot and dimmed hot terminals of the dimmer.</p>
+<p id="p-0007" num="0006">Smart wall-mounted dimmers include a user interface typically having a plurality of buttons for receiving inputs from a user and a plurality of visual indicators for providing feedback to the user. These smart dimmers typically include a microcontroller or other processing device for providing an advanced set of control features and feedback options to the end user. An example of a smart dimmer is described in greater detail in commonly assigned U.S. Pat. No. 5,248,919, issued on Sep. 28, 1993, entitled LIGHTING CONTROL DEVICE, the entire disclosure of which is hereby incorporated by reference.</p>
+<p id="p-0008" num="0007"><figref idref="DRAWINGS">FIG. 1</figref> is a front view of a user interface of a prior art smart dimmer switch <b>10</b> for controlling the amount of power delivered from a source of AC power to a lighting load. As shown, the dimmer switch <b>10</b> includes a faceplate <b>12</b>, a bezel <b>14</b>, an intensity selection actuator <b>16</b> for selecting a desired level of light intensity of a lighting load (not shown) controlled by the dimmer switch <b>10</b>, and a control switch actuator <b>18</b>. Actuation of the upper portion <b>16</b>A of the intensity selection actuator <b>16</b> increases or raises the light intensity of the lighting load, while actuation of the lower portion <b>16</b>B of the intensity selection actuator <b>16</b> decreases or lowers the light intensity. The intensity selection actuator <b>16</b> may control a rocker switch, two separate push switches, or the like. The control switch actuator <b>18</b> may control a push switch or any other suitable type of actuator and typically provides tactile and auditory feedback to a user when pressed.</p>
+<p id="p-0009" num="0008">The smart dimmer <b>10</b> also includes an intensity level indicator in the form of a plurality of visual indicators <b>20</b>, which are illuminated by a plurality of light sources such as light-emitting diodes (LEDs) located inside the dimmer <b>10</b>. The visual indicators <b>20</b> may be arranged in an array (such as a linear array as shown) representative of a range of light intensity levels of the lighting load being controlled. The intensity level of the lighting load may range from a minimum intensity level, which is preferably the lowest visible intensity, but which may be zero, or &#x201c;full off,&#x201d; to a maximum intensity level, which is typically &#x201c;full on.&#x201d; Light intensity level is typically expressed as a percentage of full intensity. Thus, when the lighting load is on, light intensity level may range from 1% to 100%.</p>
+<p id="p-0010" num="0009">However, in order to change the color of the dimmer <b>10</b>, specifically, the color of the bezel <b>14</b>, the intensity selection actuator <b>16</b>, and the control switch actuator <b>18</b>, the dimmer must be replaced with another dimmer, which has the desired color. Since the LEDs that illuminate the visual indicators <b>20</b> are located inside the dimmer <b>10</b>, the prior art dimmer is typically only offered having a single choice for the color of the visual indicators. The entire dimmer must be replaced to change the color of the LEDs.</p>
+<p id="p-0011" num="0010">Therefore there is a need for a load control device, which allows for easy adjustment of the color of the plastics of the user interface and the color of the visual indicators after the load control device is installed.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0012" num="0011">According to an embodiment of the present invention, at a load control device for controlling the amount of power delivered from an AC power source to an electrical load comprises a user interface module comprising a first connector, and a base module comprising a controllably conductive device adapted to be coupled in series electrical connection between the AC power source and the electrical load, a controller for controlling the controllably conductive device to control the amount of power delivered to the electrical load, and a second connector adapted to be coupled to the first connector of the user interface module. The base module further comprises a main printed circuit board having the controllably conductive device and the controller electrically connected thereto, a connector printed circuit board, the second connector mounted to the connector printed circuit board, and a cable electrically connecting the main printed circuit board and the connector printed circuit board. The second connector of the base module is adapted to move along both the longitudinal axis and the lateral axis of the load control device to allow for alignment of the user interface module on the base module.</p>
+<p id="p-0013" num="0012">According to another embodiment of the present invention, a load control device for controlling the amount of power delivered to an electrical load from an AC power source comprises a user interface module comprising a first connector, an actuator operable to receive a user input, and a visual display for displaying a representation of an amount of power being delivered to the electrical load. The load control device also comprises a base module having a controllably conductive device adapted to be coupled in series electrical connection between the AC power source and the electrical load, and a controller for controlling the controllably conductive device to control the amount of power delivered to the electrical load. The base module farther comprises a second connector adapted to be coupled to the first connector of the user interface module, such that the controller is responsive to the actuator and operatively coupled to the visual display when the first connector is coupled to the second connector. The second connector is adapted to move along both a longitudinal axis and a lateral axis of the load control device to align the user interface module on the base module.</p>
+<p id="p-0014" num="0013">In addition, a load control device comprising a user interface module, a base module, and a faceplate is described herein. The user interface module comprises a first connector and an actuator operable to receive a user input. The base module comprises a second connector adapted to be coupled to the first connector of the user interface module. The actuator of the user interface module is adapted to be provided in the opening of the faceplate. The second connector is adapted to move along at least one of a longitudinal axis and a lateral axis of the load control device to align the actuator of the user interface module within the opening of the faceplate. According to another embodiment of the present invention, the base module has a front surface defining a plane, and the second connector is adapted to move in a plane substantially parallel to the plane of the front surface to allow for alignment of the actuator of the user interface module within the opening of the faceplate.</p>
+<p id="p-0015" num="0014">Other features and advantages of the present invention will become apparent from the following description of the invention that refers to the accompanying drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 1</figref> is a front view of a user interface of a prior art dimmer;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 2</figref> is a perspective view of a dimmer according to the present invention;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 3</figref> is an exploded perspective view of the dimmer of <figref idref="DRAWINGS">FIG. 2</figref> showing a user interface module and a base module;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 4</figref> is a rear perspective view of the user interface module of the dimmer of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 5A</figref> is a front view of the dimmer of <figref idref="DRAWINGS">FIG. 2</figref> with the user interface module installed on the base module;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 5B</figref> is a right side view of the dimmer of <figref idref="DRAWINGS">FIG. 2</figref> with the user interface module installed on the base module;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 5C</figref> is a bottom cross-sectional view of the user interface module;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 6</figref> is a right side cross-sectional view of the dimmer of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 7A</figref> is a front perspective view of a user interface module printed circuit board of the user interface module of <figref idref="DRAWINGS">FIG. 3</figref>;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 7B</figref> is a rear perspective view of the user interface module printed circuit board of <figref idref="DRAWINGS">FIG. 7A</figref>;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 8</figref> is another right side cross-sectional view of the dimmer of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 9</figref> is a top cross-sectional view of the dimmer of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 10</figref> is a front cross sectional view of the dimmer of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 11</figref> is an exploded view of the assembly of a flexible base module connector of the base module of <figref idref="DRAWINGS">FIG. 3</figref>;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 12</figref> is a simplified block diagram of the electrical circuitry of the dimmer of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 13A</figref> and <figref idref="DRAWINGS">FIG. 13B</figref> are simplified schematic diagrams of a stabilizing circuit and a usage detection circuit of the electrical circuitry of <figref idref="DRAWINGS">FIG. 12</figref>;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 14</figref> is a simplified schematic diagram of an audible sound generator of the electrical circuitry of <figref idref="DRAWINGS">FIG. 12</figref>;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 15</figref> is a flowchart of a actuation procedure executed by a controller of the dimmer of the electrical circuitry of <figref idref="DRAWINGS">FIG. 12</figref>;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 16</figref> is a flowchart of an Idle procedure of the actuation procedure of <figref idref="DRAWINGS">FIG. 15</figref>;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIGS. 17A and 17B</figref> are flowcharts of an ActiveHold procedure of the actuation procedure of <figref idref="DRAWINGS">FIG. 15</figref>; and</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 18</figref> is a flowchart of a Release procedure of the actuation procedure of <figref idref="DRAWINGS">FIG. 15</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0037" num="0036">The foregoing summary, as well as the following detailed description of the preferred embodiments, is better understood when read in conjunction with the appended drawings. For the purposes of illustrating the invention, there is shown in the drawings an embodiment that is presently preferred, in which like numerals represent similar parts throughout the several views of the drawings, it being understood, however, that the invention is not limited to the specific methods and instrumentalities disclosed.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 2</figref> is a perspective view of a dimmer <b>100</b> according to the present invention. The dimmer <b>100</b> includes a thin touch sensitive actuator <b>110</b> comprising an actuation member <b>112</b> having first and second portions <b>112</b>A, <b>112</b>B. The actuation member <b>112</b> extends through a bezel <b>114</b> to contact a touch sensitive device <b>150</b> (<figref idref="DRAWINGS">FIG. 6</figref>) inside the dimmer <b>100</b> as will be described in greater detail below. The dimmer <b>100</b> is operable to control the intensity of a connected lighting load <b>208</b> (<figref idref="DRAWINGS">FIG. 12</figref>) in response to actuations of the actuation member <b>112</b> and thus the touch sensitive device <b>150</b>.</p>
+<p id="p-0039" num="0038">The dimmer <b>100</b> further comprises a faceplate <b>116</b>, which has a non-standard opening <b>118</b> and mounts to an adapter <b>120</b>. The bezel <b>114</b> is housed behind the faceplate <b>116</b> and extends through the opening <b>118</b>. The adapter <b>120</b> connects to a yoke <b>122</b> (<figref idref="DRAWINGS">FIG. 3</figref>), which is adapted to mount the dimmer <b>100</b> to a standard electrical wallbox via two mounting holes <b>124</b> (<figref idref="DRAWINGS">FIG. 3</figref>). The dimmer <b>100</b> further comprises an enclosure <b>126</b>, which comprises a ring portion <b>128</b> and a back portion <b>129</b> (<figref idref="DRAWINGS">FIG. 6</figref>). An air-gap actuator <b>190</b> allows for actuation of an internal air-gap switch <b>219</b> (<figref idref="DRAWINGS">FIG. 12</figref>) by pulling the air-gap actuator down.</p>
+<p id="p-0040" num="0039">The bezel <b>114</b> comprises a break <b>125</b>, which separates the upper portion <b>112</b>A and the lower portion <b>112</b>B of the actuation member <b>112</b>. Upon actuation of the lower portion <b>112</b>B of the actuation member <b>112</b>, the dimmer <b>100</b> causes the connected lighting load <b>208</b> to toggle from on to off (and vice versa). Actuation of the upper portion <b>112</b>A of the actuation member <b>112</b>, i.e., above the break <b>125</b>, causes the intensity of the lighting load <b>208</b> to change to a level dependent upon the position of the actuation along the length of the actuation member <b>112</b>.</p>
+<p id="p-0041" num="0040">A plurality of visual indicators, e.g., a plurality of light-emitting diodes (LEDs) <b>152</b> (<figref idref="DRAWINGS">FIG. 6</figref>), are arranged in a linear array adjacent a rear surface of the actuation member <b>112</b>. The actuation member <b>112</b> is substantially transparent, such that the LEDs <b>152</b> are operable to illuminate portions of a front surface of the actuation member. For example, two different color LEDs <b>152</b> may be located behind the lower portion <b>112</b>B, such that the lower portion is illuminated with blue light when the lighting load <b>208</b> is on and with orange light with the lighting load is off. The LEDs <b>152</b> behind the upper portion <b>112</b>A may be blue and illuminated, for example, as a bar graph to display the intensity of the lighting load <b>208</b> when the lighting load is on. The operation of the LEDs <b>152</b> is described in greater detail in U.S. patent application Ser. No. 11/472,246, filed Jun. 20, 2006, entitled LIGHTING CONTROL HAVING AN IDLE STATE WITH WAKE-UP UPON ACTUATION, the entire disclosure of which is hereby incorporated by reference.</p>
+<p id="p-0042" num="0041">As described herein, the dimmer <b>100</b> has a modular assembly and comprises a user interface module <b>130</b> and a base module <b>140</b>. <figref idref="DRAWINGS">FIG. 3</figref> is an exploded perspective view of the dimmer <b>100</b> without the faceplate <b>116</b> shown. <figref idref="DRAWINGS">FIG. 4</figref> is a rear perspective view of the user interface module <b>130</b>. The touch sensitive device <b>150</b> and the LEDs <b>152</b> are included within the user interface module <b>130</b>, while the base module <b>140</b> houses the load control circuitry of the dimmer <b>100</b>, which will be described in greater detail with reference to <figref idref="DRAWINGS">FIG. 12</figref>.</p>
+<p id="p-0043" num="0042">The bezel <b>114</b> serves as a front enclosure portion of the user interface module <b>130</b> and defines a substantially flat front surface <b>115</b>. The user interface module <b>130</b> includes a metal backplate <b>132</b>, which serves as a rear enclosure portion of the user interface module and defines a substantially flat rear surface. The metal backplate <b>132</b> provides the user interface module <b>130</b> with a rigid structure. Alternatively, the backplate <b>132</b> could be made from a different rigid material, for example, Rynite&#xae; FRS43 resin, which is 43% glass reinforced polyethylene. A plurality of posts <b>134</b> may be heat-staked to attach the bezel <b>114</b> to the metal backplate <b>132</b>. The user interface module <b>130</b> is adapted to be captured between the base module <b>140</b> and the faceplate <b>116</b> such that the touch sensitive actuator <b>110</b> is provided in the opening <b>118</b>. Accordingly, the user interface module <b>130</b> does not attach to the base module <b>140</b> using screws or snaps.</p>
+<p id="p-0044" num="0043">The user interface module <b>130</b> includes a user interface module connector <b>135</b> operable to be coupled to a base module connector <b>142</b> of the base module <b>140</b>. The user interface module connector <b>135</b> has a mating end, e.g., a plurality of pins <b>136</b>, which are received by a mating end, e.g., a plurality of holes <b>144</b>, of the base module connector <b>142</b> to provide a plurality of electrical connections (e.g., 20 connections) between the user interface module and the base module. The pins <b>136</b> are surrounded by walls <b>138</b>, which are received in an opening <b>145</b> of the yoke <b>122</b>.</p>
+<p id="p-0045" num="0044">The user interface module <b>130</b> further comprises two posts <b>139</b>, which are received in openings <b>146</b>, <b>148</b> in the adapter <b>120</b>. The posts <b>139</b> assist in aligning the user interface module <b>130</b> during installation of the user interface module on the base module <b>140</b>. The second opening <b>148</b> is slightly elongated to allow for adjustment of the user interface module <b>130</b> to ensure that the touch sensitive actuator <b>110</b> is aligned within the opening <b>118</b> of the faceplate <b>116</b>. The adapter <b>120</b> further comprises two indentations <b>149</b>, which allow the fingers of a user to grasp the user interface module <b>130</b> to remove (i.e., uninstall) the user interface module from the base module <b>140</b>.</p>
+<p id="p-0046" num="0045">The user interface module <b>130</b> is cantilevered over the mounting holes <b>124</b> and thus the mounting screws (not shown) when the dimmer <b>100</b> is installed in an electrical wallbox. The periphery of the user interface module <b>130</b> extends beyond the periphery of the wallbox opening. Therefore, the touch sensitive actuator <b>110</b> extends beyond the periphery of the wallbox opening.</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 5A</figref> is a front view and <figref idref="DRAWINGS">FIG. 5B</figref> is a right side view of the dimmer <b>100</b> with the user interface module <b>130</b> installed on the base module <b>140</b>, but without the faceplate <b>116</b> present. <figref idref="DRAWINGS">FIG. 5C</figref> is a bottom cross-sectional view of the user interface module <b>130</b> taken through one of the posts <b>134</b> as shown in <figref idref="DRAWINGS">FIG. 5A</figref>. <figref idref="DRAWINGS">FIG. 6</figref> is a right side cross-sectional view of the dimmer <b>100</b> taken along the center-line of the dimmer <b>100</b>.</p>
+<p id="p-0048" num="0047">As previously mentioned, the touch sensitive device <b>150</b> and the LEDs <b>152</b> are housed within the user interface module <b>130</b>. Referring to <figref idref="DRAWINGS">FIG. 6</figref>, the LEDs <b>152</b> are mounted to a user interface module PCB <b>154</b> and are arranged in a linear array immediately behind the actuation member <b>112</b>. <figref idref="DRAWINGS">FIGS. 7A and 7B</figref> are front and rear perspective views, respectively, of the user interface module PCB <b>154</b>. A blue LED <b>155</b>A and a orange LED <b>155</b>B are mounted to the user interface PCB <b>154</b> behind the lower portion <b>112</b>B of the actuation member <b>112</b> to alternately illuminate the lower portion blue and orange, respectively. Alternatively, other colors of LEDs <b>152</b> may be used.</p>
+<p id="p-0049" num="0048">The actuation member <b>112</b> includes a plurality of actuation posts <b>156</b>, which contact the front surface of the touch sensitive device <b>150</b> and are arranged in a linear array along the length of the actuation member. The posts <b>156</b> act as force concentrators to concentrate the force from an actuation of the actuation member <b>112</b> to the touch sensitive device <b>150</b>. The user interface module PCB <b>154</b> includes a plurality of holes <b>159</b>, which the actuation posts <b>156</b> extend through to contact the touch sensitive device <b>150</b>. Accordingly, the LEDs <b>152</b> are located above the touch sensitive device <b>150</b>. The touch sensitive actuator <b>110</b> is described in greater detail in co-pending commonly-assigned U.S. patent application Ser. No. 11/471,908, filed Jun. 20, 2006, entitled TOUCH SCREEN ASSEMBLY FOR A LIGHTING CONTROL, the entire disclosure of which is hereby incorporated by reference.</p>
+<p id="p-0050" num="0049">The bezel <b>114</b> is clamped to the backplate <b>132</b> of the user interface module <b>130</b>, such that the touch sensitive device <b>150</b> is sandwiched (i.e., compressed) between the bezel and the backplate. For example, the pins <b>134</b> are heat-staked to clamp the bezel <b>114</b> to the backplate <b>132</b> as shown in <figref idref="DRAWINGS">FIG. 5C</figref>. The user interface PCB <b>154</b> is retained, but not compressed, between the bezel <b>114</b> and the backplate <b>132</b>. The actuation member <b>112</b> is captured between the bezel <b>114</b> and the user interface PCB <b>154</b>, and the posts <b>156</b> extend through the holes <b>159</b> of the user interface PCB, such that the posts are operable to contact the touch sensitive device <b>150</b> when the actuation member <b>112</b> is actuated. The posts <b>156</b> do not exert force on the touch sensitive device <b>150</b> when the touch sensitive actuator <b>110</b> is not being actuated. A distance X between the front surface of the actuation member <b>112</b> and the rear surface of the user interface module <b>130</b> is approximately 0.298 inch. Further, a distance Y between the front surface <b>115</b> of the bezel <b>114</b> and the rear surface of the user interface module <b>130</b> is approximately 0.178 inch.</p>
+<p id="p-0051" num="0050">Since the bezel <b>114</b> is clamped to the backplate <b>132</b> with the touch sensitive device <b>150</b> compressed between the bezel and the backplate, a distance D between the posts <b>156</b> and the touch sensitive device <b>150</b> may be minimized while still preventing the posts from undesirably actuating the touch sensitive device <b>150</b>. The distance D is determined by the tolerances on a distance D<sub>112 </sub>between a surface <b>112</b>A of the actuation member <b>112</b> and the ends of the posts <b>156</b>, and a distance D<sub>114 </sub>between a surface <b>114</b>A and a surface <b>114</b>B of the bezel <b>114</b> as shown in <figref idref="DRAWINGS">FIG. 5C</figref>. The tolerances of the touch sensitive device <b>150</b> and the user interface PCB <b>154</b> do not affect the distance D. Minimizing the distance D provides for an improved aesthetic design and prevents the actuation member <b>112</b> from having a loose and sloppy feeling when the touch sensitive actuator <b>110</b> is actuated, thus providing a high quality fit, finish, and feel.</p>
+<p id="p-0052" num="0051">The touch sensitive device <b>150</b> may comprise, for example, a resistive touch pad. Alternatively, the touch sensitive device <b>150</b> may comprise a capacitive touch pad or any other type of touch responsive element, which are well known to those of ordinary skill in the art. The touch sensitive device <b>150</b> is coupled to the user interface module PCB <b>154</b> via a connector <b>158</b>. As will be described below in greater detail, the touch sensitive device <b>150</b> provides a control signal representative of the position where the touch sensitive device was actuated along the longitudinal axis of the touch sensitive device. A controller <b>214</b> (<figref idref="DRAWINGS">FIG. 12</figref>) of the dimmer <b>100</b> receives the control signal from the touch sensitive device and controls the lighting load <b>208</b> accordingly.</p>
+<p id="p-0053" num="0052">The internal circuitry of the dimmer <b>100</b> (i.e., the load control circuitry of <figref idref="DRAWINGS">FIG. 12</figref>) is mounted to a main (or load control) printed circuit board (PCB) <b>160</b>. The main PCB <b>160</b> is held in place between the ring portion <b>128</b> and the back portion <b>129</b> of the enclosure <b>126</b> as shown in <figref idref="DRAWINGS">FIG. 6</figref>. The ring portion <b>128</b> defines an opening of the enclosure <b>126</b>, which is essentially covered by the yoke <b>122</b>.</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. 8</figref> is a right side cross-sectional view and <figref idref="DRAWINGS">FIG. 9</figref> is a top cross-sectional view of the dimmer <b>100</b> taken through the middle of the base module connector <b>142</b> of the base module <b>140</b>. <figref idref="DRAWINGS">FIG. 10</figref> is a front cross sectional view of the dimmer <b>100</b> showing the base module connector.</p>
+<p id="p-0055" num="0054">To facilitate the installation of the user interface module <b>130</b> on the base module <b>140</b>, the base module connector <b>142</b> is operable to move slightly along a longitudinal axis (i.e., the Y-axis as shown in <figref idref="DRAWINGS">FIG. 5A</figref>) and along a lateral axis (i.e., along the X-axis) of the base module. In other words, the base module connector <b>142</b> moves in a plane that is substantially parallel with the plane of the front surface of the faceplate <b>116</b> and that is substantially coincident with the plane of the opening of enclosure <b>126</b> (i.e., as defined by the ring portion <b>128</b>). When the user interface module <b>130</b> is installed on the base module <b>140</b>, the freedom of movement of the base module connector <b>142</b> allows the touch sensitive actuator <b>110</b> to be easily aligned in the opening <b>118</b> of the faceplate <b>116</b>. Therefore, opening <b>118</b> of the faceplate <b>116</b> can be sized such that there is a minimal distance between the sides of the opening and surface of the touch sensitive actuator <b>110</b>. This provides a clean, seamless appearance of the dimmer <b>100</b>.</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. 11</figref> is an exploded view of the assembly of the flexible base module connector <b>142</b>. The base module connector <b>142</b> is mounted to a connector PCB <b>162</b>, which is connected to the main PCB <b>160</b> via a flexible ribbon cable <b>164</b>. Alternatively, other types of flexible connectors may be used. The ribbon cable <b>164</b> has a first end connected to a first ribbon connector <b>165</b> (e.g., a right-angle ribbon connector) mounted to the main PCB <b>160</b> and fixed in location with reference to the enclosure <b>126</b>. The ribbon cable <b>164</b> also has a second end, which is opposite the first end and is connected to a second ribbon connector <b>166</b> (e.g., a right-angle ribbon connector) mounted to the connector PCB <b>162</b>. The ribbon cable <b>164</b> wraps around (e.g., in a U-shape, i.e., a 180&#xb0; bend, as shown in <figref idref="DRAWINGS">FIGS. 9-11</figref>), such that the connector PCB <b>162</b> rests on a support rail <b>168</b> of the ring portion <b>128</b> of the enclosure <b>126</b>. Accordingly, the connector PCB <b>162</b> is slidably captured by the enclosure <b>126</b> and is free to translate across the support rail <b>168</b> to allow for movement of the base module connector <b>142</b> along the longitudinal and lateral axes. Alternatively, the first ribbon connector <b>165</b> may comprise a straight ribbon connector and the ribbon cable <b>164</b> may curve down in an L-shape (i.e., a 90&#xb0; bend) from the second ribbon connector <b>166</b> to the first ribbon connector.</p>
+<p id="p-0057" num="0056">A frame <b>170</b> is provided over the base module connector <b>142</b> and connects to the connector PCB <b>162</b> via snaps <b>172</b>. The base module connector <b>142</b> is provided through an opening <b>174</b> in the frame <b>170</b>. The opening <b>174</b> comprises notches <b>175</b> that receive alignment rails <b>176</b> of the user interface module connector <b>135</b>. The notches <b>175</b> and the alignment rails <b>176</b> help to align the pins <b>136</b> of the user interface module connector <b>135</b> with the holes <b>144</b> of the base module connector <b>142</b>.</p>
+<p id="p-0058" num="0057">The user interface module <b>130</b> of the present invention allows for easily changing the color of the dimmer <b>100</b> and the colors of the LEDs <b>152</b> after the dimmer <b>100</b> is installed. For example, the multiple user interface modules <b>130</b> may be available with different colors of the bezel <b>114</b> and the LEDs <b>152</b>. While the dimmer <b>100</b> is installed in an electrical wallbox and is powered, the user first removes the presently-installed user interface module <b>130</b> having LEDs having a first color (e.g., blue). The user then acquires a new user interface module <b>130</b> having LEDs of a different color (e.g., green), and connects the user interface module connector <b>135</b> to the base module connector <b>142</b> of the base module <b>140</b> to energize the LEDs of the user interface.</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. 12</figref> is a simplified block diagram of the dimmer <b>100</b>. The dimmer <b>100</b> has a hot terminal <b>202</b> connected to an AC voltage source <b>204</b> and a dimmed hot terminal <b>206</b> connected to a lighting load <b>208</b>. The user interface module <b>130</b> comprises the touch sensitive device <b>150</b> and the LEDs <b>152</b>. The base module comprise a controllably conductive device (e.g., a bidirectional semiconductor switch <b>210</b>), a gate drive circuit <b>212</b>, the controller <b>214</b>, a zero-crossing detect circuit <b>216</b>, a power supply <b>218</b>, a stabilizing circuit <b>220</b>, a usage detection circuit <b>222</b>, an audible sound generator <b>224</b>, and a non-volatile memory <b>225</b>. The user interface module connector <b>136</b> connects to the base module connector <b>142</b> to electrically connect the user interface module <b>130</b> and the base module <b>140</b>.</p>
+<p id="p-0060" num="0059">The bidirectional semiconductor switch <b>210</b> is coupled between the hot terminal <b>202</b> and the dimmed hot terminal <b>206</b> to control the current through, and thus the intensity of, the lighting load <b>208</b>. The semiconductor switch <b>210</b> has a control input (or gate), which is connected to the gate drive circuit <b>212</b>. The input to the gate renders the semiconductor switch <b>210</b> selectively conductive or non-conductive, which in turn controls the power supplied to the lighting load <b>208</b>. The gate drive circuit <b>212</b> provides a control input to the semiconductor switch <b>210</b> in response to a control signal from the controller <b>214</b>. The controller <b>214</b> may be any suitable controller, such as a microcontroller, a microprocessor, a programmable logic device (PLD), or an application specific integrated circuit (ASIC).</p>
+<p id="p-0061" num="0060">The zero-crossing detect circuit <b>216</b> determines the zero-crossing points of the AC source voltage from the AC power supply <b>204</b>. A zero-crossing is defined as the time at which the AC supply voltage transitions from positive to negative polarity, or from negative to positive polarity, at the beginning of each half-cycle. The zero-crossing information is provided as an input to the controller <b>214</b>. The controller <b>214</b> generates the gate control signals to operate the semiconductor switch <b>210</b> to thus provide voltage from the AC power supply <b>204</b> to the lighting load <b>208</b> at predetermined times relative to the zero-crossing points of the AC waveform.</p>
+<p id="p-0062" num="0061">The power supply <b>218</b> generates a direct-current (DC) voltage V<sub>CC</sub>, e.g., 5 volts, to power the controller <b>214</b> and other low voltage circuitry of the dimmer <b>100</b>. For example, the power supply <b>218</b> may comprise an isolated power supply, such as a flyback switching power supply, and the zero crossing detect circuit <b>216</b> and the gate drive circuit <b>212</b> include optocouplers, such that the controller <b>214</b>, the base module connector <b>142</b>, and the circuitry of the user interface module <b>130</b> are electrically isolated from mains voltage, i.e., the AC power source <b>204</b>.</p>
+<p id="p-0063" num="0062">The touch sensitive device <b>150</b> is coupled to the controller <b>214</b> through the stabilizing circuit <b>220</b> and the usage detection circuit <b>222</b>. The stabilizing circuit <b>220</b> is operable to stabilize the voltage output of the touch sensitive device <b>150</b>. Accordingly, the voltage output of the stabilizing circuit <b>220</b> is not dependent on the magnitude of the force of the point actuation on the touch sensitive device <b>150</b>, but rather is dependent solely on the position of the point actuation. The usage detection circuit <b>222</b> is operable to detect when a user is actuating the touch sensitive actuator <b>110</b> of the dimmer <b>100</b>. The controller <b>214</b> is operable to control the operation of the stabilizing circuit <b>220</b> and the usage detection circuit <b>222</b> and to receive control signals from both the stabilizing circuit and the usage detection circuit. The stabilizing circuit <b>220</b> has a slow response time, while the usage detection circuit <b>222</b> has a fast response time. Thus, the controller <b>214</b> is operable to control the semiconductor switch <b>210</b> in response to the control signal provided by the stabilizing circuit <b>220</b> when the usage detection circuit <b>222</b> has detected an actuation of the touch sensitive device <b>150</b>.</p>
+<p id="p-0064" num="0063">If the user interface module <b>130</b> is disconnected from the base module <b>140</b>, the controller <b>214</b> controls of the semiconductor switch <b>210</b> to maintain the intensity of the lighting load <b>208</b> at the last level to which the lighting load was controlled. Also, the controller <b>214</b> is operable to control the semiconductor switch <b>210</b> appropriately in the event of a fault condition (e.g., an overcurrent condition through the semiconductor switch <b>210</b> or overvoltage condition across the dimmer <b>100</b>) when the user interface module <b>130</b> is disconnected from the base module <b>140</b>. Additionally, the user interface module <b>130</b> may comprise a communication circuit (not shown) adapted to be coupled to a communication link (e.g., a wired communication link or a wireless communication link, such as a radio-frequency (RF) or infrared (IR) communication link), such that the controller <b>214</b> is operable to transmit and receive digital messages via the communication link. Accordingly, the controller <b>214</b> may control the semiconductor switch <b>210</b> in response to a received digital message even when the user interface module <b>130</b> is disconnected from the base module <b>140</b>.</p>
+<p id="p-0065" num="0064">The controller <b>214</b> is operable to drive the LEDs <b>152</b> to display a representation of the amount of power being delivered to the lighting load <b>208</b>. The controller <b>214</b> is operable to cause the audible sound generator <b>224</b> to produce an audible sound in response to an actuation of the touch sensitive actuator <b>110</b>.</p>
+<p id="p-0066" num="0065">The memory <b>225</b> is coupled to the controller <b>214</b> and is operable to store control information of the dimmer <b>100</b>. The control information of the dimmer may comprise an advanced programming feature, such as a protected preset, or a fade rate. A user of the dimmer <b>100</b> may adjust the control information stored in the memory <b>225</b> using an advanced programming mode, which is described in greater detail in commonly-assigned U.S. Pat. No. 7,190,125, issued Mar. 13, 2007, entitled PROGRAMMABLE WALLBOX DIMMER, the entire disclosure of which is hereby incorporated by reference. Since the memory <b>225</b> is located in the base module <b>140</b>, the memory <b>225</b> is operable to retain the control information if the user interface module <b>130</b> is replaced, e.g., to change the colors of the LEDs <b>152</b>.</p>
+<p id="p-0067" num="0066">The user interface module <b>130</b> may also comprise a non-volatile memory (not shown). The memory of the user interface module <b>130</b> could store control information specific to the operation of the user interface module, for example, the type of touch sensitive member <b>150</b> or the number of LEDs <b>152</b>. Further, the memory of the user interface module <b>130</b> could also store the function of the user interface module, for example, whether the touch sensitive actuator <b>110</b> provides dimming functionality (to adjust the intensity of the lighting load <b>208</b>), switching functionality (to toggle the lighting load on and off), radio-frequency communication functionality, infrared-receiving functionality (to receive wireless remote control signals), timer functionality (to control the lighting load off after a predetermined amount of time), or occupancy sensor functionality (to control the lighting load in response to a space near the dimmer <b>100</b> being occupied). The controller <b>214</b> could read the memory of the user interface module <b>130</b> at startup and then operate with the desired functionality. Alternatively, the user interface module <b>130</b> could comprise a passive circuit (not shown), for example, a resistor network, coupled to the controller <b>214</b>, such that the controller is responsive to the voltage generated across (and thus, the resistance of) the resistors of resistor network. Accordingly, the resistors of the passive circuit could differ in resistance (between user interface modules <b>130</b> having different functionalities) depending upon the desired functionality of the user interface module.</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. 13A</figref> and <figref idref="DRAWINGS">FIG. 13B</figref> are simplified schematic diagrams of the circuitry between the touch sensitive device <b>150</b> and the controller <b>214</b>, i.e., the stabilizing circuit <b>220</b> and the usage detection circuit <b>222</b>. As shown in <figref idref="DRAWINGS">FIGS. 13A and 13B</figref>, the touch sensitive device <b>150</b> has four connections, i.e., electrodes, and provides two outputs: a first output representative of the position of a point actuation along the Y-axis, i.e., the longitudinal axis of the dimmer <b>100</b> as shown in <figref idref="DRAWINGS">FIG. 5B</figref>, and a second output representative of the position of the point actuation along the X-axis, i.e., an axis perpendicular to the longitudinal axis. The touch sensitive device <b>150</b> provides the outputs depending on how the DC voltage V<sub>CC </sub>and circuit common are connected to the touch sensitive device. The stabilizing circuit <b>220</b> is operatively coupled to the first output and the usage detection circuit <b>222</b> is operatively coupled to the second output.</p>
+<p id="p-0069" num="0068">The controller <b>214</b> controls three switches <b>260</b>, <b>262</b>, <b>264</b> to connect the touch sensitive device <b>150</b> to the DC voltage V<sub>CC </sub>and circuit common. When the switches <b>260</b>, <b>262</b>, <b>264</b> are connected in position A as shown in <figref idref="DRAWINGS">FIG. 13A</figref>, the DC voltage V<sub>CC </sub>is coupled across the Y-axis resistor, and the X-axis resistor provides the output to the stabilizing circuit <b>220</b>. When the switches <b>260</b>, <b>262</b>, <b>264</b> are connected in position B as shown in <figref idref="DRAWINGS">FIG. 13B</figref>, the DC voltage V<sub>CC </sub>is coupled across the X-axis resistor, and the Y-axis resistor provides the output to the usage detection circuit <b>222</b>.</p>
+<p id="p-0070" num="0069">The stabilizing circuit <b>220</b> comprises a capacitor C<b>230</b>, has a substantially large value of capacitance, e.g., 10 &#x3bc;F. When the switches <b>260</b>, <b>262</b>, <b>264</b> are connected in position A as shown in <figref idref="DRAWINGS">FIG. 13A</figref>, the capacitor C<b>230</b> of the stabilizing circuit <b>220</b> is coupled to the output of the touch sensitive device <b>150</b>, such that the output voltage is filtered by the capacitor C<b>230</b>. When a touch is present on the actuation member <b>112</b>, the voltage on the capacitor C<b>230</b> will be forced to a steady-state voltage representing the position of the touch on the actuation member <b>112</b>. When no touch is present, the voltage on the capacitor will remain at a voltage representing the position of the last touch. When a light or transient press is applied to the touch sensitive device <b>150</b>, the capacitor C<b>230</b> will continue to hold the output at the voltage representing the position of the last touch. The output of the stabilizing circuit <b>220</b> is representative of only the position of the point of actuation of the touch sensitive device <b>150</b>.</p>
+<p id="p-0071" num="0070">The usage detection circuit <b>222</b> comprises a resistor R<b>234</b> and a capacitor C<b>236</b>. When the switches <b>260</b>, <b>262</b>, <b>264</b> are connected in position B as shown in <figref idref="DRAWINGS">FIG. 13B</figref>, the parallel combination of the resistor R<b>234</b> and the capacitor C<b>236</b> is coupled to the output of the touch sensitive device <b>150</b>. The capacitor C<b>236</b> may have a substantially small capacitance C<sub>236</sub>, such that the capacitor C<b>236</b> charges substantially quickly in response to all point actuations on the touch sensitive actuator <b>110</b>. The resistor R<b>234</b> allows the capacitor C<b>236</b> to discharge quickly when the switch <b>260</b> is in position A. Therefore, the output of the usage detection circuit <b>222</b> is representative of the instantaneous usage of the touch sensitive device <b>150</b>.</p>
+<p id="p-0072" num="0071">The controller <b>214</b> controls the switches <b>260</b>, <b>262</b>, <b>264</b> to position B for a short period of time t<sub>USAGE </sub>once every half-cycle of the voltage source <b>204</b> to determine whether the user is actuating the touch sensitive actuator <b>110</b>. For example, the short period of time t<sub>USAGE </sub>may be approximately 100 &#x3bc;sec or 1% of the half-cycle (assuming each half-cycle is 8.33 msec long). For the remainder of the time, the switches <b>260</b>, <b>262</b>, <b>264</b> are in position A, such that the capacitor C<b>230</b> is operable to charge to a voltage representing the position of the touch on the actuation member <b>112</b> when the touch sensitive device <b>110</b> is presently being actuated. When the switches <b>260</b>, <b>262</b>, <b>264</b> are in position B, the controller <b>214</b> determines whether the touch sensitive device <b>150</b> is presently being actuated using the usage detection circuit <b>222</b>, and the capacitor C<b>230</b> of the stabilizing circuit <b>220</b> is unable to discharge at a significant rate, such that the voltage developed across the capacitor C<b>230</b> does not change significantly. The operation of the stabilizing circuit <b>220</b>, the usage detection circuit <b>222</b>, and the switches <b>260</b>, <b>262</b>, <b>264</b> is described in greater detail in co-pending, commonly-assigned U.S. patent application Ser. No. 11/471,914, filed Jun. 20, 2006, entitled FORCE INVARIANT TOUCH SCREEN, the entire disclosure of which is hereby incorporated by reference.</p>
+<p id="p-0073" num="0072"><figref idref="DRAWINGS">FIG. 14</figref> is a simplified schematic diagram of the audible sound generator <b>224</b> of the dimmer <b>100</b>. The audible sound generator <b>224</b> uses an audio power amplifier integrated circuit (IC) <b>240</b>, for example, part number TPA721 manufactured by Texas Instruments, Inc., to generate a sound from a piezoelectric or magnetic speaker <b>242</b>. The amplifier IC <b>240</b> is coupled to the DC voltage V<sub>CC </sub>(pin <b>6</b>) and circuit common (pin <b>7</b>) to power the amplifier IC. A capacitor C<b>244</b> (e.g., having a capacitance of 0.1 &#x3bc;F) is coupled between the DC voltage V<sub>CC </sub>and circuit common to decouple the power supply voltage and to ensure the output total harmonic distortion (THD) is as low as possible.</p>
+<p id="p-0074" num="0073">The audible sound generator <b>224</b> receives a SOUND ENABLE signal <b>246</b> from the controller <b>214</b>. The SOUND ENABLE signal <b>246</b> is provided to an enable pin (i.e., pin <b>1</b>) on the amplifier IC <b>240</b>, such that the audible sound generator <b>224</b> will be operable to generate the sound when the SOUND ENABLE signal is at a logic high level.</p>
+<p id="p-0075" num="0074">The audible sound generator <b>224</b> further receives a SOUND WAVE signal <b>248</b> from the controller <b>214</b>. The SOUND WAVE signal <b>248</b> is an audio signal that is amplified by the amplifier IC <b>240</b> to generate the appropriate sound at the speaker <b>242</b>. The SOUND WAVE signal <b>248</b> is first filtered by a low-pass filter comprising a resistor R<b>250</b> and a capacitor C<b>252</b>. For example, the resistor R<b>250</b> has a resistance of 1 k&#x3a9; and the capacitor C<b>252</b> has a capacitance of 0.1 nF. The filtered signal is then passed through a capacitor C<b>254</b> to produce an input signal V<sub>IN</sub>. The capacitor C<b>254</b> allows the amplifier IC to bias the input signal V<sub>IN </sub>to the proper DC level for optimum operation and has, for example, a capacitance of 0.1&#xb0; F. The input signal V<sub>IN </sub>is provided to a negative input (pin <b>4</b>) of the amplifier IC <b>240</b> through a input resistor R<b>1</b>. A positive input (pin <b>3</b>) of the amplifier IC <b>240</b> and a bypass pin (pin <b>2</b>) are coupled to circuit common through a bypass capacitor C<b>256</b> (e.g., having a capacitance of 0.1 &#x3bc;F).</p>
+<p id="p-0076" num="0075">The output signal V<sub>OUT </sub>of the amplifier IC <b>240</b> is produced from a positive output (pin <b>5</b>) to a negative output (pin <b>8</b>) and is provided to the speaker <b>242</b>. The negative input (pin <b>4</b>) is coupled to the positive output (pin <b>5</b>) through an output resistor R<sub>F</sub>. The gain of the amplifier IC <b>240</b> is set by the input resistor R<sub>I </sub>and the feedback resistor R<sub>F</sub>, i.e.,
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>Gain=<i>V</i><sub>OUT</sub><i>/V</i><sub>IN</sub>=&#x2212;2&#xb7;(<i>R</i><sub>F</sub><i>/R</i><sub>I</sub>).<?in-line-formulae description="In-line Formulae" end="tail"?>
+<br/>
+For example, the input resistor R<b>1</b> and the output resistor RF both have resistances of 10 k&#x3a9;, such that the gain of the amplifier IC <b>240</b> is negative two (&#x2212;2).
+</p>
+<p id="p-0077" num="0076"><figref idref="DRAWINGS">FIG. 15</figref> is a flowchart of an actuation procedure <b>300</b> executed by the controller <b>214</b> of the dimmer <b>100</b> according to the present invention. The actuation procedure <b>300</b> is called from the main loop of the software of the controller <b>214</b>, for example, once every half-cycle of the AC voltage source <b>204</b>. The actuation procedure <b>300</b> selectively executes one of three procedures depending upon the state of the dimmer <b>100</b>. If the dimmer <b>100</b> is in an &#x201c;Idle&#x201d; state (i.e., the user is not actuating the touch sensitive device <b>150</b>) at step <b>310</b>, the controller <b>214</b> executes an Idle procedure <b>400</b>. If the dimmer <b>100</b> is in an &#x201c;ActiveHold&#x201d; state (i.e., the user is presently actuating the touch sensitive device <b>150</b>) at step <b>320</b>, the controller <b>214</b> executes an ActiveHold procedure <b>500</b>. If the dimmer <b>100</b> is in a &#x201c;Release&#x201d; state (i.e., the user has recently ceased actuating the touch sensitive device <b>150</b>) at step <b>330</b>, the controller <b>214</b> executes a Release procedure <b>600</b>.</p>
+<p id="p-0078" num="0077"><figref idref="DRAWINGS">FIG. 16</figref> is a flowchart of the Idle procedure <b>400</b> according to the present invention. The controller <b>114</b> uses a &#x201c;sound flag&#x201d; and a &#x201c;sound counter&#x201d; to determine when to cause the audible sound generator <b>224</b> to generate the audible sound. The purpose of the sound flag is to cause the sound to be generated the first time that the controller <b>214</b> executes the ActiveHold procedure <b>500</b> after being in the Idle state. If the sound flag is set, the controller <b>214</b> will cause the sound to be generated. The sound counter is used to ensure that the controller <b>214</b> does not cause the audible sound generator <b>224</b> to generate the audible sound too often. The sound counter has a maximum sound counter value S<sub>MAX</sub>, e.g., approximately 425 msec. Accordingly, there is a gap of approximately 425 msec between generations of the audible sound. The sound counter is started during the Release procedure <b>600</b> as will be described in greater detail below. Referring to <figref idref="DRAWINGS">FIG. 16</figref>, upon entering the Idle state, the controller <b>214</b> sets the sound flag at step <b>404</b> if the sound flag is not set at step <b>402</b>.</p>
+<p id="p-0079" num="0078">An &#x201c;LED counter&#x201d; and an &#x201c;LED mode&#x201d; are used by the controller <b>214</b> to control the visual indicators <b>114</b> (i.e., the LEDs <b>152</b>) of the dimmer <b>100</b>. The controller <b>214</b> uses the LED counter to determine when a predetermined time t<sub>LED </sub>has expired since the touch sensitive device <b>150</b> was actuated. When the predetermined time t<sub>LED </sub>has expired, the controller <b>214</b> will change the LED mode from &#x201c;active&#x201d; to &#x201c;inactive&#x201d;. When the LED mode is &#x201c;active&#x201d;, the visual indicators <b>114</b> are controlled such that one or more of the visual indicators are illuminated to a bright level. When the predetermined time t<sub>LED </sub>expires, the LED mode is changed to &#x201c;inactive&#x201d;, i.e., the visual indicators <b>114</b> are controlled such that one or more of the visual indicators are illuminated to a dim level. Referring to <figref idref="DRAWINGS">FIG. 16</figref>, if the LED counter is less than a maximum LED counter value L<sub>MAX </sub>at step <b>410</b>, the LED counter is incremented at step <b>412</b> and the process moves on to step <b>418</b>. However, if the LED counter is not less than the maximum LED counter value L<sub>MAX</sub>, the LED counter is cleared at step <b>414</b> and the LED mode is set to inactive at step <b>416</b>. Since the actuation procedure <b>300</b> is executed once every half-cycle, the predetermined time t<sub>LED </sub>is equal to
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>t</i><sub>LED</sub><i>=T</i><sub>HALF</sub><i>&#xb7;L</i><sub>MAX</sub>,<?in-line-formulae description="In-line Formulae" end="tail"?>
+<br/>
+where T<sub>HALF </sub>is the period of a half-cycle.
+</p>
+<p id="p-0080" num="0079">Next, the controller <b>214</b> samples the output of the usage detection circuit <b>222</b> to determine if the touch sensitive device <b>150</b> is being actuated. For example, the usage detection circuit <b>222</b> may be monitored once every half-cycle of the voltage source <b>204</b>. At step <b>418</b>, the controller <b>214</b> controls the switches <b>260</b>, <b>262</b>, <b>264</b> to position B to couple the resistor R<b>234</b> and the capacitor C<b>236</b> to the output of the touch sensitive device <b>150</b>. The controller <b>214</b> samples the DC voltage of the output of the usage detection circuit <b>222</b> at step <b>420</b> by using, for example, an analog-to-digital converter (ADC). Next, the controller <b>214</b> controls the switches <b>260</b>, <b>262</b>, <b>264</b> to position A at step <b>422</b>.</p>
+<p id="p-0081" num="0080">At step <b>424</b>, if there is activity on the touch sensitive actuator <b>110</b> of the dimmer <b>100</b>, i.e., if the DC voltage sampled at step <b>420</b> is above a predetermined minimum voltage threshold, then an &#x201c;activity counter&#x201d; is incremented at step <b>426</b>. Otherwise, the activity counter is cleared at step <b>428</b>. The activity counter is used by the controller <b>214</b> to determine if the DC voltage determined at step <b>420</b> is the result of a point actuation of the touch sensitive device <b>150</b> rather than noise or some other undesired impulse. The use of the activity counter is similar to a software &#x201c;debouncing&#x201d; procedure for a mechanical switch, which is well known to one having ordinary skill in the art. If the activity counter is not less than a maximum activity counter value A<sub>MAX </sub>at step <b>430</b>, then the dimmer state is set to the ActiveHold state at step <b>432</b>. Otherwise, the process simply exits at step <b>434</b>.</p>
+<p id="p-0082" num="0081"><figref idref="DRAWINGS">FIGS. 17A and 17B</figref> are flowcharts of the ActiveHold procedure <b>500</b>, which is executed once every half-cycle when the touch sensitive device <b>150</b> is being actuated, i.e., when the dimmer <b>100</b> is in the ActiveHold state. First, a determination is made as to whether the user has stopped using, i.e., released, the touch sensitive device <b>150</b>. The controller <b>214</b> controls the switches <b>260</b>, <b>262</b>, <b>264</b> to position B at step <b>510</b>, and samples the output of the usage detection circuit <b>222</b> at step <b>512</b>. At step <b>514</b>, the controller <b>214</b> controls the switches <b>260</b>, <b>262</b>, <b>264</b> to position A. If there is no activity on the touch sensitive actuator <b>110</b> of the dimmer <b>100</b> at step <b>516</b>, the controller <b>214</b> increments an &#x201c;inactivity counter&#x201d; at step <b>518</b>. The controller <b>214</b> uses the inactivity counter to make sure that the user is not still actuating the touch sensitive device <b>150</b> before entering the Release mode. If the inactivity counter is less than a maximum inactivity counter value IMAX at step <b>520</b>, the process exits at step <b>538</b>. Otherwise, the dimmer state is set to the Release state at step <b>522</b>, and then the process exits.</p>
+<p id="p-0083" num="0082">If there is activity on the touch sensitive device <b>150</b> at step <b>516</b>, the controller <b>214</b> samples the output of the stabilizing circuit <b>220</b>, which is representative of the position of the point actuation on the touch sensitive actuator <b>110</b> of the dimmer <b>100</b>. Since the switches <b>260</b>, <b>262</b>, <b>264</b> are in position A, the controller <b>214</b> determines the DC voltage at the output of the stabilizing circuit <b>220</b> at step <b>524</b> using, for example, the analog-to-digital converter.</p>
+<p id="p-0084" num="0083">Next, the controller <b>214</b> uses a buffer to &#x201c;filter&#x201d; the output of stabilizing circuit <b>220</b>. When a user actuates the touch sensitive device <b>150</b>, the capacitor C<b>230</b> will charge across a period of time sampled by the first time constant &#x3c4;<sub>1 </sub>to approximately the steady-state voltage representing the position of the point actuation on the actuation member <b>112</b> as previously described. Since the voltage across the capacitor C<b>230</b>, i.e., the output of the stabilizing circuit <b>220</b>, is increasing during this time, the controller <b>214</b> delays for a predetermined period of time at step <b>525</b>, e.g., for approximately three (3) half-cycles.</p>
+<p id="p-0085" num="0084">When a user's finger is removed from the actuation member <b>112</b>, subtle changes in the force and position of the point actuation occur, i.e., a &#x201c;finger roll-off&#x201d; event occurs. Accordingly, the output signal of the touch sensitive device <b>150</b> is no longer representative of the position of the point actuation. To prevent the controller <b>214</b> from processing samples during a finger roll-off event, the controller <b>214</b> saves the samples in the buffer and processes the samples with a delay, e.g., six half-cycles later. Specifically, when the delay is over at step <b>525</b>, the controller <b>214</b> rotates the new sample (i.e., from step <b>524</b>) into the buffer at step <b>526</b>. If the buffer has at least six samples at step <b>528</b>, the controller <b>214</b> averages the samples in the fifth and sixth positions in the buffer at step <b>530</b> to produce the touch position data. In this way, when the user stops actuating the touch sensitive device <b>150</b>, the controller <b>214</b> detects this change at step <b>516</b> and sets the dimmer state to the Release state at step <b>522</b> before the controller processes the samples saved in the buffer near the transition time of the touch sensitive device.</p>
+<p id="p-0086" num="0085">At step <b>532</b>, the controller <b>114</b> determines if the touch position data from step <b>530</b> is in a keepout region, i.e., near the notch <b>125</b>. If the touch position data is in the keepout region, the ActiveHold procedure <b>500</b> simply exits at step <b>538</b>. Otherwise, a determination is made at step <b>534</b> as to whether the sound should be generated. Specifically, if the sound flag is set and if the sound counter has reached a maximum sound counter value S<sub>MAX</sub>, the controller <b>214</b> drives the SOUND ENABLE signal <b>246</b> high and provides the SOUND WAVE signal <b>248</b> to the audible sound generator <b>224</b> to generate the sound at step <b>535</b>. Further, the sound flag is cleared at step <b>536</b> such that the sound will not be generated as long as the dimmer <b>100</b> remains in the ActiveHold state.</p>
+<p id="p-0087" num="0086">If the touch position data is in the toggle area, i.e., the lower portion <b>112</b>B of the actuation member <b>112</b>, at step <b>540</b>, the controller <b>214</b> processes the actuation of the touch sensitive device <b>150</b> as a toggle. If the lighting load <b>208</b> is presently off at step <b>542</b>, the controller <b>214</b> turns the lighting load on. Specifically, the controller <b>214</b> illuminates the lower portion <b>112</b>B of the actuation member <b>112</b> with the blue LED <b>155</b>A at step <b>544</b> and dims the lighting load <b>208</b> up to the preset level, i.e., the desired lighting intensity of the lighting load, at step <b>546</b>. If the lighting load is presently on at step <b>542</b>, the controller <b>214</b> turns on the orange LED <b>155</b>B at step <b>548</b> and fades the lighting load <b>208</b> to off at step <b>550</b>.</p>
+<p id="p-0088" num="0087">If the touch position data is not in the toggle area at step <b>540</b>, the controller <b>214</b> scales the touch position data, i.e., the sample of the output of the stabilizing circuit <b>220</b>, at step <b>552</b>. The output of the stabilizing circuit <b>220</b> is a DC voltage between a maximum value, e.g., substantially the DC voltage V<sub>CC</sub>, and a minimum value, which corresponds to the DC voltage provided by the touch sensitive device <b>150</b> when a user is actuating the lower end of the upper portion <b>112</b>A of the actuation member <b>112</b>. The controller <b>214</b> scales this DC voltage to be a value between off (i.e., 1%) and full intensity (i.e., 100%) of the lighting load <b>208</b>. At step <b>554</b>, the controller <b>214</b> dims the lighting load <b>208</b> to the scaled level produced in step <b>552</b>.</p>
+<p id="p-0089" num="0088">Next, the controller <b>214</b> changes the LEDs <b>152</b> located behind the actuation member <b>112</b>. As a user actuates the touch sensitive device <b>150</b> to change intensity of the lighting load <b>208</b>, the controller <b>214</b> decides whether to change the LED <b>152</b> that is presently illuminated. For example, the controller <b>214</b> may use hysteresis to control the LEDs <b>152</b> such that if the user actuates the upper portion <b>112</b>A of the actuation member <b>112</b> at a boundary between two of the regions of intensities described above, consecutive visual indicators do not toggle back and forth.</p>
+<p id="p-0090" num="0089">Referring to <figref idref="DRAWINGS">FIG. 17B</figref>, a determination is made as to whether a change is needed as to which LED <b>152</b> is illuminated at step <b>556</b>. If the present LED <b>152</b> (in result to the touch position data from step <b>530</b>) is the same as the previous LED, then no change in the LED is required. The present LED <b>152</b> is set the same as the previous LED at step <b>558</b>, a hysteresis counter is cleared at step <b>560</b>, and the process exits at step <b>570</b>.</p>
+<p id="p-0091" num="0090">If the present LED <b>152</b> is not the same as the previous LED at step <b>556</b>, the controller <b>214</b> determines if the LED should be changed. Specifically, at step <b>562</b>, the controller <b>214</b> determines if present LED <b>152</b> would change if the light level changed by 2% from the light level indicated by the touch position data. If not, the hysteresis counter is cleared at step <b>560</b> and the process exits at step <b>570</b>. Otherwise, the hysteresis counter is incremented at step <b>564</b>. If the hysteresis counter is less than a maximum hysteresis counter value H<sub>MAX </sub>at step <b>566</b>, the process exits at step <b>570</b>. Otherwise, the LEDs <b>152</b> are changed accordingly based on the last sample of the output of the stabilizing circuit <b>220</b> at step <b>568</b>.</p>
+<p id="p-0092" num="0091"><figref idref="DRAWINGS">FIG. 18</figref> is a flowchart of the Release procedure <b>600</b>, which is executed after the controller <b>214</b> sets the dimmer state to the Release state at step <b>522</b> of the ActiveHold procedure <b>500</b>. First, a save flag is set at step <b>610</b>. Next, the sound counter is reset at step <b>612</b> to ensure that the sound will not be generated again, e.g., for 18 half-cycles. At step <b>618</b>, a determination is made as to whether the dimmer <b>100</b> is presently executing a fade-to-off. If not, the present level is saved as the preset level in the memory <b>225</b> at step <b>620</b>. Otherwise, the desired lighting intensity is set to off at step <b>622</b>, the long fade countdown in started at step <b>624</b>, and the preset level is saved as off in the memory <b>225</b> at step <b>626</b>.</p>
+<p id="p-0093" num="0092">Although the present invention has been described in relation to particular embodiments thereof, many other variations and modifications and other uses will become apparent to those skilled in the art. It is preferred, therefore, that the present invention be limited not by the specific disclosure herein, but only by the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A load control device for controlling the amount of power delivered from an AC power source to an electrical load, the load control device comprising:
+<claim-text>a user interface module comprising a first connector; and</claim-text>
+<claim-text>a base module comprising a controllably conductive device adapted to be coupled in series electrical connection between the AC power source and the electrical load, a controller for controlling the controllably conductive device to control the amount of power delivered to the electrical load, and a second connector adapted to be coupled to the first connector of the user interface module, the base module further comprising:</claim-text>
+<claim-text>a main printed circuit board, the controllably conductive device and the controller electrically connected to the main printed circuit board;</claim-text>
+<claim-text>a connector printed circuit board, the second connector mounted to the connector printed circuit board; and</claim-text>
+<claim-text>a cable electrically connecting the main printed circuit board and the connector printed circuit board;</claim-text>
+<claim-text>wherein the second connector of the base module is adapted to move along both the longitudinal axis and the lateral axis of the load control device to allow for alignment of the user interface module on the base module.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The load control device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first connector of the user interface module comprises a plurality of pins and the second connector of the base module comprises a plurality of holes for receipt of the plurality of pins of the first connector, such that the user interface module is electrically connected to the base module when the first connector is coupled to the second connector.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The load control device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>an enclosure, the main printed circuit board fixedly mounted to an interior of the enclosure, the connector printed circuit board slidably captured by the enclosure.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The load control device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the cable comprises a ribbon cable.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The load control device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the user interface module comprises an actuator operable to receive a user input, the controller responsive to the actuator when the first connector is coupled to the second connector.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The load control device of <claim-ref idref="CLM-00002">claim 2</claim-ref>, further comprising:
+<claim-text>a frame having an opening and connected to the connector printed circuit board, the first connector of the user interface module received through the opening of the frame to connect to the second connector of the base module.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The load control device of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the plurality of pins of the first connector are surrounded by walls, the walls defining alignment rails adapted to be received in notches of the opening of the frame.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The load control device of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the enclosure comprises a support rail, the connector printed circuit board adapted to slide across the support rail of the enclosure.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The load control device of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the actuator comprises a touch sensitive actuator having an actuation member operable to contact a touch sensitive device.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The load control device of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the user interface module comprises a visual display for displaying a representation of an amount of power being delivered to the electrical load, the controller operatively coupled to the visual display when the first connector is coupled to the second connector.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A load control device for controlling the amount of power delivered from an AC power source to an electrical load, the load control device comprising:
+<claim-text>a user interface module comprising a first connector, an actuator operable to receive a user input, and a visual display for displaying a representation of an amount of power being delivered to the electrical load; and</claim-text>
+<claim-text>a base module comprising a controllably conductive device adapted to be coupled in series electrical connection between the AC power source and the electrical load, and a controller for controlling the controllably conductive device to control the amount of power delivered to the electrical load, the base module further comprising a second connector adapted to be coupled to the first connector of the user interface module, the controller responsive to the actuator and operatively coupled to the visual display when the first connector is coupled to the second connector;</claim-text>
+<claim-text>wherein the second connector is adapted to move along both a longitudinal axis and a lateral axis of the load control device to align the user interface module on the base module.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The load control device of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the actuator comprises a touch sensitive actuator having an actuation member operable to contact a touch sensitive device.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The load control device of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the base module further comprises:
+<claim-text>a main printed circuit board, the controllably conductive device and the controller electrically connected to the main printed circuit board;</claim-text>
+<claim-text>a connector printed circuit board, the second connector mounted to the connector printed circuit board; and</claim-text>
+<claim-text>a cable electrically connecting the main printed circuit board and the connector printed circuit board, such the connector printed circuit board is operable to move along the longitudinal axis and the lateral axis of the load control device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. A load control device for controlling the amount of power delivered from an AC power source to an electrical load, the load control device comprising:
+<claim-text>a user interface module comprising a first connector and an actuator operable to receive a user input;</claim-text>
+<claim-text>a base module comprising a second connector adapted to be coupled to the first connector of the user interface module, the second connector adapted to move along a longitudinal axis and a lateral axis of the load control device to align the user interface module on the base module; and</claim-text>
+<claim-text>a faceplate having an opening, the actuator of the user interface module adapted to be provided in the opening of the faceplate;</claim-text>
+<claim-text>wherein the second connector is adapted to move along the longitudinal axis and the lateral axis of the load control device to align the actuator within the opening of the faceplate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The load control device of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the user interface module comprises a post and the base module comprises an opening adapted to receive the post, so as to allow for alignment of the user interface module and the base module.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The load control device of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the base module comprises a controllably conductive device adapted to be coupled in series electrical connection between the electrical load and the AC power source, and a controller for controlling the controllably conductive device to control the amount of power delivered to the electrical load.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The load control device of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the controller is responsive to the actuator when the first connector is coupled to the second connector.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The load control device of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the base module further comprises:
+<claim-text>a main printed circuit board, the controllably conductive device and the controller electrically connected to the main printed circuit board;</claim-text>
+<claim-text>a connector printed circuit board, the second connector mounted to the connector printed circuit board; and</claim-text>
+<claim-text>a cable electrically connecting the main printed circuit board and the connector printed circuit board, such the connector printed circuit board is operable to move along the longitudinal axis and the lateral axis of the load control device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The load control device of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the actuator comprises a touch sensitive actuator having an actuation member operable to contact a touch sensitive device.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The load control device of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the user interface module comprises a visual display for displaying a representation of an amount of power being delivered to the electrical load, the controller operatively coupled to the visual display when the first connector is coupled to the second connector.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. A load control device for controlling the amount of power delivered to an electrical load from an AC power source, the load control device comprising:
+<claim-text>a user interface module comprising a first connector and an actuator operable to receive a user input;</claim-text>
+<claim-text>a base module having a front surface defining a plane, the base module comprising a second connector adapted to be coupled to the first connector of the user interface module; and</claim-text>
+<claim-text>a faceplate having an opening, the actuator of the user interface module adapted to be provided in the opening of the faceplate;</claim-text>
+<claim-text>wherein the second connector is adapted to move in a plane substantially parallel to the plane of the front surface to allow for alignment of the actuator of the user interface module within the opening of the faceplate.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

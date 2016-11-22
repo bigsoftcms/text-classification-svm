@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640798-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640798</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12000462</doc-number>
+<date>20071213</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2006-346565</doc-number>
+<date>20061222</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>19</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>F</subclass>
+<main-group>1</main-group>
+<subgroup>68</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 7320426</main-classification>
+</classification-national>
+<invention-title id="d0e71">Semiconductor device for detecting flow rate of fluid</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4893508</doc-number>
+<kind>A</kind>
+<name>Friedman</name>
+<date>19900100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 7333502</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6490915</doc-number>
+<kind>B2</kind>
+<name>Yamada et al.</name>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6812821</doc-number>
+<kind>B2</kind>
+<name>Fujita et al.</name>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>338 34</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6883371</doc-number>
+<kind>B2</kind>
+<name>Sugaya et al.</name>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 7333505</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6983653</doc-number>
+<kind>B2</kind>
+<name>Iwaki et al.</name>
+<date>20060100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>7219543</doc-number>
+<kind>B2</kind>
+<name>Tanaka et al.</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>7219544</doc-number>
+<kind>B2</kind>
+<name>Tanaka et al.</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>7531136</doc-number>
+<kind>B2</kind>
+<name>Besnard et al.</name>
+<date>20090500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>422 8202</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2004/0254306</doc-number>
+<kind>A1</kind>
+<name>Isogai et al.</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>JP</country>
+<doc-number>A-10-197305</doc-number>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>JP</country>
+<doc-number>A-2003-232765</doc-number>
+<date>20030800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>JP</country>
+<doc-number>A-2005-257474</doc-number>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>JP</country>
+<doc-number>A-2005-257590</doc-number>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>JP</country>
+<doc-number>A-2006-71647</doc-number>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>JP</country>
+<doc-number>A-2006-352666</doc-number>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>JP</country>
+<doc-number>A-2007-155556</doc-number>
+<date>20070600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>14</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 7320426</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73 2901</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73 3136</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 7333505</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>422 8202</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>338 34</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>16</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080148842</doc-number>
+<kind>A1</kind>
+<date>20080626</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Oda</last-name>
+<first-name>Teruo</first-name>
+<address>
+<city>Gamagori</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Posz Law Group, PLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>DENSO CORPORATION</orgname>
+<role>03</role>
+<address>
+<city>Kariya</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Thompson</last-name>
+<first-name>Jewel</first-name>
+<department>2855</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A semiconductor device includes: a semiconductor substrate; a flow sensor having a first heater for detecting a flow rate of fluid; and a humidity sensor for detecting a humidity of the fluid. The flow sensor and the humidity sensor are disposed on the semiconductor substrate. The flow sensor is disposed around the humidity sensor. The humidity sensor is disposed on an upstream side of the first heater. Since the device includes the humidity sensor, moisture in the fluid is compensated so that detection accuracy of the flow rate is improved.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="88.73mm" wi="80.77mm" file="US07640798-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="248.24mm" wi="149.18mm" file="US07640798-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="254.85mm" wi="171.37mm" file="US07640798-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="248.24mm" wi="169.76mm" file="US07640798-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="253.24mm" wi="177.55mm" file="US07640798-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="88.82mm" wi="172.64mm" file="US07640798-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This application is based on Japanese Patent Application No. 2006-346565 filed on Dec. 22, 2006, the disclosure of which is incorporated herein by reference.</p>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates to a semiconductor device for detecting a flow rate of fluid.</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">A semiconductor device for detecting a flow rate of fluid is known as disclosed in, for example, Japanese Patent No. 3,468,731 corresponding to U.S. Pat. No. 6,490,915.</p>
+<p id="p-0005" num="0004">In a semiconductor of this kind, a heating element (heating resistance element) and a temperature sensing element (temperature sensing resistance element) for sensing temperature of a portion around the heating element are formed on a semiconductor substrate, and a flow detector for detecting flow rate of a fluid is constructed.</p>
+<p id="p-0006" num="0005">Fluid (for example, air) contains moisture. When the flow rate of the fluid is detected by the semiconductor device, therefore, an error occurs only by the amount of the moisture content. Such an error is not preferred in uses requiring high-precision flow rate (air volume), particularly, like in fuel injection control of an internal combustion engine of a vehicle.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0007" num="0006">In view of the above-described problem, it is an object of the present disclosure to provide a semiconductor device for detecting a flow rate of fluid.</p>
+<p id="p-0008" num="0007">According to a first aspect of the present disclosure, a semiconductor device includes: a semiconductor substrate; a flow sensor having a first heater for detecting a flow rate of fluid; and a humidity sensor for detecting a humidity of the fluid. The flow sensor and the humidity sensor are disposed on the semiconductor substrate. The flow sensor is disposed around the humidity sensor. The humidity sensor is disposed on an upstream side of the first heater.</p>
+<p id="p-0009" num="0008">Since the above device includes the humidity sensor, moisture in the fluid is compensated so that detection accuracy of the flow rate is improved. Further, the humidity sensor is disposed near the flow sensor, the humidity near the flow sensor is detected by the humidity sensor so that the detection accuracy of the flow rate is much improved. Furthermore, since the humidity sensor and the flow sensor are disposed on the same substrate, the dimensions of the device are minimized. Further, the humidity sensor is not substantially affected by heat generated by a heater in the flow sensor humidity sensor. Thus, the detection accuracy of the flow rate is improved.</p>
+<p id="p-0010" num="0009">According to a second aspect of the present disclosure, a semiconductor device includes: a semiconductor substrate; a flow sensor for detecting a flow rate of fluid; a humidity sensor for detecting a humidity of the fluid; a resin mold for molding a part of the semiconductor substrate; and a lead terminal, a part of which is molded in the resin mold. The flow sensor and the humidity sensor are disposed on another part of the semiconductor substrate so that the flow sensor and the humidity sensor are not covered with the resin mold. The humidity sensor is disposed on an upstream side of the first heater. The semiconductor substrate includes a concavity and a pad. The concavity is disposed opposite to the humidity sensor and the flow sensor. The pad is disposed on the substrate. The humidity sensor and the flow sensor are coupled with the pad so that the humidity sensor and the flow sensor output detection signals through the pad. The pad is coupled with the lead terminal with a wire. The resin mold molds a connection portion between the pad and the wire and the wire.</p>
+<p id="p-0011" num="0010">Since the above device includes the humidity sensor, moisture in the fluid is compensated so that detection accuracy of the flow rate is improved. Further, the humidity sensor is disposed near the flow sensor, the humidity near the flow sensor is detected by the humidity sensor so that the detection accuracy of the flow rate is much improved. Furthermore, since the humidity sensor and the flow sensor are disposed on the same substrate, the dimensions of the device are minimized. Further, the humidity sensor is not substantially affected by heat generated by a heater in the flow sensor humidity sensor. Thus, the detection accuracy of the flow rate is improved.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0012" num="0011">The above and other objects, features and advantages of the present invention will become more apparent from the following detailed description made with reference to the accompanying drawings. In the drawings:</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> is a plan view showing a schematic configuration of a semiconductor device of a first embodiment;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic cross section taken along line II-II of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 3</figref> is an enlarged plan view of a portion around a flow sensor;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4</figref> is an enlarged plan view of a portion around a humidity sensor;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic plan view showing the positional relation between a moisture sensitive film and a high polymer film over a semiconductor substrate;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 6</figref> is a cross section showing a modification;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 7</figref> is a plan view showing a second modification;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 8</figref> is a schematic plan view showing the positional relation between a moisture sensitive film and a high polymer film over a semiconductor substrate in a semiconductor device of a second embodiment;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 9</figref> is a schematic cross section of a semiconductor device;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 10</figref> is a plan view showing a schematic configuration of a semiconductor device of a third embodiment;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 11</figref> is a plan view showing a schematic configuration of a semiconductor device of a fourth embodiment;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 12</figref> is a schematic cross section showing suppression of heat conduction from a flow sensor to a humidity sensor via a semiconductor substrate;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 13</figref> is a cross section showing a schematic configuration of a semiconductor device of a fifth embodiment;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 14</figref> is a schematic plan view showing wiring widths of a heating element and a dehumidification heater in a wiring part;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 15</figref> is a cross section showing a modification of the fifth embodiment; and</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 16</figref> is a cross section showing a second modification of the fifth embodiment.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<heading id="h-0007" level="1">First Embodiment</heading>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 1</figref> is a plan view showing a schematic configuration of a semiconductor device of a first embodiment of the present disclosure. <figref idref="DRAWINGS">FIG. 2</figref> is a schematic cross section taken along line II-II of <figref idref="DRAWINGS">FIG. 1</figref>. <figref idref="DRAWINGS">FIG. 3</figref> is an enlarged plan view of a portion around a flow sensor. <figref idref="DRAWINGS">FIG. 4</figref> is an enlarged plan view of a portion around a humidity sensor. <figref idref="DRAWINGS">FIG. 5</figref> is a schematic plan view showing the positional relation between a moisture sensitive film and a high polymer film over a semiconductor substrate. In <figref idref="DRAWINGS">FIG. 2</figref>, for convenience, a flow sensor and a circuit part are not shown. In <figref idref="DRAWINGS">FIGS. 3 and 4</figref>, for convenience, insulating films such as a protection film are not shown. In the following diagrams, a hollow arrow expresses the flow direction of a fluid in normal times.</p>
+<p id="p-0030" num="0029">As shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, on a semiconductor substrate <b>110</b>, a flow sensor <b>120</b> for sensing a flow rate of fluid and a humidity sensor <b>130</b> for sensing humidity of the fluid are formed as main components of a semiconductor device <b>100</b>. That is, the flow sensor <b>120</b> and the humidity sensor <b>130</b> are integrated on a single chip.</p>
+<p id="p-0031" num="0030">The flow sensor <b>120</b> is constructed as a so-called thermal flow sensor. Concretely, as shown in <figref idref="DRAWINGS">FIGS. 2 and 3</figref>, a cavity <b>111</b> for flow is formed as a low heat conduction area in a part of a flow sensor formation area in the silicon substrate as the semiconductor substrate <b>110</b>. A thin portion <b>112</b> (membrane) of an insulting film is formed over the cavity <b>111</b> for flow. More specifically, the semiconductor substrate <b>110</b> is subject to anisotropic etching from the back side of the flow sensor formation face, thereby obtaining the thin portion <b>112</b>. In <figref idref="DRAWINGS">FIG. 3</figref>, smaller one of two rectangular areas surrounded by broken lines is the thin portion <b>112</b>, and the larger area indicates an open face <b>113</b> of the cavity <b>111</b> for flow. The thin portion <b>112</b> is formed much thinner than the other part of the semiconductor substrate <b>110</b>, so that heat capacity is suppressed, and thermal insulation from the other part is assured.</p>
+<p id="p-0032" num="0031">As shown in <figref idref="DRAWINGS">FIG. 3</figref>, heating elements <b>121</b> and <b>122</b> are formed on the thin portion <b>112</b>. The heating element <b>121</b> is an upstream-side heating element disposed on the upstream side in the flow direction of the fluid. The heating element <b>122</b> is a downstream-side heating element disposed on the downstream side in the flow direction of the fluid. A pair of temperature sensing elements <b>123</b> and <b>124</b> as temperature sensing resistors are formed so as to sandwich the pair of heating elements <b>121</b> and <b>122</b> in the peripheral area of the thin portion <b>112</b>, which is thicker than the thin portion <b>112</b> and on the upstream side and the downstream side of the fluid, respectively. Each of the heating elements <b>121</b> and <b>122</b> and the temperature sensing elements <b>123</b> and <b>124</b> is formed as a part of a wiring part <b>125</b>. The wiring part <b>125</b> also functions as a wiring connected to a circuit part <b>140</b> which will be described later. As the material of the wiring part <b>125</b>, for example, a known wiring material such as polysilicon properly doped with an impurity or a metal such as Pt can be employed.</p>
+<p id="p-0033" num="0032">The flow sensor <b>120</b> constructed as described above has the function of generating heat according to a current supply amount by the heating elements <b>121</b> and <b>122</b> of the embodiment and, in addition, the function of sensing the temperature of itself on the basis of a change in the resistance value of itself. On the basis of heat taken by the fluid out of the heat generated by the heating elements <b>121</b> and <b>122</b> on the upstream side and the downstream side, the flow rate of the fluid is detected. On the basis of the variation in the amount of heat taken by the fluid out of the heat generated by the heating element <b>121</b> on the upstream side and the heating element <b>122</b> on the downstream side, the distribution direction of the fluid is detected. Further, on the basis of the temperature difference between the heating element <b>121</b> on the upstream side and the temperature sensing element <b>123</b> on the upstream side, and the temperature difference between the heating element <b>122</b> on the downstream side and the temperature sensing element <b>124</b> on the downstream side, the amounts of current supplied to the heating elements <b>121</b> and <b>122</b> are controlled. With respect to the details of the flow sensor <b>120</b>, for example, refer to JP-A-2004-205498 corresponding to U.S. Pat. No. 6,983,653.</p>
+<p id="p-0034" num="0033">The humidity sensor <b>130</b> is constructed as a so-called capacitance-type humidity sensor. Concretely, as shown in <figref idref="DRAWINGS">FIG. 4</figref>, on the same face as the flow sensor formation face, of the silicon substrate as the semiconductor substrate <b>110</b>, a pair of detection electrodes <b>131</b> and <b>132</b> are formed so as to face each other while being apart from each other via an insulating film (not shown) such as a silicon oxide film or a silicon nitride film. More specifically, the detection electrodes <b>131</b> and <b>132</b> have a comb shape. Adjacent to the detection electrodes <b>131</b> and <b>132</b>, a pair of reference electrodes <b>134</b> and <b>135</b> is formed so as to face each other while being apart from each other on the same face as the detection electrode formation face. In the embodiment, the reference electrodes <b>134</b> and <b>135</b> are formed in the same pattern and made of the same material as that of the detection electrodes <b>131</b> and <b>132</b>. More specifically, the detection electrodes <b>131</b> and <b>132</b> and the reference electrodes <b>134</b> and <b>135</b> are formed in the comb shape. As the material of the detection electrodes <b>131</b> and <b>132</b> and the reference electrodes <b>134</b> and <b>135</b>, a known wiring material such as polysilicon properly doped with an impurity or a metal such as Pt, Al, Cu, or Au can be employed.</p>
+<p id="p-0035" num="0034">A protection film (not shown) such as a silicon nitride film is formed over the semiconductor substrate <b>110</b> so as to cover the detection electrodes <b>131</b> and <b>132</b> and the reference electrodes <b>134</b> and <b>135</b>. On the protection film, a moisture sensitive film <b>133</b> made of a humidity sensitive material such as polyimide is formed so as to cover the detection electrodes <b>131</b> and <b>132</b> and the gaps between the detection electrodes <b>131</b> and <b>132</b>. When the detection electrodes <b>131</b> and <b>132</b> and the reference electrodes <b>134</b> and <b>135</b> have corrosion resistance against moisture, it is unnecessary to form the protection film.</p>
+<p id="p-0036" num="0035">In the humidity sensor <b>130</b> constructed as described above, when moisture penetrates the moisture sensitive film <b>133</b>, since the relative permittivity of moisture is high, the relative permittivity of the moisture sensitive film <b>133</b> changes according to the amount of penetrated moisture. As a result, the electrostatic capacity of a capacitor constructed by the detection electrodes <b>131</b> and <b>132</b> using the moisture sensitive film <b>133</b> as a part of the dielectric changes. On the other hand, the moisture sensitive film <b>133</b> is not provided on the reference electrodes <b>134</b> and <b>135</b> side. Consequently, the electrostatic capacity of a capacitor constructed by the reference electrodes <b>134</b> and <b>135</b> does not change or slightly changes. Since the amount of moisture contained in the moisture sensitive film <b>133</b> corresponds to the humidity around the humidity sensor <b>130</b>, humidity can be detected from the difference between the electrostatic capacity between the detection electrodes <b>131</b> and <b>132</b> and the electrostatic capacity between the reference electrodes <b>134</b> and <b>135</b>.</p>
+<p id="p-0037" num="0036">Over the semiconductor substrate <b>110</b>, as shown in <figref idref="DRAWINGS">FIG. 1</figref>, other than the flow sensor <b>120</b> and the humidity sensor <b>130</b>, the circuit part <b>140</b> is also formed. The circuit part <b>140</b> is constructed by devices such as a MOS transistor and a diode and wires, and is electrically connected to the flow sensor <b>120</b> and the humidity sensor <b>130</b>. The circuit part <b>140</b> includes a signal processing circuit for processing signals output from the flow sensor <b>120</b> and the humidity sensor <b>130</b> and circuits for generating signals applied to the flow sensor <b>120</b> and the humidity sensor <b>130</b> at the time of detection. In <figref idref="DRAWINGS">FIG. 1</figref>, for convenience, the circuit part <b>140</b> is shown (the broken line in <figref idref="DRAWINGS">FIG. 1</figref>) in an area excluding the formation area of the flow sensor <b>120</b> and the humidity sensor <b>130</b> over the semiconductor substrate <b>110</b>. The formation area of the circuit part <b>140</b> may be formed except for the cavity <b>111</b> for flow.</p>
+<p id="p-0038" num="0037">Pads <b>150</b> as electrodes are formed at an end of the circuit part <b>140</b> constructed on the semiconductor substrate <b>110</b>. The pad <b>150</b> is connected to a lead <b>160</b> as an external output terminal via a wire <b>170</b>. Therefore, the circuit part <b>140</b> can electrically transmit/receive signals to/from the outside (for example, an external ECU) via the lead <b>160</b>. The semiconductor substrate <b>110</b> is fixed to a supporting member <b>180</b> by, for example, adhesion using the back side of the formation face on which the flow sensor <b>120</b> and the humidity sensor <b>130</b> as a mounting face. In the embodiment, the supporting member <b>180</b> is constructed as a part of a lead frame together with the lead <b>160</b>. In a portion corresponding to the cavity <b>111</b> for flow in the supporting member <b>180</b>, a through hole as a communication part <b>181</b> capable of making the fluid communicated between the cavity <b>111</b> for flow and the outside is formed. A part of the semiconductor substrate <b>110</b> including the pads <b>150</b> and excluding the formation area of the flow sensor <b>120</b> and the humidity sensor <b>130</b>, a part of the supporting member <b>180</b> corresponding to a part of the semiconductor substrate <b>110</b>, and a part of the wire <b>170</b> and the lead <b>160</b> are integrally covered (molded) with an encapsulation resin <b>190</b> such as epoxy resin. In the above-described lead frame, an unnecessary part is removed in a state where the encapsulation resin <b>190</b> is cured so that the lead <b>160</b> and the supporting member <b>180</b> are separated from each other as shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>.</p>
+<p id="p-0039" num="0038">As described above, the semiconductor device <b>100</b> of the embodiment has not only the flow sensor <b>120</b> but also the humidity sensor <b>130</b>, so that the flow rate detection precision can be improved as compared with that in the configuration in which water content in a fluid is not corrected.</p>
+<p id="p-0040" num="0039">Since the humidity sensor <b>130</b> is formed near the formation area of the flow sensor <b>120</b> on the same semiconductor substrate <b>110</b>, as compared with the configuration having the humidity sensor constructed on a substrate different from the substrate of the flow sensor <b>120</b>, humidity of a fluid in a position closer to the flow sensor <b>120</b> can be detected. That is, the flow rate detection precision can be further improved.</p>
+<p id="p-0041" num="0040">Since the flow sensor <b>120</b> and the humidity sensor <b>130</b> are formed over the same semiconductor substrate <b>110</b>, the structure can be downsized as compared with the configuration having the humidity sensor formed on the substrate different from that of the flow sensor <b>120</b>.</p>
+<p id="p-0042" num="0041">The characteristic points other than the point that the flow sensor <b>120</b> and the humidity sensor <b>130</b> are formed in one chip, of the semiconductor device <b>100</b> will now be described with reference to <figref idref="DRAWINGS">FIGS. 1 and 5</figref>.</p>
+<p id="p-0043" num="0042">First, the layout of the flow sensor <b>120</b> and the humidity sensor <b>130</b> is characterized. For example, when the humidity sensor <b>130</b> is disposed on the downstream side of the flow sensor <b>120</b>, it is feared that the fluid which has taken the heat of the heating elements <b>121</b> and <b>122</b> constructing the flow sensor <b>120</b> gives heat to the humidity sensor <b>130</b> positioned on the downstream side of the heating elements <b>121</b> and <b>122</b>. That is, the humidity detection precision of the humidity sensor <b>130</b> may deteriorate. In particular, when the flow sensor <b>120</b> and the humidity sensor <b>130</b> are constructed on the same face side of the semiconductor substrate <b>110</b>, the problem tends to occur.</p>
+<p id="p-0044" num="0043">In contrast, in the embodiment, as shown in <figref idref="DRAWINGS">FIG. 1</figref>, the flow sensor <b>120</b> and the humidity sensor <b>130</b> are formed side by side along the fluid flow direction on the same face side of the semiconductor substrate <b>110</b>, and the humidity sensor <b>130</b> is provided on the upstream side of the flow sensor <b>120</b>. Therefore, when the fluid flows in the normal flow direction, heat conduction via the fluid can be suppressed. As compared with the configuration in which the humidity sensor <b>130</b> is provided on the downstream side of the flow sensor <b>120</b>, the influence of heat of the heating elements <b>121</b> and <b>122</b> exerted on the humidity sensor <b>130</b> can be reduced. That is, the humidity sensor <b>130</b> can detect humidity with higher precision. Thus, at the time of obtaining the flow excluding the moisture content contained in the fluid (true flow) from the detection results of the flow sensor <b>120</b> and the humidity sensor <b>130</b>, the flow detection precision can be further improved. Therefore, the semiconductor device <b>100</b> is suitable for uses requiring high-precision flow rate (air volume) like in fuel injection control of an internal combustion engine of a vehicle.</p>
+<p id="p-0045" num="0044">Next, the moisture sensitive film <b>133</b> as the component of the humidity sensor <b>130</b> is characterized. In the configuration that at least a part of the semiconductor substrate is covered with an encapsulation resin, it is preferable to form a high polymer film of polyimide or the like on a semiconductor substrate to increase the degree of adhesion between the encapsulation resin and the semiconductor substrate. In the embodiment, the moisture sensitive film <b>133</b> made of polyimide is employed and, as shown in <figref idref="DRAWINGS">FIG. 5</figref>, the moisture sensitive film <b>133</b> and a high polymer film <b>200</b> made of the same material are integrally formed. Therefore, as compared with the configuration in which the moisture sensitive film <b>133</b> and the high polymer film <b>200</b> are made of different materials, the configuration and the manufacturing process can be simplified. Since the moisture sensitive film <b>133</b> is integrated with the high polymer film <b>200</b>, the holding power of the moisture sensitive film <b>133</b> is increased, and peeling and the like of the moisture sensitive film <b>133</b> exposed to the fluid can be suppressed. Further, by the integration, the structure of the semiconductor device <b>100</b> can be also downsized.</p>
+<p id="p-0046" num="0045">In the embodiment, to eliminate dead space in the formation area of the moisture sensitive film <b>133</b> integrated with the high polymer film <b>200</b> in the portion of the semiconductor substrate <b>110</b> exposed from the encapsulation resin <b>190</b>, the flow sensor <b>120</b> and the humidity sensor <b>130</b> are formed side by side along the fluid flow direction, and the detection electrodes <b>131</b> and <b>132</b> forming the humidity sensor <b>130</b> are set as a portion which is covered with the encapsulation resin <b>190</b>. However, the moisture sensitive film <b>133</b> can be formed anywhere except for the thin portion <b>112</b>. In the case of forming the moisture sensitive film <b>133</b> on not only the detection electrodes <b>131</b> and <b>132</b> but also the other part (for example, a part of the flow sensor <b>120</b>), the formation area becomes large. Consequently, although the cost increases, manufacturing is facilitated.</p>
+<p id="p-0047" num="0046">In the configuration in which the moisture sensitive film <b>133</b> and the high polymer film <b>200</b> are integrally formed, there is the possibility that moisture enters the high polymer film <b>200</b> via the humidity sensitivity film <b>133</b> and the connection portion between the pad <b>150</b> and the lead <b>160</b> corrodes. In the embodiment, polyimide having a mesh structure in which terminals of a molecular chain as a base are connected to each other is employed for the moisture sensitive film <b>133</b> and the high polymer film <b>200</b>. Examples of such polyimide include polyimide having a mesh structure obtained by forming a benzene ring by heating polyamide acid terminated with terminal acetylene to cause reaction between acetylene at the terminals at the time of curing, and polyamide obtained by dehydrating and ring-closing polyamide acid having a mesh structure obtained by coupling terminals of a molecular chain as a base. Refer to the details of the polyimide disclosed in JP-A-2003-232765 and 2006-71647. When such polyimide having the mesh structure is employed, swelling of the moisture sensitive film <b>133</b>, which occurs when absorption water coagulates at high temperature under high humidity, can be suppressed. In other words, penetration of moisture to polyimide molecules is suppressed. The high polymer film <b>200</b> is exposed from the encapsulation resin <b>190</b> directly or indirectly via the moisture sensitive film <b>133</b>, and corrosion can be suppressed also in the configuration in which the connection part between the pad <b>150</b> and the lead corrodes due to moisture.</p>
+<p id="p-0048" num="0047">In the embodiment, the semiconductor substrate <b>110</b> is subject to anisotropic etching from the back side of the flow sensor formation face, thereby forming the cavity <b>111</b> for flow. That is, the open face <b>113</b> of the cavity <b>111</b> for flow is on the back side of the flow sensor formation face of the semiconductor substrate <b>110</b>. However, the configuration of the cavity <b>111</b> for flow is not limited to the example. It is sufficient to form the thin portion <b>112</b>. For example, as shown in <figref idref="DRAWINGS">FIG. 6</figref>, the cavity <b>111</b> for flow formed by etching the semiconductor substrate <b>110</b> from the flow sensor formation face side can be also employed. In this case, since the cavity <b>111</b> for flow is open (not shown) on the flow sensor formation face side, it is unnecessary to provide the communication part <b>181</b> in the supporting member <b>180</b>. <figref idref="DRAWINGS">FIG. 6</figref> is a cross section showing a modification and corresponds to <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0049" num="0048">In the embodiment, the flow sensor <b>120</b> and the humidity sensor <b>130</b> are formed side by side along the fluid flow direction on the same face side of the semiconductor substrate <b>110</b>, and the humidity sensor <b>130</b> is provided on the upstream side of the flow sensor <b>120</b>. However, even when the arrangement direction of the flow sensor <b>120</b> and the humidity sensor <b>130</b> is not along the fluid flow direction, if the humidity sensor <b>130</b> is on the upstream side of the flow sensor <b>120</b> in the flow direction of the fluid, heat conduction via the fluid can be suppressed. The heat conduction via the fluid is mainly with heat from the heating elements <b>121</b> and <b>122</b> constructing the flow sensor <b>120</b>, so that it is sufficient to provide at least the heating elements <b>121</b> and <b>122</b> on the downstream side of the humidity sensor <b>130</b>. For example, as shown in <figref idref="DRAWINGS">FIG. 7</figref>, the heating element <b>123</b> on the upstream side in the wiring part <b>125</b> as a component of the flow sensor <b>120</b> is provided on the upstream side of the humidity sensor <b>130</b>, and the remaining heating elements <b>121</b> and <b>122</b> and the temperature sensing element <b>124</b> may be provided on the downstream side. <figref idref="DRAWINGS">FIG. 7</figref> is a plan view showing a modification and corresponds to <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<heading id="h-0008" level="1">Second Embodiment</heading>
+<p id="p-0050" num="0049">A second embodiment of the present disclosure will be described with reference to <figref idref="DRAWINGS">FIGS. 8 and 9</figref>. <figref idref="DRAWINGS">FIG. 8</figref> is a schematic plan view showing the positional relation between a moisture sensitive film and a high polymer film over the semiconductor substrate in a semiconductor device of the second embodiment. <figref idref="DRAWINGS">FIG. 9</figref> is a schematic cross section of the semiconductor device. <figref idref="DRAWINGS">FIG. 9</figref> corresponds to <figref idref="DRAWINGS">FIG. 2</figref> showing the first embodiment and, for convenience like in <figref idref="DRAWINGS">FIG. 2</figref>, a flow sensor and a circuit part are not shown.</p>
+<p id="p-0051" num="0050">Since the semiconductor device of the second embodiment is largely common to that of the first embodiment, the detailed description of the common parts will not be repeated hereinbelow, and different parts will be described with concentration. The same reference numerals are designated to the same elements as those of the first embodiment.</p>
+<p id="p-0052" num="0051">In the first embodiment, an example of integrating the moisture sensitive film <b>133</b> and the high polymer film <b>200</b> was described. In contrast, the second embodiment is characterized by the points that the moisture sensitive film <b>133</b> and the high polymer film <b>200</b> are made of the same material such as polyimide and, as shown in <figref idref="DRAWINGS">FIGS. 8 and 9</figref>, the moisture sensitive film <b>133</b> and the high polymer film <b>200</b> are formed so as to be separate from each other, and the high polymer film <b>200</b> is completely covered with the encapsulation resin <b>190</b>. The second embodiment has the same configuration as that of the first embodiment except for the point that the moisture sensitive film <b>133</b> and the high polymer film <b>200</b> are formed so as to be separate from each other, and the effect is similar.</p>
+<p id="p-0053" num="0052">In the semiconductor device <b>100</b> of the second embodiment, the high polymer film <b>200</b> is not directly exposed to the outside of the encapsulation resin <b>190</b> and is not also indirectly exposed via the moisture sensitive film <b>133</b>. Consequently, even in the configuration in which the connection part between the pad <b>150</b> and the lead <b>160</b> does not corrode due to moisture, the corrosion can be suppressed.</p>
+<p id="p-0054" num="0053">Even in the configuration where the moisture sensitive film <b>133</b> and the high polymer film <b>200</b> are separated from each other, the moisture sensitive film <b>133</b> and the high polymer film <b>200</b> are made of the same material. As compared with the configuration in which the moisture sensitive film <b>133</b> and the high polymer film <b>200</b> are made of different materials, the configuration and the manufacturing process can be simplified.</p>
+<p id="p-0055" num="0054">The configuration of the humidity sensitivity film <b>133</b> and the high polymer film <b>200</b> of the second embodiment can be also applied to the configuration of the modification (<figref idref="DRAWINGS">FIGS. 6 and 7</figref>) of the first embodiment.</p>
+<p id="p-0056" num="0055">In the second embodiment, the high polymer film <b>200</b> formed separate from the moisture sensitive film <b>133</b> is completely covered with the encapsulation resin <b>190</b>. However, a part of the high polymer film <b>200</b> formed separately from the moisture sensitive film <b>133</b> may be exposed to the outside from the encapsulation resin <b>190</b>. In such a configuration, the high polymer film <b>200</b> is disposed to the end of the encapsulation resin <b>190</b>, so that peeling of the sealing resin <b>190</b> from the semiconductor substrate <b>110</b> can be suppressed. Since the high polymer film <b>200</b> is exposed directly to the outside, as described in the first embodiment, it is preferable to employ polyimide having the mesh structure.</p>
+<p id="p-0057" num="0056">In the configuration where the moisture sensitive film <b>133</b> and the high polymer film <b>200</b> are formed separate from each other, the holding power of the moisture sensitive film <b>133</b> to the semiconductor substrate <b>110</b> is lower than that of the integral configuration. For example, by using a silane coupling material, deterioration in the holding power of the moisture sensitive film <b>133</b> to the semiconductor substrate <b>110</b> may be suppressed.</p>
+<heading id="h-0009" level="1">Third Embodiment</heading>
+<p id="p-0058" num="0057">A third embodiment of the present disclosure will now be described with reference to <figref idref="DRAWINGS">FIG. 10</figref>. <figref idref="DRAWINGS">FIG. 10</figref> is a plan view showing a schematic configuration of a semiconductor device of the third embodiment, and corresponds to <figref idref="DRAWINGS">FIG. 1</figref> showing the first embodiment.</p>
+<p id="p-0059" num="0058">Since the semiconductor device of the third embodiment is largely common to that of the first embodiment, the detailed description of the common parts will not be repeated hereinbelow, and different parts will be described with concentration. The same reference numerals are designated to the same elements as those of the first embodiment.</p>
+<p id="p-0060" num="0059">In the first embodiment, the flow sensor <b>120</b> and the humidity sensor <b>130</b> are formed side by side along the fluid flow direction on the same side of the semiconductor substrate <b>110</b>, and the humidity sensor <b>130</b> is provided on the upstream side of the flow sensor <b>120</b>. On the other hand, the third embodiment is characterized by the point that, as shown in <figref idref="DRAWINGS">FIG. 10</figref>, the humidity sensor <b>130</b> is formed in a portion near the flow sensor <b>120</b> excluding an upstream area and a downstream area of the flow sensor <b>120</b> in the fluid flow direction. For example, in the third embodiment, the flow sensor <b>120</b> and the humidity sensor <b>130</b> are formed in parallel with the fluid flow direction. The configuration of the third embodiment is similar to that of the first embodiment except for the layout of the flow sensor <b>120</b> and the humidity sensor <b>130</b> over the semiconductor substrate <b>110</b> and the effect of the third embodiment is also similar to that of the first embodiment.</p>
+<p id="p-0061" num="0060">As described above, in the semiconductor device <b>100</b> of the third embodiment, the flow sensor <b>120</b> and the humidity sensor <b>130</b> are formed in parallel with the fluid flow direction, so that heat conduction from the flow sensor <b>120</b> to the humidity sensor <b>130</b> via the fluid can be suppressed. Therefore, the humidity sensor <b>130</b> can detect humidity with high precision and, moreover, the flow detection precision can be improved.</p>
+<p id="p-0062" num="0061">With the configuration of the third embodiment, even when the fluid flows in the direction opposite to that in normal times (the direction opposite to the open-arrow direction shown in <figref idref="DRAWINGS">FIG. 10</figref>), heat conduction to the humidity sensor <b>130</b> via the fluid from the flow sensor <b>120</b> can be suppressed.</p>
+<p id="p-0063" num="0062">The layout of the flow sensor <b>120</b> and the humidity sensor <b>130</b> shown in the third embodiment can be also applied to the modification (<figref idref="DRAWINGS">FIGS. 6 and 7</figref>) of the first embodiment and the configuration shown in the second embodiment.</p>
+<heading id="h-0010" level="1">Fourth Embodiment</heading>
+<p id="p-0064" num="0063">A fourth embodiment of the present disclosure will be described with reference to <figref idref="DRAWINGS">FIGS. 11 and 12</figref>. <figref idref="DRAWINGS">FIG. 11</figref> is a plan view showing a schematic configuration of a semiconductor device of the fourth embodiment and corresponds to <figref idref="DRAWINGS">FIG. 1</figref> shown in the first embodiment. <figref idref="DRAWINGS">FIG. 12</figref> is a schematic cross section showing suppression of heat conduction from the flow sensor to the humidity sensor via the semiconductor substrate. In <figref idref="DRAWINGS">FIG. 12</figref>, for convenience, the configurations of the flow sensor and the humidity sensor are not shown but only positions are shown.</p>
+<p id="p-0065" num="0064">Since the semiconductor device of the fourth embodiment is largely common to that of the first embodiment, the detailed description of the common parts will not be repeated hereinbelow, and different parts will be described with concentration. The same reference numerals are designated to the same elements as those of the first embodiment.</p>
+<p id="p-0066" num="0065">In the first embodiment, the flow sensor <b>120</b> and the humidity sensor <b>130</b> are formed side by side along the fluid flow direction on the same face side of the semiconductor substrate <b>110</b>, and the humidity sensor <b>130</b> is provided on the upstream side of the flow sensor <b>120</b>, thereby suppressing conduction of heat from the flow sensor <b>120</b> to the humidity sensor <b>130</b> via the fluid. On the other hand, the fourth embodiment is characterized by the points that conduction of heat from the flow sensor <b>120</b> to the humidity sensor <b>130</b> via the fluid is suppressed and, in addition, conduction of heat from the flow sensor <b>120</b> to the humidity sensor <b>130</b> via the semiconductor substrate <b>110</b> is suppressed.</p>
+<p id="p-0067" num="0066">Concretely, as shown in <figref idref="DRAWINGS">FIG. 11</figref>, a trench <b>114</b> as a groove having a predetermined depth from the flow sensor formation face of the semiconductor substrate <b>110</b> is formed in a portion between the formation area of the flow sensor <b>120</b> and the formation area of the humidity sensor <b>130</b> and over which the flow sensor <b>120</b> and the humidity sensor <b>130</b> face each other. The fourth embodiment has the same configuration as that of the first embodiment except for the point that the trench <b>114</b> is formed, and the effect is similar. The trench <b>114</b> can be formed by etching such as reactive ion etching (RIE).</p>
+<p id="p-0068" num="0067">In the semiconductor device <b>100</b> of the fourth embodiment, as shown in <figref idref="DRAWINGS">FIG. 12</figref>, the trench <b>114</b> is formed between the formation area of the flow sensor <b>120</b> and the formation area of the humidity sensor <b>130</b>. The heat conduction path from the flow sensor <b>120</b> to the humidity sensor <b>130</b> via the semiconductor substrate <b>110</b> is longer than that in the configuration in which no trench <b>114</b> is formed. That is, heat conduction from the flow sensor <b>120</b> to the humidity sensor <b>130</b> via the semiconductor substrate <b>110</b> can be suppressed. Therefore, the humidity sensor <b>130</b> can detect humidity with high precision and, moreover, the flow rate detection precision can be improved.</p>
+<p id="p-0069" num="0068">In the fourth embodiment, the trench <b>114</b> is formed between the formation area of the flow sensor <b>120</b> and the formation area of the humidity sensor <b>130</b> and in a portion over which the flow sensor <b>120</b> and the humidity sensor <b>130</b> face each other. However, it is sufficient to form the trench <b>114</b> at least between the formation area of the heating elements <b>121</b> and <b>122</b> and the formation area of the humidity sensor <b>130</b> facing the formation area of the heating elements <b>121</b> and <b>122</b>.</p>
+<p id="p-0070" num="0069">In the fourth embodiment, the trench <b>114</b> is formed in the configuration shown in the first embodiment. However, by forming the trench <b>114</b> regardless of the positional relation between the flow sensor <b>120</b> and the humidity sensor <b>130</b>, heat conduction from the flow sensor <b>120</b> to the humidity sensor <b>130</b> via the semiconductor substrate <b>110</b> can be suppressed. Therefore, the trench <b>114</b> can be also applied to the modification configurations (<figref idref="DRAWINGS">FIGS. 6 and 7</figref>) of the first embodiment and the second embodiment.</p>
+<p id="p-0071" num="0070">In the fourth embodiment, the trench <b>114</b> is a cavity. However, the trench <b>114</b> may be filled with a material having thermal conductivity lower than that of the semiconductor substrate <b>110</b>. Also with such a configuration, heat conduction from the flow sensor <b>120</b> to the humidity sensor <b>130</b> via the semiconductor substrate <b>110</b> can be suppressed. When the trench <b>114</b> is filled with a porous material (for example, porous silicone or porous insulating film), it is more effective to suppress heat conduction.</p>
+<heading id="h-0011" level="1">Fifth Embodiment</heading>
+<p id="p-0072" num="0071">A fifth embodiment of the present disclosure will be described with reference to <figref idref="DRAWINGS">FIGS. 13 and 14</figref>. <figref idref="DRAWINGS">FIG. 13</figref> is a cross section showing a schematic configuration of a semiconductor device of the fifth embodiment. <figref idref="DRAWINGS">FIG. 14</figref> is a schematic plan view showing wiring widths of a heating element and a dehumidification heater in a wiring part.</p>
+<p id="p-0073" num="0072">Since the semiconductor device of the fifth embodiment is largely common to that of the first embodiment, the detailed description of the common parts will not be repeated hereinbelow, and different parts will be described with concentration. The same reference numerals are designated to the same elements as those of the first embodiment.</p>
+<p id="p-0074" num="0073">In the fifth embodiment, as shown in <figref idref="DRAWINGS">FIG. 13</figref>, a dehumidification heater <b>136</b> for heating the humidity sensor <b>130</b> by generating heat by passage of current is formed over the semiconductor substrate <b>110</b>. The dehumidification heater <b>136</b> is provided to recover the moisture sensitive film <b>133</b> by evaporating the moisture which is captured in the moisture sensitive film <b>133</b> due to deterioration in the moisture sensitive film <b>133</b>. The first characteristic is that the dehumidification heater <b>136</b> and the heating elements <b>121</b> and <b>122</b> constructing the flow sensor <b>120</b> (only the heating element <b>121</b> is shown in <figref idref="DRAWINGS">FIGS. 13 and 14</figref>) are integrally formed as the wiring part <b>125</b> made of the same material as shown in <figref idref="DRAWINGS">FIGS. 13 and 14</figref>. The second characteristic is that a cavity <b>118</b> for dehumidification as a low thermal conduction area is formed also in an area in the semiconductor substrate <b>110</b> corresponding to the humidity sensor <b>130</b>.</p>
+<p id="p-0075" num="0074">Concretely, as shown in <figref idref="DRAWINGS">FIG. 13</figref>, the wiring part <b>125</b> including the heating elements <b>121</b> and <b>122</b> and the dehumidification heater <b>136</b> is formed over the semiconductor substrate <b>110</b> via an insulating film <b>115</b> (for example, a silicon nitride film and a silicon oxide film). Although not shown in <figref idref="DRAWINGS">FIG. 13</figref>, the wiring part <b>125</b> also includes the heating elements <b>123</b> and <b>124</b> as described in the first embodiment. Over the wiring part <b>125</b>, the detection electrodes <b>131</b> and <b>132</b> constructing the humidity sensor <b>130</b> are formed via an interlayer insulating film <b>116</b> (for example, a silicon oxide film). Although not shown in <figref idref="DRAWINGS">FIG. 13</figref>, the reference electrodes <b>134</b> and <b>135</b> are also formed in the same plane as the detection electrodes <b>131</b> and <b>132</b>. Over the detection electrodes <b>131</b> and <b>132</b>, the moisture sensitive film <b>133</b> is formed via a protection film <b>117</b> (for example, a silicon nitride film).</p>
+<p id="p-0076" num="0075">In the semiconductor substrate <b>110</b>, the cavity <b>111</b> for flow and the cavity <b>118</b> for dehumidification are formed in correspondence with the flow sensor <b>120</b> and the humidity sensor <b>130</b>, respectively. The cavity <b>118</b> for dehumidification is formed so as to include the moisture sensitive film <b>133</b> in the plane direction of the semiconductor substrate <b>100</b>. The cavity <b>111</b> for flow and the cavity <b>118</b> for dehumidification are formed using the insulating film <b>115</b> as the bottom. The thin portion <b>112</b> and a thin portion <b>119</b> as an insulating film are formed over the cavity <b>111</b> for flow and the cavity <b>118</b> for dehumidification, respectively. The wiring part <b>125</b> made of, for example, polysilicon doped with an impurity is formed so that, as shown in <figref idref="DRAWINGS">FIG. 14</figref>, the heating element <b>121</b> having higher temperature is narrower than the dehumidification heater <b>136</b>.</p>
+<p id="p-0077" num="0076">As described above, in the semiconductor device <b>100</b> of the fifth embodiment, the moisture sensitive film <b>133</b> can be recovered by evaporating the moisture captured in the moisture sensitive film <b>133</b> due to deterioration in the moisture sensitive film <b>133</b> by the dehumidification heater <b>136</b>.</p>
+<p id="p-0078" num="0077">Since the humidifying heater <b>136</b> and the heating elements <b>121</b> and <b>122</b> are constructed as the single wiring part <b>125</b>, the configuration can be simplified and the structure can be downsized. The manufacturing process can be also simplified.</p>
+<p id="p-0079" num="0078">When current is passed to the wiring part <b>125</b>, both of the heating elements <b>121</b> and <b>122</b> and the dehumidification heater <b>136</b> generate heat. Therefore, for example, as described in the first embodiment, when the humidity sensor <b>130</b> is provided on the upstream side of the flow sensor <b>120</b>, to recover the moisture sensitive film <b>133</b> by turning on the dehumidification heater <b>136</b>, since the influence of the heat conduction from the dehumidification heater <b>136</b> to the flow sensor <b>120</b> via the fluid is considerably exerted, it is preferable not to use, for flow rate detection, a signal output from the flow sensor <b>120</b> at the timing when the dehumidification heater <b>136</b> is on. As described in the third embodiment, when the humidity sensor <b>130</b> is provided in parallel with the flow sensor <b>120</b> and the flow of the fluid, processes similar to the above may be performed. Since the influence of heat conduction from the dehumidification heater <b>136</b> to the flow sensor <b>120</b> via the fluid is less than the above, the signal output from the flow sensor <b>120</b> at the timing when the dehumidification heater <b>136</b> is turned on can be also used for flow detection.</p>
+<p id="p-0080" num="0079">In the fifth embodiment, by varying the width of the wiring part <b>125</b>, the temperature on the heating elements <b>121</b> and <b>122</b> and that of the dehumidification heater <b>136</b> are made different from each other. Alternatively, for example, as shown in <figref idref="DRAWINGS">FIG. 15</figref>, the depth of the cavity <b>111</b> for flow and that of the cavity <b>118</b> for dehumidification as the low heat conduction areas may be different from each other (in <figref idref="DRAWINGS">FIG. 15</figref>, the cavity <b>118</b> for dehumidification corresponding to the dehumidification heater <b>136</b> of lower temperature is shallower than the cavity <b>111</b> for flow). With such a configuration, the amount of heat conduction to the semiconductor substrate <b>110</b> side in the heating elements <b>121</b> and <b>122</b> and that in the dehumidification heater <b>136</b> are made different from each other and, moreover, the temperature of each of the flow sensor <b>120</b> and the humidity sensor <b>130</b> can be made proper. <figref idref="DRAWINGS">FIG. 15</figref> is a cross section showing a modification.</p>
+<p id="p-0081" num="0080">In the fifth embodiment, the cavity <b>111</b> for flow is formed as the low thermal conduction area in an area just below the heating elements <b>121</b> and <b>122</b>, and the cavity <b>118</b> for dehumidification is formed in the area just below the humidity sensor <b>130</b> in the semiconductor substrate <b>110</b>. However, the low thermal conduction area is not limited to the cavity. It is sufficient for the low thermal conduction area to have thermal conductivity lower than that of the semiconductor substrate <b>110</b>. For example, the low thermal conduction area may be formed by a porous member (for example, porous silicon or porous insulating film). For example, one of the low thermal conduction area corresponding to the heating elements <b>121</b> and <b>122</b> and the low thermal conduction area corresponding to the humidity sensor <b>130</b> may be formed as a cavity. In the other area, porous silicon may be disposed. As an example, in <figref idref="DRAWINGS">FIG. 16</figref>, the low thermal conduction area corresponding to the heating elements <b>121</b> and <b>122</b> is formed as the cavity <b>111</b> for flow, and the low thermal conduction area corresponding to the humidity sensor <b>130</b> is formed as a porous silicon part <b>210</b> made of porous silicon. Such a porous silicon part <b>210</b> can be formed by, for example, local electrochemical melting reaction. With such a configuration, by making the thermal conductivity vary between the cavity and the porous silicon, the amount of heat conduction to the semiconductor substrate <b>110</b> side in the heating elements <b>121</b> and <b>122</b> and that in the dehumidification heater <b>136</b> can be made different from each other. <figref idref="DRAWINGS">FIG. 16</figref> is a cross section showing a modification.</p>
+<p id="p-0082" num="0081">The configurations in the foregoing embodiments and modifications can be combined.</p>
+<p id="p-0083" num="0082">Although the preferred embodiments of the present disclosure have been described above, the disclosure is not limited to the embodiments but can be variously modified without departing from the gist of the disclosure.</p>
+<p id="p-0084" num="0083">In the embodiment, the silicon substrate is used as an example of the semiconductor substrate <b>110</b>. However, the semiconductor substrate <b>110</b> is not limited to the silicon substrate.</p>
+<p id="p-0085" num="0084">In the embodiments, the flow sensor <b>120</b> has the heating elements <b>121</b> and <b>122</b> and also the temperature sensing elements <b>123</b> and <b>124</b>. However, to detect the flow of the fluid, it is sufficient for the flow sensor <b>120</b> to have at least the heating elements <b>121</b> and <b>122</b>. Consequently, a configuration including no temperature sensing elements <b>123</b> and <b>124</b> may be also employed.</p>
+<p id="p-0086" num="0085">In the embodiments, the humidity sensor <b>130</b> has the reference electrodes <b>134</b> and <b>135</b>. However, a configuration including no reference electrodes <b>134</b> and <b>135</b> may be also employed.</p>
+<p id="p-0087" num="0086">In the embodiment, the circuit part <b>140</b> is formed together with the flow sensor <b>120</b> and the humidity sensor <b>130</b> over the same semiconductor substrate <b>110</b>. That is, the circuit part <b>140</b> is formed together with the flow sensor <b>120</b> and the humidity sensor <b>130</b> on one chip. It is also possible to form the circuit part <b>140</b> on a different substrate. In this case, the substrate on which the circuit part <b>140</b> is formed is completely covered with the encapsulation resin <b>190</b>. The function of the circuit part <b>140</b> may be provided (for example, for an external ECU) separately from the semiconductor device <b>100</b>.</p>
+<p id="p-0088" num="0087">In the embodiments, in a state where the semiconductor substrate <b>110</b> is fixed to the supporting member <b>180</b>, a part of the semiconductor substrate <b>110</b> is covered with the encapsulation resin <b>190</b>. However, a configuration having no supporting member <b>180</b> may be also employed. When the supporting member <b>180</b> is a part of the lead frame as described in the embodiment, positional deviation of the semiconductor substrate <b>110</b> can be suppressed at the time of covering with the encapsulation resin <b>190</b> (for example, at the time of transfer molding). The shape of the supporting member <b>180</b> is not limited to that described in the embodiment.</p>
+<p id="p-0089" num="0088">The above disclosure has the following aspects.</p>
+<p id="p-0090" num="0089">According to a first aspect of the present disclosure, a semiconductor device includes: a semiconductor substrate; a flow sensor having a first heater for detecting a flow rate of fluid; and a humidity sensor for detecting a humidity of the fluid. The flow sensor and the humidity sensor are disposed on the semiconductor substrate. The flow sensor is disposed around the humidity sensor. The humidity sensor is disposed on an upstream side of the first heater.</p>
+<p id="p-0091" num="0090">Since the above device includes the humidity sensor, moisture in the fluid is compensated so that detection accuracy of the flow rate is improved. Further, the humidity sensor is disposed near the flow sensor, the humidity near the flow sensor is detected by the humidity sensor so that the detection accuracy of the flow rate is much improved. Furthermore, since the humidity sensor and the flow sensor are disposed on the same substrate, the dimensions of the device are minimized. Further, the humidity sensor is not substantially affected by heat generated by a heater in the flow sensor humidity sensor. Thus, the detection accuracy of the flow rate is improved.</p>
+<p id="p-0092" num="0091">Alternatively, the humidity sensor may be adjacent to the humidity sensor along with a flowing direction of the fluid. Alternatively, the semiconductor device may further include: a pad disposed on the substrate; a resin sealing member; and a polymer film for increasing adhesiveness between the semiconductor substrate and the resin sealing member. The humidity sensor and the flow sensor output detection signals through the pad. The pad is coupled with an external terminal at a connection portion. The resin sealing member covers a part of the substrate, the part which includes the connection portion and does not include the humidity sensor and the flow sensor. The polymer film is partially disposed between the part of the substrate and the resin sealing member. The humidity sensor includes a pair of electrodes and a humidity sensitive film. The pair of electrodes is made of conductive material, and disposed on the substrate. The humidity sensitive film is disposed on the substrate and disposed between the pair of electrodes. The humidity sensitive film has a relative permittivity or an impedance, which is changeable in accordance with humidity change, and the humidity sensitive film and the polymer film are made of a same material. Further, the humidity sensitive film and the polymer film may be partially integrated. Alternatively, the humidity sensitive film and the polymer film may be separated. Further, the polymer film may be completely covered with the resin sealing member.</p>
+<p id="p-0093" num="0092">Alternatively, the humidity sensitive film may be made of poly-imide. Further, the poly-imide may include a plurality of molecular chains for providing a network structure, and both ends of each chain are connected.</p>
+<p id="p-0094" num="0093">Alternatively, the semiconductor device may further include: a second heater for heating the humidity sensor. The second heater is disposed on the substrate. The first and second heaters are provided by a same wire. The first and second heaters are integrated. Further, the substrate may further include a first low heat conduction portion and a second low heat conduction portion. The first low heat conduction portion is disposed under the first heater. The second low heat conduction portion is disposed under the humidity sensor. Each of the first and second low heat conduction portions has a heat conduction lower than a heat conduction of other parts of the semiconductor substrate. The first low heat conduction portion has a first depth in a thickness direction of the semiconductor substrate. The second low heat conduction portion has a second depth in the thickness direction of the semiconductor substrate. The first depth is different from the second depth. Furthermore, each of the first and second low heat conduction portions may be provided by a concavity of the substrate. Alternatively, each of the first and second low heat conduction portions may be provided by a porous silicon part of the substrate.</p>
+<p id="p-0095" num="0094">Alternatively, the substrate may further include a first low heat conduction portion and a second low heat conduction portion. The first low heat conduction portion is disposed under the first heater. The second low heat conduction portion is disposed under the humidity sensor. Each of the first and second low heat conduction portions has a heat conduction lower than a heat conduction of other parts of the semiconductor substrate. One of the first and second low heat conduction portions is provided by a concavity of the substrate, and the other one of the first and second low heat conduction portions is provided by a porous silicon part of the substrate.</p>
+<p id="p-0096" num="0095">Alternatively, the first heater may have a first width, which is different from a second width of the second heater.</p>
+<p id="p-0097" num="0096">Alternatively, the flow sensor and the humidity sensor may be disposed on a same side of the semiconductor substrate. The substrate further includes a groove, which is disposed between the first heater and the humidity sensor, and the groove has a predetermined depth in a thickness direction of the substrate.</p>
+<p id="p-0098" num="0097">According to a second aspect of the present disclosure, a semiconductor device includes: a semiconductor substrate; a flow sensor for detecting a flow rate of fluid; a humidity sensor for detecting a humidity of the fluid; a resin mold for molding a part of the semiconductor substrate; and a lead terminal, a part of which is molded in the resin mold. The flow sensor and the humidity sensor are disposed on another part of the semiconductor substrate so that the flow sensor and the humidity sensor are not covered with the resin mold. The humidity sensor is disposed on an upstream side of the first heater. The semiconductor substrate includes a concavity and a pad. The concavity is disposed opposite to the humidity sensor and the flow sensor. The pad is disposed on the substrate. The humidity sensor and the flow sensor are coupled with the pad so that the humidity sensor and the flow sensor output detection signals through the pad. The pad is coupled with the lead terminal with a wire. The resin mold molds a connection portion between the pad and the wire and the wire.</p>
+<p id="p-0099" num="0098">Since the above device includes the humidity sensor, moisture in the fluid is compensated so that detection accuracy of the flow rate is improved. Further, the humidity sensor is disposed near the flow sensor, the humidity near the flow sensor is detected by the humidity sensor so that the detection accuracy of the flow rate is much improved. Furthermore, since the humidity sensor and the flow sensor are disposed on the same substrate, the dimensions of the device are minimized. Further, the humidity sensor is not substantially affected by heat generated by a heater in the flow sensor humidity sensor. Thus, the detection accuracy of the flow rate is improved.</p>
+<p id="p-0100" num="0099">Alternatively, the device may further include: a polymer film for increasing adhesiveness between the semiconductor substrate and the resin mold. The polymer film is partially disposed between the part of the substrate and the resin mold. The humidity sensor includes a pair of electrodes and a humidity sensitive film. The pair of electrodes is made of conductive material, and disposed on the substrate. The humidity sensitive film is disposed on the substrate and disposed between the pair of electrodes. The humidity sensitive film has a relative permittivity or an impedance, which is changeable in accordance with humidity change, and the humidity sensitive film and the polymer film are made of a same material.</p>
+<p id="p-0101" num="0100">While the invention has been described with reference to preferred embodiments thereof, it is to be understood that the invention is not limited to the preferred embodiments and constructions. The invention is intended to cover various modification and equivalent arrangements. In addition, while the various combinations and configurations, which are preferred, other combinations and configurations, including more, less or only a single element, are also within the spirit and scope of the invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A semiconductor device comprising:
+<claim-text>a semiconductor substrate;</claim-text>
+<claim-text>a flow sensor having a first heater for detecting a flow rate of fluid;</claim-text>
+<claim-text>a humidity sensor for detecting a humidity of the fluid;</claim-text>
+<claim-text>a pad disposed on the substrate;</claim-text>
+<claim-text>a resin sealing member; and</claim-text>
+<claim-text>a polymer film for increasing adhesiveness between the semiconductor substrate and the resin sealing member, wherein</claim-text>
+<claim-text>the flow sensor and the humidity sensor are disposed on the semiconductor substrate,</claim-text>
+<claim-text>the flow sensor is disposed around the humidity sensor,</claim-text>
+<claim-text>the humidity sensor is disposed on an upstream side of the first heater,</claim-text>
+<claim-text>the humidity sensor and the flow sensor output detection signals through the pad,</claim-text>
+<claim-text>the pad is coupled with an external terminal at a connection portion,</claim-text>
+<claim-text>the resin sealing member covers a part of the substrate that includes the connection portion and does not include the humidity sensor and the flow sensor,</claim-text>
+<claim-text>the polymer film is partially disposed between the part of the substrate and the resin sealing member,</claim-text>
+<claim-text>the humidity sensor includes a pair of electrodes and a humidity sensitive film,</claim-text>
+<claim-text>the pair of electrodes is made of conductive material, and disposed on the substrate,</claim-text>
+<claim-text>the humidity sensitive film is disposed on the substrate and disposed between the pair of electrodes,</claim-text>
+<claim-text>the humidity sensitive film has a relative permittivity or an impedance, which is changeable in accordance with humidity change, and</claim-text>
+<claim-text>the humidity sensitive film and the polymer film are made of a same material.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The semiconductor device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the humidity sensor is adjacent to the flow sensor along a flowing direction of the fluid.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The semiconductor device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the humidity sensitive film and the polymer film are partially integrated.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The semiconductor device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the humidity sensitive film and the polymer film are separated.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The semiconductor device according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the polymer film is completely covered with the resin sealing member.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The semiconductor device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>the humidity sensitive film is made of poly-imide.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The semiconductor device according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein
+<claim-text>the poly-imide includes a plurality of molecular chains for providing a network structure, and</claim-text>
+<claim-text>both ends of each chain are connected.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The semiconductor device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a second heater for heating the humidity sensor, wherein</claim-text>
+<claim-text>the second heater is disposed on the substrate,</claim-text>
+<claim-text>the first and second heaters are provided by a same wire, and</claim-text>
+<claim-text>the first and second heaters are integrated.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The semiconductor device according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein
+<claim-text>the substrate further includes a first low heat conduction portion and a second low heat conduction portion,</claim-text>
+<claim-text>the first low heat conduction portion is disposed under the first heater,</claim-text>
+<claim-text>the second low heat conduction portion is disposed under the humidity sensor,</claim-text>
+<claim-text>each of the first and second low heat conduction portions has a heat conduction lower than a heat conduction of other parts of the semiconductor substrate,</claim-text>
+<claim-text>one of the first and second low heat conduction portions is provided by a concavity of the substrate, and</claim-text>
+<claim-text>the other one of the first and second low heat conduction portions is provided by a porous silicon part of the substrate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The semiconductor device according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the first heater has a first width, which is different from a second width of the second heater.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The semiconductor device according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein
+<claim-text>the substrate further includes a first low heat conduction portion and a second low heat conduction portion,</claim-text>
+<claim-text>the first low heat conduction portion is disposed under the first heater,</claim-text>
+<claim-text>the second low heat conduction portion is disposed under the humidity sensor,</claim-text>
+<claim-text>each of the first and second low heat conduction portions has a heat conduction lower than a heat conduction of other parts of the semiconductor substrate,</claim-text>
+<claim-text>the first low heat conduction portion has a first depth in a thickness direction of the semiconductor substrate,</claim-text>
+<claim-text>the second low heat conduction portion has a second depth in the thickness direction of the semiconductor substrate, and</claim-text>
+<claim-text>the first depth is different from the second depth.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The semiconductor device according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein each of the first and second low heat conduction portions is provided by a concavity of the substrate.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The semiconductor device according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein each of the first and second low heat conduction portions is provided by a porous silicon part of the substrate.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The semiconductor device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>the flow sensor and the humidity sensor are disposed on a same side of the semiconductor substrate,</claim-text>
+<claim-text>the substrate further includes a groove, which is disposed between the first heater and the humidity sensor, and</claim-text>
+<claim-text>the groove has a predetermined depth in a thickness direction of the substrate.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

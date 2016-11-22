@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641806-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641806</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10864374</doc-number>
+<date>20040610</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2003-168612</doc-number>
+<date>20030613</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>L</subclass>
+<main-group>21</main-group>
+<subgroup>302</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>33</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>216  2</main-classification>
+<further-classification>216 12</further-classification>
+<further-classification>216 41</further-classification>
+<further-classification>216 49</further-classification>
+<further-classification>216 58</further-classification>
+<further-classification>216 67</further-classification>
+<further-classification>216 72</further-classification>
+<further-classification>216 77</further-classification>
+<further-classification>216 79</further-classification>
+<further-classification>216 80</further-classification>
+</classification-national>
+<invention-title id="d0e61">Manufacturing method for membrane member</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3815094</doc-number>
+<kind>A</kind>
+<name>Smith</name>
+<date>19740600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>347121</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5520297</doc-number>
+<kind>A</kind>
+<name>Kagami et al.</name>
+<date>19960500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>216 12</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5912095</doc-number>
+<kind>A</kind>
+<name>Katakura</name>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6002202</doc-number>
+<kind>A</kind>
+<name>Meyer et al.</name>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>313420</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6787785</doc-number>
+<kind>B2</kind>
+<name>Moriya et al.</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>25049223</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6870174</doc-number>
+<kind>B2</kind>
+<name>Yamaguchi et al.</name>
+<date>20050300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2504923</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>7006426</doc-number>
+<kind>B2</kind>
+<name>Chiu et al.</name>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>36911223</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2001/0046776</doc-number>
+<kind>A1</kind>
+<name>Kim</name>
+<date>20011100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>438700</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2003/0031939</doc-number>
+<kind>A1</kind>
+<name>Butschke et al.</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>430  5</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2005/0014076</doc-number>
+<kind>A1</kind>
+<name>Omori</name>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>430  5</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>DE</country>
+<doc-number>19603829</doc-number>
+<kind>A1</kind>
+<date>19970800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>JP</country>
+<doc-number>58-82522</doc-number>
+<date>19830500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>JP</country>
+<doc-number>5-165198</doc-number>
+<date>19930600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>JP</country>
+<doc-number>7-135129</doc-number>
+<date>19950500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>JP</country>
+<doc-number>10-106943</doc-number>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>JP</country>
+<doc-number>2003-100583</doc-number>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2101803</doc-number>
+<kind>A1</kind>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+</references-cited>
+<number-of-claims>29</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>None</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>9</number-of-drawing-sheets>
+<number-of-figures>39</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20040251229</doc-number>
+<kind>A1</kind>
+<date>20041216</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Okumura</last-name>
+<first-name>Katsuya</first-name>
+<address>
+<city>Tokyo-To</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nagaseki</last-name>
+<first-name>Kazuya</first-name>
+<address>
+<city>Nirasaki</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Satoh</last-name>
+<first-name>Naoyuki</first-name>
+<address>
+<city>Nirasaki</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Maruyama</last-name>
+<first-name>Koji</first-name>
+<address>
+<city>Nirasaki</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Smith, Gambrell &#x26; Russell, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Tokyo Electron Limited</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+<assignee>
+<addressbook>
+<orgname>OCTEC Inc.</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Alanko</last-name>
+<first-name>Anita K</first-name>
+<department>1792</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">By steps of forming first masks <b>13, 14</b> each having a first pattern on a first surface of a substrate <b>11</b> on which a membrane is to be formed, etching the first surface of the substrate <b>11</b> by using the first masks <b>13, 14</b> to forming first support beams <b>15</b>, positioning a second surface of the substrate <b>11</b> on the basis of the first pattern on the first surface, forming a second mask <b>17</b> having a second pattern on the second surface of the substrate <b>11</b> based on the alignment and etching the second surface of the substrate <b>11</b> in dry by using the second mask <b>17</b> to form the second support beams <b>20</b>, a membrane member <b>22</b><i>a </i>where the first and second support beams <b>15, 20</b> are formed on both surfaces of the membrane <b>12</b> is manufactured. Consequently, it is possible to provide the membrane member that is sufficient in strength and is hard to be deformed by heat.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="78.06mm" wi="162.05mm" file="US07641806-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="169.84mm" wi="101.94mm" orientation="landscape" file="US07641806-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="163.24mm" wi="63.25mm" file="US07641806-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="208.53mm" wi="155.28mm" file="US07641806-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="174.50mm" wi="128.19mm" file="US07641806-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="144.95mm" wi="156.46mm" file="US07641806-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="215.14mm" wi="157.48mm" file="US07641806-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="100.50mm" wi="101.77mm" file="US07641806-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="203.12mm" wi="150.03mm" file="US07641806-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="109.73mm" wi="106.09mm" file="US07641806-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">This invention relates to a manufacturing method for a membrane member which may be used for an electron beam transmission window of an electron beam irradiation tube, a stencil mask for electron beam exposure, a mask for X-ray exposure and so on.</p>
+<p id="p-0004" num="0003">2. Background Art</p>
+<p id="p-0005" num="0004">For the stencil mask for electron beam exposure, the mask for X-ray exposure, etc., a membrane member having a film thickness of about several micrometers (&#x3bc;m) is used. Japanese Unexamined is Patent Publication (kokai) No. 5-165198 discloses a technique to form such a membrane member on a silicon substrate by means of a semiconductor processing technique, such as exposure and etching.</p>
+<p id="p-0006" num="0005">The membrane member of this kind is also applicable to a variety of applications besides the above-mentioned mask, for example, an electron beam transmission window of an electron beam irradiation tube. As application demands, it may be required to thin a thickness of the membrane member to the submicron degree.</p>
+<p id="p-0007" num="0006">When a membrane member gets thinner in this way, the strength of the membrane member itself is also weakened, so that it may be broken with ease. Therefore, for a membrane member used for the electron beam transmission window of the electron beam irradiation tube, there is an attempt to provide a support beam on one side of the membrane member in order to assure a sufficient strength required for the membrane member. However, it seems that this attempt is still insufficient. Additionally, if this kind of membrane member gets thin and is further applied to an application under the influence of heat, the membrane member may be deformed due to heat.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">In the above-mentioned situation, it is an object of the present invention to provide a method for manufacturing a membrane member that has enough strength and is hard to be deformed due to heat.</p>
+<p id="p-0009" num="0008">In order to solve the above-mentioned problem, the first aspect of the present invention resides in the provision of a manufacturing method for a membrane member, comprising the steps of: forming first support beams patterned with a first pattern on a first surface of a substrate; positioning a second surface of the substrate on the basis of a reference place on the substrate; and forming second support beams patterned with a second pattern on a second surface of the substrate, whereby the membrane member where the first and second support beams are formed on both surfaces of a membrane is manufactured.</p>
+<p id="p-0010" num="0009">The second aspect of the invention resides in the provision of a manufacturing method for a membrane member, comprising the steps of: etching a first surface of a substrate in dry thereby forming first support beams patterned with a first pattern on the first surface of the substrate; and etching a second surface of the substrate in dry thereby forming second support beams patterned with a second pattern on the second surface of the substrate, whereby the membrane member where the first and second support beams are formed on both surfaces of a membrane is manufactured.</p>
+<p id="p-0011" num="0010">The third aspect of the invention resides in the provision of a manufacturing method the steps of: forming a first mask having a first pattern on a first surface of a substrate on which a membrane is to be formed; etching the first surface of the substrate by using the first mask thereby forming first support beams; forming a second mask having a second pattern on a second surface of the substrate; and etching the second surface of the substrate by using the second mask thereby forming second support beams, whereby the membrane member where the first and second support beams are formed on both surfaces of the membrane is manufactured.</p>
+<p id="p-0012" num="0011">The fourth aspect of the invention resides in the provision of a manufacturing method the steps of: forming a first mask having a first pattern on a first surface of a substrate on which a membrane is to be formed; etching the first surface of the substrate in dry by using the first mask thereby forming first support beams; positioning the second surface of the substrate on the basis of a reference place on the substrate: forming a second mask having a second pattern on a second surface of the substrate on the basis of the positioning step; and etching the second surface of the substrate in dry by using the second mask thereby forming second support beams, whereby the membrane member where the first and second support beams are formed on both surfaces of the membrane is manufactured.</p>
+<p id="p-0013" num="0012">According to the first and the fourth aspects of the invention, it is possible to form the membrane member having the support beams with desired patterns on both surfaces of the membrane and also possible to provide the membrane member with high strength due to the cooperation of the support beams on both surfaces of the membrane. Furthermore, the presence of the support beams allows heat to be radiated from both surfaces of the membrane, whereby the deformation due to heat can be prevented. Moreover, as the positioning is tarried out before forming the second support beams, it is possible to make an effective area of opening parts of the membrane large.</p>
+<p id="p-0014" num="0013">According to the second and the fourth aspects of the invention, since the membrane member having the support beams with desired patterns on both surfaces of the membrane is formed by dry etching, the verticality of the support beams is enhanced, so that it is possible to provide the membrane member with high strength and high radiation due to both of the support beams while keeping an effective area of the opening parts of the membrane broad.</p>
+<p id="p-0015" num="0014">In any of the above aspects, owing to the formation of the support beams on both sides of the membrane, it is possible to reduce the area of the beams and also increase the effective area of the membrane that much.</p>
+<p id="p-0016" num="0015">In the first and the fourth aspects of the invention, the reference place may be formed by the first pattern on the first surface, the outer circumference of the substrate as the basis for forming the first pattern on the first surface, a notch on the substrate as the basis for forming the first pattern on the first surface or an orientation flat of the substrate as the basis for forming the first pattern on the first surface. Additionally, the above positioning can be accomplished by firstly detecting the reference place, secondly giving feedback of positional information of the reference place and thirdly forming a positioning mark on the second surface of the substrate on the basis of the positional information.</p>
+<p id="p-0017" num="0016">In the first to the fourth aspects of the invention, providing that the substrate is a silicon substrate having a SiO<sub>2 </sub>membrane formed therein in parallel with a main surface of the substrate, to etch silicon on both sides of the SiO<sub>2 </sub>membrane allows the membrane member to be manufactured to have the support beams on both surfaces of the SiO<sub>2 </sub>membrane. Alternatively, providing that the substrate is a silicon substrate having a SiO<sub>2 </sub>membrane formed on a main surface thereof and a polycrystalline silicon film formed on the SiO<sub>2 </sub>membrane further, to etch silicon on both sides of the SiO<sub>2 </sub>membrane allows the membrane member to be manufactured to have the support beams on both surfaces of the SiO<sub>2 </sub>membrane. Further, providing that the substrate is a silicon substrate having an Al membrane formed therein in parallel with a main surface of the substrate, to etch silicon on both sides of the Al membrane allows the membrane member to be manufactured to have the support beams on both surfaces of the Al membrane. Still further, providing that the substrate is a silicon substrate having an Al membrane formed on a main surface thereof and a polycrystalline silicon film formed on the Al membrane further, to etch silicon on both sides of the Al membrane allows the membrane member to be manufactured to have the support beams on both surfaces of the Al membrane. Or again, providing that the substrate is a silicon substrate having double-layer SiO<sub>2 </sub>membranes formed therein in parallel with a main surface of the substrate, to first etch silicon outside the double-layer SiO<sub>2 </sub>membranes and second etch the double-layer SiO<sub>2 </sub>membranes allows the membrane member to be manufactured to have the support beams on both surfaces of a silicon membrane formed between the double-layer SiO<sub>2 </sub>membranes. Further, providing that the substrate is a silicon substrate having a sapphire membrane formed therein in parallel with a main surface of the substrate, to etch silicon on both sides of the sapphire membrane allows the membrane member to be manufactured to have the support beams on both surfaces of the sapphire membrane. Still further, providing that the substrate is a silicon substrate having a sapphire membrane formed on a main surface thereof and a polycrystalline silicon film formed on the sapphire membrane further, to etch silicon on both sides of the sapphire membrane allows the membrane member to be manufactured to have the support beams on both surfaces of the sapphire membrane. Preferably, the sapphire membrane is formed so that a cleavage surface thereof is substantially parallel with the main surface.</p>
+<p id="p-0018" num="0017">In the first to the fourth aspects of the invention, preferably, a coating layer is formed on the whole area of the membrane, the first support beams and the second support beams. The coating layer may be formed by heat treatment. After forming the first support beams or the second support beams of the substrate, by etching the whole area of a substrate's surface provided with the support beams in dry, it is possible to adjust respective heights of the first support beams or the second support beams. Furthermore, it is preferable to form the first support beams and the second support beams in a lattice manner. Preferably, ones of the first support beams and the second support beams are larger in height than and also broader in grid interval than the others of the first support beams and the second support beams.</p>
+<p id="p-0019" num="0018">These and other objects and features of the present invention will become more fully apparent from the following description and appended claims taken in conjunction with the accompany drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 1</figref> is a sectional view showing one example of a membrane member in accordance with the manufacturing method of the present invention;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 2A</figref> is a plan view showing a pattern of a first supporting beam of the membrane member in accordance with the manufacturing method of the present invention and <figref idref="DRAWINGS">FIG. 2B</figref> is a plan view showing a pattern of a second supporting beam of the membrane member by the manufacturing method of the invention;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIGS. 3A to 3I</figref> are sectional views explaining the flow of the first manufacturing method of the present invention, in due order;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 4</figref> is a sectional view showing another example of a process of <figref idref="DRAWINGS">FIG. 3B</figref>;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIGS. 5A and 5B</figref> are sectional views showing another example of <figref idref="DRAWINGS">FIG. 3G</figref>;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 6</figref> is a pattern diagram showing a processing apparatus for forming alignment marks;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIGS. 7A to 7J</figref> are sectional views explaining the flow of the second manufacturing method of the present invention, in due order;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 8</figref> is a sectional view showing a wafer used for the third manufacturing method of the invention;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 9</figref> is a sectional view showing a wafer used for the fourth manufacturing method of the invention;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIGS. 10A to 10I</figref> are sectional views explaining the flow of the fifth manufacturing method of the present invention, in due order;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 11</figref> is a sectional view showing a wafer used for the sixth manufacturing method of the invention; and</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 12</figref> is a sectional view showing a wafer used for the seventh manufacturing method of the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENT</heading>
+<p id="p-0032" num="0031">Embodiments of the present invention will be described with reference to the attached drawings.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 1</figref> is a sectional view showing one example showing a membrane member obtained by the manufacturing method of the invention. As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the membrane member <b>10</b> includes a membrane <b>1</b> made of e.g. SiO<sub>2</sub>, first support beams <b>2</b> made of e.g. Si and formed on one (first) surface of the membrane <b>1</b>, second support beams <b>3</b> also made of e.g. Si and formed on the other (second) surface of the membrane <b>1</b> and a support wall <b>4</b> arranged on the periphery of the membrane <b>1</b>. These elements about the membrane member <b>10</b> are covered, on the whole surface, with a SiN film <b>5</b>. As for the other material for the membrane <b>1</b>, there may be employed Al, Si or the like in place of SiO<sub>2</sub>.</p>
+<p id="p-0034" num="0033">In case of a stencil mask for electron beam exposure, a mask for X-ray exposure or the like, the membrane <b>1</b> has a thickness of approximately 1 &#x3bc;m to 2 &#x3bc;m. While, in case of the application of an electron beam transmission window of the electron beam irradiation tube etc., the thickness of the membrane <b>1</b> is required to be less than 0.6 &#x3bc;m including the film thickness of the SiN film <b>5</b>. Note, the SiN film <b>5</b> is provided to enhance the whole strength of the membrane member <b>10</b> furthermore and has a thickness less than 0.1 &#x3bc;m.</p>
+<p id="p-0035" num="0034">The first support beams <b>2</b> are formed to have approx. 2 &#x3bc;m to 5 &#x3bc;m in each height, approx. 1 &#x3bc;m in each width and approx. 5 &#x3bc;m of intervals, providing a lattice pattern as shown in <figref idref="DRAWINGS">FIG. 2A</figref>. On the other hand, the second support beams <b>3</b> are formed to have approx. 100 &#x3bc;m to 200 &#x3bc;m in each width, approx. 500 &#x3bc;m to 1000 &#x3bc;m of intervals and approx. 150 &#x3bc;m to 725 &#x3bc;m in each height though it depends on the film thickness of a Si-wafer used in manufacturing the membrane member <b>10</b>, providing a lattice pattern as shown in <figref idref="DRAWINGS">FIG. 2B</figref>. That is, the first support beams <b>2</b> and the second support beams <b>3</b> have respective lattice patterns of different sizes. Note, these dimensional features (intervals etc.) characterizing the first support beams <b>2</b> and the second support beams <b>3</b> are not limited to only the above values. For example, the first support beams <b>2</b> and the second support beams <b>3</b> are respectively formed at the same intervals, providing the same lattice patterns in size.</p>
+<p id="p-0036" num="0035">Owing to the provision of the support beams on both sides of the membrane <b>1</b>, the whole strength of the membrane member <b>10</b> is enhanced. Additionally, since heat of the membrane <b>1</b> is irradiated through the intermediary of the support beams <b>2</b>, <b>3</b>, the membrane member <b>10</b> is prevented from being deformed due to heat.</p>
+<p id="p-0037" num="0036">Note, <figref idref="DRAWINGS">FIG. 1</figref> merely shows the arrangements of the support beams <b>2</b>, <b>3</b> typically. In practical, the numbers of the beams <b>2</b>, <b>3</b> are more than the shown numbers and are also determined as a required area demands.</p>
+<p id="p-0038" num="0037">Next, the manufacturing method of the membrane member as above will be described below.</p>
+<p id="p-0039" num="0038">First, we now describe the first manufacturing method. <figref idref="DRAWINGS">FIGS. 3A to 3I</figref> are sectional views showing the flow of the first manufacturing method. First, prepare a Si wafer (SOI wafer) <b>11</b> containing a SiO<sub>2 </sub>film <b>12</b> in parallel with a main face of the wafer <b>11</b> (<figref idref="DRAWINGS">FIG. 3A</figref>). The SiO<sub>2 </sub>film <b>12</b> is arranged in a position apart from the surface of the Si wafer <b>11</b> by approx. 2 &#x3bc;m, for example. That is, a Si-part of the Si wafer <b>11</b> is divided into a thin portion <b>11</b><i>a </i>and a thick portion <b>11</b><i>b </i>through the SiO<sub>2 </sub>film <b>12</b>.</p>
+<p id="p-0040" num="0039">Next, by means of e.g. TEOS, a SiO<sub>2 </sub>film <b>13</b> is formed on the main face of the Si wafer <b>11</b> thereby forming a resist pattern <b>14</b> by photolithography (<figref idref="DRAWINGS">FIG. 3B</figref>). In succession, the SiO<sub>2 </sub>film <b>13</b> is subjected to RIE-etching while utilizing the resist pattern <b>14</b> as a mask (<figref idref="DRAWINGS">FIG. 3C</figref>). By these processes of <figref idref="DRAWINGS">FIGS. 3B and 3C</figref>, a mask to etch the thin portion <b>11</b><i>a </i>of the Si wafer <b>11</b> is produced. Alternatively, providing of using a resist of <figref idref="DRAWINGS">FIG. 4</figref> where a resist pattern <b>14</b> is established on a resist film <b>13</b><i>a </i>and a glass (SOG) film <b>13</b><i>b </i>by photolithography and further utilizing the resist pattern <b>14</b> as a mask, it may be carried out to develop the resist film <b>13</b><i>a </i>and the glass film <b>13</b><i>b </i>in dry, thereby providing an etching mask.</p>
+<p id="p-0041" num="0040">Then, the thin portion <b>11</b><i>a </i>of the Si wafer <b>11</b> is subjected to RIE etching while using the resist pattern <b>14</b> and the patterned SiO<sub>2 </sub>film <b>13</b> as an etching mask, thereby forming first support beams <b>15</b> with a designated pattern and additionally, the resist pattern <b>14</b> is removed by ashing (<figref idref="DRAWINGS">FIG. 3D</figref>). In this regard, if the verticality of etching is large in its degree of freedom, the portion <b>11</b><i>a </i>may be etched while using only the resist pattern <b>14</b> as an etching mask. However, considering the verticality of etching severely, it is preferable to adopt the resist pattern <b>14</b> and the SiO<sub>2 </sub>film <b>13</b> as the etching mask <b>2</b>.</p>
+<p id="p-0042" num="0041">Next, in order to form the second support beams on the thick portion <b>11</b><i>b </i>of the Si wafer <b>11</b>, alignment marks (positioning marks) <b>16</b> are formed on the surface of the thick portion <b>11</b><i>b </i>of the Si wafer <b>11</b> on the basis of the pattern of the first support beams <b>15</b> by means of laser processing (<figref idref="DRAWINGS">FIG. 3E</figref>). Note, a laser processor for this process will be described later.</p>
+<p id="p-0043" num="0042">After that, the Si wafer <b>11</b> is reversed and further, its surface on the side of the first support beams <b>15</b> is applied on a base wafer <b>19</b> through an adhesive <b>18</b> in order to protect the first support beams <b>15</b>. Additionally, on the basis of the alignment marks <b>16</b>, a thick film resist pattern <b>17</b> is formed on the surface of the thick portion <b>11</b><i>b </i>of the Si wafer <b>11</b> by photolithography (<figref idref="DRAWINGS">FIG. 3F</figref>). The adhesive <b>18</b> may be replaced by a protective tape (not shown).</p>
+<p id="p-0044" num="0043">In secession, while using the thick film resist pattern <b>17</b> as an etching mask, the thick portion <b>11</b><i>b </i>of the Si wafer <b>11</b> is subjected to RIE etching to form second support beam <b>20</b> and additionally, the thick film resist pattern <b>17</b> is removed by ashing (<figref idref="DRAWINGS">FIG. 3G</figref>). Then, if establishing an etching depth equal to the thickness of the portion <b>11</b><i>b </i>as shown in <figref idref="DRAWINGS">FIG. 3G</figref>, then each of the second support beams <b>20</b> has a height equal to the thickness of the portion <b>11</b><i>b</i>. Instead, if giving up in the midstream of the RIE etching of the portion <b>11</b><i>b </i>with the thick film resist pattern <b>17</b> as an etching mask as shown in <figref idref="DRAWINGS">FIG. 5A</figref> and subsequently etching the portion <b>11</b><i>b </i>as a whole as shown in <figref idref="DRAWINGS">FIG. 5B</figref>, then it is possible to finish second support beams <b>20</b>&#x2032; each having a desired height.</p>
+<p id="p-0045" num="0044">Thereafter, by ashing or cleaning, residual dross of the resist pattern <b>17</b> is removed and the adhesive <b>18</b> is eliminated after detaching the base wafer <b>19</b> (<figref idref="DRAWINGS">FIG. 3H</figref>). Note, if the thickness of the SiO<sub>2 </sub>film <b>12</b> is out of the desired thickness, the SiO<sub>2 </sub>film <b>12</b> is etched in dry or wet after the process of <figref idref="DRAWINGS">FIG. 3G</figref>, thereby realizing the desired thickness.</p>
+<p id="p-0046" num="0045">After that, by CVD (LP-CVD) under low pressure, a coating layer <b>21</b> of SiN for reinforcement is formed on the whole surface of the Si wafer <b>11</b>, thereby completing a membrane member <b>22</b><i>a </i>which has the first support beams <b>15</b> and the second support beams <b>20</b> on both sides of the SiO<sub>2 </sub>film <b>12</b> and whose whole surface is covered with the coating layer <b>21</b> of SiN (<figref idref="DRAWINGS">FIG. 3I</figref>). Instead of CVD, the coating layer <b>21</b> may be formed by infusing nitrogen ions and subsequently annealing. In this case, since such a processing cannot be applied on both sides of the Si wafer <b>11</b> at a time but every side thereof, it is impossible to form the coating layer <b>21</b> on the whole surface of the Si wafer <b>11</b> in one job.</p>
+<p id="p-0047" num="0046">Next, the above alignment will be described in detail.</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 6</figref> shows the processing apparatus for alignment. This processing apparatus <b>30</b> includes a drive stage <b>31</b> for supporting and driving the Si wafer <b>11</b> as an object to be processed, a detector <b>32</b>, such as CCD camera, for detecting a pattern (of the first support beams <b>15</b>) on the surface of the Si wafer <b>11</b> and a laser processor <b>33</b> for processing the back surface of the Si wafer <b>11</b>. A stage controller (PC) <b>34</b> is connected to the drive stage <b>31</b>. A detector controller (PC) <b>35</b> is connected to the detector <b>32</b>. A laser processor controller (PC) <b>36</b> is connected to the laser processor <b>33</b>. These controllers <b>34</b>, <b>35</b>, <b>36</b> are connected to a main PC (personal computer) <b>37</b> in common.</p>
+<p id="p-0049" num="0048">In the processing apparatus <b>30</b> constructed above, the detector <b>32</b> firstly detects the pattern of the first support beams <b>15</b> on the surface of the Si wafer <b>11</b> and outputs a detected information to the detector controller <b>35</b>. After checking the information of pattern image, the detector controller <b>35</b> transmits it to the main PC <b>37</b>. At the main PC <b>37</b>, calculation is carried out on the basis of the pattern information from the detector controller <b>35</b> and data base stored in the main PC <b>37</b>, it transmits a processed position to the stage controller <b>34</b> and a command of laser processing to the laser processor <b>33</b>. Consequently, it is possible to form the alignment marks for forming the second support beams <b>20</b> on the back surface of the Si wafer <b>11</b>, on the basis of the pattern of the first support beams <b>15</b>. Note, instead of such an automatic processing, an operator may designate the processed position on confirmation of the information from the detector controller <b>35</b>, manually.</p>
+<p id="p-0050" num="0049">In this way, since the pattern information of the first support beams <b>15</b> is fed back to form the alignment marks for the second support beams <b>20</b>, it is possible to position the pattern of the support beams <b>20</b> on the basis of the pattern information of the first support beams <b>15</b>, thereby establishing the positional relationship between the pattern of the first support beams <b>15</b> and the pattern of the second support beams <b>20</b> with high accuracy. Conversely, if the positioning accuracy between the first support beams <b>15</b> and the second support beams <b>20</b> is small, it becomes impossible to assure a planned effective area of opening parts of the membrane. However, the increased positioning accuracy between the first support beams <b>15</b> and the second support beams <b>20</b> allows the effective area of the opening parts of the membrane member to be broadened.</p>
+<p id="p-0051" num="0050">Next, the manufacturing method of the membrane member as above will be described below.</p>
+<p id="p-0052" num="0051">First, we now describe the second method for manufacturing the membrane member. <figref idref="DRAWINGS">FIGS. 7A to 7J</figref> are sectional views showing the flow of the second manufacturing method. First, prepare a Si wafer (bare wafer) <b>41</b> and form SiO<sub>2 </sub>films <b>42</b><i>a</i>, <b>42</b><i>b </i>on both sides of the wafer <b>41</b> by thermal oxidation (<figref idref="DRAWINGS">FIG. 7A</figref>). Alternatively, a SiO<sub>2 </sub>film may be formed on the only side of the wafer by TEOS. Next, a poly-Si film <b>43</b> is formed on the SiO<sub>2 </sub>film <b>42</b><i>a </i>(<figref idref="DRAWINGS">FIG. 7B</figref>).</p>
+<p id="p-0053" num="0052">Next, as similar to <figref idref="DRAWINGS">FIG. 3B</figref>, the SiO<sub>2 </sub>film <b>13</b> is formed on the poly-Si film <b>43</b> by e.g. TEOS and further, the resist pattern <b>14</b> is formed by photolithography (<figref idref="DRAWINGS">FIG. 7C</figref>). In succession, the SiO<sub>2 </sub>film <b>13</b> is subjected to RIE-etching while utilizing the resist pattern <b>14</b> as a mask (<figref idref="DRAWINGS">FIG. 7D</figref>). By these processes of <figref idref="DRAWINGS">FIGS. 7C and 70</figref>, a mask to etch the poly-Si film <b>43</b> is produced.</p>
+<p id="p-0054" num="0053">In succession, while using the resist pattern <b>14</b> and the patterned SiO<sub>2 </sub>film <b>13</b> as an etching mask, the poly-Si film <b>43</b> is subjected to RIE etching, thereby forming first support beams <b>15</b> with a designated pattern and additionally, the resist pattern <b>14</b> is removed by ashing (<figref idref="DRAWINGS">FIG. 7E</figref>).</p>
+<p id="p-0055" num="0054">Next, in order to form the second support beams on the Si wafer <b>41</b>, the alignment marks <b>16</b> are formed on the Si wafer's surface on the side of the SiO<sub>2 </sub>film <b>42</b><i>b </i>on the basis of the pattern of the first support beams <b>15</b> by means of laser processing (<figref idref="DRAWINGS">FIG. 7F</figref>).</p>
+<p id="p-0056" num="0055">After that, the Si wafer <b>41</b> is reversed and further, its surface on the side of the first support beams <b>15</b> is applied on the base wafer <b>19</b> through the adhesive <b>18</b> etc. in order to protect the first support beams <b>15</b>, as similar to <figref idref="DRAWINGS">FIG. 3F</figref>. Additionally, on the basis of the alignment marks <b>16</b>, the thick film resist pattern <b>17</b> is formed on the surface of the SiO<sub>2 </sub>film <b>42</b><i>b </i>formed on the Si wafer <b>41</b> by photolithography (<figref idref="DRAWINGS">FIG. 7G</figref>).</p>
+<p id="p-0057" num="0056">In secession, while using the thick film resist pattern <b>17</b> as an etching mask, the SiO<sub>2 </sub>film <b>42</b><i>b </i>and the Si wafer <b>41</b> are subjected to RIE etching to form the second support beams <b>20</b> and additionally, the thick film resist pattern <b>17</b> is removed by ashing (<figref idref="DRAWINGS">FIG. 7H</figref>).</p>
+<p id="p-0058" num="0057">Thereafter, by ashing or cleaning, residual dross of the resist pattern <b>17</b> is removed and the adhesive <b>18</b> is eliminated after detaching the base wafer <b>19</b> (<figref idref="DRAWINGS">FIG. 7I</figref>). After that, by CVD (LP-CVD) under low pressure, the coating layer <b>21</b> of SiN for reinforcement is formed on the whole surface of the Si wafer <b>41</b>, thereby completing a membrane member <b>22</b><i>a </i>which has the first support beams <b>15</b> and the second support beams <b>20</b> on both sides of the SiO<sub>2 </sub>film <b>42</b><i>a </i>and whose whole surface is covered with the coating layer <b>21</b> of SiN (<figref idref="DRAWINGS">FIG. 7J</figref>).</p>
+<p id="p-0059" num="0058">The third manufacturing method of the invention will be described with reference to a Si wafer <b>51</b> of <figref idref="DRAWINGS">FIG. 8</figref>. In the third manufacturing method, the processes of <figref idref="DRAWINGS">FIGS. 7A to 7J</figref> are applicable to the Si wafer <b>51</b> having an Al film <b>52</b> (as the membrane) formed thereon and a poly-Si film <b>63</b> formed on the Al film <b>52</b> furthermore. Consequently, it becomes possible to form a membrane member which includes the first and second support beams on both sides of the Al film <b>52</b> and whose surface is covered, allover, with a coating layer of SiN.</p>
+<p id="p-0060" num="0059">The fourth manufacturing method of the invention will be described with reference to a Si wafer <b>61</b> of <figref idref="DRAWINGS">FIG. 9</figref>. In the fourth manufacturing method, the processes of <figref idref="DRAWINGS">FIGS. 3A to 3I</figref> are applicable to the Si wafer <b>61</b> containing an Al film <b>62</b> in parallel with a main surface forming the membrane. Consequently, it becomes possible to form a membrane member which includes the first and second support beams on both sides of the Al film <b>62</b> and whose surface is covered, allover, with a coating layer of SiN.</p>
+<p id="p-0061" num="0060">Next, we describe the fifth manufacturing method of the invention. <figref idref="DRAWINGS">FIGS. 10A to 10I</figref> are sectional views showing the flow of the fifth manufacturing method. First, prepare a Si wafer (multilayered SOI wafer) <b>71</b> including two approximate SiO<sub>2 </sub>films <b>72</b>, <b>73</b> in parallel with a main surface of the wafer <b>71</b> (<figref idref="DRAWINGS">FIG. 10A</figref>). The SiO<sub>2 </sub>film <b>72</b> is arranged in a position apart from the surface of the Si wafer <b>71</b> by approx. 2 &#x3bc;m, for example. While, the SiO<sub>2 </sub>film <b>73</b> is apart from the SiO<sub>2 </sub>film <b>72</b> at an interval from 0.4 &#x3bc;m to 2 &#x3bc;m. By these SiO<sub>2 </sub>films <b>72</b>, <b>73</b>, a Si part of the Si wafer <b>71</b> is divided into an outer portion <b>71</b><i>a </i>outside the SiO<sub>2 </sub>film <b>72</b>, an intermediate portion <b>71</b><i>b </i>between the SiO<sub>2 </sub>films <b>72</b>, <b>73</b> and an outer portion <b>71</b><i>c </i>outside the SiO<sub>2 </sub>film <b>73</b>.</p>
+<p id="p-0062" num="0061">Next, the SiO<sub>2 </sub>film <b>13</b> is formed on the main surface of the Si wafer <b>71</b> by e.g. TEOS and further, the resist pattern <b>14</b> is formed by photolithography (<figref idref="DRAWINGS">FIG. 10B</figref>). In succession, the SiO<sub>2 </sub>film <b>13</b> is subjected to RIE-etching while utilizing the resist pattern <b>14</b> as a mask (<figref idref="DRAWINGS">FIG. 10C</figref>). By these processes of <figref idref="DRAWINGS">FIGS. 10B and 10C</figref>, a mask to etch the portion <b>71</b><i>a </i>of the Si wafer <b>71</b> is produced.</p>
+<p id="p-0063" num="0062">In succession, while using the resist pattern <b>14</b> and the patterned SiO<sub>2 </sub>film <b>13</b> as an etching mask, the portion <b>71</b><i>a </i>of the Si wafer <b>71</b> is subjected to RIE etching, thereby forming first support beams <b>15</b> with a designated pattern and additionally, the resist pattern <b>14</b> is removed by ashing (<figref idref="DRAWINGS">FIG. 10D</figref>).</p>
+<p id="p-0064" num="0063">Next, in order to form the second support beams in the portion <b>71</b><i>c </i>of the Si wafer <b>71</b>, the alignment marks <b>16</b> are formed on the Si wafer's surface on the side of the portion <b>71</b><i>c </i>on the basis of the pattern of the first support beams <b>15</b> by means of the above-mentioned laser processing (<figref idref="DRAWINGS">FIG. 10E</figref>).</p>
+<p id="p-0065" num="0064">After that, the Si wafer <b>71</b> is reversed and further, the wafer's surface on the side of the first support beams <b>15</b> is applied on the base wafer <b>19</b> through the adhesive <b>18</b> etc. in order to protect the first support beams <b>15</b>. Additionally, on the basis of the alignment marks <b>16</b>, the thick film resist pattern <b>17</b> is formed on the surface of the portion <b>71</b><i>c </i>of the Si wafer <b>71</b> by photolithography (<figref idref="DRAWINGS">FIG. 10F</figref>). Note, the adhesive <b>18</b> may be replaced by a protective tape.</p>
+<p id="p-0066" num="0065">In secession, while using the thick film resist pattern <b>17</b> as an etching mask, the portion <b>71</b><i>c </i>of the Si wafer <b>71</b> is subjected to RIE etching to form the second support beams <b>20</b> and additionally, the thick film resist pattern <b>17</b> is removed by ashing (<figref idref="DRAWINGS">FIG. 10G</figref>).</p>
+<p id="p-0067" num="0066">Thereafter, by ashing or cleaning, residual dross of the resist pattern <b>17</b> is removed. After detaching the base wafer <b>19</b>, the adhesive <b>18</b> is eliminated and additionally, the SiO<sub>2 </sub>films <b>72</b>, <b>73</b> are etched in wet (<figref idref="DRAWINGS">FIG. 10H</figref>). Note, when the thickness of the portion <b>71</b><i>b </i>of the Si wafer <b>71</b> is too large, the SiO<sub>2 </sub>film <b>73</b> is subjected to RIE etching after the process of <figref idref="DRAWINGS">FIG. 10G</figref>. Subsequently, the portion <b>71</b><i>b </i>is subjected to RIE etching, thereby accomplishing a desired thickness.</p>
+<p id="p-0068" num="0067">After that, by CVD (LP-CVD) under low pressure, the coating layer <b>21</b> of SiN for reinforcement is formed on the whole surface of the Si wafer <b>71</b>, thereby completing a membrane member <b>22</b><i>c </i>which has the first support beams <b>15</b> and the second support beams <b>20</b> on both sides of the portion <b>71</b><i>b </i>of the Si wafer <b>71</b> and whose whole surface is covered with the coating layer <b>21</b> of SiN (<figref idref="DRAWINGS">FIG. 10I</figref>).</p>
+<p id="p-0069" num="0068">The sixth manufacturing method of the invention will be described with reference to a Si wafer <b>81</b> of <figref idref="DRAWINGS">FIG. 11</figref>. In the sixth manufacturing method, the processes of <figref idref="DRAWINGS">FIGS. 7A to 7J</figref> are applicable to the Si wafer <b>81</b> having a sapphire (monocrystal Al<sub>2</sub>O<sub>3</sub>) film <b>82</b> (as the membrane) formed thereon and a poly-Si film <b>83</b> formed on the sapphire film <b>82</b>. Consequently, it becomes possible to form a membrane member which includes the first and second support beams of Si on both sides of the sapphire film <b>82</b> and whose surface is covered, allover, with a coating layer of SiN. The advantage of adopting the sapphire film is that its thermal characteristic is similar to that of Si (silicon). Further, it is possible to enhance the cooling effect in comparison with the case of adopting compound SiO<sub>2 </sub>as a membrane material, whose cooling effect is inferior to that of an element Si. It is noted, however, if the sapphire film has its cleavage surface perpendicular to the main surface, then it is feared that the membrane breaks off easily to exhibit an insufficient strength. Therefore, it is necessary to pay attention to an occurrence of such a situation. Preferably, the sapphire film <b>82</b> is formed so that its cleavage surface is substantially parallel with the main surface.</p>
+<p id="p-0070" num="0069">The seventh manufacturing method of the invention will be described with reference to a Si wafer <b>91</b> of <figref idref="DRAWINGS">FIG. 12</figref>. In the seventh manufacturing method, the processes of <figref idref="DRAWINGS">FIGS. 3A to 3I</figref> are applicable to the Si wafer <b>91</b> containing a sapphire film <b>92</b> in parallel with the main surface (as the membrane) of the Si wafer <b>91</b>. Consequently, it becomes possible to form a membrane member which includes the first and second support beams of Si on both sides of the sapphire film <b>92</b> and whose surface is covered, allover, with a coating layer of SiN. Also in this case, the similar advantages to those of the sixth manufacturing method can be obtained. As well, it is necessary to pay attention to the direction of a cleavage surface of the sapphire film. Therefore, it is preferable to select a Si wafer <b>91</b> where the cleavage surface of the sapphire film <b>92</b> is substantially parallel with the main surface.</p>
+<p id="p-0071" num="0070">In the above way, since the membrane member having the first and second support beams on both sides of the membrane is produced by dry-etching in accordance with the first to the seventh methods, it is possible to provide the membrane member with high strength and high heat-radiation due to both of the first and second support beams while keeping an effective area of the membrane broad.</p>
+<p id="p-0072" num="0071">Note, the present invention may be modified without being limited to only the above-mentioned embodiments. For instance, although the membrane is formed by a Si wafer in common with the above embodiments, the invention is not limited to this material only. Although SiO<sub>2</sub>, Al, Si and sapphire (monocrystal Al<sub>2</sub>O<sub>3</sub>) are adopted as the membrane material, the invention is not limited to these elements only. Further, although the arrangement where the coating layer is formed on the whole surface of the membrane member is illustrated as one example of reinforcing the membrane member, without being limited to this arrangement, for example, the whole surface of the membrane member may be covered with e.g. SiC film, SiP film or the like. Alternatively, the reinforcement may be attached by doping phosphorous (P) into the membrane. In the above embodiments, the first support beams and the second support beams are respectively patterned in a lattice manner. Without being limited to this pattern, a variety of patterns may be adopted for any purpose. Still further, although the above embodiments exhibit, as one example of positioning, one method of first detecting the pattern of the first support beams and next forming the alignment marks on the surface forming the second support beams on the basis of the above information of pattern, any method will do without being limited to this method so long as the positioning of the second support beams can be accomplished on the basis of the pattern of the first support beams. Further, although the above embodiments exhibit one example where the positioning to form the second support beams is carried out on the basis of the positions of the first support beams directly, the invention is not limited to this example only. For instance, if the positions of the first support beams are determined on the basis of the outer circumference of a wafer, notches or an orientation flat, the positioning to form the second support beams may be carried out by the outer circumference of the wafer, the notches or the orientation flat, directly. Even in this method, it is possible to accomplish the positioning of the first support beams and the second support beams. As a result, it is possible to make an effective area of opening parts of the membrane member broad. Moreover, the positioning of the first support beams and the second support beams may be carried out by using a not-shown &#x201c;both-sides&#x201d; aligner or a not-shown &#x201c;back-side&#x201d; aligner.</p>
+<p id="p-0073" num="0072">Finally, it will be understood by those skilled in the art that the foregoing descriptions are nothing but embodiments of the disclosed manufacturing method for a membrane member and therefore, various changes and modifications may be made within the scope of claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method of manufacturing an electron beam transmission window of an electron beam irradiation tube having a base membrane having opposed first and second surfaces, first support beams provided on the first surface of the base membrane, and second support beams provided on the second surface of the base membrane, said method comprising the steps of:
+<claim-text>providing a substrate including:
+<claim-text>a base membrane forming layer having a first side and a second side;</claim-text>
+<claim-text>a first layer provided on the first side of the base membrane forming layer; and</claim-text>
+<claim-text>a second layer provided on the second side of the base membrane forming layer;</claim-text>
+</claim-text>
+<claim-text>partially etching the first layer in dry to form the first support beams on the first side of the base membrane forming layer, and to partially expose the first side of the base membrane forming layer between the first support beams, and</claim-text>
+<claim-text>partially etching the second layer in dry to form the second support beams on the second side of the base membrane forming layer and to partially expose the second side of the base membrane forming layer between the second support beams,</claim-text>
+<claim-text>thereby forming a structure including the base membrane provided by the base membrane forming layer and having the first and second surfaces provided by the first and second sides of the base membrane forming layer, respectively, the first support beams formed of parts of the first layer and provided on the first surface of the base membrane and the second support beams formed of parts of the second layer provided on the second surface of the base membrane; and</claim-text>
+<claim-text>forming a coating layer of SiN on the structure such that the coating layer covers whole surfaces of all of the first and the second support beams, and also covers whole areas of the first surface of the base membrane exposed between the first support beams, and also covers whole areas of the second surface of the base membrane between the second support beams.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising the steps of:
+<claim-text>forming a first mask having a first pattern on a surface of the first layer of the substrate; and</claim-text>
+<claim-text>forming a second mask having a second pattern on a surface of the second layer of the substrate,</claim-text>
+<claim-text>wherein the step of etching the first layer of the substrate is performed by using the first mask as an etch mask, and the step of etching the second layer of the substrate is performed by using the second mask as an etch mask.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, further comprising a step of positioning the surface of the second layer of the substrate utilizing a positioning reference on the substrate between the step of etching the first layer and the step of forming the second mask, wherein the second mask having the second pattern is formed on the surface of the second layer of the substrate thus positioned.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the first pattern is utilized as the positioning reference.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein an outer circumference is utilized as the positioning reference, and the outer circumference is also utilized as a positioning reference for positioning the surface of the first layer before the step of forming the first mask.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein a notch formed on the outer circumference is utilized as the positioning reference.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein an orientation flat formed on the outer circumference is utilized as the positioning reference.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the positioning step includes the steps of detecting the positioning reference, giving feedback of positional information of the positioning reference and forming a positioning mark on the surface of the second layer of the substrate on the basis of the positional information.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base membrane forming layer includes an SiO<sub>2 </sub>film, the first layer includes a silicon film, and the second layer includes a silicon film.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base membrane forming layer includes an SiO<sub>2 </sub>film, the first layer includes a polycrystalline silicon film, and the second layer includes a silicon film.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base membrane forming layer includes an aluminum film, the first layer includes a silicon film, and the second layer includes a silicon film.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base membrane forming layer includes an aluminum film, the first layer includes a polycrystalline silicon film, and the second layer includes a silicon film.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base membrane forming layer includes a sapphire film, the first layer includes a silicon layer, and the second layer includes a silicon layer.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base membrane forming layer includes a sapphire film, the first layer includes a polycrystalline silicon film, and the second layer includes a silicon film.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The method according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the base membrane forming layer comprises a sapphire film which has a cleavage surface is substantially parallel with a main surface of the substrate.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the coating layer is formed by heat treatment.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a step of adjusting heights of the first support beams or the second support beams by uniformly etching the first layer or the second layer, after selectively etching the first layer or the second layer by using the first mask or the second mask.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first support beams or the second support beams are formed in a lattice pattern.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The method according to <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein ones of the first support beams and the second support beams are larger in height than and also larger in grid interval than the others of the first support beams and the second support beams.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. A method of manufacturing an electron beam transmission window of an electron beam irradiation tube having a base membrane having opposed first and second surfaces, first support beams provided on the first surface of the base membrane, and second support beams provided on the second surface of the base membrane, said method comprising the steps of:
+<claim-text>providing a substrate including a first layer, a second layer, a third layer, a fourth layer and a fifth layer which are stacked in that order;</claim-text>
+<claim-text>partially etching the first and second layers in dry to form the first support beams on a first side of the third layer, and to partially expose the first side of the third layer between the first support beams, and partially etching the fourth and fifth layers in dry to form the second support beams on a second side of the third layer and to partially expose the second side of the third layer between the second support beams, thereby forming a structure including the base membrane provided by the third layer and having the first and second surfaces provided by the first and second sides of the third layer, respectively, the first support beams formed of parts of the first and second layers and provided on the first surface of the base membrane and the second support beams formed of parts of the fourth and fifth layers provided on the second surface of the base membrane; and</claim-text>
+<claim-text>forming a coating layer of SiN on the structure such that the coating layer covers whole surfaces of all of the first and the second support beams, and also covers whole areas of the first surface of the base membrane exposed between the first support beams, and also covers whole areas of the second surface of the base membrane between the second support beams.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The method according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, further comprising the steps of:
+<claim-text>forming a first mask having the first pattern on a surface of the first layer of the substrate; and</claim-text>
+<claim-text>forming a second mask having the second pattern a surface of the fifth layer of the substrate,</claim-text>
+<claim-text>wherein the step of etching the first and second layers of the substrate is performed by using the first mask as an etch mask, and the step of etching the fourth and fifth layers of the substrate is performed by using the second mask as an etch mask.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The method according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the second layer comprises an SiO<sub>2 </sub>film, the third layer comprises a silicon film and the fourth layer comprises an SiO<sub>2 </sub>film.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The method according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the second layer comprises an aluminum film, the third layer comprises a silicon film and the fourth layer comprises an aluminum film.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The method according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the second layer comprises a sapphire film, the third layer comprises a silicon film and the fourth layer comprises a sapphire film.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The method according to <claim-ref idref="CLM-00024">claim 24</claim-ref>, wherein each of the sapphire films has a cleavage surface is substantially parallel with a main surface of the substrate.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. The method according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the coating layer is formed by heat treatment.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text>27. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the coating layer is formed such that the structure is entirely embraced by the coating layer and that there is no part of the structure which is not covered with the coating layer.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text>28. The method according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein the coating layer is formed such that the structure is entirely embraced by the coating layer and that there is no part of the structure which is not covered with the coating layer.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text>29. A method of manufacturing an electron beam transmission window of an electron beam irradiation tube comprising the steps of:
+<claim-text>etching a first surface of a substrate in dry thereby forming first support beams patterned with a first pattern on the first surface of the substrate, and</claim-text>
+<claim-text>etching a second surface of the substrate in dry thereby forming second support beams patterned with a second pattern on the second surface of the substrate,</claim-text>
+<claim-text>whereby the membrane member having the first and second support beams formed on both surfaces of a membrane is manufactured; and</claim-text>
+<claim-text>thereafter forming a coating layer of SiN covering whole surfaces of the membrane member,</claim-text>
+<claim-text>wherein the substrate is a silicon substrate provided therein with: two SiO<sub>2 </sub>membranes formed in parallel with a main surface of the substrate; a first silicon layer located between the two SiO<sub>2 </sub>membranes; and second and third silicon layers located outside the two SiO<sub>2 </sub>membranes, respectively;</claim-text>
+<claim-text>wherein the step of forming the first support beams and the step of forming the second support beams are performed by etching the second and third layers and further etching the two SiO<sub>2 </sub>membranes such that the membrane member is manufactured to have the support beams on both surfaces of the first silicon membrane. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640654-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640654</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11701502</doc-number>
+<date>20070202</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2006-025443</doc-number>
+<date>20060202</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>365</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>05</class>
+<subclass>K</subclass>
+<main-group>3</main-group>
+<subgroup>30</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 29760</main-classification>
+<further-classification> 29832</further-classification>
+<further-classification> 29740</further-classification>
+<further-classification> 29739</further-classification>
+<further-classification> 29822</further-classification>
+</classification-national>
+<invention-title id="d0e71">Electronic component transporting method</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5588195</doc-number>
+<kind>A</kind>
+<name>Asai et al.</name>
+<date>19961200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 29 33 M</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6620345</doc-number>
+<kind>B2</kind>
+<name>Takezawa et al.</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>252512</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>JP</country>
+<doc-number>11-068388</doc-number>
+<date>19990300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>JP</country>
+<doc-number>2000-077438</doc-number>
+<date>20000300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>JP</country>
+<doc-number>2002-007720</doc-number>
+<date>20020100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>JP</country>
+<doc-number>2003-109397</doc-number>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>JP</country>
+<doc-number>2004-108907</doc-number>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>JP</country>
+<doc-number>2005-033014</doc-number>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>JP</country>
+<doc-number>2005-033014</doc-number>
+<kind>A</kind>
+<date>20050300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00010">
+<othercit>T.B. Jones, &#x201c;An electromechanical interpretation of electrowetting&#x201d; Apr. 22, 2005, Institute of Physics Publishing, Journal of Microelectronics and Microengineering, #15, pp. 1184-1187.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00011">
+<othercit>Frieder Mugele, Jean-Christophe Baret, &#x201c;Electrowetting: from basics to applications&#x201d; Jul. 1, 2005, Institute of Physics Publishing, Journal of Physics: Condensed Matter, #17, pp. R705-R773.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+</references-cited>
+<number-of-claims>23</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 29 2535</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29721</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29729</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29739-742</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29760</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29791</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29795</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29822</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29823</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29833</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29832</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29834</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438464</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438612</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438613</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438  6</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438106</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438107</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>382103</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>382106</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>382107</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>428913</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>12</number-of-drawing-sheets>
+<number-of-figures>24</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070175024</doc-number>
+<kind>A1</kind>
+<date>20070802</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nakatani</last-name>
+<first-name>Seiichi</first-name>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Karashima</last-name>
+<first-name>Seiji</first-name>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kitae</last-name>
+<first-name>Takashi</first-name>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>McDermott Will &#x26; Emery LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Panasonic Corporation</orgname>
+<role>03</role>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Banks</last-name>
+<first-name>Derris H</first-name>
+<department>3729</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Carley</last-name>
+<first-name>Jeffrey</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A pickup device comprising a pickup surface to which an electronic component retaining liquid is to be applied and capable of adjusting a wet area of the electronic component retaining liquid on the pickup surface is prepared, and the electronic component retaining liquid is applied to the pickup surface in a first step. The electronic component is retained on the pickup surface via the electronic component retaining liquid in a state where the wet area is extended in a second step.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="103.04mm" wi="213.87mm" file="US07640654-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="200.41mm" wi="172.21mm" file="US07640654-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="115.91mm" wi="163.83mm" file="US07640654-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="213.78mm" wi="143.26mm" orientation="landscape" file="US07640654-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="219.29mm" wi="146.98mm" file="US07640654-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="238.34mm" wi="150.37mm" file="US07640654-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="224.37mm" wi="176.70mm" file="US07640654-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="168.91mm" wi="139.02mm" file="US07640654-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="211.92mm" wi="162.73mm" file="US07640654-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="79.76mm" wi="145.37mm" file="US07640654-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="193.29mm" wi="156.55mm" file="US07640654-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="267.21mm" wi="166.03mm" file="US07640654-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="112.35mm" wi="114.81mm" file="US07640654-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">The present invention relates to a method of and a device for transporting an electronic component, and a method of and a device for mounting the electronic component.</p>
+<p id="p-0004" num="0003">2. Description of the Related Art</p>
+<p id="p-0005" num="0004">As tendency of downsizing, thin-model and a higher performance in an electronic device have been advanced in recent years, an electronic component mounted on a print substrate has also been downsized more and more rapidly. A size of chip components (for example, chip resistor, chip capacitor, chip inductor and the like), which is currently length 0.4 mm&#xd7;width 0.2 mm&#xd7;height 0.2 mm, is expected to be length 0.1 mm&#xd7;width 0.05 mm&#xd7;height 0.05 mm in the future. Further, a size of a semiconductor bare chip that is mainstream, is currently 0.3 mm in square, but it is expected to be reduced to 0.1 mm in square in the future.</p>
+<p id="p-0006" num="0005">In a process for mounting the electronic components having the aforementioned small sizes, as recited in No. 2000-77438 of the Japanese Patent Applications Laid-Open, the electronic component is often mounted on a circuit substrate after it is transported under a state where it is held with a holding tool or adsorbed by a head having a vacuum suction mechanism. However, it is said that it is already almost beyond the technical limits to pick up, transport and mount even an electronic component with the current chip size (chip-type electronic component of 0.4 mm&#xd7;0.2 mm&#xd7;0.2 mm, or semiconductor bare chip having the size of 0.03 mm in square). Therefore, it is thought that it may not be possible to pick up, transport and mount a microminiature electronic component even if it is commercialized as a result of further advancements in the downsizing process. In other words, apart from the pursuit of technical innovations for the manufacturing of the microminiature electronic component, there lies another problem we have to face in the future, that is, how the downsized electronic component can be picked up, transported and mounted.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0007" num="0006">Therefore, the present invention was implemented in order to solve the problem, and a main object of the present invention is to provide a method capable of transporting and mounting a minute electronic component and a device thereof.</p>
+<p id="p-0008" num="0007">In order to achieve the foregoing object, an electronic component transporting method according to the present invention comprises:</p>
+<p id="p-0009" num="0008">a first step for preparing a pickup device having a pickup surface to which an electronic component retaining liquid is to be applied and capable of adjusting a wet area of the electronic component retaining liquid on the pickup surface and then applying the electronic component retaining liquid to the pickup surface; and</p>
+<p id="p-0010" num="0009">a second step for retaining the electronic component on the pickup surface via the electronic component retaining liquid in a state where the wet area is extended.</p>
+<p id="p-0011" num="0010">In a preferable embodiment, a pickup device comprising a conductive layer and an insulation layer laid on the conductive layer a surface of which constitutes the pickup surface is prepared as the pickup device, and an electrolytic solution to which a voltage can be applied between the electrolytic solution and the conductive layer is prepared as the electronic component retaining liquid in the first step, and</p>
+<p id="p-0012" num="0011">the voltage is set on a low-voltage side in a region where the voltage is applicable so that the wet area of the electrolytic solution on the insulation layer is extended in the second step.</p>
+<p id="p-0013" num="0012">In another preferable embodiment, the electrolytic solution is made to contact the electronic component in the state where the wet area of the electrolytic solution onto the insulation layer is extended through setting the voltage on the low-voltage side in the voltage-applicable region so as to weaken a surface tension of the electrolytic solution so that the electronic component is retained on the pickup surface by the surface tension of the electrolytic solution in the second step.</p>
+<p id="p-0014" num="0013">In yet another preferable embodiment, it further comprises a third step for separating the electronic component from the pickup surface in a state where the wet area is narrowed after the second step is implemented.</p>
+<p id="p-0015" num="0014">In yet another preferable embodiment, the voltage is set on a high-voltage side in the voltage-applicable region so that the wet area of the electrolytic solution is narrowed in the third step.</p>
+<p id="p-0016" num="0015">In yet another preferable embodiment, the electronic component is separated from the pickup surface in the state where the wet area of the electrolytic solution is narrowed by setting the voltage on the high-voltage side in the voltage-applicable region so as to increase the surface tension of the electrolytic solution in the third step.</p>
+<p id="p-0017" num="0016">In yet another preferable embodiment, the electrolytic solution is made to contact a point to which the electronic component is transported so that the electronic component is moved from the pickup surface together with the electrolytic solution to the point to be transported in the third step.</p>
+<p id="p-0018" num="0017">In yet another preferable embodiment, the second step is implemented after the pickup device is moved to an original position of the electronic component and then</p>
+<p id="p-0019" num="0018">the third step is implemented after the pickup device is moved from the original position together with the electronic component to the point to be transported.</p>
+<p id="p-0020" num="0019">In yet another preferable embodiment, a side length of the electronic component is at most 0.2 mm.</p>
+<p id="p-0021" num="0020">In yet another preferable embodiment, the electronic component is a chip component, and a side length of the chip component is at most 0.1 mm.</p>
+<p id="p-0022" num="0021">In yet another preferable embodiment, the electronic component is a semiconductor bare chip, and a side length of the semiconductor bare chip is at most 0.3 mm.</p>
+<p id="p-0023" num="0022">In yet another preferable embodiment, the point to be transported is a wiring substrate on which the electronic component is mounted, and</p>
+<p id="p-0024" num="0023">the electronic component is arranged at a mounting position of the wiring substrate by means of the electronic component transporting method according to the present invention.</p>
+<p id="p-0025" num="0024">In yet another preferable embodiment, it further comprises a fourth step for providing a droplet on the electronic component mounting part prior to the third step, and</p>
+<p id="p-0026" num="0025">the electronic component retained by the electrolytic solution is made to contact the droplet and thereby moved to the droplet in the third step.</p>
+<p id="p-0027" num="0026">In yet another preferable embodiment, a water-repellent layer is formed on a surface to form the wiring substrate on which the electronic component mounting part except for the electronic component mounting part, and the droplet is then provided on the surface to form the electronic component mounting part in the fourth step.</p>
+<p id="p-0028" num="0027">In yet another preferable embodiment, the droplet is provided on the electronic component mounting part in a shape corresponding to the electronic component in the fourth step, and</p>
+<p id="p-0029" num="0028">the electronic component is arranged at the electronic component mounting part in accordance with a shape of the droplet based on self-aligning in the third step.</p>
+<p id="p-0030" num="0029">An electronic component pickup device according to the present invention is an electronic component pickup device capable of retaining an electronic component in a freely detachable manner, comprising:</p>
+<p id="p-0031" num="0030">a conductive layer;</p>
+<p id="p-0032" num="0031">an insulation layer laminated on the conductive layer and comprising a pickup surface for retaining the electronic component on a surface thereof;</p>
+<p id="p-0033" num="0032">an electrolytic solution provided on the pickup surface; and</p>
+<p id="p-0034" num="0033">a power supply unit for applying a voltage in a switching manner between the electrolytic solution and the conductive layer, wherein</p>
+<p id="p-0035" num="0034">when the electric component is separated, the voltage supply unit applies a voltage higher than the voltage applied between the electrolytic solution and the conductive layer when the electronic component is held.</p>
+<p id="p-0036" num="0035">In yet another preferable embodiment, the voltage supply unit sets the applied voltage on a low-voltage side in a voltage-applicable region thereof so that a surface tension of the electrolytic solution is weakened and a wet area of the electrolytic solution on the insulation layer is extended when the electronic component is held, the voltage supply unit further sets the applied voltage on a high-voltage side in the voltage-applicable region so that the surface tension of the electrolytic solution is increased and the wet area of the electrolytic solution on the insulation layer is narrowed when the electronic component is separated.</p>
+<p id="p-0037" num="0036">In yet another preferable embodiment, an electronic component transporting device comprises:</p>
+<p id="p-0038" num="0037">the electronic component pickup device according to the present invention;</p>
+<p id="p-0039" num="0038">a mover for moving the electronic component pickup device from an original position of the electronic component to a destination of the transportation;</p>
+<p id="p-0040" num="0039">a memory for memorizing data in relation to the transportation of the electronic component; and</p>
+<p id="p-0041" num="0040">a controller for controlling the mover based on the data memorized in the memory, wherein
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0041">the voltage supply unit sets the applied voltage on the low-voltage side in the voltage-applicable region during a period when the electronic component pickup device is at the original position and a period when the electronic component pickup device is moved from the original position to the destination, and sets the applied voltage on the high-voltage side in the voltage-applicable region at the point to be transported.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0042" num="0042">In yet another preferable embodiment, the mover makes the electrolytic solution contact the electronic component so that the electronic component is retained on the pickup surface by the electrolytic solution whose wet area is extended at the original position, and makes the electrolytic solution contact the destination point so that the electrolytic component is separated from the pickup surface together with the electrolytic solution whose wet area is narrowed, and moved to the destination point.</p>
+<p id="p-0043" num="0043">In yet another preferable embodiment, the voltage supply unit comprises an electrode for applying the voltage to the surface of the insulation layer, and the electrode comprises a plurality of linear electrode parts arranged in a radial shape, and</p>
+<p id="p-0044" num="0044">the voltage supply unit supplies the voltage separately to the linear electrode parts in accordance with a desired direction of the electronic component when the electronic component is held.</p>
+<p id="p-0045" num="0045">In yet another preferable embodiment, an electronic component mounting device according to the present invention comprises:</p>
+<p id="p-0046" num="0046">the electronic component transporting device according to the present invention; and</p>
+<p id="p-0047" num="0047">a stage mover for moving a wiring substrate provided at the transportation point on which the electronic component is mounted relatively to the electronic component transporting device.</p>
+<p id="p-0048" num="0048">According to the present invention, as the electronic component pickup device for picking up the electronic component is moved together with the electronic component by the surface tension of the electrolytic solution, even a minute electronic component can be transported easily. Further, the wet area of the electrolytic solution is changed so that the electronic component can be released. According to the present invention, the electronic component can be picked up and released more speedily than in the mechanical constitution where the electronic component is held by means of the vacuum suction method or with the holding tool. As a result, the electronic component can be mounted with a high efficiency.</p>
+<p id="p-0049" num="0049">According to the present invention, the method of transporting and mounting the minute electronic component and the device thereof can be provided.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0050" num="0050">These and other objects as well as advantages of the invention will become clear by the following description of preferred embodiments of the invention. A number of benefits not recited in this specification will come to the attention of those skilled in the art upon the implementation of the present invention.</p>
+<p id="p-0051" num="0051"><figref idref="DRAWINGS">FIG. 1A</figref> is a sectional view schematically illustrating a constitution of an electronic component pickup device according to a preferred embodiment of the present invention.</p>
+<p id="p-0052" num="0052"><figref idref="DRAWINGS">FIG. 1B</figref> is a sectional view schematically illustrating a constitution of the electronic component pickup device according to the preferred embodiment.</p>
+<p id="p-0053" num="0053"><figref idref="DRAWINGS">FIG. 2</figref> is a block diagram showing a constitution of an electronic component transporting device according to the preferred embodiment.</p>
+<p id="p-0054" num="0054"><figref idref="DRAWINGS">FIG. 3</figref> is a process drawing illustrating a method of transporting and mounting an electronic component according to the preferred embodiment.</p>
+<p id="p-0055" num="0055"><figref idref="DRAWINGS">FIG. 4A</figref> is a first sectional process drawing of a pickup process in the method of transporting and mounting the electronic component according to the preferred embodiment.</p>
+<p id="p-0056" num="0056"><figref idref="DRAWINGS">FIG. 4B</figref> is a second sectional process drawing of the pickup process in the method of transporting and mounting the electronic component according to the preferred embodiment.</p>
+<p id="p-0057" num="0057"><figref idref="DRAWINGS">FIG. 4C</figref> is a third sectional process drawing of the pickup process in the method of transporting and mounting the electronic component according to the preferred embodiment.</p>
+<p id="p-0058" num="0058"><figref idref="DRAWINGS">FIG. 5A</figref> is a first sectional process drawing for illustrating a release process in the method of transporting and mounting the electronic component according to the preferred embodiment.</p>
+<p id="p-0059" num="0059"><figref idref="DRAWINGS">FIG. 5B</figref> is a second sectional process drawing illustrating the release process in the method of transporting and mounting the electronic component according to the preferred embodiment.</p>
+<p id="p-0060" num="0060"><figref idref="DRAWINGS">FIG. 5C</figref> is a third sectional process drawing illustrating the release process in the method of transporting and mounting the electronic component according to the preferred embodiment.</p>
+<p id="p-0061" num="0061"><figref idref="DRAWINGS">FIG. 6A</figref> is a block diagram showing a constitution of an electronic component transporting device according to another preferred embodiment of the present invention.</p>
+<p id="p-0062" num="0062"><figref idref="DRAWINGS">FIG. 6B</figref> shows a constitution of a pickup device main body according to the another preferred embodiment in the electronic component transporting device according to the present invention.</p>
+<p id="p-0063" num="0063"><figref idref="DRAWINGS">FIG. 7</figref> is a block diagram showing a constitution of an electronic component mounting device according to the preferred embodiment.</p>
+<p id="p-0064" num="0064"><figref idref="DRAWINGS">FIG. 8A</figref> is a first sectional process drawing for transporting and mounting the electronic component onto a wiring substrate.</p>
+<p id="p-0065" num="0065"><figref idref="DRAWINGS">FIG. 8B</figref> is a second sectional process drawing for transporting and mounting the electronic component onto the wiring substrate.</p>
+<p id="p-0066" num="0066"><figref idref="DRAWINGS">FIG. 8C</figref> is a third sectional process drawing for transporting and mounting the electronic component onto the wiring substrate.</p>
+<p id="p-0067" num="0067"><figref idref="DRAWINGS">FIG. 8D</figref> is a fourth sectional process drawing for transporting and mounting the electronic component onto the wiring substrate.</p>
+<p id="p-0068" num="0068"><figref idref="DRAWINGS">FIG. 9</figref> is a sectional process drawing illustrating a droplet forming process.</p>
+<p id="p-0069" num="0069"><figref idref="DRAWINGS">FIG. 10A</figref> is a first process drawing illustrating a position aligning process based on self-aligning of the electronic component.</p>
+<p id="p-0070" num="0070"><figref idref="DRAWINGS">FIG. 10B</figref> is a second process illustrating the position aligning process based on the self-aligning of the electronic component.</p>
+<p id="p-0071" num="0071"><figref idref="DRAWINGS">FIG. 11A</figref> is a first drawing illustrating a constitution of a pickup device main body and a position aligning process of the electronic component according to the another preferred embodiment.</p>
+<p id="p-0072" num="0072"><figref idref="DRAWINGS">FIG. 11B</figref> is a second drawing illustrating the constitution of the pickup device main body and the position aligning process of the electronic component according to the another preferred embodiment.</p>
+<p id="p-0073" num="0073"><figref idref="DRAWINGS">FIG. 11C</figref> is a third drawing illustrating the constitution of the pickup device main body and the position aligning process of the electronic component according to the another preferred embodiment.</p>
+<p id="p-0074" num="0074"><figref idref="DRAWINGS">FIG. 12</figref> is a drawing showing a constitution of a pickup device main body according to yet another preferred embodiment.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0075" num="0075">Hereinafter, preferred embodiments of the present invention are described referring to the drawings. The inventors of the present invention has examined a problem to be generated in the future based on an accelerated downsizing of an electronic component, namely, a subject matter, so called, transportation and mounting of an electronic component. As a result of the examination, it was known that the electronic component would be further downsized to such a size level that can be hardly held with a holding tool in the future, and it is very difficult at the same time to pick up, transport and mount the electronic component with a vacuum suction mechanism.</p>
+<p id="p-0076" num="0076">It is not necessarily impossible to pick up, transport and mount the electronic component further reduced in comparison to the current sizes if any technical breakthrough is carried out by the improvement of the conventional technology. However, the inventors of the present invention searched a whole new technology in place of merely improving the conventional technology. Various possibilities have been studied and finally it was found that a method of picking up, transporting and mounting the minute electronic component by utilizing a surface tension of a liquid was effective. However, there remained still such an unsolved problem that it is difficult to release the electronic component even if it can be adsorbed by means of the surface tension of the liquid.</p>
+<p id="p-0077" num="0077">Further, it is also an important issue to control a working time in each step in an actual process. More specifically, it is not applicable merely by realizing the adsorption and release of the electronic component through the surface tension, and a technology for controlling a working time for the adsorption and release to a reasonable level is demanded.</p>
+<p id="p-0078" num="0078">Based on the before-mentioned aspects, the inventors of the present invention keenly examined a method where not only the surface tension of the liquid was utilized and but also the liquid was speedily controlled, and finally reached the present invention. Hereinafter, the preferred embodiments are described referring to the drawings. In the drawings, constituent elements substantively having a same function are provided with a same reference symbol in order to simplify the description. The present invention is not limited to the following preferred embodiment. Description is given to an electronic component transporting method according to a preferred embodiment of the present invention referring to <figref idref="DRAWINGS">FIGS. 1A</figref>, <b>1</b>B and <b>2</b>.</p>
+<p id="p-0079" num="0079"><figref idref="DRAWINGS">FIGS. 1A and 1B</figref> schematically show a constitution of an electronic component pickup device <b>100</b> used in the present preferred embodiment. The electronic component pickup device <b>100</b> described here is a device exclusively used for picking up and retaining an electronic component having a small size such as a chip-type electronic component. The electronic component pickup device <b>100</b> comprises a conductive layer <b>10</b>, an insulation layer <b>12</b>, an electrolytic solution <b>20</b>, a power supply <b>16</b>, a power-supply controller <b>17</b>, and electrodes <b>15</b>A and <b>15</b>B. The insulation layer <b>12</b> is laminated on the conductive layer <b>10</b> and comprises surface constituting a pickup surface on which the electronic component is retained. The electrolytic solution <b>20</b> is provided on the conductive layer <b>10</b> under a state where the insulation layer <b>12</b> is interposed. The power supply <b>16</b> supplies power to the electronic component pickup device <b>100</b>, and the electrodes <b>15</b>A and <b>15</b>B are connected to both output ends of the power supply <b>16</b> via a wiring <b>14</b>. The electrode <b>15</b>A is connected to the conductive layer <b>10</b>, and the electrode <b>15</b>B contacts the electrolytic solution <b>20</b>. Accordingly, a voltage is applied from the power supply <b>16</b> to the conductive layer <b>10</b> and the electrolytic solution <b>20</b> via the electrodes <b>15</b>A and <b>15</b>B. The power-supply controller <b>17</b> adjusts the voltage applied from the power supply <b>16</b>. In the present preferred embodiment, the power supply <b>16</b> and the power-supply controller <b>17</b> constitute a voltage supply unit, and the electrolytic solution <b>20</b> constitutes an electronic component retaining liquid.</p>
+<p id="p-0080" num="0080">The electronic component pickup device <b>100</b> utilizes the electro-wetting phenomenon to control a wet area (wettability) of the electrolytic solution <b>20</b> on the insulation layer <b>12</b>. The electro-wetting phenomenon is a phenomenon where a surface tension between the electrolytic solution and the substrate surface is changed by changing a charge density in vicinity of a substrate surface contacted by the electrolytic solution, and, as a result, the wet area between the substrate and the electrolytic solution (wettability) is changed.</p>
+<p id="p-0081" num="0081">In the electronic component pickup device <b>100</b> comprising the structure where the electro-wetting phenomenon is generated, the voltage (preferably, direct-current voltage) is applied between the electrodes <b>15</b>A and <b>15</b>B so that the wet area (wettability) between the electrolytic solution <b>20</b> and the substrate (insulation layer <b>12</b> in the present preferred embodiment) can be changed. As a result, the area on the substrate contacted by the electrolytic solution <b>20</b> can be changed. In the electro-wetting phenomenon, a response speed of the electro-wetting phenomenon (adjusting rate of height of electrolytic solution) is as fast as 10 ms, and the wettability can be more quickly controlled in comparison to the electrophoretic method.</p>
+<p id="p-0082" num="0082">In the state shown in <figref idref="DRAWINGS">FIG. 1A</figref>, a low-level voltage V<sub>1 </sub>on a low-voltage side of a voltage-applicable region of the power supply <b>16</b> or a high-level voltage V<sub>2 </sub>on a high-voltage side thereof (V<sub>1</sub>&#x3c;V<sub>2</sub>) is applied from the power supply <b>16</b> between the conductive layer <b>10</b> and the electrolytic solution <b>20</b> in the electronic component pickup device <b>100</b>. Then, as shown in <figref idref="DRAWINGS">FIG. 1B</figref>, when the voltage is increased from V<sub>1 </sub>to V<sub>2</sub>, a charge state on the insulation layer (dielectric layer) <b>12</b> is changed so as to increase a surface tension between the electrolytic solution <b>20</b> and the insulation layer <b>12</b>. As a result, a wet area of the electrolytic solution <b>20</b> on the substrate is reduced and the contact area of the electrolytic solution <b>20</b> is decreased. In the electronic component pickup device <b>100</b> according to the present preferred embodiment, the wet area of the electrolytic solution <b>20</b> is controlled by such an action so that the electronic component is picked up and released. The pickup and release of the electronic component by the electronic component pickup device <b>100</b> will be described later in relation to an electronic component transporting device <b>200</b> incorporated the electronic component pickup device <b>100</b>.</p>
+<p id="p-0083" num="0083">Next, the electronic component transporting device <b>200</b> in which the electronic component pickup device <b>100</b> is incorporated is described referring to <figref idref="DRAWINGS">FIG. 2</figref>. <figref idref="DRAWINGS">FIG. 2</figref> is a block diagram showing a constitution of the electronic component transporting device <b>200</b>. In <figref idref="DRAWINGS">FIG. 2</figref> and the sequent drawings, the conductive layer <b>10</b>, insulation layer <b>12</b>, electrolytic solution <b>20</b> and electrodes <b>15</b>A and <b>15</b>B are collectively recited as a pickup device main body <b>18</b>. The electronic component transporting device <b>200</b> comprises the electronic component pickup device <b>100</b>, a motor <b>101</b> for moving the pickup device main body (hereinafter, referred to as motor), a component coordinate memory <b>102</b>, a component memory <b>103</b>, a component direction memory <b>104</b> and a controller <b>105</b>. In the present preferred embodiment, the motor <b>101</b> for moving the pickup device main body constitutes a mover, and the component coordinate memory <b>102</b>, component memory <b>103</b>, component direction memory <b>104</b> constitute a memory.</p>
+<p id="p-0084" num="0084">The motor <b>101</b> reciprocates the pickup device main body <b>18</b> between a plurality of transportation positions. The plurality of transportation positions includes a preparatory position of each electronic component (position where the electronic component is stored or the like; hereinafter, referred to as original position &#x3b1;) and a carry-in position of each electronic component (position where the electronic component is mounted; hereinafter, referred to as destination &#x3b2;). The component coordinate memory <b>102</b> memorizes a position information of each electronic component. The position information includes a coordinate information of the original position &#x3b1; of each electronic component and a coordinate information of the destination &#x3b2; of each electronic component. The component memory <b>103</b> includes data in relation to shape, pickup conditions, release conditions and the like of the respective electronic components). The component direction memory <b>104</b> memorizes an information in relation to a direction where an electronic component <b>30</b> is arranged at the original position &#x3b1; and the destination &#x3b2;. The controller <b>105</b> controls the operation of the motor <b>101</b> and the operation of the pickup device main body <b>18</b> based on the information memorized in the component coordinate memory <b>102</b>, component memory <b>103</b> and component direction memory <b>104</b>. In the case where the information in relation to the direction where the electronic component <b>30</b> is arranged at the original position &#x3b1; and the destination &#x3b2; is unnecessary, the component direction memory <b>104</b> is omitted.</p>
+<p id="p-0085" num="0085">The operation of the electronic component transporting device <b>200</b>, that is, the one of the pickup, transportation and release of the electronic component is described below. <figref idref="DRAWINGS">FIG. 3</figref> is a process drawing illustrating the transportation of the electronic component <b>30</b> by the electronic component transporting device <b>200</b>. First, the controller <b>105</b>, as a pre-processing in picking up the electronic component <b>30</b>, controls the power supply <b>16</b> via the power supply controller <b>17</b> to thereby apply the low-level voltage V<sub>1 </sub>between the electrolytic solution <b>20</b> and the conductive layer <b>10</b>. The low-level voltage V<sub>1 </sub>to be applied may be a ground voltage. Accordingly, the charge state is changed, which reduces the surface tension of the electrolytic solution <b>20</b>. As a result, the wet area of the electrolytic solution <b>20</b> on the insulation layer <b>12</b> becomes such an area that can retain the electronic component on the surface of the insulation layer <b>12</b> (pickup surface) via the electrolytic solution <b>20</b>. In the foregoing state, as shown in <figref idref="DRAWINGS">FIG. 3</figref> (<i>a</i>), the motor <b>101</b> is activated so that the pickup device main body <b>18</b> is brought closer to the original position &#x3b1; of the electronic component <b>30</b>. Then, the electrolytic solution <b>20</b> of the pickup device main body <b>18</b> is made to contact the electronic component <b>30</b> so that the electronic component <b>30</b> is fetched into the electrolytic solution <b>20</b> by the surface tension thereof and retained on the surface of the insulation layer <b>12</b> (pickup surface) (see Arrow <b>35</b>).</p>
+<p id="p-0086" num="0086">After the electronic component <b>30</b> is picked up, the controller <b>105</b> activates the motor <b>101</b> to thereby move the pickup device main body <b>18</b> from the original position &#x3b1; to the destination &#x3b2; of the electronic component <b>30</b> as shown in <figref idref="DRAWINGS">FIG. 3</figref> (<i>b</i>). At the time, the low-level voltage is continuously applied. At the destination &#x3b2;, the pickup device main body <b>18</b> is arranged immediately above the destination &#x3b2; of the electronic component <b>30</b>. An example of the destination &#x3b2; is an electronic component mounting pattern section on a circuit substrate on which the electronic component <b>30</b> is mounted.</p>
+<p id="p-0087" num="0087">After the transportation operation as described above is carried out, the controller <b>105</b> controls the power-supply controller <b>17</b> to thereby change the voltage to be applied between the electrolytic solution <b>20</b> and the conductive layer <b>10</b> from the low-level voltage V<sub>1 </sub>to the high-level voltage V<sub>2</sub>. Thereby, the charge state is changed, and the surface tension of the electrolytic solution <b>20</b> is thereby increased. As a result, the wet area of the electrolytic solution <b>20</b> on the insulation layer <b>12</b> becomes such an area that is difficult to retain the electronic component <b>30</b> on the surface of the insulation layer <b>12</b> (pickup surface) via the electrolytic solution <b>20</b>. The electronic component <b>30</b> is then separated from the surface of the insulation layer <b>12</b> and moved to the destination &#x3b2; as shown in <figref idref="DRAWINGS">FIG. 3</figref> (<i>c</i>), and the release is completed.</p>
+<p id="p-0088" num="0088">In the pickup, transportation, release of the electronic component <b>30</b>, the controller <b>105</b> reads the information concerning the original position &#x3b1; and the destination &#x3b2; of the electronic component <b>30</b> to be mounted (coordinate information and the like) from the component coordinate memory <b>102</b>, and the pickup conditions and release conditions of the electronic component <b>30</b> to be mounted from the component memory <b>103</b> respectively, and controls to drive the motor <b>101</b> based on the obtained information.</p>
+<p id="p-0089" num="0089">A mechanism wherein the electro-wetting phenomenon is utilized to pick up and release the electronic component is described. The wet area of the electrolytic solution <b>20</b> in the state where the low-level voltage V<sub>1 </sub>is applied to the pickup device main body <b>18</b> is substantially equal to or larger than the size of the electronic component <b>30</b>. A dropping amount of the electrolytic solution <b>20</b> is set so that the wet area can have such a dimension.</p>
+<p id="p-0090" num="0090">When the pickup device main body <b>18</b> is made to contact the electronic component <b>30</b> at the original position &#x3b1; in the state where the low-level voltage V<sub>1 </sub>is applied, the electronic component <b>30</b> is adsorbed to the pickup device main body <b>18</b> due to the wettability of the electrolytic solution <b>20</b> to the electronic component <b>30</b>. Meanwhile, in the state where the high-level voltage V<sub>2 </sub>is applied to the pickup device main body <b>18</b>, the surface tension of the electrolytic solution <b>20</b> is increased, as a result of which the wet area between the electrolytic solution <b>20</b> and the insulation layer <b>12</b> is reduced as much as possible so as to become a size smaller than that of the electronic component <b>30</b>. Therefore, when the high-level voltage is applied (V<sub>2</sub>) at the destination &#x3b2;, the electronic component <b>30</b> can hardly be held on the surface of the insulation layer <b>12</b> (pickup surface) via the electrolytic solution <b>20</b> and released to the destination &#x3b2;.</p>
+<p id="p-0091" num="0091">In addition, when the pickup device main body <b>18</b> is brought closer to the electronic component <b>30</b> in the state where the high-level voltage V<sub>2 </sub>is applied at the original position &#x3b1; on the contrary to the foregoing description, the electronic component <b>30</b> cannot be picked up. At the original position &#x3b1;, the electronic component <b>30</b> can be picked up only in the state where the low-level voltage V<sub>1 </sub>is applied.</p>
+<p id="p-0092" num="0092">As shown in <figref idref="DRAWINGS">FIG. 3</figref> (<i>b</i>), the pickup device main body <b>18</b> is then transferred from the original position &#x3b1; to the destination &#x3b2; in the state where the electronic component <b>30</b> is adsorbed thereto by the surface tension of the electrolytic solution <b>20</b> (see Arrow <b>36</b>). At the time, the low-level voltage V<sub>1 </sub>is continuously applied. In the example shown, the pickup device main body <b>18</b> is transported to an upper position of a wiring substrate <b>40</b>.</p>
+<p id="p-0093" num="0093">After that, as shown in <figref idref="DRAWINGS">FIG. 3</figref> (<i>c</i>), the electronic component <b>30</b> reached to the destination &#x3b2; is released from the pickup device main body <b>18</b>. In the present example, the electronic component <b>30</b> is released onto a land (electrode) <b>42</b><i>a </i>of the wiring substrate <b>40</b>. When the electronic component <b>30</b> is released, the voltage controller <b>17</b> increases the voltage applied to the electrolytic solution <b>20</b> from the low-level voltage V<sub>1 </sub>to the high-level voltage V<sub>2</sub>. Thereby, the surface tension of the electrolytic solution <b>20</b> is increased, and the wet area between the electrolytic solution <b>20</b> and the insulation layer <b>12</b> is smaller than the size of the electronic component <b>30</b>. Therefore, it becomes difficult for the electronic component <b>30</b> to be retained on the surface of the insulation layer <b>12</b> (pickup surface) via the electrolytic solution <b>20</b>, and the electronic component <b>30</b> is separated from the insulation layer <b>12</b> due to its own weight or the wettability of the wiring substrate <b>40</b> to the electrolytic solution <b>20</b> and moves to the destination &#x3b2; (land <b>42</b><i>a </i>of the wiring substrate <b>40</b> or the like) downward. When the wettability of the electrolytic solution <b>20</b> at the destination &#x3b2; is maintained at a favorable level, the electronic component <b>30</b> can be easily moved together with the electrolytic solution <b>20</b> to the destination &#x3b2; (land <b>42</b><i>a</i>). By doing this, the electronic component <b>30</b> can be released from the pickup device main body <b>18</b> to the destination &#x3b2; (land <b>42</b><i>a </i>of the wiring substrate <b>40</b> or the like) in a state where impacts given to the electronic component <b>30</b> and the destination &#x3b2; due to the movement of the electronic component <b>30</b> are reduced.</p>
+<p id="p-0094" num="0094">As described so far, in the present preferred embodiment, pick-up and release process of the electronic component <b>30</b> is implemented by adjusting the wet area of the electrolytic solution <b>20</b> in the electronic component main body <b>18</b> by means of the electro-wetting phenomenon. The electronic component <b>30</b> adsorbed to the electrolytic solution <b>20</b> is released to the destination &#x3b2; (wiring substrate <b>40</b>) due to change of the wet area. When the electronic component <b>30</b> is released, it is preferable that a droplet (liquid) <b>22</b> is selectively supplied to the destination &#x3b2; and a periphery thereof. Accordingly, the electronic component <b>30</b> can be moved from the electrolytic solution <b>20</b> to the droplet (liquid) <b>22</b> while the impacts generated by the fall of the electronic component <b>30</b> are further reduced in the release step. As described earlier, however, even in the structure where the droplet <b>22</b> is not provided at the destination &#x3b2; (land <b>42</b><i>a</i>), the electronic component <b>30</b> can be easily placed on the destination &#x3b2; (land <b>42</b><i>a</i>) together with the electrolytic solution <b>20</b> as far as the favorable wettability of the electrolytic solution <b>20</b> is obtained at the destination &#x3b2;.</p>
+<p id="p-0095" num="0095">Next, the pickup process is further described referring to <figref idref="DRAWINGS">FIGS. 4A-4C</figref>. As shown in <figref idref="DRAWINGS">FIG. 4A</figref>, the electronic components <b>30</b> are stored at the original position &#x3b1; (for example, on the substrate <b>32</b> at the original position), and the pickup device main body <b>18</b> is moved toward one of the electronic components <b>30</b>. At the time, the power-supply controller <b>17</b> applies the low-level voltage V<sub>1 </sub>between the electrode <b>15</b>A on the conductive-layer-<b>10</b> side and the electrode <b>15</b>B on the insulation-layer-<b>12</b> side. Either one or a plurality of electronic components <b>30</b> may be provided on the substrate <b>32</b>. In the shown structure, the pickup device main body <b>18</b> is moved downward as shown by Arrow <b>51</b> so that the electrolytic solution <b>20</b> is brought closer to the electronic component <b>30</b>.</p>
+<p id="p-0096" num="0096">Next, as shown in <figref idref="DRAWINGS">FIG. 4B</figref>, the pickup device main body <b>18</b> is descended so that the electrolytic solution <b>20</b> contacts the electronic component <b>30</b>. Then, the electrolytic solution <b>20</b> invades into a periphery of the electronic component <b>30</b> by its surface tension, and the electronic component <b>30</b> is thereby drawn closer to the pickup device main body <b>18</b> (more specifically, insulation layer <b>12</b>) via the electrolytic solution <b>20</b> and retained.</p>
+<p id="p-0097" num="0097">Thereafter, as shown in <figref idref="DRAWINGS">FIG. 4C</figref>, when the pickup device main body <b>18</b> is lifted upward as shown by Arrow <b>52</b>, the electronic component <b>30</b> is separated from the substrate <b>32</b> and then moves upward in a state of being retained by the electrolytic solution <b>20</b>. At the time, the low-level voltage V<sub>1 </sub>is continuously applied. If the pickup device main body <b>18</b> is moved in the foregoing state, the electronic component <b>30</b> can be transported along with the movement.</p>
+<p id="p-0098" num="0098">Next, the release process is further described referring to <figref idref="DRAWINGS">FIGS. 5A-5C</figref>. As shown in <figref idref="DRAWINGS">FIG. 5A</figref>, the pickup device main body <b>18</b> which is retaining the electronic component <b>30</b> is moved to the destination &#x3b2; (for example, on the substrate <b>34</b> at the destination), and performs positioning to the destination &#x3b2;. An example of the substrate <b>34</b> as the destination &#x3b2; is the wiring substrate <b>40</b> shown in <figref idref="DRAWINGS">FIG. 3</figref> (<i>c</i>). It is preferable that the droplet (liquid) <b>22</b> is selectively supplied to the destination &#x3b2; (or example, position where the component is arranged on the substrate <b>34</b>). The droplet <b>22</b> is preferable to be a liquid having such a property that can be absorbed with the electrolytic solution <b>20</b>.</p>
+<p id="p-0099" num="0099">Next, as shown in <figref idref="DRAWINGS">FIG. 5B</figref>, the pickup device main body <b>18</b> is moved in a direction shown by Arrow <b>53</b> (downward in the drawing) so as to contact the droplet <b>22</b> on the substrate <b>34</b>. Immediately before the contact, the voltage being applied to the pickup device main body <b>18</b> is increased from the low-level voltage V<sub>1 </sub>to the high-level voltage V<sub>2</sub>. The surface tension of the electrolytic solution <b>20</b> is thereby reduced, which reduces the wet area between the electrolytic solution <b>20</b> and the insulation layer <b>12</b>. As a result, the adhesion strength between electrolytic solution <b>20</b> and the insulation layer <b>12</b> is reduced. Therefore, when the electrolytic solution <b>20</b> contacts the droplet <b>22</b>, the electrolytic solution <b>20</b> is separated from the insulation layer <b>12</b> and absorbs with the droplet (liquid) <b>22</b>, then, moves to the substrate-<b>34</b> side. Along with the movement of the electrolytic solution <b>12</b>, the electronic component <b>30</b> moves to the droplet (liquid) <b>22</b> side on the substrate <b>34</b>.</p>
+<p id="p-0100" num="0100">Next, the pickup device main body <b>18</b> is moved in a direction shown by Arrow <b>54</b> (upward in the drawing) so that the pickup device main body <b>18</b> is completely separated from the electronic component <b>30</b>. Then, the release of the electronic component <b>30</b> is completed. If the droplet (liquid) <b>22</b> surrounding the electronic component <b>30</b> is evaporated, the mounting process can be implemented.</p>
+<p id="p-0101" num="0101">When the electro-wetting phenomenon is thus utilized, the surface energy (surface tension) of the electrolytic solution <b>20</b> to the insulation layer <b>12</b> is adjusted so that the shape of the electrolytic solution <b>20</b> can be changed. In the present preferred embodiment, the pickup and the release of the electronic component <b>30</b> are thus realized by adjusting the wet area of the electrolytic solution <b>20</b> on the insulation layer <b>12</b> and the component retaining force by the electrolytic solution <b>20</b> by use of the phenomenon.</p>
+<p id="p-0102" num="0102">In the pickup process shown in <figref idref="DRAWINGS">FIGS. 5A-5C</figref>, the shape of the electrolytic solution <b>20</b> can be changed by the electro-wetting phenomenon. In the pickup process, however, it is a target to make the electrolytic solution <b>20</b> and the electronic component <b>30</b> contact each other so as to fetch the electronic component <b>30</b> into the electrolytic solution <b>20</b>. Therefore, the electro-wetting phenomenon may or may not be utilized as far as the electronic component <b>30</b> can be fetched.</p>
+<p id="p-0103" num="0103">The pickup device main body <b>18</b> is formed from, for example, the following materials. The conductive layer <b>10</b> is formed from metal such as a copper plate or a stainless steel plate. In the present preferred embodiment, the conductive layer <b>10</b> is formed from a metal stainless steel (SUS) plate. The insulation layer <b>12</b> is formed from resin, epoxy resin, polyimide resin or the like. In the present preferred embodiment, the insulation layer <b>12</b> is formed from a copper foil coated with epoxy resin. The electrodes <b>15</b>A and <b>15</b>B (in particular, electrode <b>15</b>B) is formed from a material obtained in such a manner that a copper foil coated with epoxy resin is adhered and cured to the conductive layer (SUS plate) <b>10</b> and then a part of the resin is removed.</p>
+<p id="p-0104" num="0104">In order to largely reduce the surface tension between the liquid and the insulation film by the application of the relatively low voltage as the high-level voltage V<sub>2 </sub>in the electro-wetting phenomenon, it is necessary to generate a lot of charges on an interface between the electrolytic solution <b>20</b> and the insulation layer <b>12</b>. Therefore, the electrolytic solution <b>20</b> is provided in the present invention. The electrolytic solution <b>20</b> includes a water-soluble electrolytic solution (for example, 1 mM of KC1 or the like) or an organic solvent. The electrolytic solution <b>20</b> can consist of a mixture of a water solution and an organic solvent (for example, water and alcohol), and a two-phase substance (for example, it may be solved by alcohol such as ethanol, propanol, butanol, pentanol, hexanol, ethyleneglycol, and glycerin, ether such as ethyleneglycol ethylether or ethyleneglycol monobutylether, ketons such as methylethylketone, or alkane such as hexan, octane or nonane). As examples of the water-soluble electrolytic solution, there are NaCl water solution, NaBr water solution, NH<sub>4</sub>Cl water solution, buffer solution including various salts, and the like other than the foregoing examples. In the electrolytic solution in which the organic solvent is used, acetic anhydride, methanol, tetrahydrofuran, propylene carbonate, nitromethane, acetonitrile, dimethylformamide, dimethylsulfoxide, or hexamethyl phosphoamide can be used as the solvent, and NaClO<sub>4</sub>, LiClO<sub>4</sub>, KOH, KOCH<sub>3</sub>, NaOCH<sub>3</sub>, LiCl , NH<sub>4</sub>Cl, n-(CH<sub>3</sub>C<sub>3</sub>H<sub>6</sub>)<sub>4</sub>Ni, Mg (ClO<sub>4</sub>)<sub>2</sub>, NaBF<sub>4 </sub>or the like can be used as the electrolytic substance. Further, an alcohol-based solvent, various esters, aliphatic carbon hydride, cycloaliphatic carbon hydride, aromatic carbon hydride or halogenated carbon hydride including a small amount of water-soluble electrolytic solution, or various types of oils can be also used. The amount of salt or electrolytic substance is not particularly limited as far as the electro-wetting phenomenon can be generated. For example, the amount is at least 10<sup>&#x2212;4 </sup>weight % and at most 30 weight %.</p>
+<p id="p-0105" num="0105">The droplet <b>22</b> may consist of either an electrolytic solution or liquid other than the electrolytic solution. The same substance as or a substance similar to the electrolytic solution <b>20</b> of the pickup device main body <b>18</b> can be used as the droplet <b>22</b>. Additionally, if it is desirable for the droplet <b>22</b> to evaporate relatively soon after the electronic component <b>30</b> is moved, volatile liquid (for example, alcohol) can be used.</p>
+<p id="p-0106" num="0106">As shown in <figref idref="DRAWINGS">FIG. 6A</figref>, a multi-line pickup <b>180</b> where a plurality of pickup device main bodies <b>18</b> is constituted in multi-line may be provided so that a plurality of electronic components <b>30</b> can be simultaneously picked up, transported and released. In this case, a plurality of voltage controllers <b>17</b> is provided in accordance with the plurality of pickup device main bodies <b>18</b>, which constitutes a group of voltage controllers <b>170</b>. Further, in order to separately control directions and positions of the respective pickup device main bodies <b>18</b> constituting the multi-line pickup <b>180</b>, the controller <b>105</b> comprises a position controller <b>105</b>A for controlling a coordinate center of the plurality of electronic components <b>30</b> and a component placement controller <b>105</b>B for controlling the directions of the plurality of electronic components <b>30</b>. As an example of the structure of the multi-line pickup <b>180</b>, the plurality of pickup device main bodies <b>18</b> may be bundled in a cylindrical shape and connected to one another as shown in <figref idref="DRAWINGS">FIG. 6B</figref>. <figref idref="DRAWINGS">FIG. 6B</figref> is a bottom surface of the multi-line pickup <b>180</b>.</p>
+<p id="p-0107" num="0107">Next, an electronic component mounting device <b>300</b> in which the transporting device <b>200</b> is incorporated is described referring to <figref idref="DRAWINGS">FIG. 7</figref>. The electronic component mounting device <b>300</b> comprises the transporting device <b>200</b>, an operation/display unit <b>301</b> and a stage movement motor <b>302</b>. The operation/display unit <b>301</b> accepts an operation by an operator who handles the electronic component mounting device <b>300</b>, and displays various information that the operator demands in the operation. The stage movement motor <b>302</b> enforces to move a stage <b>303</b> on which the wiring substrate <b>40</b> for mounting the electronic component <b>30</b> is arranged relatively to the pickup device main body <b>18</b>. In the present preferred embodiment, the stage movement motor <b>302</b> constitutes a stage mover.</p>
+<p id="p-0108" num="0108">Description is given to the transportation and mounting operations of the electronic component <b>30</b> on the wiring substrate <b>40</b> by the electronic component mounting device <b>300</b> referring to <figref idref="DRAWINGS">FIGS. 8A-8D</figref>. First, as shown in <figref idref="DRAWINGS">FIG. 8A</figref>, the wiring substrate <b>40</b>, which is the destination of the electronic component <b>30</b> (where the electronic component is mounted), is prepared. Wiring patterns <b>42</b> are previously formed on the wiring substrate <b>40</b>. The wiring substrate <b>40</b> may be a rigid substrate or a flexible substrate. Further, the wiring substrate <b>40</b> is not necessarily limited to a one-surface wiring substrate or a both-surface wiring substrate, and may be a multi-layer wiring substrate. A wiring substrate such as a component-incorporated substrate and a rigid flexible substrate may be used as the wiring substrate <b>40</b>. It is needless to say that a circuit substrate on which the electronic component is already mounted can be used as the wiring substrate <b>40</b>.</p>
+<p id="p-0109" num="0109">Next, as shown in <figref idref="DRAWINGS">FIG. 8B</figref>, a water-repellent layer (water-repellent pattern) <b>43</b> is formed on the wiring substrate <b>40</b> except for the destination &#x3b2; (mounting position). The water-repellent layer <b>43</b> is formed so that the droplet <b>22</b> can be surely and easily formed at the destination &#x3b2;.</p>
+<p id="p-0110" num="0110">The water-repellent layer <b>43</b> is formed from photosensitive water/oil-repellent resin. The water-repellent layer <b>43</b> according to the present preferred embodiment is formed from a UV-hardening resist film manufactured by NIPPON PAINT COL, LTD. Silicon and acrylic block polymer constitute the material, and more specifically, the material has a sea-island structure of silicon and acryl (so-called silicon island). The silicon is characterized in its low surface tension, and the acryl serves to control modification, hardness, adhesion, UV-curing of the resin. A contact angle between the formed water-repellent layer <b>43</b> and water is 100&#xb0;-105&#xb0;, and liquid (water or the like) provided on the water-repellent layer <b>43</b> has a fall angle of 20&#xb0;-40&#xb0; when the water-repellent layer <b>43</b> is tilted. A contact angle in the wettability of the liquid (water or the like) in the region where the water-repellent layer <b>43</b> is removed is 40&#xb0;-45&#xb0;.</p>
+<p id="p-0111" num="0111">The water-repellent layer <b>43</b> is formed, for example, as follows. An entire surface of the wiring substrate <b>40</b> is coated with a water-repellent material. More specifically, spin coating is adopted to apply the water-repellent material in a thickness of 1-2 &#x3bc;m. Next, the applied water-repellent material is pre-baked (for 30 minutes at 120&#xb0; C.), and then exposed so as to have a predetermined pattern. The exposure is conducted in 300 mj/cm<sup>2 </sup>by means of UV. Next, the exposed material is baked for 30 minutes at 120&#xb0; C., and dipped in toluene for 1-2 minutes and developed. When a post baking process is finally applied at 120&#xb0; C. for 10 minutes, the water-repellent layer <b>43</b> is formed.</p>
+<p id="p-0112" num="0112">When the fluorine/acrylic block polymer manufactured by ASAHI GLASS CO., LTD. is used as the photosensitive water/oil-repellent resin, the water-repellent layer (water-repellent pattern) <b>43</b> having the water/oil-repellent property can be formed by means of the photolithographic process with the i beam.</p>
+<p id="p-0113" num="0113">As shown in <figref idref="DRAWINGS">FIG. 8C</figref>, the droplet <b>22</b> is formed on the wiring substrate <b>40</b> on which the water-repellent layer <b>43</b> is formed. Formation of the droplet is carried out as below. The droplet <b>22</b> is formed on the wiring substrate <b>40</b> except for the water-repellent layer <b>43</b> when a liquid for the droplet <b>22</b> is sprayed on the entire wiring substrate <b>40</b>. The droplets <b>22</b> do not cause any problem in the mounting of the electronic component.</p>
+<p id="p-0114" num="0114">The droplet <b>22</b> may be formed by means of a method shown in <figref idref="DRAWINGS">FIG. 9</figref> in place of the spray. More specifically, the liquid <b>24</b> for forming the droplet <b>22</b> is dropped on the entire surface of the wiring substrate <b>40</b>, and then, a slide plate (for example, slide glass) <b>26</b> is made to contact the liquid <b>24</b>. The slide plate <b>26</b> is arranged in parallel with the wiring substrate <b>40</b> in a state where a predetermined small interval is formed between them. As a result, the liquid <b>24</b> is spread onto the entire surface of the wiring substrate <b>40</b>. Then, the slide plate <b>26</b> is slid in parallel with the wiring substrate <b>40</b> under the state (see Arrow <b>27</b>). Thereby, the droplet <b>22</b> is formed on the place except for the water-repellent layer <b>43</b>.</p>
+<p id="p-0115" num="0115">After the droplet <b>22</b> is formed, the electronic component <b>30</b> is transported from the original position &#x3b1; to the destination &#x3b2; (a part on the wiring substrate <b>40</b> where the water-repellent layer <b>43</b> is not formed) by the electronic component mounting device <b>300</b> as shown in <figref idref="DRAWINGS">FIG. 8D</figref>. After that, the electronic component <b>30</b> is transported to the destination &#x3b2; on the wiring substrate <b>40</b> and mounted thereon by means of the method described referring to <figref idref="DRAWINGS">FIGS. 5A-5C</figref>. When the electronic component <b>30</b> is mounted, the droplet (liquid) <b>22</b> surrounding the electronic component <b>30</b> transported to the destination &#x3b2; is evaporated, the electronic component <b>30</b> can be mounted on the wiring substrate <b>40</b>. Further, in the mounting process, the wiring substrate <b>40</b> is moved relatively to the pickup device main body <b>18</b> by the stage movement motor <b>302</b> so that positioning of the electronic component <b>30</b> retained in the pickup device main body <b>18</b> and the wiring substrate <b>40</b> can be accurately carried out.</p>
+<p id="p-0116" num="0116">In the mounting method according to the present preferred embodiment, the droplet <b>22</b> is used to mount the electronic component <b>30</b> on the wiring substrate <b>40</b>. Therefore, the electronic component <b>30</b> can be mounted based on self-aligning, which is described below referring to <figref idref="DRAWINGS">FIGS. 10A and 10B</figref>. <figref idref="DRAWINGS">FIGS. 10A and 10B</figref> show an upper view of a main part of the wiring substrate <b>40</b>, wherein the water-repellent layer <b>43</b> and the droplet <b>22</b> are shown.</p>
+<p id="p-0117" num="0117">First, as shown in <figref idref="DRAWINGS">FIG. 10A</figref>, an opening part <b>43</b><i>a </i>of the water-repellent layer <b>43</b> is formed corresponding to the shape of the electronic component <b>30</b>, the droplet <b>22</b> is formed in a shape similar to that of the opening part <b>43</b><i>a</i>. The shape corresponding to that of the electronic component <b>30</b> means that a length L<b>3</b> of a longer side of the opening part <b>43</b><i>a </i>is set to be larger than a length L<b>1</b> of the electronic component <b>30</b> in a longitudinal direction thereof, and a length L<b>2</b> of a shorter side of the opening part <b>43</b><i>a </i>is set to be smaller than the length L<b>1</b>. The electronic component <b>30</b> can be arranged in any desired direction in the droplet <b>22</b>, that is, at the destination &#x3b2; by forming the opening part <b>43</b><i>a </i>in such a shape.</p>
+<p id="p-0118" num="0118">In the constitution shown in <figref idref="DRAWINGS">FIG. 10A</figref>, the electronic component <b>30</b> housed in the droplet <b>22</b> is moved/rotated by the surface tension of the droplet <b>22</b> as shown by Arrow <b>60</b>, and located at the center of the droplet <b>22</b> (or center of the opening part <b>43</b><i>a</i>) by the self-aligning as shown in <figref idref="DRAWINGS">FIG. 10B</figref>. Thereby, position of the electronic component <b>30</b> is adjusted so that the direction of the electronic component <b>30</b> corresponds to that of the opening part <b>43</b><i>a</i>. Therefore, the electronic component <b>30</b> can be arranged and mounted at a predetermined position by the self-aligning action of the droplet <b>22</b> even though the retaining position of the electronic component <b>30</b> is more or less unfavorable when it is picked up through the electronic component pickup device <b>100</b>.</p>
+<p id="p-0119" num="0119">The control of the direction of the electronic component <b>30</b>, which was described referring to <figref idref="DRAWINGS">FIGS. 10A and 10B</figref>, is realized by adjusting the shape of the droplet <b>22</b> arranged at the destination &#x3b2;. The direction of the electronic component <b>30</b> can also be controlled through improving on the structure of the pickup device <b>19</b> and the control of the applied voltage to the pickup device <b>19</b> by the voltage controller <b>17</b> as shown in <figref idref="DRAWINGS">FIGS. 11A-11C</figref>.</p>
+<p id="p-0120" num="0120">An improved pickup device <b>19</b>&#x2032; is particularly characterized in the shape of the electrode <b>15</b>C provided on the insulation-layer-<b>12</b> side. <figref idref="DRAWINGS">FIGS. 11A-11C</figref> show the electrode <b>15</b>C observed from the electrolytic-solution side (pickup-surface side of the electronic component). The electrode <b>15</b>C comprises a main electrode <b>15</b>C<sub>1 </sub>having a circular shape and a plurality (eight in total in the present example) of satellite electrodes <b>15</b>C<sub>2 </sub>through <b>15</b>C<sub>9 </sub>and coupling electrodes <b>15</b>C<sub>10</sub>. The main electrode <b>15</b>C<sub>1 </sub>and the satellite electrodes <b>15</b>C<sub>2 </sub>through <b>15</b>C<sub>9 </sub>have a circular or polygonal shape (circular in the drawing), and a size of the main electrode <b>15</b>C<sub>1 </sub>is larger than those of the satellite electrodes <b>15</b>C<sub>2 </sub>through <b>15</b>C<sub>9</sub>. The satellite electrodes <b>15</b>C<sub>2 </sub>through <b>15</b>C<sub>9 </sub>are radially arranged at an equal angle (45&#xb0; in the present example) one another with the main electrode <b>15</b>C<sub>1 </sub>as their center. The main electrode <b>15</b>C<sub>1 </sub>and the satellite electrodes <b>15</b>C<sub>2 </sub>through <b>15</b>C<sub>9 </sub>have a same separation distance one another. The coupling electrodes <b>15</b>C<sub>10 </sub>are arranged between the main electrode <b>15</b>C<sub>1 </sub>and the satellite electrodes <b>15</b>C<sub>2 </sub>through <b>15</b>C<sub>9 </sub>and couple the main electrode <b>15</b>C<sub>1 </sub>and the respective satellite electrodes individually. A voltage controller <b>17</b>&#x2032; supplies a voltage individually to the main electrode <b>15</b>C<sub>1 </sub>and the satellite electrodes <b>15</b>C<sub>2 </sub>through <b>15</b>C<sub>9</sub>. A pair of the satellite electrodes <b>15</b>C<sub>2 </sub>through <b>15</b>C<sub>9 </sub>respectively arranged on diagonal lines with the main electrode <b>15</b>C<sub>1 </sub>as their center, main electrode <b>15</b>C<sub>1</sub>, and coupling electrode <b>15</b>C<sub>10 </sub>connecting these electrodes constitute a linear electrode part. A plurality of linear electrode parts thus constituted is radially provided with the main electrode <b>15</b>C<sub>1 </sub>as their center.</p>
+<p id="p-0121" num="0121">When the electrolytic solution <b>20</b> is dropped on the electrode <b>15</b>C in a state where the low-level voltage V<sub>1 </sub>is applied to the entire electrode <b>15</b>C (voltage is not necessarily applied), the electrolytic solution <b>20</b> is equally adhered to the main electrode <b>15</b>C<sub>1</sub>, satellite electrodes <b>15</b>C<sub>2 </sub>through <b>15</b>C<sub>9</sub>, and coupling electrode <b>15</b>C<sub>10</sub>, which is shown in <figref idref="DRAWINGS">FIG. 11A</figref>. When the pickup device <b>19</b>&#x2032; is moved to the original position &#x3b1; in the foregoing state so that the electronic component <b>30</b> contacts the electrolytic solution <b>20</b>, the electronic component <b>30</b> is picked up by the pickup device <b>19</b> in a random state without fixing the direction thereof due to the direction thereof in an initial stage of the pickup, various pickup conditions, environmental conditions and the like. More specifically, the electronic component <b>30</b> is principally adsorbed by the main electrode <b>15</b>C<sub>1</sub>, however, the electrode component <b>30</b> is rotated around the main electrode <b>15</b>C<sub>1 </sub>as a center based on the above-described conditions because the electrolytic solution <b>20</b> is adhered to all of the satellite electrodes <b>15</b>C<sub>2 </sub>through <b>15</b>C<sub>9</sub>, and the direction thereof is not constant, which is shown in <figref idref="DRAWINGS">FIG. 11B</figref>.</p>
+<p id="p-0122" num="0122">Consequently, the voltage applied to the electrode <b>15</b>C is adjusted by the voltage controller <b>17</b>&#x2032; as follows. The adjustment of the applied voltage by the voltage controller <b>17</b>&#x2032; is described based on the assumption that the direction of the electronic component <b>30</b> having a rectangular shape is adjusted so that the longitudinal direction thereof follows a vertical direction in the drawing as shown in <figref idref="DRAWINGS">FIG. 11C</figref>. In this case, the voltage controller <b>17</b>&#x2032; applies the high-level voltage V<sub>2 </sub>to the satellite electrodes <b>15</b>C<sub>3</sub>-<b>15</b>C<sub>5 </sub>and <b>15</b>C<sub>7</sub>-<b>15</b>C<sub>9 </sub>other than the satellite electrodes <b>15</b>C<sub>2 </sub>and <b>15</b>C<sub>6 </sub>vertically opposing to each other in the drawing and the main electrode <b>15</b>C<sub>1</sub>. The low-level voltage V<sub>1 </sub>is continuously applied to the satellite electrodes <b>15</b>C<sub>2 </sub>and <b>15</b>C<sub>6 </sub>and the main electrode <b>15</b>C<sub>1</sub>. Accordingly, the satellite electrodes <b>15</b>C<sub>3</sub>-<b>15</b>C<sub>5 </sub>and <b>15</b>C<sub>7</sub>-<b>15</b>C<sub>9 </sub>to which the high-level voltage V<sub>2 </sub>is applied selectively exert the water-repellent property, and the electrolytic solution <b>20</b> adhered to these satellite electrodes <b>15</b>C<sub>3</sub>-<b>15</b>C<sub>5 </sub>and <b>15</b>C<sub>7</sub>-<b>15</b>C<sub>9 </sub>moves to the linear electrode part including the satellite electrodes <b>15</b>C<sub>2 </sub>and <b>15</b>C<sub>6 </sub>and the main electrode <b>15</b>C<sub>1 </sub>which do not exert the water-repellent property. Therefore, the electronic component <b>30</b> to which the wettability of the electrolytic solution <b>20</b> is good changes its direction in the vertically long direction in the drawing (direction along the linear electrode part which does not exert the water-repellent property) in accordance with the changing shape of the electrolytic solution <b>20</b>. As a result, the electronic component <b>30</b> follows the vertical direction shown in the drawing.</p>
+<p id="p-0123" num="0123">The voltage application control to the main electrode <b>15</b>C<sub>1</sub>, satellite electrodes <b>15</b>C<sub>3</sub>-<b>15</b>C<sub>5 </sub>and <b>15</b>C<sub>7</sub>-<b>15</b>C<sub>9</sub>, and coupling electrodes <b>15</b>C<sub>10 </sub>described above is implemented by, for example, the position controller <b>105</b>A and the component placement controller <b>105</b>B shown in <figref idref="DRAWINGS">FIG. 6A</figref>.</p>
+<p id="p-0124" num="0124">In the foregoing description, the shapes of the main electrode <b>15</b>C<sub>1 </sub>and the satellite electrodes <b>15</b>C<sub>2</sub>-<b>15</b>C<sub>9 </sub>are circular or polygonal, however, may have an arbitrary shape. Further, it is assumed that the interval angle of the satellite electrode <b>15</b>C<sub>2</sub>-<b>15</b>C<sub>9 </sub>is 45&#xb0;, and the direction of the electronic component <b>30</b> is controlled at the interval of 45&#xb0;, however, any other angle position may be adopted. For example, the interval angle of the satellite electrodes <b>15</b>C<sub>2</sub>-<b>15</b>C<sub>5 </sub>is set to 90&#xb0;, and the direction of the electronic component <b>30</b> is controlled at the interval of 90&#xb0; in <figref idref="DRAWINGS">FIG. 12</figref>.</p>
+<p id="p-0125" num="0125">In the control of the direction of the electronic component <b>30</b> described above, it is preferable that the conductive layer <b>10</b> and the insulation layer <b>12</b> are constituted in a manner similar to the electrode <b>15</b>C. However, a similar effect can be obtained in the case where only the electrode <b>15</b>C alone is constituted as described.</p>
+<p id="p-0126" num="0126">The electronic component <b>30</b> used in the present preferred embodiment is preferable to be an electronic component having a small size, and, for example, an electronic component <b>30</b> having a side whose length is at most 0.2 mm is suitably used. Examples of the electronic component <b>30</b> are a chip component (for example, chip capacitor, chip inductor, or chip resistor) and a semiconductor element (for example, semiconductor bare chip).</p>
+<p id="p-0127" num="0127">In the case where the electronic component <b>30</b> is the chip component, the method according to the present preferred embodiment can be suitably applied to a component having the size of &#x201c;0402&#x201d; which is currently the smallest size, and even to a component having a size smaller than that, for example, a component having a side whose length is at most 0.1 mm (&#x201c;01005&#x201d; or the like). In the case where the electronic component <b>30</b> is the semiconductor bare chip, the method can be suitably applied to a semiconductor bare chip having the size of 0.3 mm in square, which is currently the smallest size, and a semiconductor bare chip having a side whose length is at most 0.1 mm.</p>
+<p id="p-0128" num="0128">Though the present invention exerts a remarkable effect to a minute size of the electronic component <b>30</b> which was hardly picked up or could not be picked up according to the conventional technology, however, it is needless to say that the effect of the present invention is not limited to such a minute component. The electronic component <b>30</b> to which the present invention is applied does not necessarily be limited to such a micro size because such effects as the superior response speed of the electronic component pickup device <b>100</b> and the movement between the electrolytic solution <b>20</b> and the droplet <b>22</b> can be utilized. The electronic component pickup device in which the chip is held with the holding tool involves the risk of breaking the electronic component, however, the constitution according to the present invention can accurately mount the electronic component without any breakage.</p>
+<p id="p-0129" num="0129">The present invention was thus far described based on the preferred embodiments, and the recitations so far are not subject to any limitation and can be variously modified. In the preferred embodiments, a method of using the electrolytic solution <b>20</b> is described in the pickup and transporting method in which the electro-wetting phenomenon is utilized. In the case where solder powder is used in addition to the electrolytic solution, as the electrolytic solution is vaporized, and the solder powder is dissolved through re-flowing after mounting of the electronic component, the electronic component and the desired wiring pattern on the wiring substrate can be electrically connected to each other. A solder plating such as Sn is previously applied to the electrode on the wiring substrate so that the solder plating of the electrode of the electronic component is dissolved at the time of the reflow and electrically connected to the electrode on the wiring substrate.</p>
+<p id="p-0130" num="0130">Further, though it is essentially different from the technology according to the preferred embodiments of the present invention, there is a component transporting device in which a surface tension of liquid is utilized, as recited in the Japanese Patent Applications Laid-Open (No. H11-68388, No. 2004-108907, No. 2005-33014). However, the inventions recited in these documents do not disclose the transportation of the component in such a manner that the component is held by means of the electro-wetting phenomenon, and the technical ideas are quite different from that of the preferred embodiments of the present invention.</p>
+<p id="p-0131" num="0131">Though the preferred embodiments of this invention have been described in detail, it will be understood that various modifications may be made therein, and it is intended to cover in the appended claims all such modifications as fall within the true spirit and scope of this invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An electronic component transporting method comprising:
+<claim-text>a first step for preparing a pickup device comprising a pickup surface to which an electronic component retaining liquid is to be applied and capable of adjusting a wet area of the electronic component retaining liquid on the pickup surface and applying the electronic component retaining liquid to the pickup surface; and</claim-text>
+<claim-text>a second step for retaining the electronic component on the pickup surface via the electronic component retaining liquid in a state in which the wet area is extended the pickup device further comprising a conductive layer and an insulation layer laminated on the conductive layer so as to comprise a surface constituting the pickup surface is prepared as the pickup device, and an electrolytic solution to which a voltage can be applied between the electrolytic solution and the conductive layer is prepared as the electronic component retaining liquid in the first step, and the voltage is set on a low-voltage side in a region where the voltage is applicable so that the wet area of the electrolytic solution on the insulation layer is extended in the second step.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The electronic component transporting method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>the voltage is set on a low-voltage side in a region where the voltage is applicable, and the electrolytic solution is made to contact the electronic component in the state where the wet area of the electrolytic solution on the insulation layer is extended by weakening a surface tension of the electrolytic solution so that the electronic component is retained on the pickup surface by the surface tension of the electrolytic solution in the second step.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The electronic component transporting method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a third step for separating the electronic component from the pickup surface in a state in which the wet area is narrowed after the second step is implemented.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The electronic component transporting method according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein
+<claim-text>the voltage is set on a high-voltage side in a region where the voltage is applicable so that the wet area of the electrolytic solution is narrowed in the third step.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The electronic component transporting method according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein
+<claim-text>the voltage is set on a high-voltage side in a region where the voltage is applicable, and the electronic component is separated from the pickup surface in a state where the wet area of the electrolytic solution is narrowed by increasing a surface tension of the electrolytic solution in the third step.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The electronic component transporting method according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein
+<claim-text>the electrolytic solution is made to contact a destination to which the electronic component is transported so that the electronic component is moved from the pickup surface together with the electrolytic solution to the destination in the third step.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The electronic component transporting method according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein
+<claim-text>the second step is implemented after the pickup device is moved to an original position of the electronic component, and</claim-text>
+<claim-text>the third step is implemented after the pickup device is moved together with the electronic component from the original position to the destination.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The electronic component transporting method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>a side length of the electronic is at most 0.2 mm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The electronic component transporting method according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein
+<claim-text>the electronic component is a chip component, and a side length of the chip component is at most 0.1 mm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The electronic component transporting method according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein
+<claim-text>the electronic component is a semiconductor bare chip, and a side length of the semiconductor bare chip is at most 0.3 mm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. An electronic component mounting method, wherein
+<claim-text>the destination is a wiring substrate on which the electronic component is mounted, and</claim-text>
+<claim-text>the electronic component is arranged at a mounting position of the wiring substrate by means of the electronic component transporting method according to <claim-ref idref="CLM-00007">claim 7</claim-ref>.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The electronic component mounting method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, further comprising a fourth step for providing a droplet on the electronic component mounting part prior to the third step, wherein
+<claim-text>the electronic component retained by the electrolytic solution is made to contact the droplet and thereby moved to the droplet in the third step.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The electronic component mounting method according to <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein
+<claim-text>a water-repellent layer is formed on a surface of the wiring substrate on which the electronic component mounting part is formed except for the electronic component mounting part, and the droplet is then provided on the surface on which the electronic component mounting part is formed in the fourth step.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The electronic component mounting method according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein
+<claim-text>the droplet is provided on the electronic component mounting part in a shape corresponding to the electronic component in the fourth step, and</claim-text>
+<claim-text>the electronic component is arranged at the electronic component mounting part in accordance with a shape of the droplet based on self-aligning in the third step.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. An electronic component pickup device capable of retaining an electronic component, comprising:
+<claim-text>a conductive layer;</claim-text>
+<claim-text>an insulation layer laminated on the conductive layer so as to comprise a pickup surface for retaining the electronic component on the surface thereof;</claim-text>
+<claim-text>an electrolytic solution provided on the pickup surface; and</claim-text>
+<claim-text>a power supply unit for applying a voltage in a switching manner between the electrolytic solution and the conductive layer, wherein</claim-text>
+<claim-text>the voltage power supply unit applies a voltage between the electrolytic solution and the conductive layer when the electric component is separated; said voltage being higher than the voltage applied between the electrolytic solution and the conductive layer when the electronic component is held.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The electronic component pickup device according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein
+<claim-text>the voltage supply unit sets the applied voltage on a low-voltage side in a voltage-applicable region of the voltage supply unit so that a surface tension of the electrolytic solution is weakened and a wet area of the electrolytic solution on the insulation layer is extended when the electronic component is held, and</claim-text>
+<claim-text>the voltage supply unit further sets the applied voltage on a high-voltage side in the voltage-applicable region so that the surface tension of the electrolytic solution is increased and the wet area of the electrolytic solution on the insulation layer is narrowed when the electronic component is separated.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The electronic component pickup device according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein
+<claim-text>a side length of the electronic is at most 0.2 mm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The electronic component pickup device according to <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein
+<claim-text>the electronic component is a chip component, and a side length of the chip component is at most 0.1 mm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The electronic component pickup device according to <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein
+<claim-text>the electronic component is a semiconductor bare chip, and a side length of the semiconductor bare chip is at most 0.3 mm.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. An electronic component transporting device comprising:
+<claim-text>the electronic component pickup device according to <claim-ref idref="CLM-00015">claim 15</claim-ref>;</claim-text>
+<claim-text>a mover for moving the electronic component pickup device from an original position of the electronic component to a destination of the transportation;</claim-text>
+<claim-text>a memory for memorizing data concerning the transportation of the electronic component; and</claim-text>
+<claim-text>a controller for controlling the mover based on the data memorized in the memory, wherein</claim-text>
+<claim-text>the voltage supply unit sets the applied voltage on a low-voltage side in a voltage-applicable region during a period when the electronic component pickup device is at an original position and a period when the electronic component pickup device is moved from the original position to a destination of the transportation, and</claim-text>
+<claim-text>the voltage supply unit further sets the applied voltage on a high-voltage side in the voltage-applicable region at the destination.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The electronic component transporting device according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein
+<claim-text>the mover makes the electrolytic solution contact the electronic component so that the electronic component is retained on the pickup surface through the electrolytic solution whose wet area is extended at the original position, and</claim-text>
+<claim-text>the mover further makes the electrolytic solution contact the destination so that the electrolytic component is separated from the pickup surface together with the electrolytic solution whose wet area is narrowed and moved to the destination.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The electronic component transporting device according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein,
+<claim-text>the voltage supply unit includes an electrode for applying the voltage on a surface of the insulation layer, and the electrode comprises a plurality of linear electrode parts arranged in a radial shape, and</claim-text>
+<claim-text>the voltage supply unit supplies the voltage individually to the linear electrode parts in accordance with a desired direction of the electronic component when the electronic component is held.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. An electronic component mounting device according to the present invention comprising:
+<claim-text>the electronic component transporting device according to <claim-ref idref="CLM-00020">claim 20</claim-ref>; and</claim-text>
+<claim-text>a stage mover for moving a wiring substrate provided at the destination on which the electronic component is mounted relatively to the electronic component transporting device. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

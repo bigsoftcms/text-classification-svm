@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641114-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641114</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11397797</doc-number>
+<date>20060405</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2005-108908</doc-number>
+<date>20050405</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>703</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>K</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>K</subclass>
+<main-group>7</main-group>
+<subgroup>01</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>K</subclass>
+<main-group>19</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>235382</main-classification>
+<further-classification>2353825</further-classification>
+<further-classification>340  52</further-classification>
+</classification-national>
+<invention-title id="d0e71">Authentication system, authentication method, and entrance/exit management system</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3984658</doc-number>
+<kind>A</kind>
+<name>Cannon</name>
+<date>19761000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235382</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4036430</doc-number>
+<kind>A</kind>
+<name>Eppich</name>
+<date>19770700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235454</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4097727</doc-number>
+<kind>A</kind>
+<name>Ulch</name>
+<date>19780600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235382</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4176783</doc-number>
+<kind>A</kind>
+<name>Eppich</name>
+<date>19791200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235474</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4346290</doc-number>
+<kind>A</kind>
+<name>Rossi</name>
+<date>19820800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235436</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4677284</doc-number>
+<kind>A</kind>
+<name>Genest</name>
+<date>19870600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235487</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4752678</doc-number>
+<kind>A</kind>
+<name>Rikuna</name>
+<date>19880600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235380</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4928001</doc-number>
+<kind>A</kind>
+<name>Masada</name>
+<date>19900500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235380</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5159183</doc-number>
+<kind>A</kind>
+<name>Yamaguchi</name>
+<date>19921000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235492</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5763862</doc-number>
+<kind>A</kind>
+<name>Jachimowicz et al.</name>
+<date>19980600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235380</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6178409</doc-number>
+<kind>B1</kind>
+<name>Weber et al.</name>
+<date>20010100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>705 79</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6991172</doc-number>
+<kind>B2</kind>
+<name>Luu</name>
+<date>20060100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235492</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>7036738</doc-number>
+<kind>B1</kind>
+<name>Vanzini et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235486</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>7124943</doc-number>
+<kind>B2</kind>
+<name>Quan et al.</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235451</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>7284125</doc-number>
+<kind>B2</kind>
+<name>Hashimoto et al.</name>
+<date>20071000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>713168</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>2001/0015692</doc-number>
+<kind>A1</kind>
+<name>Takanori et al.</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>340  523</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>2004/0128508</doc-number>
+<kind>A1</kind>
+<name>Wheeler et al.</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>713170</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>2005/0060555</doc-number>
+<kind>A1</kind>
+<name>Raghunath et al.</name>
+<date>20050300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>713186</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>2005/0105731</doc-number>
+<kind>A1</kind>
+<name>Basquin</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>380247</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>2005/0242921</doc-number>
+<kind>A1</kind>
+<name>Zimmerman et al.</name>
+<date>20051100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>340  52</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>EP</country>
+<doc-number>1 190 399</doc-number>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>JP</country>
+<doc-number>2003-150553</doc-number>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>WO</country>
+<doc-number>WO 00/75883</doc-number>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00024">
+<othercit>Australian Search Report dated Feb. 6, 2007 for Singapore Appln. No. 200601943-4.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00025">
+<othercit>European Search Report dated Aug. 25, 2006 for Appln. No. 06006148.8-2413.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>11</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>235382</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2353825</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>235380</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>235486</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>235492</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>340  52</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>380247</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>380277</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>380258</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>713168</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>713186</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>713163</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>8</number-of-drawing-sheets>
+<number-of-figures>9</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060219778</doc-number>
+<kind>A1</kind>
+<date>20061005</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Komatsu</last-name>
+<first-name>Hitoshi</first-name>
+<address>
+<city>Saitama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Pillsbury Winthrop Shaw Pittman, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Kabushiki Kaisha Toshiba</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Le</last-name>
+<first-name>Thien M.</first-name>
+<department>2887</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Mai</last-name>
+<first-name>Thien T</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A system including first and second IC cards and a host device adopts a communication mode in which the host device communicates with the first IC card only, and the first IC card communicates with the second IC card. The host device acquires inherent information encrypted by the first and second IC cards via the first IC card, decrypts the inherent information encrypted by the first and second IC cards, and collates the decrypted information with the inherent information to thereby authenticate the first and second IC cards.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="159.51mm" wi="150.11mm" file="US07641114-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="197.61mm" wi="166.88mm" file="US07641114-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="228.43mm" wi="150.71mm" file="US07641114-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="167.22mm" wi="161.04mm" file="US07641114-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="178.39mm" wi="147.40mm" file="US07641114-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="226.23mm" wi="159.77mm" orientation="landscape" file="US07641114-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="171.11mm" wi="139.70mm" file="US07641114-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="177.12mm" wi="170.69mm" file="US07641114-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="180.76mm" wi="159.85mm" file="US07641114-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is based upon and claims the benefit of priority from prior Japanese Patent Application No. 2005-108908, filed Apr. 5, 2005, the entire contents of which are incorporated herein by reference.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates to an authentication system, an authentication method, and an entrance/exit management system in which authentication is performed using, for example, a plurality of IC cards.</p>
+<p id="p-0005" num="0004">2. Description of the Related Art</p>
+<p id="p-0006" num="0005">In recent years, to realize sophisticated security, it has been proposed that authentication be performed using a plurality of IC cards (e.g., contact-less IC cards) in an authentication system, an authentication method, or an entrance/exit management system. For example, as an entrance/exit management system in which the entrance/exit is permitted on conditions that the authentications of the plurality of IC cards are successful, there is a system in which person's entrance/exit is managed by performing processing to authenticate the plurality of IC cards. For example, in Jpn. Pat. Appln. KOKAI Publication No. 2003-150553, an authentication system is proposed in which a plurality of IC cards and a terminal device perform authentication processing to thereby make possible the sophisticated security in a computer network.</p>
+<p id="p-0007" num="0006">However, in the technology described in Jpn. Pat. Appln. KOKAI Publication No. 2003-150553, the terminal device has to communicate with each of the plurality of IC cards for each authentication processing. In the technology described in Jpn. Pat. Appln. KOKAI Publication No. 2003-150553, the terminal device has to manage various information for performing the authentication processing on all the IC cards.</p>
+<heading id="h-0003" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">In an aspect of the present invention, an object is to provide an authentication system, an authentication method, and an entrance/exit management system in which an efficient operation is performed.</p>
+<p id="p-0009" num="0008">In a first aspect of the present invention, there is provided an authentication system comprising: a first electronic device; a second electronic device; and a host device, the first electronic device including: a first memory which stores first key information; a first encryption processing section which encrypts inherent information transmitted from the host device by use of the first key information stored in the first memory; a first transmitting section which transmits to the second electronic device the inherent information encrypted with the first key information by the first encryption processing section; and a transfer section which transfers to the host device information transmitted from the second electronic device and obtained by encrypting the inherent information encrypted with the first key information further by the second electronic device, the second electronic device including: a second memory which stores second key information; a second encryption processing section which encrypts the inherent information transmitted from the first electronic device and encrypted with the first key information by use of the second key information stored in the second memory; and a second transmitting section which transmits to the first electronic device the information encrypted with the second key information by the second encryption processing section, the host device including: a storage section which stores key information for decryption in association with the first electronic device; a third transmitting section which transmits the inherent information to the first electronic device; a decryption processing section which decrypts information transferred from the first electronic device and obtained by encrypting the inherent information by the first and second electronic devices by use of the decryption key information stored in association with the first electronic device in the storage section; and an authentication processing section which authenticates the first and second electronic devices based on the information decrypted by the decryption processing section and the inherent information.</p>
+<p id="p-0010" num="0009">Additional objects and advantages of the invention will be set forth in the description which follows, and in part will be obvious from the description, or may be learned by practice of the invention. The objects and advantages of the invention may be realized and obtained by means of the instrumentalities and combinations particularly pointed out hereinafter.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE SEVERAL VIEWS OF THE DRAWING</heading>
+<p id="p-0011" num="0010">The accompanying drawings, which are incorporated in and constitute a part of the specification, illustrate embodiments of the invention, and together with the general description given above and the detailed description of the embodiments given below, serve to explain the principles of the invention.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 1</figref> is a block diagram schematically showing a constitution example of an entrance/exit management system to which an authentication system and an authentication method are applied;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 2</figref> is a block diagram schematically showing constitution examples of first and second IC cards;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 3</figref> is a block diagram schematically showing a constitution example of an IC card reader and writer;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 4</figref> is a block diagram schematically showing a constitution example of a host computer;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 5</figref> is a flowchart showing a processing example of entrance/exit management;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 6</figref> is a flowchart showing a processing example of entrance/exit management;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 7</figref> is a flowchart showing a processing example of entrance/exit management;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 8</figref> is an explanatory view showing a processing example based on a first method for authenticating three or more IC cards by a host device; and</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 9</figref> is an explanatory view showing a processing example based on a second method for authenticating three or more IC cards by the host device.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0021" num="0020">An embodiment of the present invention will be described hereinafter with reference to the drawings.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 1</figref> schematically shows a constitution example of an entrance/exit management system.</p>
+<p id="p-0023" num="0022">The entrance/exit management system shown in <figref idref="DRAWINGS">FIG. 1</figref> includes: a first IC card (portable electronic device) <b>11</b>; a second IC card (portable electronic device) <b>12</b>; a door <b>13</b>; a host device <b>14</b> and the like. The entrance/exit management system manages entrance/exit with respect to a facility such as a room or an area. Here, the entrance/exit management system permits entrance or exit of a specific person on conditions that authentications of a plurality of IC cards are successful in order to realize sophisticated security.</p>
+<p id="p-0024" num="0023">It is assumed that a user who utilizes the facility managed by the entrance/exit management system possesses the first IC card <b>11</b>. The first IC card <b>11</b> is constituted of a contact-less IC card. The first IC card <b>11</b> functions as a first authentication medium.</p>
+<p id="p-0025" num="0024">It is assumed that a user who utilizes the facility managed by the entrance/exit management system possesses the second IC card <b>12</b>. It is to be noted that the second IC card <b>12</b> may be possessed by a user who is different from the user of the first IC card <b>11</b>. The second IC card <b>12</b> functions as a second authentication medium.</p>
+<p id="p-0026" num="0025">The door <b>13</b> is disposed in a doorway or the like of the facility managed by the entrance/exit management system. The door <b>13</b> functions as a gate for the entrance/exit. The door <b>13</b> is controlled to open and close by the host device <b>14</b>. The door <b>13</b> may be provided with a lock mechanism which is controlled to unlock and lock by the host device <b>14</b>.</p>
+<p id="p-0027" num="0026">The host device <b>14</b> controls the entrance/exit with respect to the facility managed by the entrance/exit management system. The host device <b>14</b> has a function of controlling the opening/closing of the door <b>13</b>, a function of communicating with the first IC card <b>11</b> and the second IC card <b>12</b>, and a function of processing various information.</p>
+<p id="p-0028" num="0027">Next, a constitution example of the host device <b>14</b> will be described.</p>
+<p id="p-0029" num="0028">As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the host device <b>14</b> includes an IC card reader and writer <b>15</b>, a host computer <b>16</b>, a door control section <b>17</b> and the like.</p>
+<p id="p-0030" num="0029">The IC card reader and writer <b>15</b> has a function of radio-communicating with the IC cards for use as the first IC card <b>11</b> and the second IC card <b>12</b>. The IC card reader and writer <b>15</b> receives data from the IC card, and transmits data to the IC card by the radio communication with the IC cards.</p>
+<p id="p-0031" num="0030">The host computer <b>16</b> functions as a control section of the host device <b>14</b>. The host computer <b>16</b> processes various types of information based on a preset processing program or the like. For example, the host computer <b>16</b> radio-communicates with the IC card (the first IC card <b>11</b> or the second IC card <b>12</b>) via the IC card reader and writer <b>15</b> to thereby authenticate the IC card (or the person who possesses the IC card. The host computer <b>16</b> controls the opening/closing of the door <b>13</b> by the door control section <b>17</b> based on an authentication result of the authentication processing of the IC card.</p>
+<p id="p-0032" num="0031">The door control section <b>17</b> controls the opening/closing of the door <b>13</b>. The door control section <b>17</b> opens/closes the door <b>13</b> based on a control signal from the host computer <b>16</b>.</p>
+<p id="p-0033" num="0032">Next, there will be described constitution examples of the first IC card <b>11</b> and the second IC card <b>12</b>.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 2</figref> is a block diagram showing the constitution examples of the first IC card <b>11</b> and the second IC card <b>12</b>.</p>
+<p id="p-0035" num="0034">As shown in <figref idref="DRAWINGS">FIG. 2</figref>, each of the first and second IC cards <b>11</b>, <b>12</b> includes: a transmission/reception antenna section <b>21</b>; a power supply section <b>22</b>; a modulation/demodulation circuit section <b>23</b>; a control section <b>24</b>; a memory section <b>25</b>; and the like. The power supply section <b>22</b>, the modulation/demodulation circuit section <b>23</b>, the control section <b>24</b>, and the memory section <b>25</b> are constituted of a integrally formed module Ca. The module Ca is electrically connected to the transmission/reception antenna section <b>21</b>, and they are buried in a housing C which forms each of the first and second IC cards <b>11</b>, <b>12</b>.</p>
+<p id="p-0036" num="0035">The transmission/reception antenna section <b>21</b> transmits and receives radio waves with respect to the reader and writer <b>15</b> and another IC card. For example, the transmission/reception antenna section <b>21</b> is constituted of a loop antenna or the like buried in the housing.</p>
+<p id="p-0037" num="0036">The power supply section <b>22</b> supplies a power to each component of the IC card <b>11</b> or <b>12</b>. The IC card <b>11</b> or <b>12</b> constituted as shown in <figref idref="DRAWINGS">FIG. 2</figref> is a contact-less IC card without any battery. Therefore, in the constitution shown in <figref idref="DRAWINGS">FIG. 2</figref>, the power supply section <b>22</b> converts the radio wave received by the transmission/reception antenna section <b>21</b> into the power to thereby generate the power to be supplied to each component.</p>
+<p id="p-0038" num="0037">The modulation/demodulation circuit section <b>23</b> modulates and demodulates an electric signal. The modulation/demodulation circuit section <b>23</b> converts (demodulates) an electric signal as the radio wave received by the transmission/reception antenna section <b>21</b> into digital data, or converts (modulates) the digital data for transmission into the electric signal to be transmitted as the radio wave. For example, the modulation/demodulation circuit section <b>23</b> demodulates into the digital data the electric signal as the radio wave received by the transmission/reception antenna section <b>21</b>, and the section outputs the demodulated digital data to the control section <b>24</b>. The modulation/demodulation circuit section <b>23</b> modulates the digital data for transmission from the control section <b>24</b> into the electric signal to be transmitted as the radio wave, and the section outputs the modulated electric signal to the transmission/reception antenna section <b>21</b>.</p>
+<p id="p-0039" num="0038">The control section <b>24</b> controls the whole IC card. The control section <b>24</b> controls an operation of each component, or processes various information. The control section <b>24</b> performs, for example, analysis of data, control of input/output of data and the like.</p>
+<p id="p-0040" num="0039">The memory section <b>25</b> is constituted of a volatile memory (random access memory: RAM), a non-rewritable nonvolatile memory (read only memory: ROM), a rewritable nonvolatile memory (EEPROM, flash ROM or the like) and the like. The RAM functions as, for example, a working memory for temporarily storing various data. The ROM functions as a program memory in which, for example, a pre-stored control program, control data, a processing program or the like is stored. Various types of data or processing program is stored in the rewritable nonvolatile memory.</p>
+<p id="p-0041" num="0040">For example, in the rewritable nonvolatile memory, there are stored ID information, key information and the like for use in the present entrance/exit management system. The ID information is identification information for specifying each IC card in the entrance/exit management system. The ID information is information which is inherent in each IC card. The key information is for use in encryption processing in authentication processing in entrance/exit management. The key information is set with respect to each IC card. It is to be noted that in the following description, the key information stored in the memory section <b>25</b> of the first IC card <b>11</b> is referred to as first key information, and the key information stored in the memory section <b>25</b> of the second IC card <b>12</b> is referred to as second key information.</p>
+<p id="p-0042" num="0041">Next, there will be described a constitution example of the IC card reader and writer <b>15</b> disposed in the host device <b>14</b>.</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 3</figref> is a block diagram showing a constitution example of the IC card reader and writer <b>15</b>.</p>
+<p id="p-0044" num="0043">As shown in <figref idref="DRAWINGS">FIG. 3</figref>, the reader and writer <b>15</b> is constituted of: a transmission/reception antenna section <b>31</b>; a modulation/demodulation circuit section <b>32</b>; a control section <b>33</b>; an interface <b>34</b> and the like.</p>
+<p id="p-0045" num="0044">The transmission/reception antenna section <b>31</b> is constituted of an antenna for transmitting and receiving the radio waves. The transmission/reception antenna section <b>31</b> transmits the radio wave for communicating with the IC card, and receives the radio wave transmitted from the IC card. The modulation/demodulation circuit section <b>32</b> modulates and demodulates the electric signals. The modulation/demodulation circuit section <b>32</b> converts (demodulates) into the digital data the electric signal as the radio wave received by the transmission/reception antenna section <b>31</b>, and converts (modulates) the digital data for transmission into the electric signal to be transmitted as the radio wave. For example, the modulation/demodulation circuit section <b>32</b> demodulates into the digital data the electric signal as the radio wave received by the transmission/reception antenna section <b>31</b>, and outputs the demodulated digital data to the control section <b>33</b>. The modulation/demodulation circuit section <b>23</b> modulates the digital data for transmission from the control section <b>33</b> into the electric signal to be transmitted as the radio wave, and outputs the modulated electric signal to the transmission/reception antenna section <b>31</b>.</p>
+<p id="p-0046" num="0045">The control section <b>33</b> controls the whole IC card reader and writer <b>15</b>. The control section <b>33</b> controls the operation of each component, or processes various information. The control section <b>33</b> performs, for example, analysis of data, control of transmission/reception of data and the like. The interface <b>34</b> is an interface to be connected to the host computer <b>16</b>. The control section <b>33</b> performs data communication with the host computer <b>16</b> via the interface <b>34</b>.</p>
+<p id="p-0047" num="0046">Next, there will be described a constitution example of the IC card reader and writer <b>15</b> disposed in the host device <b>14</b>.</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 4</figref> is a block diagram showing a constitution example of the host computer <b>16</b>.</p>
+<p id="p-0049" num="0048">As shown in <figref idref="DRAWINGS">FIG. 4</figref>, the host computer <b>16</b> includes: a control section <b>41</b>; a RAM <b>42</b>; a ROM <b>43</b>; a nonvolatile memory <b>44</b>; a hard disk drive (HDD) <b>45</b>; a random number generating section <b>46</b>; a first interface <b>47</b>; and a second interface <b>48</b>.</p>
+<p id="p-0050" num="0049">The control section <b>41</b> controls the whole host computer <b>16</b>. The control section <b>41</b> is constituted of, for example, a CPU, an internal memory and the like. The control section <b>41</b> performs various processing based on the program stored in the ROM <b>43</b>, the nonvolatile memory <b>44</b>, or the HDD <b>45</b>.</p>
+<p id="p-0051" num="0050">The RAM <b>42</b> is a volatile memory in which data is temporarily stored. The ROM <b>43</b> is a memory in which a control program, control data or the like is stored beforehand. The nonvolatile memory <b>44</b> is constituted of a rewritable nonvolatile memory such as an EEPROM. For example, system information or the like is stored in the nonvolatile memory <b>44</b>. For example, a processing program, various types of data or the like is stored in the HDD <b>45</b>. The HDD <b>45</b> includes a database (DB) <b>45</b><i>a. </i></p>
+<p id="p-0052" num="0051">In the database <b>45</b><i>a</i>, there is stored information on a person which is permitted to enter or leave the facility as information for performing the entrance/exit management. In the present entrance/exit management system, there are stored at least ID information of the IC card possessed by each person and decryption key information associated with the ID information as the information on the person who is permitted to enter or leave the facility in the database <b>45</b><i>a</i>. In the present entrance/exit management system, it is presumed that the entrance/exit is permitted in a case where the authentications of a plurality of IC cards are successful. Therefore, the decryption key information associated with each ID information stored in the database <b>45</b><i>a </i>corresponds to key information set to the IC card containing the ID information, and key information set to another IC card provided simultaneously with the IC card containing the ID information.</p>
+<p id="p-0053" num="0052">The random number generating section <b>46</b> generates a random number for use as inherent information in the authentication processing. It is to be noted that the random number generating section <b>46</b> may be realized in a case where the control section <b>41</b> executes the processing program stored in the ROM <b>43</b>, the nonvolatile memory <b>44</b>, or the HDD <b>45</b>.</p>
+<p id="p-0054" num="0053">The first interface <b>47</b> is an interface to be connected to the IC card reader and writer <b>15</b>. The control section <b>41</b> performs data communication with the IC card reader and writer <b>15</b> via the first interface <b>47</b>. The second interface <b>48</b> is an interface to be connected to the door control section <b>17</b>. The second interface <b>48</b> outputs to the door control section <b>17</b> a control signal for opening or closing the door, the control signal being transmitted from the control section <b>41</b>.</p>
+<p id="p-0055" num="0054">Next, there will be described a processing example of entrance/exit management in the present entrance/exit management system.</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIGS. 5 and 6</figref> are flowcharts showing a processing example of the entrance/exit management in the entrance/exit management system. Here, in the entrance/exit management system, conditions for operating the door <b>13</b> are that authentications of the host device <b>14</b> and a plurality of IC cards (the first IC card <b>11</b> and the second IC card <b>12</b>) are successful.</p>
+<p id="p-0057" num="0056">First, the host device <b>14</b> transmits a response request to the IC card by the IC card reader and writer <b>15</b> (step S<b>1</b>). The IC card reader and writer <b>15</b> transmits, as the response request, a radio wave obtained by modulating a signal requiring the identification information (ID information).</p>
+<p id="p-0058" num="0057">It is assumed that the first IC card <b>11</b> is brought in an area (communication area) reached by the radio wave transmitted from the reader and writer <b>15</b> of the host device <b>14</b> in this state. Then, the radio wave transmitted from the reader and writer <b>15</b> of the host device <b>14</b> is received by the transmission/reception antenna section <b>21</b> of the first IC card <b>11</b>. On receiving the radio wave from the transmission/reception antenna section <b>21</b>, the power supply section <b>22</b> of the first IC card <b>11</b> generates a power in response to the electric signal supplied from the transmission/reception antenna section <b>21</b>. The generated power is supplied to each component of the first IC card <b>11</b>. Accordingly, the first IC card <b>11</b> is started to be ready for performing various processing.</p>
+<p id="p-0059" num="0058">In the first IC card <b>11</b> brought into an operative state, the radio wave received by the transmission/reception antenna section <b>21</b> is demodulated by the modulation/demodulation circuit section <b>23</b>, and the demodulated data is supplied to the control section <b>24</b>. Here, the ID information request transmitted from the IC card reader and writer <b>15</b> of the host device <b>14</b> is demodulated into digital data, and the data is supplied to the control section <b>24</b> (step S<b>2</b>).</p>
+<p id="p-0060" num="0059">On receiving the ID information request, the control section <b>24</b> of the first IC card <b>11</b> reads the ID information of the first IC card <b>11</b> stored (registered) beforehand in the memory section <b>25</b>. When the ID information is read from the memory section <b>25</b>, the control section <b>24</b> allows the modulation/demodulation circuit section <b>23</b> to modulate the digital data as the read ID information. This modulated signal (ID information) is transmitted as the radio wave by the transmission/reception antenna section <b>21</b> (step S<b>3</b>).</p>
+<p id="p-0061" num="0060">The radio wave indicating the ID information transmitted from the first IC card <b>11</b> is received by the IC card reader and writer <b>15</b> of the host device <b>14</b> (step S<b>4</b>). In the IC card reader and writer <b>15</b>, the radio wave indicating the ID information transmitted from the first IC card is received by the transmission/reception antenna section <b>31</b>.</p>
+<p id="p-0062" num="0061">The radio wave received by the transmission/reception antenna section <b>31</b> is demodulated by the modulation/demodulation circuit section <b>32</b>, and the demodulated data (data indicating the ID information) is supplied to the control section <b>33</b>. The control section <b>33</b> provided with the ID information from the first IC card <b>11</b> outputs the ID information received from the first IC card <b>11</b> to the host computer <b>16</b> via the interface <b>34</b>. In the host computer <b>16</b>, the ID information from the IC card reader and writer <b>15</b>, which has been received from the first IC card <b>11</b>, is input via the first interface <b>47</b>, and once held in the RAM <b>42</b>.</p>
+<p id="p-0063" num="0062">On receiving the ID information from the first IC card <b>11</b>, the host device <b>14</b> judges whether or not the received ID information is ID information registered beforehand in the database <b>45</b><i>a </i>(step S<b>5</b>). In this case, the control section <b>41</b> of the host computer <b>16</b> collates the ID information received from the first IC card <b>11</b> with that registered in the database <b>45</b><i>a. </i></p>
+<p id="p-0064" num="0063">In a case where it is judged that there exists, in the database <b>45</b><i>a</i>, ID information which agrees with the received ID information as a result of the collation (step S<b>5</b>, YES), the control section <b>41</b> of the host computer <b>16</b> judges that the first IC card <b>11</b> is an IC card registered beforehand in the database <b>45</b><i>a. </i></p>
+<p id="p-0065" num="0064">Moreover, in a case where it is judged that the ID information which agrees with the received ID information as a result of the collation does not exist in the database <b>45</b><i>a </i>(step S<b>5</b>, NO), the control section <b>41</b> of the host computer <b>16</b> judges that the first IC card <b>11</b> is not the IC card registered beforehand in the database <b>45</b><i>a</i>. In this case, the control section <b>41</b> of the host computer <b>16</b> ends the processing while the door <b>13</b> remains closed (step S<b>6</b>).</p>
+<p id="p-0066" num="0065">Furthermore, the host device <b>14</b> which has ended the processing of the received ID information returns to the step S<b>1</b>, and transmits the response request. It is to be noted that in a case where it is judged that there does not exist the ID information which agrees with the received ID information in the database <b>45</b><i>a</i>, the host device <b>14</b> may inform that the authentication has failed by a display section, a speaker or the like (not shown).</p>
+<p id="p-0067" num="0066">Moreover, in a case where it is judged that the received ID information is registered in the database <b>45</b><i>a </i>(step S<b>5</b>, YES), the control section <b>41</b> of the host computer <b>16</b> generates the random number as the inherent information by the random number generating section <b>46</b> (step S<b>7</b>).</p>
+<p id="p-0068" num="0067">The random number as this inherent information is data for the host device <b>14</b> and the respective IC cards (the first IC card <b>11</b> and the second IC card <b>12</b>) to perform the authentication processing by the key information. That is, in the authentication processing, each IC card encrypts the random number as the inherent information by the key information, and the host device decrypts the random number as the inherent information encrypted with the key information by each IC card.</p>
+<p id="p-0069" num="0068">When the random number generating section <b>46</b> generates the random number as the inherent information, the control section <b>41</b> of the host computer <b>16</b> stores the generated random number in the RAM <b>42</b> (step S<b>8</b>). Moreover, the control section <b>41</b> transmits the random number as the inherent information to the first IC card <b>11</b> (step S<b>9</b>).</p>
+<p id="p-0070" num="0069">In this case, the control section <b>41</b> transmits, to the first IC card <b>11</b>, the data including the inherent information as, for example, a request (authentication request) command for encryption with respect to the first IC card <b>11</b>. That is, the control section <b>41</b> supplies the data including the inherent information to the IC card reader and writer <b>15</b> via the first interface <b>47</b>. After the data including the random number as the inherent information is supplied from the host computer <b>16</b>, the control section <b>33</b> of the IC card reader and writer <b>15</b> modulates the data by the modulation/demodulation circuit section <b>32</b>, and transmits the data as a radio wave from the transmission/reception antenna section <b>31</b> to the first IC card <b>11</b>.</p>
+<p id="p-0071" num="0070">When the random number as the inherent information is transmitted from the host device <b>14</b> to the first IC card <b>11</b>, the first IC card <b>11</b> receives the random number as the inherent information transmitted from the host device <b>14</b> (step S<b>10</b>).</p>
+<p id="p-0072" num="0071">In this case, in the first IC card <b>11</b>, the transmission/reception antenna section <b>21</b> receives the radio wave transmitted from the host device <b>14</b>, and the modulation/demodulation circuit section <b>23</b> demodulates the radio wave. The data demodulated by the modulation/demodulation circuit section <b>23</b> is supplied to the control section <b>24</b>. For example, the data demodulated by the modulation/demodulation circuit section <b>23</b> is an encryption request command including the random number as the inherent information.</p>
+<p id="p-0073" num="0072">The data including the random number as the inherent information is supplied to the control section <b>24</b> of the first IC card <b>11</b>, and the control section encrypts the random number as the inherent information included in the data received from the host device <b>14</b> by use of the first key information stored beforehand in the memory section <b>25</b> (step S<b>11</b>).</p>
+<p id="p-0074" num="0073">The first key information is used by the host device <b>14</b> in authenticating the first IC card <b>11</b>, and the key information is inherent in the first IC card <b>11</b>.</p>
+<p id="p-0075" num="0074">On encrypting the inherent information by the first key information, the control section <b>24</b> of the first IC card <b>11</b> transmits, to the second IC card <b>12</b>, the inherent information encrypted with the first key information (step S<b>12</b>).</p>
+<p id="p-0076" num="0075">In this case, the control section <b>24</b> of the first IC card <b>11</b> supplies, to the modulation/demodulation circuit section <b>23</b>, the data including the inherent information encrypted with the first key information as, for example, an encryption request (authentication request) command with respect to the second IC card. Accordingly, the modulation/demodulation circuit section <b>23</b> of the first IC card <b>11</b> modulates the data, and the transmission/reception antenna section <b>21</b> transmits the data as a radio wave.</p>
+<p id="p-0077" num="0076">When the first IC card <b>11</b> transmits the inherent information encrypted with the first key information, the second IC card <b>12</b> receives the inherent information encrypted with the first key information from the first IC card <b>11</b> (step S<b>13</b>).</p>
+<p id="p-0078" num="0077">In this case, in the second IC card <b>12</b>, the transmission/reception antenna section <b>21</b> receives the radio wave transmitted from the first IC card <b>11</b>, and the modulation/demodulation circuit section <b>23</b> demodulates the radio wave. There is supplied to the control section <b>24</b> the data including the inherent information encrypted with the first key information and demodulated by the modulation/demodulation circuit section <b>23</b>. For example, the data demodulated by the modulation/demodulation circuit section <b>23</b> is the encryption request command including the inherent information encrypted by the first IC card <b>11</b> using the first key information.</p>
+<p id="p-0079" num="0078">The data including the inherent information encrypted with the first key information is supplied to the control section <b>24</b> of the second IC card <b>12</b>, and the control section further encrypts the inherent information encrypted with the first key information and included in the data received from the first IC card <b>11</b> by use of second key information stored beforehand in the memory section <b>25</b> (step S<b>14</b>).</p>
+<p id="p-0080" num="0079">According to this processing, the inherent information encrypted with the first key information is further encrypted with the second key information. It is to be noted that the second key information is for use by the host device <b>14</b> in authenticating the second IC card <b>12</b>, and the key information is inherent in the second IC card <b>12</b>.</p>
+<p id="p-0081" num="0080">When the inherent information encrypted with the first key information is further encrypted with the second key information, the control section <b>24</b> of the second IC card <b>12</b> transmits, to the first IC card <b>11</b>, information (inherent information encrypted with the first and second key information) obtained by further encrypting the inherent information encrypted with the first key information by use of the second key information (step S<b>15</b>).</p>
+<p id="p-0082" num="0081">In this case, the control section <b>24</b> of the second IC card <b>12</b> allows the modulation/demodulation circuit section <b>23</b> to modulate the data including the inherent information encrypted with the first and second key information as, for example, a response to the encryption request command transmitted from the first IC card <b>11</b> in the step S<b>12</b>. The data is transmitted as a radio wave by the transmission/reception antenna section <b>21</b>.</p>
+<p id="p-0083" num="0082">When the inherent information encrypted with the first and second key information is transmitted from the second IC card <b>12</b>, the first IC card <b>11</b> receives data including the inherent information encrypted with the first and second key information from the second IC card <b>12</b> (step S<b>16</b>).</p>
+<p id="p-0084" num="0083">In this case, in the first IC card <b>11</b>, the transmission/reception antenna section <b>21</b> receives the radio wave transmitted from the second IC card <b>12</b>, and the modulation/demodulation circuit section <b>23</b> demodulates the radio wave. The data demodulated by the modulation/demodulation circuit section <b>23</b> is supplied to the control section <b>24</b>. Here, the data demodulated by the modulation/demodulation circuit section <b>23</b> is, for example, a response from the second IC card with respect to the encryption request command transmitted in the step S<b>12</b>.</p>
+<p id="p-0085" num="0084">On receiving the inherent information encrypted with the first and second key information from the second IC card <b>12</b>, the first IC card <b>11</b> transmits, to the host device <b>14</b>, the inherent information encrypted with the first and second key information and transmitted from the second IC card <b>12</b> (step S<b>17</b>).</p>
+<p id="p-0086" num="0085">In this case, the control section <b>24</b> of the first IC card <b>11</b> allows the modulation/demodulation circuit section <b>23</b> to modulate the data including the inherent information encrypted with the first and second key information and transmitted from the second IC card <b>12</b> as, for example, a response to the encryption request command transmitted from the host device <b>14</b> in the step S<b>9</b>. The transmission/reception antenna section <b>21</b> transmits the data as the radio wave.</p>
+<p id="p-0087" num="0086">When the first IC card <b>11</b> transmits the data including the inherent information encrypted with the first and second key information, the host device <b>14</b> receives, from the first IC card <b>11</b>, the inherent information encrypted with the first and second key information (step S<b>18</b>).</p>
+<p id="p-0088" num="0087">In this case, in the host device <b>14</b>, the transmission/reception antenna section <b>31</b> of the IC card reader and writer <b>15</b> receives the radio wave transmitted from the first IC card <b>11</b>, and the modulation/demodulation circuit section <b>32</b> demodulates the radio wave. The data demodulated by the modulation/demodulation circuit section <b>32</b> includes the inherent information encrypted with the first and second key information. For example, here, the data demodulated by the modulation/demodulation circuit section <b>32</b> is a resistance from the first IC card to the encryption request command transmitted in the step S<b>9</b>.</p>
+<p id="p-0089" num="0088">Moreover, the data demodulated by the modulation/demodulation circuit section <b>32</b> of the IC card reader and writer <b>15</b> is supplied to the control section <b>41</b> of the host computer <b>16</b> via the interface <b>34</b> of the IC card reader and writer <b>15</b> and the first interface <b>47</b> of the host computer <b>16</b>. In the host computer <b>16</b>, information (inherent information encrypted with the first and second key information) received from the first IC card <b>11</b> is stored in the RAM <b>42</b> or the like.</p>
+<p id="p-0090" num="0089">When the information (inherent information encrypted with the first and second key information) received from the first IC card <b>11</b> is stored in the RAM <b>42</b>, the control section <b>41</b> of the host computer <b>16</b> decrypts the information from the first IC card <b>11</b> by use of the key information for decryption (step S<b>19</b>).</p>
+<p id="p-0091" num="0090">It is assumed that the key information for decryption is stored in the database <b>45</b><i>a </i>or the like in association with the ID information of each IC card. Therefore, the control section <b>41</b> of the host computer <b>16</b> decrypts the information (inherent information encrypted with the first and second key information and transmitted from the first IC card <b>11</b>) received in the step S<b>18</b> by use of the decryption key information corresponding to the ID information (ID information of the first IC card <b>11</b>) received in the step S<b>4</b>.</p>
+<p id="p-0092" num="0091">It is to be noted that the key information for decryption may be, for example, the first key information stored in the first IC card <b>11</b> and the second key information stored in the second IC card <b>12</b>. In this case, the first and second key information are stored as the decryption key information corresponding to the ID information of the first IC card <b>11</b> in the database <b>45</b><i>a. </i></p>
+<p id="p-0093" num="0092">When the information received from the first IC card <b>11</b> is decrypted, the control section <b>41</b> of the host computer <b>16</b> collates the demodulated information with the inherent information (inherent information stored in the RAM <b>42</b> in the step S<b>8</b>) as source information of encryption, generated in the step S<b>7</b>, to thereby judge whether or not a predetermined relation is established between the information (step S<b>20</b>). For example, when the first key information stored in the first IC card and the second key information stored in the second IC card are registered as the decryption key information corresponding to the ID information of the first IC card <b>11</b> in the database <b>45</b><i>a</i>, the control section <b>41</b> judges whether or not the decrypted information agrees with the inherent information generated in the step S<b>7</b>.</p>
+<p id="p-0094" num="0093">In a case where it is judged that a predetermined relation is established between the decrypted information and the inherent information generated in the step S<b>7</b> as a result of judgment in the step S<b>20</b> (e.g., in a case where the decrypted information agrees with the inherent information) (step S<b>20</b>, YES), the control section <b>41</b> judges that the information received from the first IC card <b>11</b> is right information. This means that the first IC card <b>11</b> and the second IC card <b>12</b> which have encrypted the inherent information generated in the step S<b>7</b> are judged to be right IC cards. In other words, in a case where the predetermined relation is established between the decrypted information and the inherent information generated in the step S<b>7</b> as a result of judgment in the step S<b>20</b> (step S<b>20</b>, YES), the control section <b>41</b> judges that the authentications of the host device <b>14</b> as well as the first IC card <b>11</b>, and the host device <b>14</b> as well as the second IC card <b>12</b> are successful.</p>
+<p id="p-0095" num="0094">In a case where it is judged that the authentications of the first and second IC cards <b>11</b>, <b>12</b> are successful in this manner, the control section <b>41</b> of the host computer <b>16</b> permits the entrance/exit of the person who possesses the first and second IC cards <b>11</b>, <b>12</b>. In this case, the control section <b>41</b> of the host computer <b>16</b> transmits to the door control section <b>17</b> a control signal for opening the door <b>13</b>. On receiving this control signal, the door control section <b>17</b> opens the door <b>13</b> (step S<b>21</b>). Accordingly, in the present entrance/exit management system, there is obtained a state in which the entrance/exit of the person who possesses the first and second IC cards <b>11</b>, <b>12</b> is possible.</p>
+<p id="p-0096" num="0095">Moreover, in a case where any predetermined relation is not established between the decrypted information and the inherent information generated in the step S<b>7</b> as a result of the judgment (step S<b>20</b>, NO), the control section <b>41</b> of the host computer <b>16</b> judges that the entrance/exit of the person who possesses the first and second IC cards <b>11</b>, <b>12</b> is not permitted. In this case, the control section <b>41</b> of the host computer <b>16</b> allows the door <b>13</b> to remain closed (step S<b>6</b>). In this case, the control section <b>41</b> of the host computer <b>16</b> ends the processing, and returns to a state of the step S<b>1</b> to transmit an application request.</p>
+<p id="p-0097" num="0096">As described above, the entrance/exit management system adopts a communication mode in which the host device <b>14</b> communicates with the only first IC card <b>11</b> and the first IC card <b>11</b> communicates with the second IC card <b>12</b>. The host device <b>14</b> acquires the inherent information encrypted by the first IC card <b>11</b> and the second IC card <b>12</b> via the first IC card <b>11</b>, and the device decrypts the inherent information encrypted by the first IC card <b>11</b> and the second IC card <b>12</b> to thereby authenticate the first IC card <b>11</b> and the second IC card <b>12</b>.</p>
+<p id="p-0098" num="0097">Consequently, it is possible to reduce times of communications between the host device <b>14</b> and the IC cards <b>11</b>, <b>12</b> as authentication objects. As a result, high security can be realized. Moreover, it is possible to realize an increase of an efficiency or a speed of the authentication processing with respect to a plurality of IC cards. Furthermore, in the host device <b>14</b>, it is not necessary to manage the information for the authentication processing with respect to all the IC cards <b>11</b>, <b>12</b>, and the device may hold information necessary for the authentication processing in association with the first IC card. As a result, the host device <b>14</b> can efficiently manage the information, and the information management is facilitated.</p>
+<p id="p-0099" num="0098">Moreover, as a modification of the above embodiment, the present invention is applicable to processing to authenticate three or more IC cards (mediums for authentication). In a case where three or more IC cards <b>11</b>, <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b><i>n </i>are authenticated, in principle, in the same manner as in the above embodiment, the respective IC cards successively encrypt inherent information such as a random number generated by the host device <b>14</b>, and the cards may be finally authenticated based on information obtained by the host device in decrypting the information encrypted by all of the IC cards. It is to be noted that in this case, in the database <b>45</b><i>a</i>, the decryption key information corresponding to the key information (second, third, . . . , N-th key information) for use in encryption processing in the respective IC cards <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b><i>n </i>are associated with the ID information of the first IC card <b>11</b>, and stored.</p>
+<p id="p-0100" num="0099">Furthermore, as modes for realizing the authentications of three or more IC cards, for example, there are considered: a method (first method) in which a plurality of IC cards successively performs processing in a tandem manner (in series) with respect to a specific IC card that communicates with the host device <b>14</b>; and a method (second method) in which a plurality of IC cards successively performs processing in a tandem manner (in parallel) with respect to a specific IC card that communicates with the host device <b>14</b>.</p>
+<p id="p-0101" num="0100">First, the first method will be described as a realizing mode in a case where the host device authenticates three or more IC cards.</p>
+<p id="p-0102" num="0101"><figref idref="DRAWINGS">FIG. 8</figref> is an explanatory view showing a processing example based on the first method.</p>
+<p id="p-0103" num="0102">In this first method, as shown in <figref idref="DRAWINGS">FIG. 8</figref>, a plurality of IC cards <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b><i>n </i>other than the first IC card <b>11</b> perform encryption processing and transmit and receive the encrypted information in a chain manner (in series), respectively. That is, the IC card which directly communicates with the host device <b>14</b> is the first IC card <b>11</b> only in the same manner as in the above processing example. The plurality of IC cards <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b><i>n </i>other than the first IC card <b>11</b> successively transmit the encrypted information to the next IC card. Furthermore, the last IC card <b>12</b><i>n </i>transmits to the first IC card <b>11</b> the information successively encrypted by all of the IC cards. The first IC card <b>11</b> transfers to the host device the information encrypted by all of the IC cards.</p>
+<p id="p-0104" num="0103">It is to be noted that in this case, the last IC card <b>12</b><i>n </i>needs to judge whether or not the IC card itself is the last. Here, for example, the respective IC cards <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b><i>n </i>may judge whether or not there exists another IC card that does not perform the encryption processing. The information for identifying the IC card requiring the encryption processing may be transmitted from the first IC card <b>11</b> to the IC card <b>12</b><i>b </i>or <b>12</b><i>n. </i></p>
+<p id="p-0105" num="0104">This example will be described in association with the above-described operation example. Processing similar to that of the steps S<b>1</b> to S<b>21</b> is performed except that all the IC cards <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b><i>n </i>other than the first IC card <b>11</b> execute the processing similar to that of the steps S<b>13</b> to S<b>15</b>. That is, each IC card encrypts the information received from another IC card to transmit the information to the next IC card.</p>
+<p id="p-0106" num="0105">As a typical example, it is assumed that the IC cards <b>12</b><i>b </i>and <b>12</b><i>c </i>exist in addition to the first IC card <b>11</b>. In this case, the IC card <b>12</b><i>b </i>receives the inherent information encrypted by the first IC card <b>11</b> in the same manner as in the step S<b>13</b>. On receiving the inherent information encrypted by the first IC card <b>11</b> in the step S<b>13</b>, the IC card <b>12</b><i>b </i>encrypts the information received by the step S<b>13</b> in the same manner as in the step S<b>14</b>. This encrypted information is transmitted from the IC card <b>12</b><i>b </i>to the next IC card <b>12</b><i>c </i>as the processing of the step S<b>15</b>.</p>
+<p id="p-0107" num="0106">Furthermore, the IC card <b>12</b><i>c </i>receives the information encrypted by the IC card <b>12</b><i>b </i>as processing similar to that of the step S<b>13</b>. On receiving the information encrypted by the IC card <b>12</b><i>b</i>, the IC card <b>12</b><i>c </i>encrypts the information received from the IC card <b>12</b><i>b </i>in the same manner as in the step S<b>14</b>. The encrypted information is the information encrypted by all of the IC cards. Therefore, the IC card <b>12</b><i>c </i>transmits the encrypted information to the first IC card <b>11</b>. When this information is transmitted to the first IC card <b>11</b>, processing similar to that of the steps S<b>16</b> to S<b>21</b> is performed.</p>
+<p id="p-0108" num="0107">According to such first method, entrance/exit management can be realized based on the authentications of three or more IC cards.</p>
+<p id="p-0109" num="0108">Next, the second method will be described as a realizing mode in a case where the host device authenticates three or more IC cards.</p>
+<p id="p-0110" num="0109"><figref idref="DRAWINGS">FIG. 9</figref> is an explanatory view showing a processing example based on the second method.</p>
+<p id="p-0111" num="0110">In this second method, as shown in <figref idref="DRAWINGS">FIG. 9</figref>, a plurality of IC cards <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b><i>n </i>other than the first IC card <b>11</b> perform encryption processing and transmit and receive the encrypted information in an independent manner (in series with the first IC card), respectively. That is, the IC card which directly communicates with the host device <b>14</b> is the first IC card <b>11</b> only in the same manner as in the above processing example. The plurality of IC cards <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b><i>n </i>other than the first IC card <b>11</b> do not directly transmit or receive data with one another, and they transmit and receive data with respect to the first IC card <b>11</b>, respectively. Therefore, the first IC card <b>11</b> successively receives the encrypted information from the respective IC cards <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b>(<i>n&#x2212;</i>1), and transmits the received encrypted information to the next IC cards <b>12</b><i>c</i>, . . . , <b>12</b><i>n</i>. Furthermore, on receiving the encrypted information from the last IC card <b>12</b><i>n</i>, the first IC card <b>11</b> transfers to the host device the information successively encrypted by all of the IC cards.</p>
+<p id="p-0112" num="0111">It is to be noted that in this case, the first IC card <b>11</b> needs to identify the last IC card <b>12</b><i>n</i>. Here, for example, the first IC card <b>11</b> may retain beforehand information for identifying another IC card requiring the encryption processing. The information for identifying the IC card requiring the encryption processing may be received from the host device <b>14</b> together with the inherent information.</p>
+<p id="p-0113" num="0112">This example will be described in association with the above-described operation example. In the second method, processing similar to that of the steps S<b>13</b> to S<b>16</b> may be executed between the first IC card <b>11</b> and all of the IC cards <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b><i>n</i>. Processing other than this processing can be realized by processing similar to that of the steps S<b>1</b> to S<b>21</b>. That is, every time the first IC card <b>11</b> receives the encrypted information from each IC card, the first IC card transmits the received encrypted information to the next IC card.</p>
+<p id="p-0114" num="0113">For example, it is assumed that the IC cards <b>12</b><i>b </i>and <b>12</b><i>c </i>exist in addition to the first IC card <b>11</b>. In this case, the first IC card <b>11</b> receives the information encrypted by the IC card <b>12</b><i>b </i>in the same processing as that of the steps S<b>1</b> to S<b>16</b>. Then, the first IC card <b>11</b> judges that the next IC card <b>12</b><i>c </i>exists, and transmits the information encrypted by the IC card <b>12</b><i>b </i>to the IC card <b>12</b><i>c</i>. On the other hand, the IC card <b>12</b><i>c </i>encrypts the information received from the first IC card <b>11</b>, and transmits the encrypted information to the first IC card <b>11</b> in the same manner as in the steps S<b>13</b> to S<b>15</b>.</p>
+<p id="p-0115" num="0114">On receiving the information encrypted by the IC card <b>12</b><i>c</i>, the first IC card <b>11</b> judges that the IC card <b>12</b><i>c </i>is the last IC card. According to this judgment, the first IC card <b>11</b> transfers the information encrypted by the IC card <b>12</b><i>c </i>to the host device <b>14</b>. Accordingly, processing similar to that of the steps S<b>17</b> to S<b>21</b> is performed.</p>
+<p id="p-0116" num="0115">According to such second method, the entrance/exit management can be realized based on the authentications of three or more IC cards. It is to be noted that in the second method, the first IC card <b>11</b> may execute processing similar to that of the steps S<b>13</b> to S<b>16</b> together with the plurality of IC cards <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b><i>n </i>in an arbitrary order.</p>
+<p id="p-0117" num="0116">It is to be noted that the first, second, and third electronic devices are not limited to the above-described contact-less IC cards (radio cards), and the present invention is similarly applicable to, for example, even a case where portable terminal devices are used such as a contact-less IC card, cellular phone, and PDA.</p>
+<p id="p-0118" num="0117">As described above, the present entrance/exit management system adopts the communication mode in which the host device <b>14</b> communicates with the only specific first IC card <b>11</b> among the plurality of IC cards <b>11</b>, <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b><i>n</i>, and the other IC cards <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b><i>n </i>communicate with the first IC card <b>11</b> or with one another. The host device <b>14</b> acquires the inherent information successively encrypted by all of the IC cards <b>11</b>, <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b><i>n </i>via the first IC card <b>11</b>, and the device decrypts the inherent information successively encrypted by all of the IC cards to thereby authenticate all of the IC cards <b>11</b>, <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b><i>n. </i></p>
+<p id="p-0119" num="0118">In consequence, it is possible to reduce times of communications between the plurality of IC cards <b>11</b>, <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b><i>n </i>as the authentication objects and the host device <b>14</b>. As a result, high security can be realized. Moreover, it is possible to improve an efficiency or increase a speed in the authentication processing with respect to the plurality of IC cards. Furthermore, the host device <b>14</b> does not have to manage information for the authentication processing with respect to all of the IC cards <b>11</b>, <b>12</b><i>b</i>, <b>12</b><i>c</i>, . . . , <b>12</b><i>n</i>, and the device may associate the information required for the authentication processing with the first IC card <b>11</b>, and retain the information. As a result, the host device <b>14</b> can efficiently manage the information, and the information management is facilitated.</p>
+<p id="p-0120" num="0119">Additional advantages and modifications will readily occur to those skilled in the art. Therefore, the invention in its broader aspects is not limited to the specific details and representative embodiments shown and described herein. Accordingly, various modifications may be made without departing from the spirit or scope of the general invention concept as defined by the appended claims and their equivalents.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An authentication system comprising:
+<claim-text>a first electronic device; a second electronic device; and a host device,</claim-text>
+<claim-text>the first electronic device including:</claim-text>
+<claim-text>a first memory which stores first key information;</claim-text>
+<claim-text>a first encryption processing section which encrypts inherent information transmitted from the host device by use of the first key information stored in the first memory;</claim-text>
+<claim-text>a first transmitting section which transmits to the second electronic device the inherent information encrypted with the first key information by the first encryption processing section; and</claim-text>
+<claim-text>a transfer section which transfers to the host device the information transmitted from the second electronic device and obtained by encrypting the inherent information encrypted with the first key information further by the second electronic device,</claim-text>
+<claim-text>the second electronic device including:</claim-text>
+<claim-text>a second memory which stores second key information;</claim-text>
+<claim-text>a second encryption processing section which encrypts the inherent information transmitted from the first electronic device and encrypted with the first key information by use of the second key information stored in the second memory; and</claim-text>
+<claim-text>a second transmitting section which transmits to the first electronic device the information encrypted with the second key information by the second encryption processing section,</claim-text>
+<claim-text>the host device including:</claim-text>
+<claim-text>a storage section which stores key information for decryption in association with the first electronic device;</claim-text>
+<claim-text>a third transmitting section which transmits the inherent information to the first electronic device;</claim-text>
+<claim-text>a decryption processing section which decrypts information transferred from the first electronic device and obtained by encrypting the inherent information by the first and second electronic devices by use of the decryption key information stored in association with the first electronic device in the storage section; and</claim-text>
+<claim-text>an authentication processing section which authenticates the first and second electronic devices based on the information decrypted by the decryption processing section and the inherent information.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The authentication system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first electronic device and the second electronic device are contact-less IC cards which communicate with the outside by radio communication.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The authentication system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a third electronic device including: a third memory which stores third key information; a third encryption processing section which encrypts the inherent information encrypted with the first and second key information by use of the third key information stored in the third memory; and a fourth transmitting section which transmits to the first electronic device the information encrypted with the third key information by the third encryption processing section,</claim-text>
+<claim-text>wherein the second transmitting section of the second electronic device transmits to the third electronic device the information encrypted with the second key information by the second encryption processing section,</claim-text>
+<claim-text>the transfer section of the first electronic device transfers to the host device the information transmitted from the second electronic device and obtained by encrypting the inherent information encrypted with the first and second key information further by use of the third key information, and</claim-text>
+<claim-text>the authentication processing section of the host device authenticates the first electronic device, the second electronic device, and the third electronic device based on the information decrypted by the decryption processing section and the inherent information.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The authentication system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a third electronic device including: a third memory which stores third key information; a third encryption processing section which encrypts the inherent information transmitted from the first electronic device and encrypted with the first and second key information by use of the third key information stored in the third memory; and a fourth transmitting section which transmits to the first electronic device the information encrypted with the third key information by the third encryption processing section,</claim-text>
+<claim-text>the first electronic device further comprising:</claim-text>
+<claim-text>a second transfer section which transfers to the third electronic device the inherent information transmitted from the second electronic device and encrypted with the first and second key information,</claim-text>
+<claim-text>wherein the transfer section of the first electronic device transfers to the host device the information transmitted from the third electronic device ad obtained by encrypting the inherent information encrypted with the first and second key information further by use of the third key information,</claim-text>
+<claim-text>the decryption processing section of the host device decrypts the information transferred from the first electronic device and obtained by encrypting the inherent information encrypted with the first and second key information further by use of the third key information based on the decryption key information stored in association with the first electronic device in the storage section, and</claim-text>
+<claim-text>the authentication processing section of the host device authenticates the first electronic device, the second electronic device, and the third electronic device based on the information decrypted by the decryption processing section and the inherent information.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. An authentication method for use in a system comprising a first electronic device, a second electronic device, and a host device, the method comprising:
+<claim-text>transmitting inherent information from the host device to the first electronic device;</claim-text>
+<claim-text>encrypting, by the first electronic device, the inherent information transmitted from the host device by use of first key information stored in a memory of the first electronic device;</claim-text>
+<claim-text>transmitting the inherent information encrypted with the first key information from the first electronic device to the second electronic device;</claim-text>
+<claim-text>encrypting, by the second electronic device, the inherent information transmitted from the first electronic device and encrypted with the first key information by use of second key information stored in a memory of the second electronic device;</claim-text>
+<claim-text>transmitting, from the second electronic device to the first electronic device, information obtained by encrypting the inherent information encrypted with the first key information further with the second key information;</claim-text>
+<claim-text>transmitting, from the first electronic device to the host device, information transmitted from the second electronic device and obtained by encrypting the inherent information encrypted with the first key information further by the second electronic device;</claim-text>
+<claim-text>decrypting, by the host device, information transmitted from the first electronic device and encrypted with the first and second key information by use of decryption key information stored in association with the first electronic device in a storage section of the host device; and</claim-text>
+<claim-text>authenticating the first electronic device and the second electronic device based on the information decrypted with the key information for decryption and the inherent information.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The authentication method according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, further comprising:
+<claim-text>encrypting, by a third electronic device, the inherent information transmitted from the second electronic device and encrypted with the first and second key information by use of third key information stored in a memory of the third electronic device; and</claim-text>
+<claim-text>transmitting to the first electronic device information obtained by encrypting the inherent information encrypted with the first and second key information by use of the third key information stored in the memory of the third electronic device,</claim-text>
+<claim-text>the transmitting by the second electronic device being transmitting to the third electronic device the information encrypted with the second key information,</claim-text>
+<claim-text>the transferring by the first electronic device being transferring to the host device the information transmitted from the third electronic device and obtained by encrypting the inherent information encrypted with the first and second key information further by use of the third key information,</claim-text>
+<claim-text>the authenticating by the host device being authenticating the first electronic device, the second electronic device, and the third electronic device based on the information decrypted and the inherent information.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The authentication method according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, further comprising:
+<claim-text>encrypting, by a third electronic device, the inherent information transmitted from the second electronic device and encrypted with the first and second key information by use of third key information stored in a memory of the third electronic device;</claim-text>
+<claim-text>transmitting, to the first electronic device, information obtained by encrypting the inherent information encrypted with the first and second key information by use of the third key information stored in the memory of the third electronic device; and</claim-text>
+<claim-text>transferring, from the first electronic device to the third electronic device, the inherent information transmitted from the second electronic device and encrypted with the first and second key information,</claim-text>
+<claim-text>the transferring from the first electronic device to the host device being transferring to the host device the information transmitted from the third electronic device and obtained by encrypting the inherent information encrypted with the first and second key information further by use of the third key information,</claim-text>
+<claim-text>the decrypting by the host device being decrypting the information obtained by encrypting the inherent information transferred from the first electronic device and encrypted with the first and second key information further by use of the third key information based on decryption key information stored in association with the first electronic device in a storage section of the host device,</claim-text>
+<claim-text>the authenticating by the host device being authenticating the first electronic device, the second electronic device, and the third electronic device based on the information decrypted with the key information for decryption and the inherent information.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. An entrance/exit management system comprising:
+<claim-text>a first electronic device; a second electronic device; and a host device,</claim-text>
+<claim-text>the first electronic device including:</claim-text>
+<claim-text>a first memory which stores first key information;</claim-text>
+<claim-text>a first encryption processing section which encrypts inherent information transmitted from the host device by use of the first key information stored in the first memory;</claim-text>
+<claim-text>a first transmitting section which transmits to the second electronic device the inherent information encrypted with the first key information by the first encryption processing section; and</claim-text>
+<claim-text>a transfer section which transfers to the host device the information transmitted from the second, electronic device and obtained by encrypting the inherent information encrypted with the first key information further-by the second electronic device,</claim-text>
+<claim-text>the second electronic device including:</claim-text>
+<claim-text>a second memory which stores second key information;</claim-text>
+<claim-text>a second encryption processing section which encrypts the inherent information transmitted from the first electronic device and encrypted with the first key information by use of the second key information stored in the second memory; and</claim-text>
+<claim-text>a second transmitting section which transmits to the first electronic device the information encrypted with the second key information by the second encryption processing section,</claim-text>
+<claim-text>the host device including:</claim-text>
+<claim-text>a storage section which stores key information for decryption in association with the first electronic device;</claim-text>
+<claim-text>a third transmitting section which transmits the inherent information to the first electronic device;</claim-text>
+<claim-text>a decryption processing section which decrypts information transferred from the first electronic device and obtained by encrypting the inherent information by the first and second electronic devices by use of the decryption key information stored in association with the first electronic device in the storage section;</claim-text>
+<claim-text>an authentication processing section which authenticates the first and second electronic devices based on the information decrypted by the decryption processing section and the inherent information; and</claim-text>
+<claim-text>an opening and closing control section which opens and closes a gate for entrance and exit based on an authentication result by the authentication processing section.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The entrance/exit management system according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the first electronic device and the second electronic device are contact-less IC cards which communicate with the outside by radio communication.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The entrance/exit management system according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, further comprising:
+<claim-text>a third electronic device including: a third memory which stores third key information; a third encryption processing section which encrypts the inherent information encrypted with the first and second key information by use of the third key information stored in the third memory; and a fourth transmitting section which transmits to the first electronic device the information encrypted with the third key information by the third encryption processing section,</claim-text>
+<claim-text>wherein the second transmitting section of the second electronic device transmits to the third electronic device the information encrypted with the second key information by the second encryption processing section,</claim-text>
+<claim-text>the transfer section of the first electronic device transfers to the host device the information transmitted from the second electronic device and obtained by encrypting the inherent information encrypted with the first and second key information further by use of the third key information, and</claim-text>
+<claim-text>the authentication processing section of the host device authenticates the first electronic device, the second electronic device, and the third electronic device based on the information decrypted by the decryption processing section and the inherent information.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The entrance/exit management system according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, further comprising:
+<claim-text>a third electronic device including: a third memory which stores third key information; a third encryption processing section which encrypts the inherent information transmitted from the first electronic device and encrypted with the first and second key information by use of the third key information stored in the third memory; and a fourth transmitting section which transmits to the first electronic device the information encrypted with the third key information by the third encryption processing section,</claim-text>
+<claim-text>the first electronic device further comprising: a second transfer section which transfers to the third electronic device the inherent information transmitted from the second electronic device and encrypted with the first and second key information,</claim-text>
+<claim-text>wherein the transfer section of the first electronic device transfers to the host device the information transmitted from the third electronic device and obtained by encrypting the inherent information encrypted with the first and second key information further by use of the third key information,</claim-text>
+<claim-text>the decryption processing section of the host device decrypts the information transferred from the first electronic device and obtained by encrypting the inherent information encrypted with the first and second key information further by use of the third key information based on the decryption key information stored in association with the first electronic device in the storage section, and</claim-text>
+<claim-text>the authentication processing section of the host device authenticates the first electronic device, the second electronic device, and the third electronic device based on the information decrypted by the decryption processing section and the inherent information.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

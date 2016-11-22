@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640947-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640947</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12144603</doc-number>
+<date>20080623</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>15</class>
+<subclass>C</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>137832</main-classification>
+<further-classification>417559</further-classification>
+</classification-national>
+<invention-title id="d0e43">Microfabricated fluidic circuit elements and applications</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3199781</doc-number>
+<kind>A</kind>
+<name>Welsh</name>
+<date>19650800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3359863</doc-number>
+<kind>A</kind>
+<name>Phillips</name>
+<date>19671200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3503423</doc-number>
+<kind>A</kind>
+<name>Edell</name>
+<date>19700300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3643861</doc-number>
+<kind>A</kind>
+<name>Eckerlin</name>
+<date>19720200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3650181</doc-number>
+<kind>A</kind>
+<name>Parr</name>
+<date>19720300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3747628</doc-number>
+<kind>A</kind>
+<name>Holster et al.</name>
+<date>19730700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3768521</doc-number>
+<kind>A</kind>
+<name>Brychta et al.</name>
+<date>19731000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>3918677</doc-number>
+<kind>A</kind>
+<name>Cowan</name>
+<date>19751100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>3986527</doc-number>
+<kind>A</kind>
+<name>Mon</name>
+<date>19761000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4248267</doc-number>
+<kind>A</kind>
+<name>Brandenberg</name>
+<date>19810200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5367878</doc-number>
+<kind>A</kind>
+<name>Muntz et al.</name>
+<date>19941100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60512</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5642015</doc-number>
+<kind>A</kind>
+<name>Whitehead et al.</name>
+<date>19970600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5775371</doc-number>
+<kind>A</kind>
+<name>Pan et al.</name>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5789045</doc-number>
+<kind>A</kind>
+<name>Wapner et al.</name>
+<date>19980800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>6033191</doc-number>
+<kind>A</kind>
+<name>Kamper et al.</name>
+<date>20000300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>417322</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6408878</doc-number>
+<kind>B2</kind>
+<name>Unger et al.</name>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>6802342</doc-number>
+<kind>B2</kind>
+<name>Fernandes et al.</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6953058</doc-number>
+<kind>B2</kind>
+<name>Fernandes et al.</name>
+<date>20051000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>7392827</doc-number>
+<kind>B2</kind>
+<name>Fernandes et al.</name>
+<date>20080700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>DE</country>
+<doc-number>044 22 943</doc-number>
+<date>19960100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>DE</country>
+<doc-number>198 16 283</doc-number>
+<date>19991000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>EP</country>
+<doc-number>1 065 378</doc-number>
+<date>20010100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>FR</country>
+<doc-number>1 057 817</doc-number>
+<date>19540300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>GB</country>
+<doc-number>1 041 429</doc-number>
+<date>19660900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>GB</country>
+<doc-number>1055045</doc-number>
+<date>19670100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>GB</country>
+<doc-number>1 278 831</doc-number>
+<date>19720600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>GB</country>
+<doc-number>1 285 877</doc-number>
+<date>19720800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>WO</country>
+<doc-number>WO 95/08716</doc-number>
+<date>19950300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>WO</country>
+<doc-number>WO 96/28664</doc-number>
+<date>19960900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>WO</country>
+<doc-number>WO 99/65664</doc-number>
+<kind>A1</kind>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>WO</country>
+<doc-number>WO 01/01025</doc-number>
+<kind>A2</kind>
+<date>20010100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00032">
+<othercit>European Office Action of EP Application No. 06075717.6, dated May 23, 2008, 4 pages total.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00033">
+<othercit>Foster et al., &#x201c;Fluidics Components and Circuits&#x201d;, Wiley-Interscience, 1970.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00034">
+<othercit>Groisman et al., &#x201c;Elastic turbulence in a polymer solution flow&#x201d;, Nature vol. 405, May 4, 2000.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00035">
+<othercit>Joyce et al., &#x201c;Fluidics Basic Components and Applications&#x201d;, Sep. 1979.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00036">
+<othercit>Kim et al., &#x201c;A three-dimensionally silicon-micromachined fluidic amplifier device,&#x201d;, J. Micromech. Microeng., 1998.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00037">
+<othercit>Unger et al., &#x201c;Monolithic Microfabricated Valves and Pumps by Multilayer Soft Lithography&#x201d;, Science vol. 288, Apr. 7, 2000.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00038">
+<othercit>European Search Report and Opinion of EP Application No. 06075717.6, dated Jun. 28, 2006, 7 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00039">
+<othercit>European Examination Report of Application No. 06075717.6, dated Jun. 5, 2009, 3 pages total.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>13</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>137832</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>137829</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>137833</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>417559</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>417307</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>417308</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>417310</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>29</number-of-drawing-sheets>
+<number-of-figures>90</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11213598</doc-number>
+<kind>00</kind>
+<date>20050826</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7392827</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12144603</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>10927688</doc-number>
+<kind>00</kind>
+<date>20040827</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>6953058</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11213598</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>09995397</doc-number>
+<kind>00</kind>
+<date>20011126</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>6802342</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>10927688</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60282253</doc-number>
+<kind>00</kind>
+<date>20010406</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080257437</doc-number>
+<kind>A1</kind>
+<date>20081023</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Fernandes</last-name>
+<first-name>David</first-name>
+<address>
+<city>Pacifica</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Chou</last-name>
+<first-name>Hou-Pu</first-name>
+<address>
+<city>Sunnyvale</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Unger</last-name>
+<first-name>Marc A.</first-name>
+<address>
+<city>San Mateo</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Townsend and Townsend and Crew LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Fluidigm Corporation</orgname>
+<role>02</role>
+<address>
+<city>South San Francisco</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Evans</last-name>
+<first-name>Robin O</first-name>
+<department>3753</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Schneider</last-name>
+<first-name>Craig M</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Microfabricated fluidic devices of the present invention include switches that can be opened and closed to allow or block the flow of fluid through a channel in response to the pressure level in a gate of the switch. The microfabricated fluidic switches may be coupled together to perform logic functions and Boolean algebra, such as inverters, AND gates, NAND, gates, NOR gates, and OR gates. The logic gates may be coupled together to form flip-flops that latch signals. The present invention also includes microfabricated fluidic pressure multipliers that increase the pressure in a second chamber relative to a first chamber. Microfabricated fluidic devices of the present invention also include high or low pressure sources. A pressure source of the present includes a pump coupled to a reservoir through unidirectional valves. Microfabricated fluidic devices of the present invention may also include devices that perform analog functions such as switching regulator.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="60.37mm" wi="84.24mm" file="US07640947-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="245.79mm" wi="163.91mm" file="US07640947-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="247.06mm" wi="129.71mm" file="US07640947-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="248.67mm" wi="175.34mm" file="US07640947-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="239.44mm" wi="179.15mm" file="US07640947-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="243.84mm" wi="178.22mm" file="US07640947-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="249.26mm" wi="168.06mm" file="US07640947-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="215.31mm" wi="149.01mm" file="US07640947-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="239.10mm" wi="126.15mm" file="US07640947-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="250.53mm" wi="139.28mm" file="US07640947-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="250.87mm" wi="156.97mm" file="US07640947-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="247.99mm" wi="127.85mm" file="US07640947-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="227.41mm" wi="126.83mm" file="US07640947-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="227.67mm" wi="130.05mm" file="US07640947-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="169.33mm" wi="109.73mm" file="US07640947-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="182.37mm" wi="124.63mm" file="US07640947-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="189.65mm" wi="137.67mm" file="US07640947-20100105-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="194.14mm" wi="117.35mm" file="US07640947-20100105-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="203.88mm" wi="133.18mm" file="US07640947-20100105-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="169.93mm" wi="122.43mm" file="US07640947-20100105-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="192.79mm" wi="124.29mm" file="US07640947-20100105-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="202.01mm" wi="152.23mm" file="US07640947-20100105-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="173.40mm" wi="122.77mm" file="US07640947-20100105-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="171.87mm" wi="119.55mm" file="US07640947-20100105-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="204.89mm" wi="107.53mm" file="US07640947-20100105-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="198.88mm" wi="117.60mm" file="US07640947-20100105-D00025.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00026" num="00026">
+<img id="EMI-D00026" he="224.20mm" wi="134.11mm" file="US07640947-20100105-D00026.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00027" num="00027">
+<img id="EMI-D00027" he="93.22mm" wi="123.70mm" file="US07640947-20100105-D00027.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00028" num="00028">
+<img id="EMI-D00028" he="227.67mm" wi="106.93mm" file="US07640947-20100105-D00028.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00029" num="00029">
+<img id="EMI-D00029" he="199.47mm" wi="119.55mm" file="US07640947-20100105-D00029.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCES TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation of U.S. patent application Ser. No. 11/213,598, filed Aug. 26, 2005; which is a continuation of U.S. patent application Ser. No. 10/927,688, filed Aug. 27, 2004; which is a division of U.S. patent application Ser. No. 09/995,397, filed Nov. 26, 2001; which claims the benefit of U.S. Provisional Patent Application No. 60/282,253, filed Apr. 6, 2001. The disclosures are hereby incorporated by reference in their entirety.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates to microfabricated fluidic systems and methods for regulating the flow of fluid to provide switches, logic gates, latches, pressure sources, analog devices, capacitors, unidirectional valves, pressure multipliers, and devices that perform mathematical functions.</p>
+<p id="p-0004" num="0003">Microfabricated fluidic chips may be used for biological assays. For example, microfabricated fluidic chips may be used to perform biological assays using external control lines that control the opening and closing of on-chip fluidic valves. The on-chip fluidic valves control the flow of fluids in biological assays. The valves are opened and closed using macroscopic pressure sources that are located off-chip, and which are connected through control lines to the chip. In complex assays, a large number of macroscopic control lines is cumbersome and undesirable. Previously known electrical actuating devices have not been able to provide sufficient force by themselves to open or close a fluidic valve.</p>
+<p id="p-0005" num="0004">It would therefore be desirable to provide pressure sources and control lines on-chip that control the opening and closing of on-chip valves so that macroscopic control lines exiting the chip are minimized or eliminated. Previously known on-chip systems have not been adequate to provide control of numerous on-chip valves. Each valve requires a pressure differential between the input and the output to control the valve. Numerous valves coupled together to perform complex functions would require very large pressure differentials to drive all of the cascaded valves. Pressure sources that generate such very high pressure differentials are difficult to manufacture on a microfabricated chip.</p>
+<p id="p-0006" num="0005">Furthermore, such cascaded valve systems do not allow for the introduction of feedback elements. A feedback element is one whereby a (downstream) output pressure, which is controlled by an upstream valve or is controlled by a valve which is controlled by the upstream valve (and so on), in turn controls the function of the upstream valve. The elimination of the possibility of feedback precludes the construction of entire classes of analog devices and digital logic devices (e.g., latches).</p>
+<p id="p-0007" num="0006">It would also be desirable to provide numerous microfabricated fluidic switches on-chip that open and close channels without the need for large pressure differentials.</p>
+<p id="p-0008" num="0007">It would also be desirable to provide devices that perform logic functions, signal latching, mathematical functions, and other complex functions on-chip.</p>
+<p id="p-0009" num="0008">It would also be desirable to provide microfabricated fluidic switches on-chip that incorporate the feed back of information from a downstream part of the circuit to an upstream part.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">It is therefore an object of the present invention to provide pressure sources and control lines that control the opening and closing of valves on-chip so that macroscopic control lines exiting the chip are minimized or eliminated.</p>
+<p id="p-0011" num="0010">It is also an object of the present invention to provide numerous microfabricated fluidic switches on-chip that open and close channels without the need for large pressure differentials.</p>
+<p id="p-0012" num="0011">It is also an object of the present invention to provide devices that perform logic functions, signal latching, mathematical functions, and other complex functions on-chip.</p>
+<p id="p-0013" num="0012">It is also an object of the present invention to provide microfabricated fluidic switches on-chip that incorporate the feed back of information from a downstream part of the circuit to an upstream part.</p>
+<p id="p-0014" num="0013">The present invention sets forth systems and methods for designing and operating microfabricated fluidic (i.e., microfluidic) devices such as switches, logic gates and latches (e.g., flip-flops) that provide control signals which can be fabricated on microfluidic chips. The microfluidic switches, logic gates, and latches of the present invention may operate entirely on-chip without the need for off-chip pressure sources.</p>
+<p id="p-0015" num="0014">The present invention also provides on-chip pressure sources that can drive the microfluidic switches, logic gates and latches. The present invention also provides on-chip microfluidic unidirectional valves, capacitors, switching regulators, and pressure multipliers, that are formed with elastomer material that can also operate without off-chip pressure sources. The devices and methods of the present invention control and channel fluid movement on-chip to perform a variety of functions.</p>
+<p id="p-0016" num="0015">Microfabricated fluidic devices of the present invention may be configured to imitate the functionality of semiconductor circuits, such as ON/OFF switches, capacitors, logic gates, latches, switching regulators, and devices that perform mathematical functions. The microfabricated fluidic logic gates of the present invention include AND gates, OR gates, NOR gates, NAND gates, inverters, and numerous other Boolean and logic functions. The logic functions performed by the microfabricated fluidic devices may also be configured to perform mathematical functions such as addition, subtraction, multiplication, and division.</p>
+<p id="p-0017" num="0016">Microfabricated fluidic (i.e., microfluidic) devices of the present invention may also perform analog functions such as amplification or regulation. For example, devices of the present invention include switching regulators, capacitors, pressure multipliers, and pressure sources. Other analog functions may also be performed using microfluidic devices of the present invention.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 1</figref> shows an example of a macroscopic pressure amplification system;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 2</figref> shows another example of a macroscopic pressure amplification system;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIGS. 3</figref>, <b>4</b>A, and <b>4</b>B show a first embodiment of a microfabricated fluidic pressure amplifier (or pressure multiplier) of the present invention;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 4C</figref> is a symbol for a pressure multiplier;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIGS. 5A-5B</figref> and <b>6</b> show a first embodiment of a microfabricated fluidic switch;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIGS. 7A-7E</figref> show a second embodiment of a microfabricated fluidic switch;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 8</figref> shows a third embodiment of a microfabricated fluidic switch;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIGS. 9A-9D</figref> show an embodiment of a microfabricated fluidic switch that is normally closed, but opens when the pressure in the gate is increased;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 10</figref> illustrates a microfabricated fluidic switch comprising a pressure multiplier and a valve;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIGS. 11A-11K</figref> show symbols representing microfabricated fluidic devices;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 12A</figref> shows an example of an inverter formed with microfabricated fluidic devices;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 12B</figref> shows the symbol for an inverter;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 12C</figref> shows an example of an OR logic gate formed with microfabricated fluidic devices;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 12D</figref> shows the symbol for an OR gate;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 12E</figref> is an example of a NOR logic gate formed with microfabricated fluidic devices;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 12F</figref> shows the symbol for a two input NOR gate;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 12G</figref> shows an example of an AND logic gate formed with microfabricated fluidic devices;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 12H</figref> shows the symbol for a two input AND gate;</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 12I</figref> shows an example of a NAND logic gate formed with microfabricated fluidic switches;</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 12J</figref> shows the symbol for a two input NAND gate;</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 13</figref> is one example of an S-R flip-flop that is constructed with two cross-coupled NAND gates;</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 14A</figref> shows an example of a S-R flip-flop of the present invention constructed with microfabricated fluidic cross-coupled NAND gates;</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 14B</figref> shows another example of an S-R flip-flop of the present invention comprising microfabricated microfluidic devices;</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIGS. 15A-15J</figref> are valves that may be used as vacuum actuated normally closed switches when its input channel is coupled to a pressure amplifier;</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 16</figref> shows a previously known macroscopic high pressure source;</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIGS. 17A-17B</figref> show an example of a microfabricated fluidic pump;</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 18</figref> shows the symbol for a unidirectional valve in microfluidics;</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 19</figref> shows a previously known macroscopic unidirectional valve;</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 20A</figref> is an embodiment of a unidirectional valve that can be made on a microfluidic chip;</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 20B</figref> shows a cross sectional view of channel <b>453</b>;</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 21</figref> is another embodiment of a microfluidic unidirectional value of the present invention that can be made on a microfluidic chip;</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. 22</figref> shows another embodiment of a microfluidic unidirectional valve of the present invention;</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. 23</figref> shows a unidirectional active valve that may be constructed by using a pair of normally open switches;</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 24</figref> shows an embodiment of a microfluidic high pressure reservoir that can be formed on a microfluidic chip;</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. 25A</figref> shows the symbol for a microfluidic pump;</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. 25B</figref> shows the symbol for a microfluidic high pressure reservoir;</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. 26</figref> shows a schematic for a microfabricated fluidic device that provides a high pressure source for microfluidic applications of the present invention;</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. 27</figref> shows a microfluidic generator;</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. 28</figref> shows a microfluidic capacitor that may be manufactured on a microfluidic chip;</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. 29A</figref> shows a cross section view of layer <b>608</b>;</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. 29B</figref> shows a cross section view of layer <b>607</b>;</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. 30</figref> shows the schematic for an embodiment of a vacuum pressure source;</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. 31</figref> shows a unidirectional valve;</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. 32</figref> shows an example of a microfluidic vacuum reservoir;</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIG. 33</figref> is a flip-flop that includes cross-coupled microfluidic NOR gates;</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIG. 34</figref> shows a microfluidic switching regulator;</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIG. 35A</figref> shows a symbol for an pressure step source;</p>
+<p id="p-0065" num="0064"><figref idref="DRAWINGS">FIG. 35B</figref> shows a top graph of the current I through the sodium chloride solution in the channel and a bottom graph of the increase in pressure P at output terminal OUT;</p>
+<p id="p-0066" num="0065"><figref idref="DRAWINGS">FIG. 36A</figref> shows a first embodiment of a microfluidic S-R flip-flop that is coupled to a pair of pressure step sources;</p>
+<p id="p-0067" num="0066"><figref idref="DRAWINGS">FIG. 36B</figref> shows pressure graphs for <figref idref="DRAWINGS">FIG. 36A</figref>;</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. 37A</figref> shows a further embodiment of the present invention that provides a way to rapidly open and close a valve or a switch using a single step pressure source with appropriate delay logic;</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIG. 37B</figref> shows pressure graphs for <figref idref="DRAWINGS">FIG. 37A</figref>;</p>
+<p id="p-0070" num="0069"><figref idref="DRAWINGS">FIG. 38</figref> shows a device for sections of the microfluidic logic which operate synchronously;</p>
+<p id="p-0071" num="0070"><figref idref="DRAWINGS">FIGS. 39A-39D</figref> show another microfluidic switch of the present invention; and</p>
+<p id="p-0072" num="0071"><figref idref="DRAWINGS">FIGS. 40-41</figref> are other inverted pyramid pressure amplification switches.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0073" num="0072">One embodiment of the present invention includes microfabricated fluidic (i.e., microfluidic) devices that amplify pressure. Pressure may be increased in a first chamber to provide an amplified pressure increase in a second chamber. Microfluidic devices that amplify pressure are referred to as pressure amplifiers or pressure multipliers. In the present application, the term &#x201c;fluid&#x201d; may refer to gas or a liquid.</p>
+<p id="p-0074" num="0073">An example of a macroscopic pressure amplification system <b>10</b> is shown in <figref idref="DRAWINGS">FIG. 1</figref>. System <b>10</b> includes two hollow bladders <b>12</b> and <b>13</b> which have flexible walls. Bladders <b>12</b> and <b>13</b> are both inside hollow chamber <b>11</b> which comprises rigid, immovable walls. Chamber <b>11</b> is filled with a fluid at ambient pressure P<sub>0</sub>. Bladder <b>12</b> is filled with a fluid at a first pressure P<sub>1</sub>, and bladder <b>13</b> is filled with a fluid at a second pressure P<sub>2</sub>. Bladders <b>12</b> and <b>13</b> are separated by a rigid material <b>14</b>. When pressure P<sub>1 </sub>in bladder <b>12</b> is increased sufficiently above pressure P<sub>0</sub>, bladder <b>12</b> expands against material <b>14</b>, causing rigid material <b>14</b> to be pushed against the walls of bladder <b>13</b>. The volume of bladder <b>13</b> decreases, and P<sub>2 </sub>increases. The pressure P<sub>2 </sub>in bladder <b>13</b> increases above the final value of pressure P<sub>1</sub>, according to the following simplified equation:</p>
+<p id="p-0075" num="0074">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+<mtable>
+  <mtr>
+    <mtd>
+      <mrow>
+        <mfrac>
+          <msub>
+            <mi>P</mi>
+            <mn>2</mn>
+          </msub>
+          <msub>
+            <mi>P</mi>
+            <mn>1</mn>
+          </msub>
+        </mfrac>
+        <mo>=</mo>
+        <mfrac>
+          <msub>
+            <mi>A</mi>
+            <mn>1</mn>
+          </msub>
+          <msub>
+            <mi>A</mi>
+            <mn>2</mn>
+          </msub>
+        </mfrac>
+      </mrow>
+    </mtd>
+    <mtd>
+      <mrow>
+        <mo>(</mo>
+        <mn>1</mn>
+        <mo>)</mo>
+      </mrow>
+    </mtd>
+  </mtr>
+</mtable>
+</math>
+</maths>
+<br/>
+where A<sub>1 </sub>is the surface area of bladder <b>12</b> that contacts rigid material <b>14</b> when bladder <b>12</b> expands against it, and A<sub>2 </sub>is the surface area of bladder <b>13</b> that contacts rigid material <b>14</b> when rigid material <b>14</b> presses against it.
+</p>
+<p id="p-0076" num="0075">Bladder <b>13</b> must exert a force against rigid material <b>14</b> that is equal to the force exerted by bladder <b>12</b> against rigid material <b>14</b> to achieve a steady state. Because A<sub>1 </sub>is greater than A<sub>2 </sub>as can be seen in <figref idref="DRAWINGS">FIG. 1</figref>, pressure P<sub>2 </sub>increases above P<sub>1 </sub>when rigid material <b>14</b> expands against bladder <b>13</b> according to equation (1) to achieve a steady state. System <b>10</b> is a pressure amplification system that amplifies pressure P<sub>2 </sub>with respect to pressure P<sub>1</sub>.</p>
+<p id="p-0077" num="0076">Pressure changes in pressure P<sub>1 </sub>and P<sub>2 </sub>with respect to <figref idref="DRAWINGS">FIG. 1</figref> may be in the range of 0-1000 psi. Pressure changes in any of the embodiments of the present invention may also be in the range of 0-1000 psi. Specific examples include 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, and 1000 psi.</p>
+<p id="p-0078" num="0077">Another example of a macroscopic pressure amplification system <b>20</b> is shown in <figref idref="DRAWINGS">FIG. 2</figref>. System <b>20</b> includes four hollow bladders <b>22</b>, <b>24</b>A, <b>24</b>B, and <b>26</b> which each have flexible walls. Bladders <b>22</b> and <b>24</b>A are inside hollow chamber <b>21</b>A which comprises rigid, immovable walls. Bladders <b>24</b>B and <b>26</b> are inside hollow chamber <b>21</b>B which also comprises rigid, immovable walls. Chambers <b>21</b>A-<b>21</b>B is filled with fluid at ambient pressure P<sub>0</sub>. Bladder <b>22</b> is filled with a fluid at a first pressure P<sub>1</sub>, bladders <b>24</b>A and <b>24</b>B are filled with a at a second pressure P<sub>2</sub>, and bladder <b>26</b> is filled with a fluid at a third pressure P<sub>3</sub>. Bladders <b>22</b> and <b>24</b>A are separated by a rigid material <b>23</b>, and bladders <b>24</b>B and <b>26</b> are separated by rigid material <b>25</b>.</p>
+<p id="p-0079" num="0078">When pressure P<sub>1 </sub>in bladder <b>22</b> is increased above pressure P<sub>0</sub>, the pressure P<sub>2 </sub>in bladder <b>24</b>A increases above the final value of pressure P<sub>1 </sub>The pressure P<sub>2 </sub>in bladder <b>24</b>B is the same as the pressure P<sub>2 </sub>in bladder <b>24</b>A, because bladders <b>24</b>A and <b>24</b>B are coupled together through channel <b>27</b> and both bladders are filled with a fluid. Therefore, pressure P<sub>2 </sub>in bladder <b>24</b>B increases by the same amount as pressure P<sub>2 </sub>in bladder <b>24</b>A. When pressure P<sub>2 </sub>in bladders <b>24</b>A and <b>24</b>B increases, pressure P<sub>3 </sub>in bladder <b>26</b> increases above the final value of pressure P<sub>2</sub>. Because the surface area of bladder <b>24</b>B that contacts rigid material <b>25</b> when bladder <b>24</b>B expands against it is greater than the surface area of bladder <b>26</b> that contacts rigid material <b>25</b> when rigid material <b>25</b> presses against it, as can be seen in <figref idref="DRAWINGS">FIG. 2</figref>, pressure P<sub>3 </sub>increases above P<sub>2 </sub>when rigid material <b>25</b> expands against bladder <b>26</b> to achieve a steady state. System <b>20</b> is a pressure amplification system that amplifies pressure P<sub>2 </sub>with respect to pressure P<sub>1 </sub>according to equation (1), and amplifies P<sub>3 </sub>with respect to P<sub>2 </sub>according to equation (1).</p>
+<p id="p-0080" num="0079">A first embodiment of a microfabricated fluidic pressure amplifier (or pressure multiplier) of the present invention is shown in <figref idref="DRAWINGS">FIGS. 3</figref>, <b>4</b>A and <b>4</b>B. Pressure multiplier <b>30</b> shown in <figref idref="DRAWINGS">FIG. 3</figref> is a cross sectional view of a microfabricated fluidic pressure amplifier that contains pre-cured elastomer layers <b>31</b> and <b>32</b> that are formed on top of rigid planar substrate <b>33</b> (e.g., glass). There are many, many types of elastomeric polymers. Common elastomeric polymers that may be used to form elastomer layers <b>31</b>-<b>32</b> and other elastomer layers of the present invention include polyisoprene, polybutadiene, polychloroprene, polyisobutylene, poly(styrene-butadiene-styrene), the polyurethanes, and silicones.</p>
+<p id="p-0081" num="0080">Layer <b>31</b> has chamber <b>34</b>, and layer <b>32</b> has chambers <b>37</b>-<b>38</b>. Layers <b>31</b>-<b>32</b> and other elastomer layers used to form microfluidic devices of the present invention may be formed and hermetically sealed together using methods discussed in further detail in Microfabricated Elastomeric Valve and Pump Systems, PCT Patent Application Number PCT/US00/17740 filed Jun. 27, 2000 to Unger et al., which designates the United States and is hereby incorporated by reference herein in its entirety.</p>
+<p id="p-0082" num="0081">Layers <b>31</b>-<b>32</b> may be, for example, 1-1000 microns thick. Specific examples include 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, and 1000 microns.</p>
+<p id="p-0083" num="0082">Chamber <b>34</b> may be, for example, 2.5-5000 microns wide. Specific examples include 2.5, 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1200, 1400, 1600, 2000, 2200, 2400, 2600, 2800, 3000, 3200, 3400, 3600, 3800, 4000, 4200, 4400, 4600, 4800, and 5000 microns.</p>
+<p id="p-0084" num="0083">Channel <b>38</b> may be, for example, 0.1-250 microns wide. Specific examples include 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 120, 140, 160, 180, 200, 210, 220, and 225 microns.</p>
+<p id="p-0085" num="0084">Layer <b>35</b> may be, for example, 1-100 microns thick. Specific examples include 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40, 50, 60, 70, 80, 90, and 100 microns.</p>
+<p id="p-0086" num="0085">In a preferred aspect, the present invention uses a multilayer soft lithography process to build integrated (i.e.: monolithic) microfabricated elastomeric structures. Advantages of fabricating the present structures by binding together layers of soft elastomeric materials include the fact that the resulting devices are reduced by more than two orders of magnitude in size as compared to silicon-based devices. Further advantages of rapid prototyping, ease of fabrication, and biocompatability are also achieved.</p>
+<p id="p-0087" num="0086">In preferred aspects of the invention, separate elastomeric layers such as layers <b>31</b>-<b>32</b> are fabricated on top of micromachined molds such that recesses are formed in each of the various elastomeric layers. By bonding or sealing these various elastomeric layers together, the recesses extending along the various elastomeric layers form flow channels and control lines through the resulting monolithic, integral elastomeric structure. In various aspects of the invention, these flow channels and control lines which are formed in the elastomeric structure can be actuated to function as micro-pumps and micro-valves, as will be explained.</p>
+<p id="p-0088" num="0087">A top view of layer <b>31</b> is shown in <figref idref="DRAWINGS">FIG. 4A</figref>. Chamber <b>34</b> has inlet port <b>41</b>. Layer <b>35</b> comprises a rigid material that can be deposited on elastomer layer <b>32</b>. Rigid layer <b>35</b> and other rigid layers used in microfluidic pressure multipliers and switches of the present invention may comprise material such as polymethomethacrylate (PMMA). Layer <b>31</b> is then placed on top of layer <b>32</b> so that layer <b>35</b> is inside of chamber <b>34</b> as shown in <figref idref="DRAWINGS">FIGS. 3 and 4A</figref>. A top view of layer <b>32</b> is shown in <figref idref="DRAWINGS">FIG. 4B</figref>. Chamber <b>37</b> of layer <b>32</b> comprises two branches that surround most of chamber <b>38</b>. Chamber <b>37</b> has inlet port <b>43</b>, and chamber <b>38</b> has inlet port <b>42</b>.</p>
+<p id="p-0089" num="0088">Chamber <b>37</b> is filled with fluid at ambient pressure P<sub>0 </sub>through inlet port <b>43</b>. Chamber <b>34</b> is filled with a fluid at pressure P<sub>1 </sub>through port <b>41</b>, and chamber <b>38</b> is filled with a fluid at pressure P<sub>2 </sub>through port <b>42</b>. When pressure P<sub>1 </sub>in chamber <b>34</b> is increased above ambient pressure P<sub>0</sub>, rigid layer <b>35</b> expands downward against chambers <b>37</b> and <b>38</b> causing pressure P<sub>2 </sub>in chamber <b>38</b> to increase above P<sub>1</sub>. The device of FIGS. <b>3</b> and <b>4</b>A-<b>4</b>B is a pressure multiplier like the devices of <figref idref="DRAWINGS">FIGS. 1 and 2</figref>. Pressure P<sub>2 </sub>is amplified to a value greater than the final value of P<sub>1 </sub>when P<sub>1 </sub>is increased above P<sub>0</sub>, according to the following equation:
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>P</i><sub>2</sub><i>=aP</i><sub>1</sub><i>&#x2212;bP</i><sub>0</sub><i>&#x2212;c</i>&#x2003;&#x2003;(2)<?in-line-formulae description="In-line Formulae" end="tail"?>
+<br/>
+Referring to <figref idref="DRAWINGS">FIGS. 3</figref>, and <b>4</b>A-<b>4</b>B, a is the ratio of the horizontal surface area of the floor of chamber <b>34</b> that overlaps rigid layer <b>35</b> to the horizontal surface area of chamber <b>38</b> that is under layer <b>35</b>, and b is the ratio of the horizontal surface area of chamber <b>37</b> that is directly below rigid layer <b>35</b> to the horizontal surface area of chamber <b>38</b> that is under layer <b>35</b>. Constant c is shown by the following equation:
+</p>
+<p id="p-0090" num="0089">
+<maths id="MATH-US-00002" num="00002">
+<math overflow="scroll">
+<mtable>
+  <mtr>
+    <mtd>
+      <mrow>
+        <mi>c</mi>
+        <mo>=</mo>
+        <mrow>
+          <mi>M</mi>
+          <mo>&#xb7;</mo>
+          <mfrac>
+            <mrow>
+              <mi>&#x394;</mi>
+              <mo>&#x2062;</mo>
+              <mstyle>
+                <mspace width="0.3em" height="0.3ex"/>
+              </mstyle>
+              <mo>&#x2062;</mo>
+              <mi>H</mi>
+            </mrow>
+            <mi>H</mi>
+          </mfrac>
+          <mo>&#xb7;</mo>
+          <mfrac>
+            <msub>
+              <mi>A</mi>
+              <mn>32</mn>
+            </msub>
+            <msub>
+              <mi>A</mi>
+              <mn>38</mn>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mrow>
+    </mtd>
+    <mtd>
+      <mrow>
+        <mo>(</mo>
+        <mn>3</mn>
+        <mo>)</mo>
+      </mrow>
+    </mtd>
+  </mtr>
+</mtable>
+</math>
+</maths>
+<br/>
+where M is the bulk modulus of the elastomer layer, H is the vertical height of chamber <b>38</b> (<figref idref="DRAWINGS">FIG. 3</figref>) when P<sub>1 </sub>is at ambient pressure, &#x394;H is change in the vertical height of chamber <b>38</b> when P<sub>1 </sub>is increased above ambient pressure and layer <b>35</b> presses down on chamber <b>38</b>, A<sub>32 </sub>is the horizontal surface area of a cross section of elastomer layer <b>32</b> that is underneath layer <b>35</b> (within the dotted line <b>35</b> in <figref idref="DRAWINGS">FIG. 4B</figref>), and A<sub>38 </sub>is the horizontal surface area of chamber <b>38</b> that is under layer <b>35</b>.
+</p>
+<p id="p-0091" num="0090">Chamber <b>37</b> reduces the force with which elastomer material in layer <b>32</b> presses up against rigid material <b>35</b> when material <b>35</b> is forced downward (with respect to <figref idref="DRAWINGS">FIG. 3</figref>), preserving the pressure amplification effect on P<sub>2</sub>. Pressure multiplier <b>30</b> is advantageous, because it can be microfabricated (e.g., less than 1 mm thick). Also, the fluid in input chamber <b>34</b> is isolated from the fluid in output chamber <b>38</b>. This may be an advantage, because the fluids in the input and output chamber of a pressure multiplier may be different types of fluids.</p>
+<p id="p-0092" num="0091"><figref idref="DRAWINGS">FIG. 4C</figref> is a symbol for a pressure multiplier such as pressure multiplier <b>30</b>. In a further embodiment, P<sub>0 </sub>need not be ambient pressure, but may be any pressure level. In this embodiment the pressure amplification system of FIGS. <b>3</b> and <b>4</b>A-<b>4</b>B amplifies the pressure difference between P<sub>1 </sub>and P<sub>0 </sub>according to the gain factor represented in equation (2) to provide pressure P<sub>2 </sub>at the output. Microfluidic pressure multipliers of the present invention may be coupled with other microfluidic devices (that are discussed in further detail below) to build devices such that perform a variety of analog functions such as integration and differentiation using configurations known to those of skill in the semiconductor circuit art.</p>
+<p id="p-0093" num="0092">Microfabricated fluidic devices of the present invention also include devices that act as switches that may be turned ON and OFF. A fluidic switch is &#x201c;open&#x201d; during its ON state allowing fluid flow through the channel between the source and the drain. A fluidic switch is &#x201c;closed&#x201d; during its OFF state preventing fluid flow through the channel between the source and the drain. Microfluidic switches are opened and closed by changing the pressure in the gate of the switch. The pressure in the gate of the switch does not need to be increased above or reduced below the pressure in the drain-to-source channel. This provides an advantage, because microfluidic switches of the present invention can be coupled together to control each other on a single chip to perform complex logic, mathematical, multiplexing, and latching functions.</p>
+<p id="p-0094" num="0093">A first embodiment of a microfabricated fluidic switch is shown in <figref idref="DRAWINGS">FIGS. 5A-5B</figref> and <b>6</b>. <figref idref="DRAWINGS">FIG. 6</figref> is a top down view of fluidic switch <b>50</b>, <figref idref="DRAWINGS">FIG. 5A</figref> is a cross sectional view of fluidic switch <b>50</b> along channel <b>54</b>, and <figref idref="DRAWINGS">FIG. 5B</figref> is a cross sectional view of fluidic switch <b>50</b> along channel <b>57</b>. Fluidic switch <b>50</b> includes substrate <b>53</b>, elastomer layer <b>52</b>, and elastomer layer <b>51</b> as shown in <figref idref="DRAWINGS">FIG. 5A</figref>. Elastomer layer <b>51</b> contains channel <b>54</b>, and elastomer layer <b>52</b> contains channel <b>57</b> and chambers <b>56</b> and <b>58</b>. Channel <b>54</b> is coupled to the gate of the switch. Channel <b>57</b> is coupled between the source and the drain of the switch. Layers <b>51</b>-<b>53</b> may be formed and hermetically sealed using methods described in further detail in PCT Patent Application Number PCT/US00/17740 mentioned above.</p>
+<p id="p-0095" num="0094">Layer <b>55</b> comprises a rigid material that is deposited on top of layer <b>52</b>. Layer <b>51</b> may then be placed on top of layer <b>52</b> so that layer <b>55</b> is inside channel <b>54</b>. Layer <b>55</b> is deposited on layer <b>52</b> so that it overlaps channel <b>57</b> and portions of chambers <b>56</b> and <b>58</b> as shown in <figref idref="DRAWINGS">FIG. 6</figref>. A fluid is passed through channel <b>54</b> at pressure P<sub>1</sub>. A fluid is passed through channel <b>57</b> at pressure P<sub>2</sub>. Channel <b>54</b> is perpendicular to channel <b>57</b>. Chambers <b>56</b> and <b>58</b> contain fluid at ambient pressure P<sub>0</sub>.</p>
+<p id="p-0096" num="0095">Layers <b>51</b>-<b>52</b> may be, for example, 1-1000 microns thick. Specific examples include 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, and 1000 microns.</p>
+<p id="p-0097" num="0096">Chamber <b>54</b> may be, for example, 2.5-5000 microns wide. Specific examples include 2.5, 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1200, 1400, 1600, 2000, 2200, 2400, 2600, 2800, 3000, 3200, 3400, 3600, 3800, 4000, 4200, 4400, 4600, 4800, and 5000 microns.</p>
+<p id="p-0098" num="0097">Channel <b>57</b> may be, for example, 0.1 micron-1 mm wide. Specific examples include 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 120, 140, 160, 180, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, and 1000 microns.</p>
+<p id="p-0099" num="0098">Layer <b>55</b> may be, for example, 1-100 microns thick. Specific examples include 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40, 50, 60, 70, 80, 90, and 100 microns.</p>
+<p id="p-0100" num="0099">When the pressure P<sub>1 </sub>in channel <b>54</b> is increased above P<sub>0</sub>, the radius of channel <b>54</b> expands and rigid layer <b>55</b> moves downwardly (with respect to <figref idref="DRAWINGS">FIGS. 5A-5B</figref>) applying pressure against channel <b>57</b> and chambers <b>56</b> and <b>58</b>. As P<sub>1 </sub>increases, layer <b>55</b> presses down on the portion of channel <b>57</b> beneath layer <b>55</b> pinching channel <b>57</b> closed. Channel <b>57</b> is concave in shape making it more collapsible so that channel <b>57</b> makes a complete seal to completely block the flow of fluid there through when P<sub>1 </sub>is increased to a predetermined level. Therefore, the device of <figref idref="DRAWINGS">FIGS. 5A-5B</figref> and <b>6</b> acts like a switch. The structure of <figref idref="DRAWINGS">FIG. 3</figref> does not act like a switch. Channel <b>38</b> does not completely close when P<sub>1 </sub>increases, because channel <b>38</b> is sealed at one end. Channel <b>57</b> is a flow through channel, because channel <b>38</b> is sealed at one end. Channel <b>57</b> is a flow through channel, while chamber <b>38</b> and channel <b>42</b> do not comprise a flow through channel.</p>
+<p id="p-0101" num="0100">Chambers <b>56</b> and <b>58</b> reduce the upward force that elastomer material in layer <b>52</b> applies to layer <b>55</b> when channel <b>54</b> expands so that channel <b>57</b> closes more quickly and completely. When channel <b>54</b> expands to close channel <b>57</b>, fluid is displaced from chambers <b>56</b> and <b>58</b> beneath channel <b>54</b> into adjacent portions of chambers <b>56</b> and <b>58</b>. Chambers <b>56</b> and <b>58</b> allow channel <b>57</b> to be closed without having to increase the pressure in gate channel <b>54</b> above the pressure in channel <b>57</b>. Therefore, switch <b>50</b> may be coupled with other microfluidic switches to perform logic functions and other functions, because switch <b>50</b> does not require a pressure drop from the gate channel to the source-to-drain channel.</p>
+<p id="p-0102" num="0101">The microfabricated fluidic device of <figref idref="DRAWINGS">FIGS. 5A-5B</figref> and <figref idref="DRAWINGS">FIG. 6</figref> functions as a switch that causes channel <b>57</b> to be open or closed. When pressure P<sub>1 </sub>equals P<sub>0</sub>, channel <b>57</b> is open and fluid can flow there through. When pressure P<sub>1 </sub>is increased to a predetermined level in channel <b>54</b>, channel <b>57</b> closes and the flow of fluid through channel <b>57</b> is blocked. Therefore, a fluidic switch is open when fluid is allowed to flow through a specific channel and closed when the flow of fluid through that channel is blocked.</p>
+<p id="p-0103" num="0102">A second embodiment of a microfabricated fluidic switch is shown in <figref idref="DRAWINGS">FIGS. 7A-7E</figref>. <figref idref="DRAWINGS">FIGS. 7A-7D</figref> are cross sectional views of fluidic switch <b>70</b>, and <figref idref="DRAWINGS">FIG. 7E</figref> is a top down view of fluidic switch <b>70</b>. <figref idref="DRAWINGS">FIGS. 7A and 7C</figref> are cross sectional views along channel <b>74</b>, and <figref idref="DRAWINGS">FIGS. 7B and 7D</figref> are cross sectional views along horizontal axis <b>77</b> illustrated in <figref idref="DRAWINGS">FIG. 7E</figref>. Switch <b>70</b> includes substrate <b>73</b>, elastomer layer <b>72</b>, and elastomer layer <b>71</b>. Elastomer layer <b>71</b> contains channel <b>74</b>, and elastomer layer <b>72</b> contains channel <b>78</b> and chambers <b>79</b>A and <b>79</b>B. Channel <b>74</b> is coupled to the gate of the switch. Channel <b>78</b> is coupled between the source and the drain of the switch. Layers <b>71</b>-<b>73</b> may be formed and hermetically sealed using methods described in further detail in PCT Patent Application Number PCT/US00/17740 mentioned above.</p>
+<p id="p-0104" num="0103">Layer <b>75</b> comprises a rigid material (such as PMMA) that is deposited on top of layer <b>72</b>. Layer <b>71</b> can then be placed on top of layer <b>72</b> so that layer <b>75</b> is inside channel <b>74</b>. Layer <b>75</b> is deposited on layer <b>72</b> so that it overlaps channel <b>78</b> and portions of chambers <b>79</b>A-<b>79</b>B. A fluid is passed through channel <b>74</b> at pressure P<sub>1</sub>. A fluid is passed through channel <b>78</b> at pressure P<sub>2</sub>. Channel <b>74</b> is perpendicular to channel <b>78</b>. Chambers <b>79</b>A-<b>79</b>B contain fluid at ambient pressure P<sub>0</sub>.</p>
+<p id="p-0105" num="0104">Layers <b>71</b>-<b>72</b> may be, for example, 1-1000 microns thick. Specific examples include 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, and 1000 microns.</p>
+<p id="p-0106" num="0105">Channel <b>74</b> may be, for example, 2.5-5000 microns wide. Specific examples include 2.5, 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1200, 1400, 1600, 2000, 2200, 2400, 2600, 2800, 3000, 3200, 3400, 3600, 3800, 4000, 4200, 4400, 4600, 4800, and 5000 microns.</p>
+<p id="p-0107" num="0106">Channel <b>78</b> may be, for example, 0.1 micron-1 mm wide. Specific examples include 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 120, 140, 160, 180, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, and 1000 microns.</p>
+<p id="p-0108" num="0107">Layer <b>75</b> may be, for example, 1-100 microns thick. Specific examples include 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40, 50, 60, 70, 80, 90, and 100 microns.</p>
+<p id="p-0109" num="0108">When the pressure P<sub>1 </sub>in channel <b>74</b> is increased above P<sub>0</sub>, the radius of channel <b>74</b> expands and rigid layer <b>75</b> moves downwardly as shown in <figref idref="DRAWINGS">FIG. 7C</figref> applying pressure against channel <b>78</b> and chambers <b>79</b>A-<b>79</b>B. As P<sub>1 </sub>increases, layer <b>75</b> presses down on the portion of channel <b>78</b> beneath layer <b>75</b> pinching channel <b>78</b> closed. Channel <b>78</b> is concave in shape making it more collapsible so that channel <b>78</b> completely closes when P<sub>1 </sub>is increased to a predetermined level.</p>
+<p id="p-0110" num="0109">Chambers <b>79</b>A-<b>79</b>B reduce the upward force that elastomer material in layer <b>72</b> applies to layer <b>75</b> when channel <b>74</b> expands so that channel <b>78</b> closes more quickly and completely. When channel <b>74</b> expands to close channel <b>78</b>, fluid is displaced from chambers <b>79</b>A-<b>79</b>B beneath channel <b>74</b> into adjacent portions of chambers <b>79</b>A-<b>79</b>B. Chambers <b>79</b>A-<b>79</b>B provide less resistance to downward pressure on channel <b>78</b> than chambers <b>56</b> and <b>58</b>, because chambers <b>79</b>A-<b>79</b>B are wider than chambers <b>56</b> and <b>58</b>.</p>
+<p id="p-0111" num="0110">Chambers <b>79</b>A-<b>79</b>B allow channel <b>78</b> to be closed without having to increase the pressure in gate channel <b>74</b> above the pressure in channel <b>78</b>. Therefore, switch <b>70</b> may be coupled with other microfluidic switches to perform logic functions and other functions, because switch <b>70</b> does not require a pressure drop from the gate channel to the source-to-drain channel.</p>
+<p id="p-0112" num="0111">When channel <b>78</b> is closed by increased pressure in channel <b>74</b>, gas is displaced in chambers <b>79</b>A-<b>79</b>B beneath channel <b>74</b> (shown in <figref idref="DRAWINGS">FIG. 7C</figref>) causing the pressure in chambers <b>79</b>A-<b>79</b>B to increase. The increased pressure pushes up on air chambers <b>76</b>A-<b>76</b>B as shown by the arrows in <figref idref="DRAWINGS">FIG. 7D</figref>. Air chambers <b>76</b>A-<b>76</b>B are located over chambers <b>79</b>A-<b>79</b>B, respectively, adjacent to channel <b>74</b> in <figref idref="DRAWINGS">FIG. 7E</figref>. Chambers <b>76</b>A-<b>76</b>B contain fluid initially at ambient pressure. Chambers <b>76</b>A-<b>76</b>B allow the volume of chambers <b>79</b>A-<b>79</b>B to increase when air is displaced in chambers <b>79</b>A-<b>79</b>B so that the increase in pressure in chambers <b>79</b>A-<b>79</b>B is minimized. Channel <b>78</b> closes with less of a pressure increase in channel <b>74</b>, because the pressure in chambers <b>79</b>A-<b>79</b>B increases less.</p>
+<p id="p-0113" num="0112">In a further embodiment of the present invention, the structure shown in <figref idref="DRAWINGS">FIGS. 7A-7E</figref> may be configured as a vacuum actuated normally open microfluidic switch. In the present application, a &#x201c;vacuum&#x201d; may refer to zero pressure or any reduction in pressure from ambient. In this embodiment, chambers <b>79</b>A-<b>79</b>B are coupled to the gate of the switch, channel <b>74</b> is filled with fluid at ambient pressure, and chambers <b>76</b>A-<b>76</b>B are filled with fluid at ambient pressure. Channel <b>78</b> is coupled between the source and the drain of the switch. When the pressure in gate chambers <b>79</b>A-<b>79</b>B is at ambient, drain-to-source channel <b>78</b> is open as shown in <figref idref="DRAWINGS">FIG. 7A</figref>. When the pressure in gate chambers <b>79</b>A-<b>79</b>B is reduced (e.g., to a vacuum), rigid layer <b>75</b> is pulled down, closing source-to-drain channel <b>78</b> as shown in <figref idref="DRAWINGS">FIG. 7C</figref>.</p>
+<p id="p-0114" num="0113">A third embodiment of a microfabricated fluidic switch is shown in <figref idref="DRAWINGS">FIG. 8</figref>. Fluidic switch <b>80</b> comprises substrate <b>83</b> and elastomer layers <b>81</b> and <b>82</b>. <figref idref="DRAWINGS">FIG. 8</figref> is a cross sectional view of switch <b>80</b> across channel <b>84</b>. Channel <b>84</b> is coupled to the gate of the switch. Layer <b>82</b> comprises channel <b>88</b> and chambers <b>89</b>A and <b>89</b>B. Channel <b>88</b> is coupled between the drain and the source of the switch. Rigid material <b>85</b> is deposited inside region <b>86</b> and on top of layer <b>82</b> as shown in <figref idref="DRAWINGS">FIG. 8</figref>.</p>
+<p id="p-0115" num="0114">When pressure P<sub>1 </sub>in channel <b>84</b> increases, rigid layer <b>85</b> moves downwardly, closing channel <b>88</b>. The extension of rigid layer <b>85</b> into region <b>86</b> facilitates the closing of channel <b>88</b> by more effectively concentrating the force applied by layer <b>85</b> directly over drain-to-source channel <b>88</b>. Chambers <b>89</b>A-<b>89</b>B allow channel <b>88</b> to be closed without having to increase the pressure in gate channel <b>84</b> above the pressure in channel <b>88</b>. Therefore, switch <b>80</b> may be coupled with other microfluidic switches to perform logic functions and other functions, because switch <b>80</b> does require a pressure drop from the gate channel to the source-to-drain channel.</p>
+<p id="p-0116" num="0115">Layers <b>81</b>-<b>82</b> may be, for example, 1-2000 microns thick. Specific examples include 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 1700, 1800, 1900, and 2000 microns.</p>
+<p id="p-0117" num="0116">Chamber <b>84</b> may be, for example, 2.5-5000 microns wide. Specific examples include 2.5, 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1200, 1400, 1600, 2000, 2200, 2400, 2600, 2800, 3000, 3200, 3400, 3600, 3800, 4000, 4200, 4400, 4600, 4800, and 5000 microns.</p>
+<p id="p-0118" num="0117">Channel <b>88</b> may be, for example, 0.1 micron-1 mm wide. Specific examples include 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 120, 140, 160, 180, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, and 1000 microns.</p>
+<p id="p-0119" num="0118">Layer <b>85</b> may be, for example, 1-2000 microns thick. Specific examples include 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 1700, 1800, 1900, and 2000 microns.</p>
+<p id="p-0120" num="0119">In a further embodiment of the present invention, rigid material 35/55/75 may be eliminated from the structures of <figref idref="DRAWINGS">FIGS. 3-7</figref>, because the elastomer layer itself may be rigid enough to provide leverage. However, the rigid layer increases the Young's modulus to provide a better mechanical advantage.</p>
+<p id="p-0121" num="0120">An embodiment of a microfabricated fluidic switch that is normally closed, but opens when the pressure in the gate is increased is shown in <figref idref="DRAWINGS">FIGS. 9A-9D</figref>. This is called a pressure actuated normally closed switch. The switches of <figref idref="DRAWINGS">FIGS. 5A-8</figref> are pressure actuated normally open switches, in which pressure is increased in the gate to close the switch.</p>
+<p id="p-0122" num="0121"><figref idref="DRAWINGS">FIG. 9A</figref> is a cross sectional view of pressure actuated normally closed switch <b>90</b> which includes elastomer layers <b>101</b>, <b>102</b>, and <b>104</b> and substrate <b>105</b>. <figref idref="DRAWINGS">FIG. 9B</figref> is a top down view of elastomer layer <b>104</b>, and <figref idref="DRAWINGS">FIG. 9C</figref> is a top down view of elastomer layer <b>101</b>. Rigid material is deposited in regions <b>97</b> and <b>98</b> on layer <b>104</b>, and layer <b>102</b> is placed on top of regions <b>97</b> and <b>98</b>. Empty space exists between layers <b>102</b> and <b>104</b> adjacent to regions <b>97</b>-<b>98</b>. Fluid is introduced into chambers <b>93</b>, <b>94</b>, and <b>96</b> at ambient pressure P<sub>0</sub>.</p>
+<p id="p-0123" num="0122">Chambers <b>95</b>A and <b>95</b>B are coupled together and to the gate of the switch through openings. Fluid is introduced into chambers <b>95</b>A-<b>95</b>B at pressure P<sub>1</sub>. Layer <b>104</b> has elastomer bar region <b>99</b> which is not sealed to substrate <b>105</b>. Bar region <b>99</b> is located between source chamber <b>91</b> and drain chamber <b>92</b> as shown in <figref idref="DRAWINGS">FIG. 9B</figref>. Rigid regions <b>97</b> and <b>98</b> lie above portions of bar region <b>99</b> and chambers <b>93</b> and <b>94</b>. Rigid regions <b>97</b> and <b>98</b> also lie below chambers <b>95</b>A-<b>95</b>B and <b>96</b>.</p>
+<p id="p-0124" num="0123">Layers <b>101</b> and <b>104</b> may be, for example, 1-1000 microns thick. Specific examples include 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, and 1000 microns.</p>
+<p id="p-0125" num="0124">Chambers <b>93</b>, <b>94</b>, <b>95</b>A-<b>95</b>B, and <b>96</b> may be, for example, 2.5-5000 microns wide. Specific examples include 2.5, 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1200, 1400, 1600, 2000, 2200, 2400, 2600, 2800, 3000, 3200, 3400, 3600, 3800, 4000, 4200, 4400, 4600, 4800, and 5000 microns.</p>
+<p id="p-0126" num="0125">Layers <b>97</b>-<b>98</b> may be, for example, 1-100 microns thick. Specific examples include 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40, 50, 60, 70, 80, 90, and 100 microns.</p>
+<p id="p-0127" num="0126">When pressure P<sub>1 </sub>in chambers <b>95</b>A-<b>95</b>B equals pressure P<sub>0</sub>, bar region <b>99</b> lies flush against substrate <b>105</b> as shown in <figref idref="DRAWINGS">FIG. 9A</figref> and the channel between the source and the drain of switch <b>90</b> is closed. Thus, switch <b>90</b> is normally closed. When pressure P<sub>1 </sub>is increased above P<sub>0, </sub>chambers <b>95</b>A-<b>95</b>B expand, pushing layers <b>102</b> and <b>104</b> down into chambers <b>93</b>-<b>94</b> as shown in <figref idref="DRAWINGS">FIG. 9D</figref>. Rigid regions <b>97</b>-<b>98</b> act as levers which are pushed upward into chamber <b>96</b> along with adjacent portions of layers <b>102</b> and <b>104</b>.</p>
+<p id="p-0128" num="0127">Bar region <b>99</b> is pulled up with layer <b>104</b>, causing chamber <b>108</b> to open underneath bar region <b>99</b>. Chamber <b>108</b> is an opening that connects source chamber <b>91</b> to drain chamber <b>92</b>. Thus, the channel between the drain and the source of switch <b>90</b> opens when P<sub>1 </sub>is increased, and fluid may flow there between. Thus, switch <b>90</b> opens when pressure P<sub>1 </sub>in chambers <b>95</b>A-<b>95</b>B is increased to a predetermined value sufficient to lift up region <b>99</b>.</p>
+<p id="p-0129" num="0128">Chambers <b>93</b>, <b>94</b>, and <b>96</b> allow channel <b>108</b> to be opened without having to increase the pressure in gate channel <b>95</b>A/B above the pressure in channel drain chamber <b>92</b> and source chamber <b>91</b>. Therefore, switch <b>90</b> may be coupled with other microfluidic switches to perform logic functions and other functions, because switch <b>90</b> does not require a pressure drop from the gate channel to the source-to-drain channel.</p>
+<p id="p-0130" num="0129">In a further embodiment of the present invention, the structures shown in <figref idref="DRAWINGS">FIGS. 9A-9D</figref> may be configured as vacuum actuated normally closed microfluidic switch. Chambers <b>93</b>, <b>94</b>, and <b>96</b> are coupled to the gate of the switch. Fluid in chambers <b>95</b>A-<b>95</b>B is at ambient pressure. When the fluid in chambers <b>93</b>, <b>94</b> and <b>96</b> are at ambient pressure, the switch is closed as shown in <figref idref="DRAWINGS">FIG. 9A</figref>. When the pressure of the fluid in chambers <b>93</b>, <b>94</b>, and <b>96</b> is reduced below ambient (e.g., to a vacuum), layers <b>97</b>-<b>98</b> act as levers to pull up region <b>99</b>, opening channel <b>108</b> between drain chamber <b>92</b> and source chamber <b>91</b> as shown in <figref idref="DRAWINGS">FIG. 9D</figref>.</p>
+<p id="p-0131" num="0130"><figref idref="DRAWINGS">FIG. 10</figref> illustrates a microfabricated fluidic switch comprising a pressure multiplier and a valve. <figref idref="DRAWINGS">FIG. 10</figref> illustrates that a microfluidic switch may be formed by coupling a pressure multiplier to the control channel of a microfluidic valve. Pressure multiplier <b>122</b> may comprise the pressure multiplier of FIGS. <b>3</b> and <b>4</b>A-<b>4</b>B. Pressure multiplier <b>122</b> is coupled to valve <b>120</b> which overlies drain-to-source channel <b>121</b>. When pressure is increased at the gate in <figref idref="DRAWINGS">FIG. 10</figref>, the gate pressure is amplified by multiplier <b>122</b> and applied to valve <b>120</b>.</p>
+<p id="p-0132" num="0131">Valve <b>120</b> presses down on channel <b>121</b> to completely close channel <b>121</b>, so that fluid does not flow between the source and the drain. If desired, valve <b>120</b> and channel <b>121</b> may comprise previously known fluidic systems. Pressure multiplier <b>122</b> provides enough pressure in valve <b>120</b> so that channel <b>121</b> is opened and closed as a switch. Pressure multiplier <b>122</b> allows the source-to-drain channel to be opened and closed without increasing the pressure at the gate above the pressure in the source-to-drain channel. This allows switches formed as shown in <figref idref="DRAWINGS">FIG. 10</figref> to be coupled together to form logic functions and complex other functions, because these switches do not require a pressure drop from the gate channel to the source-to-drain channel.</p>
+<p id="p-0133" num="0132">Symbols representing microfabricated fluidic devices are shown in <figref idref="DRAWINGS">FIGS. 11A-11K</figref>. The symbol of <figref idref="DRAWINGS">FIG. 11A</figref> represents a low flow resistance channel. The symbol of <figref idref="DRAWINGS">FIG. 11B</figref> represents a high flow resistance such as a long or a constricted channel. A fluidic resistor acts similar to an electrical resistor. A fluidic resistor exists when there is a high pressure difference between two terminals and a low flow between them. The symbol of <figref idref="DRAWINGS">FIG. 11C</figref> represents a channel terminal. The symbol of <figref idref="DRAWINGS">FIG. 11D</figref> represents a high pressure source. The symbol of <figref idref="DRAWINGS">FIG. 11E</figref> represents an ambient exhaust terminal. The symbol of <figref idref="DRAWINGS">FIG. 11F</figref> represents a node where channels connect. The symbol of <figref idref="DRAWINGS">FIG. 11G</figref> represents two channels that cross but do not connect.</p>
+<p id="p-0134" num="0133">The symbol of <figref idref="DRAWINGS">FIG. 11H</figref> represents a pressure actuated normally open switch in which the pressure in the gate chamber is increased above ambient pressure to a high pressure in order to close the switch. The symbol of <figref idref="DRAWINGS">FIG. 11I</figref> represents a vacuum actuated normally closed switch in which the pressure in the gate chamber is reduced from ambient pressure to a vacuum to open the switch. The symbol of <figref idref="DRAWINGS">FIG. 11J</figref> represents a pressure actuated normally closed switch in which the pressure in the gate chamber is increased from ambient pressure to a high pressure to open the switch (such as switch <b>90</b>). The symbol of <figref idref="DRAWINGS">FIG. 11K</figref> represents a vacuum actuated normally open switch in which the pressure in the gate chamber is reduced from ambient pressure to a vacuum to close the switch.</p>
+<p id="p-0135" num="0134">Microfabricated fluidic devices of the present invention may be connected together to form logic gates that perform logic functions and Boolean algebra. Previously known microfluidic chips often perform logic functions off-chip using electrical circuitry and then rout the output signal onto the microfluidic chip through macroscopic control lines which are cumbersome and take up a lot of space. Performing logic functions on chip using microfluidic logic gates can greatly reduce the number control lines routed onto the chip which advantageously saves space.</p>
+<p id="p-0136" num="0135">The bistable logic levels for the microfluidic logic gates are high pressure (HIGH) and low pressure (LOW). Each logic gate has a connection to a low pressure source (e.g., ambient pressure), and a connection to a high pressure source (e.g., at higher than ambient pressure). In an alternate embodiment, each logic gate has a connection to ambient pressure and a connection to a vacuum. In this embodiment, HIGH refers to the vacuum and LOW refers to ambient pressure.</p>
+<p id="p-0137" num="0136">All Boolean functions can be constructed entirely from NAND gates or entirely from NOR gates. A NAND gate performs an AND function on a set of inputs and inverts the output. A NOR gate performs an OR function on a set of inputs and inverts the output.</p>
+<p id="p-0138" num="0137">An example of an inverter formed with microfabricated fluidic devices is shown in <figref idref="DRAWINGS">FIG. 12A</figref>. Fluidic inverter <b>150</b> is a logic gate that accepts an input at IN and inverts it to provide an output OUT. OUT is the opposite logic state of IN. For example, if IN is HIGH, OUT is LOW, and if IN is LOW, OUT is HIGH. Inverter <b>150</b> comprises microfluidic resistor <b>151</b> coupled between ambient exhaust and OUT, and pressure actuated normally open microfluidic switch <b>152</b> which is coupled between OUT and a high pressure terminal. Input IN is coupled to the gate of switch <b>152</b>.</p>
+<p id="p-0139" num="0138">When IN is LOW, switch <b>152</b> is open, and fluid is allowed to flow from the high pressure terminal HP through resistor <b>151</b> to the ambient exhaust. The resistance of the channel of switch <b>152</b> is substantially less than the resistance of resistor <b>151</b>. Therefore, OUT rises to the high pressure level at terminal HP. When IN is HIGH (i.e., high pressure), switch <b>152</b> is closed, and the flow of fluid through switch <b>152</b> is impeded. The pressure at OUT diffuses through resistor <b>151</b> to the ambient exhaust terminal, and OUT returns to LOW (i.e., ambient pressure). The symbol for an inverter is shown in <figref idref="DRAWINGS">FIG. 12B</figref>. Of course, other configurations for the construction of an inverter known to those of skill in the semiconductor circuit design art may be used to design a fluidic inverter in which transistors are replaced with fluidic switches.</p>
+<p id="p-0140" num="0139">An example of an OR logic gate formed with microfabricated fluidic devices is shown in <figref idref="DRAWINGS">FIG. 12C</figref>. OR gate <b>170</b> includes microfluidic resistor <b>171</b> coupled between a high pressure terminal and the output OUT. OR gate <b>170</b> also includes pressure actuated normally open microfluidic switches <b>172</b> and <b>173</b> which are coupled in series between OUT and an ambient pressure exhaust terminal. The gate of switch <b>172</b> is coupled to input IN<b>1</b>, and the gate of switch <b>173</b> is coupled to input IN<b>2</b>. When either of inputs IN<b>1</b> or IN<b>2</b> is at high pressure (HIGH), switch <b>172</b> or switch <b>173</b> is closed, and OUT is decoupled from the ambient exhaust terminal. The pressure at OUT rises to a high pressure (HIGH) as fluid flows from the high pressure terminal through resistor <b>171</b> to OUT. When both inputs IN<b>1</b> and IN<b>2</b> are at a low pressure (i.e., ambient pressure), switches <b>172</b> and <b>173</b> are both open and fluid flows from the high pressure terminal to the ambient exhaust terminal. The pressure at OUT decreases to ambient pressure (LOW), because the resistance of resistor <b>171</b> is much greater than the resistance of switches <b>172</b> and <b>173</b>.</p>
+<p id="p-0141" num="0140">Microfluidic OR gates may comprises any number of input terminals greater than one. Each input terminal is coupled to the gate of an additional switch that is coupled in series between OUT and the ambient exhaust terminal with switches <b>172</b> and <b>173</b>. Of course, other configurations for the construction of OR logic gates known to those of skill in the semiconductor circuit design art may be used to design a microfluidic OR gate in which transistors are replaced with microfluidic switches. The symbol for an OR gate is shown in <figref idref="DRAWINGS">FIG. 12D</figref>. The truth table for OR gate <b>170</b> is shown in Table 1:</p>
+<p id="p-0142" num="0141">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="98pt" align="center"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="98pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>IN1</entry>
+<entry>IN2</entry>
+<entry>OUT</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>H</entry>
+<entry>H</entry>
+<entry>H</entry>
+</row>
+<row>
+<entry>H</entry>
+<entry>L</entry>
+<entry>H</entry>
+</row>
+<row>
+<entry>L</entry>
+<entry>H</entry>
+<entry>H</entry>
+</row>
+<row>
+<entry>L</entry>
+<entry>L</entry>
+<entry>L</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0143" num="0142">An example of a NOR logic gate formed with microfabricated fluidic devices is shown in <figref idref="DRAWINGS">FIG. 12E</figref>. NOR gate <b>190</b> is formed by reversing the high pressure and ambient terminals in OR gate <b>170</b>. NOR gate <b>190</b> includes microfluidic resistor <b>191</b> which is coupled between an ambient exhaust terminal and output OUT. NOR gate <b>191</b> also includes pressure actuated normally open microfluidic switches <b>192</b> and <b>193</b> which are coupled together in series between OUT and a high pressure terminal. The gate of switch <b>192</b> is coupled to input IN<b>1</b>, and the gate of switch <b>193</b> is coupled to input IN<b>2</b>.</p>
+<p id="p-0144" num="0143">When either of inputs IN<b>1</b> or IN<b>2</b> is at high pressure (HIGH), switch <b>192</b> or switch <b>193</b> is closed, and OUT is decoupled from the high pressure terminal. Fluid flows from OUT through resistor <b>191</b> to the ambient exhaust terminal, causing the pressure at OUT to be at ambient pressure (LOW). When both inputs IN<b>1</b> and IN<b>2</b> are at low ambient pressure, both of switches <b>192</b> and <b>193</b> are open and fluid flows from the high pressure terminal to the ambient exhaust terminal through resistor <b>191</b>. The pressure at OUT rises to a HIGH level, because the resistance of resistor <b>191</b> is much greater than the resistance of switches <b>192</b> and <b>193</b>.</p>
+<p id="p-0145" num="0144">Microfluidic NOR gates may comprise any number of input terminals greater than one. Each input terminal is coupled to the gate of an additional switch that is coupled in series between OUT and the high pressure terminal HP with switches <b>192</b> and <b>193</b>. Of course, other configurations for the construction of NOR logic gates known to those of skill in the semiconductor circuit design art may be used to design a microfluidic NOR gate in which transistors are replaced with microfluidic switches. The symbol for a two input NOR gate is shown in <figref idref="DRAWINGS">FIG. 12F</figref>. The truth table for a two input NOR gate is shown below in Table 2:</p>
+<p id="p-0146" num="0145">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="98pt" align="center"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="98pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" rowsep="1">TABLE 2</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>IN1</entry>
+<entry>IN2</entry>
+<entry>OUT</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>H</entry>
+<entry>H</entry>
+<entry>L</entry>
+</row>
+<row>
+<entry>H</entry>
+<entry>L</entry>
+<entry>L</entry>
+</row>
+<row>
+<entry>L</entry>
+<entry>H</entry>
+<entry>L</entry>
+</row>
+<row>
+<entry>L</entry>
+<entry>L</entry>
+<entry>H</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0147" num="0146">An example of an AND logic gate formed with microfabricated fluidic devices is shown in <figref idref="DRAWINGS">FIG. 12G</figref>. AND gate <b>210</b> includes microfluidic resistor <b>211</b> coupled between a high pressure terminal HP and output terminal OUT. AND gate <b>210</b> also includes pressure actuated normally open microfluidic switches <b>212</b> and <b>213</b> that are coupled in parallel between OUT and an ambient exhaust terminal. The gate of switch <b>212</b> is coupled to input terminal IN<b>1</b>, and the gate of switch <b>213</b> is coupled to input terminal IN<b>2</b>.</p>
+<p id="p-0148" num="0147">When either of input terminals IN<b>1</b> or IN<b>2</b> is at a low ambient pressure (LOW), one of switches <b>212</b> or <b>213</b> is open, and fluid flows from high pressure terminal HP to the ambient exhaust terminal through the open switch(es) and resistor <b>211</b>. The pressure at OUT is LOW at ambient pressure, because the resistance of resistor <b>211</b> is much greater than the resistance of switches <b>212</b> and <b>213</b>. When both of input terminals IN<b>1</b> and IN<b>2</b> are at high pressure (HIGH), both of switches <b>212</b> and <b>213</b> are closed blocking the flow of fluid from OUT to the ambient exhaust. Fluid now flows only from the high pressure terminal HP to OUT through resistor <b>211</b>, causing the pressure at OUT increases to a high pressure (HIGH).</p>
+<p id="p-0149" num="0148">A microfluidic AND gate may comprises any number of inputs greater than one. Each input terminal is coupled to the gate of a normally open switch coupled in parallel with switches <b>212</b> and <b>213</b> between OUT and the ambient exhaust terminal. Of course, other configurations for the construction of AND logic gates known to those of skill in the semiconductor circuit design art may be used to design a microfluidic AND gate in which transistors are replaced with microfluidic switches. The symbol for a two input AND gate is shown in <figref idref="DRAWINGS">FIG. 12H</figref>. The truth table for a two input AND gate is shown in Table 3 below:</p>
+<p id="p-0150" num="0149">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="98pt" align="center"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="98pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" rowsep="1">TABLE 3</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>IN1</entry>
+<entry>IN2</entry>
+<entry>OUT</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>H</entry>
+<entry>H</entry>
+<entry>H</entry>
+</row>
+<row>
+<entry>H</entry>
+<entry>L</entry>
+<entry>L</entry>
+</row>
+<row>
+<entry>L</entry>
+<entry>H</entry>
+<entry>L</entry>
+</row>
+<row>
+<entry>L</entry>
+<entry>L</entry>
+<entry>L</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0151" num="0150">An example of a NAND logic gate formed with microfabricated fluidic switches is shown in <figref idref="DRAWINGS">FIG. 12I</figref>. NAND gate <b>230</b> is formed by reversing the high pressure HP and ambient exhaust terminals of AND gate <b>210</b>. NAND gate <b>230</b> includes microfluidic resistor <b>231</b> which is coupled between an ambient exhaust terminal and output terminal OUT. NAND gate <b>230</b> also includes pressure actuated normally open microfluidic switches <b>232</b> and <b>233</b> which are coupled in parallel between OUT and high pressure terminal HP. The gate of switch <b>232</b> is coupled to input terminal IN<b>1</b>, and the gate of switch <b>233</b> is coupled to input terminal IN<b>2</b>.</p>
+<p id="p-0152" num="0151">When either of inputs IN<b>1</b> or IN<b>2</b> are at ambient pressure (LOW), one of switches <b>232</b> or <b>233</b> is open, and fluid flows from the HP terminal to the ambient exhaust through the open switch(es) and resistor <b>231</b>. The pressure at OUT increases to high pressure (HIGH), because the resistance of resistor <b>231</b> is greater than the resistance of switches <b>232</b> and <b>233</b>. When both inputs IN<b>1</b> and IN<b>2</b> are at high pressure (HIGH), both of switches <b>232</b> and <b>233</b> are closed and fluid flow to the HP terminal is blocked. The pressure at OUT diffuses through resistor <b>231</b> to the ambient exhaust terminal causing the pressure at OUT to decrease to ambient pressure (LOW).</p>
+<p id="p-0153" num="0152">A microfluidic NAND gate may comprise any number of input terminals greater than one. Each input terminal is coupled to the gate of a normally open switch coupled in parallel with switches <b>232</b> and <b>233</b> between OUT and the HP terminal. Of course, other configurations for the construction of NAND logic gates known to those of skill in the semiconductor circuit design art may be used to design a microfluidic NAND gate in which transistors are replaced with microfluidic switches. The symbol for a two input NAND gate is shown in <figref idref="DRAWINGS">FIG. 12J</figref>. The truth table for a two input NAND gate is shown in Table 4 below:</p>
+<p id="p-0154" num="0153">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="98pt" align="center"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="98pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" rowsep="1">TABLE 4</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>IN1</entry>
+<entry>IN2</entry>
+<entry>OUT</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>H</entry>
+<entry>H</entry>
+<entry>L</entry>
+</row>
+<row>
+<entry>H</entry>
+<entry>L</entry>
+<entry>H</entry>
+</row>
+<row>
+<entry>L</entry>
+<entry>H</entry>
+<entry>H</entry>
+</row>
+<row>
+<entry>L</entry>
+<entry>L</entry>
+<entry>H</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0155" num="0154">Microfabricated fluidic devices of the present invention may also be used to construct Set-Reset (S-R) flip-flops (also called latches) that have the same truth table as S-R flips-flops constructed from electronic circuits. Flip-flop <b>250</b> in <figref idref="DRAWINGS">FIG. 13</figref> is one example of an S-R flip-flop that is constructed with two cross-coupled NAND gates <b>251</b> and <b>252</b>. NAND gate <b>251</b> has a first input terminal <o ostyle="single">SET</o> and a second input terminal coupled to the output terminal <o ostyle="single">OUT</o> of NAND gate <b>252</b>. NAND <b>252</b> has a first input terminal <o ostyle="single">RESET</o> and a second input terminal coupled to the output terminal OUT of NAND gate <b>251</b>.</p>
+<p id="p-0156" num="0155">Flip-flop <b>250</b> operates as follows. A transitory LOW signal occurs when the <o ostyle="single">SET</o> or <o ostyle="single">RESET</o> input transitions from high pressure (HIGH) to ambient pressure (LOW) and then transitions back to high pressure (HIGH) again. When a transitory LOW occurs on the <o ostyle="single">SET</o> input, OUT goes HIGH and remains HIGH. When a transitory LOW signal occurs on the <o ostyle="single">RESET</o> input, <o ostyle="single">OUT</o> goes HIGH and remains HIGH. When the pressure at the <o ostyle="single">SET</o> and <o ostyle="single">RESET</o> inputs are both HIGH, outputs OUT and <o ostyle="single">OUT</o> remain in their previous states. An unstable condition exists at outputs OUT and <o ostyle="single">OUT</o> when the pressure at the <o ostyle="single">SET</o> and <o ostyle="single">RESET</o> inputs are both LOW.</p>
+<p id="p-0157" num="0156">An example of a S-R flip-flop of the present invention constructed with microfabricated fluidic cross-coupled NAND gates is shown in <figref idref="DRAWINGS">FIG. 14A</figref>. Flip-flop <b>300</b> include fluidic resistor <b>301</b> which is coupled between a first ambient exhaust terminal and output terminal OUT, and fluidic resistor <b>302</b> which is coupled between a second ambient exhaust terminal and output <o ostyle="single">OUT</o>. Flip-flop <b>300</b> also includes pressure actuated normally open microfluidic switches <b>303</b> and <b>304</b> that are coupled in parallel between OUT and a high pressure terminal HP, and pressure actuated normally open microfluidic switches <b>305</b> and <b>306</b> that are coupled in parallel between <o ostyle="single">OUT</o> and the HP terminal. The gate of switch <b>303</b> is coupled to input terminal <o ostyle="single">SET</o>, the gate of switch <b>304</b> is coupled to the output terminal <o ostyle="single">OUT</o>, the gate of switch <b>305</b> is coupled to input terminal <o ostyle="single">RESET</o>, and the gate of switch <b>306</b> is coupled to output terminal OUT.</p>
+<p id="p-0158" num="0157">When the pressure at the <o ostyle="single">RESET</o> input remains HIGH and the pressure at the <o ostyle="single">SET</o> input transitions from HIGH to LOW, switch <b>305</b> is closed, switch <b>303</b> opens, and the pressure at OUT goes HIGH because it is coupled to the high pressure terminal HP through low resistance switch <b>303</b>. Switch <b>306</b> is closed because OUT is HIGH, and the pressure at <o ostyle="single">OUT</o> goes LOW, because <o ostyle="single">OUT</o> is decoupled from the HP terminal. Switch <b>304</b> is open, because <o ostyle="single">OUT</o> is LOW. When the pressure at the <o ostyle="single">SET</o> input goes HIGH again, switch <b>303</b> closes. However, the pressure at OUT remains HIGH, because OUT is coupled to the HP terminal through switch <b>304</b> which remains open. The pressure at <o ostyle="single">OUT</o> remains LOW, because switch <b>306</b> remains closed.</p>
+<p id="p-0159" num="0158">When the pressure at the <o ostyle="single">SET</o> input remains HIGH and the pressure at the <o ostyle="single">RESET</o> input transitions from HIGH to LOW, switch <b>303</b> remains closed and switch <b>305</b> opens. The pressure at <o ostyle="single">OUT</o> goes HIGH, because <o ostyle="single">OUT</o> is coupled to the HP terminal through low resistance switch <b>305</b>. Switch <b>304</b> is closed because <o ostyle="single">OUT</o> is HIGH, and the pressure at OUT goes LOW, because it is decoupled from the HP terminal. When the pressure at the <o ostyle="single">RESET</o> input goes HIGH again, switch <b>305</b> closes, but switch <b>306</b> remains open because OUT is LOW. Therefore, the pressure <o ostyle="single">OUT</o> remains HIGH keeping switch <b>304</b> closed, so that the pressure at OUT remains LOW.</p>
+<p id="p-0160" num="0159">When the pressures at <o ostyle="single">RESET</o> and <o ostyle="single">SET</o> are both HIGH, the pressures at OUT and <o ostyle="single">OUT</o> both remain at their previous logic states. The pressures at OUT and <o ostyle="single">OUT</o> are both HIGH when the pressures at <o ostyle="single">RESET</o> and <o ostyle="single">SET</o> are both LOW, which is considered an unstable output state because OUT and <o ostyle="single">OUT</o> cannot remain in that state when <o ostyle="single">RESET</o> or <o ostyle="single">SET</o> go HIGH. The truth table for flip-flop <b>300</b> is shown in Table 5.</p>
+<p id="p-0161" num="0160">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="49pt" align="center"/>
+<colspec colname="2" colwidth="56pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="63pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="4" rowsep="1">TABLE 5</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry> <o ostyle="single">SET</o></entry>
+<entry> <o ostyle="single">RESET</o></entry>
+<entry>OUT</entry>
+<entry> <o ostyle="single">OUT</o></entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>H to L to H</entry>
+<entry>H</entry>
+<entry>H</entry>
+<entry>L</entry>
+</row>
+<row>
+<entry>H</entry>
+<entry>H to L to H</entry>
+<entry>L</entry>
+<entry>H</entry>
+</row>
+<row>
+<entry>H</entry>
+<entry>H</entry>
+<entry>Previous State</entry>
+<entry>Previous State</entry>
+</row>
+<row>
+<entry>L</entry>
+<entry>L</entry>
+<entry>H</entry>
+<entry>H</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0162" num="0161">Another example of an S-R flip-flop of the present invention comprising microfabricated microfluidic devices is shown in <figref idref="DRAWINGS">FIG. 14B</figref>. S-R flip-flop <b>320</b> includes fluidic resistor <b>321</b> that is coupled between a first high pressure terminal HP and output terminal OUT, and fluidic resistor <b>322</b> that is coupled between a second high pressure terminal HP and output terminal <o ostyle="single">OUT</o>. S-R flip-flop <b>320</b> also includes pressure actuated normally closed microfluidic switches <b>323</b> and <b>324</b> that are coupled in series between OUT and an ambient exhaust terminal, and pressure actuated normally closed microfluidic switches <b>325</b> and <b>326</b> that are coupled in series between <o ostyle="single">OUT</o> and the ambient exhaust terminal. The gate of switch <b>323</b> is coupled to the <o ostyle="single">SET</o> input, the gate of switch <b>324</b> is coupled to the <o ostyle="single">OUT</o> output, the gate of switch <b>325</b> is coupled to the OUT output, and the gate of switch <b>326</b> is coupled the <o ostyle="single">RESET</o> input.</p>
+<p id="p-0163" num="0162">When the pressure at the <o ostyle="single">RESET</o> input remains HIGH and the pressure at the <o ostyle="single">SET</o> input transitions from HIGH to LOW, switch <b>326</b> is open and switch <b>323</b> closes. The OUT terminal is decoupled from the ambient exhaust terminal, and fluid flows through resistor <b>321</b> until the pressure at OUT goes HIGH. Switch <b>325</b> opens when OUT goes HIGH. The pressure at <o ostyle="single">OUT</o> goes LOW, because <o ostyle="single">OUT</o> is coupled to the ambient exhaust terminal through switches <b>325</b> and <b>326</b> which have a much smaller resistance than resistor <b>322</b>. Switch <b>324</b> is closed, because <o ostyle="single">OUT</o> is LOW. When the pressure at the <o ostyle="single">SET</o> input goes HIGH again, switch <b>323</b> opens. However, the pressure at OUT remains HIGH, because switch <b>324</b> remains closed continuing to decouple OUT from the ambient exhaust terminal. The pressure at <o ostyle="single">OUT</o> remains LOW, because switch <b>325</b> remains open.</p>
+<p id="p-0164" num="0163">When the pressure at the <o ostyle="single">SET</o> input remains HIGH and the pressure at the <o ostyle="single">RESET</o> input transitions from HIGH to LOW, switch <b>323</b> remains open and switch <b>326</b> closes. The pressure at <o ostyle="single">OUT</o> goes HIGH, because <o ostyle="single">OUT</o> is decoupled from the ambient exhaust terminal and coupled to the HP terminal through resistor <b>322</b>. Switch <b>324</b> is open because <o ostyle="single">OUT</o> is HIGH. The pressure at OUT goes LOW, because it is coupled to the ambient exhaust terminal through low resistance switches <b>323</b> and <b>324</b> which are both open. When the pressure at the <o ostyle="single">RESET</o> input goes HIGH again, switch <b>326</b> opens, but switch <b>325</b> remains closed because OUT is LOW. Therefore, the pressure <o ostyle="single">OUT</o> remains HIGH keeping switch <b>324</b> open, so that the pressure at OUT remains LOW.</p>
+<p id="p-0165" num="0164">When the pressures at <o ostyle="single">RESET</o> and <o ostyle="single">SET</o> are both HIGH, the pressures at OUT and <o ostyle="single">OUT</o> both remain at their previous logic states. The pressures at OUT and <o ostyle="single">OUT</o> are both HIGH when the pressures at <o ostyle="single">RESET</o> and <o ostyle="single">SET</o> are both LOW, which is considered an unstable output state because OUT and <o ostyle="single">OUT</o>, because OUT and <o ostyle="single">OUT</o> cannot remain in that state when <o ostyle="single">RESET</o> or <o ostyle="single">SET</o> go HIGH. The truth table for latch <b>320</b> is shown in Table 5.</p>
+<p id="p-0166" num="0165">Microfabricated fluidic S-R flip-flops can be used to provide a large number of arbitrary latched control signals from a small number of control lines that are multiplexed externally. Thus, having fluidic devices that perform the function of S-R flip-flips on the fluidic chip also greatly reduces the number of control lines that need to be brought onto the chip from external sources, providing additional space saving.</p>
+<p id="p-0167" num="0166">Further embodiments of the present invention include microfluidic vacuum actuated normally closed switches. Each of the valves discussed below with respect to <figref idref="DRAWINGS">FIGS. 15A-15J</figref> may be used as vacuum actuated normally closed switches when its input channel is coupled to a pressure amplifier such as pressure amplifier <b>30</b> (FIGS. <b>3</b> and <b>4</b>A-<b>4</b>B) as shown for example in <figref idref="DRAWINGS">FIG. 10</figref>. Pressure applied to the gate of the resulting switch is amplified in the input channel of the valve. By adding a pressure amplifier to the input channel of one of the valves in <figref idref="DRAWINGS">FIGS. 15A-15J</figref>, the pressure in the gate of the resulting switch does not need to be decreased below the pressure in the output channel between the source and the drain of the switch. Therefore, by adding pressure multipliers to the valves of <figref idref="DRAWINGS">FIGS. 15A-15J</figref>, the resulting switches may be coupled together to perform logic functions and Boolean algebra as discussed above.</p>
+<p id="p-0168" num="0167">Valve <b>340</b> shown in <figref idref="DRAWINGS">FIG. 15A</figref> may be a microfluidic vacuum actuated normally closed switch when the gate is coupled to a pressure multiplier (as discussed with respect to <figref idref="DRAWINGS">FIG. 10</figref>). Valve <b>340</b> has channels <b>341</b> and <b>342</b> formed in elastomer block <b>347</b> on rigid substrate <b>348</b>. Elastomer block <b>347</b> may comprise a plurality of elastomer layers sealed together. Channel <b>341</b> overlies and is perpendicular to channel <b>342</b>. Channel <b>341</b> is the control channel, and channel <b>342</b> couples the source and the drain of the switch.</p>
+<p id="p-0169" num="0168">Cross sections of valve <b>340</b> along axis <b>345</b> are shown in <figref idref="DRAWINGS">FIGS. 15B-15C</figref>. Elastomer block <b>347</b> includes elastomer region <b>349</b> which extends into channel <b>342</b>. The length of region <b>349</b> equals the width of channel <b>342</b>. When the pressure in channel <b>341</b> is at ambient pressure, region <b>349</b> extends into channel <b>342</b> as shown in <figref idref="DRAWINGS">FIG. 15B</figref>. Region <b>349</b> completely blocks channel <b>342</b> preventing fluid from flowing there through, because region <b>349</b> fully fills the width of channel <b>342</b>. Therefore, valve <b>340</b> is closed in its normal state when pressure in channel <b>341</b> is at ambient.</p>
+<p id="p-0170" num="0169">When the pressure in channel <b>341</b> is reduced (e.g., to a vacuum), region <b>349</b> retracts into channel <b>341</b> as shown in <figref idref="DRAWINGS">FIG. 15C</figref>, because of the pressure differential between channel <b>341</b> and channel <b>342</b>. Channel <b>342</b> opens when region <b>349</b> retracts into channel <b>341</b>. Fluid can now freely flow through channel <b>342</b>. Thus, vacuum pressure in gate <b>341</b> of valve <b>340</b> causes the switch to open, and ambient pressure in gate <b>341</b> causes the switch to close.</p>
+<p id="p-0171" num="0170">Layer <b>347</b> may be, for example, 1-1000 microns thick. Specific examples include 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, and 1000 microns.</p>
+<p id="p-0172" num="0171">Channels <b>341</b>-<b>342</b> may be, for example, 0.1-5000 microns wide. Specific examples include 0.1, 0.3, 0.5, 0.7, 1, 2, 2.5, 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1200, 1400, 1600, 2000, 2200, 2400, 2600, 2800, 3000, 3200, 3400, 3600, 3800, 4000, 4200, 4400, 4600, 4800, and 5000 microns.</p>
+<p id="p-0173" num="0172">Valve <b>360</b> shown in <figref idref="DRAWINGS">FIG. 15D</figref> is a second embodiment of a valve that can be used as a vacuum actuated normally closed microfluidic switch if a pressure amplifier is coupled to the input channel <b>361</b>. Valve <b>360</b> comprises an elastomer block <b>363</b> which may be formed from elastomer layers sealed together. Valve <b>360</b> has perpendicular channels <b>361</b> and <b>362</b>. Channel <b>361</b> overlies channel <b>362</b>. Channel <b>361</b> is the input channel of valve <b>360</b>, and channel <b>362</b> couples the source and the drain of the switch.</p>
+<p id="p-0174" num="0173">Cross sections of valve <b>360</b> are shown in <figref idref="DRAWINGS">FIGS. 15E-H</figref>. Elastomer <b>363</b> includes elastomer region <b>365</b> which extends down into channel <b>362</b>. When the pressure in channel <b>361</b> is at ambient pressure, region <b>365</b> blocks channel <b>362</b> as shown in <figref idref="DRAWINGS">FIG. 15E</figref>, and valve <b>360</b> is closed, because region <b>365</b> extends across the width of channel <b>362</b>. When the pressure in channel <b>361</b> is reduced (e.g., to a vacuum), region <b>365</b> retracts into channel <b>361</b> as shown in <figref idref="DRAWINGS">FIG. 15F</figref>, unblocking channel <b>362</b> so that valve <b>360</b> is open.</p>
+<p id="p-0175" num="0174">As can be seen by comparing <figref idref="DRAWINGS">FIGS. 15B and 15E</figref>, channel <b>341</b> is only slightly wider than region <b>349</b>, while channel <b>361</b> is much wider than region <b>365</b>. It is advantageous that channel <b>361</b> is much wider than channel region <b>365</b>, because it takes less of a pressure reduction in channel <b>361</b> to retract region <b>365</b> into channel <b>361</b>, than it does to retract region <b>349</b> into channel <b>341</b>. This is because elastomer regions <b>366</b>A-<b>366</b>B of block <b>363</b> are wide enough so that they do not have to stretch a lot to allow region <b>365</b> to retract into channel <b>361</b> relative to region <b>349</b>.</p>
+<p id="p-0176" num="0175">Layer <b>363</b> may be, for example, 1-1000 microns thick. Specific examples include 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, and 1000 microns.</p>
+<p id="p-0177" num="0176">Channels <b>361</b>-<b>362</b> may be, for example, 0.1-5000 microns wide. Specific examples include 0.1, 0.5, 1, 2, 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1200, 1400, 1600, 2000, 2200, 2400, 2600, 2800, 3000, 3200, 3400, 3600, 3800, 4000, 4200, 4400, 4600, 4800, and 5000 microns.</p>
+<p id="p-0178" num="0177">A disadvantage of valve <b>360</b> is illustrated in <figref idref="DRAWINGS">FIGS. 15G-15H</figref>. <figref idref="DRAWINGS">FIG. 15G</figref> is a cross section of valve <b>360</b> along horizontal axis <b>367</b> (<figref idref="DRAWINGS">FIG. 15D</figref>) when the pressure in channel <b>361</b> is at ambient pressure and valve <b>360</b> is closed. <figref idref="DRAWINGS">FIG. 15H</figref> is a cross section of valve <b>360</b> along axis <b>367</b> when the pressure in channel <b>361</b> is a vacuum and valve <b>360</b> is open. As can be seen in <figref idref="DRAWINGS">FIG. 15H</figref>, the portion of elastomer <b>363</b> under channel <b>361</b> retracts into channel <b>361</b> when the pressure in channel <b>361</b> is reduced (e.g., to a vacuum), opening up cross channel <b>369</b> below channel <b>361</b>. Channel <b>369</b> is unwanted because fluid in channel <b>362</b> can leak out through channel <b>369</b>, causing unwanted effects in valve <b>360</b>. The same problem can occur in valve <b>340</b>, beneath channel <b>341</b>.</p>
+<p id="p-0179" num="0178">The problem illustrated in <figref idref="DRAWINGS">FIG. 15H</figref> can be minimized by reducing the width of the gate channel (except above the drain-source channel) as shown in <figref idref="DRAWINGS">FIG. 15I</figref>. In a further embodiment of the present invention, valve <b>380</b> shown in <figref idref="DRAWINGS">FIG. 15I</figref> may be used as a vacuum actuated normally open microfluidic switch if a pressure multiplier is coupled to its input channel <b>381</b>. Valve <b>380</b> comprises elastomer block <b>384</b> on rigid substrate <b>385</b>. Valve <b>380</b> has input channel <b>381</b>, and channel <b>382</b> which couples the drain and the source together. Channels <b>381</b> and <b>382</b> are perpendicular to each other. Input channel <b>381</b> is relatively narrow except in region <b>383</b> over channel <b>382</b> where channel <b>381</b> widens. Thus, when the pressure in channel <b>381</b> is reduced (e.g., to a vacuum), elastomer <b>384</b> does not retract into the narrow portion of channel <b>381</b>, as shown in <figref idref="DRAWINGS">FIG. 15J</figref>. Therefore, unwanted openings do not form beneath narrow portions of channel <b>381</b>. Elastomer region <b>389</b> retracts into opening <b>383</b> of channel <b>381</b> when to open valve <b>380</b> when the pressure in channel <b>381</b> is reduced (e.g., to a vacuum) as discussed with respect to valves <b>340</b> and <b>360</b>. The valves of <figref idref="DRAWINGS">FIGS. 15A-15J</figref> are discussed in further detail in PCT Patent Application Number PCT/US00/17740 mentioned above.</p>
+<p id="p-0180" num="0179">Layer <b>384</b> may be, for example, 1-1000 microns thick. Specific examples include 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, and 1000 microns.</p>
+<p id="p-0181" num="0180">Channels <b>381</b>-<b>382</b> may be, for example, 0.1 micron-1 mm wide. Specific examples include 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 120, 140, 160, 180, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, and 1000 microns.</p>
+<p id="p-0182" num="0181">Microfluidic switches discussed in the present application may be coupled together to form multiplexers, using configurations known to those of skill in the semiconductor circuit art. Microfabricated fluidic switches, logic gates, and flip-flops discussed in the present application may be coupled together to perform mathematical functions such as addition, subtraction, multiplication, and division, using configurations known to those of skill in the semiconductor circuit art. Also, microfluidic devices of the present invention may be used to build devices that perform more complex functions. For example, the present invention includes microfluidic processors (CPU) that perform functions performed by electronic processors and are designed with the principles of the present invention and principles known in the circuit architecture art.</p>
+<p id="p-0183" num="0182">A further embodiment of the present invention includes structures and methods that provide high pressure sources for microfluidic applications. A high pressure source or a vacuum pressure source may be used as a power supply for microfluidic logic devices disclosed in this application. The pressure source is self-contained and self-recharging, making it ideal for devices that are implanted in the human body. The recharging mechanism works like a self-winding watch, in that motions in the device's environment are converted into potential energy.</p>
+<p id="p-0184" num="0183">Previously known macroscopic high pressure source <b>400</b> shown in <figref idref="DRAWINGS">FIG. 16</figref> comprises four components: mechanical pump <b>401</b>, a pair of unidirectional valves <b>402</b> and <b>403</b>, and high pressure reservoir <b>404</b>. Fluid is pulled from the low pressure L.P. return through unidirectional valve <b>402</b> into pump <b>401</b>. Pump <b>401</b> then pumps fluid through unidirectional valve <b>403</b> into reservoir <b>404</b> which provides a high pressure source to a load at H.P. The working fluid in the system is recycled from the load, coupled to the high pressure H.P. outlet, back to the low pressure L.P. return.</p>
+<p id="p-0185" num="0184">A microfluidic pressure source may be constructed using microfabricated fluidic devices, as will now be discussed. An example of a microfabricated fluidic pump <b>410</b> comprised of elastic material is shown in <figref idref="DRAWINGS">FIG. 17A</figref>. Pump <b>410</b> has inner chamber <b>411</b>, inlet conduit <b>412</b>, and outlet conduit <b>413</b>. Pump <b>410</b> may be integrated into a microfluidic chip, or may exist as a discrete component. The walls and the top and bottom surfaces of pump <b>410</b> may comprise elastomer material. If desired, the top and bottom surfaces of pump <b>410</b> (with respect to <figref idref="DRAWINGS">FIG. 17A</figref>) may comprise semi-rigid material.</p>
+<p id="p-0186" num="0185">Pump <b>410</b> may be bent or compressed as shown in <figref idref="DRAWINGS">FIG. 17B</figref> to change the pressure within chamber <b>411</b> and to cause fluid to flow through conduits <b>412</b> and <b>413</b>. When pump <b>410</b> is bent or compressed, the pressure of fluid in chamber <b>411</b> increases above the pressure in a fluid reservoir coupled outlet conduit <b>413</b>, causing fluid to flow out of pump <b>410</b> through outlet conduit <b>413</b>. When pump <b>410</b> is no longer bent or compressed, it returns to its normal position, and the pressure in chamber <b>411</b> decreases below the pressure in a fluid reservoir coupled to inlet conduit <b>412</b>, causing fluid to flow into pump <b>410</b> through inlet conduit <b>412</b>. In this way, pump <b>410</b> pumps fluid into and out of chamber <b>411</b>. In microfluidic devices implanted in the human body, compression and bending occurs due to motion in the surrounding tissue causing pump <b>410</b> to perform its pumping action.</p>
+<p id="p-0187" num="0186">Pump <b>410</b> may be, for example, 100 microns to 10 cm wide. Specific examples include 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, and 9000 microns. Further examples are 1, 2, 3, 4, 5, 6, 7, 8, 9 and 10 cm.</p>
+<p id="p-0188" num="0187">Pump may be, for example, 5 microns to 10 mm thick. Specific examples include 5, 10, 20, 30, 40, 50, 60 70, 80, 90, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000, 5500, 6000, 6500, 7000, 7500, 8000, 8500, 9000, 9500, and 10,000 microns.</p>
+<p id="p-0189" num="0188">The symbol for a unidirectional valve in microfluidics is shown in <figref idref="DRAWINGS">FIG. 18</figref>. Passive unidirectional valves may be constructed as macroscopic components by partially bonding a flap of RTV or similar elastic material over a feed through channel. Previously known macroscopic unidirectional valve <b>430</b> is shown in <figref idref="DRAWINGS">FIG. 19</figref>. Flap <b>431</b> of elastomer (which may comprise RTV) is bonded to the wall of layer <b>434</b> above feed through channel <b>432</b> as shown in <figref idref="DRAWINGS">FIG. 19</figref>. Fluid may flow through channel <b>432</b> into chamber <b>433</b> past flap <b>431</b>. However, flap <b>431</b> prevents fluid from flowing from chamber <b>433</b> into channel <b>432</b>, because it closes the opening of channel <b>432</b> when fluid flows in that direction. A similar scheme may be used to create a unidirectional valve like valve <b>430</b> on a microfluidic chip; however, high horizontal tolerances, or complex layering would be required.</p>
+<p id="p-0190" num="0189">The present invention provides more desirable designs for a microfluidic unidirectional valve. Unidirectional valve <b>450</b> in <figref idref="DRAWINGS">FIG. 20A</figref> is an embodiment of a unidirectional valve that can be made on a microfluidic chip. Valve <b>450</b> comprises a channel through elastomer material that has stopper <b>451</b> and elastomer flap <b>452</b> in channel <b>453</b>. Valve <b>450</b> may comprise layers of elastomer material that are sealed together. Flap <b>452</b> is only attached to the top of channel <b>453</b>. Flap <b>452</b> opens up to allow fluid to flow to the right in <figref idref="DRAWINGS">FIG. 20A</figref> through channel <b>453</b>. Flap <b>452</b> and stopper <b>451</b> prevent fluid from flowing to the left in <figref idref="DRAWINGS">FIG. 20A</figref> through channel <b>453</b>. When fluid begins to flow to the left, flap <b>452</b> presses up against stopper <b>451</b>. Stopper <b>451</b> extends into channel <b>453</b> from the bottom and side walls of the channel as shown in the cross sectional view of <figref idref="DRAWINGS">FIG. 20B</figref> so that flap <b>452</b> forms a complete hermetic seal against stopper <b>451</b>.</p>
+<p id="p-0191" num="0190">Channel <b>453</b> may be, for example, 5-1000 microns thick. Specific examples include 5, 10, 20, 30, 40, 50, 60 70, 80, 90, 100, 200, 300, 400, 500, 600, 700, 800, 900, and 1000 microns.</p>
+<p id="p-0192" num="0191">Flap <b>452</b> may be, for example, 5-1000 microns wide. Specific examples include 5, 10, 20, 30, 40, 50, 60 70, 80, 90, 100, 200, 300, 400, 500, 600, 700, 800, 900, and 1000 microns.</p>
+<p id="p-0193" num="0192">Flap <b>452</b> may be, for example, 1-200 microns thick. Specific examples include 1, 5, 10, 20, 30, 40, 50, 60 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190, and 200 microns.</p>
+<p id="p-0194" num="0193">Stopper <b>451</b> may protrude, for example, 1-1000 microns into channel <b>453</b>. Specific examples include 1, 5, 10, 20, 30, 40, 50, 60 70, 80, 90, 100, 200, 300, 400, 500, 600, 700, 800, 900, and 1000.</p>
+<p id="p-0195" num="0194">Unidirectional valve <b>470</b> shown in <figref idref="DRAWINGS">FIG. 21</figref> is another embodiment of a microfluidic unidirectional value of the present invention that can be made on a microfluidic chip. Layers and regions <b>471</b>-<b>475</b> comprise an elastomer such as General Electric Silicones RTV (room temperature vulcanizing) <b>615</b>, which comprises polydimethylsiloxane bearing vinyl groups and a platinum catalyst (hereinafter referred to as Part &#x201c;A&#x201d;) and a cross-linker containing silicon hydride (Si&#x2014;H) groups (hereinafter referred to as Part &#x201c;B&#x201d;) which form a covalent bond with vinyl groups. RTV <b>615</b> is normally comprises of a ratio of 10:1 (Part A:Part B). For bonding, one layer of RTV <b>615</b> is made with a high Part A:Part B ratio (excess vinyl groups) such as a ratio of 30:1, and the other layer of RTV <b>615</b> is made with a low Part A:Part B ratio (excess Si&#x2014;H groups) such as ratio of 3:1. An RTV <b>615</b> layer with a 30:1 ratio bonds to an RTV layer with a 3:1 ratio, but does not bond to another RTV layer with a 30:1 ratio. Also, an RTV <b>615</b> layer with a 3:1 ratio does not bond to another RTV layer with a 3:1 ratio.</p>
+<p id="p-0196" num="0195">Membrane <b>471</b>, layer <b>474</b>, and layer <b>475</b> all may comprise an elastomer such as RTV silicone with a low Part A to Part B ratio (e.g., 3:1). Spacer <b>472</b> and spacer <b>473</b> comprise an elastomer such as RTV silicone with a high Part A to Part B ratio (e.g., 30:1). Membrane <b>471</b> is held in place by spacer <b>472</b>. Membrane <b>471</b> bonds to spacer <b>472</b>, and spacer <b>472</b> bonds to layer <b>474</b>. Spacer <b>473</b> bonds to layers <b>474</b> and <b>475</b>. Membrane <b>471</b> does not bond to layer <b>475</b>. Membrane <b>471</b> allows fluid to flow from feed-through <b>478</b> to channel <b>477</b>, but prevents backflow of fluid from channel <b>477</b> to feed-through <b>478</b>. Spacer <b>473</b> also blocks fluid flow in channel <b>477</b> to the right of feed through <b>478</b>.</p>
+<p id="p-0197" num="0196">Channel <b>477</b> may be, for example, 0.1-5000 microns in width. Specific examples include 0.1, 0.3, 0.5, 0.7, 1, 2, 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1200, 1400, 1600, 2000, 2200, 2400, 2600, 2800, 3000, 3200, 3400, 3600, 3800, 4000, 4200, 4400, 4600, 4800, and 5000 microns.</p>
+<p id="p-0198" num="0197">Membrane <b>471</b> may be, for example, 1-200 microns thick. Specific examples include 1, 5, 10, 20, 30, 40, 50, 60 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190, and 200 microns.</p>
+<p id="p-0199" num="0198">Channel <b>478</b> may be, for example, 1-5000 microns in width. Specific examples include 1, 2, 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1200, 1400, 1600, 2000, 2200, 2400, 2600, 2800, 3000, 3200, 3400, 3600, 3800, 4000, 4200, 4400, 4600, 4800, and 5000 microns.</p>
+<p id="p-0200" num="0199">Another embodiment of a microfluidic unidirectional valve of the present invention is shown in <figref idref="DRAWINGS">FIG. 22</figref>. Active &#x201c;servo&#x201d; unidirectional valve <b>500</b> shown in <figref idref="DRAWINGS">FIG. 22</figref> advantageously does not require high horizontal tolerances. Unidirectional servo valve <b>500</b> is comprised of two devices: differential pressure multiplier <b>502</b> and pressure actuated normally closed switch <b>501</b>. Switch <b>501</b> may be, for example, the embodiment of <figref idref="DRAWINGS">FIGS. 9A-9D</figref>. Resistor <b>503</b> represents the equivalent resistance for normally closed switch <b>501</b> in the &#x201c;open&#x201d; configuration.</p>
+<p id="p-0201" num="0200">Differential pressure multiplier <b>502</b> is the device described with respect to FIGS. <b>3</b> and <b>4</b>A-<b>4</b>C. The P<sub>0 </sub>chamber is connected to a second inlet source instead of ambient pressure (an embodiment discussed with respect to <figref idref="DRAWINGS">FIG. 4C</figref>), which is the pressure at output terminal OUT in valve <b>500</b>. When the pressure at input terminal IN is less than the pressure at output terminal OUT, the pressure at the output of multiplier <b>502</b> and the gate of switch <b>501</b> is LOW so that switch <b>501</b> is closed. When the pressure at input terminal IN increases above the pressure at output terminal OUT, multiplier <b>502</b> increases the pressure at the gate of switch <b>501</b> above its threshold causing switch <b>501</b> to open so that fluid flows through switch <b>501</b> from IN to OUT.</p>
+<p id="p-0202" num="0201">In another embodiment of the present invention, a unidirectional active valve may be constructed by using a pair of normally open switches instead of the normally closed switch as shown in <figref idref="DRAWINGS">FIG. 23</figref>. Unidirectional valve <b>520</b> comprises differential pressure multiplier <b>523</b>, pressure actuated normally open switches <b>522</b> and <b>524</b>, and fluidic resistor <b>525</b>. Resistor <b>521</b> represents the equivalent resistance for normally open switch <b>522</b> in the &#x201c;open&#x201d; configuration. When the pressure at input terminal IN is less than the pressure at output terminal OUT, multiplier <b>523</b> decreases the pressure at the gate of switch <b>524</b> below its threshold so that switch <b>524</b> is open. The pressure at the gate of switch <b>522</b> increases above its threshold, because it is coupled to high pressure terminal HP through switch <b>524</b>, and the resistance of resistor <b>525</b> is much greater than the resistance of switch <b>524</b>. Switch <b>522</b> closes and fluid cannot flow between IN and OUT.</p>
+<p id="p-0203" num="0202">When the pressure at IN is greater than the pressure at OUT, multiplier <b>523</b> increases the pressure at the gate of switch <b>524</b> above its threshold so that switch <b>524</b> is closed. The gate of switch <b>522</b> is now decoupled from high pressure terminal HP. The pressure at the gate of switch <b>522</b> decreases below the threshold of switch <b>522</b> through resistor <b>525</b>, which is coupled to an ambient exhaust. Switch <b>522</b> opens and fluid can now flow between IN and OUT. Unidirectional valve <b>520</b>, however, requires a high pressure source at terminal HP, and so valve <b>520</b> cannot be used to build the high pressure source itself. It could be used to recharge a high pressure reservoir if there is an independent means to charge the system initially.</p>
+<p id="p-0204" num="0203">An embodiment of a microfluidic high pressure reservoir that can be formed on a microfluidic chip is shown in <figref idref="DRAWINGS">FIG. 24</figref>. For an incompressible working fluid, the reservoir may be an elastic chamber similar to a water filled balloon, such as reservoir <b>540</b> shown in <figref idref="DRAWINGS">FIG. 24</figref>. Reservoir <b>540</b> includes elastomer layers <b>541</b>-<b>542</b> as well as elastomer layers <b>544</b> formed on rigid substrate <b>543</b>. Devices that perform logic functions and other functionality may exist in layers <b>544</b>. Elastomer layer <b>542</b> includes chamber <b>545</b> which may be pressurized through an inlet conduit (not shown). Elastomer layers <b>541</b>, <b>542</b>, and <b>544</b> are sealed together to form an elastomeric block.</p>
+<p id="p-0205" num="0204">As fluid is introduced into chamber <b>545</b> through the inlet conduit, the pressure in chamber <b>545</b> increases and elastomer layer <b>541</b> expands upwardly. When the pressure in chamber <b>545</b> decreases, layer <b>541</b> retracts downwardly. Chamber <b>545</b> also includes an outlet conduit (not shown) whereby high pressure fluid exits chamber <b>545</b>. High pressure reservoir <b>540</b> is a capacitive element which has an appropriately small drop in pressure when a given amount of fluid is removed from chamber <b>545</b> to do work in a load device coupled to the outlet conduit.</p>
+<p id="p-0206" num="0205">Chamber <b>545</b> may be, for example, 5 microns to 10 mm wide. Specific examples include 5, 10, 20, 30, 40, 50, 60 70, 80, 90, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000, 5500, 6000, 6500, 7000, 7500, 8000, 8500, 9000, 9500, and 10,000 microns.</p>
+<p id="p-0207" num="0206">For a compressible working fluid such as air, the high pressure reservoir could be a rigid chamber of sufficient volume. The symbol for a microfluidic high pressure reservoir such as reservoir <b>540</b> is shown in <figref idref="DRAWINGS">FIG. 25B</figref>, which is the same symbol for a capacitor in the electronic arts. The symbol for a microfluidic pump is shown in <figref idref="DRAWINGS">FIG. 25A</figref>.</p>
+<p id="p-0208" num="0207">A schematic for a microfabricated fluidic device that provides a high pressure source for microfluidic applications of the present invention is shown in <figref idref="DRAWINGS">FIG. 26</figref>. Device <b>560</b> includes microfluidic pump <b>561</b> coupled to microfluidic unidirectional valves <b>562</b> and <b>563</b>, and microfluidic reservoir <b>564</b>. Pump <b>561</b> may, for example, comprise pump <b>410</b> (<figref idref="DRAWINGS">FIGS. 17A-17B</figref>). Unidirectional valves <b>562</b>-<b>563</b> may, for example, comprise valves <b>450</b>, <b>470</b>, and <b>500</b> (<figref idref="DRAWINGS">FIGS. 20A-22</figref>). Reservoir <b>564</b> may, for example, comprise reservoir <b>540</b> (<figref idref="DRAWINGS">FIG. 24</figref>).</p>
+<p id="p-0209" num="0208">Fluid at ambient pressure is drawn through valve <b>563</b> into pump <b>561</b> when the pressure in pump <b>561</b> decreases. When the pressure in pump <b>561</b> increases, pump <b>561</b> then pumps fluid through valve <b>562</b> into reservoir <b>564</b>. High pressure fluid may then be applied to load devices coupled to the HP terminal. Low pressure fluid is returned from the load devices to the ambient exhaust terminal. Fluid at ambient pressure returns to pump <b>561</b> through valve <b>563</b>.</p>
+<p id="p-0210" num="0209">Stages of microfluidic high pressure generators which multiply the output pressure may be coupled together to generate higher pressures as in a Cockroft-Walton generator. Microfluidic generator <b>580</b> shown in <figref idref="DRAWINGS">FIG. 27</figref> includes microfluidic pump <b>581</b>, microfluidic unidirectional valves <b>582</b>-<b>585</b>, and microfluidic capacitors <b>586</b>-<b>588</b>. An example of a microfluidic capacitor is shown and discussed with respect to <figref idref="DRAWINGS">FIG. 28</figref> below. Pump <b>581</b> forces fluid through valve <b>583</b> and valve <b>585</b> via capacitor <b>586</b>. The second stage which includes capacitor <b>586</b> and valves <b>584</b> and <b>585</b> doubles the output pressure at the HP terminal. Adding a third stage triples the pressure output; adding a fourth stage quadruples the pressure output, a fifth stage increases the pressure output by five times, a sixth stage increases the pressure output by six times, a seventh stage increases the pressure output by seven times, and so on.</p>
+<p id="p-0211" num="0210">In a further aspect of the present invention, a microfluidic capacitor that may be manufactured on a microfluidic chip is shown in cross section in <figref idref="DRAWINGS">FIG. 28</figref>. Capacitor <b>600</b> is formed of elastomer layers <b>607</b>-<b>608</b> that include chambers <b>601</b> and <b>604</b>, respectively. A cross section view of layer <b>608</b> is shown in <figref idref="DRAWINGS">FIG. 29A</figref>, and a cross section view of layer <b>607</b> is shown in <figref idref="DRAWINGS">FIG. 29B</figref>. Fluid enters or exits chamber <b>604</b> through port <b>603</b>, and fluid enters or exits chamber <b>601</b> through port <b>602</b>. When the pressure of the fluid in chamber <b>604</b> increases above the pressure of the fluid in chamber <b>601</b>, layer <b>607</b> flexes downwardly into chamber <b>601</b>, causing the pressure in chamber <b>601</b> to rise. When the pressure of the fluid in chamber <b>601</b> increases above the pressure of the fluid in chamber <b>604</b>, layer <b>607</b> flexes upwardly into chamber <b>604</b>, causing the pressure in chamber <b>604</b> to rise.</p>
+<p id="p-0212" num="0211">Capacitor <b>600</b> allows fluid pressure to be transferred between two chambers that are not in fluid communication with each other. Fluidic capacitors are advantageous, because they allow pressure to be transferred between two fluids without requiring that the fluids mix with each other. Microfluidic capacitors also provide storage for high pressures and low pressures. Microfluidic capacitors also provide delays in pressure transfer which depend on the RC time constant associated with the microfluidic capacitor.</p>
+<p id="p-0213" num="0212">Chambers <b>604</b> and <b>601</b> may be, for example, 5 microns to 10 mm wide. Specific examples include 5, 10, 20, 30, 40, 50, 60 70, 80, 90, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000, 5500, 6000, 6500, 7000, 7500, 8000, 8500, 9000, 9500, and 10,000 microns.</p>
+<p id="p-0214" num="0213">The present invention also includes microfluidic vacuum pressure sources. The difference between ambient pressure and the vacuum generated by a microfluidic vacuum pressure source may be used to drive microfluidic devices on chip (instead of using a high pressure source). For example, a vacuum pressure source can drive vacuum actuated normally open and normally closed microfluidic switches. The schematic for an embodiment of a vacuum pressure source is shown in <figref idref="DRAWINGS">FIG. 30</figref>. Vacuum pressure source <b>640</b> includes pump <b>641</b>, unidirectional valves <b>642</b>-<b>643</b>, and vacuum reservoir <b>644</b>. Vacuum pressure source <b>640</b> may maintain zero pressure or any other low pressure value in reservoir <b>644</b>.</p>
+<p id="p-0215" num="0214">Fluid is drawn from vacuum reservoir <b>644</b> into pump <b>641</b> through unidirectional valve <b>642</b>. Pump <b>641</b> then pumps fluid through valve <b>643</b> out through the ambient exhaust. Pump <b>641</b> maintains vacuum pressure or another low pressure value in reservoir <b>644</b> by removing fluid from it. Reservoir <b>644</b> is coupled to load devices at its vacuum terminal. Reservoir <b>644</b> acts as a vacuum source that is used to drive microfluidic load devices coupled to its vacuum terminal.</p>
+<p id="p-0216" num="0215">Pump <b>641</b> may be, for example, microfluidic pump <b>410</b> in <figref idref="DRAWINGS">FIGS. 17A-17B</figref>. Examples of unidirectional valves <b>642</b> and <b>643</b> are shown in <figref idref="DRAWINGS">FIG. 31</figref>. Unidirectional valve <b>650</b> includes pressure microfluidic multiplier <b>653</b> and microfluidic vacuum actuated normally closed switch <b>651</b>. Resistor <b>652</b> represents the equivalent resistance of switch <b>651</b> when it is open. Valve <b>650</b> allows fluid to flow from input terminal IN to output terminal OUT, but prevents fluid from flowing from OUT to IN. Multiplier <b>653</b> amplifies the difference between the pressure at OUT and the pressure at IN and applies it to the gate of switch <b>651</b>. When the pressure at IN is less than the pressure at OUT, multiplier <b>653</b> increases the pressure at the gate of switch <b>651</b> above its threshold, causing switch <b>651</b> to be closed so that fluid cannot flow from OUT to IN. When the pressure at IN is greater than the pressure at OUT, multiplier <b>653</b> decreases the pressure at the gate of switch <b>651</b> below its threshold, causing switch <b>651</b> to be open so that fluid can flow from IN to OUT.</p>
+<p id="p-0217" num="0216">An example of microfluidic vacuum reservoir <b>644</b> is shown in <figref idref="DRAWINGS">FIG. 32</figref>. Vacuum reservoir <b>670</b> includes elastomer layers <b>671</b>-<b>672</b> as well as elastomer layers <b>673</b> which are formed on top of rigid substrate <b>674</b>. Layers <b>673</b> may include microfluidic devices that perform logic functions and other functions. Layer <b>672</b> includes chamber <b>675</b> between layers <b>671</b> and <b>673</b>. Chamber <b>672</b> may include inlet and output conduits (not shown).</p>
+<p id="p-0218" num="0217">When fluid is pumped out of chamber <b>675</b> (e.g., using pump <b>641</b>) through the outlet conduit, elastomer layer <b>671</b> retracts downwardly as shown in <figref idref="DRAWINGS">FIG. 32</figref>, because the pressure in chamber <b>675</b> decreases. When fluid flows into chamber <b>675</b> from the load devices through the inlet conduit, layer <b>671</b> expands upwardly, because the pressure in chamber <b>675</b> increases. Vacuum reservoir <b>670</b> is a capacitive element which has an appropriately small drop in pressure when a given amount of fluid is added to chamber <b>675</b> to do work in a load device coupled to the outlet conduit.</p>
+<p id="p-0219" num="0218">Chamber <b>675</b> may be, for example, 5 microns to 10 mm wide. Specific examples include 5, 10, 20, 30, 40, 50, 60 70, 80, 90, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000, 5500, 6000, 6500, 7000, 7500, 8000, 8500, 9000, 9500, and 10,000 microns.</p>
+<p id="p-0220" num="0219">A further embodiment of the present invention includes a microfluidic S-R flip-flip that is constructed from a pair of cross-coupled NOR gates. Flip-flop <b>690</b> in <figref idref="DRAWINGS">FIG. 33</figref> includes cross-coupled microfluidic NOR gates <b>691</b> and <b>692</b>. When the SET input of NOR gate <b>691</b> transitions from LOW to HIGH, the OUT signal goes HIGH and the <o ostyle="single">OUT</o> signal goes LOW. When the RESET input of NOR gate <b>692</b> transitions from LOW to HIGH, the OUT signal goes LOW and the <o ostyle="single">OUT</o> signal goes HIGH. When the SET input of NOR gate <b>691</b> and the RESET input of NOR gate <b>692</b> are both LOW, the OUT signal and the <o ostyle="single">OUT</o> signal both remain in their previous states. When the SET input of NOR gate <b>691</b> and the RESET input of NOR gate <b>692</b> are both HIGH, the OUT signal and the <o ostyle="single">OUT</o> signal are both LOW, which is an unstable state, because <o ostyle="single">OUT</o> and OUT cannot remain in that state when SET or RESET go LOW. The truth table for flip-flop <b>690</b> is shown below in Table 6.</p>
+<p id="p-0221" num="0220">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="49pt" align="center"/>
+<colspec colname="2" colwidth="56pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="63pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="4" rowsep="1">TABLE 6</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>SET</entry>
+<entry>RESET</entry>
+<entry>OUT</entry>
+<entry> <o ostyle="single">OUT</o></entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>L to H to L</entry>
+<entry>L</entry>
+<entry>H</entry>
+<entry>L</entry>
+</row>
+<row>
+<entry>L</entry>
+<entry>L to H to L</entry>
+<entry>L</entry>
+<entry>H</entry>
+</row>
+<row>
+<entry>L</entry>
+<entry>L</entry>
+<entry>Previous State</entry>
+<entry>Previous State</entry>
+</row>
+<row>
+<entry>H</entry>
+<entry>H</entry>
+<entry>L</entry>
+<entry>L</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0222" num="0221">The microfluidic devices of the present invention also include devices that perform analog functions that are similar to the analog functions performed by analog circuits. For example, a microfluidic switching regulator is shown in <figref idref="DRAWINGS">FIG. 34</figref>. Regulator <b>620</b> is an embodiment of a microfluidic switching regulator of the present invention. Regulator <b>620</b> includes microfluidic pressure multiplier <b>622</b> and pressure actuated normally closed switch <b>621</b>. The non-inverting input of multiplier <b>622</b> is coupled to a high pressure source (such as high pressure source <b>560</b>), and the inverting input of multiplier <b>622</b> is coupled to ambient exhaust.</p>
+<p id="p-0223" num="0222">When the pressure at the high pressure HP terminal increases above ambient pressure, pressure multiplier <b>622</b> amplifies the difference between the pressure at the HP terminal and ambient pressure and applies it to the gate of switch <b>621</b>. The gain of amplifier <b>622</b> is determined by equation (2) above as discussed with respect to <figref idref="DRAWINGS">FIG. 3</figref>. When the pressure at the HP terminal increases enough such that multiplier <b>622</b> increases the pressure at the gate of switch <b>621</b> above its threshold, switch <b>621</b> opens, causing fluid to flow from the HP terminal to ambient.</p>
+<p id="p-0224" num="0223">The pressure at the HP terminal now decreases. When the pressure at the HP terminal decreases enough such that multiplier <b>622</b> drops the pressure at the gate of switch <b>621</b> below its threshold, switch <b>621</b> closes, and the pressure at the HP terminal rises again. The geometry of differential pressure multiplier <b>622</b> is chosen to give it a gain such that it will open switch <b>621</b> at the desired pressure at the HP terminal. The gain of regulator <b>620</b> is chosen so that the pressure at the HP terminal is regulated to the desired value. Regulator <b>620</b> can be configured to regulate the pressure at the HP terminal to any desired value, by adjusting the gain of multiplier <b>622</b>.</p>
+<p id="p-0225" num="0224">A symbol for a pressure step source is shown in <figref idref="DRAWINGS">FIG. 35A</figref>. A pressure step source provides a rapidly increasing pressure signal at its output terminal OUT when a current signal is generated in the device. An example of a pressure step source is an electrolysis pressure source. The current signal is sent through sodium chloride solution in a channel within the electrolysis pressure source, that electrolyzes water in the solution to provide oxygen and hydrogen gas. The formation of gas bubbles in the sodium chloride solution causes the pressure in the channel to increase. The current I through the sodium chloride solution in the channel is shown in the top graph in <figref idref="DRAWINGS">FIG. 35B</figref>. The increase in pressure P at output terminal OUT is shown in the bottom graph of <figref idref="DRAWINGS">FIG. 35B</figref>.</p>
+<p id="p-0226" num="0225">The increasing pressure signal output by a step pressure source can rapidly open a normally closed valve or switch (or rapidly close a normally open valve or switch). However, the pressure in the channel of a pressure source (such as an electrolysis pressure source) does not decrease rapidly enough to re-open or re-close the valve or switch. The valve/switch remains closed for a lengthy period of time until the electrolytic gases have leaked away through the porous elastomer. Therefore, the pressure step source is not adequate by itself to rapidly open and close microfluidic valves and switches.</p>
+<p id="p-0227" num="0226">Structures and methods of the present invention provide ways to rapidly open and close valves and switches using a pair of pressure step sources, or by using a single step pressure source with appropriate delay logic. A first embodiment of a microfluidic S-R flip-flop that is coupled to a pair of pressure step sources is shown in <figref idref="DRAWINGS">FIG. 36A</figref>. Flip-flop <b>750</b> includes cross-coupled microfluidic NOR gates <b>755</b> and <b>756</b>, pressure actuated normally open microfluidic switches <b>751</b> and <b>752</b>, and pressure step sources <b>753</b>-<b>754</b>.</p>
+<p id="p-0228" num="0227">When pressure source <b>753</b> causes the pressure P<sub>1 </sub>at node n<b>1</b> to increase above the threshold of NOR gate <b>755</b>, NOR gate <b>755</b> causes pressure P<sub>3 </sub>at node n<b>3</b> at its output ( <o ostyle="single">OUT</o>) to go LOW, as shown by the graphs in <figref idref="DRAWINGS">FIG. 36B</figref>. When P<sub>3 </sub>goes LOW, switch <b>751</b> opens, coupling node n<b>1</b> to ambient exhaust. P<sub>1 </sub>now goes LOW rapidly. There may be a propagation delay between the time P<sub>1 </sub>goes HIGH and the time P<sub>3 </sub>goes LOW, which is not shown in <figref idref="DRAWINGS">FIG. 36B</figref>. Also, when P<sub>3 </sub>goes LOW, NOR gate <b>756</b> causes pressure P<sub>4 </sub>at node n<b>4</b> at its output (OUT) to go HIGH, closing switch <b>752</b>. Flip-flop <b>750</b> latches the output signals at nodes n<b>3</b> and n<b>4</b> until the next pressure pulse at step pressure source <b>754</b>.</p>
+<p id="p-0229" num="0228">When pressure source <b>754</b> causes pressure P<sub>2 </sub>at node n<b>2</b> to increase above the threshold of NOR gate <b>756</b>, NOR gate <b>756</b> causes pressure P<sub>4 </sub>at node n<b>4</b> to go LOW as shown by the graphs in <figref idref="DRAWINGS">FIG. 36B</figref>. When P<sub>4 </sub>goes LOW, switch <b>752</b> opens, coupling node n<b>2</b> to ambient exhaust. The pressure P<sub>2 </sub>at node n<b>2</b> now rapidly goes LOW. There may be a propagation delay between the time P<sub>2 </sub>goes HIGH and the time that P<sub>4 </sub>goes LOW. When P<sub>4 </sub>goes LOW, NOR gate <b>755</b> causes pressure P<sub>3 </sub>at node n<b>3</b> to go HIGH, closing switch <b>751</b> for the next cycle.</p>
+<p id="p-0230" num="0229">Flip-flop <b>750</b> latches the output signals at nodes n<b>3</b> and n<b>4</b> until the next pressure pulse at step pressure source <b>753</b>. Flip-flop <b>750</b> can provide rapidly rising and falling HIGH and LOW signals at OUT and <o ostyle="single">OUT</o> at a high frequency, because it provides a system for bringing the pressure at the outputs of pressure sources <b>753</b>-<b>754</b> down rapidly. Flip-flip <b>750</b> uses two step pressure sources and six microfluidic normally-open pressure actuated switches to control one valve line coupled to outputs OUT and <o ostyle="single">OUT</o>.</p>
+<p id="p-0231" num="0230">A further embodiment of the present invention that provides a way to rapidly open and close a valve or a switch using a single step pressure source with appropriate delay logic is shown in <figref idref="DRAWINGS">FIG. 37A</figref>. Flip-flip <b>800</b> includes step pressure source <b>801</b>, microfluidic pressure actuated normally open switches <b>802</b> and <b>803</b>, microfluidic resistors <b>804</b> and <b>805</b>, microfluidic capacitors <b>806</b> and <b>807</b>, microfluidic pressure actuated normally open switches <b>808</b> and <b>809</b>, and microfluidic NOR gates <b>810</b> and <b>811</b>.</p>
+<p id="p-0232" num="0231">For purposes of the following illustrative discussion, it is assumed that pressure P<sub>4 </sub>at node n<b>4</b> (the output <o ostyle="single">OUT</o> of NOR gate <b>810</b>) is at a HIGH level, and pressure P<sub>5 </sub>at node n<b>5</b> (the output OUT of NOR gate <b>811</b>) is at a LOW level. Therefore, switch <b>808</b> is open, and switch <b>809</b> is closed. Pressure P<sub>3 </sub>at node n<b>3</b> is HIGH, because node n<b>3</b> is coupled to a high pressure source HP through resistor <b>805</b>. Pressure P<sub>2 </sub>at node n<b>2</b> is HIGH, because node n<b>2</b> is coupled to a high pressure source HP through resistor <b>804</b>.</p>
+<p id="p-0233" num="0232">When pressure source <b>801</b> causes pressure P<sub>1 </sub>at node n<b>1</b> to increase to a HIGH level, NOR gate <b>810</b> causes pressure P<sub>4 </sub>at node n<b>4</b> to go LOW, because switch <b>808</b> is open as shown in the graphs in <figref idref="DRAWINGS">FIG. 37B</figref>. When P<sub>4 </sub>goes LOW, pressure P<sub>3 </sub>at node n<b>3</b> transitions LOW rapidly, because node n<b>3</b> is coupled to node n<b>4</b> through capacitor <b>807</b>. Therefore, the decreasing pressure pulse at n<b>4</b> is transferred to n<b>3</b> as shown in <figref idref="DRAWINGS">FIG. 37B</figref>. When P<sub>3 </sub>goes LOW, switch <b>803</b> opens and node n<b>1</b> is vented to ambient pressure, causing pressure P<sub>1 </sub>to go LOW. Subsequently pressure P<sub>3 </sub>at node n<b>3</b> increases back to a HIGH level according to the RC time constant of resistor <b>805</b> and capacitor <b>807</b>. The RC time constant of resistor <b>805</b> and capacitor <b>807</b> is chosen to be long enough to fully vent pressure P<sub>1 </sub>to ambient pressure when P<sub>4 </sub>goes LOW.</p>
+<p id="p-0234" num="0233">Also, when P<sub>4 </sub>goes LOW, NOR gate <b>811</b> causes pressure P<sub>5 </sub>at node n<b>5</b> to go HIGH. Switch <b>808</b> now closes, but P<sub>4 </sub>remains LOW because P<sub>5 </sub>(which is HIGH) is an input to NOR gate <b>810</b>. Switch <b>809</b> opens, because P<sub>4 </sub>is LOW. After P<sub>1 </sub>goes LOW, P<sub>4 </sub>and P<sub>5 </sub>maintain their logic states.</p>
+<p id="p-0235" num="0234">After P<sub>3 </sub>has returned to a HIGH state, pressure source <b>801</b> causes pressure P<sub>1 </sub>at node n<b>1</b> to increase to a HIGH level again. NOR gate <b>811</b> then causes pressure P<sub>5 </sub>at node n<b>5</b> to go LOW, because switch <b>809</b> is open as shown in the graphs in <figref idref="DRAWINGS">FIG. 37B</figref>. When P<sub>5 </sub>goes LOW, pressure P<sub>2 </sub>at node n<b>2</b> transitions LOW rapidly, because node n<b>2</b> is coupled to node n<b>5</b> through capacitor <b>806</b>. Therefore, the decreasing pressure pulse at n<b>5</b> is transferred to n<b>2</b> as shown in <figref idref="DRAWINGS">FIG. 37B</figref>. When P<sub>2 </sub>goes LOW, switch <b>802</b> opens and node n<b>1</b> is vented to ambient pressure, causing pressure P<sub>1 </sub>to go LOW. Subsequently pressure P<sub>2 </sub>at node n<b>2</b> increases back to a HIGH level according to the RC time constant of resistor <b>804</b> and capacitor <b>806</b>. The RC time constant of resistor <b>804</b> and capacitor <b>806</b> is chosen to be long enough to fully vent pressure P<sub>1 </sub>to ambient pressure when P<sub>5 </sub>goes LOW.</p>
+<p id="p-0236" num="0235">Also, when P<sub>5 </sub>goes LOW, NOR gate <b>810</b> causes pressure P<sub>4 </sub>at node n<b>4</b> to go HIGH. Switch <b>809</b> now closes, but P<sub>5 </sub>remains LOW because P<sub>4 </sub>(which is HIGH) is an input to NOR gate <b>811</b>. Switch <b>808</b> opens, because P<sub>5 </sub>is LOW. After P<sub>1 </sub>goes LOW, and P<sub>4 </sub>and P<sub>5 </sub>maintain their logic states. Switches <b>802</b> and <b>803</b> vent P<sub>1 </sub>to ambient following each transition. Switches <b>808</b> and <b>809</b> toggle the output of pressure source <b>801</b> to the SET and RESET inputs of flip-flop <b>800</b>.</p>
+<p id="p-0237" num="0236">Pulsing pressure P<sub>1 </sub>toggles the output state of OUT and <o ostyle="single">OUT</o> between &#x201c;on&#x201d; and &#x201c;off,&#x201d; providing signals that can rapidly open and close valves and switches. Flip-flop <b>800</b> can provide rapidly rising and falling HIGH and LOW signals at OUT and <o ostyle="single">OUT</o> at a high frequency, because it provides a system for bringing the pressure at the output of pressure source <b>801</b> down rapidly. Flip-flop <b>800</b> uses a single step pressure source and eight pressure actuated normally-open switches to control one valve line coupled to outputs OUT and <o ostyle="single">OUT</o>.</p>
+<p id="p-0238" num="0237">The devices of <figref idref="DRAWINGS">FIGS. 36A and 37A</figref> may be used in the general case of asynchronous logic. For sections of the microfluidic logic which operate synchronously, the device of <figref idref="DRAWINGS">FIG. 38</figref> may be used. Flip-flop <b>850</b> includes step pressure source <b>851</b>, microfluidic pressure actuated normally open switches <b>852</b>-<b>854</b>, microfluidic NOR gates <b>855</b>-<b>856</b>, and a single clock signal line ( <o ostyle="single">RESET</o>) coupled to the gate of switch <b>852</b>. <o ostyle="single">RESET</o> is normally HIGH. All step sources including step pressure source <b>851</b> are vented simultaneously when <o ostyle="single">RESET</o> is LOW.</p>
+<p id="p-0239" num="0238">When pressure P<sub>1 </sub>at node n<b>1</b> goes HIGH, NOR gate <b>855</b> causes pressure P<sub>2 </sub>at n<b>2</b> to go LOW (assuming for illustration that switch <b>854</b> is open and switch <b>853</b> is closed). Subsequently, NOR gate <b>856</b> causes pressure P<sub>3 </sub>at node n<b>3</b> to go HIGH. Switch <b>854</b> now closes, and switch <b>853</b> opens. The pressures at P<sub>2 </sub>and P<sub>3 </sub>will hold their current states (LOW and HIGH, respectively), when P<sub>1 </sub>goes LOW. When <o ostyle="single">RESET</o> subsequently goes LOW for short period of time, switch <b>852</b> opens, and P<sub>1 </sub>is pulled LOW (to ambient pressure). <o ostyle="single">RESET</o> then returns to a HIGH state.</p>
+<p id="p-0240" num="0239">When P<sub>1 </sub>subsequently goes HIGH again. NOR gate <b>856</b> causes pressure P<sub>3 </sub>at n<b>3</b> to go LOW (because switch <b>853</b> is open). Subsequently, NOR gate <b>855</b> causes pressure P<sub>2 </sub>at node n<b>2</b> to go HIGH. Switch <b>853</b> now closes, and switch <b>854</b> opens. The pressures at P<sub>2 </sub>and P<sub>3 </sub>hold their previous states (HIGH and LOW, respectively), until P<sub>1 </sub>goes HIGH again. When P<sub>1 </sub>goes HIGH again, the cycle repeats, and pressures at P<sub>2 </sub>and P<sub>3 </sub>change state again.</p>
+<p id="p-0241" num="0240">Another microfluidic switch of the present invention is shown in <figref idref="DRAWINGS">FIGS. 39A-39D</figref>. Pressure actuated normally open switch <b>900</b> includes elastomer layers <b>901</b>, <b>902</b>, and <b>903</b> that are form on top of rigid substrate <b>904</b>. Layer <b>901</b> includes channel <b>910</b>, which is the gate of the switch. Layer <b>902</b> includes chambers <b>911</b>-<b>912</b>, which are shown by the dotted lines in the top down view of <figref idref="DRAWINGS">FIG. 39B</figref>. Chambers <b>911</b>-<b>912</b> are connected to ambient exhaust. Layer <b>903</b> includes channel <b>914</b>, which couples the drain and the source of the switch. <figref idref="DRAWINGS">FIG. 39A</figref> is a cross section view along channel <b>910</b>. <figref idref="DRAWINGS">FIG. 39C</figref> is a cross section view perpendicular to channel <b>910</b>, that does not intersect chambers <b>911</b>-<b>912</b> or channel <b>914</b>.</p>
+<p id="p-0242" num="0241">The pressure in chambers <b>911</b>-<b>912</b> may be at ambient pressure. When the pressure in gate channel <b>910</b> increases above ambient, the channel <b>910</b> presses down on the area between chambers <b>911</b>-<b>912</b>. The V shaped cross-section of this elastomer layer concentrates force from a large area under channel <b>910</b> onto a small area over channel <b>910</b>. When the pressure on channel <b>910</b> is increased enough, channel <b>914</b> closes, decoupling the source and the drain of switch <b>900</b>.</p>
+<p id="p-0243" num="0242">The pressure in channel <b>910</b> may be increased and decreased above and below a threshold to open and close channel <b>914</b> as a switch. Chambers <b>911</b>-<b>912</b> may be formed in layer <b>902</b> by placing photoresist on a silicon substrate, etching the photoresist, and then baking it to form photoresist regions <b>931</b> and <b>932</b> as shown in <figref idref="DRAWINGS">FIG. 39D</figref>. Elastomer is formed over regions <b>931</b>-<b>932</b>, and regions <b>931</b>-<b>932</b> act as a mold to form chambers <b>911</b>-<b>912</b> in the elastomer layer.</p>
+<p id="p-0244" num="0243">Layer <b>901</b> may be, for example, 10 microns to 2 mm. Specific examples include 10, 20, 30, 40, 50, 60 70, 80, 90, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000, 5500, 6000, 6500, 7000, 7500, 8000, 8500, 9000, 9500, 10,000, 11,000, 12,000, 13,000, 14,000, 15,000, 16,000, 17,000, 18,000, 19,000 and 20,000 microns.</p>
+<p id="p-0245" num="0244">Layers <b>902</b> and <b>903</b> may be, for example, 1-1000 microns. Specific examples include 1, 2, 3, 4, 5, 10, 20, 30, 40, 50, 60 70, 80, 90, 100, 200, 300, 400, 500, 600, 700, 800, 900, and 1000 microns.</p>
+<p id="p-0246" num="0245">Channel <b>910</b> and chambers <b>911</b>-<b>912</b> may be, for example, 2.5-5000 microns wide. Specific examples include 2.5, 5, 10, 15, 20, 25, 35, 50, 60, 75, 85, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1200, 1400, 1600, 2000, 2200, 2400, 2600, 2800, 3000, 3200, 3400, 3600, 3800, 4000, 4200, 4400, 4600, 4800, and 5000 microns. Channel <b>910</b> and chambers <b>911</b>-<b>912</b> may be, for example, 1-200 microns high. Specific examples include 1, 5, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 120, 140, 160, 180, and 200 microns.</p>
+<p id="p-0247" num="0246">Channel <b>914</b> may be, for example, 0.1-250 microns wide. Specific examples include 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 120, 140, 160, 180, 200, 210, 220, 225, and 250 microns.</p>
+<p id="p-0248" num="0247">Channel <b>910</b> and chambers <b>911</b>-<b>912</b> act as an inverted pyramid pressure structure that takes the force of a smaller pressure buildup in a larger area in channel <b>910</b>, and concentrates that force into a larger pressure over a smaller area into channel <b>914</b> (where channel <b>914</b> intersects channel <b>910</b>). Chambers <b>911</b>-<b>912</b> focus the pressure increase in channel <b>910</b> over channel <b>914</b>. This design provides a way to amplify the effect of a pressure increase in channel <b>910</b> to open and close channel <b>914</b> without having to increase the pressure in channel <b>910</b> above the pressure in channel <b>914</b>. Layer <b>901</b> may be referred to as the control layer, layer <b>902</b> is the focus layer, and layer <b>903</b> is the flow layer.</p>
+<p id="p-0249" num="0248">Chambers <b>911</b> and <b>912</b> allow channel <b>914</b> to be closed without having to increase the pressure in gate channel <b>910</b> above the pressure in drain-to-source channel <b>914</b>. Therefore, switch <b>900</b> may be coupled with other microfluidic switches to perform logic functions and other functions, because switch <b>900</b> does not require a pressure drop from the gate channel to the source-to-drain channel.</p>
+<p id="p-0250" num="0249">The present invention also includes other inverted pyramid pressure amplification switches, such as the switches <b>950</b> and <b>970</b> in <figref idref="DRAWINGS">FIGS. 40-41</figref>. Pressure actuated normally open switch <b>950</b> includes elastomer layers <b>951</b>, <b>952</b>, and <b>953</b> which are formed on rigid substrate <b>954</b>. Layer <b>951</b> includes gate channel <b>957</b>, layer <b>952</b> includes chambers <b>955</b>-<b>956</b>, and layer <b>953</b> includes drain-to-source channel <b>958</b>. Channel <b>957</b> is perpendicular to channel <b>958</b>. When pressure in gate channel <b>957</b> increases, chambers <b>955</b>-<b>956</b> concentrate the force over channel <b>958</b> to close channel <b>958</b>. Chambers <b>955</b>-<b>956</b> are rectangular, and therefore they provide less effective force transmission to channel <b>958</b> than chambers <b>911</b>-<b>912</b>.</p>
+<p id="p-0251" num="0250">Pressure actuated normally open switch <b>970</b> includes elastomer layers <b>971</b>, <b>972</b> and <b>973</b>, which are formed on rigid substrate <b>974</b>. Layer <b>971</b> includes gate channel <b>977</b>, layer <b>972</b> includes chambers <b>975</b>-<b>976</b>, and layer <b>973</b> includes drain-to-source channel <b>978</b>. Channel <b>977</b> is perpendicular to channel <b>978</b>. When pressure in gate channel <b>977</b> increases, chambers <b>975</b>-<b>976</b> concentrate the force over channel <b>978</b> to close channel <b>978</b>. Chambers <b>975</b>-<b>976</b> concentrate the force from channel <b>977</b> over channel <b>978</b> more effectively than chambers <b>955</b>-<b>956</b>, because chambers <b>975</b>-<b>976</b> are shaped as trapezoids.</p>
+<p id="p-0252" num="0251">While the present invention has been described herein with reference to particular embodiments thereof, a latitude of modification, various changes and substitutions are intended in the foregoing disclosure, and it will be appreciated that in some instances some features of the invention will be employed without a corresponding use of other features without departing from the scope of the invention as set forth. Therefore, many modifications may be made to adapt a particular situation or material to the teachings of the invention without departing from the essential scope and spirit of the present invention. It is intended that the invention not be limited to the particular embodiment disclosed as the best mode contemplated for carrying out this invention, but that the invention will include all embodiments and equivalents falling within the scope of the claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US07640947-20100105-M00001.NB">
+<img id="EMI-M00001" he="6.69mm" wi="76.20mm" file="US07640947-20100105-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00002" nb-file="US07640947-20100105-M00002.NB">
+<img id="EMI-M00002" he="6.69mm" wi="76.20mm" file="US07640947-20100105-M00002.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A microfabricated fluidic pressure source comprising:
+<claim-text>a fluidic pump;</claim-text>
+<claim-text>microfabricated fluidic first and second unidirectional valves, each coupled to the fluidic pump;</claim-text>
+<claim-text>a microfabricated fluidic reservoir coupled to the second unidirectional valve;</claim-text>
+<claim-text>a third unidirectional valve coupled to the second unidirectional valve;</claim-text>
+<claim-text>a fourth unidirectional valve coupled to the third unidirectional valve;</claim-text>
+<claim-text>a first microfluidic capacitor coupled between the pump and the third unidirectional valve; and</claim-text>
+<claim-text>a second microfluidic capacitor coupled between the third unidirectional valve and the fourth unidirectional valve.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The microfabricated fluidic pressure source of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the fluidic pump comprises an elastomeric region with an internal chamber.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The microfluidic pressure source of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein fluid is forced through the second unidirectional valve into the reservoir when the fluidic pump is compressed or bent.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The microfluidic pressure source of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein at least one of the unidirectional valves comprises a channel in a region of elastomer material, an elastomer flap, and a stopper in the channel, wherein the stopper prevents the elastomer flap from opening the channel when fluid flows in a first direction through the channel, but not in a second direction.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The microfluidic pressure source of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the microfabricated fluidic reservoir comprises a chamber inside a plurality of elastomeric layers.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The microfluidic pressure source of <claim-ref idref="CLM-00005">claim 5</claim-ref> wherein an elastomer layer above the chamber flexes as the pressure inside the chamber changes.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The microfluidic pressure source of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the microfabricated fluidic pressure source is a high pressure source.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The microfluidic pressure source of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein at least one of the first or second unidirectional valves comprises:
+<claim-text>first and second elastomer layers with a first channel therebetween;</claim-text>
+<claim-text>an elastomer spacer in the first channel that is sealed to the first elastomer layer; and</claim-text>
+<claim-text>an elastomer flap sealed to the elastomer spacer, but not sealed to the second elastomer layer, wherein the elastomer flap covers a feed through channel in the second elastomer layer.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The microfluidic pressure source of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the microfabricated fluidic reservoir includes a third capacitor.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The microfluidic pressure source of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the first microfluidic capacitor is coupled to an input of the third unidirectional valve.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The microfluidic pressure source of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the first microfluidic capacitor is coupled to an input of the first unidirectional valve and an output of the fourth unidirectional valve.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The microfluidic pressure source of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the second microfluidic capacitor is coupled to an output of the third unidirectional valve and an input of the fourth unidirectional valve.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The microfluidic pressure source of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein a pressure at an output of the third unidirectional valve is higher than a pressure at an output of the first unidirectional valve. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

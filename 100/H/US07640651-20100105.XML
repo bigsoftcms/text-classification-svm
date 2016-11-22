@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640651-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640651</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11028945</doc-number>
+<date>20050103</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>888</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>F</subclass>
+<main-group>3</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>F</subclass>
+<main-group>7</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 29609</main-classification>
+<further-classification> 295921</further-classification>
+<further-classification> 296021</further-classification>
+<further-classification>324754</further-classification>
+<further-classification>324761</further-classification>
+<further-classification>324762</further-classification>
+<further-classification>36911201</further-classification>
+<further-classification>36911205</further-classification>
+<further-classification>36911206</further-classification>
+<further-classification>36911209</further-classification>
+<further-classification>438254</further-classification>
+<further-classification>438381</further-classification>
+<further-classification>438622</further-classification>
+</classification-national>
+<invention-title id="d0e53">Fabrication process for co-fabricating multilayer probe array and a space transformer</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3832632</doc-number>
+<kind>A</kind>
+<name>Ardezzone</name>
+<date>19740800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>324756</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4961052</doc-number>
+<kind>A</kind>
+<name>Tada et al.</name>
+<date>19901000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>324158</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5020219</doc-number>
+<kind>A</kind>
+<name>Leedy</name>
+<date>19910600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 29846</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5070297</doc-number>
+<kind>A</kind>
+<name>Kwon et al.</name>
+<date>19911200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>324158</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5190637</doc-number>
+<kind>A</kind>
+<name>Guckel</name>
+<date>19930300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>205118</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5772451</doc-number>
+<kind>A</kind>
+<name>Dozier et al.</name>
+<date>19980600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>439 70</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5806181</doc-number>
+<kind>A</kind>
+<name>Khandros et al.</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 29874</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5820014</doc-number>
+<kind>A</kind>
+<name>Dozier et al.</name>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>228 563</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5829128</doc-number>
+<kind>A</kind>
+<name>Eldridge et al.</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 29855</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5917707</doc-number>
+<kind>A</kind>
+<name>Khandros et al.</name>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>361776</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5974662</doc-number>
+<kind>A</kind>
+<name>Eldridge et al.</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 29842</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5994152</doc-number>
+<kind>A</kind>
+<name>Eldridge et al.</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 29842</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>6023103</doc-number>
+<kind>A</kind>
+<name>Chang et al.</name>
+<date>20000200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>257781</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>6027630</doc-number>
+<kind>A</kind>
+<name>Cohen</name>
+<date>20000200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>205135</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>6043563</doc-number>
+<kind>A</kind>
+<name>Eldridge et al.</name>
+<date>20000300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>257784</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6044548</doc-number>
+<kind>A</kind>
+<name>Distefano et al.</name>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 29840</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>6051875</doc-number>
+<kind>A</kind>
+<name>Dando</name>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>257632</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6064213</doc-number>
+<kind>A</kind>
+<name>Khandros et al.</name>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>324754</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6074896</doc-number>
+<kind>A</kind>
+<name>Dando</name>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>438114</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6208225</doc-number>
+<kind>B1</kind>
+<name>Miller</name>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>333202</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6218910</doc-number>
+<kind>B1</kind>
+<name>Miller</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>333 33</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>6441315</doc-number>
+<kind>B1</kind>
+<name>Eldridge et al.</name>
+<date>20020800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>174260</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>6456099</doc-number>
+<kind>B1</kind>
+<name>Eldridge et al.</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>324754</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>6482013</doc-number>
+<kind>B2</kind>
+<name>Eldridge et al.</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>439 66</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>6483328</doc-number>
+<kind>B1</kind>
+<name>Eldridge et al.</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>324754</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>6499216</doc-number>
+<kind>B1</kind>
+<name>Fjelstad</name>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 29842</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>6509751</doc-number>
+<kind>B1</kind>
+<name>Mathieu et al.</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>324754</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>6520778</doc-number>
+<kind>B1</kind>
+<name>Eldridge et al.</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>439 66</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>6539531</doc-number>
+<kind>B2</kind>
+<name>Miller et al.</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>716 15</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>6627483</doc-number>
+<kind>B2</kind>
+<name>Ondricek et al.</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>438117</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>6640415</doc-number>
+<kind>B2</kind>
+<name>Eslamy et al.</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 29593</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>6672875</doc-number>
+<kind>B1</kind>
+<name>Mathieu et al.</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>439 66</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>6690185</doc-number>
+<kind>B1</kind>
+<name>Khandros et al.</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>324758</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>6690186</doc-number>
+<kind>B2</kind>
+<name>Fjelstad</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>324762</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>6705876</doc-number>
+<kind>B2</kind>
+<name>Eldridge</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>439 66</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>6713374</doc-number>
+<kind>B2</kind>
+<name>Eldridge et al.</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>438611</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>6729019</doc-number>
+<kind>B2</kind>
+<name>Grube et al.</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 29830</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>6778742</doc-number>
+<kind>B2</kind>
+<name>Brown et al.</name>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>385100</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>6817052</doc-number>
+<kind>B2</kind>
+<name>Grube</name>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 15  3</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>6838893</doc-number>
+<kind>B2</kind>
+<name>Khandros, Jr. et al.</name>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>324754</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>6913468</doc-number>
+<kind>B2</kind>
+<name>Dozier, II et al.</name>
+<date>20050700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>439 66</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>7142000</doc-number>
+<kind>B2</kind>
+<name>Eldridge et al.</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>324765</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>2003/0186405</doc-number>
+<kind>A1</kind>
+<name>Lee et al.</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>435182</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>2004/0007470</doc-number>
+<kind>A1</kind>
+<name>Smalley</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>205118</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>2004/0072452</doc-number>
+<kind>A1</kind>
+<name>Eldridge et al.</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>439 69</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>2005/0029225</doc-number>
+<kind>A1</kind>
+<name>Zhang</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>216 40</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>2005/0045585</doc-number>
+<kind>A1</kind>
+<name>Zhang et al.</name>
+<date>20050300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>216 58</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00048">
+<document-id>
+<country>US</country>
+<doc-number>2005/0142846</doc-number>
+<kind>A1</kind>
+<name>Frodis et al.</name>
+<date>20050600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>438622</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00049">
+<document-id>
+<country>US</country>
+<doc-number>2005/0148214</doc-number>
+<kind>A1</kind>
+<name>Mathieu et al.</name>
+<date>20050700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>439 67</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00050">
+<document-id>
+<country>US</country>
+<doc-number>2005/0179458</doc-number>
+<kind>A1</kind>
+<name>Chen et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>324762</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00051">
+<document-id>
+<country>US</country>
+<doc-number>2005/0184748</doc-number>
+<kind>A1</kind>
+<name>Chen et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>324761</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00052">
+<document-id>
+<country>US</country>
+<doc-number>2006/0006888</doc-number>
+<kind>A1</kind>
+<name>Kruglick et al.</name>
+<date>20060100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>324754</main-classification></classification-national>
+</citation>
+<citation>
+<nplcit num="00053">
+<othercit>Cohen, et al., &#x201c;EFAB: Batch Production of Functional, Fully-Dense Metal Parts with Micron-Scale Features&#x201d;, Proc. 9th Solid Freeform Fabrication, The University of Texas at Austin, Aug. 1998, p. 161.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00054">
+<othercit>Adam L. Cohen, et al., &#x201c;EFAB: Rapid, Low-Cost Desktop Micromachining of High Aspect Ratio True 3-D MEMS&#x201d;, Proc. 12th IEEE Micro Electro Mechanical Systems Workshop, IEEE, Jan. 1999, p. 244.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00055">
+<othercit>&#x201c;Microfabrication&#x2014;Rapid Prototyping's Killer Application&#x201d;, Rapid Prototyping Report, CAD/CAM Publishing, Inc., Jun. 1999, pp. 1-5.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00056">
+<othercit>Adam L. Cohen, &#x201c;3-D Micromachining by Electrochemical Fabrication&#x201d;, Micromachine Devices, Mar. 1999, pp. 6-7.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00057">
+<othercit>Gang Zhang, et al., &#x201c;EFAB: Rapid Desktop Manufacturing of True 3-D Microstructures&#x201d;, Proc. 2nd. International Conference on Integrated MicroNanotechnology for Space Applications, The Aerospace Co., Apr. 1999.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00058">
+<othercit>F. Tseng, et al., &#x201c;EFAB: High Aspect Ratio, Arbitrary 3-D Metal Microstructures Using a Low-Cost Automated Batch Process&#x201d;, 3rd International Workshop on High Aspect Ratio Microstructure Technology (HARMST'99), Jun. 1999.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00059">
+<othercit>Adam L. Cohen, et al., &#x201c;EFAB: Low-Cost, Automated Electrochemical Batch Fabrication of Arbitrary 3-D Microstructures&#x201d;, Micromachining and Microfabrication Process Technology, SPIE 1999 Symposium on Micromachining and Microfabrication, Sep. 1999.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00060">
+<othercit>F. Tseng, et al., &#x201c;EFAB: High Aspect Ratio, Arbitrary 3-D Metal Microstructures Using a Low-Cost Automated Batch Process&#x201d;, MEMS Symposium, ASME 1999 International Mechanical Engineering Congress and Exposition, Nov. 1999.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00061">
+<othercit>Adam L. Cohen, &#x201c;Electrochemical Fabrication (EFABTM)&#x201d;, Chapter 19 of the MEMS Handbook, edited by Mohamed Gad-El-Hak, CRC Press, 2002, pp. 19/1-19/23.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>4</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 295921</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 296021</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29609</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>324754</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>324761</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>324762</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>36911201</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>36911205</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>36911206</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>36911209</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>36911227</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438254</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438381</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438622</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>30</number-of-drawing-sheets>
+<number-of-figures>124</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60533948</doc-number>
+<kind>00</kind>
+<date>20031231</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60574737</doc-number>
+<kind>00</kind>
+<date>20040526</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20050223543</doc-number>
+<kind>A1</kind>
+<date>20051013</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Cohen</last-name>
+<first-name>Adam L.</first-name>
+<address>
+<city>Los Angeles</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Arat</last-name>
+<first-name>Vacit</first-name>
+<address>
+<city>La Canada Flintridge</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Lockard</last-name>
+<first-name>Michael S.</first-name>
+<address>
+<city>Lake Elizabeth</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Bang</last-name>
+<first-name>Christopher A.</first-name>
+<address>
+<city>San Diego</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="005" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Lembrikov</last-name>
+<first-name>Pavel B.</first-name>
+<address>
+<city>Santa Monica</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Smalley</last-name>
+<first-name>Dennis R.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Microfabrica Inc.</orgname>
+<role>02</role>
+<address>
+<city>Van Nuys</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Kim</last-name>
+<first-name>Paul D</first-name>
+<department>3729</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Embodiments of the invention provide fabrication processes for the co-fabrication of microprobe arrays along with one or more space transformers wherein the fabrication processes include the forming and adhering of a plurality of layers to previously formed layers and wherein at least a portion of the plurality of layers are formed from at least one structural material and at least one sacrificial material that is at least in part released from the plurality of layers after formation and wherein the space transformer includes a plurality of interconnect elements that connect one side to the array of probes that has a first spacing to another side that has a second spacing where the second spacing is greater than the first spacing. In some embodiments, the fabrication process includes a plurality of electrodeposition operations.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="67.73mm" wi="86.02mm" file="US07640651-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="245.03mm" wi="181.61mm" file="US07640651-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="244.09mm" wi="183.22mm" file="US07640651-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="251.04mm" wi="160.87mm" file="US07640651-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="247.06mm" wi="169.33mm" file="US07640651-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="233.68mm" wi="196.85mm" file="US07640651-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="238.51mm" wi="196.60mm" file="US07640651-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="232.16mm" wi="189.91mm" file="US07640651-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="238.76mm" wi="185.08mm" file="US07640651-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="217.76mm" wi="181.10mm" file="US07640651-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="212.85mm" wi="191.77mm" file="US07640651-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="240.96mm" wi="186.52mm" file="US07640651-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="246.13mm" wi="194.06mm" file="US07640651-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="237.49mm" wi="178.05mm" file="US07640651-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="231.56mm" wi="171.53mm" file="US07640651-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="178.05mm" wi="118.53mm" file="US07640651-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="225.72mm" wi="199.31mm" file="US07640651-20100105-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="227.84mm" wi="192.02mm" file="US07640651-20100105-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="231.48mm" wi="172.64mm" file="US07640651-20100105-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="235.03mm" wi="179.24mm" file="US07640651-20100105-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="234.19mm" wi="190.50mm" file="US07640651-20100105-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="238.76mm" wi="193.80mm" file="US07640651-20100105-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="241.47mm" wi="189.65mm" file="US07640651-20100105-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="238.34mm" wi="190.75mm" file="US07640651-20100105-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="228.35mm" wi="108.54mm" orientation="landscape" file="US07640651-20100105-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="233.43mm" wi="133.94mm" orientation="landscape" file="US07640651-20100105-D00025.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00026" num="00026">
+<img id="EMI-D00026" he="203.62mm" wi="166.79mm" orientation="landscape" file="US07640651-20100105-D00026.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00027" num="00027">
+<img id="EMI-D00027" he="238.25mm" wi="121.50mm" orientation="landscape" file="US07640651-20100105-D00027.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00028" num="00028">
+<img id="EMI-D00028" he="207.86mm" wi="163.15mm" orientation="landscape" file="US07640651-20100105-D00028.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00029" num="00029">
+<img id="EMI-D00029" he="207.26mm" wi="171.96mm" orientation="landscape" file="US07640651-20100105-D00029.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00030" num="00030">
+<img id="EMI-D00030" he="211.58mm" wi="170.69mm" orientation="landscape" file="US07640651-20100105-D00030.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims benefit of U.S. Provisional Patent Application Nos. 60/533,948 and 60/574,737, filed Dec. 31, 2003 and May 26, 2004, respectively. These applications are hereby incorporated herein by reference as if set forth in full herein.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates generally to the field of electrochemical fabrication and the associated formation of three-dimensional structures (e.g. microscale or mesoscale structures). In particular, it relates to electrochemical fabrication methods for fabricating space transformers and microprobes.</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">A technique for forming three-dimensional structures (e.g. parts, components, devices, and the like) from a plurality of adhered layers was invented by Adam L. Cohen and is known as Electrochemical Fabrication. It is being commercially pursued by Microfabrica Inc. (formerly MEMGen Corporation) of Van Nuys, Calif. under the name EFAB&#xae;. This technique was described in U.S. Pat. No. 6,027,630, issued on Feb. 22, 2000. This electrochemical deposition technique allows the selective deposition of a material using a unique masking technique that involves the use of a mask that includes patterned conformable material on a support structure that is independent of the substrate onto which plating will occur. When desiring to perform an electrodeposition using the mask, the conformable portion of the mask is brought into contact with a substrate while in the presence of a plating solution such that the contact of the conformable portion of the mask to the substrate inhibits deposition at selected locations. For convenience, these masks might be generically called conformable contact masks; the masking technique may be generically called a conformable contact mask plating process. More specifically, in the terminology of Microfabrica Inc. (formerly MEMGen Corporation) of Van Nuys, Calif. such masks have come to be known as INSTANT MASKS&#x2122; and the process known as INSTANT MASKING&#x2122; or INSTANT MASKING&#x2122; plating. Selective depositions using conformable contact mask plating may be used to form single layers of material or may be used to form multi-layer structures. The teachings of the '630 patent are hereby incorporated herein by reference as if set forth in full herein. Since the filing of the patent application that led to the above noted patent, various papers about conformable contact mask plating (i.e. INSTANT MASKING&#x2122;) and electrochemical fabrication have been published:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0004">(1) A. Cohen, G. Zhang, F. Tseng, F. Mansfeld, U. Frodis and P. Will, &#x201c;EFAB: Batch production of functional, fully-dense metal parts with micro-scale features&#x201d;, Proc. 9th Solid Freeform Fabrication, The University of Texas at Austin, p 161, August 1998.</li>
+        <li id="ul0002-0002" num="0005">(2) A. Cohen, G. Zhang, F. Tseng, F. Mansfeld, U. Frodis and P. Will, &#x201c;EFAB: Rapid, Low-Cost Desktop Micromachining of High Aspect Ratio True 3-D MEMS&#x201d;, Proc. 12th IEEE Micro Electro Mechanical Systems Workshop, IEEE, p 244, January 1999.</li>
+        <li id="ul0002-0003" num="0006">(3) A. Cohen, &#x201c;3-D Micromachining by Electrochemical Fabrication&#x201d;, Micromachine Devices, March 1999.</li>
+        <li id="ul0002-0004" num="0007">(4) G. Zhang, A. Cohen, U. Frodis, F. Tseng, F. Mansfeld, and P. Will, &#x201c;EFAB: Rapid Desktop Manufacturing of True 3-D Microstructures&#x201d;, Proc. 2nd International Conference on Integrated MicroNanotechnology for Space Applications, The Aerospace Co., April 1999.</li>
+        <li id="ul0002-0005" num="0008">(5) F. Tseng, U. Frodis, G. Zhang, A. Cohen, F. Mansfeld, and P. Will, &#x201c;EFAB: High Aspect Ratio, Arbitrary 3-D Metal Microstructures using a Low-Cost Automated Batch Process&#x201d;, 3rd International Workshop on High Aspect Ratio MicroStructure Technology (HARMST'99), June 1999.</li>
+        <li id="ul0002-0006" num="0009">(6) A. Cohen, U. Frodis, F. Tseng, G. Zhang, F. Mansfeld, and P. Will, &#x201c;EFAB: Low-Cost, Automated Electrochemical Batch Fabrication of Arbitrary 3-D Microstructures&#x201d;, Micromachining and Microfabrication Process Technology, SPIE 1999 Symposium on Micromachining and Microfabrication, September 1999.</li>
+        <li id="ul0002-0007" num="0010">(7) F. Tseng, G. Zhang, U. Frodis, A. Cohen, F. Mansfeld, and P. Will, &#x201c;EFAB: High Aspect Ratio, Arbitrary 3-D Metal Microstructures using a Low-Cost Automated Batch Process&#x201d;, MEMS Symposium, ASME 1999 International Mechanical Engineering Congress and Exposition, November, 1999.</li>
+        <li id="ul0002-0008" num="0011">(8) A. Cohen, &#x201c;Electrochemical Fabrication (EFAB&#x2122;)&#x201d;, Chapter 19 of The MEMS Handbook, edited by Mohamed Gad-EI-Hak, CRC Press, 2002.</li>
+        <li id="ul0002-0009" num="0012">(9) Microfabrication&#x2014;Rapid Prototyping's Killer Application&#x201d;, pages 1-5 of the Rapid Prototyping Report, CAD/CAM Publishing, Inc., June 1999.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0005" num="0013">The disclosures of these nine publications are hereby incorporated herein by reference as if set forth in full herein.</p>
+<p id="p-0006" num="0014">The electrochemical deposition process may be carried out in a number of different ways as set forth in the above patent and publications. In one form, this process involves the execution of three separate operations during the formation of each layer of the structure that is to be formed:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0015">(1) Selectively depositing at least one material by electrodeposition upon one or more desired regions of a substrate.</li>
+        <li id="ul0004-0002" num="0016">(2) Then, blanket depositing at least one additional material by electrodeposition so that the additional deposit covers both the regions that were previously selectively deposited onto, and the regions of the substrate that did not receive any previously applied selective depositions.</li>
+        <li id="ul0004-0003" num="0017">(3) Finally, planarizing the materials deposited during the first and second operations to produce a smoothed surface of a first layer of desired thickness having at least one region containing the at least one material and at least one region containing at least the one additional material.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0007" num="0018">After formation of the first layer, one or more additional layers may be formed adjacent to the immediately preceding layer and adhered to the smoothed surface of that preceding layer. These additional layers are formed by repeating the first through third operations one or more times wherein the formation of each subsequent layer treats the previously formed layers and the initial substrate as a new and thickening substrate.</p>
+<p id="p-0008" num="0019">Once the formation of all layers has been completed, at least a portion of at least one of the materials deposited is generally removed by an etching process to expose or release the three-dimensional structure that was intended to be formed.</p>
+<p id="p-0009" num="0020">The preferred method of performing the selective electrodeposition involved in the first operation is by conformable contact mask plating. In this type of plating, one or more conformable contact (CC) masks are first formed. The CC masks include a support structure onto which a patterned conformable dielectric material is adhered or formed. The conformable material for each mask is shaped in accordance with a particular cross-section of material to be plated. At least one CC mask is needed for each unique cross-sectional pattern that is to be plated.</p>
+<p id="p-0010" num="0021">The support for a CC mask is typically a plate-like structure formed of a metal that is to be selectively electroplated and from which material to be plated will be dissolved. In this typical approach, the support will act as an anode in an electroplating process. In an alternative approach, the support may instead be a porous or otherwise perforated material through which deposition material will pass during an electroplating operation on its way from a distal anode to a deposition surface. In either approach, it is possible for CC masks to share a common support, i.e. the patterns of conformable dielectric material for plating multiple layers of material may be located in different areas of a single support structure. When a single support structure contains multiple plating patterns, the entire structure is referred to as the CC mask while the individual plating masks may be referred to as &#x201c;submasks&#x201d;. In the present application such a distinction will be made only when relevant to a specific point being made.</p>
+<p id="p-0011" num="0022">In preparation for performing the selective deposition of the first operation, the conformable portion of the CC mask is placed in registration with and pressed against a selected portion of the substrate (or onto a previously formed layer or onto a previously deposited portion of a layer) on which deposition is to occur. The pressing together of the CC mask and substrate occur in such a way that all openings, in the conformable portions of the CC mask contain plating solution. The conformable material of the CC mask that contacts the substrate acts as a barrier to electrodeposition while the openings in the CC mask that are filled with electroplating solution act as pathways for transferring material from an anode (e.g. the CC mask support) to the non-contacted portions of the substrate (which act as a cathode during the plating operation) when an appropriate potential and/or current are supplied.</p>
+<p id="p-0012" num="0023">An example of a CC mask and CC mask plating are shown in <figref idref="DRAWINGS">FIGS. 1A-1C</figref>. <figref idref="DRAWINGS">FIG. 1A</figref> shows a side view of a CC mask <b>8</b> consisting of a conformable or deformable (e.g. elastomeric) insulator <b>10</b> patterned on an anode <b>12</b>. The anode has two functions. <figref idref="DRAWINGS">FIG. 1A</figref> also depicts a substrate <b>6</b> separated from mask <b>8</b>. One is as a supporting material for the patterned insulator <b>10</b> to maintain its integrity and alignment since the pattern may be topologically complex (e.g., involving isolated &#x201c;islands&#x201d; of insulator material). The other function is as an anode for the electroplating operation. CC mask plating selectively deposits material <b>22</b> onto a substrate <b>6</b> by simply pressing the insulator against the substrate then electrodepositing material through apertures <b>26</b><i>a </i>and <b>26</b><i>b </i>in the insulator as shown in <figref idref="DRAWINGS">FIG. 1B</figref>. After deposition, the CC mask is separated, preferably non-destructively, from the substrate <b>6</b> as shown in <figref idref="DRAWINGS">FIG. 1C</figref>. The CC mask plating process is distinct from a &#x201c;through-mask&#x201d; plating process in that in a through-mask plating process the separation of the masking material from the substrate would occur destructively. As with through-mask plating, CC mask plating deposits material selectively and simultaneously over the entire layer. The plated region may consist of one or more isolated plating regions where these isolated plating regions may belong to a single structure that is being formed or may belong to multiple structures that are being formed simultaneously. In CC mask plating as individual masks are not intentionally destroyed in the removal process, they may be usable in multiple plating operations.</p>
+<p id="p-0013" num="0024">Another example of a CC mask and CC mask plating is shown in <figref idref="DRAWINGS">FIGS. 1D-1F</figref>. <figref idref="DRAWINGS">FIG. 1D</figref> shows an anode <b>12</b>&#x2032; separated from a mask <b>8</b>&#x2032; that includes a patterned conformable material <b>10</b>&#x2032; and a support structure <b>20</b>. <figref idref="DRAWINGS">FIG. 1D</figref> also depicts substrate <b>6</b> separated from the mask <b>8</b>&#x2032;. <figref idref="DRAWINGS">FIG. 1E</figref> illustrates the mask <b>8</b>&#x2032; being brought into contact with the substrate <b>6</b>. <figref idref="DRAWINGS">FIG. 1F</figref> illustrates the deposit <b>22</b>&#x2032; that results from conducting a current from the anode <b>12</b>&#x2032; to the substrate <b>6</b>. <figref idref="DRAWINGS">FIG. 1G</figref> illustrates the deposit <b>22</b>&#x2032; on substrate <b>6</b> after separation from mask <b>8</b>&#x2032;. In this example, an appropriate electrolyte is located between the substrate <b>6</b> and the anode <b>12</b>&#x2032; and a current of ions coming from one or both of the solution and the anode are conducted through the opening in the mask to the substrate where material is deposited. This type of mask may be referred to as an anodeless INSTANT MASK&#x2122; (AIM) or as an anodeless conformable contact (ACC) mask.</p>
+<p id="p-0014" num="0025">Unlike through-mask plating, CC mask plating allows CC masks to be formed completely separate from the fabrication of the substrate on which plating is to occur (e.g. separate from a three-dimensional (3D) structure that is being formed). CC masks may be formed in a variety of ways, for example, a photolithographic process may be used. All masks can be generated simultaneously, prior to structure fabrication rather than during it. This separation makes possible a simple, low-cost, automated, self-contained, and internally-clean &#x201c;desktop factory&#x201d; that can be installed almost anywhere to fabricate 3D structures, leaving any required clean room processes, such as photolithography to be performed by service bureaus or the like.</p>
+<p id="p-0015" num="0026">An example of the electrochemical fabrication process discussed above is illustrated in <figref idref="DRAWINGS">FIGS. 2A-2F</figref>. These figures show that the process involves deposition of a first material <b>2</b> which is a sacrificial material and a second material <b>4</b> which is a structural material. The CC mask <b>8</b>, in this example, includes a patterned conformable material (e.g. an elastomeric dielectric material) <b>10</b> and a support <b>12</b> which is made from deposition material <b>2</b>. The conformal portion of the CC mask is pressed against substrate <b>6</b> with a plating solution <b>14</b> located within the openings <b>16</b> in the conformable material <b>10</b>. An electric current, from power supply <b>18</b>, is then passed through the plating solution <b>14</b> via (a) support <b>12</b> which doubles as an anode and (b) substrate <b>6</b> which doubles as a cathode. <figref idref="DRAWINGS">FIG. 2A</figref>, illustrates that the passing of current causes material <b>2</b> within the plating solution and material <b>2</b> from the anode <b>12</b> to be selectively transferred to and plated on the cathode <b>6</b>. After electroplating the first deposition material <b>2</b> onto the substrate <b>6</b> using CC mask <b>8</b>, the CC mask <b>8</b> is removed as shown in <figref idref="DRAWINGS">FIG. 2B</figref>. <figref idref="DRAWINGS">FIG. 2C</figref> depicts the second deposition material <b>4</b> as having been blanket-deposited (i.e. non-selectively deposited) over the previously deposited first deposition material <b>2</b> as well as over the other portions of the substrate <b>6</b>. The blanket deposition occurs by electroplating from an anode (not shown), composed of the second material, through an appropriate plating solution (not shown), and to the cathode/substrate <b>6</b>. The entire two-material layer is then planarized to achieve precise thickness and flatness as shown in <figref idref="DRAWINGS">FIG. 2D</figref>. After repetition of this process for all layers, the multi-layer structure <b>20</b> formed of the second material <b>4</b> (i.e. structural material) is embedded in first material <b>2</b> (i.e. sacrificial material) as shown in <figref idref="DRAWINGS">FIG. 2E</figref>. The embedded structure is etched to yield the desired device, i.e. structure <b>20</b>, as shown in <figref idref="DRAWINGS">FIG. 2F</figref>.</p>
+<p id="p-0016" num="0027">Various components of an exemplary manual electrochemical fabrication system <b>32</b> are shown in <figref idref="DRAWINGS">FIGS. 3A-3C</figref>. The system <b>32</b> consists of several subsystems <b>34</b>, <b>36</b>, <b>38</b>, and <b>40</b>. The substrate holding subsystem <b>34</b> is depicted in the upper portions of each of <figref idref="DRAWINGS">FIGS. 3A to 3C</figref> and includes several components: (1) a carrier <b>48</b>, (2) a metal substrate <b>6</b> onto which the layers are deposited, and (3) a linear slide <b>42</b> capable of moving the substrate <b>6</b> up and down relative to the carrier <b>48</b> in response to drive force from actuator <b>44</b>. Subsystem <b>34</b> also includes an indicator <b>46</b> for measuring differences in vertical position of the substrate which may be used in setting or determining layer thicknesses and/or deposition thicknesses. The subsystem <b>34</b> further includes feet <b>68</b> for carrier <b>48</b> which can be precisely mounted on subsystem <b>36</b>.</p>
+<p id="p-0017" num="0028">The CC mask subsystem <b>36</b> shown in the lower portion of <figref idref="DRAWINGS">FIG. 3A</figref> includes several components: (1) a CC mask <b>8</b> that is actually made up of a number of CC masks (i.e. submasks) that share a common support/anode <b>12</b>, (2) precision X-stage <b>54</b>, (3) precision Y-stage <b>56</b>, (4) frame <b>72</b> on which the feet <b>68</b> of subsystem <b>34</b> can mount, and (5) a tank <b>58</b> for containing the electrolyte <b>16</b>. Subsystems <b>34</b> and <b>36</b> also include appropriate electrical connections (not shown) for connecting to an appropriate power source for driving the CC masking process.</p>
+<p id="p-0018" num="0029">The blanket deposition subsystem <b>38</b> is shown in the lower portion of <figref idref="DRAWINGS">FIG. 3B</figref> and includes several components: (1) an anode <b>62</b>, (2) an electrolyte tank <b>64</b> for holding plating solution <b>66</b>, and (3) frame <b>74</b> on which the feet <b>68</b> of subsystem <b>34</b> may sit. Subsystem <b>38</b> also includes appropriate electrical connections (not shown) for connecting the anode to an appropriate power supply for driving the blanket deposition process.</p>
+<p id="p-0019" num="0030">The planarization subsystem <b>40</b> is shown in the lower portion of <figref idref="DRAWINGS">FIG. 3C</figref> and includes a lapping plate <b>52</b> and associated motion and control systems (not shown) for planarizing the depositions.</p>
+<p id="p-0020" num="0031">Another method for forming microstructures from electroplated metals (i.e. using electrochemical fabrication techniques) is taught in U.S. Pat. No. 5,190,637 to Henry Guckel, entitled &#x201c;Formation of Microstructures by Multiple Level Deep X-ray Lithography with Sacrificial Metal layers&#x201d;. This patent teaches the formation of metal structure utilizing mask exposures. A first layer of a primary metal is electroplated onto an exposed plating base to fill a void in a photoresist, the photoresist is then removed and a secondary metal is electroplated over the first layer and over the plating base. The exposed surface of the secondary metal is then machined down to a height which exposes the first metal to produce a flat uniform surface extending across the both the primary and secondary metals. Formation of a second layer may then begin by applying a photoresist layer over the first layer and then repeating the process used to produce the first layer. The process is then repeated until the entire structure is formed and the secondary metal is removed by etching. The photoresist is formed over the plating base or previous layer by casting and the voids in the photoresist are formed by exposure of the photoresist through a patterned mask via X-rays or UV radiation.</p>
+<p id="p-0021" num="0032">Even though electrochemical fabrication as taught and practiced to date, has greatly enhanced the capabilities of microfabrication, and in particular added greatly to the number of metal layers that can be incorporated into a structure and to the speed and simplicity in which such structures can be made, room for enhancing the state of electrochemical fabrication exists as well as for adding to the types of devices that can be formed or co-fabricated with other devices.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0022" num="0033">It is an object of some embodiments of the invention to provide a process for forming space transformers using electrochemical fabrication methods.</p>
+<p id="p-0023" num="0034">It is an object of some embodiments of the invention to provide a process for forming space transformers and microprobes in the same build process</p>
+<p id="p-0024" num="0035">Other objects and advantages of various embodiments of the invention will be apparent to those of skill in the art upon review of the teachings herein. The various embodiments of the invention, set forth explicitly herein or otherwise ascertained from the teachings herein, may address one or more objects alone or in combination, or alternatively may address some other object of the invention ascertained from the teachings herein. It is not necessarily intended that all objects be addressed by any single aspect of the invention even though that may be the case with regard to some aspects.</p>
+<p id="p-0025" num="0036">In a first aspect of the invention, a fabrication process for co-fabricating a multi-layer probe array and a space transformer, includes: (a) forming and adhering a layer of material to a previously formed layer and/or to a substrate, wherein the layer comprises a desired pattern of at least one material; and (b) repeating the forming and adhering operation of (a) a plurality of times to build up an array of probes and a space transformer from a plurality of adhered layers, and wherein at least a portion of the plurality of layers comprises at least one structural material and at least one sacrificial material; and (c) after formation of at least a plurality of layers, subjecting the multi-layer structure to a release process that removes at least a portion of at least one sacrificial material from at least some portions of some layers, wherein the space transformer comprise a plurality of interconnect elements that connect on one side to probes that have a first averaged spacing and connect to pads on another side that have a second averaged spacing that is greater than the first averaged spacing.</p>
+<p id="p-0026" num="0037">In a second aspect of the invention, a fabrication process for fabricating a multi-layer space transformer, comprises: (a) forming and adhering a layer of material to a previously formed layer and/or to a substrate, wherein the layer comprises a desired pattern of at least one material; and (b) repeating the forming and adhering operation of (a) a plurality of times to build up configuration of conductive interconnect elements in a configuration of a desired space transformer, wherein the plurality of layers are adhered to one another and comprise at least one of (i) at least one structural material and at least one sacrificial material or (ii) at least two structural materials one of which is a conductor and one of which is a dielectric.</p>
+<p id="p-0027" num="0038">In a specific variation of the second aspect of the invention the space transformer includes metal electrodeposited or electroless deposited on a layer by layer basis where the height of at least some layers is set by a planarization operation that planarizes an interconnect material and at least one other material.</p>
+<p id="p-0028" num="0039">In a specific variation of the second aspect of the invention the space transformer includes vias and traces that coexist on at least some layers.</p>
+<p id="p-0029" num="0040">In a specific variation of the second aspect of the invention the space transformer includes at least one more coaxial interconnects.</p>
+<p id="p-0030" num="0041">In a specific variation of the second aspect of the invention the space transformer includes interconnects having traces having at least two different widths.</p>
+<p id="p-0031" num="0042">In a specific variation of the second aspect of the invention the space transformer includes interconnects comprising vias that have at least two different widths.</p>
+<p id="p-0032" num="0043">In a specific variation of the second aspect of the invention the space transformer includes interconnects have trace thicknesses that are at least as thick as some planarized thicknesses of a dielectric material.</p>
+<p id="p-0033" num="0044">In a specific variation of the second aspect of the invention the space transformer includes interconnects have trace thicknesses that are at least as thick as the differential height between some interconnect traces.</p>
+<p id="p-0034" num="0045">In a specific variation of the second aspect of the invention at least one layer of the space transformer is formed using a process comprising: patterning a first material, applying a non-planar seed layer, electrodepositing a second material, and trimming off at least a portion of the deposited first material.</p>
+<p id="p-0035" num="0046">In a third aspect of the invention, a space transformer includes a plurality of interconnect elements that are connectable on one side to probes that have a first averaged spacing and connectable on a different side to pads that have a second averaged spacing that is greater than the first averaged spacing.</p>
+<p id="p-0036" num="0047">In a specific variation of the third aspect of the invention the space transformer includes metal electrodeposited or electroless deposited on a layer by layer basis where the height of at least some layers is set by a planarization operation that planarizes an interconnect material and at least one other material.</p>
+<p id="p-0037" num="0048">In a specific variation of the third aspect of the invention the space transformer includes vias and traces that coexist on at least some layers.</p>
+<p id="p-0038" num="0049">In a specific variation of the third aspect of the invention the space transformer includes at least one more coaxial interconnects.</p>
+<p id="p-0039" num="0050">In a specific variation of the third aspect of the invention the space transformer includes interconnects having traces having at least two different widths.</p>
+<p id="p-0040" num="0051">In a specific variation of the third aspect of the invention the space transformer includes interconnects comprising vias that have at least two different widths.</p>
+<p id="p-0041" num="0052">In a specific variation of the third aspect of the invention the space transformer includes interconnects have trace thicknesses that are at least as thick as some planarized thicknesses of a dielectric material.</p>
+<p id="p-0042" num="0053">In a specific variation of the third aspect of the invention the space transformer includes interconnects have trace thicknesses that are at least as thick as the differential height between some interconnect traces.</p>
+<p id="p-0043" num="0054">Further aspects of the invention will be understood by those of skill in the art upon reviewing the teachings herein. Other aspects of the invention may involve apparatus that can be used in implementing one or more of the above method aspects of the invention. These other aspects of the invention may provide various combinations of the aspects, embodiments, and associated alternatives explicitly set forth herein as well as provide other configurations, structures, functional relationships, and processes that have not been specifically set forth above.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0044" num="0055"><figref idref="DRAWINGS">FIGS. 1A-1C</figref> schematically depict side views of various stages of a CC mask plating process, while <figref idref="DRAWINGS">FIGS. 1D-G</figref> schematically depict a side views of various stages of a CC mask plating process using a different type of CC mask.</p>
+<p id="p-0045" num="0056"><figref idref="DRAWINGS">FIGS. 2A-2F</figref> schematically depict side views of various stages of an electrochemical fabrication process as applied to the formation of a particular structure where a sacrificial material is selectively deposited while a structural material is blanket deposited.</p>
+<p id="p-0046" num="0057"><figref idref="DRAWINGS">FIGS. 3A-3C</figref> schematically depict side views of various example subassemblies that may be used in manually implementing the electrochemical fabrication method depicted in <figref idref="DRAWINGS">FIGS. 2A-2F</figref>.</p>
+<p id="p-0047" num="0058"><figref idref="DRAWINGS">FIGS. 4A-4I</figref> schematically depict the formation of a first layer of a structure using adhered mask plating where the blanket deposition of a second material overlays both the openings between deposition locations of a first material and the first material itself.</p>
+<p id="p-0048" num="0059"><figref idref="DRAWINGS">FIGS. 5A-5J</figref> schematically depict side views of various stages in a process for forming a space transformer from a conductive structural material and from a conductive sacrificial material which may be replaced by a dielectric material.</p>
+<p id="p-0049" num="0060"><figref idref="DRAWINGS">FIGS. 6A-6L</figref> schematically depict side views of various stages in a process for forming a space transformer from a conductive structural material and from a conductive sacrificial material wherein a dielectric lid is formed over the structure and the sacrificial material is removed which may be replaced by a dielectric material.</p>
+<p id="p-0050" num="0061"><figref idref="DRAWINGS">FIGS. 7A-7F</figref> schematically depict side views of various stages in a process for forming a space transformer from a conductive structural material and from a dielectric structural material that is also a patterning material.</p>
+<p id="p-0051" num="0062"><figref idref="DRAWINGS">FIGS. 8A-8I</figref> schematically depict side views of various stages in a process for forming a space transformer from a conductive structural material and from a dielectric structural material that is not a patterning material.</p>
+<p id="p-0052" num="0063"><figref idref="DRAWINGS">FIGS. 9A-9O</figref> schematically depict side views of various stages in a process for forming a space transformer, including formation and maintenance of substrate end pointing regions from a conductive structural material and a conductive sacrificial material which is removed and may be replaced by a dielectric material.</p>
+<p id="p-0053" num="0064"><figref idref="DRAWINGS">FIGS. 10A-10C</figref> provide side views of three simplified interconnect configurations that may be used in a space transformer.</p>
+<p id="p-0054" num="0065"><figref idref="DRAWINGS">FIGS. 11A-11L</figref> provide schematic side views of various states in a process of forming a coaxial space transformer.</p>
+<p id="p-0055" num="0066"><figref idref="DRAWINGS">FIG. 12</figref> provides a schematic side view of an alternative technique for shielding sidewalls of a space transformer.</p>
+<p id="p-0056" num="0067"><figref idref="DRAWINGS">FIGS. 13A-13X</figref> depict schematic representations of side views of various states of a process according to a first embodiment of the invention which calls for the co-fabrication of a set of microprobes and a space transformer.</p>
+<p id="p-0057" num="0068"><figref idref="DRAWINGS">FIGS. 14A-14G</figref> provide various perspective, side and close up views of an exemplary space transformer and probe array that may be formed with some embodiments of the invention wherein the space transformer is shown as free standing (i.e. not encapsulated in a dielectric).</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF PREFERRED EMBODIMENTS OF THE INVENTION</heading>
+<p id="p-0058" num="0069"><figref idref="DRAWINGS">FIGS. 1A-1G</figref>, <b>2</b>A-<b>2</b>F, and <b>3</b>A-<b>3</b>C illustrate various features of one form of electrochemical fabrication that are known. Other electrochemical fabrication techniques are set forth in the '630 patent referenced above, in the various previously incorporated publications, in various other patents and patent applications incorporated herein by reference, still others may be derived from combinations of various approaches described in these publications, patents, and applications, or are otherwise known or ascertainable by those of skill in the art from the teachings set forth herein. All of these techniques may be combined with those of the various embodiments of various aspects of the invention to yield enhanced embodiments. Still other embodiments may be derived from combinations of the various embodiments explicitly set forth herein.</p>
+<p id="p-0059" num="0070"><figref idref="DRAWINGS">FIGS. 4A-4I</figref> illustrate various stages in the formation of a single layer of a multi-layer fabrication process where a second metal is deposited on a first metal as well as in openings in the first metal where its deposition forms part of the layer. In <figref idref="DRAWINGS">FIG. 4A</figref>, a side view of a substrate <b>82</b> is shown, onto which patternable photoresist <b>84</b> is cast as shown in <figref idref="DRAWINGS">FIG. 4B</figref>. In <figref idref="DRAWINGS">FIG. 4C</figref>, a pattern of resist is shown that results from the curing, exposing, and developing of the resist. The patterning of the photoresist <b>84</b> results in openings or apertures <b>92</b>(<i>a</i>)-<b>92</b>(<i>c</i>) extending from a surface <b>86</b> of the photoresist through the thickness of the photoresist to surface <b>88</b> of the substrate <b>82</b>. In <figref idref="DRAWINGS">FIG. 4D</figref>, a metal <b>94</b> (e.g. nickel) is shown as having been electroplated into the openings <b>92</b>(<i>a</i>)-<b>92</b>(<i>c</i>). In <figref idref="DRAWINGS">FIG. 4E</figref>, the photoresist has been removed (i.e. chemically stripped) from the substrate to expose regions of the substrate <b>82</b> which are not covered with the first metal <b>94</b>. In <figref idref="DRAWINGS">FIG. 4F</figref>, a second metal <b>96</b> (e.g., silver) is shown as having been blanket electroplated over the entire exposed portions of the substrate <b>82</b> (which is conductive) and over the first metal <b>94</b> (which is also conductive). <figref idref="DRAWINGS">FIG. 4G</figref> depicts the completed first layer of the structure which has resulted from the planarization of the first and second metals down to a height that exposes the first metal and sets a thickness for the first layer. In <figref idref="DRAWINGS">FIG. 4H</figref> the result of repeating the process steps shown in <figref idref="DRAWINGS">FIGS. 4B-4G</figref> several times to form a multi-layer structure are shown where each layer consists of two materials. For most applications, one of these materials is removed as shown in <figref idref="DRAWINGS">FIG. 4I</figref> to yield a desired 3-D structure <b>98</b> (e.g. component or device).</p>
+<p id="p-0060" num="0071">The various embodiments, alternatives, and techniques disclosed herein may form multi-layer structures using a single patterning technique on all layers or using different patterning techniques on different layers. For example, different types of patterning masks and masking techniques may be used or even techniques that perform direct selective depositions without the need for masking. For example, conformable contact masks may be used on some layers while nonconformable contact masks and masking operations may be used on other layers. Proximity masks and masking operations (i.e. operations that use masks that at least partially selectively shield a substrate by their proximity to the substrate even if contact is not made) may be used, and adhered masks and masking operations (masks and operations that use masks that are adhered to a substrate onto which selective deposition or etching is to occur as opposed to only being contacted to it) may be used.</p>
+<p id="p-0061" num="0072"><figref idref="DRAWINGS">FIGS. 5A-5J</figref> schematically depict side views of various stages in a process for forming a space transformer from a conductive structural material and from a conductive sacrificial material which may be replaced by a dielectric material. After formation, the substrate side of the space transformer may be bonded to a printed circuit board an interposer or other electrical component while the other side of the space transformer may have probes formed thereon or mounted thereto.</p>
+<p id="p-0062" num="0073"><figref idref="DRAWINGS">FIG. 5A</figref> depicts the state of the process after a dielectric (e.g., alumina) substrate <b>102</b> is supplied having an array of relatively coarse conductive vias <b>104</b> which are composed of a metal that connects the top <b>108</b> and bottom surfaces <b>106</b> of the substrate. The vias are shown proceeding straight from the bottom surface <b>106</b> of the substrate to the top surface <b>108</b>. In some variations of this embodiment, a circuitous route may be taken by the vias. This embodiment of the invention uses a &#x2018;standard&#x2019; via substrate having vias in an array at a specific, relatively coarse pitch that is compatible with printed circuit board (PCB) line widths. The customization offered by the present embodiment, is accomplished entirely by the deposited layers of material. Typically some vias through the substrate will be used while others will remain unused depending on the specific layout of a particular space transformer. The substrate of the present embodiment is thick and rigid enough to be self-supporting, while in variations of this embodiment the substrate may be flexible. Since the total thickness of the layers to be deposited is typically only on the order of several hundred microns, the substrate provides the rigidity and robustness required for mounting the final space transformer and microprobe combination onto a PCB. As indicated, the substrate is metallized by deposition of a metal film <b>110</b> (e.g., by sputtering). The metal film <b>110</b> serves as a seed layer and may also serve as an adhesion layer (if necessary), possibly as a barrier layer and/or as a transition layer. In some embodiments the metal film <b>110</b> may actually comprise two or more individually applied layers, for example, the film may include an adhesion layer of, e.g., Ti, and a seed layer of, e.g., Au.</p>
+<p id="p-0063" num="0074">In <figref idref="DRAWINGS">FIG. 5B</figref>, a photoresist <b>112</b> has been applied and patterned and a first layer of structural material <b>114</b> (e.g. Ni) has been pattern-plated. In some alternative embodiments, sacrificial material may be pattern plated and then structural material may be blanket-plated, and then the layer planarized. Electrical contact (i.e. cathodic contact) may be made via the metal film <b>110</b>.</p>
+<p id="p-0064" num="0075">In <figref idref="DRAWINGS">FIG. 5C</figref>, the resist has been stripped and the exposed portion of metal film <b>110</b> etched back. The portion of the film located under the deposited structural material <b>114</b> is not removed as it is not readily accessible.</p>
+<p id="p-0065" num="0076">In <figref idref="DRAWINGS">FIG. 5D</figref>, a seed layer of sacrificial material <b>118</b> (e.g. Cu) has been deposited by PVD (e.g., sputtering). This seed layer serves as a cathode for subsequent plating and may be used as the contact point for connecting to an electric circuit or alternatively some other conductive element connected to the seed layer may be used as the circuit contact point.</p>
+<p id="p-0066" num="0077">In <figref idref="DRAWINGS">FIG. 5E</figref>, a sacrificial material <b>124</b>, e.g. Cu, has been thickly plated (e.g. at greater than a desired layer thickness).</p>
+<p id="p-0067" num="0078">In <figref idref="DRAWINGS">FIG. 5F</figref> the build has been planarized, completing the first layer. Building is then allowed to continue so that additional layers are formed so long as both structural and sacrificial materials are conductive there is no need to apply seed layers during formation of the 2<sup>nd</sup>-N<sup>th </sup>layers. If one of the materials is non-conductive formation of some or all layers may require use of one or more seed layers.</p>
+<p id="p-0068" num="0079">In <figref idref="DRAWINGS">FIG. 5G</figref>, all the layers of the space transformer have been completed with three-dimensional structural material <b>114</b> interconnect being embedded in sacrificial material <b>124</b> and laid out in a pattern that connects the relatively coarse-pitch vias to the relatively fine-pitch probes or other devices which may be formed on or bonded to the space transformer.</p>
+<p id="p-0069" num="0080">In <figref idref="DRAWINGS">FIG. 5H</figref>, the exposed sacrificial material has been removed to release the interconnect lines of the space transformer. The removal of the sacrificial material may occur by immersing the entire build into sacrificial material etchant. Following etching of the sacrificial material, diffusion bonding (e.g., at 250&#xb0; C.) may be performed to improve the inter-layer adhesion of the layers of structural material. More teaching concerning the use of diffusion bonding in electrochemical fabrication processes may be found in U.S. patent application Ser. No. 10/841,384 which is filed May 7, 2004 by Cohen et al. which is entitled &#x201c;Method of Electrochemically Fabricating Multilayer Structures Having Improved Interlayer Adhesion&#x201d; and which is hereby incorporated herein by reference as if set forth in full.</p>
+<p id="p-0070" num="0081">In some variations of the present embodiment, solder bumps may be located on the under side of the substrate to aid mounting of the space transformer to a circuit board or the like. In still other embodiments solder bumps may be located on the ends of the interconnect elements in preparation for bonding probes or other components to the space transformer. In still other embodiments diffusion bonding may occur prior to the release of <figref idref="DRAWINGS">FIG. 5H</figref>. In some embodiments, the release of the interconnect elements from the sacrificial material may complete formation of the space transformer as it is intended that the interconnect elements be free standing. In still other embodiments the interconnect elements may not be free standing but instead be embedded in a dielectric material. <figref idref="DRAWINGS">FIG. 5I</figref> depicts the state of the process after such an embedment occurs while <figref idref="DRAWINGS">FIG. 5J</figref> depicts the state of the process after a planarization operation removes any excess dielectric from above the interconnect elements formed of material <b>114</b>.</p>
+<p id="p-0071" num="0082"><figref idref="DRAWINGS">FIGS. 6A-6L</figref> schematically depict side views of various stages in a process for forming a space transformer from a conductive structural material and from a conductive sacrificial material wherein a dielectric lid is formed over the structure and the sacrificial material is removed which may be replaced by a dielectric material.</p>
+<p id="p-0072" num="0083"><figref idref="DRAWINGS">FIGS. 6A-6G</figref> are identical to <figref idref="DRAWINGS">FIGS. 5A-5G</figref> with the exception that the building of layers of the space transformer are not complete after the processing that lead to <figref idref="DRAWINGS">FIG. 6G</figref>.</p>
+<p id="p-0073" num="0084">In <figref idref="DRAWINGS">FIG. 6H</figref>, structural material <b>114</b> has been pattern-plated to form what will become fine-pitch vias which will extend through an insulating layer that will next be fabricated. The pattern plating may occur in a variety of ways, such as by use of a temporarily placed and patterned photoresist that is removed after plating of material <b>114</b>.</p>
+<p id="p-0074" num="0085">In <figref idref="DRAWINGS">FIG. 6I</figref> a high-temperature resistant dielectric material <b>128</b> (e.g., polyimide, glass, or the like) has been applied and (if needed) cured.</p>
+<p id="p-0075" num="0086">In <figref idref="DRAWINGS">FIG. 6J</figref> the state of the process is shown after a planarization operation has removed excess dielectric material <b>128</b> and set the heights of materials <b>114</b> and <b>128</b> to a desired common level. The planarization operation removes the dielectric that lays over the structural material and leaves in place a dielectric layer that will form a &#x2018;roof&#x2019; for the space transformer.</p>
+<p id="p-0076" num="0087">In <figref idref="DRAWINGS">FIG. 6K</figref>, like in <figref idref="DRAWINGS">FIG. 5H</figref>, the exposed sacrificial material has been removed to release the interconnect lines of the space transformer. As with the above discussion of <figref idref="DRAWINGS">FIG. 5H</figref>, diffusion bonding may occur before or after release of the structure or it may not occur at all.</p>
+<p id="p-0077" num="0088">In some variations of the present embodiment, solder bumps may be located on the under side of the substrate to aid mounting of the space transformer to a circuit board or the like. In still other embodiments solder bumps may be located on the ends of the interconnect elements exposed through the top of dielectric material <b>128</b> in preparation for bonding probes or other components to the space transformer. In some embodiments, the release of the interconnect elements from the sacrificial material may complete formation of the space transformer as it is intended that the interconnect elements be free standing with some added support offered by the dielectric material <b>128</b> that caps the space transformer. In still other embodiments the interconnect elements may not be free standing but instead be embedded in a dielectric material. <figref idref="DRAWINGS">FIG. 6L</figref> depicts the state of the process after such an embedment occurs.</p>
+<p id="p-0078" num="0089"><figref idref="DRAWINGS">FIGS. 7A-7F</figref> schematically depict side views of various stages in a process for forming a space transformer from a conductive structural material and from a dielectric structural material that is also a patterning material. The build process of <figref idref="DRAWINGS">FIGS. 7A-7F</figref> are based on the use of non-planar seed layers as taught in U.S. patent application Ser. No. 10/841,300 which is hereby incorporated herein by reference.</p>
+<p id="p-0079" num="0090"><figref idref="DRAWINGS">FIG. 7A</figref> depicts the state of the process after a substrate <b>102</b> is supplied. As with <figref idref="DRAWINGS">FIGS. 5 and 6</figref>, substrate <b>102</b> contains vias <b>104</b> that extend from a lower surface of the substrate to an upper surface of the substrate.</p>
+<p id="p-0080" num="0091"><figref idref="DRAWINGS">FIG. 7B</figref> depicts a state of the process after a dielectric <b>112</b> is placed on the upper surface of the substrate and is patterned. The patterning of the dielectric material may occur before or after locating the material on the substrate. In some embodiments the dielectric material <b>112</b> may be a photoresist.</p>
+<p id="p-0081" num="0092"><figref idref="DRAWINGS">FIG. 7C</figref> depicts the state of the process after a seed layer <b>110</b> is deposited over the dielectric material <b>112</b> and into the voids or openings that extend through the dielectric material.</p>
+<p id="p-0082" num="0093"><figref idref="DRAWINGS">FIG. 7D</figref> depicts a state of the process after a conductive material <b>114</b> is plated over seed layer <b>110</b>.</p>
+<p id="p-0083" num="0094"><figref idref="DRAWINGS">FIG. 7E</figref> depicts the state of the process after a planarization process trims the height of the dielectric material <b>112</b>, seed layer <b>110</b> and conductive material <b>114</b> to a height corresponding to the layer thickness LT. <figref idref="DRAWINGS">FIG. 7E</figref> depicts a state of the process after formation of the first layer is completed.</p>
+<p id="p-0084" num="0095"><figref idref="DRAWINGS">FIG. 7F</figref> depicts the state of the process after formation of a plurality of layers which completes formation of the space transformer.</p>
+<p id="p-0085" num="0096"><figref idref="DRAWINGS">FIGS. 8A-8I</figref> schematically depict side views of various stages in a process for forming a space transformer from a conductive structural material and from a dielectric structural material that is not a patterning material.</p>
+<p id="p-0086" num="0097"><figref idref="DRAWINGS">FIG. 8A-8E</figref> are similar to <figref idref="DRAWINGS">FIGS. 7A-7E</figref> already discussed with the exception that the height of planarization of <figref idref="DRAWINGS">FIG. 8E</figref> is set at slightly more then one layer thickness (LT+&#x3b4;) as opposed to being set at the layer thickness (LT) as in <figref idref="DRAWINGS">FIG. 7E</figref>.</p>
+<p id="p-0087" num="0098"><figref idref="DRAWINGS">FIG. 8F</figref> shows the state of the process after dielectric material <b>112</b> has been removed.</p>
+<p id="p-0088" num="0099"><figref idref="DRAWINGS">FIG. 8G</figref> shows the state of the process after a second dielectric material <b>113</b> has been applied where the application is shown in this example to have slightly over coated regions of structural material <b>114</b>.</p>
+<p id="p-0089" num="0100"><figref idref="DRAWINGS">FIG. 8H</figref> shows the state of the process after a planarization operation trims the height of deposited materials to that of the layer thickness.</p>
+<p id="p-0090" num="0101"><figref idref="DRAWINGS">FIG. 8I</figref> shows a similar state of the process as shown in <figref idref="DRAWINGS">FIG. 7F</figref> where the formation of the space transformer is completed and is imbedded in a desired dielectric material. In <figref idref="DRAWINGS">FIG. 8I</figref> the dielectric material is shown to be different from an initial dielectric material that was used for patterning operation where as in <figref idref="DRAWINGS">FIG. 7F</figref> the patterning dielectric and structural dielectrics were the same.</p>
+<p id="p-0091" num="0102"><figref idref="DRAWINGS">FIGS. 9A-9O</figref> schematically depict side views of various stages in a process for forming a space transformer, including formation and maintenance of substrate end pointing regions from a conductive structural material and a conductive sacrificial material which is removed and may be replaced by a dielectric material.</p>
+<p id="p-0092" num="0103"><figref idref="DRAWINGS">FIG. 9A</figref> depicts the state of the process after a dielectric (e.g., alumina) substrate <b>102</b> is supplied having an array of relatively coarse conductive vias <b>104</b> which are composed of a metal that connects the top <b>108</b> and bottom surfaces <b>106</b> of the substrate and on which a seed layer <b>110</b> has been applied. The state of the process is similar to that discussed in association with <figref idref="DRAWINGS">FIG. 5A</figref>.</p>
+<p id="p-0093" num="0104">In <figref idref="DRAWINGS">FIG. 9B</figref>, a photoresist <b>112</b> has been applied and patterned and a first layer of structural material <b>114</b> (e.g. Ni) has been pattern-plated. The state of the process is similar to that discussed in association with <figref idref="DRAWINGS">FIG. 5B</figref>.</p>
+<p id="p-0094" num="0105">In <figref idref="DRAWINGS">FIG. 9C</figref>, the resist has been stripped and the exposed portion of metal film <b>110</b> etched back. The portion of the film located under the deposited structural material <b>114</b> is not removed as it is not readily accessible. The state of the process is similar to that discussed in association with <figref idref="DRAWINGS">FIG. 5C</figref>.</p>
+<p id="p-0095" num="0106">In <figref idref="DRAWINGS">FIG. 9D</figref>, a seed layer of sacrificial material <b>118</b> (e.g. Cu) has been deposited by e.g. PVD (e.g. sputtering). The state of the process is similar to that discussed in association with <figref idref="DRAWINGS">FIG. 5D</figref>.</p>
+<p id="p-0096" num="0107">In <figref idref="DRAWINGS">FIG. 9E</figref>, the seed layer is shown as having been etched away from an area of an end-point detection region <b>122</b> (additional end point detection pads may exist on the substrate but are just not visible from the view provided by <figref idref="DRAWINGS">FIG. 9E</figref>. This removal may, for example, occur by use of a patterned mask that is formed after which etching is allowed to occur, and then the mask removed. This removal of the seed layer prevents metal from being plated up in this region. Of course, in practice the end point detection region <b>112</b> will need to be wide enough so that plating of metal occurring via a mushrooming effect from the side walls of structural material <b>112</b> which surrounds end-point detection pad <b>122</b> will not result in the covering of the pad. In alternative embodiments, at the time of application of seed layer and adhesion layer material the end-point detection region may be shielded so as to not receive the materials.</p>
+<p id="p-0097" num="0108">In <figref idref="DRAWINGS">FIG. 9F</figref>, a sacrificial material <b>124</b>, e.g. Cu, has been thickly plated (e.g. at greater than a desired layer thickness). In <figref idref="DRAWINGS">FIG. 9G</figref> the build has been planarized, completing the first layer. Building is then allowed to continue so that additional layers are formed so long as both structural and sacrificial materials are conductive there is no need to apply a seed layer during formation of the 2<sup>nd</sup>-N<sup>th </sup>layers. If one of the materials is non-conductive formation of some or all layers may require use of one or more seed layers. In <figref idref="DRAWINGS">FIG. 9H</figref>, all the layers of the space transformer portion of the build have been completed (with the exception of a capping layer) with three-dimensional structural material <b>114</b> interconnect being embedded in sacrificial material <b>124</b> and laid out in a pattern that connects the relatively coarse-pitch vias to the relatively fine-pitch probes or other components which may be formed on the space transformer or which may be bonded to the space transformer after formation.</p>
+<p id="p-0098" num="0109">In <figref idref="DRAWINGS">FIG. 9I</figref>, structural material <b>114</b> has been pattern-plated to form what will become fine-pitch vias which will extend through an insulating layer that will next be fabricated. In <figref idref="DRAWINGS">FIG. 9J</figref>, a cap <b>126</b> has been applied over the endpoint detection region or area and a high-temperature resistant dielectric material <b>128</b> (e.g., polyimide, glass, or the like) has been applied and (if needed) cured.</p>
+<p id="p-0099" num="0110">In <figref idref="DRAWINGS">FIG. 9K</figref>, the cap has been removed and the build has been planarized (and if necessary the opening <b>132</b> above the end-point detection pad has been cleaned of debris from the planarization operation. In some embodiments that cap may be removed as part of the planarization operation while in other embodiments it may be removed in a separate operation. The planarization operation removes the dielectric that lays over the structural material vias of <figref idref="DRAWINGS">FIG. 9I</figref> and leaves in place a dielectric layer that will form a &#x2018;roof&#x2019; for the space transformer portion of the device.</p>
+<p id="p-0100" num="0111">In <figref idref="DRAWINGS">FIG. 9L</figref>, the exposed sacrificial material has been removed to release the structure. The sacrificial material may be removed by immersing the entire build into sacrificial material etchant. The release occurs substantially in a lateral manner, with etchant flowing under the roof or cap structure <b>128</b> and around structural material interconnects and structural material pillars <b>162</b> that may be used to support the roof of the space transformer (e.g., one in each corner of the device, or spaced out at intervals around the perimeter).</p>
+<p id="p-0101" num="0112">In some variations of the present embodiment, solder bumps may be located on the under side of the substrate to aid mounting of the space transformer to a circuit board or the like. In still other embodiments solder bumps may be located on the ends of the interconnect elements exposed through the top of dielectric material <b>128</b> in preparation for bonding probes or other components to the space transformer. In some embodiments, the release of the interconnect elements from the sacrificial material may complete formation of the space transformer as it is intended that the interconnect elements be free standing with some added support offered by the dielectric material <b>128</b> that caps the space transformer. In still other embodiments the interconnect elements may not be free standing but instead be embedded in a dielectric material. <figref idref="DRAWINGS">FIG. 6L</figref> depicts the state of the process after such an embedment occurs.</p>
+<p id="p-0102" num="0113">In <figref idref="DRAWINGS">FIG. 9M</figref>, a back fill material <b>172</b> has been infiltrated into the structure between the substrate and cap <b>128</b> and cured to fill the voids in the space transformer. In the present embodiment the back fill material is an epoxy material. In variations of the embodiment, further restrictions on accessibility of the backfill material to certain regions may be implemented. Since the interconnects are fastened at both ends, it is believed that, with careful backfilling, they will be able to resist deformation and shorting to one another during the filling process.</p>
+<p id="p-0103" num="0114">In <figref idref="DRAWINGS">FIG. 9N</figref>, cap <b>128</b> has been removed via a planarization operation. In some alternative embodiments, cap <b>128</b> could remain as part of the space transformer.</p>
+<p id="p-0104" num="0115">In <figref idref="DRAWINGS">FIG. 9O</figref>, the build has been diced to allow separation of individual package dies. After dicing, debris is removed (e.g., by megasonic or ultrasonic cleaning). As shown, the dicing may leave behind a portion of the Ni pillars (in the transformer region), whereas in variations of this embodiment, the pillars may be removed in their entirety or left in their entirety.</p>
+<p id="p-0105" num="0116">In some embodiments of the invention a space transform may be formed with coaxial interconnects to allow improved signal transmission and reduced interference. The space transformer coaxial interconnects may include a center conductor surrounded by a metallic shield and separated by a dielectric (e.g. a patterned polymer). Coaxial space transformers offer improved performance when used, for example, to probe high-frequency semiconductors, and/or when carrying higher currents (e.g., for logic semiconductor probing). Some such embodiments are illustrated in <figref idref="DRAWINGS">FIGS. 10A-10C</figref>, <b>11</b>A-<b>11</b>K, and <b>12</b>.</p>
+<p id="p-0106" num="0117">As noted above according to some embodiments of the invention, a space transformer may be fabricated using a patterned polymer, a non-planar seed layer, and a plated material such as Cu. The patterned polymer may be for example, polyimide (e.g. photopatternable polyimide such as HD-4000 from HD Microsystems), benzocyclobutene (e.g., photopatternable BCB such as Cyclotene 4000 from Dow Corning), or photoresist (e.g., SU-8 from MicroChem). BCB is particularly resistant to Cu etchants, allows lower processing temperatures, and offers relative immunity to Cu migration, and allows high-frequency performance.</p>
+<p id="p-0107" num="0118"><figref idref="DRAWINGS">FIG. 10A</figref> shows a simplified space transformer <b>302</b> which has a single interconnect <b>304</b> that is an unshielded conductor embedded in a dielectric material <b>310</b>. The space transformer is built on a substrate <b>306</b> that has a metal-filled (i.e., conductive) via <b>308</b>.</p>
+<p id="p-0108" num="0119"><figref idref="DRAWINGS">FIG. 10B</figref> shows a coaxial space transformer <b>322</b> in which the interconnect <b>324</b> is surrounded by a shield <b>325</b>, and in which the shield is of roughly constant thickness, with its exterior surface following the path of the interconnect.</p>
+<p id="p-0109" num="0120"><figref idref="DRAWINGS">FIG. 10C</figref> shows another embodiment of a coaxial space transformer <b>322</b>&#x2032; in which the interconnect <b>324</b> is surrounded by shielding material <b>325</b>&#x2032; of varying thickness. In effect, this type of space transformer is a solid block of metal (i.e. the shield material <b>325</b>&#x2032;) pierced with holes, each of which is filled with a conductor (i.e. the interconnects <b>324</b>) surrounded by dielectric <b>330</b>. Adjacent interconnects thus share a common shield. In some embodiments, the shielding material may be surrounded by a dielectric material and may make contact with a ground structure.</p>
+<p id="p-0110" num="0121">There may be several benefits of a &#x201c;solid block space transformer (SBST)&#x201d; (e.g. as illustrated in FIG. <b>10</b>C)&#x2019; vs. the space transformer shown in <figref idref="DRAWINGS">FIG. 10B</figref> due to the fact that there is relatively little dielectric in the final structure: (1) the average coefficient of thermal expansion (CTE) of the space transformer layers is reduced to a value closer to that of the metal than the dielectric, providing a better match for the substrate CTE, especially if this is a ceramic, Si, etc; (2) dielectric materials with poorer mechanical properties (e.g., photoresist) can be used successfully, since the mechanical integrity of the structure derives largely from the metal; (3) heat can be more easily dissipated; (4) overall rigidity is increased; and/or (5) regions of dielectric on a given layer are fewer and smaller, facilitating single point diamond machining of the layer by (a) reducing the risk of delamination and with less need for &#x2018;pinking&#x2019; and b) reducing the amount of Cu (or other metal) that must be removed by diamond machining (i.e., most of the Cu that is removed is that which is over small regions of dielectric). Pinking is explained more fully in U.S. Patent Application No. 60/574,733 entitled &#x201c;Methods for Electrochemically Fabricating Structures Using Adhered Masks, Incorporating Dielectric Sheets, and/or Seed layers That Are Partially Removed Via Planarization&#x201d;, filed by Lockard et al., which is hereby incorporated herein by reference as if set forth in full. Moreover, the solid block space transformer requires formation and patterning of fewer small features on most layers.</p>
+<p id="p-0111" num="0122"><figref idref="DRAWINGS">FIGS. 11A-11K</figref> shows the process for fabricating an SBST on a substrate with vias, using a patterned polymer/non-planar seed layer/plated metal approach. In <figref idref="DRAWINGS">FIG. 11A</figref>, a substrate <b>402</b> with vias <b>404</b> has been coated with a polymer <b>406</b> to a thickness greater than the desired layer thickness. In <figref idref="DRAWINGS">FIG. 11B</figref>, the polymer has been patterned. In <figref idref="DRAWINGS">FIG. 11C</figref>, interconnect material <b>412</b> (e.g. Cu) has been deposited by PVD (preferably sputtering) or the like. If necessary for adhesion or as a barrier layer (e.g., in the case of polyimide) to Cu migration, Ti or Cr can be deposited before the Cu. If Ti or Cr is used as a barrier layer, since there won't be any on down-facing polymer surfaces over Cu, then Cu diffusion may still occur in an upward direction. This be managed in a variety of ways, for example, by providing extra space between horizontal portions of the interconnects.</p>
+<p id="p-0112" num="0123">In <figref idref="DRAWINGS">FIG. 11D</figref>, interconnect material (e.g. Cu) <b>412</b> has been plated to a thickness greater than the desired layer thickness. In <figref idref="DRAWINGS">FIG. 11E</figref>, the layer has been planarized, preferably by diamond machining or possibly lapping.</p>
+<p id="p-0113" num="0124">In <figref idref="DRAWINGS">FIG. 11F</figref>, the previous operations have been repeated to fabricate a second layer. In <figref idref="DRAWINGS">FIGS. 11G-11I</figref>, the previous operations have been repeated to fabricate a third layer. <figref idref="DRAWINGS">FIG. 11J</figref> depicts the state of the process after forming the 4<sup>th </sup>through 7<sup>th </sup>layers where the last layer is formed with a capping of gold or other metal that is resistant to Cu etching (assuming the interconnect material is copper and such a barrier is necessary). The deposition of the last layer may occur by a combination of patterning, sputtering, plating, and planarization. It is desirable to avoid the use of copper on the last layer in those embodiments where copper will be placed above the space transformer (e.g. as a sacrificial material that surrounds probes that will be bonded to the space transformer) and then etched away. It should be noted that the seed layers shown explicitly in <figref idref="DRAWINGS">FIGS. 11D-11I</figref> have been removed from view in <figref idref="DRAWINGS">FIGS. 11J and 11K</figref> for simplicity.</p>
+<p id="p-0114" num="0125">Finally, in <figref idref="DRAWINGS">FIG. 11K</figref>, the space transformer has been diced from a larger wafer and a patterned passivation layer has been added to protect the shielding material (e.g. Cu) particularly along the sidewalls. This passivation layer may be used to protect the copper in the space transformer from an etchant that may be used to remove a sacrificial copper material from probe structure that may be formed on the space transformer or bonded to the space transformer. If desired a gold cap may then be added (e.g., by plating) over the interconnect region(s) in order to reduce the depth of the pad within the passivation. The passivation (e.g., photopatternable BCB) may be the same polymer that is used to fabricate the layers or a different one, as long as it is resistant to the Cu etchant. If applied as shown, since the passivation also coats the polymer from which the layers are formed, then this polymer (e.g., polyimide) can be of a type that is not very resistant to attack by the Cu etchant. It is also possible, since the Au layer protects the Cu from above, to protect the sidewalls using a non-patterned material simply applied to the sidewalls as shown in <figref idref="DRAWINGS">FIG. 12</figref>.</p>
+<p id="p-0115" num="0126"><figref idref="DRAWINGS">FIGS. 13A-13X</figref> depict schematic representations of side views of various states of a process according to a first embodiment of the invention which calls for the co-fabrication of a set of microprobes and a space transformer which can be mounted to a PCB.</p>
+<p id="p-0116" num="0127"><figref idref="DRAWINGS">FIG. 13A</figref> depicts the state of the process after a dielectric (e.g., alumina) substrate <b>102</b> is supplied having an array of relatively coarse conductive vias <b>104</b> which are composed of a metal that connects the top <b>108</b> and bottom surfaces <b>106</b> of the substrate. The vias are shown proceeding straight from the bottom surface <b>106</b> of the substrate to the top surface <b>108</b>. In some variations of this embodiment, a circuitous route may be taken by the vias. This embodiment of the invention uses a &#x2018;standard&#x2019; via substrate having vias in an array at a specific, relatively coarse pitch that is compatible with PCB line widths. The customization offered by the present embodiment, is accomplished entirely by the deposited layers of material. Typically some vias through the substrate will be used while others will remain unused depending on the specific layout of a particular space transformer. The substrate of the present embodiment is thick and rigid enough to be self-supporting, while in variations of this embodiment the substrate may be flexible. Since the total thickness of the layers to be deposited is typically only on the order of several hundred microns, the substrate provides the rigidity and robustness required for mounting the final space transformer and microprobe combination onto a PCB. As indicated, the substrate is metallized by deposition of a metal film <b>110</b> (e.g., by sputtering). The metal film <b>110</b> serves as a seed layer, as an adhesion layer (if necessary), possibly as a barrier layer and/or as a transition layer. In some embodiments the metal film <b>110</b> may actually comprise two or more individually applied layers, for example, the film may include an adhesion layer of, e.g., Ti, and a seed layer of, e.g., Au.</p>
+<p id="p-0117" num="0128">In <figref idref="DRAWINGS">FIG. 13B</figref>, a photoresist <b>112</b> has been applied and patterned and a first layer of structural material <b>114</b> (e.g. Ni) has been pattern-plated. In some alternative embodiments, sacrificial material may be pattern plated and then structural material may be blanket-plated, and then the layer planarized. Electrical contact (i.e. cathodic contact) may be made via the metal film <b>110</b>.</p>
+<p id="p-0118" num="0129">In <figref idref="DRAWINGS">FIG. 13C</figref>, the resist has been stripped and the exposed portion of metal film <b>110</b> etched back. The portion of the film located under the deposited structural material <b>114</b> is not removed as it is not readily accessible.</p>
+<p id="p-0119" num="0130">In <figref idref="DRAWINGS">FIG. 13D</figref>, a seed layer of sacrificial material <b>118</b> (e.g. Cu) has been deposited by PVD (e.g., sputtering) over a thin deposition of an adhesion layer material <b>116</b> (e.g., Ti&#x2014;W). This seed layer serves as a cathode for subsequent plating and may be used as the contact point for connecting to an electric circuit or alternatively some other conductive element connected to the seed layer may be used as the circuit contact point.</p>
+<p id="p-0120" num="0131">In <figref idref="DRAWINGS">FIG. 13E</figref>, the seed and adhesion layers are shown as having been etched away from an area of an end-point detection region <b>122</b> (additional end point detection pads may exist on the substrate but are just not visible from the view provided by <figref idref="DRAWINGS">FIG. 13E</figref>. This removal may, for example, occur by use of a patterned mask that is formed after which etching is allowed to occur, and then the mask removed. This removal of the seed layer prevents metal from being plated up in this region. Of course, in practice the end point detection region <b>112</b> will need to be wide enough so that plating of metal occurring via a mushrooming effect from the side walls of structural material <b>112</b> which surrounds end-point detection pad <b>122</b> will not result in the covering of the pad. In alternative embodiments, at the time of application of seed layer and adhesion layer material the end-point detection region may be shielded so as to not receive the materials.</p>
+<p id="p-0121" num="0132">In <figref idref="DRAWINGS">FIG. 13F</figref>, a sacrificial material <b>124</b>, e.g. Cu, has been thickly plated (e.g. at greater than a desired layer thickness). In <figref idref="DRAWINGS">FIG. 13G</figref> the build has been planarized, completing the first layer. Building is then allowed to continue so that additional layers are formed so long as both structural and sacrificial materials are conductive there is no need to apply a seed layer during formation of the 2<sup>nd</sup>-N<sup>th </sup>layers. If one of the materials is non-conductive formation of some or all layers may require use of one or more seed layers. In <figref idref="DRAWINGS">FIG. 13H</figref>, all the layers of the space transformer portion of the build have been completed with three-dimensional structural material <b>114</b> interconnect being embedded in sacrificial material <b>124</b> and laid out in a pattern that connects the relatively coarse-pitch vias to the relatively fine-pitch probes which are still to be fabricated. In alternative embodiments masking could be applied and selective deposition of dielectric made to occur (e.g. a pattern that holds the extended interconnect lines in position).</p>
+<p id="p-0122" num="0133">In <figref idref="DRAWINGS">FIG. 13I</figref>, structural material <b>114</b> has been pattern-plated to form what will become fine-pitch vias which will extend through an insulating layer that will next be fabricated. In <figref idref="DRAWINGS">FIG. 13J</figref>, a cap <b>126</b> has been applied over the endpoint detection region or area and a high-temperature resistant dielectric material <b>128</b> (e.g., polyimide, glass, or the like) has been applied and (if needed) cured.</p>
+<p id="p-0123" num="0134">In <figref idref="DRAWINGS">FIG. 13K</figref>, the cap has been removed and the build has been planarized (and if necessary the opening <b>132</b> above the end-point detection pad has been cleaned of debris from the planarization operation. The planarization operation removes the dielectric that lays over the structural material vias of <figref idref="DRAWINGS">FIG. 13I</figref> and leaves in place a dielectric layer that will form a &#x2018;roof&#x2019; for the space transformer portion of the device. In some variations of the embodiment, if the cap is designed to be flush or below flush with the surface of the vias after planarization, it need not be removed at this point. This may be desirable since a cap will be again be used as indicated in <figref idref="DRAWINGS">FIG. 13M</figref>.</p>
+<p id="p-0124" num="0135">In <figref idref="DRAWINGS">FIG. 13L</figref>, a structural material, e.g. Ni, has been pattern-plated (e.g. via a patterned photoresist that is not shown) to form posts that continue the fine-pitch vias and which will serve as the bases for probes structures that will be formed. In variations of this embodiment, the posts may be formed without need for a patterned mask as the only conductive locations on the previous layer are the vias. Formation of posts without a patterned mask may result in widening of the posts, due to mushrooming, and in the posts having non-vertical sidewalls.</p>
+<p id="p-0125" num="0136">In <figref idref="DRAWINGS">FIG. 13M</figref>, another cap <b>134</b> has been applied to the endpoint detection area (unless the original cap has been left intact) and a seed layer <b>136</b> of sacrificial material, e.g. Cu, and if needed an adhesion layer <b>138</b>, e.g. of Ti&#x2014;W, have been deposited by, for example, PVD. In <figref idref="DRAWINGS">FIG. 13N</figref>, a sacrificial material <b>140</b>, e.g. Cu, has been plated above the seed layer and in <figref idref="DRAWINGS">FIG. 13O</figref>, the build has again been planarized. The build is now ready for the fabrication of the probes.</p>
+<p id="p-0126" num="0137">In <figref idref="DRAWINGS">FIG. 13P</figref>, the probes <b>142</b>(<i>a</i>)-<b>142</b>(<i>c</i>) have been electrochemically fabricated from a desired material along with an etch-proof shell of structural material <b>144</b> that encloses that probes and the sacrificial material <b>140</b> that surrounds them. In variations of the present embodiment, instead of forming a roof on the shell of structural material, a coating may simply be applied to prevent etching of the sacrificial material in the probe portion of the structure during an etching operation that removes the other regions of sacrificial material as will be discussed in association with <figref idref="DRAWINGS">FIG. 13S</figref>. In some embodiments, it is desirable not to etch the sacrificial material in the probe region prematurely. Since, for example, once the structure is released it may be too weak to properly support the interconnects during infiltration of a dielectric material (e.g. an epoxy) around the structural material interconnects of the space transformer which have been released from sacrificial material as will be discussed in association with <figref idref="DRAWINGS">FIG. 13U</figref> and since, for example, the presence of the sacrificial material in the probe region may protect the probes from dicing debris that may be generated in a subsequent operation. The electrochemical fabrication of layers of the space transformer and of the probes is completed but the formation process as a whole is not yet completed.</p>
+<p id="p-0127" num="0138">In <figref idref="DRAWINGS">FIG. 13Q</figref>, a photoresist <b>152</b> has been patterned on the underside of the substrate <b>102</b>, electrical (i.e. cathodic) contact has been made to the plated or PVD-deposited material, and solder <b>154</b> (e.g., Sn&#x2014;Pb) has been plated onto the coarse vias (both used and unused, if desired). As shown in <figref idref="DRAWINGS">FIG. 13R</figref> photoresist <b>152</b> has been removed and the solder is reflowed to form bumps (if desired). In variations of this embodiment, the solder bumping may be performed at an earlier stage of the process (e.g., after the metallization operation shown in <figref idref="DRAWINGS">FIG. 13A</figref>. In the present process, however, the bumping was not performed earlier, as the lack of the presence of bumps allowed for the bottom of the substrate to remain substantially flat during the EFAB process without need for additional coating and planarization operations and the like. Since the sacrificial material has not yet been etched from the space transformer portion of the build, electrical contact to all coarse vias exists and so bumping of all vias can occur (even to unused vias) if desired.</p>
+<p id="p-0128" num="0139">In <figref idref="DRAWINGS">FIG. 13S</figref>, the exposed sacrificial material has been removed to partially release the structure (with the exception of the sacrificial material that surrounds the probes which is protected by the shell of structural material surrounding it and by the dielectric roof of the space transformer portion of the build. As a result, the removal of the sacrificial material may occur by immersing the entire build into sacrificial material etchant. The release occurs substantially in a lateral manner, with etchant flowing under the roof and around structural material interconnects and structural material pillars <b>162</b> that may be used to support the roof of the space transformer (e.g., one in each corner of the device, or spaced out at intervals around the perimeter). It may be necessary, however, to coat the solder bumps with a protective coating if it is attacked by and exposed to the sacrificial material etchant. Following etching of the sacrificial material (and removal of the protective coating from the solder if previously applied), diffusion bonding (e.g., at 250&#xb0; C.) may be performed to improve the inter-layer adhesion of the device. More teaching concerning the use of diffusion bonding in electrochemical fabrication processes may be found in U.S. patent application Ser. No. 10/841,384 which is filed May 7, 2004 by Cohen et al. which is entitled &#x201c;Method of Electrochemically Fabricating Multilayer Structures Having Improved Interlayer Adhesion&#x201d; and which is hereby incorporated herein by reference as if set forth in full.</p>
+<p id="p-0129" num="0140">In some variations of the present embodiment, reflow of the solder may not have occurred prior to diffusion bonding and the diffusion bonding may serve to reflow the solder. In some embodiments, it may be desirable to perform diffusion bonding after release of the space transformer interconnects from the sacrificial material, particularly when the sacrificial material and the structural material have a significant difference in their coefficients of thermal expansion as may be the case for a nickel structural material and a copper sacrificial material.</p>
+<p id="p-0130" num="0141">In <figref idref="DRAWINGS">FIG. 13S</figref>, a coating <b>166</b> has been applied to prevent depositing of space transformer backfill polymer (e.g. a low-viscosity epoxy) onto the bumps. In variations of this embodiment the coating may be applied earlier if it is capable of withstanding the temperatures associated with diffusion bonding. In some variations of the present embodiment, the coating <b>166</b> covering the bumps may be eliminated if the backfill polymer is applied in such a way so as to avoid the backfill material contacting the bumps. <figref idref="DRAWINGS">FIG. 13U</figref> shows the state of the process after the back fill material <b>172</b> has been infiltrated into the structure and cured to fill the voids in the space transformer. In the present embodiment the epoxy material is allowed to fill all exposed openings. In variations of the embodiment, further restrictions on accessibility of the backfill material to certain regions may be implemented. Since the interconnects are fastened at both ends, it is believed that, with careful backfilling, they will be able to resist deformation and shorting to one another during the filling process. As shown in <figref idref="DRAWINGS">FIG. 13U</figref>, some epoxy has also coated over the top of the device which can be removed by a planarization operation, as shown in <figref idref="DRAWINGS">FIG. 13V</figref>, along with the top of the structural material shell that protected the sacrificial material located in the probe region (as shown in <figref idref="DRAWINGS">FIG. 13V</figref>.</p>
+<p id="p-0131" num="0142">In <figref idref="DRAWINGS">FIG. 13W</figref>, the build has been diced to allow separation of individual package dies. In this embodiment, dicing occurs prior to release of the remaining sacrificial material and thus dicing occurs while the entire structure is either embedded in sacrificial material (probe portion) or epoxy (space transformer portion). After dicing, debris is removed (e.g., by megasonic or ultrasonic cleaning). In variations of the present embodiment, dicing may occur after release of the probes from the sacrificial material. The dicing is performed so that it removes the sidewalls of the Ni shell in the probe region so that the existence of the shell does not limit the accessibility of the probes and a circuit element to be contacted by them when put to use. As shown, the dicing may leave behind a portion of the Ni pillars (in the transformer region), whereas in variations of this embodiment, the pillars may be removed in their entirety or left in their entirety.</p>
+<p id="p-0132" num="0143"><figref idref="DRAWINGS">FIG. 13X</figref>, depicts the state of the process after the bottomside coating (and any overlying epoxy) have been removed and the remaining sacrificial material removed to release the probes. The probe/space transformer package is now ready to be mounted to a printed circuit board, PCB, (e.g., using surface mount techniques) or to any other desired component. An underfill material may be used to fill any space between the package and the PCB after bonding of the package to the PCB (i.e. via reflow of the solder bumps). It may be desirable to avoid damage to the device, and assuming the PCB can tolerate the sacrificial material etchant, it may be desirable to mount the device to the PCB first, and then perform the final sacrificial material release.</p>
+<p id="p-0133" num="0144">In an alternative embodiment, in lieu of application of a dielectric material <b>128</b>, as applied in <figref idref="DRAWINGS">FIG. 13J</figref>, a thin metal layer may be used that is capable of being later etched. For example, such etching may occur after the release of the remaining sacrificial material in <figref idref="DRAWINGS">FIG. 13X</figref> to avoid shorting the probes together. Sn, Ni, and Au are examples of metals that may be considered for this use.</p>
+<p id="p-0134" num="0145"><figref idref="DRAWINGS">FIGS. 14A-14G</figref> provide various perspective, side and close up views of an exemplary conceptual space transformer and probe array that may be formed with some embodiments of the invention wherein the space transformer is shown as free standing (i.e. not encapsulated in a dielectric). In some embodiments, the space components of the space transformer may be encapsulated in a dielectric or in a combination of dielectric embedded in a conductive material. The substrate of the space transformer may be bonded to a PCB, interposer, backing board, or the like. Probes may be formed directly on the space transformer interconnects or they may be transferred and bonded to the space transformer singly or in one or more multi-probe arrays. In some embodiments, different substrates may be used, for example, instead of the substrate feeding its vias straight from one surface to an opposing surface they may be fed from one surface to a perpendicular surface (e.g. from a top surface to one or more of the sidewalls).</p>
+<p id="p-0135" num="0146"><figref idref="DRAWINGS">FIG. 14A</figref> provide a side view of a sample space transformer <b>502</b> having a substrate portion <b>504</b>, an interconnect and component region <b>506</b>, and having a probe array <b>508</b> attached to its upper surface. To see the various interconnects and components located within the space transform, it is depicted without any encapsulating material. <figref idref="DRAWINGS">FIG. 14B and 14C</figref> provide a distance and close up perspective views of the space transformer and probes. Various components and features of the probes and space transformer can be seen: (1) inductors <b>512</b>; (2) capacitors <b>514</b>; (3) ground planes and power planes <b>516</b>; (4) vias with varying cross-sectional dimensions (i.e. elements that run in essentially a direction perpendicular to the plane of the substrate) <b>522</b>, <b>524</b>, and <b>526</b>; (5) traces with varying widths and heights (elements running in essentially a direction that is parallel to the substrate) <b>532</b>, <b>534</b>, and <b>536</b>; and (6) probes with different diameters and different tips <b>542</b> and <b>544</b>. As can also be seen trace positions and via positions are not limited to separate layers as is typical for commercial space transformers (i.e. horizontal traces and vertical vias may coexist on the same layers). <figref idref="DRAWINGS">FIG. 14D</figref> shows another perspective view of the space transformer which allows a via <b>562</b>. <figref idref="DRAWINGS">FIGS. 14E and 14F</figref> provide further close up perspective views of probes and space transformer components. <figref idref="DRAWINGS">FIG. 14G</figref> provides a close up view that allows coaxial interconnect structures <b>572</b> in the space transformer to be seen.</p>
+<p id="p-0136" num="0147">In some embodiments of the invention, the structural material chosen for use in the space transformer portion of the build need not be the same as that chosen for the probe portion; material used in the space transformer may best be optimized for high conductivity and does not necessarily need to meet stringent mechanical specifications for yield, fatigue, etc. as does the material used for the probes themselves. Thus Au or Cu might be a desirable structural material for the interconnects of the space transformer region while Ni, Ni&#x2014;Co, or NiP may be more desirable for the probes.</p>
+<p id="p-0137" num="0148">In still embodiments of the invention, the interconnects in the space transformer may be formed not simply as conductive traces but instead as conductive traces with shielding conductors (e.g. like coaxial lines) that may be useful in high frequency applications and the like. Similar shielding may exist around the individual probes (as part of the probe design) and may be separated from the central conducting elements of the probes by continuous or periodic locations of a desired dielectric material. To aid in etching any sacrificial material and/or possible release of a back filling material from between the central interconnect leads and surrounding shield material, the shield material may be perforated with holes that give reasonable access to an etchant.</p>
+<p id="p-0138" num="0149">In various embodiments of the invention, different planarization operations are possible. In some embodiments, e.g. on some layers in a building process, single stage lapping or multi-stage lapping may be used while in other embodiments, chemical mechanical polishing may be used, while in still other embodiments fly cutting, or diamond machining, may be used. Further teachings about planarizing layers and setting layers thicknesses and the like are set forth in the following US Patent Applications which were filed Dec. 31, 2003: (1) U.S. Patent Application No. 60/534,159 by Cohen et al. and which is entitled &#x201c;Electrochemical Fabrication Methods for Producing Multilayer Structures Including the use of Diamond Machining in the Planarization of Deposits of Material&#x201d; and (2) U.S. Patent Application No. 60/534,183 by Cohen et al. and which is entitled &#x201c;Method and Apparatus for Maintaining Parallelism of Layers and/or Achieving Desired Thicknesses of Layers During the Electrochemical Fabrication of Structures&#x201d;. Furthermore, the techniques disclosed explicitly herein may benefit by combining them with the techniques disclosed in U.S. patent application Ser. No. 11/029,220 filed Jan. 3, 2005, by Frodis et al. and entitled &#x201c;Method and Apparatus for Maintaining Parallelism of Layers and/or Achieving Desired Thicknesses of Layers During the Electrochemical Fabrication of Structures&#x201d;, now U.S. Pat. No. 7,271,888. These patent filings are each hereby incorporated herein by reference as if set forth in full herein.</p>
+<p id="p-0139" num="0150">In some alternative embodiments, the space transformer portion of the package may be formed directly with structural material interconnects and with a dielectric support material instead of with a conductive sacrificial material or in addition to a conductive sacrificial material that may still be located in some areas. Various techniques for combining conductive materials and dielectric materials in electrochemical fabrication process, and possibility into the final structures as formed, are set forth in a number of patent applications: (1) U.S. Patent Application No. 60/534,184, by Cohen, which as filed on Dec. 31, 2003, and which is entitled &#x201c;Electrochemical Fabrication Methods Incorporating Dielectric Materials and/or Using Dielectric Substrates&#x201d;; (2) U.S. Patent Application No. 60/533,932, by Cohen, which was filed on Dec. 31, 2003, and which is entitled &#x201c;Electrochemical Fabrication Methods Using Dielectric Substrates&#x201d;; (3) U.S. Patent Application No. 60/534,157, by Lockard et al., which was filed on Dec. 31, 2004, and which is entitled &#x201c;Electrochemical Fabrication Methods Incorporating Dielectric Materials&#x201d;; (4) U.S. Patent Application No. 60/574,733, by Lockard et al., which was filed on May 26, 2004, and which is entitled &#x201c;Methods for Electrochemically Fabricating Structures Using Adhered Masks, Incorporating Dielectric Sheets, and/or Seed Layers that are Partially Removed Via Planarization&#x201d;; and U.S. Patent Application No. 60/533,895, by Lembrikov et al., which was filed on Dec. 31, 2003, and which is entitled &#x201c;Electrochemical Fabrication Method for Producing Multi-layer Three-Dimensional Structures on a Porous Dielectric&#x201d;. The techniques disclosed explicitly herein may benefit by combining them with the techniques disclosed in U.S. patent application Ser. No. 11/029,216 filed Jan. 3, 2005, by Cohen et al. and entitled &#x201c;Electrochemical Fabrication Methods Incorporating Dielectric Materials and/or Using Dielectric Substrates&#x201d; and U.S. Patent Application No. 60/641,292 filed Jan. 3, 2005, by Dennis R. Smalley and entitled &#x201c;Method of Forming Electrically Isolated Structures Using Thin Dielectric Coatings&#x201d;. These patent filings are each hereby incorporated herein by reference as if set forth in full herein.</p>
+<p id="p-0140" num="0151">Further teachings about microprobes and electrochemical fabrication techniques are set forth in a number of US Patent Applications which were filed on Dec. 31, 2003. These filings include: (1) U.S. Patent Application No. 60/533,933, by Arat et al. and which is entitled &#x201c;Electrochemically Fabricated Microprobes&#x201d;; (2) U.S. Patent Application No. 60/533,975, by Kim et al. and which is entitled &#x201c;Microprobe Tips and Methods for Making&#x201d;; (3) U.S. Patent Application No. 60/533,947, by Kumar et al. and which is entitled &#x201c;Probe Arrays and Method for Making&#x201d;; and (4) U.S. Patent Application No. 60/533,948, by Cohen et al. and which is entitled &#x201c;Electrochemical Fabrication Method for Co-Fabricating Probes and Space Transformers&#x201d;. Furthermore, the techniques disclosed explicitly herein may benefit by combining them with the techniques disclosed in US patent application Ser. No. 11/029,180 filed Jan. 3, 2005, by Chen et al. and entitled &#x201c;Pin-Type Probes for Contacting Electronic Circuits and Methods for Making Such Probes&#x201d;; U.S. Patent Application No. 60/641,341 filed Jan. 3, 2005, by Chen et al. and entitled &#x201c;Vertical Microprobes for Contacting Electronic Components and Method for Making Such Probes&#x201d;; U.S. patent application Ser. No. 11/029,217 filed Jan. 3, 2005, concurrently herewith by Kim et al. and entitled &#x201c;Microprobe Tips and Methods For Making&#x201d;; U.S. patent application Ser. No. 11/028,958 filed Jan. 3, 2005, by Kumar et al. and entitled &#x201c;Probe Arrays and Methods for Making&#x201d;; and U.S. patent application Ser. No. 11/029,221 filed Jan. 3, 2005, by Cohen et al. and entitled &#x201c;Electrochemical Fabrication Process for Forming Multilayer Multimaterial Microprobe Structures&#x201d;, now U.S. Pat. No. 7,531,077. These patent applications are each hereby incorporated herein by reference as if set forth in full herein.</p>
+<p id="p-0141" num="0152">Some embodiments may employ mask based selective etching operations in conjunction with blanket deposition operations. Some embodiments may form structures on a layer-by-layer base but deviate from a strict planar layer on planar layer build up process in favor of a process that interlacing material between the layers. Such alternating build processes are disclosed in U.S. application Ser. No. 10/434,519, filed on May 7, 2003, entitled Methods of and Apparatus for Electrochemically Fabricating Structures Via Interlaced Layers or Via Selective Etching and Filling of Voids which is herein incorporated by reference as if set forth in full.</p>
+<p id="p-0142" num="0153">Some embodiments may not use any blanket deposition process and/or they may not use a planarization process. Some embodiments may involve the selective deposition of a plurality of different materials on a single layer or on different layers. Some embodiments may use selective deposition processes or blanket deposition processes on some layers that are not electrodeposition processes. Some embodiments may use nickel as a structural material while other embodiments may use different materials. Some embodiments may use copper as the structural material with or without a sacrificial material. Some embodiments may remove a sacrificial material while other embodiments may not.</p>
+<p id="p-0143" num="0154">Many other alternative embodiments will be apparent to those of skill in the art upon reviewing the teachings herein. Further embodiments may be formed from a combination of the various teachings explicitly set forth in the body of this application. Even further embodiments may be formed by combining the teachings set forth explicitly herein with teachings set forth in the various applications and patents referenced herein, each of which is incorporated herein by reference.</p>
+<p id="p-0144" num="0155">In view of the teachings herein, many further embodiments, alternatives in design and uses of the instant invention will be apparent to those of skill in the art. As such, it is not intended that the invention be limited to the particular illustrative embodiments, alternatives, and uses described above but instead that it be solely limited by the claims presented hereafter.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>We claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A fabrication process for co-fabricating a multi-layer probe array and a space transformer, comprising:
+<claim-text>(a) forming and adhering a first layer of material to a substrate, wherein the first layer comprises a desired pattern of at least one material;</claim-text>
+<claim-text>(b) repeating the forming and adhering operation of the steps of (a) a plurality of times to build up the array of probes and the space transformer from a plurality of adhered layers, and wherein at least a portion of the plurality of layers comprises at least one structural material and at least one sacrificial material; and</claim-text>
+<claim-text>(c) after formation of the plurality of layers, subjecting the plurality of adhered layers to a release process that removes at least a portion of the at least one sacrificial material from the plurality of adhered layers,</claim-text>
+<claim-text>wherein the space transformer comprise a plurality of interconnect elements that connect on one side to the array of probes that have a first spacing and connect to pads on another side that have a second spacing that is greater than the first spacing.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the forming and adhering operation of the steps of (a) comprises an electrochemical deposition process.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the at least one structural material comprises an electrodeposited metal and the at least one sacrificial material comprises an electrodeposited metal.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method of <claim-ref idref="CLM-00003">claim 3</claim-ref> wherein during formation of each of the plurality of layers at least one planarization operation is used to planarize at least the one sacrificial material and the at least one structural material.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

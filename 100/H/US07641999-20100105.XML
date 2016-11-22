@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641999-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641999</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11212285</doc-number>
+<date>20050826</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2004-248133</doc-number>
+<date>20040827</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>JP</country>
+<doc-number>2004-252135</doc-number>
+<date>20040831</date>
+</priority-claim>
+<priority-claim sequence="03" kind="national">
+<country>JP</country>
+<doc-number>2004-258264</doc-number>
+<date>20040906</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>277</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>8</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>2</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>2</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>2</main-group>
+<subgroup>14</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>429 34</main-classification>
+<further-classification>429 38</further-classification>
+<further-classification>429 12</further-classification>
+</classification-national>
+<invention-title id="d0e107">Fuel cell stack</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5384212</doc-number>
+<kind>A</kind>
+<name>Heiman et al.</name>
+<date>19950100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>429143</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6183903</doc-number>
+<kind>B1</kind>
+<name>Campbell et al.</name>
+<date>20010200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>429176</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6703153</doc-number>
+<kind>B1</kind>
+<name>Cubukcu et al.</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>429 30</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6855448</doc-number>
+<kind>B2</kind>
+<name>Kikuchi et al.</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2002/0142209</doc-number>
+<kind>A1</kind>
+<name>Kikuchi et al.</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>429 34</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>JP</country>
+<doc-number>52-133737</doc-number>
+<date>19771000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>JP</country>
+<doc-number>53-66436</doc-number>
+<date>19780600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>JP</country>
+<doc-number>56-81821</doc-number>
+<date>19810700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>JP</country>
+<doc-number>58-125490</doc-number>
+<date>19830700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>JP</country>
+<doc-number>59-118723</doc-number>
+<date>19840800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>JP</country>
+<doc-number>99-118723</doc-number>
+<date>19840800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>JP</country>
+<doc-number>7-172434</doc-number>
+<date>19950700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>JP</country>
+<doc-number>8-26269</doc-number>
+<date>19960100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>JP</country>
+<doc-number>2001-130565</doc-number>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>JP</country>
+<doc-number>2001-135344</doc-number>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>JP</country>
+<doc-number>2002-298901</doc-number>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>JP</country>
+<doc-number>2006-73226</doc-number>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00018">
+<othercit>Japanese Office Action for Application No. 2004-248133, dated Jun. 2, 2009.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00019">
+<othercit>Japanese Office Action for Application No. 2004-252135, dated Jun. 2, 2009.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00020">
+<othercit>Japanese Office Action for Application No. 2004-258264, dated May 26, 2009.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00021">
+<othercit>Japanese Office Action for Application No. 2004-248133, dated Aug. 25, 2009.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>16</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>429 34</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>429 38</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>34</number-of-drawing-sheets>
+<number-of-figures>34</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060046127</doc-number>
+<kind>A1</kind>
+<date>20060302</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ishizuka</last-name>
+<first-name>Ayumu</first-name>
+<address>
+<city>Utsunomiya</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kikuchi</last-name>
+<first-name>Hideaki</first-name>
+<address>
+<city>Kawachi-gun</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Morimoto</last-name>
+<first-name>Go</first-name>
+<address>
+<city>Utsunomiya</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Lahive &#x26; Cockfield, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Laurentano, Esq.</last-name>
+<first-name>Anthony A.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Honda Motor Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Yuan</last-name>
+<first-name>Dah-Wei D</first-name>
+<department>1795</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Scully</last-name>
+<first-name>Steven</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A fuel cell stack includes side plates of a casing. Flanges are provided on the side plates on the short sides for coupling the side plates on the short sides to the other side plates on the long sides. In each of the side plates, the center O of the coupling pin is offset from the neutral surface NS of the side plate in a direction away from a stack body by the distance &#x201c;h&#x201d;.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="104.14mm" wi="143.93mm" file="US07641999-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="201.17mm" wi="153.75mm" orientation="landscape" file="US07641999-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="192.19mm" wi="146.22mm" file="US07641999-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="194.06mm" wi="145.29mm" orientation="landscape" file="US07641999-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="169.84mm" wi="136.82mm" orientation="landscape" file="US07641999-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="205.91mm" wi="143.76mm" orientation="landscape" file="US07641999-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="146.98mm" wi="108.03mm" orientation="landscape" file="US07641999-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="197.19mm" wi="151.21mm" orientation="landscape" file="US07641999-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="191.69mm" wi="143.85mm" file="US07641999-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="149.27mm" wi="110.07mm" orientation="landscape" file="US07641999-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="213.53mm" wi="141.73mm" orientation="landscape" file="US07641999-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="198.12mm" wi="155.36mm" orientation="landscape" file="US07641999-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="193.80mm" wi="150.54mm" file="US07641999-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="174.92mm" wi="139.28mm" orientation="landscape" file="US07641999-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="148.17mm" wi="103.63mm" orientation="landscape" file="US07641999-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="194.48mm" wi="148.93mm" file="US07641999-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="147.32mm" wi="102.62mm" orientation="landscape" file="US07641999-20100105-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="200.15mm" wi="151.21mm" orientation="landscape" file="US07641999-20100105-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="194.39mm" wi="145.71mm" file="US07641999-20100105-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="143.85mm" wi="104.39mm" orientation="landscape" file="US07641999-20100105-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="193.29mm" wi="145.37mm" file="US07641999-20100105-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="146.39mm" wi="111.51mm" orientation="landscape" file="US07641999-20100105-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="189.91mm" wi="133.60mm" file="US07641999-20100105-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="154.18mm" wi="132.16mm" file="US07641999-20100105-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="198.71mm" wi="156.29mm" orientation="landscape" file="US07641999-20100105-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="188.89mm" wi="140.55mm" file="US07641999-20100105-D00025.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00026" num="00026">
+<img id="EMI-D00026" he="172.13mm" wi="136.57mm" orientation="landscape" file="US07641999-20100105-D00026.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00027" num="00027">
+<img id="EMI-D00027" he="225.04mm" wi="113.62mm" orientation="landscape" file="US07641999-20100105-D00027.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00028" num="00028">
+<img id="EMI-D00028" he="141.31mm" wi="132.84mm" file="US07641999-20100105-D00028.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00029" num="00029">
+<img id="EMI-D00029" he="224.11mm" wi="112.27mm" orientation="landscape" file="US07641999-20100105-D00029.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00030" num="00030">
+<img id="EMI-D00030" he="206.16mm" wi="135.81mm" file="US07641999-20100105-D00030.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00031" num="00031">
+<img id="EMI-D00031" he="224.45mm" wi="108.97mm" orientation="landscape" file="US07641999-20100105-D00031.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00032" num="00032">
+<img id="EMI-D00032" he="203.03mm" wi="135.21mm" file="US07641999-20100105-D00032.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00033" num="00033">
+<img id="EMI-D00033" he="222.67mm" wi="115.57mm" orientation="landscape" file="US07641999-20100105-D00033.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00034" num="00034">
+<img id="EMI-D00034" he="200.58mm" wi="114.89mm" file="US07641999-20100105-D00034.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention:</p>
+<p id="p-0003" num="0002">The present invention relates to a fuel cell stack including a box-shaped casing and a stack body provided in the casing. The stack body is formed by stacking a plurality of unit cells. Each of the unit cells includes an electrolyte electrode assembly and separators sandwiching the electrolyte electrode assembly. The electrolyte electrode assembly includes a pair of electrodes, and an electrolyte interposed between the electrodes.</p>
+<p id="p-0004" num="0003">2. Description of the Related Art:</p>
+<p id="p-0005" num="0004">For example, a solid polymer fuel cell employs a membrane electrode assembly which includes an anode and a cathode, and an electrolyte membrane (electrolyte) interposed between the anode and the cathode. The electrolyte membrane is a polymer ion exchange membrane. The membrane electrode assembly and separators sandwiching the membrane electrode assembly make up a unit of a fuel cell (unit cell) for generating electricity.</p>
+<p id="p-0006" num="0005">In the fuel cell, a fuel gas such as a gas chiefly containing hydrogen (hereinafter also referred to as the &#x201c;hydrogen-containing gas&#x201d;) is supplied to the anode. A gas chiefly containing oxygen or air (hereinafter also referred to as the &#x201c;oxygen-containing gas&#x201d;) is supplied to the cathode. The catalyst of the anode induces a chemical reaction of the fuel gas to split the hydrogen molecule into hydrogen ions and electrons. The hydrogen ions move toward the cathode through the electrolyte membrane, and the electrons flow through an external circuit to the cathode, creating a DC electrical energy.</p>
+<p id="p-0007" num="0006">Generally, a predetermined number of, e.g., several tens to several hundreds of fuel cells are stacked together to form a fuel cell stack for achieving the desired level of electricity in power generation. Components of the fuel cell stack need to be tightened together reliably under pressure so that the internal resistance of the fuel cell does not increase, and the sealing performance for preventing leakage of reactant gases is maintained.</p>
+<p id="p-0008" num="0007">In this regard, for example, a fuel cell stack disclosed in Japanese Laid-Open Patent Publication No. 2001-135344 is known. As shown in <figref idref="DRAWINGS">FIG. 34</figref>, the fuel cell stack includes a stack body <b>2</b> formed by stacking a plurality of unit cells <b>1</b>. At opposite ends of the stack body <b>2</b> in the stacking direction, end plates <b>3</b> are provided. Further, auxiliary plates <b>4</b><i>a</i>, <b>4</b><i>b </i>are provided outside the end plates <b>3</b>. A pair of tightening bands <b>5</b> is provided along both sides of the stack body <b>2</b>. At ends of the tightening bands <b>5</b> and the auxiliary plates <b>4</b><i>a</i>, <b>4</b><i>b</i>, cylindrical coupling members <b>6</b> are provided. The coupling members <b>6</b> have holes arranged in a straight line. A metal pin <b>7</b> is inserted into each of the coupling members <b>6</b> for coupling the tightening bands <b>5</b> and the auxiliary plates <b>4</b><i>a</i>, <b>4</b><i>b </i>together.</p>
+<p id="p-0009" num="0008">According to the disclosure, a plurality of bolts <b>8</b> are screwed into the auxiliary plate <b>4</b><i>a</i>. A plurality of belleville springs <b>9</b> are provided on the auxiliary plate <b>4</b><i>b</i>. Therefore, when the bolts <b>8</b> are screwed into the auxiliary plate <b>4</b><i>a</i>, the end plates <b>3</b> are pressed downwardly, and the belleville springs <b>9</b> on the auxiliary plate <b>4</b><i>b </i>are compressed. Thus, the required tightening pressure is applied to the stack body <b>2</b> through the pair of end plates <b>3</b>.</p>
+<p id="p-0010" num="0009">In Japanese Laid-Open Patent Publication No. 2001-135344, the metal pins <b>7</b> are fitted into both of the coupling members <b>6</b> of the tightening bands <b>5</b> and the coupling members <b>6</b> of the auxiliary plates <b>4</b><i>a</i>, <b>4</b><i>b</i>. Therefore, the distance between the auxiliary plates <b>4</b><i>a</i>, <b>4</b><i>b </i>does not change. Thus, when the tightening load applied to the fuel cell stack is reduced by aged deterioration or the like, it is necessary to tighten the plurality of bolts <b>8</b> for maintaining the desired tightening load.</p>
+<p id="p-0011" num="0010">However, in Japanese Laid-Open Patent Publication No. 2001-135344, in order to adjust the tightening load applied to the fuel cell stack, the bolts <b>8</b> as dedicated components for tightening are required. Therefore the additional dedicated components increase the weight of the fuel cell stack, and the size of the fuel cell stack in the stacking direction of the unit cells <b>1</b> disadvantageously.</p>
+<p id="p-0012" num="0011">As a solution of the above problem, for example, a fuel cell stack disclosed in Japanese Laid-Open Patent Publication No. 2002-298901 is known. In the fuel cell stack, current collecting electrodes (terminal plates) are provided on the outside of a stack body formed by stacking a predetermined number of unit cells. Further, end plates are provided outside the terminal plates. The end plates are coupled to a casing by a hinge mechanism. The casing includes a plurality of panels (side plates) provided on upper, lower, left, and right sides between the end plates.</p>
+<p id="p-0013" num="0012">Therefore, in Japanese Laid-Open Patent Publication No. 2002-298901, the bolts <b>8</b> disclosed in Japanese Laid-Open Patent Publication No. 2001-135344 are not required. Further, it is possible to use thin end plates. Thus, it is possible to achieve reduction in the overall size and weight of the fuel cell stack easily.</p>
+<p id="p-0014" num="0013">In Japanese Laid-Open Patent Publication No. 2002-298901, for example, a relatively large gap may be formed between the side plates of the casing and the sides of the stack body. Therefore, when an impact is applied to the fuel cell stack, positional displacement may occur in the stack body in the stacking direction, or the stack body may be vibrated undesirably. If the gap between the side plates and the sides of the stack body is excessively small, the side plates and the stack body contact unnecessarily.</p>
+<p id="p-0015" num="0014">Further, the panels of the casing have a flat shape. For example, if a load is applied to the fuel cell stack in a twisting direction, or if vibrations are generated, deformation may occur in the panels. Thus, the position of the stack body may be displaced in the stacking direction. In this case, for example, the sealing performance is degraded undesirably.</p>
+<p id="p-0016" num="0015">In view of the above, for example, a rib-panel having ribs may be adopted to increase the rigidity of the panel. However, since the tightening load is applied to the stack body in the stacking direction, when the load in the stacking direction is applied to the rib-panel, the rib-panel may be deformed undesirably by the load.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0017" num="0016">A general object of the present invention is to provide a fuel cell stack having a simple and economical structure in which it is possible to adjust a gap or a state of the contact between a casing and a stack body.</p>
+<p id="p-0018" num="0017">Further, a main object of the present invention is to provide a fuel cell stack having a light weight and compact structure in which it is possible to desirably maintain the rigidity of the casing, and reliably apply the desired tightening load in the stacking direction of a stack body.</p>
+<p id="p-0019" num="0018">Further, another main object of the present invention is to provide a fuel cell stack having a simple structure, in which a gap between a side plate of a casing and a stack body is adjusted suitably, and a state of the contact between the side plate and the stack body can be determined arbitrarily.</p>
+<p id="p-0020" num="0019">The present invention relates to a fuel cell stack including a box-shaped casing and a stack body. The stack body is formed by stacking a plurality of unit cells. Each of the unit cells includes an electrolyte electrode assembly and separators sandwiching the electrolyte electrode assembly. The electrolyte electrode assembly includes a pair of electrodes, and an electrolyte interposed between the electrodes.</p>
+<p id="p-0021" num="0020">The casing includes end plates provided at opposite ends of the stack body in the stacking direction, a plurality of side plates provided on sides of the stack body, and coupling pins each for coupling the end plate and the side plate. The side plates include a first side plate and a second side plate provided adjacent to each other. The first side plate includes a flange for attaching the first side plate to the second side plate, and the center of the coupling pin for coupling the first side plate to the end plate is offset from a neutral surface of the first side plate.</p>
+<p id="p-0022" num="0021">The neutral surface of the first side plate herein means a surface in which the theoretical stress and distortion are estimated to be &#x201c;0 (zero)&#x201d; (a surface in which no compression occurs) when a bending stress is applied to the first side plate, assuming that the deformation in the cross section of the side plate is very small. The center of the coupling pin is provided on the neutral surface of the first side plate. Stated otherwise, the neutral axis of the first side plate (the intersection line between the neutral surface and the cross section) and the central axis of the coupling pin are on the same plane.</p>
+<p id="p-0023" num="0022">Further, it is preferable that the width of the first side plate is smaller than the width of the second side plate. The load in the longitudinal direction applied to the first side plate on the short side is considerably small in comparison with the load in the longitudinal direction applied to the second side plate on the long side. Therefore, deformation of the first side plate by the offset is small. Thus, with the simple structure, deformation of the first and second side plates by the load in the longitudinal direction is reduced effectively.</p>
+<p id="p-0024" num="0023">Further, according to another aspect of the present invention, the casing includes end plates provided at opposite ends of the stack body in the stacking direction, a plurality of side plates provided on sides of the stack body, and coupling pins each for coupling the end plate and the side plate. At least one of the side plates is a rib-panel, and the center of the coupling pin is provided on the neutral surface of the rib-panel.</p>
+<p id="p-0025" num="0024">The neutral surface of the rib-panel herein means a surface in which the theoretical stress and distortion are estimated to be &#x201c;0 (zero)&#x201d; (a surface in which no compression occurs) when a bending stress is applied to the rib-panel, assuming that the deformation in the cross section of the panel is very small. The center of the coupling pin is provided on the neutral surface of the rib-panel. Stated otherwise, the neutral axis of the rib-panel (the intersection line between the neutral surface and the cross section) and the central axis of the coupling pin are on the same plane.</p>
+<p id="p-0026" num="0025">Further, it is preferable that the position of a rib of the rib-panel is determined such that the center of the plate thickness of the rib-panel is provided on the neutral surface. The rib may be formed integrally with the panel. Alternatively, the rib may be formed separately from the panel, and attached to the panel.</p>
+<p id="p-0027" num="0026">Further, according to still another aspect of the present invention, the casing includes end plates provided at opposite ends of the stack body in the stacking direction, a plurality of side plates provided on sides of the stack body, and coupling pins each for coupling the end plate and the side plate. In at least one of the side plates, the center of the coupling pin is offset from a neutral surface of the side plate such that the side plate has a deformation portion which is deformed along the stacking direction of the stack body.</p>
+<p id="p-0028" num="0027">Further, it is preferable that at least one of the side plates is a rib-panel including a panel and a rib which is formed integrally with or separately from the panel. In the structure, it is possible to improve the rigidity of the side plate itself.</p>
+<p id="p-0029" num="0028">In the present invention, by applying a tightening load to the stack body, when a load is applied to the coupling pin along the stacking direction, the center of the coupling pin is offset from the neutral surface of the first side plate. Therefore, a force in a bending direction is applied to the first side plate.</p>
+<p id="p-0030" num="0029">At this time, if the center of the coupling pin is offset from the neutral surface of the first side plate inwardly, i.e., toward the stack body, the first side plate is deformed (bent) toward the stack body. Thus, for example, it is possible to effectively reduce the positional displacement or vibrations in the stack body due to the impact outside the stack body.</p>
+<p id="p-0031" num="0030">If the center of the coupling pin is offset from the neutral surface of the first side plate outwardly, i.e., in a direction away from the stack body, the first side plate is deformed (bent) in the direction away from the stack body. Therefore, a desired space is formed between the first side plate and the stack body. Thus, it is possible to prevent the first side plate from contacting the stack body unnecessarily. With the simple structure, it is possible to suitably adjust the gap and the state of contact between the first side plate of the casing and the stack body.</p>
+<p id="p-0032" num="0031">Further, the first side plate has the flange for attaching the first side plate to the second side plate. Therefore, no separate coupling member is additionally required. Thus, it is possible to reduce the weight, the number of components, and the cost of the fuel cell stack effectively.</p>
+<p id="p-0033" num="0032">Further, in the present invention, the casing includes at least one rib-panel. The rigidity of the rib-panel is better than the rigidity of the planar panel. Therefore, even if a load is applied to the casing in a direction different from the stacking direction such as a twisting direction, it is possible to effectively maintain the shape of the casing by the rib, and the casing is not affected by vibrations outside the casing or the like. When the stack body is deformed in a direction that intersects the stacking direction, the amount of displacement in the stack body is reduced effectively.</p>
+<p id="p-0034" num="0033">Further, by applying a tightening load to the stack body, when a load is applied to the coupling pin in the stacking direction, since the center of the coupling pin is provided on the neutral surface of the rib-panel, it is possible to prevent the force in a bending direction from being applied to the rib-panel. With the lightweight and compact structure, the rigidity of the casing is maintained suitably. It is possible to inhibit the positional displacement in the stack body, and it is possible to reliably apply the desired tightening load to the stack body in the stacking direction.</p>
+<p id="p-0035" num="0034">The above and other objects, features and advantages of the present invention will become more apparent from the following description when taken in conjunction with the accompanying drawings in which preferred embodiments of the present invention are shown by way of illustrative example.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 1</figref> is a partial exploded perspective view schematically showing a fuel cell stack according to a first embodiment of the present invention;</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 2</figref> is a cross sectional side view showing the fuel cell stack;</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 3</figref> is an exploded perspective view showing a unit cell of the fuel cell stack;</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 4</figref> is a perspective view showing the fuel cell stack;</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 5</figref> is a view showing a casing of the fuel cell stack;</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 6</figref> is a view showing operation of a side plate of the casing;</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 7</figref> is a partial exploded perspective view schematically showing a fuel cell stack according to a second embodiment of the present invention;</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 8</figref> is a cross sectional side view showing the fuel cell stack;</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 9</figref> is a view showing operation of a side plate of a casing of the fuel cell stack;</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 10</figref> is a view showing a casing of a fuel cell stack according to a third embodiment of the present invention;</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 11</figref> is a partial exploded perspective view schematically showing a fuel cell stack according to a fourth embodiment of the present invention;</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 12</figref> is a cross sectional side view showing the fuel cell stack;</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 13</figref> is a perspective view showing the fuel cell stack;</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. 14</figref> is a view showing a side plate of a casing;</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. 15</figref> is a cross sectional side view showing a fuel cell stack according to a fifth embodiment of the present invention;</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 16</figref> is a view showing a side plate of a casing;</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. 17</figref> is a partial exploded perspective view schematically showing a fuel cell stack according to a sixth embodiment of the present invention;</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. 18</figref> is a cross sectional side view showing the fuel cell stack;</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. 19</figref> is a side view showing a side plate of a casing;</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. 20</figref> is a cross sectional view showing a fuel cell stack according to a seventh embodiment of the present invention;</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. 21</figref> is a view showing a side plate of a casing;</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. 22</figref> is an exploded perspective view showing a side plate of a fuel cell stack according to an eighth embodiment of the present invention;</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. 23</figref> is an exploded perspective view showing a side plate of a fuel cell stack according to a ninth embodiment of the present invention;</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. 24</figref> is a partial exploded perspective view showing a fuel cell stack according to a tenth embodiment of the present invention;</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. 25</figref> is a cross sectional side view showing the fuel cell stack;</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. 26</figref> is a perspective view showing the fuel cell stack;</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIG. 27</figref> is cross sectional view showing a side plate of a casing;</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIG. 28</figref> is a perspective view showing a side plate of a fuel cell stack according to an eleventh embodiment of the present invention;</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIG. 29</figref> is a cross sectional view showing the side plate, taken along a line XXIX-XXIX in <figref idref="DRAWINGS">FIG. 28</figref>;</p>
+<p id="p-0065" num="0064"><figref idref="DRAWINGS">FIG. 30</figref> is an exploded perspective view showing a side plate of a fuel cell stack according to a twelfth embodiment of the present invention;</p>
+<p id="p-0066" num="0065"><figref idref="DRAWINGS">FIG. 31</figref> is a cross sectional view showing a state in which members of the side plate are connected, taken along a line XXXI-XXXI in <figref idref="DRAWINGS">FIG. 30</figref>;</p>
+<p id="p-0067" num="0066"><figref idref="DRAWINGS">FIG. 32</figref> is an exploded perspective view showing a side plate of a fuel cell stack according to a thirteenth embodiment of the present invention;</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. 33</figref> is a cross sectional view showing a state in which members of the side plate are connected, taken along a line XXXIII-XXXIII in <figref idref="DRAWINGS">FIG. 32</figref>; and</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIG. 34</figref> is a view showing a fuel cell stack disclosed in Japanese Laid-Open Patent Publication No. 2001-135344.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0070" num="0069"><figref idref="DRAWINGS">FIG. 1</figref> is a partial exploded perspective view schematically showing a fuel cell stack <b>10</b> according to a first embodiment of the present invention. <figref idref="DRAWINGS">FIG. 2</figref> is a cross sectional side view showing part of the fuel cell stack <b>10</b>.</p>
+<p id="p-0071" num="0070">As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the fuel cell stack <b>10</b> includes a stack body <b>14</b> formed by stacking a plurality of unit cells <b>12</b> horizontally in a stacking direction indicated by an arrow A. At one end of the stack body <b>14</b> in the stacking direction indicated by the arrow A, a terminal plates <b>16</b><i>a </i>is provided. An insulating plate <b>18</b> is provided outside the terminal plate <b>16</b><i>a</i>. Further, an end plate <b>20</b><i>a </i>is provided outside the insulating plate <b>18</b>. At the other end of the stack body <b>14</b> in the stacking direction, a terminal plate <b>16</b><i>b </i>is provided. An insulating spacer member <b>22</b> is provided outside the terminal plate <b>16</b><i>b</i>. Further, an end plate <b>20</b><i>b </i>is provided outside the insulating spacer member <b>22</b>. Each of the end plates <b>20</b><i>a</i>, <b>20</b><i>b </i>has a rectangular shape. The fuel cell stack <b>10</b> is assembled together such that the stack body <b>14</b> formed by stacking the unit cells <b>12</b> is housed in a casing <b>24</b> including the end plates <b>20</b><i>a</i>, <b>20</b><i>b. </i></p>
+<p id="p-0072" num="0071">As shown in <figref idref="DRAWINGS">FIGS. 2 and 3</figref>, each of the unit cells <b>12</b> includes a membrane electrode assembly (electrolyte electrode assembly) <b>30</b> and thin corrugated plates as first and second metal separators <b>32</b>, <b>34</b> sandwiching the membrane electrode assembly <b>30</b>. Instead of using the first and second metal separators <b>32</b>, <b>34</b>, for example, carbon separators may be used.</p>
+<p id="p-0073" num="0072">At one end of the unit cell <b>12</b> in a longitudinal direction indicated by an arrow B in <figref idref="DRAWINGS">FIG. 3</figref>, an oxygen-containing gas supply passage <b>36</b><i>a </i>for supplying an oxygen-containing gas, a coolant supply passage <b>38</b><i>a </i>for supplying a coolant, and a fuel gas discharge passage <b>40</b><i>b </i>for discharging a fuel gas such as a hydrogen-containing gas are provided. The oxygen-containing gas supply passage <b>36</b><i>a</i>, the coolant supply passage <b>38</b><i>a</i>, and the fuel gas discharge passage <b>40</b><i>b </i>extend through the unit cell <b>12</b> in the direction indicated by the arrow A.</p>
+<p id="p-0074" num="0073">At the other end of the unit cell <b>12</b> in the longitudinal direction, a fuel gas supply passage <b>40</b><i>a </i>for supplying the fuel gas, a coolant discharge passage <b>38</b><i>b </i>for discharging the coolant, and an oxygen-containing gas discharge passage <b>36</b><i>b </i>for discharging the oxygen-containing gas are provided. The fuel gas supply passage <b>40</b><i>a</i>, the coolant discharge passage <b>38</b><i>b</i>, and the oxygen-containing gas discharge passage <b>36</b><i>b </i>extend through the unit cell <b>12</b> in the direction indicated by the arrow A.</p>
+<p id="p-0075" num="0074">The membrane electrode assembly <b>30</b> includes an anode <b>44</b>, a cathode <b>46</b>, and a solid polymer electrolyte membrane <b>42</b> interposed between the anode <b>44</b> and the cathode <b>46</b>. The solid polymer electrolyte membrane <b>42</b> is formed by impregnating a thin membrane of perfluorosulfonic acid with water, for example.</p>
+<p id="p-0076" num="0075">Each of the anode <b>44</b> and the cathode <b>46</b> has a gas diffusion layer (not shown) such as a carbon paper, and an electrode catalyst layer (not shown) of platinum alloy supported on porous carbon particles. The carbon particles are deposited uniformly on the surface of the gas diffusion layer. The electrode catalyst layer of the anode <b>44</b> and the electrode catalyst layer of the cathode <b>46</b> are fixed to both surfaces of the solid polymer electrolyte membrane <b>42</b>, respectively.</p>
+<p id="p-0077" num="0076">The first metal separator <b>32</b> has a fuel gas flow field <b>48</b> on its surface <b>32</b><i>a </i>facing the membrane electrode assembly <b>30</b>. The fuel gas flow field <b>48</b> is connected to the fuel gas supply passage <b>40</b><i>a </i>at one end, and connected to the fuel gas discharge passage <b>40</b><i>b </i>at the other end. The fuel gas flow field <b>48</b> includes a plurality of grooves extending in the direction indicated by the arrow B, for example. Further, the first metal separator <b>32</b> has a coolant flow field <b>50</b> on the other surface <b>32</b><i>b</i>. The coolant flow field <b>50</b> is connected to the coolant supply passage <b>38</b><i>a </i>at one end, and connected to the coolant discharge passage <b>38</b><i>b </i>at the other end. The coolant flow field <b>50</b> includes a plurality of grooves extending in the direction indicated by the arrow B.</p>
+<p id="p-0078" num="0077">The second metal separator <b>34</b> has an oxygen-containing gas flow field <b>52</b> on its surface <b>34</b><i>a </i>facing the membrane electrode assembly <b>30</b>. The oxygen-containing gas flow field <b>52</b> is connected to the oxygen-containing gas supply passage <b>36</b><i>a </i>at one end, and connected to the oxygen-containing gas discharge passage <b>36</b><i>b </i>at the other end. The oxygen-containing gas flow field <b>52</b> includes a plurality of grooves extending in the direction indicated by the arrow B. The other surface <b>34</b><i>b </i>of the second metal separator <b>34</b> is stacked on the surface <b>32</b><i>b </i>of the adjacent first metal separator <b>32</b>. When the first metal separator <b>32</b> and the second metal separator <b>34</b> are stacked together, the coolant flow field <b>50</b> is formed between the surface <b>32</b><i>b </i>of the first metal separator <b>32</b> and the surface <b>34</b><i>b </i>of the second metal separator <b>34</b>.</p>
+<p id="p-0079" num="0078">A first seal member <b>54</b> is formed integrally on the surfaces <b>32</b><i>a</i>, <b>32</b><i>b </i>of the first metal separator <b>32</b> around the outer end of the first metal separator <b>32</b>. On the surface <b>32</b><i>a</i>, the first seal member <b>54</b> is formed around the fuel gas supply passage <b>40</b><i>a</i>, the fuel gas discharge passage <b>40</b><i>b</i>, and the fuel gas flow field <b>48</b> for preventing leakage of the fuel gas, while allowing the fuel gas to flow between the fuel gas supply passage <b>40</b><i>a </i>and the fuel gas flow field <b>48</b>, and between the fuel gas flow field <b>48</b> and the fuel gas discharge passage <b>40</b><i>b</i>. Further, on the surface <b>32</b><i>b</i>, the first seal member <b>54</b> is formed around the coolant supply passage <b>38</b><i>a</i>, the coolant discharge passage <b>38</b><i>b</i>, and the coolant flow field <b>50</b> for preventing leakage of the coolant, while allowing the coolant to flow between the coolant supply passage <b>38</b><i>a </i>and the coolant flow field <b>50</b>, and between the coolant flow field <b>50</b> and the coolant discharge passage <b>38</b><i>b. </i></p>
+<p id="p-0080" num="0079">A second seal member <b>56</b> is formed integrally on the surfaces <b>34</b><i>a</i>, <b>34</b><i>b </i>of the second metal separator <b>34</b> around the outer end of the second metal separator <b>34</b>. On the surface <b>34</b><i>a</i>, the second seal member <b>56</b> is formed around the oxygen-containing gas supply passage <b>36</b><i>a</i>, the oxygen-containing gas discharge passage <b>36</b><i>b</i>, and the oxygen-containing gas flow field <b>52</b>, and prevents leakage of the oxygen-containing gas, while allowing the oxygen-containing gas to flow between the oxygen-containing gas supply passage <b>36</b><i>a </i>and the oxygen-containing gas flow field <b>52</b>, and between the oxygen-containing gas flow field <b>52</b> and the oxygen-containing gas discharge passage <b>36</b><i>b</i>. Further, on the surface <b>34</b><i>b</i>, the second seal member <b>56</b> is formed around the coolant supply passage <b>38</b><i>a</i>, the coolant discharge passage <b>38</b><i>b</i>, and the coolant flow field <b>50</b>, and prevents leakage of the coolant while allowing the coolant to flow between the coolant supply passage <b>38</b><i>a </i>and the coolant flow field <b>50</b>, and between the coolant flow field <b>50</b> and the coolant discharge passage <b>38</b><i>b. </i></p>
+<p id="p-0081" num="0080">As shown in <figref idref="DRAWINGS">FIG. 2</figref>, a seal <b>57</b> is interposed between the first seal member <b>54</b> and the second seal member <b>56</b>. Therefore, the outer circumferential of the solid polymer electrolyte membrane <b>42</b> does not directly contact the casing <b>24</b>.</p>
+<p id="p-0082" num="0081">As shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, plate-shaped terminals <b>58</b><i>a</i>, <b>58</b><i>b </i>extend straight from the surfaces from the terminal plates <b>16</b><i>a</i>, <b>16</b><i>b</i>, respectively. The terminals <b>58</b><i>a</i>, <b>58</b><i>b </i>are connected to a load such as a motor of a vehicle.</p>
+<p id="p-0083" num="0082">As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the casing <b>24</b> includes the end plates <b>20</b><i>a</i>, <b>20</b><i>b</i>, a plurality of side plates <b>60</b><i>a </i>to <b>60</b><i>d</i>, and coupling pins <b>64</b><i>a</i>, <b>64</b><i>b</i>. The side plates <b>60</b><i>a </i>to <b>60</b><i>d </i>are provided on sides of the stack body <b>14</b>. The coupling pins <b>64</b><i>a</i>, <b>64</b><i>b </i>are used for coupling the end plates <b>20</b><i>a</i>, <b>20</b><i>b </i>and the side plates <b>60</b><i>a </i>to <b>60</b><i>d</i>. The coupling pins <b>64</b><i>b </i>are longer than the coupling pins <b>64</b><i>a</i>. The side plates <b>60</b><i>a </i>to <b>60</b><i>d </i>are thin metal plates.</p>
+<p id="p-0084" num="0083">Each of upper and lower ends of the end plate <b>20</b><i>a </i>has two first coupling portions <b>66</b><i>a</i>. Each of upper and lower ends of the end plate <b>20</b><i>b </i>has two first coupling portions <b>66</b><i>b</i>. Each of left and right ends of the end plate <b>20</b><i>a </i>has one first coupling portion <b>66</b><i>c</i>. Each of left and right ends of the end plate <b>20</b><i>b </i>has one first coupling portion <b>66</b><i>d</i>. The first coupling portions <b>66</b><i>a </i>to <b>66</b><i>d </i>have through holes <b>67</b><i>a </i>to <b>67</b><i>d</i>, respectively. The end plate <b>20</b><i>a </i>has mounting bosses <b>68</b><i>a </i>on its left and right ends at lower positions. The end plate <b>20</b><i>b </i>has mounting bosses <b>68</b><i>b </i>on its left and right ends at lower positions. The bosses <b>68</b><i>a</i>, <b>68</b><i>b </i>are fixed to mounting positions (not shown) using bolts or the like for installing the fuel cell stack <b>10</b> in a vehicle, for example.</p>
+<p id="p-0085" num="0084">The side plates (first side plates) <b>60</b><i>a</i>, <b>60</b><i>c </i>are provided on opposite sides of the stack body <b>14</b> in the direction indicated by the arrow B. Each end of the side plate <b>60</b><i>a </i>in the longitudinal direction indicated by the arrow A has two second coupling portions <b>70</b><i>a</i>. Each end of the side plate <b>60</b><i>c </i>in the longitudinal direction indicated by the arrow A has two second coupling portions <b>70</b><i>b</i>. The second coupling portions <b>70</b><i>a</i>, <b>70</b><i>b </i>have through holes <b>71</b><i>a</i>, <b>71</b><i>b</i>, respectively. Each end of the side plate <b>60</b><i>a </i>in the lateral direction indicated by the arrow C has a flange <b>62</b><i>a</i>. Each end of the side plate <b>60</b><i>b </i>in the lateral direction indicated by the arrow C has a flange <b>62</b><i>b</i>. The flanges <b>62</b><i>a</i>, <b>62</b><i>b </i>are bent inwardly (toward the stack body <b>14</b>) at an angle of substantially 90&#xb0;. Each of the flanges <b>62</b><i>a </i>has a plurality of screw holes <b>63</b><i>a</i>, and each of the flanges <b>62</b><i>b </i>has a plurality of screw holes <b>63</b><i>b. </i></p>
+<p id="p-0086" num="0085">The side plate <b>60</b><i>b </i>is provided on the upper side of the stack body <b>14</b>, and the side plate <b>60</b><i>d </i>is provided on the lower side of the stack body <b>14</b>. The width of the side plates (second side plates) <b>60</b><i>b</i>, <b>60</b><i>d </i>is larger than the width of the side plates <b>60</b><i>a</i>, <b>60</b><i>c</i>. The side plates <b>60</b><i>b</i>, <b>60</b><i>d </i>form long sides of the casing <b>24</b>, and the side plates <b>60</b><i>a</i>, <b>60</b><i>c </i>form short sides of the casing <b>24</b>. Each longitudinal end of the side plate <b>60</b><i>b </i>has three second coupling portions <b>72</b><i>a</i>. Each longitudinal end of the side plate <b>60</b><i>d </i>has three second coupling portions <b>72</b><i>b</i>. The coupling portions <b>72</b><i>a</i>, <b>72</b><i>b </i>have holes <b>73</b><i>a</i>, <b>73</b><i>b</i>, respectively. Each end of the side plate <b>60</b><i>b </i>in the lateral direction indicated by the arrow B has holes <b>74</b><i>a</i>. Each end of the side plate <b>60</b><i>d </i>in the lateral direction indicated by the arrow B has holes <b>74</b><i>b</i>. Screws <b>76</b> are inserted into the holes <b>74</b><i>a</i>, <b>74</b><i>b</i>, and fitted to the screw holes <b>63</b><i>a</i>, <b>63</b><i>b </i>for fixing the side plates <b>60</b><i>a </i>to <b>60</b><i>d </i>together.</p>
+<p id="p-0087" num="0086">In assembling the end plates <b>20</b><i>a</i>, <b>20</b><i>b </i>and the side plates <b>60</b><i>a </i>to <b>60</b><i>d</i>, the first coupling portions <b>66</b><i>c </i>of the end plate <b>20</b><i>a</i>, and the first coupling portions <b>66</b><i>d </i>of the end plate <b>20</b><i>b </i>are positioned between the second coupling portions <b>70</b><i>a </i>of the side plate <b>60</b><i>a</i>, and between the second coupling portions <b>70</b><i>b </i>of the side plate <b>60</b><i>c</i>. The short coupling pins <b>64</b><i>a </i>are inserted into these coupling portions <b>66</b><i>c</i>, <b>66</b><i>d</i>, <b>70</b><i>a</i>, <b>70</b><i>b </i>for coupling the side plates <b>60</b><i>a</i>, <b>60</b><i>c</i>, and the end plates <b>20</b><i>a</i>, <b>20</b><i>b. </i></p>
+<p id="p-0088" num="0087">Likewise, the second coupling portions <b>72</b><i>a </i>of the side plate <b>60</b><i>b </i>and the first coupling portions <b>66</b><i>a</i>, <b>66</b><i>b </i>of the upper end of the end plates <b>20</b><i>a</i>, <b>20</b><i>b </i>are positioned alternately, and the second coupling portions <b>72</b><i>b </i>of the side plate <b>60</b><i>d </i>and the first coupling portions <b>66</b><i>a</i>, <b>66</b><i>b </i>of the lower end of the end plates <b>20</b><i>a</i>, <b>20</b><i>b </i>are positioned alternately. The long coupling pins <b>64</b><i>b </i>are inserted into these coupling portions <b>66</b><i>a</i>, <b>66</b><i>b</i>, <b>72</b><i>a</i>, <b>72</b><i>b </i>for coupling the side plates <b>60</b><i>b</i>, <b>60</b><i>d </i>and the end plates <b>20</b><i>a</i>, <b>20</b><i>b</i>. In this manner, the casing <b>24</b> is assembled (see <figref idref="DRAWINGS">FIG. 4</figref>).</p>
+<p id="p-0089" num="0088">As shown in <figref idref="DRAWINGS">FIGS. 5 and 6</figref>, in the side plate <b>60</b><i>a</i>, the center O of the coupling pin <b>64</b><i>a </i>is offset outwardly from the neutral surface NS of the side plate <b>60</b><i>a </i>in a direction away from the stack body <b>14</b> by the distance &#x201c;h&#x201d;. A load in the direction indicated by the arrow A is applied to the pair of coupling pins <b>64</b><i>a</i>provided at opposite ends of the side plate <b>60</b><i>a </i>in the longitudinal direction. Therefore, as shown in <figref idref="DRAWINGS">FIG. 6</figref>, a load for deforming the side plate <b>60</b><i>a </i>in a direction away from the stack body <b>14</b> is applied to the side plate <b>60</b><i>a </i>along the stacking direction indicated by the arrow A. The load applied to the side plate <b>60</b><i>a </i>on the short side is considerably smaller than the load applied to the side plates <b>60</b><i>b</i>, <b>60</b><i>d </i>on the long sides.</p>
+<p id="p-0090" num="0089">As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the structure of the side plate <b>60</b><i>c </i>is the same as the structure of the side plate <b>60</b><i>a</i>, and detailed description thereof is omitted.</p>
+<p id="p-0091" num="0090">As shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, the spacer member <b>22</b> has a rectangular shape having predetermined dimensions such that the spacer member <b>22</b> is positioned inside the casing <b>24</b>. The thickness of the spacer member <b>22</b> is selected such that the dimensional variation in the stacking direction of the stack body <b>14</b> is absorbed, and the desired tightening force is applied to the stack body <b>14</b>. If it is possible to absorb variation of the length in the stacking direction of the stack body <b>14</b> by elasticity of the first and second metal separators <b>32</b>, <b>34</b>, the spacer members <b>22</b> may not be used.</p>
+<p id="p-0092" num="0091">Next, operation of the fuel cell stack <b>10</b> will be described.</p>
+<p id="p-0093" num="0092">In the fuel cell stack <b>10</b>, as shown in <figref idref="DRAWINGS">FIG. 4</figref>, an oxygen-containing gas is supplied to the oxygen-containing gas supply passage <b>36</b><i>a </i>from the end plate <b>20</b><i>a </i>of the fuel cell stack <b>10</b>. A fuel gas such as a hydrogen-containing gas is supplied to the fuel gas supply passage <b>40</b><i>a</i>. Further, a coolant such as pure water, an ethylene glycol is supplied to the coolant supply passage <b>38</b><i>a</i>. Thus, the oxygen-containing gas, the fuel gas, and the coolant are supplied to each of the unit cells <b>12</b> stacked together in the direction indicated by the arrow A to form the stack body <b>14</b>. The oxygen-containing gas, the fuel gas, and the coolant flow in the direction indicated by the arrow A.</p>
+<p id="p-0094" num="0093">As shown in <figref idref="DRAWINGS">FIG. 3</figref>, the oxygen-containing gas flows from the oxygen-containing gas supply passage <b>36</b><i>a </i>into the oxygen-containing gas flow field <b>52</b> of the second metal separator <b>34</b>. The oxygen-containing gas flows along the cathode <b>46</b> of the membrane electrode assembly <b>30</b> for inducing an electrochemical reaction at the cathode <b>46</b>. The fuel gas flows from the fuel gas supply passage <b>40</b><i>a </i>into the fuel gas flow field <b>48</b> of the first metal separator <b>32</b>. The fuel gas flows along the anode <b>44</b> of the membrane electrode assembly <b>30</b> for inducing an electrochemical reaction at the anode <b>44</b>.</p>
+<p id="p-0095" num="0094">Thus, in each of the membrane electrode assemblies <b>30</b>, the oxygen-containing gas supplied to the cathode <b>46</b>, and the fuel gas supplied to the anode <b>44</b> are consumed in the electrochemical reactions at catalyst layers of the cathode <b>46</b> and the anode <b>44</b> for generating electricity.</p>
+<p id="p-0096" num="0095">After the oxygen in the oxygen-containing gas is consumed at the cathode <b>46</b>, the oxygen-containing gas flows into the oxygen-containing gas discharge passage <b>36</b><i>b</i>, and is discharged to the outside from the end plate <b>20</b><i>a</i>. Likewise, after the fuel gas is consumed at the anode <b>44</b>, the fuel gas flows into the fuel gas discharge passage <b>40</b><i>b</i>, and is discharged to the outside from the end plate <b>20</b><i>a. </i></p>
+<p id="p-0097" num="0096">The coolant flows from the coolant supply passage <b>38</b><i>a </i>into the coolant flow field <b>50</b> between the first and second metal separators <b>32</b>, <b>34</b>, and flows in the direction indicated by the arrow B. After the coolant is used for cooling the membrane electrode assembly <b>30</b>, the coolant flows into the coolant discharge passage <b>38</b><i>b</i>, and is discharged to the outside from the end plate <b>20</b><i>a. </i></p>
+<p id="p-0098" num="0097">In the first embodiment, as shown in <figref idref="DRAWINGS">FIGS. 5 and 6</figref>, in the side plate <b>60</b><i>a </i>or <b>60</b><i>c </i>having the small width, the center O of the coupling pin <b>64</b><i>a </i>is offset from the neutral surface NS of the side plate <b>60</b><i>a </i>or <b>60</b><i>c </i>in the direction away from the stack body <b>14</b> by the distance &#x201c;h&#x201d;. Therefore, when a tightening load is applied to the fuel cell stack <b>10</b> in the stacking direction, a large load in the direction indicated by the arrow A is applied to each of the side plates <b>60</b><i>b</i>, <b>60</b><i>d </i>having the large width, through the pair of coupling pins <b>64</b><i>b</i>. The load applied to the side plates <b>60</b><i>a</i>, <b>60</b><i>c </i>in the direction indicated by the arrow A through the pair of coupling pins <b>64</b><i>a </i>is considerably small in comparison with the load applied to the side plates <b>60</b><i>b</i>, <b>60</b><i>d. </i></p>
+<p id="p-0099" num="0098">Thus, in the side plate <b>60</b><i>a </i>or <b>60</b><i>c</i>, even if the center O of the coupling pin <b>64</b><i>a </i>is offset from the neutral surface NS of the side plate <b>60</b><i>a </i>or <b>60</b><i>c </i>by the distance &#x201c;h&#x201d;, the side plate <b>60</b><i>a </i>or <b>60</b><i>c </i>is deformed only slightly in the direction away from the stack body <b>14</b> (see <figref idref="DRAWINGS">FIG. 6</figref>). Therefore, for example, it is possible to reliably and easily fabricate the desired casing <b>24</b> without limiting the positions of the coupling pins <b>64</b><i>a. </i></p>
+<p id="p-0100" num="0099"><figref idref="DRAWINGS">FIG. 7</figref> is a partial exploded perspective view schematically showing a fuel cell stack <b>80</b> according to a second embodiment of the present invention. <figref idref="DRAWINGS">FIG. 8</figref> is a cross sectional side view showing part of the fuel cell stack <b>80</b>.</p>
+<p id="p-0101" num="0100">A casing <b>82</b> of the fuel cell stack <b>80</b> includes end plates <b>20</b><i>a</i>, <b>20</b><i>b</i>, and side plates <b>84</b><i>a </i>to <b>84</b><i>d </i>connected by coupling pins <b>64</b><i>a</i>, <b>64</b><i>b</i>. The side plates <b>84</b><i>b</i>, <b>84</b><i>d </i>are provided on upper and lower sides of the stack body <b>14</b>. The side plates <b>84</b><i>a</i>, <b>84</b><i>c </i>are provided at opposite sides of the stack body <b>14</b> in the direction indicated by the arrow B. The width of the side plates <b>84</b><i>b</i>, <b>84</b><i>d </i>is larger than the width of the side plates <b>84</b><i>a</i>, <b>84</b><i>c</i>. At opposite marginal ends of the side plates <b>84</b><i>b</i>, <b>84</b><i>d </i>in the lateral direction indicated by the arrow B, attachment flanges <b>86</b><i>a</i>, <b>86</b><i>b </i>are provided.</p>
+<p id="p-0102" num="0101">Each of the flanges <b>86</b><i>a</i>, <b>86</b><i>b </i>has a plurality of screw holes <b>88</b><i>a</i>, <b>88</b><i>b</i>. At marginal ends of the side plates <b>84</b><i>a</i>, <b>84</b><i>c </i>in the lateral direction indicated by the arrow C, a plurality of holes <b>90</b> are formed. The screws <b>92</b> are inserted into the holes <b>90</b>, and fitted to the screw holes <b>88</b><i>a</i>, <b>88</b><i>b</i>. Thus, the side plates <b>84</b><i>a </i>to <b>84</b><i>d </i>are fixed together.</p>
+<p id="p-0103" num="0102">As shown in <figref idref="DRAWINGS">FIG. 8</figref>, in each of the side plates <b>84</b><i>b</i>, <b>84</b><i>d</i>, the center O of the coupling pin <b>64</b><i>b </i>is offset from the neutral surface NS of the side plate <b>84</b><i>b </i>or <b>84</b><i>d </i>in a direction away from the stack body <b>14</b> by the distance &#x201c;h<b>1</b>&#x201d;.</p>
+<p id="p-0104" num="0103">In the second embodiment, when a stacking load is applied to the stack body <b>14</b>, as shown in <figref idref="DRAWINGS">FIG. 9</figref>, the side plates <b>84</b><i>b</i>, <b>84</b><i>d </i>are pulled through the pair of coupling pins <b>64</b><i>b </i>in the direction indicated by the arrow A. In the structure, the center O of the coupling pin <b>64</b><i>b </i>is offset from the neutral surface NS of the side plate <b>84</b><i>b </i>or <b>84</b><i>d </i>in a direction away from the stack body <b>14</b>. Therefore, the side plates <b>84</b><i>b</i>, <b>84</b><i>d </i>are deformed in the direction away from the stack body <b>14</b>.</p>
+<p id="p-0105" num="0104">In particular, since the width of the side plates <b>84</b><i>b</i>, <b>84</b><i>d </i>is larger than the width of the side plates <b>84</b><i>a</i>, <b>84</b><i>c</i>, the load applied to the side plates <b>84</b><i>b</i>, <b>84</b><i>d </i>in the stacking direction is larger than the load applied to the side plates <b>84</b><i>a</i>, <b>84</b><i>c </i>in the stacking direction. The side plates <b>84</b><i>b</i>, <b>84</b><i>d </i>are reliably spaced from the sides of the stack body <b>14</b>. Thus, the side plates <b>84</b><i>b</i>, <b>84</b><i>d </i>do not contact the stack body <b>14</b> unnecessarily.</p>
+<p id="p-0106" num="0105">Further, by selecting the position of the center O of the coupling pin <b>64</b><i>b </i>for adjusting the distance &#x201c;h<b>1</b>&#x201d;, it is possible to adjust the deformation amount of the side plates <b>84</b><i>b</i>, <b>84</b><i>d </i>easily. If the center O of the coupling pin <b>64</b><i>b </i>is offset from the neutral surface NS of the side plates <b>84</b><i>b</i>, <b>84</b><i>d </i>toward the stack body <b>14</b>, the side plates <b>84</b><i>b</i>, <b>84</b><i>d </i>are deformed toward the stack body <b>14</b> by the load in the stacking direction. In this case, the side plates <b>84</b><i>b</i>, <b>84</b><i>d </i>contact the stack body <b>14</b> to support the stack body <b>14</b>.</p>
+<p id="p-0107" num="0106"><figref idref="DRAWINGS">FIG. 10</figref> is a view showing a casing <b>102</b> of a fuel cell stack <b>100</b> according to a third embodiment of the present invention.</p>
+<p id="p-0108" num="0107">The casing <b>102</b> includes side plates <b>104</b><i>a </i>to <b>104</b><i>d</i>. The side plates <b>104</b><i>a </i>to <b>104</b><i>d </i>have substantially L-shaped cross section. Attachment flanges <b>106</b><i>a</i>, <b>106</b><i>b </i>are provided at diagonal positions, i.e., at one end of the side plate <b>104</b><i>a </i>in the lateral direction indicated by the arrow C, and at one end of the side plate <b>104</b><i>c </i>in the lateral direction indicated by the arrow C. Likewise, attachment flanges <b>108</b><i>a</i>, <b>108</b><i>b </i>are provided at diagonal positions, i.e., at one end of the side plate <b>104</b><i>b </i>in the lateral direction indicated by the arrow B, and at one end of the side plate <b>104</b><i>d </i>in the lateral direction indicated by the arrow B.</p>
+<p id="p-0109" num="0108">The other end of the side plate <b>104</b><i>a </i>and the flange <b>108</b><i>a</i>, the other end of the side plate <b>104</b><i>b </i>and the flange <b>106</b><i>b</i>, the other end of the side plate <b>104</b><i>c </i>and the flange <b>108</b><i>b</i>, and the other end of the side plate <b>104</b><i>d </i>and the flange <b>106</b><i>a </i>are fixed by a plurality of screws <b>110</b>. Thus, the side plates <b>104</b><i>a </i>to <b>104</b><i>d </i>are fixed with each other.</p>
+<p id="p-0110" num="0109">The center O<b>1</b> of the coupling pin <b>64</b><i>a </i>is offset from the neutral surface NS<b>1</b> of the side plate <b>104</b><i>a </i>or <b>104</b><i>c </i>in a direction away from the stack body <b>14</b> by the distance &#x201c;h<b>2</b>&#x201d;. The center O<b>2</b> of the coupling pin <b>64</b><i>b </i>is offset from the neutral surface NS<b>2</b> of the side plate <b>104</b><i>b </i>or <b>104</b><i>d </i>in a direction away from the stack body <b>14</b> by the distance &#x201c;h<b>3</b>&#x201d;.</p>
+<p id="p-0111" num="0110">In the third embodiment, in each of the narrow side plates <b>104</b><i>a</i>, <b>104</b><i>c</i>, the center O<b>1</b> of the coupling pin <b>64</b><i>a </i>is offset from the neutral surface NS<b>1</b> by the distance &#x201c;h<b>2</b>&#x201d;. In the structure, only a considerably small load is applied to the side plates <b>104</b><i>a</i>, <b>104</b><i>c </i>in the stacking direction. Therefore, the side plates <b>104</b><i>a</i>, <b>104</b><i>c </i>are hardly deformed.</p>
+<p id="p-0112" num="0111">In contrast, in each of the wide side plates <b>104</b><i>b</i>, <b>104</b><i>d</i>, the center O<b>2</b> of the coupling pin <b>64</b><i>b </i>is offset from the neutral surface NS<b>2</b> in a direction away from the stack body <b>14</b>. Thus, the side plates <b>104</b><i>b</i>, <b>104</b><i>d </i>are deformed in the direction away from the stack body <b>14</b>.</p>
+<p id="p-0113" num="0112">In each of the side plates <b>104</b><i>b </i>and <b>104</b><i>d</i>, the center O<b>2</b> of the coupling pin <b>64</b><i>b </i>may be offset from the neutral surface NS<b>2</b> of the side plate <b>104</b><i>b </i>or <b>104</b><i>d </i>toward the stack body <b>14</b>. In this case, the side plates <b>104</b><i>b</i>, <b>104</b><i>d </i>are deformed toward the stack body <b>14</b>. Thus, in the third embodiment, the same advantages as with the first and second embodiments can be obtained.</p>
+<p id="p-0114" num="0113"><figref idref="DRAWINGS">FIG. 11</figref> is a partial exploded perspective view schematically showing a fuel cell stack <b>120</b> according to a fourth embodiment of the present invention. <figref idref="DRAWINGS">FIG. 12</figref> is a cross sectional side view showing part of the fuel cell stack <b>120</b>. The constituent elements that are identical to those of the fuel cell stack <b>10</b> according to the first embodiment are labeled with the same reference numeral, and description thereof will be omitted. In the fifth to thirteenth embodiments as described later, the constituent elements that are identical to those of the fuel cell stack <b>10</b> according to the first embodiment are labeled with the same reference numeral, and description thereof will be omitted.</p>
+<p id="p-0115" num="0114">A casing <b>122</b> of the fuel cell stack <b>120</b> includes a plurality of side plates <b>124</b><i>a </i>to <b>124</b><i>d </i>provided on sides of the stack body <b>14</b>, and angle members (e.g., L angles) <b>126</b><i>a </i>to <b>126</b><i>d </i>used for coupling ends of the adjacent side plates <b>124</b><i>a </i>to <b>124</b><i>d</i>. The side plates <b>124</b><i>a </i>to <b>124</b><i>d </i>are thin metal plates.</p>
+<p id="p-0116" num="0115">At each opposite marginal ends of the side plates <b>124</b><i>a </i>to <b>124</b><i>d </i>in the lateral direction, a plurality of screw holes <b>74</b> are formed. On each side of the angle members <b>126</b><i>a </i>to <b>126</b><i>d</i>, holes <b>63</b> corresponding to the screw holes <b>74</b> are formed. Screws <b>76</b> are inserted into the holes <b>63</b> and fitted to the screw holes <b>74</b> for fixing the side plates <b>124</b><i>a </i>to <b>124</b><i>d </i>together through the angle members <b>126</b><i>a </i>to <b>126</b><i>d</i>. Thus, the casing <b>122</b> is formed (see <figref idref="DRAWINGS">FIGS. 12 and 13</figref>).</p>
+<p id="p-0117" num="0116">Alternatively, angle members <b>126</b><i>a </i>to <b>126</b><i>d </i>have screw holes, and the side plates <b>124</b><i>a </i>to <b>124</b><i>d </i>have holes. In this case, the angle members <b>126</b><i>a </i>to <b>126</b><i>d </i>are placed inside the side plates <b>124</b><i>a </i>to <b>124</b><i>d </i>for fixing the angle members <b>126</b><i>a </i>to <b>126</b><i>d </i>and the side plates <b>124</b><i>a </i>to <b>124</b><i>d </i>together.</p>
+<p id="p-0118" num="0117">As shown in <figref idref="DRAWINGS">FIGS. 12 and 14</figref>, at least in the side plate <b>124</b><i>b</i>, the center PC of the plate thickness matches the neutral surface NS of the side plate <b>124</b><i>b</i>, and the center O of the coupling pin <b>64</b><i>b </i>is offset from the neutral surface NS of the side plate <b>124</b><i>b </i>inwardly toward the stack body <b>14</b> by the distance &#x201c;h&#x201d;. A load in the direction indicated by the arrow A is applied to the pair of coupling pins <b>64</b><i>b</i>. Thus, the side plate <b>124</b><i>b </i>includes a deformation portion <b>128</b> along the length of the side plate <b>124</b><i>b </i>in the stacking direction. The deformation portion <b>128</b> of the side plate <b>124</b><i>b </i>is deformed toward the stack body <b>14</b> (see <figref idref="DRAWINGS">FIG. 14</figref>).</p>
+<p id="p-0119" num="0118">As shown in <figref idref="DRAWINGS">FIG. 12</figref>, the structure of the side plate <b>124</b><i>d </i>is the same as the structure of the side plate <b>124</b><i>b</i>, and detailed description thereof is omitted. Further, as necessary, the structures of the side plates <b>124</b><i>a</i>, <b>124</b><i>c </i>may be the same as the structure of the side plate <b>124</b><i>b. </i></p>
+<p id="p-0120" num="0119">In the fourth embodiment, as shown in <figref idref="DRAWINGS">FIGS. 12 and 14</figref>, for example, in the side plate <b>124</b><i>b</i>, the center O of the coupling pin <b>64</b><i>b </i>is offset from the neutral surface NS of the side plate <b>124</b><i>b </i>toward the stack body <b>14</b> by the distance &#x201c;h&#x201d;. Therefore, when a tightening load is applied to the fuel cell stack <b>120</b> in the stacking direction, a load in the stacking direction is applied to the side plate <b>124</b><i>b </i>through the pair of coupling pins <b>64</b><i>b</i>. The side plate <b>124</b><i>b </i>is deformed toward the stack body <b>14</b> (see <figref idref="DRAWINGS">FIG. 14</figref>).</p>
+<p id="p-0121" num="0120">Thus, the side plate <b>124</b><i>b </i>contacts the stack body <b>14</b> at the deformation portion <b>128</b> which is deformed toward the stack body <b>14</b> to support the stack body <b>14</b>. Therefore, in the stack body <b>14</b>, the positional displacement in the stacking direction or vibrations in the directions indicated by the arrows B and C are reduced effectively. With the simple structure, the desired sealing performance of the stack body <b>14</b> is achieved, and the stable power generation is performed.</p>
+<p id="p-0122" num="0121"><figref idref="DRAWINGS">FIG. 15</figref> is a cross sectional view showing a fuel cell stack <b>130</b> according to a fifth embodiment of the present invention.</p>
+<p id="p-0123" num="0122">A casing <b>132</b> of the fuel cell stack <b>130</b> includes upper and lower side plates <b>134</b><i>a</i>, <b>134</b><i>b</i>. As shown in <figref idref="DRAWINGS">FIGS. 15 and 16</figref>, in the side plate <b>134</b><i>a</i>, the center O of the coupling pin <b>64</b><i>b </i>is offset from the neutral surface NS (center PC of the plate thickness) of the side plate <b>134</b><i>a </i>outwardly in the direction away from the stack body <b>14</b> by the distance &#x201c;h<b>1</b>&#x201d;. The structure of the side plate <b>134</b><i>b </i>is the same as the structure of the side plate <b>134</b><i>a</i>, and detailed description thereof is omitted. Though not shown, at opposite ends of the stack body <b>14</b>, side plates corresponding to the side plates <b>124</b><i>a</i>, <b>124</b><i>c </i>are provided, and the structures of these side plates is the same as the structure of the side plate <b>134</b><i>a </i>as necessary.</p>
+<p id="p-0124" num="0123">In the fifth embodiment, as shown in <figref idref="DRAWINGS">FIG. 16</figref>, when a tightening load is applied to the stack body <b>14</b>, the side plate <b>134</b><i>a </i>is pulled in the direction indicated by the arrow A. In this case, the center O of the coupling pin <b>64</b><i>b </i>is offset from the neutral surface NS of the side plate <b>134</b><i>a</i>in the direction away from the stack body <b>14</b> by the distance &#x201c;h<b>1</b>&#x201d;. Therefore, the side plate <b>134</b><i>a </i>includes a deformation portion <b>136</b> which is deformed in the direction away from the stack body <b>14</b>.</p>
+<p id="p-0125" num="0124">Since the side plate <b>134</b><i>a </i>is spaced away from the side of the stack body <b>14</b>, a desired gap is formed between the side plate <b>134</b><i>a </i>and the side of the stack body <b>14</b>. Thus, in the fifth embodiment, the side plate <b>134</b><i>a </i>does not contact the stack body <b>14</b> unnecessarily.</p>
+<p id="p-0126" num="0125">By selectively combining the fourth embodiment and the fifth embodiment, with the simple structure, it is possible to adjust the size of the space between the stack body <b>14</b> and the casing <b>122</b> or the casing <b>132</b>. Likewise, in the sixth to ninth embodiments as described later, it is possible to selectively combine the fourth to ninth embodiments.</p>
+<p id="p-0127" num="0126"><figref idref="DRAWINGS">FIG. 17</figref> is a partial exploded perspective view schematically showing a fuel cell stack <b>140</b> according to a sixth embodiment of the present invention. <figref idref="DRAWINGS">FIG. 18</figref> is a cross sectional side view showing the fuel cell stack <b>140</b>.</p>
+<p id="p-0128" num="0127">A casing <b>142</b> of the fuel cell stack <b>140</b> includes side plates <b>144</b><i>a </i>to <b>144</b><i>d </i>provided on sides of the stack body <b>14</b>. Two ribs <b>146</b> extending in the stacking direction of the stack body <b>14</b> are formed integrally with at least the side plate <b>144</b><i>b </i>to form a rib-panel. The ribs <b>146</b> protrude in a direction away from the stack body <b>14</b>. The ribs <b>146</b> improve the rigidity of the side plate <b>144</b><i>b </i>itself.</p>
+<p id="p-0129" num="0128">As shown in <figref idref="DRAWINGS">FIG. 18</figref>, the center O of the coupling pin <b>64</b><i>b </i>matches the center PC of the plate thickness of the side plat <b>144</b><i>b</i>, and the center O of the coupling pin <b>64</b><i>b </i>is offset from the neutral surface NS of the side plate <b>144</b><i>b </i>toward the stack body <b>14</b> by the distance &#x201c;h<b>2</b>&#x201d;. The structure of the side plate <b>144</b><i>d </i>is the same as the structure of the side plate <b>144</b><i>b</i>, and detailed description thereof is omitted. Each of the side plates <b>144</b><i>a</i>, <b>144</b><i>c </i>may have a single rib <b>146</b> as necessary.</p>
+<p id="p-0130" num="0129">In the sixth embodiment, the two ribs <b>146</b> are formed integrally with the side plate <b>144</b><i>b </i>to form the rib-panel. Therefore, the rigidity is improved in comparison with the planar panel. Further, the center O of the coupling pin <b>64</b><i>b </i>is offset from the neutral surface NS of the side plate <b>144</b><i>b </i>toward the stack body <b>14</b> by the distance &#x201c;h<b>2</b>&#x201d;. Therefore, when a load in the stacking direction is applied between the coupling pins <b>64</b><i>b</i>, the side plate <b>144</b><i>b </i>is deformed toward the stack body <b>14</b> (see <figref idref="DRAWINGS">FIG. 19</figref>). Thus, in the sixth embodiment, the same advantages as with the fourth embodiment can be obtained.</p>
+<p id="p-0131" num="0130"><figref idref="DRAWINGS">FIG. 20</figref> is a cross sectional view showing a fuel cell stack <b>150</b> according to a seventh embodiment of the present invention.</p>
+<p id="p-0132" num="0131">A casing <b>152</b> of the fuel cell stack <b>150</b> includes side plates <b>154</b><i>a</i>, <b>154</b><i>b </i>provided on upper and lower sides of the stack body <b>14</b>. A plurality of, e.g., two ribs <b>156</b> extending in the direction indicated by the arrow A are formed integrally with at least the side plate <b>154</b><i>a </i>to form a rib-panel.</p>
+<p id="p-0133" num="0132">The ribs <b>156</b> protrude toward the stack body <b>14</b>. The center O of the coupling pin <b>64</b><i>b </i>matches the center PC of the plate thickness of the side plat <b>154</b><i>a</i>, and the center O of the coupling pin <b>64</b><i>b </i>is offset from the neutral surface NS of the side plate <b>154</b><i>a </i>in the direction away from the stack body <b>14</b> by the distance &#x201c;h<b>3</b>&#x201d;. The structure of the side plate <b>154</b><i>b </i>is the same as the structure of the side plate <b>154</b><i>a. </i></p>
+<p id="p-0134" num="0133">In the seventh embodiment, as shown in <figref idref="DRAWINGS">FIG. 21</figref>, when a load in the direction indicated by the arrow A is applied to the pair of coupling pins <b>64</b><i>b</i>, the side plate <b>154</b><i>a </i>is deformed in a direction away from the stack body <b>14</b>. Thus, the side plate <b>154</b><i>a </i>is spaced away from the stack body <b>14</b>. Accordingly, the same advantages as with the fifth embodiment can be obtained.</p>
+<p id="p-0135" num="0134">In the sixth and seventh embodiments, the ribs <b>146</b>, <b>156</b> are formed integrally with the side plates <b>144</b><i>b</i>, <b>154</b><i>a</i>. Alternatively, instead of the side plates <b>144</b><i>b</i>, <b>154</b><i>a</i>, it is possible to use a side plate <b>160</b> according to an eighth embodiment as shown in <figref idref="DRAWINGS">FIG. 22</figref> and a side plate <b>170</b> according to a ninth embodiment as shown in <figref idref="DRAWINGS">FIG. 23</figref>.</p>
+<p id="p-0136" num="0135">As shown in <figref idref="DRAWINGS">FIG. 22</figref>, in the eighth embodiment, the side plate <b>160</b> includes a substantially planar panel <b>162</b>. Two rib members <b>164</b> are jointed to an outer surface <b>162</b><i>a </i>of the panel <b>162</b>. That is, the side plate <b>160</b> includes the panel <b>162</b> and the rib members <b>164</b> jointed to the panel <b>162</b>. Thus, the structure of the side plate <b>160</b> is substantially the same as the structure of the side plate <b>144</b><i>b </i>used in the sixth embodiment.</p>
+<p id="p-0137" num="0136">As shown in <figref idref="DRAWINGS">FIG. 23</figref>, in the ninth embodiment, the side plate <b>170</b> includes a substantially planar panel <b>172</b>. Two rib members <b>174</b> are jointed to an inner surface of the panel <b>172</b>. Thus, the structure of the side plate <b>170</b> is substantially the same as the structure of the side plate <b>154</b><i>a </i>used in the seventh embodiment.</p>
+<p id="p-0138" num="0137"><figref idref="DRAWINGS">FIG. 24</figref> is a partial exploded perspective view schematically showing a fuel cell stack <b>180</b> according to a tenth embodiment of the present invention. <figref idref="DRAWINGS">FIG. 25</figref> is a cross sectional side view showing part of the fuel cell stack <b>180</b>.</p>
+<p id="p-0139" num="0138">As shown in <figref idref="DRAWINGS">FIGS. 24 to 26</figref>, a casing <b>182</b> of the fuel cell stack <b>180</b> includes a plurality of side plates <b>184</b><i>a </i>to <b>184</b><i>d </i>provided on sides of the stack body <b>14</b>.</p>
+<p id="p-0140" num="0139">As shown <figref idref="DRAWINGS">FIGS. 24 and 27</figref>, a plurality of ribs <b>186</b><i>a</i>, <b>186</b><i>b </i>extending in the stacking direction of the stack body <b>14</b> indicated by the arrow A are formed integrally with at least the side plate <b>184</b><i>d </i>to form a rib-panel. The ribs <b>186</b><i>a</i>, <b>186</b><i>b </i>have the same shape. The ribs <b>186</b><i>a </i>protrude inwardly toward the stack body <b>14</b>, and the ribs <b>186</b><i>b </i>protrude outwardly in a direction away from the stack body <b>14</b>.</p>
+<p id="p-0141" num="0140">The number of the ribs <b>186</b><i>a </i>and the number of the ribs <b>186</b><i>b </i>are the same. For example, two ribs <b>186</b><i>a </i>and two ribs <b>186</b><i>b </i>are provided symmetrically with respect to the center PC of the plate thickness of the side plate <b>184</b><i>d</i>. Stated otherwise, the center PC of the plate thickness of the side plate <b>184</b><i>d </i>is on the plane of the neutral surface NS of the side plate <b>184</b><i>d</i>. At the second coupling portions <b>72</b><i>b </i>of the side plate <b>184</b><i>d</i>, the center of the holes <b>73</b><i>b </i>matches the center PC of the plate thickness of the side plate <b>184</b><i>d</i>. The center of the coupling pin <b>64</b><i>b </i>inserted into the holes <b>73</b><i>b </i>matches the center PC of the plate thickness, on the neutral surface NS (see <figref idref="DRAWINGS">FIG. 25</figref>).</p>
+<p id="p-0142" num="0141">The structure of the side plate <b>184</b><i>b </i>is the same as the structure of the side plate <b>184</b><i>d</i>. The constituent elements that are identical to those of the side plate <b>184</b><i>d </i>are labeled with the same reference numeral, and description thereof will be omitted. Each of the side plate <b>184</b><i>a </i>and the side plate <b>184</b><i>c </i>has one rib <b>186</b><i>a </i>and one rib <b>186</b><i>b </i>as necessary.</p>
+<p id="p-0143" num="0142">In the tenth embodiment, as shown in <figref idref="DRAWINGS">FIGS. 24 and 27</figref>, the side plate <b>184</b><i>d </i>includes the ribs <b>186</b><i>a</i>, <b>186</b><i>b </i>to form a rib-panel. Thus, the rigidity of the side plate <b>184</b><i>d </i>is effectively improved in comparison with the planar panel. Therefore, even if a load is applied to the casing <b>182</b> in a direction different from the stacking direction such as a twisting direction, it is possible to effectively maintain the shape of the casing <b>182</b> by the ribs <b>186</b><i>a</i>, <b>186</b><i>b</i>, and the casing <b>182</b> is not affected by vibrations outside the casing <b>182</b> or the like. Thus, it is possible to maintain the overall power generation performance and the sealing performance of the fuel cell stack <b>180</b>.</p>
+<p id="p-0144" num="0143">Further, the side plate <b>184</b><i>d </i>functions to reduce the positional displacement of the stack body <b>14</b> when the stack body <b>14</b> is deformed in a direction which intersects the stacking direction. Therefore, by providing the ribs <b>186</b><i>a</i>, <b>186</b><i>b </i>for the side plate <b>184</b><i>d </i>to significantly improve the rigidity of the side plate <b>184</b><i>d </i>itself, it is possible to reduce the amount of positional displacement in the stack body <b>14</b> significantly.</p>
+<p id="p-0145" num="0144">Further, in the tenth embodiment, as shown in <figref idref="DRAWINGS">FIG. 25</figref>, the center O of the coupling pin <b>64</b><i>b </i>at the second coupling portion <b>72</b><i>b </i>of the side plate <b>184</b><i>d </i>is positioned on the neutral surface NS of the side plate <b>184</b><i>d</i>. Therefore, when a load in the stacking direction of the stack body <b>14</b> is applied to the opposite ends of the side plate <b>184</b><i>d </i>in the direction indicated by the arrow A through the coupling pins <b>64</b><i>b</i>, no force in a bending direction is applied to the side plate <b>184</b><i>d. </i></p>
+<p id="p-0146" num="0145">Further, in the tenth embodiment, the center O of the coupling pin <b>64</b><i>b </i>matches the center PC of the plate thickness of the side plat <b>184</b><i>d</i>, on the neutral surface NS. With the simple and compact structure, it is possible to prevent the force in a bending direction from being applied to the side plate <b>184</b><i>d</i>. Accordingly, the rigidity of the casing <b>182</b> is maintained suitably. The positional displacement in the stack body <b>14</b> is inhibited, and it is possible to reliably apply the desired tightening load to the stack body <b>14</b> in the stacking direction.</p>
+<p id="p-0147" num="0146"><figref idref="DRAWINGS">FIG. 28</figref> is a perspective view showing a side plate <b>190</b> of a fuel cell stack according to an eleventh embodiment of the present invention.</p>
+<p id="p-0148" num="0147">The side plate <b>190</b> corresponds to the side plate <b>184</b><i>d </i>used in the tenth embodiment.</p>
+<p id="p-0149" num="0148">The side plate <b>190</b> includes two ribs <b>192</b><i>a </i>and one rib <b>192</b><i>b </i>positioned between the ribs <b>192</b><i>a</i>. The ribs <b>192</b><i>a </i>and the rib <b>192</b><i>b </i>are formed integrally with the side plate <b>190</b>, and extend in the direction indicated by the arrow A.</p>
+<p id="p-0150" num="0149">As shown in <figref idref="DRAWINGS">FIG. 29</figref>, the two ribs <b>192</b><i>a </i>protrude toward the stack body <b>14</b>, and the single rib <b>192</b><i>b </i>protrudes away from the stack body <b>14</b>. The protrusion distance of the two ribs <b>192</b><i>a </i>is the same as the protrusion distance of the rib <b>192</b><i>b</i>. Thus, the center PC of the plate thickness of the side plate <b>190</b> is on the plane of the neutral surface NS of the side plate <b>190</b>. The center of the coupling pin <b>64</b><i>b </i>inserted into the second coupling portions <b>72</b><i>b </i>matches the center PC of the plate thickness of the side plate <b>190</b>, on the neutral surface NS.</p>
+<p id="p-0151" num="0150">While the eleventh embodiment has been described in connection with only the side plate <b>190</b> corresponding to the side plate <b>184</b><i>d </i>used in the tenth embodiment, it should be understood that the structures of unillustrated side plates corresponding to the side plates <b>184</b><i>a </i>to <b>184</b><i>c </i>are the same as the structure of the side plate <b>190</b>. Further, in twelfth and thirteenth embodiments as described later, the structures of side plates are the same as the structure of the side plate <b>190</b>.</p>
+<p id="p-0152" num="0151">In the eleventh embodiment, the side plate <b>190</b> includes the ribs <b>192</b><i>a</i>, <b>192</b><i>b </i>to form a rib-panel. Therefore, the rigidity of the side plate <b>190</b> is improved effectively in comparison with the planar panel. Further, the center of the coupling pin <b>64</b><i>b </i>is positioned on the neutral surface NS of the side plate <b>190</b>. Therefore, the same advantages as with the tenth embodiment can be obtained. For example, when a load in the stacking direction is applied between the coupling pins <b>64</b><i>b</i>, no force in the bending direction is applied to the side plate <b>190</b>.</p>
+<p id="p-0153" num="0152"><figref idref="DRAWINGS">FIG. 30</figref> is an exploded perspective view showing a side plate <b>200</b> of a fuel cell stack according to a twelfth embodiment of the present invention. <figref idref="DRAWINGS">FIG. 31</figref> is a cross sectional view showing a state in which members of the side plate <b>200</b> is assembled, taken along a line XXXI-XXXI in <figref idref="DRAWINGS">FIG. 30</figref>.</p>
+<p id="p-0154" num="0153">The side plate <b>200</b> corresponds to the side plate <b>184</b><i>d </i>used in the tenth embodiment. The side plate <b>200</b> includes a substantially planar panel <b>202</b>. Two rib members <b>204</b><i>a </i>are jointed to one surface <b>202</b><i>a </i>of the panel <b>202</b>. Further, two rib members <b>204</b><i>b </i>are jointed to the other surface <b>202</b><i>b </i>of the panel <b>202</b>, at positions between the rib members <b>204</b><i>a. </i></p>
+<p id="p-0155" num="0154">The rib members <b>204</b><i>a </i>and the rib members <b>204</b><i>b </i>have the same shape. The rib members <b>204</b><i>a </i>are provided on the side of the stack body <b>14</b>, and the rib members <b>204</b><i>b </i>are provided on the side opposite to the stack body <b>14</b> (see <figref idref="DRAWINGS">FIG. 31</figref>). The rib members <b>204</b><i>a </i>are symmetrical with the rib members <b>204</b><i>b </i>with respect to the center PC of the plate thickness of the panel <b>202</b>. That is, the center PC of the plate thickness of the side plate <b>200</b> is positioned on the plane of the neutral surface NS of the side plate <b>200</b>.</p>
+<p id="p-0156" num="0155">Therefore, the structure of the side plate <b>200</b> in the twelfth embodiment is the substantially same as the structure of the side plate <b>184</b><i>d </i>used in the tenth embodiment. Thus, the same advantages as with the tenth embodiment can be obtained.</p>
+<p id="p-0157" num="0156"><figref idref="DRAWINGS">FIG. 32</figref> is an exploded perspective view showing a side plate <b>210</b> of a fuel cell stack according to a thirteenth embodiment of the present invention. <figref idref="DRAWINGS">FIG. 33</figref> is a cross sectional view showing a state in which members of the side plate <b>210</b> is assembled, taken along a line XXXIII-XXXIII in <figref idref="DRAWINGS">FIG. 32</figref>.</p>
+<p id="p-0158" num="0157">The side plate <b>210</b> corresponds to the side plate <b>190</b> used in the eleventh embodiment, and includes a substantially planar panel <b>212</b>. Two rib members <b>214</b><i>a </i>are jointed to a surface <b>212</b><i>a </i>of the panel <b>212</b> on the side of the stack body <b>14</b> and a single rib member <b>214</b><i>b </i>is jointed to the opposite surface <b>212</b><i>b </i>of the panel <b>212</b>.</p>
+<p id="p-0159" num="0158">As shown in <figref idref="DRAWINGS">FIG. 33</figref>, the rib member <b>214</b><i>b </i>is larger than the rib member <b>214</b><i>a</i>. The center PC of the plate thickness of the side plate <b>210</b> is positioned on the plane of the neutral surface NS of the side plate <b>210</b>. Thus, in the thirteenth embodiment, the same advantages as with the eleventh embodiment can be obtained.</p>
+<p id="p-0160" num="0159">While the invention has been particularly shown and described with reference to preferred embodiments, it will be understood that variations and modifications can be effected thereto by those skilled in the art without departing from the spirit and scope of the invention as defined by the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A fuel cell stack comprising:
+<claim-text>a box-shaped casing; and</claim-text>
+<claim-text>a stack body provided in said casing, said stack body being formed by stacking a plurality of unit cells in a stacking direction, said unit cells each including an electrolyte electrode assembly and separators sandwiching said electrolyte electrode assembly, said electrolyte electrode assembly including a pair of electrodes, and an electrolyte interposed between said electrodes, wherein said casing comprises:</claim-text>
+<claim-text>end plates provided at opposite ends of said stack body in the stacking direction;</claim-text>
+<claim-text>a plurality of side plates provided on sides of said stack body; and</claim-text>
+<claim-text>coupling pins each for coupling said end plate and said side plate, and wherein</claim-text>
+<claim-text>said side plates include a first side plate and a second side plate provided adjacent to each other;</claim-text>
+<claim-text>said first side plate has a side surface disposed in the stacking direction that includes a neutral surface, at least one coupling pin being located on said side surface, and includes a flange for attaching said first side plate to said second side plate; and</claim-text>
+<claim-text>said first side plate is curved in a direction in which the center of said at least one coupling pin for coupling said first side plate to said end plate is set apart from said neutral surface of said first side plate by a predetermined distance so that said first side plate is curved along a length extending from one end of the side plate to an opposed end of the side plate so that the side plate has a substantially arcuate shape therebetween when a load is applied to the fuel cell stack in the stacking direction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A fuel cell stack according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the width of said first side plate is smaller than the width of said second side plate.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A fuel cell stack according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the center of said at least one coupling pin is offset from the neutral surface of said first side plate in a direction away from said stack body.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A fuel cell stack according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said flange is provided at least at one end of said first side plate in a lateral direction, and curved toward said stack body.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A fuel cell stack according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the width of said first side plate is larger than the width of said second side plate.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A fuel cell stack according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein said flange is provided at least at one end of said first side plate in a lateral direction, and curved toward said stack body.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A fuel cell stack comprising:
+<claim-text>a box-shaped casing; and</claim-text>
+<claim-text>a stack body provided in said casing, said stack body being formed by stacking a plurality of unit cells in a stacking direction, said unit cells each including an electrolyte electrode assembly and separators sandwiching said electrolyte electrode assembly, said electrolyte electrode assembly including a pair of electrodes, and an electrolyte interposed between said electrodes, wherein said casing comprises:</claim-text>
+<claim-text>end plates provided at opposite ends of said stack body in the stacking direction;</claim-text>
+<claim-text>a plurality of side plates provided on sides of said stack body; and</claim-text>
+<claim-text>coupling pins each for coupling said end plate and said side plate, and wherein</claim-text>
+<claim-text>in at least one of said side plates having a side surface disposed in the stacking direction and having a neutral surface on said side surface, at least one coupling pin being located on said side surface, the center of said at least one coupling pin is set apart from said neutral surface of said side plate by a predetermined distance so that said side plate is curved along a length extending from one end of the side plate to an opposed end of the side plate so that said side plate has a substantially arcuate shape therebetween, being curved in a direction perpendicular to the stacking direction when a load is applied to the fuel cell stack in the stacking direction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A fuel cell stack according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the center of said at least one coupling pin is offset from the neutral surface of said side plate toward said stack body.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A fuel cell stack according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the center of said at least one coupling pin is offset from the neutral surface of said side plate in a direction away from said stack body.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A fuel cell stack according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the neutral surface of said side plate matches the center of the plate thickness of said side plate.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A fuel cell stack according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein at least one of said side plates is a rib-panel including a panel and a rib which is formed integrally with or separately from said panel.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. A fuel cell stack according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the center of said at least one coupling pin matches the center of the plate thickness of said side plate.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A fuel cell stack according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein at least a part of the side plate contacts the stack body.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. A fuel cell stack according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein said side plate is curved in a direction in which the center of said at least one coupling pin is set apart from said neutral surface of said side plate.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. A fuel cell stack according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein said at least one coupling pin is a pair of coupling pins, and a center of each of said pair of coupling pins is offset from the neutral surface of said side plate toward said stack body.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. A fuel cell stack according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein said at least one coupling pin is a pair of coupling pins, and a center of each of said pair of coupling pins is offset from the neutral surface of said side plate in a direction away from said stack body. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640727-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640727</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10526489</doc-number>
+<date>20040707</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2003-193310</doc-number>
+<date>20030708</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 60285</main-classification>
+<further-classification> 60286</further-classification>
+<further-classification> 60295</further-classification>
+<further-classification> 60297</further-classification>
+<further-classification> 60300</further-classification>
+<further-classification> 60301</further-classification>
+<further-classification> 60311</further-classification>
+</classification-national>
+<invention-title id="d0e61">Combustion control for engine</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4685290</doc-number>
+<kind>A</kind>
+<name>Kamiya et al.</name>
+<date>19870800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60274</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5473887</doc-number>
+<kind>A</kind>
+<name>Takeshima et al.</name>
+<date>19951200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6276130</doc-number>
+<kind>B1</kind>
+<name>Ito et al.</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60278</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6378297</doc-number>
+<kind>B1</kind>
+<name>Ito et al.</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6378487</doc-number>
+<kind>B1</kind>
+<name>Zukouski et al.</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>123299</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6412276</doc-number>
+<kind>B1</kind>
+<name>Salvat et al.</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60295</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>6449946</doc-number>
+<kind>B2</kind>
+<name>Kuji et al.</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60286</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>6536209</doc-number>
+<kind>B2</kind>
+<name>Fluga et al.</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60284</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6688279</doc-number>
+<kind>B2</kind>
+<name>Ishikawa et al.</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>123299</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6763799</doc-number>
+<kind>B2</kind>
+<name>Ito et al.</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>123299</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6796118</doc-number>
+<kind>B2</kind>
+<name>Kitahara</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60285</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6804952</doc-number>
+<kind>B2</kind>
+<name>Sasaki et al.</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60284</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>6901747</doc-number>
+<kind>B2</kind>
+<name>Tashiro et al.</name>
+<date>20050600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60286</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>2004/0163378</doc-number>
+<kind>A1</kind>
+<name>Sasaki et al.</name>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60284</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>DE</country>
+<doc-number>100 37 215</doc-number>
+<kind>A1</kind>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>EP</country>
+<doc-number>1 035 315</doc-number>
+<kind>A2</kind>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>EP</country>
+<doc-number>1 063 427</doc-number>
+<kind>A2</kind>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>EP</country>
+<doc-number>1 132 606</doc-number>
+<kind>A2</kind>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>EP</country>
+<doc-number>1 302 650</doc-number>
+<kind>A2</kind>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>EP</country>
+<doc-number>1 318 289</doc-number>
+<kind>A1</kind>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>EP</country>
+<doc-number>1 424 481</doc-number>
+<kind>A2</kind>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>JP</country>
+<doc-number>2600492</doc-number>
+<kind>B2</kind>
+<date>19970100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>JP</country>
+<doc-number>2000-320386</doc-number>
+<kind>A</kind>
+<date>20001100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>JP</country>
+<doc-number>2001-073860</doc-number>
+<kind>A</kind>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00025">
+<othercit>&#x201c;New Diesel V8 for S-Class,&#x201d; Automotive Engineering, Society of Automotive Engineers, vol. 109, No. 1, Jan. 2001, pp. 78-80.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>38</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 60285</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60286</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60295</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60300</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60297</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60301</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60311</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>22</number-of-drawing-sheets>
+<number-of-figures>33</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060005532</doc-number>
+<kind>A1</kind>
+<date>20060112</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kitahara</last-name>
+<first-name>Yasuhisa</first-name>
+<address>
+<city>Yokohama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Foley &#x26; Lardner LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Nissan Motor Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Yokohama-shi</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Denion</last-name>
+<first-name>Thomas E</first-name>
+<department>3748</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Tran</last-name>
+<first-name>Diem</first-name>
+</assistant-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2004/009998</doc-number>
+<kind>00</kind>
+<date>20040707</date>
+</document-id>
+<us-371c124-date>
+<date>20050304</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2005/003537</doc-number>
+<kind>A </kind>
+<date>20050113</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A combustion control apparatus for an internal combustion engine, includes an exhaust purifier in an exhaust passage, and a combustion controlling actuator such as a fuel injector to cause main combustion, and to cause preliminary combustion prior to the main combustion. A controller controls fuel injection to produce the preliminary combustion at or near top dead center, and controls fuel injection to start the main combustion after an end of the preliminary combustion.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="190.16mm" wi="325.88mm" file="US07640727-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="217.59mm" wi="147.24mm" file="US07640727-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="238.08mm" wi="134.28mm" file="US07640727-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="192.70mm" wi="161.88mm" file="US07640727-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="205.49mm" wi="127.76mm" file="US07640727-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="120.57mm" wi="95.08mm" file="US07640727-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="118.70mm" wi="136.99mm" file="US07640727-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="194.31mm" wi="154.35mm" file="US07640727-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="178.39mm" wi="152.23mm" file="US07640727-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="201.08mm" wi="74.85mm" file="US07640727-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="128.61mm" wi="101.01mm" file="US07640727-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="176.70mm" wi="115.57mm" orientation="landscape" file="US07640727-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="177.80mm" wi="113.79mm" orientation="landscape" file="US07640727-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="173.14mm" wi="114.72mm" orientation="landscape" file="US07640727-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="175.60mm" wi="116.33mm" orientation="landscape" file="US07640727-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="148.42mm" wi="106.00mm" orientation="landscape" file="US07640727-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="229.11mm" wi="160.61mm" file="US07640727-20100105-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="214.38mm" wi="114.13mm" file="US07640727-20100105-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="215.73mm" wi="122.77mm" file="US07640727-20100105-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="200.15mm" wi="122.68mm" file="US07640727-20100105-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="227.84mm" wi="114.98mm" file="US07640727-20100105-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="222.67mm" wi="112.78mm" file="US07640727-20100105-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="205.15mm" wi="119.13mm" file="US07640727-20100105-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates to technique of controlling combustion in an internal combustion engine.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0003" num="0002">EP1035315 A2 (corresponding to JP2000-320386 A) shows a fuel injection system for a diesel engine, arranged to inject fuel in a basic fuel injection quantity corresponding to a required engine torque or in an increased fuel injection quantity, by three split injections near a compression top dead center of each cylinder, with a fuel injector, to promote warm-up of a catalyst.</p>
+<heading id="h-0003" level="1">DISCLOSURE OF INVENTION</heading>
+<p id="p-0004" num="0003">However, in this fuel injection system, fuel is injected in such a manner that combustion is continuous, and fuel injected by the three injections is burned continuously. Therefore, fuel in a subsequent injection is injected into flame of the fuel previously injected, and burned mainly in diffusive combustion. If the air-fuel ratio is lowered in such a combustion state, a smoke emission level is increased considerably.</p>
+<p id="p-0005" num="0004">It is an object of the present invention to provide combustion control system and/or method for reducing smoke emissions and realizing a rich target exhaust air-fuel ratio.</p>
+<p id="p-0006" num="0005">According to one aspect of the present invention, a combustion control apparatus for an internal combustion engine, comprises: an exhaust purifier in an exhaust passage of the internal combustion engine; a combustion controlling actuator to cause main combustion, and to cause preliminary combustion prior to the main combustion; and a controller to control fuel injection to produce the preliminary combustion, and to control fuel injection to start the main combustion after an end of the preliminary combustion.</p>
+<p id="p-0007" num="0006">According to another aspect of the invention, a combustion control process for an internal combustion engine provided with an exhaust purifier in an exhaust passage of the internal combustion engine, comprises: a process element of controlling fuel injection to produce preliminary combustion in an engine cycle; and a process element of controlling fuel injection to start main combustion after an end of the preliminary combustion in the engine cycle.</p>
+<p id="p-0008" num="0007">The other objects and features of this invention will become understood from the following description with reference to the accompanying drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic view of a combustion control system or apparatus for an internal combustion engine according to one embodiment of the present invention.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 2</figref> is a flowchart showing a main combustion control process performed by the combustion control system of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 3</figref> is a flowchart of a DPF regeneration process perform by the combustion control system of <figref idref="DRAWINGS">FIG. 1</figref> in a warmed-up state of an NOx trap catalyst.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 4</figref> is a flowchart of a sulfur poisoning recovery process performed by the combustion control system of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 5</figref> is a flowchart of a rich spike combustion control process performed by the combustion control system of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 6</figref> is a flowchart of a melting prevention process performed by the combustion control system of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 7</figref> is a flowchart of a priority determining process performed by the combustion control system of <figref idref="DRAWINGS">FIG. 1</figref>, for determining priority of the DPF regeneration, NOx regeneration, and sulfur poisoning recovery.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 8</figref> is a flowchart of a priority determining process performed by the combustion control system of <figref idref="DRAWINGS">FIG. 1</figref>, for determining the priority of SOx regeneration and NOx regeneration.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 9</figref> is a flowchart of DPF regeneration request flag setting process formed by the combustion control system of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 10</figref> is a flowchart of a sulfur poisoning recovery request flag setting process performed by the combustion control process of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 11</figref> is a flowchart of an NOx regeneration request flag setting process performed by the combustion control process of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 12</figref> is a flowchart of an NOx trap catalyst warming up process for warming up the NOx trap catalyst.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 13</figref> is a view showing a combustion control mode of a first example.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 14</figref> is a view showing a combustion control mode of a second example.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 15</figref> is a view showing a combustion control mode of a third example (split retard combustion mode) according to one embodiment of the present invention.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 16</figref> is a view showing a combustion control mode of a fourth example (split retard combustion mode) according to the embodiment of the present invention.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 17</figref> is a view showing conditions of exhaust gas mixture in the third example of <figref idref="DRAWINGS">FIG. 15</figref>, in comparison with the first and second examples of <figref idref="DRAWINGS">FIG. 13</figref> and <figref idref="DRAWINGS">FIG. 14</figref>.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIGS. 18A-18D</figref> are views showing the exhaust gas conditions with respect to the timing of the main combustion in the split retard combustion mode.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 19</figref> is a view showing a target fuel injection timing for main combustion according to this embodiment of the present invention.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 20</figref> is a view showing an exhaust pressure threshold value of DPF.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 21</figref> is a view showing a target air-fuel ratio with respect to the PM accumulated quantity of deposited PM.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 22</figref> is a view showing a target intake air quantity.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 23</figref> is a view for calculating a torque correction coefficient corresponding to target fuel injection timing.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 24</figref> is a view showing a target intake air quantity for a rich spike operation.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 25</figref> is a view showing a target intake air quantity for preventing DPF melting.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 26</figref> is a view showing a DFP&#xb7;SOx regeneration permission region.</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 27</figref> is a view showing a target fuel injection quantity for preliminary combustion according to the embodiment.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 28</figref> is a view showing target fuel injection timing for preliminary combustion according to the embodiment.</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 29</figref> is a flowchart showing a process of combustion changeover to a split retard combustion mode according to the embodiment.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 30</figref> is a view showing an injection quantity correction coefficient for main combustion corresponding to a target air-fuel ratio.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">MODE(S) FOR CARRYING OUT THE INVENTION</heading>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 1</figref> shows a combustion control system or apparatus for an internal combustion engine <b>1</b>. In this example, the internal combustion engine is a diesel engine.</p>
+<p id="p-0040" num="0039">An intake system of engine <b>1</b> includes an air compressor <b>3</b><i>a </i>of a turbocharger (supercharger) <b>3</b> disposed in an upstream portion of an intake passage <b>2</b>, for compressing intake air for supercharging; an intercooler <b>4</b> for cooling the pressurized air from compressor <b>3</b><i>a</i>; and a throttle valve <b>6</b> for regulating the flow of the cooled air from intercooler <b>4</b>. After passing through throttle valve <b>6</b>, the intake air flows into the combustion chamber of each cylinder of engine <b>1</b> through a collector section of an intake manifold.</p>
+<p id="p-0041" num="0040">A fuel system includes a common rail fuel injection system including a high-pressure fuel pump <b>8</b>, and a common rail <b>9</b> for receiving high-pressure fuel from fuel pump <b>8</b>, and supplying the fuel to each of injectors <b>10</b>. Each injector <b>10</b> is arranged to inject fuel directly into the combustion chamber of the corresponding engine cylinder. In the combustion chamber, fuel injected by the injector <b>10</b> and air inducted from the intake system are ignited by compression ignition, and burned. Exhaust gas is discharged into an exhaust passage <b>12</b>.</p>
+<p id="p-0042" num="0041">Part of the exhaust gas mixture is recirculated as EGR gas from exhaust passage <b>12</b> to the intake side by an EGR passage <b>11</b> via an EGR valve <b>19</b>. The remaining part of the exhaust gas mixture passes through an exhaust turbine <b>3</b><i>b </i>of turbocharger <b>3</b> of variable nozzle type, and drives exhaust turbine <b>3</b><i>b. </i></p>
+<p id="p-0043" num="0042">An exhaust purifying device or purifier is disposed in exhaust passage <b>12</b> at a position downstream of exhaust turbine <b>3</b><i>a</i>. In this example, the exhaust purifying device includes an NOx trap catalyst (device) <b>13</b> and a diesel particulate filter (DPF) <b>14</b>.</p>
+<p id="p-0044" num="0043">This NOx trap catalyst <b>13</b> traps NOx in the incoming exhaust gas when the exhaust air-fuel ratio is lean (oxygen excess state). When the exhaust air-fuel ratio is rich (fuel excess state), NOx trap catalyst <b>13</b> releases and purges the trapped NOx. NOx trap catalyst <b>13</b> contains oxidation catalyst such as Pt or other noble metal, for oxidizing incoming exhaust components (HC, CO).</p>
+<p id="p-0045" num="0044">DPF <b>14</b> has a PM trap function of collecting exhaust particulate matter (PM) in the exhaust gas. Moreover, this DPF <b>14</b> is provided with oxidation catalyst (noble metal) for oxidizing the incoming exhaust components (HC, CO).</p>
+<p id="p-0046" num="0045">In the example of <figref idref="DRAWINGS">FIG. 1</figref>, DPF <b>14</b> is located downstream of NOx trap catalyst <b>13</b>. However, DPF <b>14</b> may be positioned upstream of NOx trap catalyst <b>13</b>. Moreover, NOx trap catalyst <b>13</b> and DPF <b>14</b> can be formed as a single unit in which NOx trap catalyst <b>13</b> is carried in DPF <b>14</b>.</p>
+<p id="p-0047" num="0046">The combustion control system further includes a sensor section or input section including various sensors for collecting information on operating conditions needed for the combustion control. A crank angle sensor (rotational speed sensor) <b>20</b> is a device for sensing an engine rotational speed Ne of engine <b>1</b>. An accelerator opening sensor <b>21</b> is a device for sensing an accelerator opening APO of an accelerator of the vehicle.</p>
+<p id="p-0048" num="0047">The sensor section further includes a catalyst temperature sensor <b>22</b> for sensing the temperature (catalyst temperature) of NOx trap catalyst <b>13</b>; an exhaust pressure sensor <b>17</b> for sensing the exhaust pressure on the entrance side of DPF <b>14</b> in exhaust passage <b>12</b>; a DPF temperature sensor <b>23</b> for sensing the temperature (DPF temperature) of DPF <b>14</b>; and an air-fuel ratio sensor <b>16</b> disposed on the exist side of DPF in exhaust passage <b>12</b>, for sensing the exhaust air-fuel ratio (or exhaust lambda &#x3bb;, expressed as numeric value of excess air ratio). Instead of sensing the temperature of NOx trap catalyst <b>13</b> directly, it is possible to determine the temperature indirectly from an exhaust gas temperature by using a temperature sensor disposed on the downstream side of NOx trap catalyst <b>13</b>. Similarly, it is possible to determine the temperature of DPF <b>14</b> indirectly from an exhaust gas temperature by using a temperature sensor disposed on the downstream side of DPF <b>14</b>.</p>
+<p id="p-0049" num="0048">The combustion control system further includes a control section or controller including a control unit or ECU <b>25</b> for controlling engine <b>1</b> in accordance with the information collected by the sensor section. Signals from the sensors are supplied to ECU <b>25</b>. On the basis of these input signals, ECU <b>25</b> outputs a fuel injection command signal to each of fuel injectors <b>10</b>, a throttle opening command signal to throttle valve <b>6</b> and an opening command signal to EGR valve <b>19</b>. Specifically, by producing the fuel injection command signal to control the fuel injection quantity and fuel injection timing, ECU <b>25</b> commands each injector <b>10</b> to perform a main injection and at least one preliminary injection prior to the main injection. Furthermore, ECU <b>25</b> controls throttle valve <b>6</b> by producing a throttle opening command signal, and controls EGR valve <b>19</b> by producing an EGR opening command signal.</p>
+<p id="p-0050" num="0049">ECU <b>25</b> carries out exhaust purification control for purge of PM trapped and deposited in DPF <b>14</b> (DPF regeneration), purge of NOx trapped by NOx trap catalyst <b>13</b> (NOx regeneration) and purge of SOx deposited in NOx trap catalyst <b>13</b> because of its exposure to SOx (SOx regeneration), in the flowing manner.</p>
+<p id="p-0051" num="0050">For the control to restore the purification capability of <b>20</b> NOx trap catalyst <b>13</b> or DPF <b>14</b>, ECU <b>25</b> changes the operating conditions of engine <b>1</b>. When, for example, a request for rich operation in a rich region equal to or less than a stoichiometric ratio (theoretical air-fuel ratio: &#x3bb;=1) is made, ECU <b>25</b> decreases the intake air quantity of air supplied to engine <b>1</b> by decreasing the opening of throttle valve <b>6</b>; or ECU <b>25</b> increases the fuel injection quantity by controlling fuel pump <b>8</b>.</p>
+<p id="p-0052" num="0051">For regeneration of DPF <b>14</b>, ECU <b>25</b> of this example controls the target air-fuel ratio &#x3bb; between 1 to 1.4 (1&#x2266;&#x3bb;&#x2266;1.4), and controls the temperature of DPF <b>14</b> at 600&#xb0; C. or higher (DPF temperature&#x2267;600&#xb0; C.).</p>
+<p id="p-0053" num="0052">In a normal operation region under lean conditions, pilot injection is usually carried out to alleviate abrupt combustion at an early stage before main injection. The fuel injection timing of this pilot injection is 40 to 10&#xb0; BTDC (crank angle timing before top dead center), and the fuel injection quantity of pilot injection is 1 to 3 mm<sup>3</sup>/st. The timing of the main injection is approximately 10 to &#x2212;20&#xb0; BTDC. The interval between the pilot injection and the main injection is set to approximately 10 to 30&#xb0; CA (crank angle).</p>
+<p id="p-0054" num="0053">To realize a low air-fuel ratio and a high exhaust temperature for regeneration of DPF <b>14</b> and sulfur poisoning recovery or cancellation, the control system decreases the intake air quantity from the level in the normal operation. However, a decrease in the intake air quantity causes a decrease in a compression end temperature which is the temperature inside the cylinder at or near an end of compression stroke or at or near a top dead center of compression stroke, and hence the combustion tends to become unstable. Therefore, the injection timing of the main injection is advanced when pilot injection is performed in setting similar to that of normal lean operation, as shown in a first example I (comparative example) of <figref idref="DRAWINGS">FIG. 13</figref>.</p>
+<p id="p-0055" num="0054">With such setting of fuel injection quantity and injection timing, retardation of the injection timing to raise the exhaust temperature renders the combustion unstable, so that the amount of retard is limited. For example, it is difficult to realize an operation for sulfur poisoning cancellation or desulfurization, in a &#x3bb; range equal to or less than 1 (&#x3bb;&#x2266;1) and in an exhaust temperature range equal to or higher than 600&#xb0; C. (exhaust temperature &#x2267;600&#xb0; C.).</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. 14</figref> shows a second example II as disclosed in EP1035315 A2 (corresponding to JP2000-320386 A). In this example, the range of retard of the fuel injection timing is expanded by a plurality of split main injections, to realize a high exhaust temperature and a low air-fuel ratio.</p>
+<p id="p-0057" num="0056">In the second example II shown in <figref idref="DRAWINGS">FIG. 14</figref>, however, fuel injected by a plurality of main injections is burned continuously. Fuel of a subsequent injection is injected in the state where combustion of fuel of a previous injection is still active. Therefore, the combustion is continuous as shown in <figref idref="DRAWINGS">FIG. 14</figref>. Fuel of a subsequent injection is injected into flames in combustion of fuel injected by a previous injection, and combustion starts immediately in the flames. Therefore, the combustion mode of the example II increases the percentage of diffusive combustion and makes the equivalence ratio very rich partially, resulting in considerable deterioration of smoke emission level.</p>
+<p id="p-0058" num="0057">In view of this, the combustion control system according to the embodiment changes over the operation from the normal lean combustion mode to a split combustion mode or split retard combustion mode as shown, as an third example III, in <figref idref="DRAWINGS">FIG. 15</figref>, to regain the exhaust purification function of the exhaust purifying device (NOx trap catalyst <b>13</b> and DPF <b>14</b>).</p>
+<p id="p-0059" num="0058">The combustion control system according to this embodiment carries out the split retard combustion control mode by controlling preliminary combustion occurring at or near compression top dead center by fuel injection before compression top dead center, and main combustion occurring after an end of the preliminary combustion, for producing main torque.</p>
+<p id="p-0060" num="0059">In the split combustion mode, as shown in <figref idref="DRAWINGS">FIG. 15</figref>, the combustion control system first performs a preliminary fuel injection (indicated by &#x201c;a&#x201d; in <figref idref="DRAWINGS">FIG. 15</figref>) on the compression stroke, and thereby raises the incylinder temperature in the cylinder at or near compression top dead center (TDC). Though the fuel injection quantity for heat generation of the preliminary combustion differs depending on the operating conditions, fuel is injected, by the preliminary injection, at least in an amount required to confirm heat generation of the preliminary combustion. Thus, by raising the incylinder temperature by a heat releasing process of the preliminary combustion, the combustion control system according to this embodiment can broaden the possible range of retard of the main combustion by shifting the retard limit.</p>
+<p id="p-0061" num="0060">It is optional to carry out a plurality of preliminary combustion processes within one cycle. In this case, fuel injection is so controlled that at least one preliminary combustion process occurs at or near compression top dead center.</p>
+<p id="p-0062" num="0061">Moreover, it is optional to adjust at least one of the fuel injection quantity and the fuel injection timing for the preliminary combustion in accordance with the compression end temperature (that is, the incylinder temperature at or near compression top dead center). The compression end temperature is estimated from one or more engine operating conditions of engine <b>1</b> (such as engine rotational speed Ne, and fuel injection quantity Q). In this case, too, the fuel injection quantity is set to a quantity to enable confirmation of heat generation of the preliminary combustion, and at least one preliminary combustion process takes place at or near compression top dead center. The combustion is a heat releasing process, and the preliminary combustion ends when the heat releasing process ends, so that the end of the preliminary combustion is the end of the heat releasing process.</p>
+<p id="p-0063" num="0062">In this example, the fuel injection quantity for the preliminary combustion is set equal to a quantity required to make the incylinder temperature at the time of fuel injection for the main combustion higher than an auto-ignition temperature enabling auto ignition in the cylinder</p>
+<p id="p-0064" num="0063">The main combustion is initiated after the preliminary combustion is finished. Fuel is injected for the main combustion after the end of the preliminary combustion, and at least part of the injected fuel is burned in the premixed combustion mode. As shown in <figref idref="DRAWINGS">FIG. 15</figref>, a main fuel injection (indicated by &#x201c;b&#x201d; in <figref idref="DRAWINGS">FIG. 15</figref>) for the main combustion is carried out after top dead center so that the main combustion starts after the end of the preliminary combustion.</p>
+<p id="p-0065" num="0064">The combustion control system of this example control the fuel injection timing for the main combustion in accordance with the engine operating conditions (particularly the engine speed Ne) so that the combustion start timing of the main combustion is retarded from the combustion start timing of the preliminary combustion, by an amount equal to or greater than 20 degrees in terms of crank angle (CA), as shown in <figref idref="DRAWINGS">FIG. 15</figref>. Thus, by setting the amount of retard of 20&#xb0; CA or more between the start of the preliminary combustion and the start of the main combustion, this combustion control system can broaden the range of retard of the main combustion by raising the incylinder temperature by the preliminary combustion, and carry out the main fuel injection for the main combustion reliably after the end of the preliminary combustion. Therefore, this combustion control system can reduce the smoke emissions by securing a period of ignition delay for the main combustion, and increasing the percentage of premixed combustion in the main combustion.</p>
+<p id="p-0066" num="0065">Moreover, the combustion end timing of the main combustion is set at 50 degrees or more in crank angle after top dead center, as shown in <figref idref="DRAWINGS">FIG. 15</figref>. By controlling the fuel injection timing to time the main combustion to end at or after 50&#xb0; ATDC, the combustion control system can control the exhaust gas temperature in accordance with the operating state of engine <b>1</b>.</p>
+<p id="p-0067" num="0066">Moreover, the combustion control system of this example controls the fuel injection quantity, injection timing and fuel injection period for the main combustion so that the torque produced by engine <b>1</b> is held constant.</p>
+<p id="p-0068" num="0067">In this split retard combustion mode, the control system according to the embodiment can improve the controllability to a target temperature by shifting the retard limit in the retard direction with the preliminary combustion, and reduce the emissions of smoke with premixed combustion by starting the main combustion after the heat releasing process of the preliminary combustion is finished.</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIG. 17</figref> shows effects in exhaust gas temperature, smoke concentration and HC (hydrocarbon) concentration, of the split retard combustion mode of the third example III shown in <figref idref="DRAWINGS">FIG. 15</figref> in comparison with the first and second examples I and II shown in <figref idref="DRAWINGS">FIGS. 13 and 14</figref>.</p>
+<p id="p-0070" num="0069">By the split retard combustion mode as indicated by III in <figref idref="DRAWINGS">FIG. 17</figref>, the combustion control system can achieve a high exhaust gas temperature and a low smoke emission level simultaneously by realizing a rich condition. Moreover, the combustion control system can reduce the HC concentration significantly as compared to an enriched operation in the first example I and to a continuous burning operation in the second example II.</p>
+<p id="p-0071" num="0070">Since the temperature in the cylinder is raised by the preliminary combustion and the range of retard of the main combustion is broadened, the combustion at a low air-fuel ratio is stable and the exhaust gas temperature is high even if the injection timing of the main injection is retarded</p>
+<p id="p-0072" num="0071">Graphs of <figref idref="DRAWINGS">FIGS. 18A</figref>, <b>18</b>B, <b>18</b>C and <b>18</b>D show variation in the temperature, smoke concentration, CO (carbon monoxide) concentration and HC concentration of the exhaust gas with respect to the timing of the main combustion in the split retard combustion mode. In this example, the exhaust air-fuel ratio is constant (&#x3bb;=const). As shown in these graphs, as the amount of retard of the main combustion increases, the smoke emission is reduced even at a low exhaust air-fuel ratio because of an increase in the proportion of premixed combustion.</p>
+<p id="p-0073" num="0072"><figref idref="DRAWINGS">FIG. 19</figref> shows a characteristic of a target fuel injection timing for the main combustion in the split retard combustion mode according to this embodiment. The horizontal axis represents engine rotational speed Ne and the vertical axis represents engine load Q. As shown in <figref idref="DRAWINGS">FIG. 19</figref>, when load Q is low, the combustion timing of the main combustion for achieving the target exhaust gas temperature is largely retarded. Therefore, in some cases, it is difficult to hold the incylinder temperature high enough until the injection timing of the main combustion, by only one preliminary combustion process. In such case, by carrying out a plurality of preliminary combustion processes so that heat releasing processes do not overlap one another, as shown in <figref idref="DRAWINGS">FIG. 16</figref> (example IV), the combustion control system can achieve both the target of low smoke emissions and the target of high exhaust gas temperature even under low-load conditions.</p>
+<p id="p-0074" num="0073">Thus, the combustion control system according to this embodiment of the present invention changes over the combustion control mode from the normal mode (of lean operation) to the split retard combustion mode with preliminary combustion and main combustion (as shown in <figref idref="DRAWINGS">FIGS. 15 and 16</figref>) when a request for increasing the exhaust gas temperature or a request for rich operation in a range equal to or less than the stoichiometry is produced in accordance with one or more conditions of the exhaust purifying device (<b>13</b>, <b>14</b>), and thereby carries out regeneration of NOx trap catalyst <b>13</b> or DPF <b>14</b> in the state of a high exhaust temperature and a low air-fuel ratio.</p>
+<p id="p-0075" num="0074"><figref idref="DRAWINGS">FIGS. 2&#x2dc;12</figref> show a combustion control process performed by the combustion control system of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0076" num="0075"><figref idref="DRAWINGS">FIG. 2</figref> shows a main routine of the combustion control.</p>
+<p id="p-0077" num="0076">At step S<b>1</b>, ECU <b>25</b> ascertains operating conditions including the engine rotational speed Ne, accelerator opening APO, catalyst temperature, exhaust pressure on the entrance side or exit side of DPF <b>14</b>, and DPF temperature which are calculated from the signals from the sensors; and reads the fuel injection quantity (main injection quantity) Q which is calculated from a map using the engine rotational speed Ne and accelerator opening APO as parameters.</p>
+<p id="p-0078" num="0077">At step S<b>2</b>, ECU <b>25</b> examines whether or not NOx trap catalyst <b>13</b> in exhaust passage <b>12</b> is in a warm-up state (activated state). In this example, ECU <b>25</b> compares the exhaust temperature T calculated from the output signal of exhaust temperature sensor <b>15</b> at the exit of NOx trap catalyst <b>13</b>, with a predetermined exhaust temperature T<b>5</b> which is a predetermined exhaust temperature at the start of activation of NOx trap catalyst <b>13</b>. ECU <b>25</b> judges that NOx trap catalyst <b>13</b> is warmed up when exhaust temperature T is higher than the predetermined temperature (T&#x3e;T<b>5</b>).</p>
+<p id="p-0079" num="0078">When this exhaust temperature T is higher than the predetermined exhaust temperature T<b>5</b> (T&#x3e;T<b>5</b>), ECU <b>25</b> proceeds to step S<b>3</b> on the assumption that NOx trap catalyst <b>13</b> is warmed up.</p>
+<p id="p-0080" num="0079">When, on the other hand, the exhaust temperature T is equal to or lower than the predetermined exhaust temperature T<b>5</b> (T&#x2266;T<b>5</b>), ECU <b>25</b> considers that NOx trap catalyst <b>13</b> is cold, and proceeds to step S<b>1001</b> shown in <figref idref="DRAWINGS">FIG. 12</figref>. Thus, when NOx trap catalyst <b>13</b> is cold, this combustion control system enters the routine of <figref idref="DRAWINGS">FIG. 12</figref>, and changes over the combustion mode from the normal mode to the split retard combustion mode to warm up NOx trap catalyst <b>13</b> quickly, as explained later.</p>
+<p id="p-0081" num="0080">At step S<b>3</b>, ECU <b>25</b> calculates an NOx trap or accumulation quantity Qnox that is the quantity of NOx <b>30</b> trapped and accumulated in NOx trap catalyst <b>13</b>. A U.S. Pat. No. 5,473,887 (corresponding to Japanese Patent No. 2,600,492) shows a method for calculating an NOx absorption quantity by estimation from a cumulative value of engine speed Ne. It is possible to employ this calculation method, and the explanations on the calculation of NOx absorption or accumulation quantity in this U.S. patent are incorporated by reference. Alternatively, it is possible to employ a calculation method of calculating an NOx accumulation quantity by adding an increase quantity of the NOx accumulation quantity each time a predetermined distance is traveled by the vehicle. In this case, the combustion control system can utilize a sensor <b>50</b> for determining the distance traveled by the vehicle. In a method using an accumulated or cumulative quantity by summation, the accumulated quantity is reset at the time when NOx regeneration is completed (including the time when NOx regeneration is simultaneously carried out with SOx regeneration in an operation for SOx regeneration).</p>
+<p id="p-0082" num="0081">At step S<b>4</b>, ECU <b>25</b> calculates a sulfur content accumulation quantity (S quantity) Qs of sulfur content (SOx) accumulated in NOx trap catalyst <b>13</b>. It is possible to calculate the sulfur content accumulation quantity by estimation from the accumulated or cumulative quantity of the engine rotational speed Ne or from the travel distance of the vehicle as in the above-described calculation of the quantity of accumulated NOx. In the case of using the accumulated or integrated quantity, the accumulated quantity is reset at the time when the regeneration is completed.</p>
+<p id="p-0083" num="0082">At step S<b>5</b>, ECU <b>25</b> determines a PM accumulation quantity Qpm of PM trapped and accumulated in DPF <b>14</b>. In this example, ECU <b>25</b> calculates the PM accumulation quantity by sensing the exhaust pressure on the entrance side of DPF <b>14</b> with exhaust pressure sensor <b>17</b> and then comparing the sensed exhaust pressure with a reference exhaust pressure in the present operating state (determined by engine rotational speed Ne, and fuel injection quantity Q). This is because the exhaust pressure on the entrance side of DPF <b>14</b> naturally rises when the quantity of PM accumulated in DPF <b>14</b> increases. It is optional to calculate the PM accumulation quantity by estimation from one or more of the travel distance of the vehicle after the previous DPF regeneration, the accumulated value of the engine rotational speed Ne after the previous DPF regeneration, and the exhaust pressure.</p>
+<p id="p-0084" num="0083">At step S<b>6</b>, ECU <b>25</b> determines whether or not a reg flag Freg is set. Reg flag Freg is a condition code indicating whether DPF <b>14</b> is in a regeneration mode or not. If DPF <b>14</b> is not in the regeneration mode (Freg=0), ECU <b>25</b> proceeds to step S<b>7</b>. On the other hand, if DPF <b>14</b> is in the regeneration mode (Freg=1), ECU <b>25</b> performs operations in a DPF regeneration mode of step <b>101</b> and the subsequent steps in <figref idref="DRAWINGS">FIG. 3</figref>, as mentioned later.</p>
+<p id="p-0085" num="0084">At step S<b>7</b>, ECU <b>25</b> examines whether or not a desul flag Fdesul is set. Desul flag Fdesul is a condition code indicating whether NOx trap catalyst <b>13</b> is in a sulfur poisoning recovering mode (SOx regeneration mode). If NOx trap catalyst <b>13</b> is not in the sulfur poisoning recovering mode (Fdesul=0), ECU <b>25</b> proceeds from S<b>7</b> to step S<b>8</b>. On the other hand, if NOx trap catalyst <b>13</b> is in the sulfur poisoning recovering mode (Fdesul=1), ECU <b>25</b> performs operations in a rich combustion mode of step S<b>201</b> and the subsequent steps in <figref idref="DRAWINGS">FIG. 4</figref>, as mentioned later.</p>
+<p id="p-0086" num="0085">At step S<b>8</b>, ECU <b>25</b> examines whether or not an sp flag Fsp is set. This sp flag Fsp is a condition code indicating whether NOx trap catalyst <b>13</b> is in a rich spike mode for regeneration of NOx trap catalyst <b>13</b>. If NOx trap catalyst <b>13</b> is not in the rich spike mode (Fsp=0), ECU <b>25</b> proceeds from S<b>8</b> to step S<b>9</b>. On the other hand, if NOx trap catalyst <b>13</b> is in the rich spike mode (Fsp=1), ECU <b>25</b> performs operations in the rich spike mode (NOx regeneration mode) of step S<b>301</b> and the subsequent steps in <figref idref="DRAWINGS">FIG. 5</figref>, as mentioned later.</p>
+<p id="p-0087" num="0086">At step S<b>9</b>, ECU <b>25</b> examines whether or not a rec flag Frec is set. This rec flag Frec is a condition code indicating whether DPF <b>14</b> is in a melting prevention mode after the DPF regeneration mode or the sulfur poisoning recovery. If the rec flag is not set (Frec=0), ECU <b>25</b> proceeds to step S<b>10</b>. On the other hand, if the rec flag is set (Frec=1), ECU <b>25</b> performs operations in the melting prevention mode of step S<b>401</b> and the subsequent steps in <figref idref="DRAWINGS">FIG. 6</figref>, as mentioned later.</p>
+<p id="p-0088" num="0087">At step S<b>10</b>, ECU <b>25</b> examines whether or not a rq_DPF flag RQdpf is set. The rq_DPF flag RQdpf is a condition code indicating whether a regeneration request is issued for DPF <b>14</b>. If the DPF regeneration request is not issued (RQdpf=0), ECU <b>25</b> proceeds to step S<b>11</b>. On the other hand, if the DPF regeneration request is issued (RQdpf=1), ECU <b>25</b> performs operations to determine the priority in regeneration in the case where the DPF regeneration request is issued, at step S<b>501</b> and the subsequent steps in <figref idref="DRAWINGS">FIG. 7</figref>, as mentioned later.</p>
+<p id="p-0089" num="0088">At step S<b>11</b>, ECU <b>25</b> examines whether or not a rq_desul flag RQdesul is set. This rq_desul flag RQdesul is a condition code indicating whether a request for the sulfur poisoning recovering (SOx regeneration request) is issued for NOx trap catalyst <b>13</b>. If the sulfur poisoning recovery request is not issued (RQdesul=0), ECU <b>25</b> proceeds to step S<b>12</b>. On the other hand, if the sulfur poisoning recovery request is issued (RQdesul=1), ECU <b>25</b> performs operations to determine the priority in regeneration in the case where the sulfur poisoning recovering request is issued, at step <b>601</b> and the subsequent steps in <figref idref="DRAWINGS">FIG. 8</figref>, as mentioned later.</p>
+<p id="p-0090" num="0089">At step S<b>12</b>, ECU <b>25</b> examines whether or not the PM accumulation quantity Qpm calculated at step S<b>4</b> becomes equal to or greater than a predetermined quantity PM<b>1</b> indicating the need for regeneration of DPF <b>14</b> (Qpm&#x3c;PM<b>1</b>), that is, whether DPF regeneration timing is reached. Instead, it is possible to determine the DPF regeneration timing in accordance with the exhaust gas pressure on the DPF entrance side, by using a map shown in <figref idref="DRAWINGS">FIG. 20</figref>, for example. In this case, the exhaust gas pressure on the DPF entrance side at the time when the quantity of deposited PM in DPF <b>14</b> reaches the predetermined quantity PM<b>1</b> is determined for each operating state (determined by engine rotational speed Ne, and fuel injection quantity Q) and mapped as shown in <figref idref="DRAWINGS">FIG. 20</figref>. Thus, ECU <b>25</b> judges that the DPF regeneration timing (Qpm&#x2267;PM<b>1</b>) is reached when the exhaust pressure on the DPF entrance side detected by exhaust pressure sensor <b>17</b> reaches a threshold value of exhaust pressure corresponding to the present operating state (engine rotational speed Ne, and fuel injection quantity Q) in the map of <figref idref="DRAWINGS">FIG. 20</figref>.</p>
+<p id="p-0091" num="0090">If it is not the DPF regeneration timing (Qpm&#x3c;PM<b>1</b>), ECU <b>25</b> proceeds from S<b>12</b> to step S<b>13</b>. On the other hand, if it is determined that the DPF regeneration timing is reached (Qpm&#x2267;PM<b>1</b>), ECU <b>25</b> proceeds from S<b>12</b> to a step S<b>701</b> in <figref idref="DRAWINGS">FIG. 9</figref> and sets the rq_DPF flag RQdpf to one to issue a DPF regeneration request. Thus, when the quantity of PM accumulated in DPF <b>14</b> amounts to the predetermined quantity PM<b>1</b>, this combustion control system changes over the combustion mode from the normal operation mode (lean operation) to the combustion mode to raise the exhaust gas temperature to a temperature to cause the PM deposited in DPF <b>14</b> to auto-oxidize.</p>
+<p id="p-0092" num="0091">At step S<b>13</b>, ECU <b>25</b> examines whether or not the sulfur content accumulation quantity (quantity of SOx) Qs in NOx trap catalyst <b>13</b> calculated at step S<b>4</b> becomes greater than or equal to a predetermined quantity S<b>1</b>, and thereby determines the regeneration timing or the need for sulfur poisoning recovery (SOx regeneration request).</p>
+<p id="p-0093" num="0092">If the sulfur content accumulation quantity Qs is less than predetermined quantity S<b>1</b> (Qs&#x3c;S<b>1</b>), ECU <b>25</b> considers that the sulfur poisoning recovery is not yet required, and proceeds to step S<b>14</b>.</p>
+<p id="p-0094" num="0093">On the other hand, if the sulfur content accumulation quantity Qs is equal to or more than predetermined quantity S<b>1</b> (Qs&#x2267;S<b>1</b>), ECU <b>25</b> considers that the sulfur poisoning recovery is required, proceeds to step S<b>801</b> in <figref idref="DRAWINGS">FIG. 10</figref> and sets the rq_desul flag RQdesul (sulfur poisoning recovery request flag) to one to issue a sulfur poisoning recovery request. Instead, it is optional to produce the sulfur poisoning recovery request when the traveling distance of the vehicle after the previous regeneration exceeds a predetermined distance and at the same time the exhaust pressure sensed by exhaust pressure sensor <b>17</b> exceeds a predetermined threshold value. Thus, for every traveling distance, the combustion control system changes over the combustion mode from the normal operating mode to the combustion mode to increase the exhaust gas temperature to a temperature that enables purge of sulfur content trapped in NOx trap catalyst <b>13</b>, in a rich atmosphere.</p>
+<p id="p-0095" num="0094">At step S<b>14</b>, ECU <b>25</b> examines whether or not the NOx accumulation quantity Qnox in NOx trap catalyst <b>13</b> calculated at step S<b>3</b> becomes greater than or equal to a predetermined quantity NOx<b>1</b> and thereby examines whether the regeneration timing is reached, that is, whether the NOx regeneration is necessary or not.</p>
+<p id="p-0096" num="0095">If the NOx accumulation Qnox is less than predetermined quantity NOx<b>1</b> (Qnox&#x3c;NOx<b>1</b>), ECU <b>25</b> considers that NOx regeneration is not necessary, and terminates the process of <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0097" num="0096">On the other hand, if the NOx accumulation quantity Qnox is equal to or more than predetermined quantity NOx<b>1</b> (Qnox&#x2267;NOx<b>1</b>), it is determined that NOx regeneration is necessary. At step <b>901</b> in <figref idref="DRAWINGS">FIG. 11</figref>, ECU <b>25</b> sets the rq_sp flag (NOx regeneration request flag) RQsp to 1 to issue an NOx regeneration request. Instead, it is optional to determine the regeneration timing in accordance with the travel distance of the vehicle and the exhaust gas pressure sensed by exhaust gas pressure sensor <b>17</b>. When the travel distance after the previous regeneration exceeds a predetermined distance and the exhaust pressure exceeds a predetermined threshold value, ECU <b>25</b> produces the NOx regeneration request. Thus, each time a predetermined distance is traveled, the combustion control system changes over the combustion mode from the normal operation mode to the combustion mode to purge NOx trapped in NOx trap catalyst <b>13</b>.</p>
+<p id="p-0098" num="0097"><figref idref="DRAWINGS">FIG. 3</figref> shows a DPF regeneration (melting prevention) process in the warped-up state of NOx trap catalyst <b>13</b> performed when the DPF regeneration mode flag Freg (Freg=1) is judged to be one at step S<b>6</b>.</p>
+<p id="p-0099" num="0098">At step S<b>101</b>, ECU <b>25</b> considers that predetermined condition is met for combustion changeover, and changes over the combustion mode from the normal lean combustion to the split retard combustion according to this embodiment. That is, when at least one of a request for an increase in the exhaust gas temperature and a request for a rich operation in a region equal to or less than the stoichiometry, is produced in accordance with a sensed or estimated condition of the exhaust purifying device (<b>13</b> and/or <b>14</b>), the combustion control system changes over the combustion mode from the normal lean operation to the split retard combustion mode in which a main combustion process for generating main torque and at least one preliminary combustion process prior to the main combustion.</p>
+<p id="p-0100" num="0099">When a combustion changeover command is produced, the combustion mode is changed over by the flow of steps S<b>1101</b> to S<b>1104</b> shown in <figref idref="DRAWINGS">FIG. 29</figref>. The combustion is changed over in this manner whenever a combustion changeover command is produced.</p>
+<p id="p-0101" num="0100">In response to a combustion changeover command ascertained at S<b>1101</b>, the combustion control system first performs a preliminary fuel injection to produce preliminary combustion at step S<b>1102</b>. The fuel injection quantity for the preliminary fuel injection is determined as shown in <figref idref="DRAWINGS">FIG. 27</figref>, in accordance with engine speed Ne and the fuel injection quantity Q, and the fuel injection timing for the preliminary fuel injection is determined as shown in <figref idref="DRAWINGS">FIG. 28</figref> in accordance with engine speed Ne and fuel injection quantity Q.</p>
+<p id="p-0102" num="0101">At step S<b>1103</b>, the combustion control system performs a main fuel injection for the main combustion. The injection timing for the main injection is determined in engine speed Ne and fuel injection quantity Q, as shown in <figref idref="DRAWINGS">FIG. 19</figref>. The injection quantity of the main injection is calculated by multiplying the fuel injection quantity before the changeover, by a correction coefficient shown in <figref idref="DRAWINGS">FIG. 23</figref>. Thus, even if the injection timing of the main combustion is largely retarded, the torque is held substantially equal to the torque before the combustion changeover.</p>
+<p id="p-0103" num="0102">As the injection quantity and injection timing for the main combustion are thus shifted after the preliminary combustion is realized first, the combustion control system can shift the combustion state promptly.</p>
+<p id="p-0104" num="0103">At step S<b>102</b> of <figref idref="DRAWINGS">FIG. 3</figref>, ECU <b>25</b> controls the exhaust air-fuel ratio to a target air-fuel ratio. The target air-fuel ratio in the regeneration of DPF <b>14</b> differs depending on the PM accumulation quantity of deposited PM. Therefore, the PM accumulation quantity of deposited PM is predicted or estimated from an exhaust pressure threshold value of DPF <b>14</b> shown in <figref idref="DRAWINGS">FIG. 20</figref> and the exhaust gas is controlled to a target air-fuel ratio corresponding to the predicted quantity of deposited PM shown in <figref idref="DRAWINGS">FIG. 21</figref>.</p>
+<p id="p-0105" num="0104">After the combustion mode is changed over to the split retard combustion mode at S<b>101</b>, the exhaust air-fuel ratio is controlled to the target exhaust air-fuel ratio by throttle valve <b>6</b> or EGR valve <b>19</b>. To realize a target intake air quantity, the quantity of air is controlled by throttle valve <b>6</b> to a target air quantity (target intake air quantity for operation at &#x3bb;=1) calculated by multiplying the target air-fuel ratio by a value in a map shown in <figref idref="DRAWINGS">FIG. 22</figref>. If the air-fuel ratio is deviated from the target value after the quantity of air is controlled to the quantity of air shown in <figref idref="DRAWINGS">FIG. 22</figref>, the air-fuel ratio is adjusted to the target air-fuel ratio by throttle valve <b>6</b> or EGR valve <b>19</b>.</p>
+<p id="p-0106" num="0105">However, at the time of combustion changeover to the split retard combustion mode, the fuel injection timing is largely shifted in the retard direction. Therefore, in addition to the above-mentioned control of the intake air quantity, the combustion control system of this example corrects the target intake air quantity of <figref idref="DRAWINGS">FIG. 22</figref> and the fuel injection quantity, with a torque correction coefficient determined in dependence on the target fuel injection timing as shown in <figref idref="DRAWINGS">FIG. 23</figref>, for restraining torque changes in torque at the time of combustion changeover. Moreover, if the target air-fuel ratio &#x3bb; is reduced to 1 or a value close to one, pumping loss due to intake air throttle occurs. Therefore, the control system of this example corrects the target intake air quantity and the fuel injection quantity to values calculated by multiplication by a correction coefficient determined in accordance with the target &#x3bb;, as shown in <figref idref="DRAWINGS">FIG. 30</figref>.</p>
+<p id="p-0107" num="0106">At step S<b>103</b>, ECU <b>25</b> examines whether or not the temperature of DPF <b>14</b> is equal to or higher than a target lower limit value (predetermined temperature) T<b>22</b> during regeneration (DPF temperature&#x2267;T<b>22</b>). If the DPF temperature is equal to or higher than the target temperature lower limit value T<b>22</b> (DPF temperature&#x2267;T<b>22</b>), ECU <b>25</b> proceeds from S<b>103</b> to step S<b>104</b>. On the other hand, if it is less than the target lower limit value T<b>22</b> (DPF temperature&#x3c;T<b>22</b>), ECU <b>25</b> proceeds from S<b>103</b> to steps <b>111</b> and <b>112</b>.</p>
+<p id="p-0108" num="0107">At step S<b>104</b>, ECU <b>25</b> examines whether or not the temperature of DPF <b>14</b> is equal to or lower than a target upper limit value (predetermined temperature) T<b>21</b> during regeneration (DPF temperature&#x2266;T<b>21</b>). If the DPF temperature is equal to or lower than the target temperature upper limit value T<b>21</b> (DPF temperature&#x2266;T<b>21</b>), ECU <b>25</b> proceeds from S<b>104</b> to step S<b>105</b>. On the other hand, if it is over the target temperature upper limit value T<b>21</b> (DPF temperature&#x3e;T<b>21</b>), ECU <b>25</b> proceeds to steps <b>109</b> and <b>110</b>.</p>
+<p id="p-0109" num="0108">At step S<b>105</b>, ECU <b>25</b> examines whether or not a time t taken for controlling the exhaust air-fuel ratio to the target value is over a reference time tDPFreg<b>1</b> (t&#x3e;tDPFreg<b>1</b>). If the time t elapsed for the exhaust air-fuel ratio control is longer than the reference time tDPFreg<b>1</b> (t&#x3e;tDPFreg<b>1</b>), ECU proceeds to step S<b>106</b>. Thus, this combustion control system can burn and remove the PM deposited in DPF <b>14</b> securely. On the other hand, if it is determined that the time t is not over the reference time tDPFreg<b>1</b> (t&#x2266;tDPFreg<b>1</b>), ECU <b>25</b> terminates the process of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0110" num="0109">At step S<b>106</b>, the combustion control system returns the combustion mode from the split retard combustion mode to the normal combustion mode, and thereby terminates the operation for heating DPF <b>14</b>. Thereafter, at step S<b>107</b>, ECU <b>25</b> resets the reg flag Freg of the DPF regeneration mode to 0, and terminates the regeneration of DPF <b>14</b>.</p>
+<p id="p-0111" num="0110">At step S<b>108</b> following S<b>107</b>, ECU <b>25</b> sets the rec flag Frec of the melting prevention mode to one. By so doing, this combustion control system protects DPF <b>14</b> from being damaged by melting due to burning-up of PM left unburned in DPF <b>14</b> after the end of DPF regeneration, by abrupt increase in the exhaust air-fuel ratio. Thus, ECU <b>25</b> terminates the process of <figref idref="DRAWINGS">FIG. 3</figref> by setting the rec flag Frec for the melting prevention mode after the regeneration mode or the sulfur poisoning recovering mode.</p>
+<p id="p-0112" num="0111">At step S<b>111</b> reached from S<b>103</b>, the combustion control system retards the main fuel injection timing for the main combustion. Thus, the control system of this example increases the exhaust gas temperature by retarding the fuel injection timing for the main combustion by a predetermined amount when the DPF temperature becomes lower than the lower limit value T<b>22</b> (DPF temperature&#x3c;T<b>22</b>) during DPF regeneration.</p>
+<p id="p-0113" num="0112">At step S<b>112</b>, ECU <b>25</b> adjusts torque in accordance with the amount of retard of the main fuel injection timing for the main combustion. Since torque is lowered by the retardation of the main fuel injection timing, ECU <b>25</b> calculates a target torque correction coefficient in accordance with the amount of retardation by using a torque correction coefficient calculation map of a torque correction coefficient with respect to the fuel injection timing for the main combustion shown in <figref idref="DRAWINGS">FIG. 23</figref>; and adjusts the torque by using the calculated torque correction coefficient. Then, ECU <b>25</b> terminates the process of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0114" num="0113">At step S<b>109</b> reached from S<b>104</b>, the combustion control system of this example advances the main fuel injection timing for the main combustion. Thus, the control system decreases the exhaust gas temperature by advancing the main furl injection timing by a predetermined amount when the DPF temperature becomes higher than the upper limit value T<b>21</b> (DPF temperature&#x3e;T<b>21</b>) during DPF regeneration.</p>
+<p id="p-0115" num="0114">At step S<b>110</b>, ECU <b>25</b> calculates the target torque correction coefficient in accordance with the amount of the advance by using the torque correction coefficient calculation map shown in <figref idref="DRAWINGS">FIG. 23</figref>; and adjusts the torque by using the calculated torque correction coefficient. Then, ECU <b>25</b> terminates the process of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0116" num="0115"><figref idref="DRAWINGS">FIG. 4</figref> shows the process for the sulfur poisoning recovery.</p>
+<p id="p-0117" num="0116">At step S<b>201</b>, the combustion control system changes over the combustion mode to the split retard combustion mode, like S<b>101</b> of <figref idref="DRAWINGS">FIG. 3</figref>, in response to a request for the sulfur poisoning recovery at a high exhaust gas temperature in a rich atmosphere.</p>
+<p id="p-0118" num="0117">At step S<b>202</b>, the control system controls the exhaust air-fuel ratio to the stoichiometry since the sulfur content accumulation quantity Qs of deposited sulfur content in NOx trap catalyst <b>13</b> has reached the predetermined quantity. Then, the control system throttles the intake air flow by reducing the opening of throttle valve <b>6</b> to attain the target intake air quantity shown in <figref idref="DRAWINGS">FIG. 22</figref> (the intake air quantity to realize &#x3bb;=1), and thus achieves the target air-fuel ratio. If the actual air-fuel ratio is deviated from the target air-fuel ratio, the control system adjusts the exhaust air-fuel ratio by throttle valve <b>6</b> or EGR valve <b>19</b>. Thus, the intake air quantity and fuel injection quantity are corrected in accordance with the fuel injection timing for the main combustion, like step S<b>102</b>.</p>
+<p id="p-0119" num="0118">At step S<b>203</b>, ECU <b>25</b> examines whether or not the temperature of NOx trap catalyst <b>13</b> is higher than a predetermined temperature T<b>4</b> (catalyst temperature&#x3e;T<b>4</b>). For example, in the case where a Ba-based NOx trap catalyst is used as NOx trap catalyst <b>13</b>, the temperature must be higher than 600&#xb0; C. in a rich to stoichiometric atmosphere and therefore the predetermined temperature T<b>4</b> is set equal to 600&#xb0; C.</p>
+<p id="p-0120" num="0119">If the catalyst temperature is higher than the predetermined temperature T<b>4</b> (catalyst temperature&#x3e;T<b>4</b>), ECU <b>25</b> proceeds from S<b>203</b> to step S<b>204</b>. On the other hand, if the catalyst temperature is equal to or lower than predetermined temperature T<b>4</b> (catalyst temperature&#x2266;T<b>4</b>), ECU <b>25</b> proceeds to step S<b>210</b>.</p>
+<p id="p-0121" num="0120">At step <b>204</b>, ECU <b>25</b> examines whether or not the sulfur poisoning recovery operation is carried out at a target air-fuel ratio and at a target bed temperature for a predetermined time tdesul (t&#x3e;tdesul). If the sulfur poisoning recover operation is continued properly for a time longer than tdesul (t&#x3e;tdesul), ECU <b>25</b> proceeds to step S<b>205</b>. On the other hand, if the sulfur poisoning recovery operation is not yet carried out sufficiently (t&#x2266;tdesul), ECU <b>25</b> terminates the process of <figref idref="DRAWINGS">FIG. 4</figref>.</p>
+<p id="p-0122" num="0121">At step S<b>205</b>, ECU <b>25</b> cancels the stoichiometric operation since the sulfur poisoning recovery is finished.</p>
+<p id="p-0123" num="0122">At step S<b>206</b>, ECU <b>25</b> sets the rec flag Frec of the melting prevention mode (Frec=1). Thus, the control system protects DPF <b>14</b> from being damaged by melting due to burning-up of PM left in DPF <b>14</b> under a condition of a high temperature after the end of sulfur poisoning recovery, by abrupt increase in the exhaust air-fuel ratio.</p>
+<p id="p-0124" num="0123">At step S<b>207</b>, ECU <b>25</b> resets the desul flag Fdesul to zero since the sulfur poisoning recovery mode has ended.</p>
+<p id="p-0125" num="0124">At step S<b>208</b>, ECU <b>25</b> resets the sulfur content accumulation quantity Qs of deposited sulfur content in NOx trap catalyst <b>13</b> to zero (Qs=0) since the sulfur poisoning recovering operation is finished.</p>
+<p id="p-0126" num="0125">At step S<b>209</b>, ECU <b>25</b> resets the rq_sp flag RQsp for the NOx regeneration to 0 (RQsp=0). This is because by the sulfur poisoning recover, NOx trap catalyst <b>13</b> is exposed to the condition of stoichiometric air-fuel ratio for a long time, and hence NOx regeneration is carried out. Then, if a request for NOx regeneration is present, the NOx regeneration is carried out simultaneously with the sulfur poisoning recovery.</p>
+<p id="p-0127" num="0126">Step S<b>210</b> is reached from S<b>203</b> when the catalyst temperature is lower than or equal to T<b>4</b>. Operations in S<b>210</b> and S<b>211</b> are similar to the above-mentioned operations of steps S<b>111</b> and S<b>112</b> in <figref idref="DRAWINGS">FIG. 3</figref>. That is, at step <b>210</b>, the control system retards the fuel injection timing for the main combustion by a predetermined amount to increase the exhaust gas temperature since the temperature of NOx trap catalyst <b>13</b> is equal to or lower than the predetermined temperature T<b>4</b> (catalyst temperature&#x2266;T<b>4</b>).</p>
+<p id="p-0128" num="0127">At step S<b>211</b>, ECU <b>25</b> calculates the target torque correction coefficient in accordance with the amount of the retard by using the torque correction coefficient calculation map shown in <figref idref="DRAWINGS">FIG. 23</figref>; and adjusts the torque by using the calculated torque correction coefficient. Then, ECU <b>25</b> terminates the process of <figref idref="DRAWINGS">FIG. 4</figref>.</p>
+<p id="p-0129" num="0128"><figref idref="DRAWINGS">FIG. 5</figref> shows a rich spike control process performed when Fsp=1.</p>
+<p id="p-0130" num="0129">At step S<b>301</b>, the combustion control system changes over the combustion mode. In this example, the combustion mode is changed over to the split retard combustion mode.</p>
+<p id="p-0131" num="0130">At step S<b>302</b>, the air-fuel ratio is controlled to a predetermined target air-fuel ratio for carrying out the rich spike control. The target air-fuel ratio is realized by adjusting the intake air quantity to the intake air quantity shown in <figref idref="DRAWINGS">FIG. 24</figref>. Thus, when the rich spike control is carried out, the combustion control system supplies a reducing agent into the exhaust gas upstream of NOx trap catalyst <b>13</b> at proper timing in short cycles, and thereby lowers the air-fuel ratio of the exhaust gas flowing into NOx trap catalyst <b>13</b> temporarily so that NOx trapped in NOx trap catalyst <b>13</b> is released and reduced.</p>
+<p id="p-0132" num="0131">At step S<b>303</b>, ECU <b>25</b> examines whether or not the time taken for carrying out the rich spike control (at a rich condition) is over a predetermined time tspike (t&#x3e;tspike). If it is over the predetermined time tspike (t&#x3e;tspike), ECU <b>25</b> proceeds to step S<b>304</b>. On the other hand, if it is not over the predetermined time tspike (t&#x2266;tspike), ECU <b>25</b> terminates the process of <figref idref="DRAWINGS">FIG. 5</figref>.</p>
+<p id="p-0133" num="0132">At step S<b>304</b>, the spike flag Fsp is reset to 0 (Fsp=0). Thus, the control system carries out the rich spike control for the predetermined time tspike, and then cancels the rich operation at the end of the predetermined time tspike.</p>
+<p id="p-0134" num="0133"><figref idref="DRAWINGS">FIG. 6</figref> shows the melting prevention control.</p>
+<p id="p-0135" num="0134">At step S<b>401</b>, the temperature of DPF <b>14</b> is detected. If it is difficult to directly detect the temperature of DPF <b>14</b>, the temperature of DPF <b>14</b> is estimated from a substitute parameter (such as the exhaust gas temperature).</p>
+<p id="p-0136" num="0135">At step S<b>402</b>, ECU <b>25</b> examines whether or not the temperature of DPF <b>14</b> is lower than a predetermined temperature T<b>3</b> (DPF temperature&#x3c;T<b>3</b>). Thus, the control system determines whether or not the DPF temperature is lower than the temperature T<b>3</b> at which there is no risk of start of abrupt oxidation of PM (DPF temperature&#x3c;T<b>3</b>).</p>
+<p id="p-0137" num="0136">If the temperature of DPF <b>14</b> is lower than the predetermined temperature (DPF temperature&#x3c;T<b>3</b>), ECU <b>25</b> proceeds from S<b>402</b> to step S<b>403</b>. This enables avoidance of melting in DPF <b>14</b> even when the oxygen concentration becomes equal to that of the atmosphere.</p>
+<p id="p-0138" num="0137">On the other hand, if the temperature of DPF <b>14</b> is equal to or higher than the predetermined temperature T<b>3</b> (DPF temperature&#x2267;T<b>3</b>), ECU <b>25</b> proceeds from S<b>402</b> to step S<b>405</b>. At S<b>405</b>, the control system controls the exhaust air-fuel ratio to a value equal to or less than a predetermined value to lower the exhaust gas temperature, and then terminates the process of <figref idref="DRAWINGS">FIG. 6</figref>. In this case, since a lower exhaust gas temperature is desired, the exhaust air-fuel ratio is controlled to the predetermined value by the normal lean combustion (combustion shown in <figref idref="DRAWINGS">FIG. 13</figref>) instead of the split retard combustion. Then, the intake air quantity is set to the target intake air quantity shown in <figref idref="DRAWINGS">FIG. 25</figref>. If the sensor output is deviated from the target air-fuel ratio, the target air-fuel ratio is realized by adjusting throttle valve <b>6</b> or EGR valve <b>19</b>.</p>
+<p id="p-0139" num="0138">At step S<b>403</b>, since there is no risk of melting of DPF <b>14</b>, the control system terminates the air-fuel ratio control.</p>
+<p id="p-0140" num="0139">At step S<b>404</b>, rec flag Frec of the melting prevention mode is reset to 0 (Frec=0). The melting prevention mode thus ends.</p>
+<p id="p-0141" num="0140"><figref idref="DRAWINGS">FIG. 7</figref> shows a process for determining the priority in the case where a DPF regeneration request and one or both of a NOx regeneration request and a sulfur poisoning recovery request are simultaneously issued.</p>
+<p id="p-0142" num="0141">At step S<b>501</b>, ECU <b>25</b> checks the sulfur content accumulation quantity Qs to determine whether or not the sulfur content accumulation quantity Qs of deposited sulfur content is less than predetermined quantity S<b>1</b> requiring the sulfur poisoning recovery or desulfurization. If it is less than predetermined quantity S<b>1</b> (Qs&#x3c;S<b>1</b>), ECU <b>25</b> proceeds from S<b>501</b> to step S<b>502</b>. On the other hand, if it is equal to or more than predetermined quantity S<b>1</b> (Qs&#x2267;S<b>1</b>), ECU <b>25</b> proceeds to the process of <figref idref="DRAWINGS">FIG. 10</figref>.</p>
+<p id="p-0143" num="0142">At step S<b>502</b>, ECU <b>25</b> checks the presence/absence of a NOx regeneration request (spike request) RQsp. If there is no NOx regeneration request (RQsp=0), ECU <b>25</b> proceeds to step S<b>503</b>. On the other hand, if there is a NOx regeneration request (RQsp=1), ECU <b>25</b> proceeds to step S<b>506</b>.</p>
+<p id="p-0144" num="0143">At step S<b>503</b>, ECU <b>25</b> examines whether or not the NOx accumulation quantity Qnox of deposited NOx is less than predetermined quantity NOx<b>1</b> that requires NOx regeneration (Qnox&#x3c;NOx<b>1</b>) after the DPF regeneration request is issued. If it is less than the predetermined quantity NOx<b>1</b> (Qnox&#x3c;NOx<b>1</b>), ECU <b>25</b> proceeds to step S<b>504</b>. On the other hand, if it is equal to or more than the predetermined quantity NOx<b>1</b> (Qnox&#x2267;NOx<b>1</b>), ECU <b>25</b> proceeds to the process of <figref idref="DRAWINGS">FIG. 11</figref>.</p>
+<p id="p-0145" num="0144">At step S<b>504</b>, ECU <b>25</b> examines whether or not the operating point is in a DPF regeneration and SOx regeneration (sulfur poisoning recovery or desulfurization) permission region. In this example, ECU <b>25</b> determines whether or not the operating point is in the DPF regeneration and SOx regeneration permission region, in accordance with the current engine rotational speed Ne and load, by using a DPF&#xb7;SOx regeneration permission map shown in <figref idref="DRAWINGS">FIG. 26</figref>. If the current operating point determined by the current engine speed Ne and engine load is in the regeneration permission region, ECU <b>25</b> proceeds to step S<b>505</b>. On the other hand, if it is not in the regeneration permission region and hence the answer of S<b>504</b> is negative, ECU <b>25</b> terminates the process of <figref idref="DRAWINGS">FIG. 7</figref>.</p>
+<p id="p-0146" num="0145">At step S<b>505</b>, ECU <b>25</b> set the reg flag Freg of the regeneration mode to 1 (Freg=1). Thus, since there are no requests for NOx regeneration and SOx regeneration and the engine operating point is in the DPF regeneration permission region in the state where the DPF regeneration request is made, the combustion control system proceeds to the DPF regeneration.</p>
+<p id="p-0147" num="0146">At step S<b>506</b> reached from S<b>502</b>, ECU <b>25</b> examines whether a low NOx condition is present or not. This is for judging whether the engine is in a condition of low NOx emission, for example, a steady state condition, since both the DPF regeneration request and the NOx regeneration request are issued.</p>
+<p id="p-0148" num="0147">If the low NOx condition is affirmed, ECU <b>25</b> proceeds to step S<b>507</b>. This is for the following reasons. Under the condition of low NOx emission, even if the regeneration of trapped NOx is delayed more or less, the exhaust from the tail pipe is hardly deteriorated. Therefore, the regeneration of DPF <b>14</b>, which largely affects the driveability, is preferentially carried out. Under a condition of high NOx emission, for example, under an accelerating condition, the regeneration of NOx is preferentially carried out in order to prevent deterioration of exhaust from the tail pipe.</p>
+<p id="p-0149" num="0148">On the other hand, if the low NOx condition is not affirmed and hence the answer of S<b>506</b> is negative, ECU <b>25</b> proceeds to step S<b>508</b>, and sets the sp flag Fsp to 1 (Fsp=1). The process of <figref idref="DRAWINGS">FIG. 7</figref> then ends.</p>
+<p id="p-0150" num="0149">At step S<b>507</b>, ECU <b>25</b> examines whether or not the bed temperature Tbed of DPF <b>14</b> is higher than the predetermined temperature T<b>3</b> (Tbed&#x3e;T<b>3</b>). Whether to preferentially carry out the NOx regeneration or not is thus judged. If DPF bed temperature Tbed is higher than predetermined temperature T<b>3</b> (Tbed&#x3e;T<b>3</b>), ECU <b>25</b> proceeds to step S<b>504</b>. On the other hand, if it is equal to or lower than the predetermined temperature T<b>3</b> (Tbed&#x2266;T<b>3</b>), ECU <b>25</b> proceeds to S<b>508</b>. This is for the following reasons. When temperature rise of DPF <b>14</b> starts, if the temperature is equal to or less than T<b>3</b> (Tbed&#x2266;T<b>3</b>), at which NOx trap catalyst <b>13</b> carried by DPF <b>14</b> is activated, it takes time until a regeneration possible temperature is reached after the temperature rise is started. Therefore, the risk of deterioration of NOx from the tail pipe during the temperature rise is considered, and the regeneration of NOx is preferentially carried out.</p>
+<p id="p-0151" num="0150">At step <b>508</b>, since priority is given to the NOx regeneration, ECU <b>25</b> sets the spike flag to one (Fsp=1) and proceeds to the NOx regeneration.</p>
+<p id="p-0152" num="0151"><figref idref="DRAWINGS">FIG. 8</figref> shows the process for determining the priority between the SOx regeneration and NOx regeneration in the case where a SOx regeneration request and a NOx regeneration request are simultaneously issued.</p>
+<p id="p-0153" num="0152">At step S<b>601</b>, ECU <b>25</b> examines whether or not the PM accumulation quantity Qpm of PM deposited in DPF <b>14</b> is less than predetermined quantity PM<b>1</b> (Qpm&#x3c;PM<b>1</b>). If it is less than the predetermined quantity PM<b>1</b> (Qpm&#x3c;PM<b>1</b>), ECU <b>25</b> proceeds to step S<b>602</b>. On the other hand, if it is equal to or more than predetermined quantity PM<b>1</b> (Qpm&#x2267;PM<b>1</b>), the combustion control system sets rq_DPF flag RQdpf to 1 at S<b>701</b> of <figref idref="DRAWINGS">FIG. 9</figref>, and carries out the regeneration of DPF <b>14</b>. Thus, priority is given to the DPF regeneration even if the SOx regeneration request is issued.</p>
+<p id="p-0154" num="0153">At step S<b>602</b>, ECU <b>25</b> examines whether or not the bed temperature Tbed of NOx trap catalyst <b>13</b> is higher than a predetermined temperature T<b>1</b> (Tbed&#x3e;T<b>1</b>). The predetermined temperature T<b>1</b> is a temperature suitable for SOx regeneration of the carried NOx trap catalyst <b>13</b>. If the bed temperature Tbed of NOx trap catalyst <b>13</b> is higher than predetermined temperature T<b>1</b> (Tbed&#x3e;T<b>1</b>), ECU <b>25</b> proceeds From S<b>602</b> to step S<b>603</b>. On the other hand, if it is equal to or lower than the predetermined temperature T<b>1</b> (Tbed&#x2266;T<b>1</b>), ECU <b>25</b> proceeds from S<b>602</b> to step S<b>605</b>. This is for the following reason. Since it takes time to reach the temperature that enables regeneration after temperature rise is started, the risk of deterioration of NOx from the tail pipe during the temperature rise is considered and the NOx regeneration is preferentially carried out.</p>
+<p id="p-0155" num="0154">At step S<b>603</b>, ECU <b>25</b> determines whether or not the engine operating point is in the DPF and SOx regeneration (sulfur poisoning reocovery or desulfurization) permission region. The region where these regenerations are possible is judged on the basis of the current engine rotational speed Ne and load, using the DPF regeneration and SOx regeneration permission region map shown in <figref idref="DRAWINGS">FIG. 26</figref>, similarly to the above-described step S<b>504</b>. If the current engine operating point determined by the current engine speed and load is in the regeneration permission region, ECU <b>25</b> proceeds to step S<b>604</b>. On the other hand, if it is not in the regeneration permission region (if it is in the regeneration impermission region), the process of <figref idref="DRAWINGS">FIG. 8</figref> ends.</p>
+<p id="p-0156" num="0155">At step S<b>604</b>, ECU <b>25</b> sets the desul flag Fdesul to one (Fdesul=1) and terminates the process of <figref idref="DRAWINGS">FIG. 8</figref>. This is for shifting to the SOx regeneration because all the conditions are met, that is, there are no spike request and no DPF regeneration request, the bed temperature is equal to or higher than the predetermined value, and the operating point is in the regeneration permission region.</p>
+<p id="p-0157" num="0156">At step S<b>605</b> reached from S<b>602</b>, ECU <b>25</b> checks whether a spike request is present or absent. If there is no spike request (RQsp=0), ECU <b>25</b> proceeds to step S<b>606</b>. Thus, even when the SOx regeneration request is issued, if the temperature of NOx trap catalyst <b>13</b> is equal to or lower than the predetermined temperature T<b>1</b> (NOx trap catalyst temperature&#x2266;T<b>1</b>), the NOx regeneration is preferentially carried out to restrain NOx deterioration from the tail pipe.</p>
+<p id="p-0158" num="0157">On the other hand, if the spike request is present (RQsp=1), ECU <b>25</b> proceeds from S<b>605</b> to step S<b>607</b> and sets the NOx regeneration flag Fsp to one (Fsp=1) to shift to the NOx regeneration. Thus, it is determined that NOx regeneration should be preferentially carried out even if the SOx regeneration request is issued.</p>
+<p id="p-0159" num="0158">At step S<b>606</b>, ECU <b>25</b> examines whether or not the NOx accumulation quantity of deposited NOx is less than the predetermined quantity NOx<b>1</b> that requires NOx regeneration (Qnox&#x3c;NOx<b>1</b>) after the issuance of the SOx regeneration request. If it is less than predetermined quantity NOx<b>1</b> (Qnox&#x3c;NOx<b>1</b>), the process of <figref idref="DRAWINGS">FIG. 8</figref> ends. On the other hand, if it is equal to or more than predetermined quantity NOx<b>1</b> (Qnox&#x2267;NOx<b>1</b>), ECU <b>25</b> proceeds to step S<b>901</b> in <figref idref="DRAWINGS">FIG. 11</figref>, and sets the rq_sp flag RQsp to one (RQsp=1) to issue a NOx regeneration request.</p>
+<p id="p-0160" num="0159"><figref idref="DRAWINGS">FIG. 12</figref> shows the process to warm up NOx trap catalyst <b>13</b> by utilizing the split retard combustion control mode of the preliminary combustion and the main combustion. The process of <figref idref="DRAWINGS">FIG. 12</figref> is performed when the answer of step S<b>2</b> of <figref idref="DRAWINGS">FIG. 2</figref> is negative.</p>
+<p id="p-0161" num="0160">At step S<b>1001</b>, ECU <b>25</b> examines whether or not a warm-up promoting operation of NOx trap catalyst <b>13</b> is possible. This is because it is determined that the temperature of NOx trap catalyst <b>13</b> is equal to or lower than the activation temperature T<b>5</b> (catalyst temperature&#x2266;T<b>5</b>) and hence the temperature rise of NOx trap catalyst <b>13</b> by the warm-up promoting operation is demanded. This judgment is made, based on the current engine rotational speed Ne and load, by checking whether or not the engine operating point determined by the current engine speed and load is in the DPF and SOx regeneration permission region shown in <figref idref="DRAWINGS">FIG. 26</figref>.</p>
+<p id="p-0162" num="0161">If the warm up promoting operation is permitted, ECU <b>25</b> proceeds to step S<b>1002</b>. On the other hand, if the engine operating point is not in the permission region, and the warm up promoting operation is not permitted, the process of <figref idref="DRAWINGS">FIG. 12</figref> ends.</p>
+<p id="p-0163" num="0162">At step S<b>1002</b>, the control system changes over the combustion mode to the split retard combustion mode. Thus, the temperature in the cylinder near the compression top dead center is raised by carrying out the preliminary combustion and the range of ignition delay of the main combustion is expanded. By performing the split retard combustion, this combustion control system increases the exhaust gas temperature, and thereby promotes the warm up of NOx trap catalyst <b>13</b>.</p>
+<p id="p-0164" num="0163">At step S<b>1003</b> following S<b>1002</b>, ECU <b>25</b> examines whether or not the temperature of NOx trap catalyst <b>13</b> has become higher than the activation temperature (predetermined temperature) T<b>5</b> (catalyst temperature&#x3e;T<b>5</b>). If it is higher than predetermined temperature T<b>5</b> (catalyst temperature&#x3e;T<b>5</b>), ECU <b>25</b> proceeds to step S<b>1004</b>. On the other hand, if it is equal to or lower than predetermined temperature T<b>5</b> (catalyst temperature&#x2266;T<b>5</b>), the process of <figref idref="DRAWINGS">FIG. 12</figref> ends and the combustion control in the split retard mode is continued.</p>
+<p id="p-0165" num="0164">At step S<b>1004</b>, the warm up promoting operation is canceled. Thus, since it is judged that NOx trap catalyst <b>13</b> has been sufficiently warmed up, that is, NOx trap catalyst <b>13</b> has been activated, the control system changes over the combustion mode from the split retard combustion mode to the normal combustion mode, and thereby terminates the warm up of NOx trap catalyst <b>13</b>.</p>
+<p id="p-0166" num="0165">According to the illustrated embodiment of the present invention, the combustion control system or apparatus for internal combustion engine <b>1</b>, includes at least: an exhaust purifier or purifying device (NOx trap catalyst <b>13</b> and/or DPF <b>14</b>) disposed in exhaust passage <b>12</b> of the internal combustion engine; a combustion controlling actuator including at least one fuel injector <b>10</b> to produce main combustion, and to produce preliminary combustion prior to the main combustion; and a controller <b>25</b> including at least ECU <b>25</b> to control fuel injection to produce the preliminary combustion, and to control fuel injection to start the main combustion after an end of the preliminary combustion. Therefore, this combustion control system can increase the incylinder temperature beforehand by the preliminary combustion; thereby expand the range of ignition delay (retard limitation) of the main combustion; and reduce smoke emission. Thus, a desired rich atmosphere can be achieved in the cylinder.</p>
+<p id="p-0167" num="0166">The controller (<b>25</b>) performs a preliminary fuel injection to produce the preliminary combustion at or near top dead center, and to perform a main fuel injection to start the main combustion after the preliminary combustion is finished. The controller (<b>25</b>) is configured to control the combustion controlling actuator (including item <b>10</b>, <b>6</b> or <b>19</b>) in a split combustion mode (utilizing two or more separate combustion processes in one cycle, such as the split retard combustion mode) by controlling the fuel injection to produce the preliminary combustion at or near top dead center, and by controlling the fuel injection to start the main combustion after the end of the preliminary combustion when a split combustion request (such as Freg=1, Fdesul=1, Fsp=1, RQdpf=1, RQdesul=1, NO of S<b>2</b> or YES of S<b>1001</b>) is produced to bring the exhaust purifier to an operative state (such as a regenerated state or a warmed-up state).</p>
+<p id="p-0168" num="0167">The controller (<b>25</b>) is configured to control the combustion controlling actuator normally in a normal combustion mode, and to change over a combustion control mode from the normal combustion mode to the split combustion mode (at S<b>101</b>, S<b>201</b>, S<b>301</b>, or S<b>1002</b>) in response to the split combustion request produced in accordance with a sensed or estimated condition of the exhaust purifier.</p>
+<p id="p-0169" num="0168">The controller is configured to determine an estimated condition of the exhaust purifier and to produce the split combustion request in accordance with the estimated condition of the exhaust purifier, to request one of an increase in an exhaust gas temperature of the engine and a rich operation of the engine.</p>
+<p id="p-0170" num="0169">Moreover, according to this embodiment, the main combustion is pre-mixed combustion. Therefore, this system carries out the fuel injection for the main combustion in a high-temperature state, expand the range of ignition delay of the main combustion, and restrain the smoke emission effectively.</p>
+<p id="p-0171" num="0170">Also, according to this embodiment, the fuel injection quantity for the preliminary combustion is set equal to a fuel injection quantity necessary for the temperature in the cylinder at the time of fuel injection for the main combustion to exceed a temperature that enables self-ignition. Therefore, as the temperature in the cylinder is raised by fuel injection at the time of the preliminary combustion, a high temperature can be maintained in the cylinder when fuel injection for the main combustion is carried out, and combustion for each cycle can be stabilized.</p>
+<p id="p-0172" num="0171">Moreover, according to this embodiment, the combustion start timing of the main combustion is 20 degrees or more in terms of crank angle apart from the combustion start timing of the preliminary combustion. Therefore, the interval between the start of the preliminary combustion and the start of the main combustion can be made equal to or longer than a predetermined period, and it is possible to restrain deterioration of combustion in the main combustion and prevent deterioration of smoke.</p>
+<p id="p-0173" num="0172">Also, according to this embodiment, the end timing of the main combustion is 50 degrees or more apart in terms of crank angle from the compression top dead center. Therefore, by retarding the timing of the end of the main combustion as much as possible, this control system can prevent the combustion process of the main combustion from becoming sluggish and prevent deterioration in combustion noise.</p>
+<p id="p-0174" num="0173">Moreover, according to this embodiment, fuel injection for the preliminary combustion is carried out one compression stroke of the engine cycle. Therefore, the stability of ignition in the preliminary combustion can be secure.</p>
+<p id="p-0175" num="0174">Also, according to this embodiment, at least one of the fuel injection quantity and the fuel injection timing for the preliminary combustion is adjusted in accordance with the compression end temperature. Therefore, the fuel injection quantity for the preliminary combustion can be set to a minimum quantity in accordance with the compression end temperature under each operating condition, and the stability of the preliminary combustion can be realized. Also, the preliminary combustion can be finished certainly before the main combustion starts.</p>
+<p id="p-0176" num="0175">Moreover, according to this embodiment, in the main combustion, the exhaust temperature is controlled by varying the fuel injection timing. Therefore, the control system can control the exhaust gas temperature flexibly by controlling the combustion end timing of the main combustion.</p>
+<p id="p-0177" num="0176">Also, according to this embodiment, the control system controls the main combustion so as to hold the output torque produced by engine <b>1</b> constant. Therefore, by correcting the fuel injection quantity in accordance with the fuel injection timing of the main combustion, the control system can achieve a desired exhaust gas temperature or exhaust atmosphere and thereby restrain changes in torque at the time of combustion changeover and control of the exhaust temperature.</p>
+<p id="p-0178" num="0177">Moreover, according to this embodiment, filter (DPF) <b>14</b> for trapping exhaust particulate matter is provided as the exhaust purifying device. The request for the split combustion is produced when the quantity of exhaust particulate matter (PM) deposited in filter <b>14</b> amounts to predetermined quantity PM<b>1</b> (S<b>12</b>) and the temperature is to be increased for auto-oxidation of the exhaust particulate matter. Therefore, the control system can adjust the timing for carrying out combustion control adequately in accordance with the operating conditions (engine speed Ne and fuel injection quantity Q, for example) of engine <b>1</b>. Thus, the control system can determine the timing of regeneration for DPF <b>14</b> properly, change over the combustion to the split combustion mode timely, and thereby achieve stable regeneration of DPF with low smoke emission and high exhaust gas temperature.</p>
+<p id="p-0179" num="0178">Also, according to this embodiment, NOx trap catalyst <b>13</b> for trapping NOx at the time of lean operation is provided as the exhaust purifying device. The request for the split combustion mode is produced when NOx trapped in NOx trap catalyst <b>13</b> is to be purged. Therefore, the rich spike control can be carried out in the split combustion mode, and the purifying performance of NOx trap catalyst <b>13</b> can be maintained high.</p>
+<p id="p-0180" num="0179">When NOx is purged each time a predetermined distance is traveled (steps <b>3</b>, <b>12</b> to <b>14</b>), the control system can purge NOx at adequate intervals with a simple construction.</p>
+<p id="p-0181" num="0180">Also, according to this embodiment, NOx trap catalyst <b>13</b> for trapping NOx at the time of lean operation is provided as the exhaust purifying device. The request for the split combustion mode is produced when sulfur content (SOx) trapped in NOx trap catalyst <b>13</b> is to be purged. Therefore, sulfur poisoning recovery or desulfurization (SOx regeneration) can be carried out using the split combustion mode, and both rich conditions of low smoke emission and high exhaust gas temperature can be achieved. The performance of NOx trap catalyst <b>13</b> can be maximized.</p>
+<p id="p-0182" num="0181">Moreover, according to this embodiment, since sulfur content is purged each time a predetermined distance is traveled, NOx can be purged at adequate time intervals.</p>
+<p id="p-0183" num="0182">Also, according to this embodiment, NOx trap catalyst <b>13</b> for trapping NOx at the time of lean operation is provided as the exhaust purifying device. The request for the split combustion mode is produced when NOx trap catalyst <b>13</b> is cold (S<b>2</b>) and therefore NOx trap catalyst <b>13</b> is to be quickly warmed up. Therefore, the split combustion mode can be used at the time when NOx trap catalyst <b>13</b> is cold, and NOx trap catalyst <b>13</b> can be warmed up to an activation temperature in a short time.</p>
+<p id="p-0184" num="0183">Moreover, according to this embodiment, the end of the preliminary combustion is the end of heat generation. Therefore, the combustion can be changed over to the main combustion after heat generation of the pilot combustion ends.</p>
+<p id="p-0185" num="0184">In a low engine load region, the preliminary combustion can be carried out plural times. In this case, the control system can achieve both targets of low smoke emission and high exhaust temperature under low-load conditions.</p>
+<p id="p-0186" num="0185">According to one of various possible constructions or interpretations, a combustion control apparatus according to the illustrate embodiment, includes at least: means (<b>25</b>, S<b>3</b>, S<b>4</b>, S<b>5</b>, <b>20</b>-<b>23</b>, <b>50</b>) for determining an estimated condition of the exhaust purifier; means for producing a split combustion request in accordance with the estimated condition of the exhaust purifier (S<b>2</b>&#x2dc;S<b>14</b>); and means for controlling fuel injection to the engine in a split combustion mode (S<b>1102</b>, S<b>1103</b>) in response to the split combustion request.</p>
+<p id="p-0187" num="0186">This application is based on a prior Japanese Patent Application No. 2003-193310 filed in Japan on Jul. 8, 2003. The entire contents of this Japanese Patent Application No. 2003-193310 are hereby incorporated by reference.</p>
+<p id="p-0188" num="0187">Although the invention has been described above by reference to certain embodiments of the invention, the invention is not limited to the embodiments described above. Modifications and variations of the embodiments described above will occur to those skilled in the art in light of the above teachings. The scope of the invention is defined with reference to the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A combustion control apparatus for an internal combustion engine, comprising:
+<claim-text>an exhaust purifier in an exhaust passage of the internal combustion engine;</claim-text>
+<claim-text>a combustion controlling actuator to cause main combustion, and to cause preliminary combustion prior to the main combustion; and</claim-text>
+<claim-text>a controller to control fuel injection to produce the preliminary combustion, and to control fuel injection to start the main combustion after an end of the preliminary combustion;</claim-text>
+<claim-text>wherein the combustion controlling actuator includes a fuel injector to inject fuel directly into a combustion chamber of the engine; and the controller is configured to perform a preliminary fuel injection to produce the preliminary combustion at or near top dead center, and to perform a main fuel injection to start the main combustion after the preliminary combustion is finished such that a premixed combustion process is predominant in the main combustion, the preliminary fuel injection being immediately prior to the main fuel injection, and</claim-text>
+<claim-text>wherein the controller is configured to perform the preliminary fuel injection at such a timing as to cause a heat releasing process of the preliminary combustion to start before compression top dead center and to end after compression top dead center.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The combustion control apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller is configured to delay the start of the main combustion with respect to the end of the preliminary combustion.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The combustion control apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller is configured to perform the main fuel injection for the main combustion at a timing to start the main combustion after an end of a heat releasing process of the preliminary combustion.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The combustion control apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller is configured to start the main fuel injection for the main combustion at a timing to inject fuel in a state in which flame subsides in the combustion chamber, to prevent diffusive combustion process in the main combustion.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The combustion control apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller is configured to control a preliminary fuel injection quantity of the preliminary fuel injection to a smaller quantity required to increase an incylinder temperature in the combustion chamber, and to make a main fuel injection quantity of the main combustion greater than the preliminary fuel injection quantity, to produce engine torque with the main combustion.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The combustion control apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller is configured to control a preliminary fuel injection quantity for the preliminary fuel injection equal to a fuel quantity required to make an incylinder temperature in the combustion chamber at a fuel injection timing of the main combustion, higher than or equal to an auto ignition temperature enabling spontaneous ignition in the combustion chamber.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The combustion control apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein an amount of retard of a combustion start timing of the main combustion with respect to a combustion start timing of the preliminary combustion is equal to or greater than 20&#xb0; in crank angle.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The combustion control apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein an amount of retard of a combustion end timing of the main combustion with respect to compression top dead center is equal to or greater than 50&#xb0; in crank angle.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The combustion control apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller is configured to perform the preliminary fuel injection for the preliminary combustion during a compression stroke.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The combustion control apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller is configured to vary at least one of a fuel injection quantity and a fuel injection timing of the preliminary fuel injection for the preliminary combustion in accordance with a compression end temperature which is a temperature in the combustion chamber at an end of a compression stroke.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The combustion control apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller is configured to control an exhaust gas temperature of the engine by varying the fuel injection timing of the main combustion.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The combustion control apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller is configured to control the main combustion so as to hold torque produced by the engine constant.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The combustion control apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the combustion control apparatus further comprises the internal combustion engine which is a diesel engine.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The combustion control apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller is configured to control the fuel injector to inject the fuel of the main fuel injection after the end of the preliminary combustion.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The combustion control apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller is configured to perform the preliminary fuel injection to produce the preliminary combustion at the top dead center.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The combustion control apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller is configured to control the combustion controlling actuator in a split combustion mode by controlling the fuel injection to produce the preliminary combustion at or near top dead center, and by controlling the fuel injection to start the main combustion after the end of the preliminary combustion when a split combustion request is produced to bring the exhaust purifier to an operative state.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The combustion control apparatus as claimed in <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the controller is configured to control the combustion controlling actuator normally in a normal combustion mode, and to change over a combustion control mode from the normal combustion mode to the split combustion mode in response to the split combustion request produced in accordance with a condition of the exhaust purifier.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The combustion control apparatus as claimed in <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the controller is configured to determine an estimated condition of the exhaust purifier and to produce the split combustion request in accordance with the estimated condition of the exhaust purifier, to request one of an increase in an exhaust gas temperature of the engine and a rich operation of the engine.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The combustion control apparatus as claimed in <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the combustion control apparatus further comprises a condition sensor to collect information needed to determine the estimated condition of the exhaust purifying section.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The combustion control apparatus as claimed in <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the exhaust purifier includes a particulate filter to collect exhaust particulate matter, and the controller is configured to produce the split combustion request in accordance with an estimated particulate matter quantity of the particulate matter accumulated in the particulate filter, to increase an exhaust gas temperature for auto oxidation of the particulate matter in the particulate filter.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The combustion control apparatus as claimed in <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the exhaust purifier includes an NOx trap catalyst device to trap NOx in a lean operation of the engine, and the controller (<b>25</b>) is configured to produce the split combustion request at a time to purify the NOx trapped in the NOx trap device.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The combustion control apparatus as claimed in <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the controller is configured to produce the split combustion request (Fsp) in accordance with an estimated NOx quantity (Qnox) of the NOx trapped in the NOx trap device.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The combustion control apparatus as claimed in <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the controller is configured to produce the split combustion request in accordance with a distance traveled by a vehicle powered by the internal combustion engine.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The combustion control apparatus as claimed in <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the exhaust purifier includes an NOx trap device to trap NOx in a lean operation of the engine, and the controller is configured to produce the split combustion request at a time to purify sulfur content trapped in the NOx trap device.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The combustion control apparatus as claimed in <claim-ref idref="CLM-00024">claim 24</claim-ref>, wherein the controller is configured to produce the split combustion request in accordance with an estimated sulfur content quantity of the sulfur content trapped in the NOx trap device.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. The combustion control apparatus as claimed in <claim-ref idref="CLM-00024">claim 24</claim-ref>, wherein the controller is configured to produce the split combustion request in accordance with a distance traveled by a vehicle powered by the internal combustion engine.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text>27. The combustion control apparatus as claimed in <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the exhaust purifier includes an NOx trap catalyst device to trap NOx in a lean operation of the engine, and the controller is configured to produce the split combustion request at a time to warm up the NOx trap device.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text>28. The combustion control apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller is configured to perform a plurality of preliminary fuel injections to cause a plurality of heat releasing processes for the preliminary combustion prior to the main combustion so that at least one of the heat releasing processes of the preliminary combustion is produced at or near top dead center.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text>29. The combustion control apparatus as claimed in <claim-ref idref="CLM-00028">claim 28</claim-ref>, wherein the controller is configured to perform a plurality of preliminary fuel injections to cause a plurality of heat releasing processes for the preliminary combustion in a low engine load region.</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text>30. A combustion control process for an internal combustion engine provided with an exhaust purifier in an exhaust passage of the internal combustion engine, the combustion control process comprising:
+<claim-text>controlling fuel injection to produce preliminary combustion in an engine cycle by performing a preliminary fuel injection to produce the preliminary combustion at or near top dead center; and</claim-text>
+<claim-text>controlling fuel injection to start main combustion after an end of the preliminary combustion in the engine cycle by performing a main fuel injection such that a premixed combustion process is predominant in the main combustion, the preliminary fuel injection being immediately prior to the main fuel injection,</claim-text>
+<claim-text>the preliminary fuel injection being performed at such a timing as to cause a heat releasing process of the preliminary combustion to start before compression top dead center and to end after compression top dead center.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text>31. The combustion control process as claimed in <claim-ref idref="CLM-00030">claim 30</claim-ref>;
+<claim-text>determining an estimated condition of the exhaust purifier;</claim-text>
+<claim-text>producing a split combustion request in accordance with the estimated condition of the exhaust purifier;</claim-text>
+<claim-text>changeover a combustion control mode from a normal mode to a split combustion mode in response to the split combustion request; and</claim-text>
+<claim-text>controlling the fuel injection to produce the preliminary combustion and the fuel injection to start the main combustion after the end of the preliminary combustion in the split combustion mode.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00032" num="00032">
+<claim-text>32. The combustion control process as claimed in <claim-ref idref="CLM-00030">claim 30</claim-ref>, wherein the preliminary fuel injection for the preliminary combustion is performed during a compression stroke.</claim-text>
+</claim>
+<claim id="CLM-00033" num="00033">
+<claim-text>33. The combustion control process as claimed in <claim-ref idref="CLM-00030">claim 30</claim-ref>, wherein the preliminary fuel injection is performed at such a timing as to cause a heat releasing process of the preliminary combustion to start before a compression top dead center and to end after the compression top dead center.</claim-text>
+</claim>
+<claim id="CLM-00034" num="00034">
+<claim-text>34. The combustion control process as claimed in <claim-ref idref="CLM-00030">claim 30</claim-ref>, wherein the start of the main combustion is delayed with respect to the preliminary combustion.</claim-text>
+</claim>
+<claim id="CLM-00035" num="00035">
+<claim-text>35. The combustion control process as claimed in <claim-ref idref="CLM-00030">claim 30</claim-ref>, wherein the fuel of the main fuel injection is injected after the end of the preliminary combustion.</claim-text>
+</claim>
+<claim id="CLM-00036" num="00036">
+<claim-text>36. A combustion control apparatus for an internal combustion engine, comprising:
+<claim-text>means for determining an estimated condition of an exhaust purifier in an exhaust passage of the internal combustion engine;</claim-text>
+<claim-text>means for producing a split combustion request in accordance with the estimated condition of the exhaust purifier; and</claim-text>
+<claim-text>means for controlling fuel injection to the engine in a split combustion mode in response to the split combustion request by controlling fuel injection to perform a preliminary fuel injection to produce preliminary combustion and controlling fuel injection to perform a main fuel injection to start main combustion after an end of the preliminary combustion such that a premixed combustion process is predominant in the main combustion, the preliminary fuel injection being immediately prior to the main fuel injection,</claim-text>
+<claim-text>the means for controlling the fuel injection including means for performing the preliminary fuel injection at such a timing as to cause a heat releasing process of the preliminary combustion to start before compression top dead center and to end after compression top dead center.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00037" num="00037">
+<claim-text>37. The combustion control apparatus as claimed in <claim-ref idref="CLM-00036">claim 36</claim-ref>, wherein the means for controlling the fuel injection to the engine in the split combustion mode includes means for decreasing a percentage of diffusive combustion in the main combustion and instead increasing a percentage of premixed combustion in the main combustion by delaying a start of the main combustion after the end of the preliminary combustion.</claim-text>
+</claim>
+<claim id="CLM-00038" num="00038">
+<claim-text>38. The combustion control apparatus as claimed in <claim-ref idref="CLM-00036">claim 36</claim-ref>, wherein the fuel of the main fuel injection is injected after the end of the preliminary combustion. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

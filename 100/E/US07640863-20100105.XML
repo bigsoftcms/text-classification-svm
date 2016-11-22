@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640863-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640863</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11098224</doc-number>
+<date>20050404</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>148</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>E</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>25</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>10413003</main-classification>
+<further-classification>10413009</further-classification>
+</classification-national>
+<invention-title id="d0e53">System for storage and retrieval of warehousable objects</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>243244</doc-number>
+<kind>A</kind>
+<name>Goodell</name>
+<date>18810600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>620801</doc-number>
+<kind>A</kind>
+<name>Pratt</name>
+<date>18990300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>1101910</doc-number>
+<kind>A</kind>
+<name>Elmqvist</name>
+<date>19140600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2507887</doc-number>
+<kind>A</kind>
+<name>Cheney</name>
+<date>19500500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>187201</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2528265</doc-number>
+<kind>A</kind>
+<name>Cretors</name>
+<date>19501000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2612238</doc-number>
+<kind>A</kind>
+<name>Angelicola</name>
+<date>19520900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2632402</doc-number>
+<kind>A</kind>
+<name>Reussner</name>
+<date>19530300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2798267</doc-number>
+<kind>A</kind>
+<name>Anderson</name>
+<date>19570700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>164200</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>3168937</doc-number>
+<kind>A</kind>
+<name>Redford, et al.</name>
+<date>19650200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>3176628</doc-number>
+<kind>A</kind>
+<name>Reid</name>
+<date>19650400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>3533357</doc-number>
+<kind>A</kind>
+<name>Brandon</name>
+<date>19701000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>3774548</doc-number>
+<kind>A</kind>
+<name>Borst</name>
+<date>19731100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>3818836</doc-number>
+<kind>A</kind>
+<name>Swilley</name>
+<date>19740600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>3891062</doc-number>
+<kind>A</kind>
+<name>Geneste</name>
+<date>19750600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>3935822</doc-number>
+<kind>A</kind>
+<name>Kaufmann</name>
+<date>19760200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>4015537</doc-number>
+<kind>A</kind>
+<name>Graef et al.</name>
+<date>19770400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>4026388</doc-number>
+<kind>A</kind>
+<name>Creissels</name>
+<date>19770500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>4278165</doc-number>
+<kind>A</kind>
+<name>Nielsen</name>
+<date>19810700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>4550806</doc-number>
+<kind>A</kind>
+<name>Bocker</name>
+<date>19851100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>4602567</doc-number>
+<kind>A</kind>
+<name>Hedstrom</name>
+<date>19860700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>4627517</doc-number>
+<kind>A</kind>
+<name>Bor</name>
+<date>19861200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>4821845</doc-number>
+<kind>A</kind>
+<name>DeViaris</name>
+<date>19890400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>4961385</doc-number>
+<kind>A</kind>
+<name>Abouzakhm</name>
+<date>19901000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>5069141</doc-number>
+<kind>A</kind>
+<name>Ohara et al.</name>
+<date>19911200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>5231933</doc-number>
+<kind>A</kind>
+<name>DiRosa</name>
+<date>19930800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>5398617</doc-number>
+<kind>A</kind>
+<name>Deandrea</name>
+<date>19950300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>5419260</doc-number>
+<kind>A</kind>
+<name>Hamilton</name>
+<date>19950500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>5476155</doc-number>
+<kind>A</kind>
+<name>Nakatani et al.</name>
+<date>19951200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>5533594</doc-number>
+<kind>A</kind>
+<name>Tremblay</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>5572930</doc-number>
+<kind>A</kind>
+<name>Hein</name>
+<date>19961100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>5676189</doc-number>
+<kind>A</kind>
+<name>Zeeb</name>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>5713432</doc-number>
+<kind>A</kind>
+<name>Richter et al.</name>
+<date>19980200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>5964159</doc-number>
+<kind>A</kind>
+<name>Hein</name>
+<date>19991000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>5967265</doc-number>
+<kind>A</kind>
+<name>Bruno et al.</name>
+<date>19991000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>6053286</doc-number>
+<kind>A</kind>
+<name>Balmer</name>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>6178891</doc-number>
+<kind>B1</kind>
+<name>Ostholt et al.</name>
+<date>20010100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>6237705</doc-number>
+<kind>B1</kind>
+<name>Nakatani et al.</name>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>6240851</doc-number>
+<kind>B1</kind>
+<name>Oudakker et al.</name>
+<date>20010600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>104127</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>6539876</doc-number>
+<kind>B1</kind>
+<name>Campbell et al.</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>10413001</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>6666147</doc-number>
+<kind>B1</kind>
+<name>Minges</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>2004/0168605</doc-number>
+<kind>A1</kind>
+<name>Minges</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>DE</country>
+<doc-number>9320592</doc-number>
+<date>19950100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>EP</country>
+<doc-number>317782</doc-number>
+<date>19891000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>WO</country>
+<doc-number>WO92/20604</doc-number>
+<date>19921100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>WO</country>
+<doc-number>WO 02/22422</doc-number>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00046">
+<othercit>European Patent Office; Supplementary European Search Report dated Jun. 19, 2008 (search completion date Jun. 11, 2008) in application EP 01962270 (an application by the same inventor, claiming priority to U.S. Patent 6,666,147).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00047">
+<othercit>European Patent Office; Supplementary European Search Report dated Apr. 16, 2008 (search completion date Apr. 8, 2008) in application EP 05733240 (an application by the same inventor, claiming priority to the same U.S. provisional of which this current application claims benefit).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>6</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>10413001</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>10413002</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>10413003</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>10413005</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>10413009</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>104127</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>104128</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>104129</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>12</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60558822</doc-number>
+<kind>00</kind>
+<date>20040402</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20050238467</doc-number>
+<kind>A1</kind>
+<date>20051027</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Minges</last-name>
+<first-name>Marcus C.</first-name>
+<address>
+<street>2616 Starlight Dr.</street>
+<city>Tuscaloosa</city>
+<state>AL</state>
+<postcode>35405</postcode>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Bradley Arant Boult Cummings, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<examiners>
+<primary-examiner>
+<last-name>Morano</last-name>
+<first-name>S. Joseph</first-name>
+<department>3617</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>McCarry, Jr.</last-name>
+<first-name>Robert J</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A track system for storage and retrieval of materials for use with warehousing vehicle that rides upon tracks in horizontal configuration for storage locations, and that is capable of switching to and riding a sloped track to ascend or descend vertically. A set of transition exchanges allows the vehicle to access multiple levels of storage &#x201c;flooring&#x201d; or shelving. The exchanges use ramps, or movable sections of railway, that may be moved out of the way of a set of wheels of the vehicle, while other ramps are set in place to provide support to some wheels of the vehicle, whereby the vehicle may selectively either travel along the elevator track, or to move between elevator track and level storage locations.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="126.83mm" wi="156.21mm" file="US07640863-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="196.77mm" wi="153.84mm" file="US07640863-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="221.40mm" wi="129.62mm" orientation="landscape" file="US07640863-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="228.35mm" wi="175.68mm" file="US07640863-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="192.11mm" wi="128.35mm" orientation="landscape" file="US07640863-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="217.25mm" wi="161.54mm" file="US07640863-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="218.27mm" wi="140.55mm" file="US07640863-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="210.48mm" wi="162.22mm" file="US07640863-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<p id="p-0002" num="0001">This application claims the benefit of and priority to U.S. Provisional Application 60/558,822 filed Apr. 2, 2004</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">This invention relates generally to solutions for storing, moving, and retrieving objects in warehousing or high density storage environments. More particularly, the invention is directed toward a system for racking or storage and retrieval of multiple items as in a warehouse or librarying environment.</p>
+<p id="p-0005" num="0004">2. Description of Related Art</p>
+<p id="p-0006" num="0005">The industry is aware of the need for increasing efficiency and capabilities of storage in high density situations. In the art, warehouses and high volume storage are typically effected with the use of devices that rely upon an overhead or floor-based support. By way of example, forklifts are frequently employed, which ride on the floor, and lift products to various shelving levels. Passage under the forklifts for persons, other equipment, and the like is not practicable. Alternately, the industry uses overhead cranes and tracks to guide products to storage shelving. Similarly, the number of operable pendant systems is limited by the fact that such devices have difficulty passing one another.</p>
+<heading id="h-0002" level="1">OBJECTS OF THE INVENTION</heading>
+<p id="p-0007" num="0006">The following stated objects of the invention are alternative and exemplary objects only, and should not be read as required for the practice of the invention, or as an exhaustive listing of objects accomplished.</p>
+<p id="p-0008" num="0007">An exemplary and non-exclusive alternative object of this invention is to provide a multilevel storage and retrieval vehicle and for use with an associated racking system.</p>
+<p id="p-0009" num="0008">A further exemplary and non-exclusive alternative object is to provide a multilevel storage and retrieval vehicle and racking system in which a vehicle can move independent of the floor or overhead cranes.</p>
+<p id="p-0010" num="0009">Still further exemplary advantages could be recited, though not all are necessary for a system or device to fall within the scope of this invention. For (non-limiting) example, only, the described system does not necessarily include a boom or mast yet it can reach extremely high areas within a storage facility. Unlike industrial trucks or fork lifts, it has a reduced tendency to &#x201c;tip over;&#x201d; the vehicle <b>10</b> can operate above head-height of personnel, creating an &#x201c;area system&#x201d; virtually eliminating human contact or interference; the vehicle <b>10</b> may be configured to negotiate very narrow aisles at much greater speeds than traditional devices like a bridge crane, and to pass over stored items, yet unlike a crane also can travel under stored items; it requires in some configurations no heavy counterweight, and therefore could be made more economical and flexible than traditional solutions; it may work well in unusual environments i.e., frozen, wet, hazardous, or underground; it has particular usefulness in ships and mobile equipment, as the entire storage area might be tilted or incur severe shock from outside; in addition, depending upon desire, one vehicle can be used to store, retrieve and deliver items saving many steps in process; the described system may be computer controlled saving operator cost and reducing errors. These discussed advantages are exemplary only, and absence of any or all of these should not be construed as limiting the scope of the invention.</p>
+<p id="p-0011" num="0010">The above objects and advantages are neither exhaustive nor individually critical to the spirit and practice of the invention. Other or alternative objects and advantages of the present invention will become apparent to those skilled in the art from the following description of the invention.</p>
+<heading id="h-0003" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0012" num="0011">A track system for storage and retrieval of materials for use with warehousing vehicle that rides upon tracks in horizontal configuration for storage locations, and that is capable of switching to and riding a sloped track to ascend or descend vertically. A set of transition exchanges allows the vehicle to access multiple levels of storage &#x201c;flooring&#x201d; or shelving. The exchanges use ramps, or movable sections of railway, that may be moved out of the way of a set of wheels of the vehicle, while other ramps are set in place to provide support to some wheels of the vehicle, whereby the vehicle may selectively either travel along the elevator track, or to move between elevator track and level storage locations.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> shows a diagram of an warehousing vehicle for use with the present invention, resting on a segment of track.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref> depicts an warehousing vehicle for use the present invention from a side view.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 3</figref> shows a side view of the warehousing vehicle for use with the present invention, in connection with a track system for the present invention.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4</figref> shows a side view of a different configuration of the track system, with storage beneath the elevator track.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 5</figref> shows a view of an alternative embodiment, located on a level run of track</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 6</figref> shows the same vehicle as in <figref idref="DRAWINGS">FIG. 5</figref>, configured with wheels positioned for a slope of an elevator track</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 7</figref> shows a top down view of the vehicle on rails</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 8</figref> shows a vehicle passing through an exchange, with the upper, traction wheels in a pathway.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 9</figref> shows the same position and vehicle as <figref idref="DRAWINGS">FIG. 8</figref>, but from a rear perspective angle</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 10</figref> shows the same position and vehicle as in <figref idref="DRAWINGS">FIGS. 8 and 9</figref>, but from a front perspective angle.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 11</figref> shows a view similar to that in <figref idref="DRAWINGS">FIG. 9</figref>, but for use with a storage racking system in which the storage is above the elevator track.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 12</figref> is a rendition of the vehicle on a track near storage bins.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0025" num="0024">The following is a detailed description of the invention. Those skilled in the art will understand that the specificity provided herein is intended for illustrative purposes with respect to the inventor's preferred and most preferred embodiments, and is not to be interpreted as limiting the scope of the invention. The inventor notes that it uses the term &#x201c;rails&#x201d; to refer to any weight-bearing configuration such as beams, planks, pipes, runners, paired-and-recessed grooves, etc. Within the meaning of a &#x201c;rail,&#x201d; a set of paired upper and lower surfaces may be created from separate components to make a single rail. Where the inventor describes wheels, it will be understood that serpentine belts, conveyor tracks, bearings, skids, skis, and rollers, or multiples of these, or other known movement mechanisms may be employed.</p>
+<p id="p-0026" num="0025">This system is applicable to a type of Automated Storage and Retrieval System also known as AS/RS in the art of materials handling. This disclosure addresses several alternative configurations of such equipment design. There may be a need for multiple changes in scale and configuration, all of which remain in the spirit and scope of the invention, as material handling in nature is often very diverse and specific to many types of materials and the manner in which they are to be handled, stored and delivered. The described materials handling system may be configured to take advantage of any of many alternative advantages over current devices.</p>
+<p id="p-0027" num="0026">The system may contain the following (separately, together, or among others).
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0027">1. Transport Equipment</li>
+        <li id="ul0002-0002" num="0028">2. Positioning Equipment</li>
+        <li id="ul0002-0003" num="0029">3. Load Development Equipment</li>
+        <li id="ul0002-0004" num="0030">4. Incline to level Exchanges</li>
+        <li id="ul0002-0005" num="0031">5. Storage Equipment</li>
+        <li id="ul0002-0006" num="0032">6. Remote Access track or tracks</li>
+        <li id="ul0002-0007" num="0033">7. And/or other Features</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0028" num="0034">The student of this disclosure will see that the transport equipment is a track-guided or track-riding vehicle that may exhibit capabilities overlapping those of a bridge crane or forklifts. Described generally, the system involves a vehicle <b>10</b> that rides on a track <b>4</b>. More specifically, the track <b>4</b> may be split into vertically (and possibly horizontally) separated tracks <b>4</b>, such that the vehicle <b>10</b> can travel on any number of levels of track <b>4</b> for storage or movement purposes (see generally <figref idref="DRAWINGS">FIG. 3</figref>). In an aspect taught herein, the set of tracks <b>4</b> is provided with an elevator track <b>30</b>, which is similar to the other tracks <b>4</b>, but crosses or intersects with multiple levels of the tracks <b>4</b>. It will be seen (e.g., <figref idref="DRAWINGS">FIG. 3</figref>) that the elevator track <b>30</b>, by crossing other tracks <b>4</b>, provides a path for travel of the vehicle <b>10</b> allowing it to both travel along tracks <b>4</b> (or access them for dropping off or picking up items for storage), and to move between or among such tracks <b>4</b>, changing levels as may be necessary. In order to facilitate such activity, the intersection of elevator track <b>30</b> and track(s) <b>4</b> is provided with &#x201c;exchanges,&#x201d; which are further described herein. As should be understood, if the exchanges were static configurations in which the elevator track <b>30</b> and the track(s) <b>4</b> were in a fixed relationship, passage of the vehicle <b>10</b> to multiple tracks or locations would not be possible. For example, where the elevator track <b>30</b> is a perfectly plumb track, and the track(s) <b>4</b> are perfectly horizontal, each of the tracks <b>4</b> would intersect the elevator track <b>30</b> at a &#x201c;T&#x201d; intersection. A set of three tracks <b>4</b> connected to a single elevator track <b>30</b> would look like an &#x201c;E&#x201d; in one configuration (the horizontal bars of the E being the tracks <b>4</b>, and the vertical bar being the elevator track <b>30</b>). In such a configuration, there would be no way for the vehicle <b>10</b> to pass along the lowest track <b>4</b>, travel up the elevator track <b>30</b>, and ride along the top of either the highest or second highest track <b>4</b>. This is because the static connection between the elevator track <b>30</b> and tracks <b>4</b> (e.g., in the example, between the vertical bar and the horizontal bars) would prevent passage of the wheels or the body of the vehicle <b>10</b> from one level to the next. Certain described embodiments of the present invention address this problem by creating exchanges that operate by opening pathways for wheels of the vehicle <b>10</b> to pass through. Basically speaking, then, the exchanges involve having &#x201c;ramps&#x201d; and &#x201c;pathways,&#x201d; with the ramps being movable sections of track (whether of track(s) <b>4</b> or elevator track <b>30</b>) that are made to be present for a wheel to ride upon either during a transition from track <b>4</b> to elevator track <b>30</b> or, separately, during continued travel along elevator track <b>30</b>, and with &#x201c;pathways&#x201d; being created by moving a movable section of the track (again, whether of track(s) <b>4</b> or elevator track <b>30</b>) away from the desired line of travel along the track so that the wheel can pass through that area. Stated another way, paths are created by removing a section of track when and where a wheel or portion of the vehicle <b>10</b> needs to essentially pass &#x201c;through&#x201d; the track's fully connected configuration.</p>
+<p id="p-0029" num="0035">Described basically as shown in the embodiment of <figref idref="DRAWINGS">FIG. 1</figref>, the vehicle <b>10</b> includes two sets of wheels, <b>2</b> and <b>3</b>, and a load platform <b>6</b>. The body of vehicle <b>10</b> may include side panels <b>1</b>, a drive source <b>9</b>, and axles <b>8</b>. Side panels <b>1</b> can be substituted with or made part of any other body structure, such as a unitary body structure as shown in <figref idref="DRAWINGS">FIG. 1</figref>. Further embellishments may include a power source such as battery packs <b>5</b> (see <figref idref="DRAWINGS">FIG. 12</figref>), and storage bin actuators for control of action of bins, tracks, or shelving (or other items), or other features. As seen from <figref idref="DRAWINGS">FIG. 1</figref>, the vehicle <b>10</b> may be mounted on a track <b>4</b> (the track <b>4</b> being shown truncated for ease of depiction). <figref idref="DRAWINGS">FIG. 2</figref> is a side view of the vehicle <b>10</b> on a track <b>4</b> (again, the track <b>4</b> being truncated in the drawing). Track <b>4</b> may be located on (or configured as grooves recessed within) opposite walls of an area, on shelves on either side of an aisle, or as free-standing racks of tracks within a facility. Stated generally, the vehicle <b>10</b> in the shown embodiment rides on track <b>4</b>, with contact above the track <b>4</b> made via top running &#x201c;traction wheels&#x201d; <b>2</b>. Lower running &#x201c;road wheels&#x201d; <b>3</b> are provided below the track <b>4</b> and to the rear of the traction wheels <b>2</b> opposite the center of gravity (in its loaded and unloaded condition) of the vehicle <b>10</b>. These road wheels <b>3</b> thus terminate a natural tendency of vehicle <b>10</b> to rotate about the traction wheels <b>2</b>, thereby increasing traction, stability and providing for proper load positioning. The center of gravity thus generally is forward of the traction wheels <b>2</b>, opposite of the road wheels <b>3</b> (horizontally speaking). The vehicle <b>10</b> thus maintains contact with the track <b>4</b> in a cantilever manner. The wheels may extend outside of the vehicle <b>10</b> and load platform <b>6</b>, allowing vehicle <b>10</b> and the load platform <b>6</b> to rest and move comfortably between the rails of the track <b>4</b>. The vehicle <b>10</b>, and particularly load platform <b>6</b> is shown in line with the track <b>4</b>, with the wheels <b>2</b> and <b>3</b> meeting the track <b>4</b> on upper and lower sides, respectively. As will be apparent, the greater the weight of the load, the greater the friction/cantilever effect, and thus the greater traction.</p>
+<p id="p-0030" num="0036">It will be seen that by track <b>4</b> is meant a horizontally separated paired or set of rails that are configured to sit to either side of the vehicle <b>10</b>. Each set of wheels (<b>2</b> and <b>3</b>) comprise at least two wheels, one for contacting the first rail of the track on a first side of the vehicle <b>10</b>, and the other for contacting the second rail of the track on the second side of the vehicle <b>10</b>. Each set of wheels, then, could actually even comprise a single cylindrical or tubular member that spans the gap and contacts both the first rail and the second rail, with the ends of the tube being considered the wheels where touching the rails. Alternately, the sets could include multiple wheels in contact with the first rail and multiple wheels that contact the second rail. Such multiple wheels could be configured in many relationships, including possibly using a wheel chassis that pivots about an axis (see, e.g., <figref idref="DRAWINGS">FIGS. 5 and 6</figref>, and <figref idref="DRAWINGS">FIGS. 1 and 2</figref>).</p>
+<p id="p-0031" num="0037">The vehicle <b>10</b> may in some embodiments be self-propelled, including from either an on-board or external power supply or both. It also may be provided with any desired handling and manipulating devices, such as actuators, and platforms <b>6</b>, or with other equipment suitable for placing, extending, retrieving, adjusting, manipulating or transporting items. Such devices may include advanced features such as robotic arms, carousels, and/or vending equipment. In addition, the vehicle <b>10</b> may be provided with onboard data collection and or transmission system, and other computer processing to communicate with external control and or monitoring stations. The vehicle <b>10</b> can take advantage of product identification devices commonly used in the industry for inventory control, product acquisition and or recognition. Radio Frequency I.D., bar codes and magnetic stripe are some non-limiting examples of product identification systems to be used. Location detection within the facility can also be used independently or in conjunction with product identification systems for the same purpose. For example, in some installations the vehicle <b>10</b> might not be programmed with the identity of the objects it transports, but only its origin and destination. The external control station can coordinate such activities and could keep track of what the vehicle <b>10</b> is actually transporting. The vehicle <b>10</b> could be equipped with an onboard microprocessor in which the vehicle <b>10</b> could process data associated with inventory, product flow, routing, supply and demand as well independently monitor the environments while in storage and/or in transportation.</p>
+<p id="p-0032" num="0038">The vehicle <b>10</b> travels on a track <b>4</b> or tracks <b>4</b> and in accordance with the invention may travel back and forth along tracks <b>4</b> that are positioned at different vertically separated levels within a given aisle. It will be seen from <figref idref="DRAWINGS">FIG. 3</figref> that the configuration of vehicle <b>10</b> in the shown embodiment is such that the because of the cantilever design and the fact that the traction wheels <b>2</b> are offset vertically and horizontally from road wheels <b>3</b>, the device may maintain a load platform <b>6</b> at level both on those sections of track <b>4</b> that are level and on elevator track <b>30</b>, which is shown having a slope. (<figref idref="DRAWINGS">FIGS. 3 and 4</figref> show only one side of the tracks, the other of which will be understood to be in identical configuration and on the nearer side of vehicle <b>10</b>, as each vehicle <b>10</b> runs on a pair of rails which comprise track <b>4</b>, the rails being separated as seen from the top-down view in <figref idref="DRAWINGS">FIG. 7</figref> by an aisle distance <b>40</b>). A visual comparison of the orientation of vehicle <b>10</b> at location B, where it is on the elevator track, and at location C, where it is on a level location of track <b>4</b>, shows the platform <b>6</b> maintaining level in each location without need for mechanical or weighted leveling. As shown, this is effected without variation of the fixed distance between the traction wheels <b>2</b> and the road wheels <b>3</b> (or between the axle or pivot point for such multiples of wheels <b>2</b> and <b>3</b>, where multiple wheels are used), but rather by increasing the gauge (being the measurement of the vertical width of the rail, not the distance between the rails of the track) of the track as the slope increases.</p>
+<p id="p-0033" num="0039">It should be noted that the elevator track <b>30</b> may have a different slope than that shown. In fact, it is possible with appropriate configurations of vehicle <b>10</b> to have the track vertical or nearly vertical, though this is not particularly preferred. Another variation of the configuration shown would be to employ a vehicle <b>10</b> that more traditionally rides on a number of wheels that all rest atop the rails of the tracks (e.g., omitting road wheels <b>3</b> under the rail, and adding a fore or aft set of wheels <b>2</b> above the rail). Other modifications would have to be made to the configuration of the exchanges discussed below, but these are within the skill of those in the art, provided the concept of the invention in connection with the shown vehicle <b>10</b> and the exchanges as described below is considered as exemplary.</p>
+<p id="p-0034" num="0040">As shown at location A in <figref idref="DRAWINGS">FIG. 3</figref>, using a sloped elevator track <b>30</b> the transition between the elevator track <b>30</b> and the more level areas of the track(s) <b>4</b> can be made a smooth curve, thus allowing for a ready transition between the surfaces for the vehicle <b>10</b>. To move between each level within an aisle of vertically separated tracks <b>4</b>, the vehicle <b>10</b> travels to the elevator track <b>30</b> and then up or down to the desired track <b>4</b>. To effect a vertical change in location, the vehicle <b>10</b> travels upward and downward along one or more inclined elevator tracks <b>30</b>, each having a gauge greater than the level tracks if the configuration of vehicle <b>10</b> is used in which wheels <b>2</b> and <b>3</b> are on opposite (top and bottom) of the rails of the track. Obviously, to do so the vehicle <b>10</b> must be able to move from the track <b>4</b> to the elevator track <b>30</b> or vice versa at the points of intersection between the two. For this purpose, a switching system is used that is referred to by the inventor as an &#x201c;Incline to Level Exchange System.&#x201d; At the level areas of track <b>4</b>, the track has a relatively narrow vertical gauge, configured with reference to the expected configuration of vehicle <b>10</b> such that platform <b>6</b> is level. As the storage area has multiple levels, embodiments of the inventive system allow for a single elevator track <b>30</b>, connectable to multiple levels of an aisle of shelving (e.g., shelves or floors). It is within the inventive scope that more than one incline could be used. It will be seen by looking at the transition from the elevator track <b>30</b> to the lowest level of storage in <figref idref="DRAWINGS">FIG. 3</figref>, that if the track always maintains a transition area (as shown at location A), the vehicle <b>10</b> could never pass down the sloped portion of track <b>4</b> lower than the permanent transition. To deal with this situation, the inventor has developed a variable switching system for use at the intersection of the elevator track <b>30</b> with each of the level portions of track <b>4</b> (above the lowest). This allows the vehicle <b>10</b> to vertically pass any number of tracks <b>4</b>, which same tracks <b>4</b> can become later accessible to the vehicle <b>10</b> by changing the configuration of the switches.</p>
+<p id="p-0035" num="0041">With further reference to <figref idref="DRAWINGS">FIG. 3</figref>, the transition between level track <b>4</b> and inclined elevator track <b>30</b> is achieved by a system of switching gates near the point of convergence, which are now described in greater detail. The shown embodiment includes two main components in the construction of each switching gate: a ramp and a pathway (for each side of track <b>4</b>). Ramps, like the tracks <b>4</b> and the inclined elevator track <b>30</b>, provide a support surface upon which the wheels of the, vehicle <b>10</b> travel. As shown in the <figref idref="DRAWINGS">FIG. 3</figref>, ramps are labeled <b>21</b> for a location at which the vehicle will transition between horizontal and vertical, and are labeled <b>23</b> where the vehicle <b>10</b> will continue along the slope. Stated differently, ramps that form a part of the elevator track <b>30</b> are labeled <b>23</b> and may be referred to as &#x201c;elevator ramps,&#x201d; and ramps that form a connection between a track <b>4</b> and elevator track <b>30</b> are labeled <b>21</b> and may be referred to as &#x201c;track ramps.&#x201d;</p>
+<p id="p-0036" num="0042">A pathway, by contrast, is the gap left when a ramp is moved to an &#x201c;open&#x201d; position in which is it out of location for supporting passage of the wheel between elevator track <b>30</b> and track <b>4</b>, such as by retracting away from the line of travel for vehicle <b>10</b>. The pathway is or provides a corridor through which the wheels of vehicle <b>10</b> can pass. Pathways are shown, for simplicity's sake in <figref idref="DRAWINGS">FIGS. 3 and 4</figref>, as complete breaks between the elevator track <b>30</b> and the level portions of track <b>4</b> (except that between locations A and B there are dotted lines running through a pathway <b>20</b> to depict where an elevator ramp <b>23</b> would be if this were configured for travel along elevator track <b>30</b>). It is of course possible that the rails are wider than necessary to support the travel of the wheels at such locations, in which case the pathway may be only a cut-away portion of the rail through which the wheel needs to pass, leaving the area outside of the wheelbase continuous. As shown in the figure, a pathway for a level-to-incline transition area is depicted by reference number <b>20</b>, and a pathway for a location at which the vehicle <b>10</b> will continue travel on the sloped track <b>4</b> is referenced as number <b>22</b>. Stated differently, this means that a pathway between the elevator track <b>30</b> and a track <b>4</b> is labeled <b>22</b>, and a pathway that cuts into the elevator track <b>30</b> is labeled <b>20</b>.</p>
+<p id="p-0037" num="0043">It should be understood that while the shown embodiment depicts the ramps <b>21</b> and <b>23</b> moving laterally of the track <b>4</b> or elevator track <b>30</b> to create the pathways <b>20</b> and <b>22</b> (see <figref idref="DRAWINGS">FIGS. 5</figref>, <b>6</b>, and <b>8</b> through <b>11</b>), so that the ramps end up parallel to these tracks, though out-of-line with them, other movement patterns could be used. For example, the ramps <b>21</b> or <b>23</b> could be hinged, such that they &#x201c;swing&#x201d; out of the way (upward or downward, or sideways). Likewise, they could slide into or onto another portion of track. In some configurations, the ramp may actually overlay the track in a different area (e.g., such as a section that folds back onto the rail over which the vehicle <b>10</b> will travel, if the ramp is thin enough).</p>
+<p id="p-0038" num="0044">Thus, for locations in which the vehicle <b>10</b> will travel along the slope of elevator track <b>30</b> to pass a track <b>4</b>, ramps <b>23</b> are put into their closed position by moving them into place in the elevator track <b>30</b> (rendering the elevator track continuous or un-gapped in that area), and the pathways <b>22</b> are caused to be present between the elevator track <b>30</b> and the horizontal level of track <b>4</b> (rendering a passageway for the traction wheel <b>2</b> to travel along the elevator track <b>30</b> without hitting track <b>4</b>). This configuration is shown by all portions of the track above location B in <figref idref="DRAWINGS">FIG. 3</figref>. In these closed positions, ramps <b>23</b> provide support for a desired path of a wheel along the length of the elevator track <b>30</b>.</p>
+<p id="p-0039" num="0045">Conversely, the area between location B and location A in <figref idref="DRAWINGS">FIG. 3</figref> shows a track configured to allow transition between elevator track <b>30</b> and horizontal track <b>4</b>. Shown there, ramp <b>21</b> is in place in a closed position (rendering that specific level of track <b>4</b> and the elevator track <b>30</b> connected in a substantially continuous fashion, such that the ramp <b>21</b> provides support for a desired path of a wheel traveling between a track <b>4</b> and the elevator track <b>30</b>), and pathway <b>20</b> is open (rendering elevator track <b>30</b> broken, gapped, or substantially discontinuous below the level of the ramp <b>21</b>), meaning that as vehicle <b>10</b> passes over this area from above or from the right (with reference to the drawing), it will negotiate the transition. The rear, road wheel <b>3</b> (being disposed to ride below and against the under surface of the rail) will pass through the pathway <b>20</b> in the elevator track <b>30</b>, and the front traction wheel <b>2</b> (being disposed to ride atop the surface of the rail) will ride along and atop the ramp <b>21</b> connecting track <b>4</b> to elevator track <b>30</b>.</p>
+<p id="p-0040" num="0046">It will be noted that the platform <b>6</b>, being narrower than the aisle distance <b>30</b> between the rails of tracks <b>4</b>, is allowed to pass up and down the elevator track <b>30</b> without interference even when the vehicle <b>10</b> is traveling along elevator track <b>30</b> and passing a number of tracks <b>4</b>. If the platform <b>6</b> is to be of a greater width than aisle distance <b>40</b>, the vehicle <b>10</b> could be configured such that platform <b>6</b> is positioned above or below tracks <b>4</b> when vehicle <b>10</b> is on a level track <b>4</b>, and the pathways <b>22</b> could be made long enough to allow for passage of the platform <b>6</b> as well as the traction wheels <b>2</b>. <figref idref="DRAWINGS">FIGS. 8 to 11</figref> show the vehicle <b>10</b> near a system of the ramps and pathways from various angles. <figref idref="DRAWINGS">FIGS. 8 to 10</figref> show a vehicle <b>10</b> positioned on the track system shown in <figref idref="DRAWINGS">FIG. 4</figref>, while <figref idref="DRAWINGS">FIG. 11</figref> shows a vehicle <b>10</b> as positioned on a track system shown in <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0041" num="0047">It will be seen from the foregoing discussion that the elevator track <b>30</b> and the tracks <b>4</b> have upper and lower surfaces for supporting the wheels of the vehicle <b>10</b> (or, in a different configuration of the vehicle <b>10</b> that omits a lower wheel, they may have only an upper surface for supporting wheels). The discussion above demonstrates that the ramps operate to continue the supporting surface when the ramps are in their &#x201c;closed&#x201d; position. That closed position for a ramp <b>23</b> that forms a part of the elevator track <b>30</b> is the position in which the ramp is in place rendering the elevator track <b>30</b> continuous along its slope for purposes of a wheel passing over it (or, under it, as the case may be). The open position of that ramp <b>23</b> results in a pathway <b>20</b>. Likewise, the closed position for a ramp <b>21</b>, being between the elevator track <b>30</b> and the track <b>4</b>, is when the ramp forms a support between the two allowing a wheel to roll against it in substantially continuous fashion from track-to-elevator track and/or vice versa. The open position for a ramp <b>21</b> results in a pathway <b>22</b>. The open positions, then, are where the surface for supporting the wheels is broken, gapped, or otherwise reduced, such that a wheel can pass through at least a portion of that area where the supporting surface of the ramp otherwise would be.</p>
+<p id="p-0042" num="0048">Multiple configurations can be based on this concept taught in the embodiment shown in <figref idref="DRAWINGS">FIG. 3</figref>. The inventor discloses at least two general configurations of ramps and pathways, depending upon the configuration of the system. In the first configuration, meant for high storage (storage above the slope of the elevator track <b>30</b>), wheel ramps and pathways work as discussed above. In an alternate embodiment, storage can occur below the slope of elevator track <b>30</b>. This &#x201c;low storage&#x201d; configuration is shown in <figref idref="DRAWINGS">FIG. 4</figref>. It will be seen by comparison of <figref idref="DRAWINGS">FIG. 3</figref> and <figref idref="DRAWINGS">FIG. 4</figref> that the same principles apply, with certain variation. For example, in the &#x201c;high storage&#x201d; configuration shown in <figref idref="DRAWINGS">FIG. 3</figref>, the pathways <b>23</b> (pathways that represent corridors for passage of wheels through the elevator track <b>30</b>) serve to allow passage of the lower wheels <b>3</b> through the area of the elevator track <b>30</b>'s path. Of course, this means that pathways <b>22</b> (those between the elevator track <b>30</b> and the tracks <b>4</b>) serve to allow passage of the traction wheels <b>2</b>. In contrast, in &#x201c;low storage&#x201d; conditions, the pathways <b>23</b> in the elevator track <b>30</b> allow passage of the traction wheels <b>2</b>, and the pathways <b>22</b> between the elevator track <b>30</b> and the tracks <b>4</b> allow passage of the lower wheels <b>3</b>.</p>
+<p id="p-0043" num="0049">It should be noted that with appropriate modifications, one may be able to combine high storage and low storage configurations. This may require use of multiple paths and ramps at each exchange in order to make the various transitions smooth. In such a case, it is possible to have a pathway through the elevator track <b>30</b>, and ramps connecting the tracks <b>4</b> to the elevator track <b>30</b> on both sides of that pathway, so that the vehicle <b>10</b> could run past the elevator track <b>30</b> if desired, or, in connection with appropriate ramp and pathway configuration, could mount onto the elevator track <b>30</b> to descend (when coming from the side under the slope) or to ascend (when coming from the side above the slope).</p>
+<p id="p-0044" num="0050">Some or all parts within the system may be shared from wheel ramps to pathways and visa versa. For example, in situations in which space and weight savings are important, the material removed to form a pathway may actually be repositioned to create the ramp. Stated differently, a ramp <b>23</b> and ramp <b>21</b> could be the same structure, if made hinged or otherwise movable between the positions of those ramps in a way that would leave the necessary pathways clear at the appropriate configurations.</p>
+<p id="p-0045" num="0051">It should be noted that if an embodiment is used in which the vehicle <b>10</b> only has wheels that ride atop the tracks <b>4</b> and elevator track <b>30</b> (i.e., when the vehicle does not have lower wheels <b>3</b>), the configuration of the track may omit the use of pathways <b>20</b> in the elevator track <b>30</b> for high storage situations. This is because there are no lower wheels <b>3</b> that need to pass through the elevator track. Likewise, in a low storage embodiment using such a vehicle without lower wheels <b>3</b>, the pathways <b>22</b> between the tracks <b>4</b> and the elevator track <b>30</b> can be omitted, because there is no need to have a lower wheel <b>3</b> pass through those areas.</p>
+<p id="p-0046" num="0052">A possible advantage of this system in some configurations is an ability to utilize a multitude of storage systems. When storage is accessed by side loading, the vehicle <b>10</b> may use selective load handling as well as both pass-through and push-through equipment, such as actuators for toggling switches, turning screws, or other load delivery-triggering tasks. Loads may also be stored directly onto and then retrieved from directly the track in the path of the vehicle <b>10</b> creating a drive-through load handling system. This may occur where the load, such as a pallet, is wider than the aisle distance and rides above the track <b>4</b> on level track runs, and where the pathways <b>22</b> are sufficiently long to allow passage of the pallet. Mechanical devices could be used to raise and lower the pallet from contact with the track <b>4</b> (such as with a fork lift mechanism). This would allow for a warehouse to be created without any physical difference between aisles and intended storage locations, such that an area of tracks that is eleven rails wide (being thereby ten tracks wide) could be loaded with fully ten rows of material. In operation, this loading scheme could be used, for example, in a transport ship, to allow storage in all free space in the cargo area. One loading scheme would pack items that are to be removed immediately upon docking into every other set of tracks (e.g., even-numbered or odd-numbered tracks), such that following removal of that cargo, the remaining cargo is left in a system of stacks and aisles, from which cargo can be selectively pulled. A combination of load handling systems also can be used within the same aisle and/or facility. Multiple vehicles <b>10</b> can operate concurrently within the same aisle and/or facility with greater ease than in conventional systems.</p>
+<p id="p-0047" num="0053">Products handled by the vehicle <b>10</b> may need load handling or stowage devices, such as pallets, drum pinchers, buckets, or pill carousels. Such devices may be stored with the product (as in a pallet being loaded into the storage area with the product) or may travel primarily with the vehicle <b>10</b> (as one may expect of a pill carousel or drum pinchers).</p>
+<p id="p-0048" num="0054">The described vehicle <b>10</b> is not limited to service within the confines of a single aisle or within a single storage system. The vehicle <b>10</b> is capable of traversing and negotiating relatively long distances via Remote Access Tracks. These tracks, referred to now by inventor as RATs, allow the vehicle <b>10</b> access to multiple aisles, storage systems and locations for the purpose of product storage, loading, unloading or utilization. The teaching from the incline to level exchanges (such as the transitions between elevator track <b>30</b> and track <b>4</b>, using paths and ramps) discussed above (the &#x201c;exchanges&#x201d;) can be used in conjunction with techniques for dividing a railway into two horizontal paths, to provide the system with the ability not only to perform vertical location changes but horizontal as well. By way of example, the exchange could be used to split the track (vertically speaking, such as is described generally above for the system to change levels in an aisle), then each separate level of track could turn in different directions, horizontally speaking (e.g., left or right, as with railroad track changers). Horizontal (e.g., left and right) splitting of the track likewise could occur before an exchange or exchanges. Once a vehicle <b>10</b> passes through an exchange, the track <b>4</b> and subsequently the vehicle <b>10</b>, is not required to travel in a straight line but may traverse along any number of RATs. RATs may be of simple track construction and can be mounted or suspended from above, supported from below, held from the sides, pass over ground, under ground, under water, in corridors placed in walls, floors and ceilings. RATs, and even aisles, can twist, turn, and make other variations from straight line travel. RATs, in particular but without limitation, may benefit from this ability, where a connecting track <b>4</b> between two parts of a warehouse allows for high speeds, in which banking and other &#x201c;roadway&#x201d; profiling may be valuable.</p>
+<p id="p-0049" num="0055">It will be understood that the traction wheels <b>2</b> and the road wheels <b>3</b> could be replaced with sets of wheels, respectively, as shown in the drawings. In such configurations, it would be useful for the sets of wheels to have a fixed axle or pivot point for each set, to allow them all come into contact with the track <b>4</b>. Exemplary configurations are shown in the figures, though other configurations may be used. The drawings are considered a part of this disclosure and are hereby incorporated by reference.</p>
+<p id="p-0050" num="0056">Turning to the other drawings, these are shown to assist in disclosure of potential embodiments and operation. <figref idref="DRAWINGS">FIGS. 5 and 6</figref> show an embodiment with sets of wheels <b>3</b> and sets of wheels <b>2</b>. <figref idref="DRAWINGS">FIG. 5</figref> shows the embodiment at a level location of track <b>4</b>. <figref idref="DRAWINGS">FIG. 6</figref> shows the same embodiment located with the wheel sets rotated into substantially the position they would be expected to adopt on an elevator track <b>30</b> of a particular slope. Shown in the area of reference numeral <b>8</b> is the pivot point for the set of traction wheels <b>2</b>.</p>
+<p id="p-0051" num="0057"><figref idref="DRAWINGS">FIG. 7</figref> is provided to show a top-down view of the vehicle <b>10</b>. In this shown embodiment, the aisle distance <b>40</b> is clearly shown. Road wheels <b>3</b> are visible as if seen through the tracks <b>4</b>, though it will be understood that this is for sake of disclosure only, and that in an actual embodiment those wheels <b>3</b> may not be visible at this position, as they would be at least partially hidden by the track <b>4</b> under which they ride (assuming the rail is not transparent). Shown on the load area of vehicle <b>10</b> is a pill carousel, generally designated <b>101</b>. Individual loads within the carousel may also be pill bottles or other sub-containers, as depicted by the presence of bottles <b>100</b>. This view serves to show that the vehicle <b>10</b> may be fitted with interior bumper wheels <b>11</b>, which have an axle disposed to cause the bumper wheels to run in contact with the inner side of track <b>4</b>. These bumper wheels <b>11</b> serve to orient, possibly even &#x201c;center,&#x201d; the vehicle <b>10</b> to increase the chance that the wheels <b>2</b> and <b>3</b> are optimally placed. The bumper wheels <b>11</b> also serve to keep the vehicle <b>10</b> from jamming against the rails of the tracks. The axles for bumper wheels <b>11</b> could be fitted to pivot within a plane that runs along the length of the track <b>4</b>, such that they can change inclination when the vehicle <b>10</b> is on an elevator track <b>30</b>, as opposed to a level track <b>4</b>.</p>
+<p id="p-0052" num="0058"><figref idref="DRAWINGS">FIG. 8</figref> is an exemplary depiction of a vehicle <b>10</b> passing through an exchange in a low storage configuration, where the traction wheels <b>2</b> are in a pathway <b>20</b>, and the rear of a traction wheel <b>2</b> is actually touching one of the ramps <b>21</b> between the track <b>4</b> and the elevator track <b>30</b>. In the shown position, the road wheels <b>3</b> are still on the track <b>4</b>. This is shown in a low storage configuration (discussed above).</p>
+<p id="p-0053" num="0059">The same position is shown in perspective in <figref idref="DRAWINGS">FIG. 9</figref>. Here, ramp <b>23</b> is shown as open ramp <b>23</b><i>a</i>, being pulled out to the side to create the elevator path <b>20</b> and thus allow passage of traction wheels <b>2</b>. Again the image in <figref idref="DRAWINGS">FIG. 10</figref> shows essentially the same position, but from another angle.</p>
+<p id="p-0054" num="0060"><figref idref="DRAWINGS">FIG. 11</figref> is another image of the vehicle (this time configured for high storage), located at a set of exchanges. Here, the traction wheels <b>2</b> can be seen on a ramp <b>21</b> between the track <b>4</b> and the elevator track <b>30</b>. The lower wheels <b>3</b> are just passing through a pathway <b>20</b> opened in elevator track <b>30</b>, which was left by a ramp <b>23</b> being in an open position (depicted as ramp <b>23</b><i>a</i>). Below the position of the vehicle <b>10</b> is shown the next ramp <b>23</b> in place in the elevator track <b>30</b>.</p>
+<p id="p-0055" num="0061"><figref idref="DRAWINGS">FIG. 12</figref> shows a rendition of the vehicle at a storage location on track <b>4</b>, where there are adjacent bins for storage.</p>
+<p id="p-0056" num="0062">Markets may include handling of secured and or hazardous products, storage, retrieval and delivery of supplies and equipment on board ships and in mobile equipment; under ground storage; order fulfillment; third party logistics centers; product distribution centers; pharmaceutical storage, retrieval and delivery; automated parking facilities for vehicles without passengers; clean room storage, retrieval and delivery; order picking, and other uses.</p>
+<p id="p-0057" num="0063">Other embodiments and advantages of the invention will be understood by those skilled in the art.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A warehousing storage and retrieval system for warehousable objects comprising:
+<claim-text>a. A plurality of main tracks, said main tracks being vertically separated, each main track comprising at least two rails separated by a horizontal distance, and</claim-text>
+<claim-text>b. An elevator track comprising a surface for supporting a wheel of a vehicle, which vehicle is adapted to travel along the main tracks and the elevator track, which surface is set at an incline relative to at least a portion of the plurality of main tracks; wherein near an intersection of a main track and the elevator track, the system further comprises
+<claim-text>i. a track ramp movable between a closed position and an open position, in which closed position said main track is connected to the elevator track in a manner such that the wheel of the vehicle can travel from the main track onto the elevator track, and in which open position an opening exists between said main track and the elevator track through which opening the wheel of the vehicle may pass when traveling along the elevator track; and</claim-text>
+<claim-text>ii. a pathway in the elevator track, said pathway being closable by an elevator ramp, wherein when the pathway is closed the elevator track is capable of supporting the wheel as it travels along the elevator track past the pathway, and wherein when the pathway is open the wheel may pass through the pathway.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A warehousing storage and retrieval system for warehousable objects as in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pathway when in the open position forms a path below the point of connection between said main track and the elevator track.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A warehousing storage and retrieval system for warehousable objects as in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the gauge of said main track is less than the gauge of the elevator track.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A warehousing storage and retrieval system for warehousable objects as in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a top surface of the track ramp increases smoothly from the slope of said main track to the slope of the elevator track.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A warehousing storage and retrieval system for warehousable objects as in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein when the track ramp is not in its closed position, it can be positioned to act as the elevator ramp in the elevator ramp's closed position.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A warehousing storage and retrieval system for warehousable objects as in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the vehicle contacts a top of the main track with a first set of wheels, and contacts a bottom of the main track with a second set of wheels that is horizontally and vertically offset from the first set of wheels. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

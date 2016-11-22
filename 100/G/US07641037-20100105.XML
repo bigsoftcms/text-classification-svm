@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641037-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641037</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11839787</doc-number>
+<date>20070816</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2006-225750</doc-number>
+<date>20060822</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>124</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>07</class>
+<subclass>F</subclass>
+<main-group>7</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>K</subclass>
+<main-group>7</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>K</subclass>
+<main-group>9</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>07</class>
+<subclass>D</subclass>
+<main-group>7</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>194207</main-classification>
+<further-classification>194206</further-classification>
+<further-classification>382135</further-classification>
+</classification-national>
+<invention-title id="d0e71">Bill handling apparatus</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5777610</doc-number>
+<kind>A</kind>
+<name>Sugimoto et al.</name>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5964336</doc-number>
+<kind>A</kind>
+<name>Itako et al.</name>
+<date>19991000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5993093</doc-number>
+<kind>A</kind>
+<name>Schoennauer et al.</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2002/0108891</doc-number>
+<kind>A1</kind>
+<name>Dunlop et al.</name>
+<date>20020800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>209534</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2008/0047802</doc-number>
+<kind>A1</kind>
+<name>Nireki</name>
+<date>20080200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>194302</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2008/0048017</doc-number>
+<kind>A1</kind>
+<name>Nireki</name>
+<date>20080200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>232  1 D</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2008/0217135</doc-number>
+<kind>A1</kind>
+<name>Nireki</name>
+<date>20080900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>194207</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>EP</country>
+<doc-number>0 762 344</doc-number>
+<kind>A1</kind>
+<date>19970300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>JP</country>
+<doc-number>10-31774</doc-number>
+<date>19980200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>JP</country>
+<doc-number>2000331730</doc-number>
+<kind>A</kind>
+<date>20001100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>JP</country>
+<doc-number>2006-130229</doc-number>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00012">
+<othercit>Derwent Translation (partial) for JP2000331730A.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00013">
+<othercit>U.S. Appl. No. 11/839,818, filed Aug. 16, 2007, Nireki.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00014">
+<othercit>U.S. Appl. No. 11/839,883, filed Aug. 16, 2007, Nireki.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>194206</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>194207</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>209534</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>382135</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>11</number-of-drawing-sheets>
+<number-of-figures>11</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080217135</doc-number>
+<kind>A1</kind>
+<date>20080911</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nireki</last-name>
+<first-name>Takao</first-name>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Oblon, Spivak, McClelland, Maier &#x26; Neustadt, L.L.P.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Aruze Corp.</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+<assignee>
+<addressbook>
+<orgname>Seta Corp.</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Shapiro</last-name>
+<first-name>Jeffrey A</first-name>
+<department>3653</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A bill handling apparatus according to one embodiment of the invention has a bill insertion slot into which a bill is inserted, a bill feeding mechanism for feeding the bill inserted from the bill insertion slot, a sensor for reading the fed bill, and a bill identifying section for identifying authentication of the bill read by the sensor, a sensor board on which the sensor is installed, and a control board for controlling each operation of the bill feeding mechanism, the sensor and the bill identifying section. The bill handling apparatus further has a first connector installed on the sensor board, and a second connector installed on the control board, and the first connector and the second connector are fitted with each other for electrical continuity.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="156.29mm" wi="179.92mm" file="US07641037-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="201.59mm" wi="173.74mm" file="US07641037-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="250.44mm" wi="183.22mm" orientation="landscape" file="US07641037-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="184.83mm" wi="162.98mm" orientation="landscape" file="US07641037-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="184.74mm" wi="164.42mm" orientation="landscape" file="US07641037-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="263.99mm" wi="180.26mm" orientation="landscape" file="US07641037-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="149.01mm" wi="114.47mm" file="US07641037-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="208.45mm" wi="158.50mm" orientation="landscape" file="US07641037-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="199.56mm" wi="118.19mm" orientation="landscape" file="US07641037-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="194.73mm" wi="162.56mm" orientation="landscape" file="US07641037-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="156.63mm" wi="135.13mm" file="US07641037-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="226.57mm" wi="179.24mm" orientation="landscape" file="US07641037-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<p id="p-0002" num="0001">The present disclosure relates to subject matter contained in Japanese Patent Application No. 2006-225750 filed on Aug. 22, 2006, which is expressly incorporated herein by reference in its entireties.</p>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates to a bill handling apparatus for feeding a bill inserted from a bill insertion slot, while reading the fed bill to identify the validity.</p>
+<p id="p-0004" num="0003">Generally, a bill handling apparatus identifies the validity of a bill inserted from a bill insertion slot by a user, and is incorporated into service apparatuses that provides various kinds of products and service corresponding to the bill value judged as being valid, such as, for example, a game media lending machine installed in a game hole, or an automatic dispenser, ticket-vending machine and the like installed in public areas.</p>
+<p id="p-0005" num="0004">The bill handling apparatus is usually provided with operation devices such as a bill feeding mechanism that feeds a bill inserted into a bill insertion slot, bill reading means for executing readout of the fed bill, bill identifying means for identifying the validity (also referred to as authentication judgment) from the read bill information and the like, and control means for driving and controlling the operation devices.</p>
+<p id="p-0006" num="0005">The above-mentioned bill reading means is provided with a photosensor which applies light to the fed bill and detects the reflected light and/or transmitted light, and the bill identifying means compares a detection signal from the photosensor with beforehand stored authorized bill data to identify the validity. For the above-mentioned photosensor, as disclosed in Japanese Laid-Open Patent Publication No. H10-31774, it is known that the sensor unit is configured as a unit, and that the sensor unit is electrically connected to a connector on a control board side via a relay harness. In other words, by such a configuration, it is possible to perform maintenance operation with ease in the event of failure and like, and to cope with bogus bills simply by exchanging only the sensor unit and a microchip computer on the control board side.</p>
+<p id="p-0007" num="0006">As described above, since the conventional bill handling apparatus uses the relay harness and connector in connection between the sensor unit and control board, a problem easily occurs that the relay harness comes into contact with the control board or another component and causes a short and the like.</p>
+<p id="p-0008" num="0007">Therefore, to avoid such a problem, the necessity arises for providing footprints of the sensor unit and control board with margins, but as a result, another problem occurs that the entire bill handling apparatus is increased in size.</p>
+<p id="p-0009" num="0008">Accordingly, a bill handling apparatus is required that enables miniaturization of the entire apparatus.</p>
+<heading id="h-0002" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">To achieve the above-mentioned object, a bill handling apparatus according to the present invention is characterized by having a bill insertion slot into which a bill is inserted, a bill feeding mechanism for feeding the bill inserted from the bill insertion slot, a sensor for reading the fed bill, and a bill identifying section for identifying authentication of the bill read by the sensor, and further comprising a sensor board on which the sensor is installed, a control board for controlling each operation of the bill feeding mechanism, the sensor and the bill identifying section, a first connector installed on the sensor board, and a second connector installed on the control board, where the first connector and the second connector are fitted with each other for electrical continuity.</p>
+<p id="p-0011" num="0010">Additional objects and advantages of the invention will be set forth in the description which follows, and in part will be obvious from the description, or may be learned by practice of the invention. The objects and advantages of the invention may be realized and obtained by means of the instrumentalities and combinations particularly pointed out hereinafter.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE SEVERAL VIEWS OF THE DRAWING</heading>
+<p id="p-0012" num="0011">The accompanying drawings, which are incorporated in and constitute a part of the specification, illustrate embodiments of the invention, and together with the general description given above and the detailed description of the embodiments given below, serve to explain the principles of the invention.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view showing an entire configuration of one embodiment of a bill handling apparatus according to the invention;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref> is a perspective view showing a state where an upper frame is opened with respect to a lower frame;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 3</figref> is a plan view showing a bill feeding path portion of the lower frame;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4</figref> is a rear elevational view of the lower frame;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 5</figref> is another rear elevational view of the lower frame, showing a state where a control board is to be installed;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 6</figref> is a perspective view showing a configuration of a bill detecting sensor;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 7</figref> is a view schematically showing the configuration of the bill handling apparatus;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 8</figref> is a side elevational view of the bill handling apparatus;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 9</figref> is another rear elevational view of the lower frame, showing a state where the control board is removed;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 10</figref> is another side elevational view of the bill handling apparatus, showing an enlarged view of an opening portion; and</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 11</figref> is a block diagram illustrating a control system of the bill handling apparatus.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0024" num="0023">An embodiment of the invention will be described below with reference to accompanying drawings.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIGS. 1 to 5</figref> are views showing a configuration of a bill handling apparatus according to this embodiment, <figref idref="DRAWINGS">FIG. 1</figref> is a perspective view showing an entire configuration, <figref idref="DRAWINGS">FIG. 2</figref> is a perspective view showing a state where an upper frame is opened with respect to a lower frame, <figref idref="DRAWINGS">FIG. 3</figref> is a plan view showing a bill feeding path portion of the lower frame, <figref idref="DRAWINGS">FIG. 4</figref> is a rear elevational view of the lower frame, and <figref idref="DRAWINGS">FIG. 5</figref> is another rear elevational view of the lower frame, showing a state where a control board is to be installed.</p>
+<p id="p-0026" num="0025">A bill handling apparatus <b>1</b> of this embodiment is configured to be capable of being incorporated into a game media lending apparatus (not shown) installed among various kinds of game machines such as, for example, slot machines and the like. In this case, the game media lending apparatus may be provided with another apparatus (for example, a bill storage unit, coin identifying apparatus, storage media processing apparatus, power supply apparatus and the like) on the upper or lower side of the bill handling apparatus <b>1</b>, and the bill handling apparatus <b>1</b> may be formed integrally with the other apparatus, or formed separately. Then, when a bill is inserted in such a bill handling apparatus <b>1</b> and the validity of the inserted bill is judged, the processing corresponding to the bill value is performed such as the processing for lending game media, the processing of writing in a storage medium such as a prepaid card, or like.</p>
+<p id="p-0027" num="0026">The bill handling apparatus <b>1</b> is provided with a frame <b>2</b> formed in the shape of a substantially cuboid, and the frame <b>2</b> is mounted to a locking portion of the game media lending apparatus not shown in the figure. The frame <b>2</b> has a lower frame <b>2</b>B as a base side and an upper frame <b>2</b>A openable/closable with respect to the lower frame <b>2</b>B to cover the lower frame <b>2</b>B. The frames <b>2</b>A and <b>2</b>B are configured to be opened and closed with a base portion as a turn center as shown in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0028" num="0027">The lower frame <b>2</b>B has the shape of a substantially cuboid, and is provided with a bill feeding face <b>3</b><i>a </i>for feeding a bill, and side wall portions <b>3</b><i>b </i>formed on the opposite sides of the bill feeding face <b>3</b><i>a</i>. Meanwhile, the upper frame <b>2</b>A is configured in the shape of a plate provided with a bill feeding face <b>3</b><i>c</i>, and when the upper frame <b>2</b>A is closed to enter between the side wall portions <b>3</b><i>b </i>on the opposite sides of the lower frame <b>2</b>B, a clearance (bill feeding path) <b>5</b> to feed a bill is formed between opposite portions of the bill feeding face <b>3</b><i>a </i>and bill feeding face <b>3</b><i>c. </i></p>
+<p id="p-0029" num="0028">Then, the upper frame <b>2</b>A and lower frame <b>2</b>B are respectively provided with bill insertion portions <b>6</b>A and <b>6</b>B adapted to the bill feeding path <b>5</b>. These bill insertion portions <b>6</b>A and <b>6</b>B form a bill insertion slot <b>6</b> in the shape of a slit when the upper frame <b>2</b>A and lower frame <b>2</b>B are closed, and as shown in <figref idref="DRAWINGS">FIG. 1</figref>, a bill M is inserted inside from a shorter side of the bill along the direction of allow A.</p>
+<p id="p-0030" num="0029">Further, a lock shaft <b>4</b> capable of locking in the lower frame <b>2</b>B is disposed on the front end side of the upper frame <b>2</b>A. The lock shaft <b>4</b> is provided with an operation portion <b>4</b><i>a</i>, and by operating the operation portion <b>4</b><i>a </i>to rotate against the biasing force of a biasing spring <b>4</b><i>b</i>, rotates on a pivot P as a center to release the lock state of the upper frame <b>2</b>A and lower frame <b>2</b>B (the state where the frames are closed: overlapping state).</p>
+<p id="p-0031" num="0030">In the lower frame <b>2</b>B are provided a bill feeding mechanism <b>8</b>, a bill detecting sensor <b>18</b> that detects a bill inserted in the bill insertion slot <b>6</b>, bill reading means <b>20</b> that is installed on the downstream side of the bill detecting sensor <b>18</b> and that reads information of the bill in a fed state, a shutter mechanism <b>50</b> that is installed in the bill feeding path <b>5</b> between the bill insertion slot <b>6</b> and the bill detecting sensor <b>18</b> and that is driven to block the bill insertion slot <b>6</b>, and control means (circuit control board) <b>100</b> for controlling driving of structural members such as the aforementioned bill feeding mechanism <b>8</b>, bill reading means <b>20</b>, shutter mechanism <b>50</b> and the like, while identifying (performing authentication judgment processing) the validity of the read bill.</p>
+<p id="p-0032" num="0031">The bill feeding mechanism <b>8</b> is a mechanism capable of feeding the bill inserted from the bill insertion slot <b>6</b> along the insertion direction A, while feeding back the bill in an insertion state toward the bill insertion slot <b>6</b>. The bill feeding mechanism <b>8</b> is provided with a driving motor <b>10</b> that is a driving source installed on the lower frame <b>2</b>B side, and feeding roller pairs <b>12</b>, <b>13</b> and <b>14</b> which are driven to rotate by the driving motor <b>10</b> and disposed in the bill feeding path <b>5</b> at predetermined intervals along the bill feeding direction.</p>
+<p id="p-0033" num="0032">The feeding roller pair <b>12</b> is provided with driving rollers <b>12</b>A disposed on the lower frame <b>2</b>B side, and pinch rollers <b>12</b>B disposed on the upper frame <b>2</b>A side to come into contact with the driving roller <b>12</b>A. These driving rollers <b>12</b>A and pinch rollers <b>12</b>B are installed in two respective locations at predetermined intervals along the direction perpendicular to the bill feeding direction. These driving rollers <b>12</b>A and pinch rollers <b>12</b>B are exposed at their parts to the bill feeding path <b>5</b>.</p>
+<p id="p-0034" num="0033">The driving rollers <b>12</b>A installed in two respective positions are fixed to a driving shaft <b>12</b><i>a </i>rotatably supported by the lower frame <b>2</b>B, and the two pinch rollers <b>12</b>B are rotatably supported by a spindle <b>12</b><i>b </i>supported by the upper frame <b>2</b>A. In this case, a biasing member <b>12</b><i>c </i>for biasing the spindle <b>12</b><i>b </i>to the driving shaft <b>12</b><i>a </i>side is provided in the upper frame <b>2</b>A, and brings the pinch rollers <b>12</b>B into contact with the driving roller side <b>12</b>A by predetermined pressure.</p>
+<p id="p-0035" num="0034">In addition, as in the roller pair <b>12</b>, the feeding roller pairs <b>13</b> and <b>14</b> are respectively comprised of two driving rollers <b>13</b>A, <b>14</b>A fixed to driving shafts <b>13</b><i>a</i>, <b>14</b><i>a</i>, and two pinch rollers <b>13</b>B, <b>14</b>B rotatably supported by spindles <b>13</b><i>b</i>, <b>14</b><i>b</i>, and the pinch rollers <b>13</b>B, <b>14</b>B are brought into contact with the driving rollers <b>13</b>A, <b>14</b>A by biasing members <b>13</b><i>c</i>, <b>14</b><i>c</i>, respectively.</p>
+<p id="p-0036" num="0035">The feeding roller pairs <b>12</b>, <b>13</b> and <b>14</b> are driven in synchronization with one another by a driving force conveying mechanism <b>15</b> coupled to the driving motor <b>10</b>. The driving force conveying mechanism <b>15</b> is comprised of a gear train disposed rotatably on one side wall portion <b>3</b><i>b </i>of the lower frame <b>2</b>B. More specifically, the mechanism <b>15</b> is formed of the gear train having an output gear <b>10</b><i>a </i>fixed to an output shaft of the driving motor <b>10</b>, input gears <b>12</b>G, <b>13</b>G and <b>14</b>G which are sequentially engaged in the output gear <b>10</b><i>a </i>and mounted on the end portions of the driving shafts <b>12</b><i>a</i>, <b>13</b><i>a </i>and <b>14</b><i>a</i>, respectively and idle gears <b>16</b> installed between the gears.</p>
+<p id="p-0037" num="0036">According to the above-mentioned configuration, when the driving motor <b>10</b> is driven forward, each of the feeding roller pairs <b>12</b>, <b>13</b> and <b>14</b> is driven to feed the bill in the insertion direction A, while when the driving motor <b>10</b> is driven reversely, being driven reversely to send the bill back to the bill insertion slot side.</p>
+<p id="p-0038" num="0037">The bill detecting sensor <b>18</b> is to generate a detection signal in detecting a bill inserted in the bill insertion slot <b>6</b>, and in this embodiment, is installed between rotating pieces constituting the shutter mechanism described later, and the bill reading means <b>20</b> for reading the bill. The bill detecting sensor <b>18</b> is comprised of, for example, an optical type sensor, more specifically, a regression reflective photosensor, and as shown in <figref idref="DRAWINGS">FIG. 5</figref>, formed of a prism <b>18</b><i>a </i>installed on the upper frame <b>2</b>A side and a sensor body <b>18</b><i>b </i>installed on the lower frame <b>2</b>B side. More specifically, the prism <b>18</b><i>a </i>and sensor body <b>18</b><i>b </i>are arranged in such a manner that light emitted from a light-emitting portion <b>18</b><i>c </i>of the sensor body <b>18</b><i>b </i>is detected by a light-receiving portion <b>18</b><i>d </i>of the sensor body <b>18</b><i>b </i>thorough the prism <b>18</b><i>a</i>. When a bill is passed through the bill feeding path <b>5</b> positioned between the prism <b>18</b><i>a </i>and sensor body <b>18</b><i>b </i>and the light is not detected in the light-receiving portion <b>18</b><i>d</i>, the sensor <b>18</b> generates a detection signal.</p>
+<p id="p-0039" num="0038">In addition, the bill detecting sensor <b>18</b> may be comprised of a mechanical type sensor, as well as the optical type sensor.</p>
+<p id="p-0040" num="0039">On the downstream side of the bill detecting sensor <b>18</b> is installed the bill reading means <b>20</b> for reading the bill information on the bill in a fed state. The bill reading means <b>20</b> is only required to have a configuration for irradiating the bill with the light to read the bill information when the bill is fed by the bill feeding mechanism <b>8</b>, and generating a signal to enable the validity (authentication) of the bill to be judged, and in this embodiment, is configured to perform readout of the bill by applying the light from the opposite sides, and detecting the transmitted light and reflected light by a light-receiving device such as a photodiode or the like. Then, the optical signal on the read bill information undergoes photoelectric transformation, and is compared with the beforehand stored data of the authorized bill in the bill identifying section, and the authentication of the fed bill is thus judged.</p>
+<p id="p-0041" num="0040">On the downstream side of the bill insertion slot <b>6</b> is disposed the shutter mechanism <b>50</b> that blocks the bill insertion slot <b>6</b>. The shutter mechanism <b>50</b> is configured to be normally in a state for opening the bill insertion slot <b>6</b>, closed when a bill is inserted and the bill detecting sensor <b>18</b> detects a rear end of the bill (the bill detecting sensor <b>18</b> is OFF), and thus prevent fraud and the like.</p>
+<p id="p-0042" num="0041">More specifically, the shutter mechanism <b>50</b> has the rotating pieces <b>52</b> that are rotatably driven to appear at predetermined intervals in the direction perpendicular to the bill feeding direction in the bill feeding path <b>5</b>, and a solenoid (pull-type) <b>54</b> that is a driving source that rotatably drives the rotating pieces <b>52</b>. In this case, the rotating pieces <b>52</b> are installed in two locations in the width direction of a spindle <b>55</b>, and long holes <b>5</b><i>c </i>extending in the bill feeding direction are formed in the bill feeding face <b>3</b><i>a </i>of the lower frame <b>2</b>B constituting the bill feeding path <b>5</b> to cause respective rotating pieces <b>52</b> to appear.</p>
+<p id="p-0043" num="0042">Further, on the downstream side of the bill reading means <b>20</b> is provided a bill passage detecting sensor <b>60</b> that detects passage of the bill. The bill passage detecting sensor <b>60</b> is to generate a detection signal when the bill judged as being valid is further fed to the downstream side, and the sensor <b>60</b> detects the rear end of the bill. Based on the occurrence of the detection signal, the energization of the solenoid <b>54</b> is released (the solenoid is OFF), and the driving shaft <b>54</b><i>a </i>moves in the protruding direction by the biasing force of the biasing spring provided in the driving shaft <b>54</b><i>a</i>. By this means, the rotating pieces <b>52</b> constituting the shutter mechanism are rotatably driven to open the bill feeding path via the spindle <b>55</b> synchronized with the driving shaft <b>54</b><i>a. </i></p>
+<p id="p-0044" num="0043">The bill passage detecting sensor <b>60</b> is, as in the bill detecting sensor <b>18</b>, comprised of an optical type sensor (regression reflective photosensor), and formed of a prism <b>60</b><i>a </i>installed on the upper frame <b>2</b>A side and a sensor body <b>60</b><i>b </i>installed on the lower frame <b>2</b>B side. Naturally, the bill passage detecting sensor <b>60</b> may be comprised of a mechanical type sensor, as well as the optical type sensor.</p>
+<p id="p-0045" num="0044">In the vicinity of the bill insertion slot <b>6</b> is provided an informing device that informs that the bill is being inserted in a visible manner. Such an informing device can be comprised of, for example, an LED <b>70</b> that blinks, is lit when a user inserts a bill in the bill insertion slot <b>6</b>, and informs the user of the bill being handled. It is thereby possible to prevent the user from erroneously inserting a next bill.</p>
+<p id="p-0046" num="0045">Referring to <figref idref="DRAWINGS">FIGS. 2 to 5</figref> and <b>7</b>, described below is the configuration of the bill reading means <b>20</b> installed in the upper frame <b>2</b>A and lower frame <b>2</b>B.</p>
+<p id="p-0047" num="0046">The bill reading means <b>20</b> has a light-emitting unit <b>24</b> provided with a first light-emitting portion <b>23</b> that is disposed on the upper frame <b>2</b>A side and that is capable of emitting slit-shaped light over the feeding path width direction on the upper side of the fed bill, and a line sensor <b>25</b> disposed on the lower frame <b>2</b>B side.</p>
+<p id="p-0048" num="0047">The line sensor <b>25</b> installed on the lower frame <b>2</b>B side has a light-receiving portion <b>26</b> disposed opposite to the first light-emitting portion <b>23</b> in a manner of sandwiching the bill, and second light-emitting portions <b>27</b> that are disposed adjacent to opposite sides of the light-receiving portion <b>26</b> on the bill feeding direction and that are capable of emitting slit-shaped light.</p>
+<p id="p-0049" num="0048">The first light-emitting portion <b>23</b> disposed opposite to the light-receiving portion <b>26</b> of the line sensor <b>25</b> functions as a light source for transmission. As shown in <figref idref="DRAWINGS">FIG. 2</figref>, the first light-emitting portion <b>23</b> is formed as the so-called light guide member <b>23</b><i>b </i>made of a synthetic resin formed in the shape of a rectangle rod, and preferably, has functions of receiving emitted light from the light-emitting device <b>23</b><i>a </i>such as an LED and the like installed at the end portion, and emitting the light while guiding the light along the longitudinal direction. By this means, it is possible to apply the slit-shaped light uniformly to the entire region in the width direction of the feeding path of the fed bill with a simple configuration.</p>
+<p id="p-0050" num="0049">In addition, the light-receiving portion <b>26</b> of the line sensor <b>25</b> is disposed in the shape of a line in parallel with the first light-emitting portion <b>23</b> that is the light guide member, and formed in the shape of a thin plate which extends in the direction of intersecting the bill feeding path <b>5</b>, and which is formed in the shape of a band having a width to the extent of not affecting the sensitivity of a light-receiving sensor, not shown, provided in the light-receiving portion <b>26</b>. More specifically, the portion <b>26</b> has a configuration where a plurality of CCDs (Charge Coupled Device) is provided in the shape of a line in the center in the thickness direction of the light-receiving portion <b>26</b>, and a Selfoc lens array <b>26</b><i>a </i>is arranged in the shape of a line in a position above the CCDs to gather the transmitted light and reflected light.</p>
+<p id="p-0051" num="0050">The second light-emitting portions <b>27</b> of the line sensor <b>25</b> function as light sources for reflection. As shown in <figref idref="DRAWINGS">FIG. 3</figref>, each of the second light-emitting portions <b>27</b> is formed, as in the first light-emitting portion <b>23</b>, as the so-called light guide member <b>27</b><i>b </i>made of a synthetic resin formed in the shape of a rectangle rod, and preferably, has functions of receiving emitted light from the light-emitting device <b>27</b><i>a </i>such as an LED and the like installed at the end portion, and emitting the light while guiding the light along the longitudinal direction. By this means, it is possible to apply the slit-shaped light uniformly to the entire region in the width direction of the feeding path of the fed bill with a simple configuration.</p>
+<p id="p-0052" num="0051">In addition, each of the second light-emitting portions <b>27</b> is capable of applying the light to the bill at an elevation angle of 45 degrees, and is disposed so that the reflected light from the bill is received in the light-receiving portion <b>26</b> (light-receiving sensor). In this case, the light emitted from the second light-emitting portion <b>27</b> is input to the light-receiving portion <b>26</b> at an angle of 45 degrees, but the incident angle is not limited to 45 degrees, and can be set as appropriate in ranges capable of reliably receiving the reflected light. Therefore, an arrangement of the second light-emitting portions <b>27</b> and second light-receiving portion <b>26</b> can be modified in design as appropriate corresponding to the configuration of the bill handling apparatus. Further, the second light-emitting portions <b>27</b> are installed on the opposite sides with the light-receiving portion <b>26</b> sandwiched therebetween to emit the light from the opposite sides respectively at an angle of 45 degrees. This is because when a tear, crease and the like are present on the bill surface and the light is applied to a concavo-convex portion caused by a portion of the tear, crease or the like from only one side, a shaded area may be caused in the concavo-convex portion by shielding the light. Therefore, by emitting the light from the opposite sides, it is possible to prevent the concavo-convex portion from being darkened, and to obtain image data with higher accuracy than in emission from one side. Naturally, the second light-emitting portion <b>27</b> may be configured to be installed on only one side.</p>
+<p id="p-0053" num="0052">The line sensor <b>25</b> is exposed to the bill feeding path <b>5</b>, and is thereby provided with concavo-convex portions <b>25</b><i>a</i>, as shown in <figref idref="DRAWINGS">FIG. 2</figref>, on opposite ends of its surface portion (that is substantially the same plane as the feeding face <b>3</b><i>a</i>) in the bill feeding direction to catch the fed bill hardly. Further, as in the line sensor <b>25</b>, the light emitting unit <b>24</b> is provided with concavo-convex portions <b>24</b><i>a</i>, as shown in <figref idref="DRAWINGS">FIG. 2</figref>, on opposite ends of its surface portion in the bill feeding direction to catch the fed bill hardly.</p>
+<p id="p-0054" num="0053">The line sensor <b>25</b> is provided with the second light-emitting portions <b>27</b> extending in the width direction of the bill feeding path and the light-receiving portion <b>26</b>, and is mounted on a sensor board <b>25</b>A installed with a circuit that causes the second light-emitting portions <b>27</b> to emit light, a detecting circuit that detects the light incident upon the CCDs provided in line-shape to constitute the light-receiving portion <b>26</b>, an amplifier that amplifies an output of the detecting circuit, an A/D converter that converts the amplified output signal into a digital signal, a control section that controls these kinds of devices, and the like. The sensor board <b>25</b>A is attached to a hold frame <b>25</b>B in the shape of a substantially rectangle.</p>
+<p id="p-0055" num="0054">The sensor board <b>25</b>A is electrically connected to a control board <b>100</b> that controls the entire apparatus. In this case, both the boards are arranged opposite to each other as shown in <figref idref="DRAWINGS">FIGS. 4 and 5</figref>, and the sensor board <b>25</b>A is fixed to a predetermined position in the lower frame <b>2</b>B by screwing screws <b>80</b> into screw holes respectively formed in four corner portions of the hold frame <b>25</b>B, while being attached to the hold frame <b>25</b>B. Meanwhile, the control board <b>100</b> is fixed to a predetermined position in the lower frame <b>2</b>B by screwing screws <b>82</b> into screw holes respectively formed in four corner portions, while causing a predetermined clearance with the sensor board <b>25</b>A.</p>
+<p id="p-0056" num="0055">The sensor board <b>25</b>A and control board <b>100</b> are respectively provided with the first connector <b>25</b>C and second connector <b>100</b>C to electrically connect both the boards. The connectors <b>25</b>C and <b>100</b>C are concave and convex connectors protruding in the perpendicular direction to the board plane to be fitted with each other in installing both the boards, and more specifically, are comprised of stacking connectors so as to increase the number of connection poles. In other words, with the sensor board <b>25</b>A fixed to the predetermined position of the lower frame <b>2</b>B, the second connector <b>100</b>C of the control board <b>100</b> is fitted into the first connector <b>25</b>C of the sensor board <b>25</b>A, the control board <b>100</b> is fixed to the lower frame <b>2</b>B in this state, and both the connectors are thereby electrically connected.</p>
+<p id="p-0057" num="0056">In addition, in the above-mentioned configuration, an opening <b>3</b>D is formed in the side wall portion <b>3</b><i>b </i>constituting the frame so that the line sensor <b>25</b> slides into the opening and is capable of being installed inside. This opening <b>3</b>D is configured in a similar shape to that of the side face portion of the sensor board <b>25</b>A installed with the line sensor <b>25</b>, and as shown in <figref idref="DRAWINGS">FIG. 8</figref>, is formed in a substantially convex shape. In other words, it is made possible to cause the sensor board <b>25</b>A installed with the line sensor <b>25</b> to slide to be installed in a predetermined position of the lower frame <b>2</b>B, as shown by the arrow in <figref idref="DRAWINGS">FIG. 9</figref>, through the opening <b>3</b>D while being attached to the hold frame <b>25</b>B in the shape of a substantially rectangle. Then, the size of the opening <b>3</b>D is configured to enable the connection state of the first connector <b>25</b>C and the second connector <b>100</b>C to be visually identified as shown in <figref idref="DRAWINGS">FIG. 10</figref>, in electrically connecting the sensor board <b>25</b>A and control board <b>100</b>.</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. 11</figref> is a block diagram illustrating a schematic configuration of the control means for controlling the bill handling apparatus <b>1</b> provided with the bill feeding mechanism <b>8</b>, bill reading means <b>20</b>, shutter mechanism <b>50</b> and the like.</p>
+<p id="p-0059" num="0058">The control means <b>30</b> is provided with the control board <b>100</b> for controlling the operation of each driving apparatus as described above. On the control board <b>100</b> are mounted a CPU (Central Processing Unit) <b>110</b> for controlling driving of each driving apparatus while constituting the bill identifying section, ROM (Read Only Memory) <b>112</b>, RAM (Random Access Memory) <b>114</b> and a reference data storage section <b>116</b>.</p>
+<p id="p-0060" num="0059">The ROM <b>112</b> stores operation programs for driving apparatuses such as the driving motor <b>10</b>, solenoid <b>54</b>, LED <b>70</b> and the like, various kinds of programs such as an authentication judgment program and the like, and permanently data. The CPU <b>110</b> operates according to the programs stored in the ROM <b>112</b>, inputs and outputs signals to/from the driving apparatuses as described above via an I/O port <b>120</b>, and controls the operation of the bill handling apparatus. In other words, the CPU <b>110</b> is connected to a driving motor driving circuit <b>125</b> (driving motor <b>10</b>), solenoid <b>54</b>, and LED <b>70</b> via the I/O port <b>120</b>. The driving apparatuses are controlled in operation by control signals from the CPU <b>110</b> according to the operation programs stored in the ROM <b>112</b>. Further, the CPU <b>110</b> receives a detection signal from the bill detecting sensor <b>18</b>, and a detection signal from the bill passage detecting sensor <b>60</b> via the I/O port <b>120</b>, and based on these detection signals, controls forward/reverse driving of the driving motor <b>10</b>, blinking of the LED <b>70</b>, and driving of the solenoid <b>54</b>.</p>
+<p id="p-0061" num="0060">The RAM <b>114</b> stores the data and programs used for the CPU <b>110</b> to operate, and acquires the received light data of a bill targeted for judgment to temporarily store. The data is compared with the reference data stored in the reference data storage section <b>116</b>, and the authentication judgment processing is thereby performed. In addition, in this embodiment, the reference data is stored in the dedicated reference data storage section <b>116</b>, but may be stored in the ROM <b>112</b>. Further, although the reference data of the genuine bill may be stored beforehand in the reference data storage section <b>116</b>, for example, the genuine bill is fed through the bill feeding mechanism <b>8</b> to acquire the received light data, and the data may be stored as the reference data.</p>
+<p id="p-0062" num="0061">Further, the CPU <b>110</b> is connected to the first light-emitting portion (light guide member) <b>23</b> in the light-emitting unit <b>24</b>, and the light-receiving portion <b>26</b> and second light-emitting portions (light guide members) <b>27</b> in the line sensor <b>25</b> via the I/O port <b>120</b>. These portions constitute a bill authentication judgment section <b>150</b> together with the CPU <b>110</b>, ROM <b>112</b>, RAM <b>114</b> and reference data storage section <b>116</b>, and control the operations required from the authentication judgment in the bill handling apparatus <b>1</b>.</p>
+<p id="p-0063" num="0062">Furthermore, the CPU <b>110</b> is connected to a control section of the game media lending apparatus into which the bill handling apparatus <b>1</b> is incorporated, and an upper apparatus <b>200</b> such as a host computer and the like of an external apparatus, via the I/O port <b>120</b>, and transmits various kinds of signals (such as information of the bill, alarm signal and the like) to the upper apparatus.</p>
+<p id="p-0064" num="0063">According to the bill handling apparatus configured as described above, when the bill detecting sensor <b>18</b> detects insertion of a bill and becomes ON, the driving motor <b>10</b> is forward driven, and the LED <b>70</b> is lit. The feeding roller pairs <b>12</b>, <b>13</b> and <b>14</b> are thereby driven to rotate in the bill insertion direction to feed the bill inside the apparatus, and the user is notified of the bill being handled to prevent insertion of an additional bill.</p>
+<p id="p-0065" num="0064">The bill is fed inside the apparatus, the bill reading means <b>20</b> thereby reads the information, and the control means <b>30</b> executes the authentication judgment processing. At this point, in this embodiment, when the bill detecting sensor <b>18</b> detects the rear end of the bill (the bill detecting sensor <b>18</b> is OFF), the solenoid <b>54</b> is energized, and the rotating pieces <b>52</b> are thereby driven to rotate and block the bill insertion slot <b>6</b>.</p>
+<p id="p-0066" num="0065">When the bill is judged as being genuine in the above-mentioned authentication judgment processing, the bill is further fed to the downstream side. At this point, to be able to support money-back processing and the like that would occur due to some reason, the processing for causing the bill to temporarily wait may be performed. Then, in the stage where the rear end of the bill further fed to the downstream side is detected by the bill passage detecting sensor <b>60</b>, the driving of the driving motor <b>10</b> is halted. With the halt, the driving of the solenoid <b>54</b> is made OFF (energization is canceled) to withdraw the rotating pieces <b>52</b> from the bill feeding path <b>5</b>, the bill insertion opening <b>6</b> is opened, and the LED <b>70</b> is extinguished.</p>
+<p id="p-0067" num="0066">In addition, when the bill is judged being not genuine in the above-mentioned authentication judgment processing, the processing for driving the driving motor <b>10</b> reversely is executed in this stage, the shutter mechanism <b>50</b> is opened, and the bill is sent back toward the bill insertion opening side. In this send-back processing, in the stage where the rear end of the bill is detecting by the bill detecting sensor <b>18</b>, the LED <b>70</b> is extinguished.</p>
+<p id="p-0068" num="0067">In the bill handling apparatus <b>1</b> configured as described above, the sensor board <b>25</b>A installed with the line sensor <b>25</b> for reading the bill is connected electrically to the control board <b>100</b> side by the first connector and second connector (stacking connectors) when arranged opposite to the control board <b>100</b> without through the relay harness unlike in the conventional apparatus, the need is thereby eliminated of providing unnecessary occupied space between both the boards, and it is possible to miniaturize the bill handling apparatus <b>1</b>. In other words, the need is eliminated of providing a clearance (to the extent that the relay harness does not come into contact with the boards and mounted parts) corresponding to the relay harness in between both the board, the boards can be brought into closer to each other corresponding to the eliminated clearance, and it is thereby possible to miniaturize the entire apparatus.</p>
+<p id="p-0069" num="0068">Further, in the above-mentioned configuration, the opening <b>3</b>D is formed in the side wall portion <b>3</b><i>b </i>of the lower frame <b>2</b>B to enable the line sensor <b>25</b> and sensor board <b>25</b>A to be slid and installed therein and further enable the first connector <b>25</b>C and second connector <b>100</b>C to be identified visually, and it is made possible to easily perform the operating for electrically connecting the sensor board <b>25</b>A to the control board <b>100</b>.</p>
+<p id="p-0070" num="0069">In addition, it is preferable that the first connector <b>25</b>C and second connector <b>100</b>C are installed in the positions near the opening <b>3</b>D as close as possible, in other words, in the positions enabling the connection state to be visually identified with ease.</p>
+<p id="p-0071" num="0070">In such as configuration, since the connection part of the connectors can be visually identified, it is possible to connect the connectors between the control board <b>100</b> and the sensor board <b>25</b>A with easy, and since the connector parts are installed in a portion near the opening <b>3</b>D, it is possible to prevent dust from entering from the opening <b>3</b>D. Further, both the boards can be seen hardly from the opening <b>3</b>D, and it is thus possible to improve security.</p>
+<p id="p-0072" num="0071">In the foregoing, the embodiment of the invention is described, but it is a feature of the invention making electrical connection between the sensor board of the sensor constituting the bill reading means and the control board for controlling the entire apparatus by the first connector and the second connector without using the relay harness unlike in the conventional apparatus, and the other configurations are capable of being modified as appropriate. For example, the configuration and arrangement pattern of the reading means (sensor) for reading a bill, method of reading the bill, method of performing the bill authentication judgment processing and the like are not limited to the above-mentioned embodiment, and are capable of being carried into practice with various modifications thereof.</p>
+<p id="p-0073" num="0072">The bill handling apparatus of the invention is capable of being incorporated into various kinds of apparatuses that provide products and/or service by inserting a bill, while being not limited to a game media lending apparatus. Further, this embodiment describes the apparatus for handling bills as an example, but the invention is applicable to apparatuses for making an authentication judgment on gold certificates, securities and the like.</p>
+<p id="p-0074" num="0073">Additional advantages and modifications will readily occur to those skilled in the art. Therefore, the invention in its broader aspects is not limited to the specific details and representative embodiments shown and described herein. Accordingly, various modifications may be made without departing from the spirit or scope of the general inventive concept as defined by the appended claims and their equivalents.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A bill handling apparatus, comprising:
+<claim-text>a line sensor disposed along a direction transverse to a bill feeding path, the line sensor being configured to read a bill fed on the bill feeding path;</claim-text>
+<claim-text>a sensor board configured to mount the line sensor on one face and a first connector on another face;</claim-text>
+<claim-text>a control board configured to mount a second connector, which is configured to connect to the first connector on the sensor board, on a flat face of the control board; and</claim-text>
+<claim-text>a side wall extending in a direction parallel to the bill feeding path, wherein</claim-text>
+<claim-text>a predetermined opening is formed on the side wall,</claim-text>
+<claim-text>the first and second connectors are comprised of stacking connectors configured to electrically connect the sensor board and the control board, and are mounted on the sensor board and the control board so as to be positioned in proximity to the opening of the side wall, when the sensor board and the control board are disposed inside the apparatus,</claim-text>
+<claim-text>a surface of the line sensor is exposed to the bill feeding path, when the sensor board is disposed at a predetermined position inside of the apparatus by being inserted via the opening of the side wall,</claim-text>
+<claim-text>the control board is electrically connected and opposed to the sensor board inside the apparatus while the first and second connectors connected to each other are sandwiched therebetween, when the second connector is connected to the first connector of the sensor board disposed inside of the apparatus; and</claim-text>
+<claim-text>the opening of the side wall, which is configured to receive the sensor board into the apparatus, is formed so that a connection state between the first connector of the sensor board disposed inside the apparatus and the second connector of the control board is externally visible through the opening. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

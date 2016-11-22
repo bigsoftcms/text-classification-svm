@@ -1,0 +1,1593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640810-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640810</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11178584</doc-number>
+<date>20050711</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>374</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>29</main-group>
+<subgroup>265</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 73634</main-classification>
+<further-classification> 73602</further-classification>
+</classification-national>
+<invention-title id="d0e53">Ultrasonic inspection apparatus, system, and method</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3534591</doc-number>
+<kind>A</kind>
+<name>Phelan</name>
+<date>19701000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73634</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3575042</doc-number>
+<kind>A</kind>
+<name>Lovelace et al.</name>
+<date>19710400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3789350</doc-number>
+<kind>A</kind>
+<name>Rolle</name>
+<date>19740100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3809607</doc-number>
+<kind>A</kind>
+<name>Murray et al.</name>
+<date>19740500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>376249</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3958451</doc-number>
+<kind>A</kind>
+<name>Richardson</name>
+<date>19760500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4010636</doc-number>
+<kind>A</kind>
+<name>Clark et al.</name>
+<date>19770300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4103234</doc-number>
+<kind>A</kind>
+<name>Frazier, Jr.</name>
+<date>19780700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4117733</doc-number>
+<kind>A</kind>
+<name>Gugel</name>
+<date>19781000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4160386</doc-number>
+<kind>A</kind>
+<name>Jackson et al.</name>
+<date>19790700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4167880</doc-number>
+<kind>A</kind>
+<name>George</name>
+<date>19790900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4173897</doc-number>
+<kind>A</kind>
+<name>Fostermann et al.</name>
+<date>19791100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4173898</doc-number>
+<kind>A</kind>
+<name>Fostermann et al.</name>
+<date>19791100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4229796</doc-number>
+<kind>A</kind>
+<name>Garrett</name>
+<date>19801000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>4311052</doc-number>
+<kind>A</kind>
+<name>Jeffras et al.</name>
+<date>19820100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>4327588</doc-number>
+<kind>A</kind>
+<name>North</name>
+<date>19820500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>4365514</doc-number>
+<kind>A</kind>
+<name>Ho</name>
+<date>19821200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>4368644</doc-number>
+<kind>A</kind>
+<name>Wentzell et al.</name>
+<date>19830100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>4399703</doc-number>
+<kind>A</kind>
+<name>Matzuk</name>
+<date>19830800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>4466286</doc-number>
+<kind>A</kind>
+<name>Berbe&#xe9; et al.</name>
+<date>19840800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>4470304</doc-number>
+<kind>A</kind>
+<name>Nusbickel, Jr. et al.</name>
+<date>19840900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>4474064</doc-number>
+<kind>A</kind>
+<name>Naruse et al.</name>
+<date>19841000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>4495587</doc-number>
+<kind>A</kind>
+<name>Plante et al.</name>
+<date>19850100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>702 38</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>4559825</doc-number>
+<kind>A</kind>
+<name>Martens</name>
+<date>19851200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>4612808</doc-number>
+<kind>A</kind>
+<name>McKirdy et al.</name>
+<date>19860900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>4752895</doc-number>
+<kind>A</kind>
+<name>Sarr</name>
+<date>19880600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>4755953</doc-number>
+<kind>A</kind>
+<name>Geithman et al.</name>
+<date>19880700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>4774842</doc-number>
+<kind>A</kind>
+<name>Kollar</name>
+<date>19881000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>4803638</doc-number>
+<kind>A</kind>
+<name>Nottingham et al.</name>
+<date>19890200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>4807476</doc-number>
+<kind>A</kind>
+<name>Cook et al.</name>
+<date>19890200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>4848159</doc-number>
+<kind>A</kind>
+<name>Kennedy et al.</name>
+<date>19890700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>4912411</doc-number>
+<kind>A</kind>
+<name>Allison et al.</name>
+<date>19900300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>5007291</doc-number>
+<kind>A</kind>
+<name>Walters et al.</name>
+<date>19910400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>5047771</doc-number>
+<kind>A</kind>
+<name>Engeler et al.</name>
+<date>19910900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>5050703</doc-number>
+<kind>A</kind>
+<name>Graff et al.</name>
+<date>19910900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>5062301</doc-number>
+<kind>A</kind>
+<name>Aleshin et al.</name>
+<date>19911100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>5148414</doc-number>
+<kind>A</kind>
+<name>Graff et al.</name>
+<date>19920900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>5164921</doc-number>
+<kind>A</kind>
+<name>Graff et al.</name>
+<date>19921100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>5241135</doc-number>
+<kind>A</kind>
+<name>Fetzer</name>
+<date>19930800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>5396890</doc-number>
+<kind>A</kind>
+<name>Weng</name>
+<date>19950300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>5417218</doc-number>
+<kind>A</kind>
+<name>Spivey et al.</name>
+<date>19950500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>5421203</doc-number>
+<kind>A</kind>
+<name>Graff et al.</name>
+<date>19950600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>5485084</doc-number>
+<kind>A</kind>
+<name>Duncan et al.</name>
+<date>19960100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>5535628</doc-number>
+<kind>A</kind>
+<name>Rutherford</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>5567881</doc-number>
+<kind>A</kind>
+<name>Myers</name>
+<date>19961000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>5585564</doc-number>
+<kind>A</kind>
+<name>Brunty et al.</name>
+<date>19961200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>5593633</doc-number>
+<kind>A</kind>
+<name>Dull et al.</name>
+<date>19970100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>5621414</doc-number>
+<kind>A</kind>
+<name>Nakagawa</name>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00048">
+<document-id>
+<country>US</country>
+<doc-number>5677490</doc-number>
+<kind>A</kind>
+<name>Gunther et al.</name>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00049">
+<document-id>
+<country>US</country>
+<doc-number>5698787</doc-number>
+<kind>A</kind>
+<name>Parzuchowski et al.</name>
+<date>19971200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00050">
+<document-id>
+<country>US</country>
+<doc-number>5786535</doc-number>
+<kind>A</kind>
+<name>Takeuchi et al.</name>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00051">
+<document-id>
+<country>US</country>
+<doc-number>5902935</doc-number>
+<kind>A</kind>
+<name>Georgeson et al.</name>
+<date>19990500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00052">
+<document-id>
+<country>US</country>
+<doc-number>5963882</doc-number>
+<kind>A</kind>
+<name>Viertl et al.</name>
+<date>19991000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00053">
+<document-id>
+<country>US</country>
+<doc-number>5986549</doc-number>
+<kind>A</kind>
+<name>Teodorescu</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00054">
+<document-id>
+<country>US</country>
+<doc-number>6057927</doc-number>
+<kind>A</kind>
+<name>Levesque et al.</name>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00055">
+<document-id>
+<country>US</country>
+<doc-number>6167110</doc-number>
+<kind>A</kind>
+<name>Possin et al.</name>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00056">
+<document-id>
+<country>US</country>
+<doc-number>6220099</doc-number>
+<kind>B1</kind>
+<name>Marti et al.</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00057">
+<document-id>
+<country>US</country>
+<doc-number>6474164</doc-number>
+<kind>B1</kind>
+<name>Mucciardi et al.</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00058">
+<document-id>
+<country>US</country>
+<doc-number>6484583</doc-number>
+<kind>B1</kind>
+<name>Chennell et al.</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00059">
+<document-id>
+<country>US</country>
+<doc-number>6507635</doc-number>
+<kind>B2</kind>
+<name>Birdwell et al.</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00060">
+<document-id>
+<country>US</country>
+<doc-number>6516668</doc-number>
+<kind>B2</kind>
+<name>Havira et al.</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00061">
+<document-id>
+<country>US</country>
+<doc-number>6641535</doc-number>
+<kind>B2</kind>
+<name>Buschke et al.</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00062">
+<document-id>
+<country>US</country>
+<doc-number>6658939</doc-number>
+<kind>B2</kind>
+<name>Georgeson et al.</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00063">
+<document-id>
+<country>US</country>
+<doc-number>6711235</doc-number>
+<kind>B2</kind>
+<name>Galish et al.</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00064">
+<document-id>
+<country>US</country>
+<doc-number>6722202</doc-number>
+<kind>B1</kind>
+<name>Kennedy et al.</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00065">
+<document-id>
+<country>US</country>
+<doc-number>6725721</doc-number>
+<kind>B2</kind>
+<name>Venczel</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00066">
+<document-id>
+<country>US</country>
+<doc-number>6748791</doc-number>
+<kind>B1</kind>
+<name>Georgeson et al.</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00067">
+<document-id>
+<country>US</country>
+<doc-number>6772635</doc-number>
+<kind>B1</kind>
+<name>Sale et al.</name>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00068">
+<document-id>
+<country>US</country>
+<doc-number>6829959</doc-number>
+<kind>B2</kind>
+<name>Gifford et al.</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00069">
+<document-id>
+<country>US</country>
+<doc-number>6839636</doc-number>
+<kind>B1</kind>
+<name>Sunshine et al.</name>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00070">
+<document-id>
+<country>US</country>
+<doc-number>6843130</doc-number>
+<kind>B2</kind>
+<name>Georgeson</name>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00071">
+<document-id>
+<country>US</country>
+<doc-number>6843131</doc-number>
+<kind>B2</kind>
+<name>Graff et al.</name>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00072">
+<document-id>
+<country>US</country>
+<doc-number>6843312</doc-number>
+<kind>B2</kind>
+<name>Burk et al.</name>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00073">
+<document-id>
+<country>US</country>
+<doc-number>6848312</doc-number>
+<kind>B2</kind>
+<name>Georgeson</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00074">
+<document-id>
+<country>US</country>
+<doc-number>6895079</doc-number>
+<kind>B2</kind>
+<name>Birdwell et al.</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00075">
+<document-id>
+<country>US</country>
+<doc-number>6927560</doc-number>
+<kind>B2</kind>
+<name>Pedigo et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00076">
+<document-id>
+<country>US</country>
+<doc-number>6931931</doc-number>
+<kind>B2</kind>
+<name>Graff et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00077">
+<document-id>
+<country>US</country>
+<doc-number>7050535</doc-number>
+<kind>B2</kind>
+<name>Georgeson et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00078">
+<document-id>
+<country>US</country>
+<doc-number>7064332</doc-number>
+<kind>B2</kind>
+<name>Favro et al.</name>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00079">
+<document-id>
+<country>US</country>
+<doc-number>7228741</doc-number>
+<kind>B2</kind>
+<name>Georgeson et al.</name>
+<date>20070600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00080">
+<document-id>
+<country>US</country>
+<doc-number>7231826</doc-number>
+<kind>B2</kind>
+<name>Bossi et al.</name>
+<date>20070600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00081">
+<document-id>
+<country>US</country>
+<doc-number>7240556</doc-number>
+<kind>B2</kind>
+<name>Georgeson et al.</name>
+<date>20070700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00082">
+<document-id>
+<country>US</country>
+<doc-number>7249512</doc-number>
+<kind>B2</kind>
+<name>Kennedy et al.</name>
+<date>20070700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00083">
+<document-id>
+<country>US</country>
+<doc-number>7253908</doc-number>
+<kind>B2</kind>
+<name>Vaccaro et al.</name>
+<date>20070800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00084">
+<document-id>
+<country>US</country>
+<doc-number>7263889</doc-number>
+<kind>B2</kind>
+<name>Kennedy et al.</name>
+<date>20070900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00085">
+<document-id>
+<country>US</country>
+<doc-number>2003/0192382</doc-number>
+<kind>A1</kind>
+<name>Mueller</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00086">
+<document-id>
+<country>US</country>
+<doc-number>2006/0243051</doc-number>
+<kind>A1</kind>
+<name>Bui et al.</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00087">
+<document-id>
+<country>US</country>
+<doc-number>2007/0044563</doc-number>
+<kind>A1</kind>
+<name>Sarr et al.</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00088">
+<document-id>
+<country>US</country>
+<doc-number>2007/0044564</doc-number>
+<kind>A1</kind>
+<name>Bui et al.</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00089">
+<document-id>
+<country>DE</country>
+<doc-number>28 31 395</doc-number>
+<kind>A1</kind>
+<date>19800100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00090">
+<document-id>
+<country>DE</country>
+<doc-number>28 52 560</doc-number>
+<kind>B1</kind>
+<date>19800100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00091">
+<document-id>
+<country>DE</country>
+<doc-number>4431625</doc-number>
+<kind>C1</kind>
+<date>19960300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00092">
+<document-id>
+<country>DE</country>
+<doc-number>198 26 759</doc-number>
+<kind>C1</kind>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00093">
+<document-id>
+<country>DE</country>
+<doc-number>100 43 199</doc-number>
+<kind>A1</kind>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00094">
+<document-id>
+<country>EP</country>
+<doc-number>1 193 491</doc-number>
+<kind>A2</kind>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00095">
+<document-id>
+<country>JP</country>
+<doc-number>62245153</doc-number>
+<kind>A</kind>
+<date>19871000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00096">
+<document-id>
+<country>JP</country>
+<doc-number>05346487</doc-number>
+<kind>A</kind>
+<date>19931200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00097">
+<document-id>
+<country>JP</country>
+<doc-number>09 264877</doc-number>
+<kind>A</kind>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00098">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2004106802</doc-number>
+<kind>A1</kind>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00099">
+<othercit>U.S. Appl. No. 10/943,088, filed Sep. 16, 2004; In re: Georgeson et al.; entitled <i>Magnetically Attracted Inspecting Apparatus and Method Using a Ball Bearing</i>.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00100">
+<othercit>U.S. Appl. No. 10/943,135, filed Sep. 16, 2004; In re: Georgeson et al.; entitled <i>Magnetically Attracted Inspecting Apparatus and Method Using a Fluid Bearing</i>.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00101">
+<othercit>U.S. Appl. No. 11/178,637, filed Jul. 11, 2005; In re: Kennedy et al.; entitled <i>Ultrasonic Array Probe Apparatus, System, and Method for Traveling Over Holes and Off Edges of a Structure</i>.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00102">
+<othercit>fischertechnik, Pneumatic Robots, Pneumatic Information; http://www.mbhs.edu/&#x2dc;josborn/palmbot/Info<sub>&#x2014;</sub>eng.pdt, available Oct. 10, 2005, pp. 1-5.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00103">
+<othercit>FANUC robotics, R-2000iA Series: http://www.fanucrobotics.com/file<sub>&#x2014;</sub>repository/fanucmain/R-2000iA%20Series.pdf, available Oct. 10, 2005, 4 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00104">
+<othercit>ABB IRB 6600: http://www.abb.co.in/global/inabb/inabb509.nsf/0/579e92967cad8bd16525703b00306b3e/$file/Robotics+IRB6600.pdf; available Oct. 10, 2005, 2 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00105">
+<othercit><i>CL&#x2014;Concentric Lock&#x2014;Pillow Blocks</i>, http://www.qmbearing.com/CLPillowBlock.html; available Apr. 6, 2005; 2 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00106">
+<othercit><i>Airpel Anti-Stiction Cylinders</i>; http://www.airpot.com/beta/html/airpel.html; available Apr. 11, 2005, 2 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>20</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 73634</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73602</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>8</number-of-drawing-sheets>
+<number-of-figures>10</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070006658</doc-number>
+<kind>A1</kind>
+<date>20070111</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kennedy</last-name>
+<first-name>James C.</first-name>
+<address>
+<city>Renton</city>
+<state>WA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Little</last-name>
+<first-name>Mark L.</first-name>
+<address>
+<city>Auburn</city>
+<state>WA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Uyehara</last-name>
+<first-name>Clyde T.</first-name>
+<address>
+<city>Kent</city>
+<state>WA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Alston &#x26; Bird LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>The Boeing Company</orgname>
+<role>02</role>
+<address>
+<city>Chicago</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Williams</last-name>
+<first-name>Hezron</first-name>
+<department>2856</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Miller</last-name>
+<first-name>Rose M</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Improved apparatus, systems, and methods for inspecting a structure are provided that use a pedestal robot mounted on a rail system, a probe extension coupler, and an inspection probe capable of performing pulse echo ultrasonic inspection. A probe may also include sled appendages and an axial braking system to inspect over holes and off edges. A probe may also include an ultrasonic pulse echo transducer array for high rate inspection; the transducer array may be mounted in a bubbler shoe for individually coupling each of the transducers in the array. A rail system may also include an optical encoder for providing location information for the robot and axial braking system. A probe extension coupler presses the inspection probe against the structure for adjusting to changes in surface contours.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="121.75mm" wi="144.36mm" file="US07640810-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="121.75mm" wi="145.12mm" file="US07640810-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="137.92mm" wi="146.39mm" file="US07640810-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="231.73mm" wi="115.57mm" orientation="landscape" file="US07640810-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="216.41mm" wi="150.03mm" orientation="landscape" file="US07640810-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="224.03mm" wi="170.94mm" orientation="landscape" file="US07640810-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="152.57mm" wi="134.62mm" file="US07640810-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="193.97mm" wi="167.98mm" file="US07640810-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="242.74mm" wi="159.17mm" file="US07640810-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">The contents of U.S. Pat. No. 6,722,202; U.S. Pat. No. 7,231,826; U.S. Patent Application Publication 2006/0055399; U.S. Pat. No. 7,320,249; and U.S. Pat. No. 7,337,673 are incorporated by reference.</p>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates generally to an apparatus, system, and method for inspecting a structure and, more particularly, to an apparatus, system, and method for non-destructive pulse echo ultrasonic inspection of a structure and inspection near holes and edges of the structure.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">Non-destructive inspection (NDI) of structures involves thoroughly examining a structure without harming the structure or requiring its significant disassembly. Non-destructive inspection is typically preferred to avoid the schedule, labor, and costs associated with removal of a part for inspection, as well as avoidance of the potential for damaging the structure. Non-destructive inspection is advantageous for many applications in which a thorough inspection of the exterior and/or interior of a structure is required. For example, non-destructive inspection is commonly used in the aircraft industry to inspect aircraft structures for any type of internal or external damage to or defects (flaws) in the structure. Inspection may be performed during manufacturing or after the completed structure has been put into service, including field testing, to validate the integrity and fitness of the structure. In the field, access to interior surfaces of the structure is often restricted, requiring disassembly of the structure, introducing additional time and labor.</p>
+<p id="p-0005" num="0004">Among the structures that are routinely non-destructively tested are composite structures, such as composite sandwich structures and other adhesive bonded panels and assemblies and structures with contoured surfaces. These composite structures, and a shift toward lightweight composite and bonded materials such as using graphite materials, dictate that devices and processes are available to ensure structural integrity, production quality, and life-cycle support for safe and reliable use. As such, it is frequently desirable to inspect structures to identify any defects, such as cracks, discontinuities, voids, or porosity, which could adversely affect the performance of the structure. For example, typical defects in composite sandwich structures, generally made of one or more layers of lightweight honeycomb or foam core material with composite or metal skins bonded to each side of the core, include disbonds which occur at the interfaces between the core and the skin or between the core and a buried septum.</p>
+<p id="p-0006" num="0005">Various types of sensors may be used to perform non-destructive inspection. One or more sensors may move over the portion of the structure to be examined, and receive data regarding the structure. For example, a pulse-echo (PE), through transmission (TT), or shear wave sensor may be used to obtain ultrasonic data, such as for thickness gauging, detection of laminar defects and porosity, and/or crack detection in the structure. Resonance, pulse echo or mechanical impedance sensors are typically used to provide indications of voids or porosity, such as in adhesive bondlines of the structure. High resolution inspection of aircraft structure is commonly performed using semi-automated ultrasonic testing (UT) to provide a plan view image of the part or structure under inspection. While solid laminates and some composite structures are commonly inspected using one-sided pulse echo ultrasonic (PEU) testing, composite sandwich structures are commonly inspected using through-transmission ultrasonic (TTU) testing for high resolution inspection. In through-transmission ultrasonic inspection, ultrasonic sensors such as transducers, or a transducer and a receiver sensor, are positioned facing the other but contacting opposite sides of the structure. An ultrasonic signal is transmitted by at least one transducer, propagated through the structure, and received by the other transducer. Data acquired by sensors is typically processed and then presented to a user via a display as a graph of amplitude of the received signal. To increase the rate at which the inspection of a structure is conducted, a scanning system may include arrays of inspection sensors, i.e., arrays of transmitters and/or detectors. As such, the inspection of the structure can proceed more rapidly and efficiently, thereby reducing the costs associated with the inspection. However, it has traditionally not always been possible to perform continuous scanning of a structure with holes and off the edges of the structure. For example, inspection probes which contact and ride along the surface of the structure under inspection and are typically supported against the structure by the pull of gravity or by pressure exerted by a motion control system, referred to as part-riding probes, may fall through a hole in a structure or off the edge of the structure. Although a structure can be inspected in a manner to scan around holes, a second inspection method typically must be performed for inspecting the edges of the structure and edges defining holes in the structure. For example, a technician can manually scan around the edges of the structure and the edges of holes in a structure using a pulse-echo or through transmission ultrasonic hand probe.</p>
+<p id="p-0007" num="0006">Non-destructive inspection may be performed manually by technicians who typically move an appropriate sensor over the structure. Manual scanning requires a trained technician to move the sensor over all portions of the structure needing inspection. While manual scanning may be required around the edges of the structure and the edges of holes in a structure, manual scanning may also be employed for scanning the remainder of the structure.</p>
+<p id="p-0008" num="0007">Semi-automated inspection systems have been developed to overcome some of the shortcomings with manual inspection techniques. For example, the Mobile Automated Scanner (MAUS&#xae;) system is a mobile scanning system that generally employs a fixed frame and one or more automated scanning heads typically adapted for ultrasonic inspection. A MAUS system may be used with pulse-echo, shear wave, and through-transmission sensors. The fixed frame may be attached to a surface of a structure to be inspected by vacuum suction cups, magnets, or like affixation methods. Smaller MAUS systems may be portable units manually moved over the surface of a structure by a technician. However, for through-transmission ultrasonic inspection, a semi-automated inspection system requires access to both sides or surfaces of a structure which, at least in some circumstances, will be problematic, if not impossible, particularly for semi-automated systems that use a fixed frame for control of automated scan heads.</p>
+<p id="p-0009" num="0008">Automated inspection systems have also been developed to overcome the myriad of shortcomings with manual inspection techniques. For single sided inspection methods, such as pulse echo ultrasonic inspection, a single-arm robotic device, such as an R-2000iA&#x2122; series six-axis robot from FANUC Robotics of Rochester Hills, Mich., or an IRB 6600 robot from ABB Ltd. of Zurich, Switzerland, may be used to position and move a pulse echo ultrasonic inspection device. For through transmission inspection, a device such as the Automated Ultrasonic Scanning System (AUSS&#xae;) system may be used. The AUSS system has two robotically controlled probe arms that can be positioned proximate the opposed surfaces of the structure undergoing inspection with one probe arm moving an ultrasonic transmitter along one surface of the structure, and the other probe arm correspondingly moving an ultrasonic receiver along the opposed surface of the structure. Conventional automated scanning systems, such as the AUSS-X system, therefore require access to both sides or surfaces of a structure for through transmission inspection which, at least in some circumstances, will be problematic, if not impossible, particularly for very large or small structures. To maintain the transmitter and receiver in proper alignment and spacing with one another and with the structure undergoing inspection, the AUSS-X system has a complex positioning system that provides motion control in ten axes. The AUSS system can also perform pulse echo inspections, and simultaneous dual frequency inspections. It is often complicated, time consuming, and expensive to program and control an automated motion control system with respect to surface contours of a structure to within sufficient precision for performing inspection and maintaining consistent quality of inspection. The automated motion control system would have to make many small movements to keep an inspection probe riding on a contoured surface. For example, if the surface contour of a structure varies across a scanning area, an automated motion control system would need to both know the precise surface contour of the structure and be capable of moving an inspection probe over the surface of the structure while maintaining consistent orientation of the inspection probe with respect to the surface contours of the structure. The automated motion control system would have to be programmed for the shape, contours, and structural features of each structure to be inspected. Furthermore, variances in surface contours of the actual structure may not precisely match the data for the surface contours of the structure provided to the automated motion control system, thereby disturbing the automated motion control system's ability to maintain the inspection probe in consistent orientation with respect to the structure.</p>
+<p id="p-0010" num="0009">Accordingly, improved apparatus, systems, and methods for continuous inspection of structures with varying surface contours and features, such as large composite structures having surface curvature and including holes, and continuous inspection at edges of the structures are desired.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0011" num="0010">The present invention provides apparatus, systems, and methods for inspecting a structure using a motion control system, a probe extension coupler, and an inspection probe capable of performing pulse echo ultrasonic inspection. Apparatus, systems, and methods of the present invention provide the capability to non-destructively inspect large, contoured, composite structures with increased speed of inspection provided by a pedestal robot mounted on a rail system, an array of transducers, and a probe capable of scanning over holes and off edges of the structure.</p>
+<p id="p-0012" num="0011">For continuous scanning applications, embodiments of apparatus, systems, and methods of the present invention use a motion control system and an extension coupler to press a part-riding probe against the surface of the structure, typically using one or more sled appendages and axial and extension braking systems, thereby reducing the necessary sophistication of the motion control system to maintain the probe in a predefined orientation and predefined position with respect to the surface of the structure.</p>
+<p id="p-0013" num="0012">According to one aspect of the present invention, an apparatus, system, and method for non-destructive inspection of a structure includes a motion control system, a probe extension coupler, and an inspection probe capable of performing pulse echo ultrasonic inspection. A probe according to the present invention may include sled appendages, an axial braking system, and at least one pulse echo ultrasonic transducer to inspect over holes and off edges by being configured for traveling over a surface of the structure along the sled appendages, using the axial and extension braking systems for temporarily locking the position of the sled appendages when traveling over holes and off edges of the structure and using the ultrasonic transducer for inspecting the structure. A probe may include an array of ultrasonic pulse echo transducers for high rate inspection. If a couplant is used to couple the transducers to the surface of the structure, the transducer array may be mounted in a bubbler shoe for individually coupling each of the transducers in the array to prevent loss of coupling of transducers remaining over the surface of the structure when one or more transducers are over a hole or off an edge. A probe according to the present invention is also configured for riding along a curved surface of a structure under the control of a robotic arm and by way of an extension coupler, and advantageously operates to provide continuous scanning of a large structure when the robotic arm is mounted on a rail system. A motion control system according to the present invention may also include an optical encoder for providing location information for the robot and braking systems. A probe extension coupler according to the present invention presses the inspection probe against the structure to adjust for surface contour changes.</p>
+<p id="p-0014" num="0013">According to another aspect of the present invention, a method may include providing an ultrasonic inspection system for inspecting a structure, the ultrasonic inspection system having a motion control system, an extension coupler, and an inspection probe; moving the probe over the structure using the motion control system; pressing the probe to the structure using the extension coupler; transmitting pulse echo ultrasonic signals from the transducer into the structure; and receiving pulse echo ultrasonic signals at the transducer reflected from the structure.</p>
+<p id="p-0015" num="0014">Embodiments of apparatus, systems, and methods of the present invention typically operate in array modes using an array of pulse echo ultrasonic transducers, thereby increasing inspection speed and efficiency while reducing cost. Apparatus, systems, and methods of the present invention are also capable of operating with a single or a plurality of pulse echo ultrasonic transducers.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWING(S)</heading>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 1</figref> is a diagram of an embodiment of an ultrasonic inspection system of the present invention.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 2</figref> is another view of the diagram of the ultrasonic inspection system of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 3</figref> is a schematic diagram of an embodiment of a water system for an ultrasonic inspection system of the present invention.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 4</figref> is a schematic diagram of an embodiment of a pneumatic system for an ultrasonic inspection system of the present invention.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic diagram of an embodiment of an electrical control system for an ultrasonic inspection system of the present invention.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 6</figref> is a schematic diagram of an embodiment of a probe extension coupler of the present invention.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 7A</figref> is a schematic diagram of an embodiment of a probe extension coupler of the present invention in a retracted position.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 7B</figref> is a schematic diagram of the extension coupler of <figref idref="DRAWINGS">FIG. 7A</figref> in an extended position.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 8</figref> is a diagram of an embodiment of an inspection probe according to the present invention.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 9</figref> is another view of the diagram of the probe of <figref idref="DRAWINGS">FIG. 8</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0026" num="0025">The present invention will be described more fully with reference to the accompanying drawings. Some, but not all, embodiments of the invention are shown. The invention may be embodied in many different forms and should not be construed as limited to the described embodiments. Like numbers and variables refer to like elements and parameters throughout the drawings.</p>
+<p id="p-0027" num="0026">The term &#x201c;motion control system&#x201d; refers generally to a system which provides motion and control (controlled motion) to another device, such as an attached inspection probe, extension coupler, drilling apparatus, or other device attached to a distal end of the motion control system. A motion control system may include one or more subsystems, such as a rail system or a robot motion control system. A motion control system may include a controller, such as a computer or similar hardware and/or software device, for issuing electronic signals to command the controlled motion of the motion control system. A subsystem of a motion control system may similarly include a controller to command the subsystem. A controller of a motion control system may be capable of communicating with a controller of a subsystem to cooperatively command the subsystem, or a controller of a motion control system may be independently capable of commanding one or more subsystems of the motion control system. The term &#x201c;robot motion control system&#x201d; refers generally to an automated device which includes a robotic arm that provides at least one direction or degree of motion, but typically provides as many as four to six degrees of motion.</p>
+<p id="p-0028" num="0027">The term &#x201c;holes&#x201d; refers to holes of varying sizes in a structure, including features described as &#x201c;cut-outs&#x201d; in the structure. The term &#x201c;edges&#x201d; refers generally to the sides of the structure, but also includes reference to the perimeter of holes, particularly large holes or cut-outs through which a conventional part-riding probe might fall through. Thus, holes may be described as having edges, and the term edges is inclusive of both an external perimeter of a structure and perimeters of internal holes in the structure. Although being characteristically different, for purposes of the present invention holes and edges differ primarily by the manner in which a probe operates near these features. For example, the probe typically travels over a hole or cut-out but travels off an edge of the structure, and possibly returning over the structure from an edge. Further, while in some instances in the description below using only one of the two terms holes and edges may be sufficient, typically both terms are used to emphasize that the described function or operation applies to both holes in the structure and edges of the structure, and not merely one of these features.</p>
+<p id="p-0029" num="0028">The term &#x201c;rotatably&#x201d; refers to a characteristic of angular motion in at least one plane, and typically only one plane as may be defined by a connection about an axis-line as described in the examples below. However, a rotatable connection may also be defined by a connection that provides angular motion in more than one plane, such as a ball-and-socket joint connection that permits motion of the joint without permitting rotation in at least one plane, such as to provide freedom of motion to pitch and roll, but not yaw.</p>
+<p id="p-0030" num="0029">An embodiment of an ultrasonic inspection apparatus, system, or method of the present invention may be used to inspect a variety of structures, such as those described above and including composite structures of a wide range of sizes and shapes, such as composite aircraft wings and fuselage barrels. While embodiments of the present invention may be particularly useful for performing non-destructive inspection of large, contoured, composite structures that include holes or cut-outs, collectively referred to herein as holes, embodiments of ultrasonic inspection apparatus and systems of the present invention may also be used for non-destructive inspection of smaller structures and/or flat structures. Embodiments of apparatus, systems, and methods of the present invention can be used for inspection of structures during manufacture or in-service.</p>
+<p id="p-0031" num="0030">The present invention provides apparatus, systems, and methods for inspecting a structure using a motion control system, a probe extension coupler, and an inspection probe capable of performing pulse echo ultrasonic inspection, including inspecting large, contoured structures and inspecting over holes and off edges of structures. Several discrete components are combined to form an ultrasonic inspection apparatus or system of the present invention. For example, a pedestal robot mounted on a rail system may be included in a motion control system. A dual action pneumatic cylinder, such as an Airpel&#xae; E9 D1200 anti-stiction cylinder from Airpot Corporation of Norwalk, Conn., with a corresponding support structure may be included in an extension coupler. And a probe with an array of pulse echo ultrasonic transducers, sled appendages, and an axial braking system may be included in a probe.</p>
+<p id="p-0032" num="0031">Apparatus, systems, and methods of the present invention provide the capability to non-destructively inspect large, contoured, composite structure with increased speed of inspection using a pedestal robot mounted on a rail system, an array of transducers, and a probe capable of scanning over holes and off edges of the structure. A probe according to the present invention may include sled appendages and an axial braking system to inspect over holes and off edges. A probe may also include at least one pulse echo ultrasonic transducer, but typically includes an array of pulse echo ultrasonic transducers for high rate inspection. If a couplant is used to couple the transducers to the surface of the structure, the transducer array may be mounted in a bubbler shoe for individually coupling each of the transducers in the array to prevent loss of coupling of transducers remaining over the surface of the structure when one or more transducers are over a hole or off an edge. A probe according to the present invention is also configured for riding along a curved surface of a structure under the control of a robotic arm and by way of an extension coupler, and advantageously operates to provide continuous scanning of a large structure when the robotic arm is mounted on a rail system. A motion control system according to the present invention may also include an optical encoder for providing location information for the robot and axial braking system. A probe extension coupler according to the present invention presses the inspection probe against the structure for adjusting to changes in surface contours.</p>
+<p id="p-0033" num="0032">Many structures requiring non-destructive inspection are contoured, such as large and thin graphite structures. Surface contour changes in these structures often are not precisely defined in three-dimensions for referenced motion by a motion control system, such as a pedestal robot. However, using an embodiment of an ultrasonic inspection system of the present invention, a motion control system may be programmed to merely move an inspection probe and extension coupler over a general shape of the structure for scanning, but not precisely adjust for surface contour changes to maintain transducers of the inspection probe in constant orientation with respect to the contoured surface. Rather, by allowing the probe to ride across the structure and having the extension coupler press the probe against the structure, the motion control system need only move the probe and extension coupler over the structure for inspection and does not need to adjust for surface contour changes. The extension coupler pressing the probe against the surface and the freedom of motion of the probe compensate for surface contour changes, thereby, overcoming unknown and/or un-programmed variations in the surface of the structure. Freedom of motion of an inspection probe is typically achieved by rotatably connecting the sled appendages on which the probe rides over the surface of the structure. Contact with the surface ensures consistent orientation of transducers with respect to the structure for pulse echo ultrasonic inspection. Contact with the surface also permits accurate position measurement of the inspection device during continuous scanning, such as keeping an optical or positional encoder in physical and/or visual contact with the surface of the structure under inspection. Contact with the surface also permits the probe to disperse a couplant between the surface of the structure and the pulse echo ultrasonic transducers. Thus, an embodiment of an ultrasonic inspection program may use a low-cost, commercial, industrial robot as part of the motion control system without requiring programming the motion control system for controlling precise motion of an inspection probe to maintain constant orientation with the surface of a structure. Rather, the motion control system may be programmed merely to scan the structure, or a section of the structure, without compensating for surface contour variations or merely compensating for the overall shape of the structure and gross changes in surface contours. For example, to inspect a fuselage barrel with a nineteen foot diameter, a motion control system of an embodiment of an ultrasonic inspection system of the present invention may move back and forth to scan a five-foot perimeter rectangular scan area, allowing an extension coupler and an inspection probe according to the present invention to compensate for changes in the surface contour. The entire fuselage barrel can be inspected by scanning five-foot perimeter rectangular scan areas and rotating the fuselage barrel by 30&#xb0;. An extension coupler between the motion control system and the inspection probe adjusts for surface contour variations. The extension coupler allows the probe to extend and retract with, typically, as much as one foot of z-axis travel, allowing the probe to move in and out one foot to compensate for the contour of the structure. Also, by allowing the probe to ride on the surface of the structure, a probe is capable of using a large array of ultrasonic transducers, such as a four-by-four offset pattern of pulse echo ultrasonic transducers, to provide a high inspection rate and increased coverage for inspection.</p>
+<p id="p-0034" num="0033">Where a couplant is used, a probe may also include a bubbler shoe that disperses the couplant around each pulse echo ultrasonic transducer to independently couple the signal from each transducer to the surface of the part. By individually coupling each transducer to the surface of the part, the bubbler shoe compensates for when the probe travels over a hole or off an edge of the structure where all of the transducers are not over the surface of the structure. In such a manner, only the probes over the hole or off the edge of the structure will lose the coupling with the surface, but the transducers remaining over the surface of the structure will continue to be independently coupled.</p>
+<p id="p-0035" num="0034">An axial braking system of a probe may be used to fix the position of sled appendages for traveling over holes or off an edge of the structure. Thus, for continuous scanning applications, the probe contacts and rides along the surface of the structure on the sled appendages, but as the probe approaches a hole or edge, the axial braking system, either using data of the hole and edge positions for the structure and the current location of the probe or using braking signals from a motion control system, fixes the current position of the sled appendages for traveling over the hole or off an edge and again contacting and riding along the surface of the structure after passing the hole or retracting from the edge at which time the axial braking system releases to permit the sled appendages to follow the contour of the surface of the structure. An axial braking system of an embodiment of a probe according to the present invention can operate in more than one axis, and typically operates in two perpendicular axes referred to herein as the x-axis perpendicular to the distal length of the sled appendages to control the front-to-back tilt, or pitch, of the sled appendages and the y-axis parallel to the distal length of the sled appendages to control the side-to-side slant, or roll, of the sled appendages.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 1</figref> is a diagram of an embodiment of an ultrasonic inspection system of the present invention. The system is capable of non-destructive inspection of a large, contoured, composite structure, such as a fuselage barrel <b>10</b> including door cut-outs <b>12</b> and window holes <b>14</b>. The ultrasonic inspection system includes a motion control system having a robotic control system <b>30</b> mounted to a robot carriage <b>22</b> of a rail system. The term &#x201c;robot carriage&#x201d; refers to a portion of a rail system to which a robot motion control system is attached for being moved along the rail system. The rail system also includes structure <b>20</b> configured to provide translational motion of the robot carriage <b>22</b> over the length of the rail system. For example, the structure <b>20</b> may have a rack and pinion configuration, and the robot carriage <b>22</b> may include an electronic drive motor which operates a gear to translate the robotic control system <b>30</b> along the length of the rail system. A rail system may be mounted in any manner to provide translation of a robotic control system, including an overhead rail system, a wall-mounted rail system, and a ground positioned rail system. A robotic control system <b>30</b> may be any type of automated robotic motion control system mounted to the robot carriage <b>22</b>, such as an R2000iA&#x2122; Series 6-Axis Robot from FANUC Robotics or an IRB 6600 Robot from ABB.</p>
+<p id="p-0037" num="0036">A probe extension coupler <b>40</b> may be attached to the distal end of the robotic arm of the robotic motion control system. The extension coupler <b>40</b> connects the motion control system with an inspection probe <b>50</b>. An inspection probe <b>50</b> according to the present invention is capable of traveling over holes and off edges of a structure under inspection. For example, as the motion control system scans a longitudinal rectangular section of the perimeter of the fuselage barrel <b>10</b>, the inspection probe <b>50</b> and extension coupler <b>40</b> may operate to prevent the inspection probe <b>50</b> from falling through a hole or cut-out <b>12</b>, <b>14</b> or off the edge of the fuselage barrel <b>10</b>. In such a manner, the combination of the motion control system, extension coupler, and inspection probe provide for inspection of large, contoured structures, such as a fuselage barrel <b>10</b>, including structures requiring inspection over holes and at the edges of the structure.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 2</figref> provides another view of the diagram of the ultrasonic inspection system of <figref idref="DRAWINGS">FIG. 1</figref>, specifically providing a better view of embodiments for an extension coupler <b>40</b> and inspection probe <b>50</b> according to the present invention. An inspection probe <b>50</b> according to the present invention is further described in U.S. Pat. No. 7,337,673, the contents of which are hereby incorporated by reference.</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 3</figref> is a schematic diagram of an embodiment of a water system for an ultrasonic inspection system of the present invention. Water, or another fluid, may be used as a couplant for ultrasonic transducers <b>352</b> of the inspection probe <b>350</b>. To provide water for coupling the ultrasonic transducers <b>352</b>, a water source <b>302</b> may provide water into a reservoir <b>304</b> from which water is extracted by a pump <b>306</b>, possibly including a back pressure valve <b>307</b>. Tubing <b>308</b>, such as Tygon&#xae; tubing of St. Gobain Performance Plastics Corporation of Worcester, Mass., may be attached between the pump <b>306</b> and the motion control system, such as between the pump <b>306</b> and a mechanical mounting <b>312</b> on the robot carriage <b>310</b>. The tubing <b>308</b> between the pump <b>306</b> may be carried through a flexible robot cable track <b>309</b> to the robot carriage <b>310</b>. The robot carriage <b>310</b> may include a flow control clamp <b>314</b> to turn on and off the flow of water from the robot carriage <b>310</b>. The water may continue from the flow control clamp <b>314</b> through additional tubing <b>318</b> to a port <b>386</b>, referred to as ATI port number <b>6</b>, on the end of the robot arm <b>370</b>. A robot interface <b>380</b> may be included at the end of the robot arm <b>370</b> for providing a master-slave attachment between the robot arm <b>370</b> and a device attached to the end of the robot arm <b>370</b>. For example, a probe extension coupler <b>340</b> may include a corresponding ATI interface <b>390</b> which operates to connect the extension coupler <b>340</b> to the robot arm <b>370</b>, and specifically to connect the various feeds from the robot arm <b>370</b> ATI interface <b>380</b> to the extension coupler <b>340</b> ATI interface <b>390</b>. Additional tubing <b>348</b> passes the water from the extension coupler <b>340</b> to the ultrasonic transducers <b>352</b> of the inspection probe <b>350</b>. During inspection, the water being used as a couplant may be passed between the ultrasonic transducers <b>352</b> and the surface of the structure under inspection. Water that falls from the structure under inspection to the floor may be collected and recycled through the water system. For example, the excess water from the structure may pass through a grating <b>362</b> into a reservoir <b>360</b> from which a pump <b>366</b> will return the water to the original reservoir <b>304</b>.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 4</figref> is a schematic diagram of an embodiment of a pneumatic system for an ultrasonic inspection system of the present invention. Many components of an ultrasonic inspection system may rely upon air pressure for operation. For example, a dual-action pneumatic cylinder <b>446</b> of an extension coupler <b>440</b> may use air pressure to extend and retract an inspection probe <b>450</b>. Similarly, the inspection probe <b>450</b> may use air pressure for activation of pneumatic cylinders of an axial braking system to lock sled appendages in fixed positions for traveling over a hole or off an edge of a structure. A pneumatic air pressure system according to the present invention may use an air supply <b>406</b>, such as an air compressor providing approximately 90 psi (pound per square inch) pressure. The hose from the air supply <b>406</b> may be attached to a fitting <b>407</b> to which a hose <b>408</b> may be connected for running through the flexible robot cable track <b>409</b>. The hose <b>408</b> may attach to an air manifold <b>412</b> of a robot carriage <b>410</b>. The air manifold <b>412</b> may feed a fitting <b>413</b> for manifold use, an ATI connect/disconnect valve <b>414</b>, and a fitting <b>416</b> for use by the extension coupler <b>440</b> and inspection probe <b>450</b> for nondestructive inspection. A second air manifold <b>417</b> may supply air to pressure regulators <b>418</b>, <b>419</b> to control the pressure provided to various components of the ultrasonic inspection system. For example, a pressure regulator <b>418</b> may provide between 50 to 90 psi pressure through a tube <b>477</b> connected to ATI port number <b>7</b> <b>487</b> which supplies ATI interface <b>490</b> port <b>7</b> <b>497</b> that feeds the brake cylinders <b>453</b>, <b>454</b>, also referred to as gimbal locks, of a braking system on the inspection probe <b>450</b> and a z-axis lock <b>441</b> on the extension coupler <b>440</b>. The z-axis lock <b>441</b> is included as part of the extension coupler <b>440</b> to prevent the extension coupler from pressing the inspection probe <b>450</b> through a hole or off an edge of the part. Rather, the z-axis lock is activated to hold the inspection probe <b>450</b> at a fixed location corresponding to the position of the surface of the structure proximate a hole or edge. When the inspection probe <b>450</b> has cleared the hole and returns over the structure, the z-axis lock <b>441</b> is released to permit the extension coupler <b>440</b> to continue to press the probe <b>450</b> against the structure. A pressure regulator <b>419</b> may provide approximately 30 psi pressure through a tube <b>478</b> to ATI port <b>8</b> <b>488</b> which feeds ATI interface <b>490</b> port <b>8</b> <b>498</b> that supplies air pressure to the pneumatic cylinder <b>446</b> of the extension coupler <b>440</b>.</p>
+<p id="p-0041" num="0040">A manual switch <b>411</b> may be included in the ultrasonic inspection system for controlling pressure to the pneumatic cylinder <b>446</b> of the extension coupler <b>440</b> to control whether the pneumatic cylinder <b>446</b> is activated to extend the inspection probe <b>450</b> against a structure. For example, during set-up operations it may be advantageous to have the pneumatic cylinder <b>446</b> retracted rather than extended in order to provide separation between the structure and the inspection probe. However, in order to operate the ultrasonic inspection system for nondestructive inspection of the structure, the manual switch <b>411</b> may be turned on or opened to provide air pressure to the pneumatic cylinder <b>446</b> in order to extend the probe <b>450</b> against the structure. Electrical switches <b>444</b>, <b>445</b> may be included, such as in the inspection coupler <b>440</b>, to control the flow of air and activation of the pneumatic cylinders <b>446</b>, <b>453</b>, <b>454</b>, <b>441</b> of the extension coupler <b>440</b> and inspection probe <b>450</b>. The electrical air switch <b>444</b> that controls activation of the brake cylinders <b>453</b>, <b>454</b> and z-axis lock <b>441</b> may be either opened or closed to control whether pressure is provided to those pneumatic cylinders <b>453</b>, <b>454</b>, <b>441</b>. The electronic air switch <b>445</b> for the dual-action pneumatic cylinder <b>446</b> of the extension coupler <b>440</b> may be capable of providing air pressure to two valves <b>447</b>, <b>448</b> on the pneumatic cylinder <b>446</b> in order to extend and retract the piston rod of the dual-action pneumatic cylinder <b>446</b>.</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic diagram of an embodiment of an electrical control system for an ultrasonic inspection system of the present invention. The electrical control system may include power sources, motion control subsystems, and inspection data subsystems. For example, the electrical control system of <figref idref="DRAWINGS">FIG. 5</figref> includes a DC power source <b>566</b> which may be located on a fixed bench location or on a wheeled cart used for nondestructive inspection, a 110 volt AC power source <b>502</b> which may be located at a fixed location, and an intermediate 110 volt AC power source <b>513</b> which may be positioned to ride on the robot carriage <b>510</b>. A robot controller <b>504</b> may be included in the electrical control system to operate the motion control of a robot carriage <b>510</b>, rail system, and robotic arm <b>570</b> and to operate pneumatic cylinder locks <b>553</b>, <b>554</b>, <b>501</b> on an inspection probe <b>550</b> and an extension coupler <b>540</b>. An inspection data subsystem may include a computer <b>562</b> such as a personal computer with a display unit <b>564</b> in communication with an ultrasonic inspection device, such as an OmniScan&#x2122; ultrasonic pulser/receiver unit <b>518</b> from RID Tech of Quebec, Canada, in communication with ultrasonic transducers <b>552</b> of the inspection probe <b>550</b>. An optical encoder <b>517</b> may also be included for transmitting position data related to the location of the inspection probe on the structure under inspection. For example, an optical encoder may measure the position of the robot carriage <b>510</b> along the rail system and provide position data to either the ultrasonic inspection device <b>518</b> or the computer <b>562</b>.</p>
+<p id="p-0043" num="0042">The operation of the electrical control system may include selectively extending or retracting the pneumatic cylinder <b>546</b> of the extension coupler <b>540</b> by activating or deactivating a switch <b>568</b> for a power source <b>566</b>. Separately, the robot controller <b>504</b> may control the robot carriage <b>510</b>, robot arm <b>570</b>, and inspection probe <b>550</b>. For example, the 110 volt alternating current power source <b>502</b> may provide power to an intermediate 110 volt alternating current source <b>513</b> of the robot carriage <b>510</b> which supplies power to the ultrasonic inspection device <b>518</b> thereby providing power for the optical encoder <b>517</b> and the inspection probe <b>550</b>. Similarly, the robot controller <b>504</b> may provide sufficient power for activating electronic switches <b>544</b> in the extension coupler <b>540</b> for controlling air pressure to brake cylinders <b>553</b>, <b>554</b> in the braking system of the inspection probe <b>550</b> and z-axis lock <b>501</b> for the pneumatic cylinder <b>546</b> of the extension coupler <b>540</b>. Motor control signals <b>505</b>, also referred to as robotic motion control signals, may be provided from the robot controller <b>504</b> to the robot motors <b>515</b> to drive the robot carriage <b>510</b> and the robot arm <b>570</b>.</p>
+<p id="p-0044" num="0043">The input/output signals <b>506</b> from the robot controller to the electronic air switches <b>544</b> complement the motor control signals <b>505</b> for the robot carriage <b>510</b> and the robot arm <b>570</b>. Specifically, the input/output signals <b>506</b>, in coordination with the activation of the pneumatic cylinder <b>546</b> of the extension coupler <b>540</b>, permit the robot controller <b>504</b> to move the robot carriage <b>510</b> and robot arm <b>570</b> for inspection of a structure without requiring the cost and complexity associated with programming the motion control system for the specific contours of the structure. Accordingly, an embodiment of the present invention reduces the accuracy requirements of a robot controller <b>504</b> and, thereby, reduces the robot hardware and software costs and cost of technicians operating and programming the robot software. To reduce the accuracy requirements of the robot controller <b>504</b>, the combination of an extension coupler <b>540</b> and inspection probe <b>550</b> creates a nondestructive inspection apparatus capable of inspecting over holes and off edges of the structure. More particularly, the extension coupler <b>540</b> compensates for surface contours not programmed into the robot controller by exerting an outward force to press the probe <b>550</b> against the structure at all times regardless of the particular contour of the surface of the structure. For example, the robot controller <b>504</b> need only adjust the robot arm <b>570</b> sufficient to position the inspection probe <b>550</b> within approximately six inches of the surface of the structure. The extension coupler <b>540</b> compensates for the additional six inch distance, and may compensate for as much as twelve inches in the z-axis, by extending the piston rod <b>549</b> from the pneumatic cylinder <b>546</b> of the extension coupler. The length of compensation in the z-axis by an embodiment of an extension coupler according to the present invention is limited by the length of extraction and retraction of a piston rod of a dual action cylinder and the corresponding structure supporting the travel of the piston of the dual action cylinder; larger cylinders may compensate for more than twelve inches of z-axis travel.</p>
+<p id="p-0045" num="0044">The inspection probe <b>550</b> compensates for x- and y-axes variations in the contour of the surface of the structure using rotatably attached part-riding structures of the inspection probe <b>550</b>. For example, the inspection probe <b>550</b> may include a pair of sled appendages attached to a frame of the inspection probe which are rotatably attached in one axis and have a frame rotatably attached or hinged about a perpendicular axis to provide freedom of motion about two axes such as an x- and y- pair of axes. An ultrasonic inspection system according to the present invention is capable of scanning over holes and off edges of the part by locking the rotating motion of the inspection probe part-riding structures and outward force of the pneumatic cylinder <b>546</b> of the extension coupler <b>540</b>. For example, as the robot controller <b>504</b> moves the inspection probe <b>550</b> over a hole, the robot controller <b>504</b> may activate piston locks <b>553</b>, <b>554</b>, <b>501</b> on the inspection probe <b>550</b> and extension coupler <b>540</b> to fix the position of the rotatable structures of the inspection probe <b>550</b> and piston rod <b>549</b> of the pneumatic cylinder <b>546</b> of the extension coupler <b>540</b> for traveling over the hole and release the piston locks <b>553</b>, <b>554</b>, <b>501</b> when the robot controller <b>504</b> positions the inspection probe <b>550</b> past the hole to continue scanning the structure by way of the part-riding functionality of the inspection probe <b>550</b>. In general terms, control software, such as part of the robot controller <b>504</b>, informs the braking system of the inspection probe when a hole in the structure starts, i.e., when to lock the positions of sled appendages of the inspection probe <b>550</b>, and when the hole in the structure ends, i.e., when to unlock sled appendages to resume following the surface contour and shape of the structure. Control software may similarly inform the braking system of the extension coupler <b>540</b> when the inspection probe <b>550</b> is about to travel over a hole so the extension coupler <b>540</b> does not attempt to press the probe <b>550</b> through the hole, i.e., when to lock the z-axis position of the piston rod <b>549</b>, or similar extending and retracting rod, of the extension coupler <b>540</b>, and when the probe has passed over the hole, i.e., when to unlock the z-axis to resume pressing the inspection probe <b>550</b> against the surface of the structure.</p>
+<p id="p-0046" num="0045">As the non-destructive inspection of a structure occurs using an embodiment of the present invention, an ultrasonic inspection device <b>518</b> receives inspection data from ultrasonic transducers <b>552</b> of an inspection probe <b>550</b>. The ultrasonic inspection device <b>518</b> provides the inspection data, possibly associated with position information from an optical encoder <b>517</b>, to a computer <b>562</b> for evaluation by a technician on a display screen <b>564</b>. Although an ultrasonic device <b>518</b> may provide visual recognition of the inspection, a separate computer <b>562</b> using specialized inspection display software may provide customized information for the benefit of the technician. For example, the inspection data software may combine the inspection data from ultrasonic transducers <b>552</b> with position data from an optical encoder <b>517</b> with electronic data <b>599</b> representing the configuration of the structure under inspection, including position information for holes and edges of the structure, to provide the technician a virtual image of the ongoing non-destructive inspection by the ultrasonic inspection system.</p>
+<p id="p-0047" num="0046">An extension coupler according to the present invention provides a connection between a motion control system, such as connecting a pedestal robot mounted onto a rail system, and an inspection probe. An extension coupler accommodates for depth changes between the position of a motion control system and the surface of a structure to allow an inspection probe to scan the structure regardless of changing curved surfaces. By pressing the inspection probe against the structure, an extension coupler prevents the motion control system from needing to adjust for surface contours of a structure. To adjust for surface contours by pressing the inspection probe against the structure, an extension coupler may use a double action cylinder, typically a double action pneumatic cylinder, to maintain constant pressure of the inspection probe against the structure. For example, as the inspection probe moves the surface of a structure, the extension coupler will extend and retract to maintain a consistent pressure on the inspection probe for contacting the structure.</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIGS. 6</figref>, <b>7</b>A, and <b>7</b>B are schematic diagrams for an embodiment of an extension coupler of the present invention. The extension coupler <b>400</b> includes a support structure to house a double action cylinder <b>602</b> with an extending and retracting cylinder rod <b>628</b>. A double action cylinder <b>602</b> pushes out in one direction, extends or extracts, and pulls in another direction, retracts. An extension coupler <b>600</b> may include a support structure that includes a main base plate <b>692</b> for mounting the extension coupler <b>600</b> to a motion control system, such as to the end of a robot arm. A pair of vertical plates <b>612</b>, <b>606</b> may be mounted on opposing sides of the main base plate <b>692</b>. The double action cylinder <b>602</b> may be mounted to one of the vertical plates <b>606</b>, also referred to as the cylinder holder vertical plate, which may be accomplished using a pair of cylinder brackets <b>604</b>, <b>605</b> at either end of the double action cylinder <b>602</b>. One cylinder bracket <b>605</b> may be mounted to the cylinder holder vertical plate <b>606</b> by attachment to a u-bracket section <b>610</b> mounted to the main base plate <b>692</b> and to which the cylinder holder vertical plate <b>606</b> is attached. The other cylinder bracket <b>604</b> may be mounted to a spacer section <b>608</b> attached to the cylinder holder vertical plate <b>606</b>. The main base plate <b>692</b> and two opposing u-bracket sections <b>610</b>, <b>618</b> may be attached to form a u-bracket for supporting an end of the extension coupler <b>600</b>. The vertical plates <b>612</b>, <b>606</b> may be mounted to the main base plate <b>692</b> by attachment to the opposing u-bracket sections <b>618</b>, <b>610</b>.</p>
+<p id="p-0049" num="0048">A pillow block bearing <b>616</b> may be mounted to the vertical plate <b>612</b>, also referred to as the shaft holder vertical plate, which may be accomplished by using a pillow block bearing mount <b>614</b>. The pillow block bearing <b>616</b> supports rotation and translation of a transducer extension rod <b>620</b>, also referred to as a main drive shaft. The transducer extension rod <b>620</b> is connected to an inspection probe. Although a pillow block bearing might be used to support extension of the cylinder rod <b>628</b>, also referred to as a piston rod, the pillow block bearing <b>616</b> of the depicted extension coupler <b>600</b> supports the transducer extension rod <b>620</b> which is connected to a transition rod <b>624</b>, also referred to as a push rod, by an interface plate <b>622</b>, also referred to as a lower rod interface plate. The transition rod <b>624</b> is connected to the cylinder rod <b>628</b> by an interface plate <b>626</b>, also referred to as an upper rod interface plate. When the cylinder rod <b>628</b> extends, the transition rod <b>624</b> transfers the extending motion to the transducer extension rod <b>620</b>. When the cylinder rod <b>628</b> retracts, the transition rod <b>624</b> transfers the retracting motion to the transducer extension rod <b>620</b>. An advantage of using such a configuration is that the extension coupler <b>600</b> can use different dimensions of rods, such as 0.25 inch diameter cylinder and transition rods <b>628</b>, <b>624</b> and a 0.625 inch diameter transducer extension rod <b>620</b>. Another advantage for this configuration using a transition rod <b>624</b> and interface plates <b>622</b>, <b>626</b> between the transducer extension rod <b>620</b> and cylinder rod <b>628</b> is to provide stability for the transducer extension rod <b>620</b> rather than exerting sheer pressure on a thin cylinder rod <b>628</b> which might break a glass cylinder in the dual action cylinder <b>602</b>. If necessary, or as desired, an extension base plate <b>690</b>, also referred to as an ATI interface, may be mounted to the main base plate <b>692</b> to provide quick connect and disconnects for supply lines, such as a pneumatic air pressure supply line, a water couplant supply line, electrical supply lines, and data input output lines, to an ATI interface of a robot arm of a motion control system.</p>
+<p id="p-0050" num="0049">The dual action cylinder <b>602</b> operates using regulated air to provide the dual action of extension and retraction and to exert a consistent pressure, typically set between fifty to seventy psi pressure, on the inspection probe to press the inspection probe against the surface of the structure for inspection with two to three pounds of force. For example, if the extension coupler is configured to exert a continuous pressure of fifty psi to the inspection probe against the structure, as the inspection probe moves over a portion of the structure where the surface of the structure is contoured to decrease the distance between the structure and the robot, the extension coupler will sense an increased pressure and compensate for the surface contour by decreasing the outward force on the inspection probe until the extension coupler retracts to maintain the continuous two pounds force on the inspection probe against the structure. A flow control valve may be used to provide a full range of air flow to the pneumatic cylinder to provide the proper speed of actuation and retraction of pressure exerted to the inspection probe to compensate for surface contours of the structure.</p>
+<p id="p-0051" num="0050">In <figref idref="DRAWINGS">FIGS. 7A and 7B</figref>, a z-axis lock <b>740</b>, also referred to as a z-axis brake or z-brake, may be included in the dual action cylinder <b>702</b>, or just above the dual action cylinder <b>702</b>, to lock the position of the cylinder rod <b>628</b>. When an inspection probe travels over a hole or off an edge of the structure during inspection, the dual action cylinder <b>602</b> should not press the inspection probe through the hole or over the edge of the structure, but should remain in the current extended or retracted position so the inspection probe will return to the surface of the structure when the inspection probe clears the hole or returns from off the edge of the structure. One way to accomplish holding the extended or retracted position of the dual action cylinder <b>602</b> is to have a z-axis lock <b>740</b>, such as an inflatable bladder, exert pressure on the cylinder rod <b>628</b> to prevent the cylinder rod from extending to push the inspection probe through a hole or over an edge of the structure.</p>
+<p id="p-0052" num="0051">Inspection probes according to the present invention are described fully in U.S. Pat. No. 7,337,673. Basic functionality and structure of an embodiment for an inspection probe according to the present invention are described below with reference to <figref idref="DRAWINGS">FIGS. 8 and 9</figref>.</p>
+<p id="p-0053" num="0052">Conventional part-riding probes, probes which contact and ride along the surface of the structure under inspection, may fall through a large hole or off the side of a part rather than having the ability to travel over holes and off the edge of a part for inspection. Using conventional part-riding probes, a structure typically is scanned in a manner to go around holes and to not inspect near edges, leaving the edges of the structure to be inspected by a second inspection method, such as by a technician using a manual pulse echo scanning device.</p>
+<p id="p-0054" num="0053">By comparison, a part-riding inspection probe according to the present invention permits inspection over holes and off edges of a structure. Sled appendages, or sleds, of a probe according to the present invention are linear extensions rotatably attached to the bottom of the probe and upon which the probe rides over a surface of the structure. An axial braking system according to the present invention operates to temporarily fix the current positions of the sled appendages to maintain those positions while the probe travels over a hole or off an edge of the structure. An axial braking system may operate in one or more axes. For example, the braking system may lock simply in an x-axis, in both x- and y-axes, or in x-, y-, and z-axes; although, as described above, fixing an inspection probe in the z-axis may be accomplished using a z-axis lock on an extension coupler. The axial braking system fixes the position of the sled appendages by locking the axes of motion of the sled appendages before traveling over a hole or off an edge of the structure.</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIGS. 8 and 9</figref> are schematic diagrams of an embodiment of an inspection probe according to the present invention, also generally referred to as a probe and as a part-riding inspection probe. The inspection probe <b>810</b> includes two sled appendages <b>812</b>, <b>813</b> located on opposite sides of the inspection probe <b>810</b>. The sled appendages <b>812</b>, <b>813</b> are rotatably attached to a frame member <b>814</b> of the inspection probe <b>810</b> about a first axis <b>824</b> defining a first direction of motion for the sled appendages <b>812</b>, <b>813</b>, also referred to as an x-axis, front-to-back tilt axis, or pitch axis. The frame of the inspection probe <b>810</b> also includes a second frame member <b>816</b> which is rotatably connected to the first frame member <b>814</b> about a second axis <b>826</b> defining a second direction of motion for the sled appendages <b>812</b>, <b>813</b>, also referred to as a y-axis, side-to-side slant axis, or roll axis. By having two rotational axes, the sled appendages <b>812</b>, <b>813</b> are capable of rotating in at least two directions of motion with respect to a motion control system connected to the inspection probe <b>810</b>, such as by way of an attachment at the opening <b>818</b> and securing screws <b>819</b> to connect to a transducer extension rod of an extension coupler, to compensate for surface variations of the structure, such as shape and contour characteristics of the surface for which the motion control system does not adjust. Further, because as described below, a transducer holder or bubbler shoe for an inspection apparatus of the present invention is connected to sled appendages, rather than the frame, the transducers maintain the same position and orientation as achieved by the sled appendages, thereby providing the transducers a consistent orientation with respect to the surface of the structure over which the inspection apparatus rides on the sled appendages. Maintaining a consistent orientation, distance and angle, of the transducers with respect to the surface of the structure ensures consistent quality of inspection by the transducers.</p>
+<p id="p-0056" num="0055">At least one of the sled appendages <b>812</b>, <b>813</b> includes an upper portion <b>822</b>, <b>823</b> that functions as a stationary brake plate against which a brake disc <b>830</b> of the axial braking system can be applied to fix the position of the sled appendage about the first axis of motion <b>824</b>. An axial braking system of an embodiment of the present invention may also include a pneumatic brake cylinder <b>832</b> with an extendable piston arm <b>834</b> to which a brake disc <b>830</b> is attached at the distal end of the extendable piston arm <b>834</b> protruding from the brake cylinder <b>832</b>. A brake cylinder <b>832</b> may be activated by any conventional method, such as by compressing a fluid, typically air, through a supply line <b>838</b> into a valve <b>836</b> attached to the brake cylinder <b>832</b>. When the brake mechanism is activated, the compression of fluid causes a piston inside the brake cylinder <b>832</b> and attached to the distal end of the extendable piston arm <b>834</b> inside the brake cylinder <b>832</b> to force the extendable piston arm <b>834</b> out of the brake cylinder <b>832</b> to force the brake disc <b>830</b> to press against the stationary brake plate <b>822</b>, <b>823</b> of one or more sled appendages <b>812</b>, <b>813</b>.</p>
+<p id="p-0057" num="0056">To fix the position of the sled appendages in the second axis of motion <b>826</b>, a second brake plate <b>828</b> may be affixed to the first frame member <b>814</b> to permit a second brake mechanism <b>840</b>, <b>842</b>, <b>844</b>, <b>846</b>, <b>848</b>, to engage the second stationary brake plate <b>828</b> in the same manner that the first brake mechanism <b>830</b>, <b>832</b>, <b>834</b>, <b>836</b>, <b>838</b> engages the first stationary brake plate <b>822</b>, <b>823</b> to fix the position of the sled appendages <b>812</b>, <b>813</b> about the first axis of motion <b>824</b>. The first frame member <b>814</b> may include a vertical support member <b>815</b> connected to the second stationary brake plate <b>828</b> to provide stability between the first frame member <b>814</b> and the second stationary brake plate <b>828</b>, such as when a brake disc <b>840</b> is pressed against the second stationary brake plate <b>828</b> to fix the position of the sled appendages in the second axis of motion <b>826</b>. An axial braking system of an alternative embodiment may also include a brake mechanism in a third direction of motion, such as a vertical z-axis with respect to the surface of the structure, and may be incorporated into an attachment to a motion control system, such as an extension coupler.</p>
+<p id="p-0058" num="0057">The inspection probe <b>810</b> includes at least one pulse echo ultrasonic transducer <b>850</b>. If not using a couplant between the transducers <b>850</b> of the inspection probe <b>810</b> and the structure, a transducer holder may be attached to the sled appendages <b>812</b>, <b>813</b> to support the transducers <b>850</b>, such as supported in an array where a plurality of transducers are used to increase the inspection coverage area. As mentioned above, by attaching the transducer holder, or bubbler shoe as described below, to the sled appendages <b>812</b>, <b>813</b> the transducer holder and transducers <b>850</b> supported thereby also maintain constant orientation with the surface of the structure over which the inspection probe <b>810</b> rides because the inspection probe <b>810</b> rides over the surface of the structure on the sled appendages <b>812</b>, <b>813</b>. Because inspection of a structure typically requires ensuring that the transducers maintain constant orientation, distance and angle, with respect to the surface of the structure, attaching a transducer holder, or bubbler shoe, to sled appendages ensures that the transducer holder, or bubbler shoe, and transducers supported thereby also maintain constant orientation with respect to the surface of the structure for consistent quality of inspection by the transducers.</p>
+<p id="p-0059" num="0058">If a couplant is to be used to couple the ultrasonic signals from the transducers <b>850</b> into the structure and reflected from the structure back to the transducers <b>850</b>, a bubbler shoe <b>860</b> may be incorporated into the inspection probe <b>810</b>. The bubbler shoe <b>860</b> individually couples each transducer <b>850</b> rather than using a single cavity to couple all of the transducers <b>850</b>. A bubbler shoe may include a top layer <b>862</b> that includes holes <b>864</b> to permit access to the transducers <b>850</b>, such as by the transducer protruding through the holes <b>864</b> in the top layer <b>862</b> or by permitting a wired connection through the holes <b>864</b> in the top layer <b>862</b> for communication with the transducers <b>850</b>. The top layer <b>862</b> may also include one or more fluid inlets <b>868</b>, <b>869</b> through which a couplant may be injected into the bubbler shoe <b>860</b>. The bubbler shoe <b>860</b> may also include a bottom layer that, together with the top layer <b>862</b>, define a cavity through which a couplant from the fluid inlet <b>868</b>, <b>869</b> can flow to individually couple each transducer <b>850</b>. By way of example, such cavities may be a single open cavity providing a fluid path to each transducer or may be a cavity structured with a manifold configuration whereby the couplant passes into separate subcavities that lead to the individual transducers. The bottom layer includes holes through which the couplant passes to couple the transmission of ultrasonic signals from the transducers <b>850</b>. The transducers <b>850</b> may pass through the holes in the bottom layer, may terminate inside the cavity, or may terminate within the bottom layer.</p>
+<p id="p-0060" num="0059">The invention should not be limited to the specific disclosed embodiments. Specific terms are used in a generic and descriptive sense only and not for purposes of limitation.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>That which is claimed:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A system for non-destructive inspection of a structure, comprising:
+<claim-text>a motion control system comprising a robot control system, wherein the robot control system comprises a robotic arm;</claim-text>
+<claim-text>an extension coupler attached to the robotic arm, the extension coupler having an extendable and retractable distal end; and</claim-text>
+<claim-text>an inspection probe attached to the distal end of the extension coupler, configured for traveling over holes and off edges of the structure, and comprising at least one pulse echo ultrasonic transducer configured for inspecting the structure as the inspection probe and transducer are moved over the structure by at least one of the motion control system and extension coupler,</claim-text>
+<claim-text>wherein the extension coupler is configured to extend and retract the first end to which the inspection probe is attached for applying pressure to the inspection probe to press the inspection probe against the structure, and wherein the extension coupler is configured to temporarily lock the extended or retracted position of the inspection probe with respect to the extension coupler when the inspection probe passes over one or more of the edge of the hole, over the hole, over the edge of the structure, and past the edge of the structure, thereby preventing the inspection probe from extending past the surface of the structure into the hole or off the edge of the structure by the pressure applied to the inspection probe by the extension coupler.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the robot control system is configured for being attached to and moved along a rail system, and wherein the motion control system further comprises a rail system to which the robot control system is attached, the rail system being capable of moving the attached robot control system.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The system of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the motion control system comprises a controller for controlling the movement of at least one of the rail system and the robot control system.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The system of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the rail system is configured for controlling linear motion to the attached motion control system.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The system of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the rail system comprises:
+<claim-text>a rail support structure; and</claim-text>
+<claim-text>a robot carriage to which the robot control system is mounted and for traveling along the rail support structure, thereby moving the robot control system along the rail system.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the motion control system comprises an optical encoder capable of measuring and transmitting the position of the motion control system with respect to the structure.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the robot control system comprises a pedestal robot configured for controlling the motion of the extension coupler in at least two directions of motion.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the extension coupler comprises:
+<claim-text>a dual action cylinder having an extendable and retractable cylinder piston rod having a first end protruding from the dual action cylinder;</claim-text>
+<claim-text>a transition rod connected to the protruding first end of the cylinder piston rod for translating the motion of the cylinder piston rod, the transition rod having a first end connected to the protruding distal end of the cylinder piston rod and a second end; and</claim-text>
+<claim-text>a transducer extension rod connected to the second end of the transition rod for translating the motion of the transition rod and the cylinder piston rod, the transducer extension rod having a first end connected to the second end of the transition rod and a second end forming the distal end of the extension coupler.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The system of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the extension coupler further comprises a pillow block bearing surrounding a portion of the transducer extension rod between the first and second ends of the transducer extension rod and configured for stabilizing the transducer extension rod.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the inspection probe comprises:
+<claim-text>a frame configured for attaching to the second end of the extension coupler and for supporting the transducer;</claim-text>
+<claim-text>at least one sled appendage configured for supporting the frame while traveling over a surface of the structure and rotatably connected to the frame; and</claim-text>
+<claim-text>a braking system capable of affixing the respective positions of the frame and sled appendage in</claim-text>
+<claim-text>at least a first direction of motion about a first axis defined by the rotatable connection of the frame and the sled appendage.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The system of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the motion control system is capable of providing a braking signal to the braking system of the probe based upon a determination of the location of the probe with respect to a predetermined location of at least one of a hole and an edge of the structure known to the motion control system.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the inspection probe comprises:
+<claim-text>a bubbler shoe configured for supporting a plurality of transducers and dispersing a couplant between the transducers supported thereby and the surface over which the inspection probe travels; and</claim-text>
+<claim-text>a plurality of transducers supported by the bubbler shoe.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the motion control system is configured for interpreting electronic data representing the configuration of the structure for controlling movement of the probe over the structure for inspection and for providing the ability to communicate the location of holes and edges to at least one of the extension coupler and the inspection probe.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. A system for non-destructive inspection of a surface of a structure, wherein the surface comprises at least one edge defined by at least one of a hole cut-out in the surface and an extent of the surface, comprising:
+<claim-text>a motion control system comprising a robot control system, wherein the robot control system comprises a robotic arm;</claim-text>
+<claim-text>an extension coupler attached to the robotic arm, the extension coupler having an extendable and retractable distal end; and</claim-text>
+<claim-text>an inspection probe attached to the distal end of the extension coupler and comprising at least one pulse echo ultrasonic transducer configured for inspecting the structure as the inspection probe and transducer are moved over the structure by at least one of the motion control system and extension coupler, wherein the inspection probe is configured for traveling past the at least one edge and off the surface of the structure and returning onto the surface of the structure,</claim-text>
+<claim-text>wherein the extension coupler is configured to extend and retract the first end to which the inspection probe is attached for applying pressure to the inspection probe to press the inspection probe against the surface of the structure.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The system of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the extension coupler comprises:
+<claim-text>a dual action cylinder having an extendable and retractable cylinder piston rod having a first end protruding from the dual action cylinder;</claim-text>
+<claim-text>a transition rod connected to the protruding first end of the cylinder piston rod for translating the motion of the cylinder piston rod, the transition rod having a first end connected to the protruding distal end of the cylinder piston rod and a second end; and</claim-text>
+<claim-text>a transducer extension rod connected to the second end of the transition rod for translating the motion of the transition rod and the cylinder piston rod, the transducer extension rod having a first end connected to the second end of the transition rod and a second end forming the distal end of the extension coupler.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The system of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the extension coupler further comprises a pillow block bearing surrounding a portion of the transducer extension rod between the first and second ends of the transducer extension rod and configured for stabilizing the transducer extension rod.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. A system for non-destructive inspection of a structure, comprising:
+<claim-text>an extension coupler comprising an extendable and retractable distal end; and</claim-text>
+<claim-text>an inspection probe attached to the distal end of the extension coupler, configured for traveling over holes and off edges of the structure, and comprising at least one pulse echo ultrasonic transducer configured for inspecting the structure as the inspection probe and transducer are moved over the structure by the extension coupler,</claim-text>
+<claim-text>wherein the extension coupler is configured to extend and retract the first end to which the inspection probe is attached for applying pressure to the inspection probe to press the inspection probe against the structure, and wherein the extension coupler is configured to temporarily lock the extended or retracted position of the inspection probe with respect to the extension coupler when the inspection probe passes over one or more of the edge of the hole, over the hole, over the edge of the structure, and past the edge of the structure, thereby preventing the inspection probe from extending past the surface of the structure into the hole or off the edge of the structure by the pressure applied to the inspection probe by the extension coupler.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The system of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the extension coupler comprises:
+<claim-text>a dual action cylinder having an extendable and retractable cylinder piston rod having a first end protruding from the dual action cylinder;</claim-text>
+<claim-text>a transition rod connected to the protruding first end of the cylinder piston rod for translating the motion of the cylinder piston rod, the transition rod having a first end connected to the protruding distal end of the cylinder piston rod and a second end; and</claim-text>
+<claim-text>a transducer extension rod connected to the second end of the transition rod for translating the motion of the transition rod and the cylinder piston rod, the transducer extension rod having a first end connected to the second end of the transition rod and a second end forming the distal end of the extension coupler.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The system of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the extension coupler further comprises a pillow block bearing surrounding a portion of the transducer extension rod between the first and second ends of the transducer extension rod and configured for stabilizing the transducer extension rod.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The system of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the inspection probe comprises:
+<claim-text>a frame configured for attaching to the second end of the extension coupler and for supporting the transducer;</claim-text>
+<claim-text>at least one sled appendage configured for supporting the frame while traveling over a surface of the structure and rotatably connected to the frame; and</claim-text>
+<claim-text>a braking system capable of affixing the respective positions of the frame and sled appendage in at least a first direction of motion about a first axis defined by the rotatable connection of the frame and the sled appendage.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

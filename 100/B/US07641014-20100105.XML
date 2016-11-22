@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641014-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641014</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11344294</doc-number>
+<date>20060131</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>534</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>60</class>
+<subclass>K</subclass>
+<main-group>28</main-group>
+<subgroup>16</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>180197</main-classification>
+</classification-national>
+<invention-title id="d0e53">Traction control system and method</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4754834</doc-number>
+<kind>A</kind>
+<name>Ozaki et al.</name>
+<date>19880700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4809183</doc-number>
+<kind>A</kind>
+<name>Eckert</name>
+<date>19890200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5041978</doc-number>
+<kind>A</kind>
+<name>Nakayama et al.</name>
+<date>19910800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 84</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5137105</doc-number>
+<kind>A</kind>
+<name>Suzuki et al.</name>
+<date>19920800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5245542</doc-number>
+<kind>A</kind>
+<name>Itoh et al.</name>
+<date>19930900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 90</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5259476</doc-number>
+<kind>A</kind>
+<name>Matsuno et al.</name>
+<date>19931100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5272635</doc-number>
+<kind>A</kind>
+<name>Nakayama</name>
+<date>19931200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 89</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5330027</doc-number>
+<kind>A</kind>
+<name>Glover</name>
+<date>19940700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180197</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5346032</doc-number>
+<kind>A</kind>
+<name>Sasaki</name>
+<date>19940900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180233</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5417298</doc-number>
+<kind>A</kind>
+<name>Shibahata</name>
+<date>19950500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5443307</doc-number>
+<kind>A</kind>
+<name>Maier</name>
+<date>19950800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5448478</doc-number>
+<kind>A</kind>
+<name>Eto</name>
+<date>19950900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 69</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5458212</doc-number>
+<kind>A</kind>
+<name>Nishihara et al.</name>
+<date>19951000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180197</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5463551</doc-number>
+<kind>A</kind>
+<name>Milunas</name>
+<date>19951000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5471386</doc-number>
+<kind>A</kind>
+<name>Hrovat et al.</name>
+<date>19951100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5539643</doc-number>
+<kind>A</kind>
+<name>Yamamoto et al.</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5682316</doc-number>
+<kind>A</kind>
+<name>Hrovat et al.</name>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 84</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5717591</doc-number>
+<kind>A</kind>
+<name>Okada et al.</name>
+<date>19980200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 82</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5740877</doc-number>
+<kind>A</kind>
+<name>Sasaki</name>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>5742917</doc-number>
+<kind>A</kind>
+<name>Matsuno</name>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 69</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>5826209</doc-number>
+<kind>A</kind>
+<name>Matsuno</name>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 69</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>5862503</doc-number>
+<kind>A</kind>
+<name>Eckert et al.</name>
+<date>19990100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>5867803</doc-number>
+<kind>A</kind>
+<name>Kim et al.</name>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>5899952</doc-number>
+<kind>A</kind>
+<name>Fukada</name>
+<date>19990500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 74</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>5925083</doc-number>
+<kind>A</kind>
+<name>Ackermann</name>
+<date>19990700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>6023650</doc-number>
+<kind>A</kind>
+<name>Yamamoto et al.</name>
+<date>20000200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 82</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>6064930</doc-number>
+<kind>A</kind>
+<name>Shibahata</name>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>6131054</doc-number>
+<kind>A</kind>
+<name>Shibahata</name>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>6186258</doc-number>
+<kind>B1</kind>
+<name>Deutschel et al.</name>
+<date>20010200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>6195606</doc-number>
+<kind>B1</kind>
+<name>Barta et al.</name>
+<date>20010200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>6270172</doc-number>
+<kind>B1</kind>
+<name>Shirai et al.</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>6308126</doc-number>
+<kind>B2</kind>
+<name>Yokoyama et al.</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>6317666</doc-number>
+<kind>B1</kind>
+<name>List et al.</name>
+<date>20011100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 29</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>6334656</doc-number>
+<kind>B1</kind>
+<name>Furukawa et al.</name>
+<date>20020100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>6366844</doc-number>
+<kind>B1</kind>
+<name>Woywod et al.</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>6397152</doc-number>
+<kind>B1</kind>
+<name>Kalweit et al.</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>6409286</doc-number>
+<kind>B1</kind>
+<name>Fennel</name>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>6539298</doc-number>
+<kind>B2</kind>
+<name>Inagaki et al.</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 70</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>6564138</doc-number>
+<kind>B1</kind>
+<name>Schmitt et al.</name>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>6584399</doc-number>
+<kind>B2</kind>
+<name>Koibuchi</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 90</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>6615126</doc-number>
+<kind>B1</kind>
+<name>Potter et al.</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 84</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>6663536</doc-number>
+<kind>B1</kind>
+<name>Meier</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>6681168</doc-number>
+<kind>B2</kind>
+<name>Plzin</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>6694227</doc-number>
+<kind>B2</kind>
+<name>Nowottnick et al.</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>6697728</doc-number>
+<kind>B2</kind>
+<name>Kin et al.</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 70</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>6704622</doc-number>
+<kind>B2</kind>
+<name>Tinskey et al.</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>6705685</doc-number>
+<kind>B1</kind>
+<name>Halat et al.</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00048">
+<document-id>
+<country>US</country>
+<doc-number>6718249</doc-number>
+<kind>B2</kind>
+<name>Herb et al.</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00049">
+<document-id>
+<country>US</country>
+<doc-number>6755488</doc-number>
+<kind>B2</kind>
+<name>Fawkes et al.</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>303139</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00050">
+<document-id>
+<country>US</country>
+<doc-number>6810317</doc-number>
+<kind>B2</kind>
+<name>Sauter et al.</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00051">
+<document-id>
+<country>US</country>
+<doc-number>6816764</doc-number>
+<kind>B2</kind>
+<name>Coelingh et al.</name>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00052">
+<document-id>
+<country>US</country>
+<doc-number>7122979</doc-number>
+<kind>B2</kind>
+<name>Wilton et al.</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>31840009</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00053">
+<document-id>
+<country>US</country>
+<doc-number>2002/0153770</doc-number>
+<kind>A1</kind>
+<name>Matsuno et al.</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00054">
+<document-id>
+<country>US</country>
+<doc-number>2003/0036839</doc-number>
+<kind>A1</kind>
+<name>Han et al.</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00055">
+<document-id>
+<country>US</country>
+<doc-number>2003/0191572</doc-number>
+<kind>A1</kind>
+<name>Roll et al.</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00056">
+<document-id>
+<country>US</country>
+<doc-number>2003/0225495</doc-number>
+<kind>A1</kind>
+<name>Coelingh et al.</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00057">
+<document-id>
+<country>US</country>
+<doc-number>2003/0225496</doc-number>
+<kind>A1</kind>
+<name>Coelingh et al.</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00058">
+<document-id>
+<country>US</country>
+<doc-number>2004/0059494</doc-number>
+<kind>A1</kind>
+<name>Yoneda</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 89</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00059">
+<document-id>
+<country>US</country>
+<doc-number>2004/0176899</doc-number>
+<kind>A1</kind>
+<name>Hallowell</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 84</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00060">
+<document-id>
+<country>US</country>
+<doc-number>2004/0256913</doc-number>
+<kind>A1</kind>
+<name>Schmidt et al.</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00061">
+<document-id>
+<country>US</country>
+<doc-number>2005/0004738</doc-number>
+<kind>A1</kind>
+<name>Gronau et al.</name>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 70</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00062">
+<document-id>
+<country>US</country>
+<doc-number>2005/0012386</doc-number>
+<kind>A1</kind>
+<name>Nakano et al.</name>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>3031141</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00063">
+<document-id>
+<country>US</country>
+<doc-number>2005/0029862</doc-number>
+<kind>A1</kind>
+<name>Kato et al.</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00064">
+<document-id>
+<country>DE</country>
+<doc-number>10209884</doc-number>
+<kind>A1</kind>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00065">
+<document-id>
+<country>EP</country>
+<doc-number>0922618</doc-number>
+<kind>A2</kind>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00066">
+<document-id>
+<country>JP</country>
+<doc-number>4103436</doc-number>
+<kind>A</kind>
+<date>19920400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00067">
+<othercit>Direct Yaw Control System Improving Automotive Dynamic Performance; Press Information; May 29, 1996; pp. 1-14; Public Relation Division Honda Motor Col, Ltd.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00068">
+<othercit>Larry Webster; Why Do These Similar Cars Feel So Different?; Car and Driver; Feb. 2005; pp. 70-71.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>26</number-of-claims>
+<us-exemplary-claim>9</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>180197</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070193802</doc-number>
+<kind>A1</kind>
+<date>20070823</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hu</last-name>
+<first-name>Jiamu</first-name>
+<address>
+<city>Rochester Hills</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Michael Best &#x26; Friedrich LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Robert Bosch GmbH</orgname>
+<role>03</role>
+<address>
+<city>Stuttgart</city>
+<country>DE</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Morris</last-name>
+<first-name>Lesley D</first-name>
+<department>3611</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Stabley</last-name>
+<first-name>Michael R</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method and system of controlling the traction of a vehicle having at least a front axle and a rear axle. One method includes determining a stability status of the vehicle, identifying a driving style of a driver of the vehicle, generating a first drive slip target, generating a second drive slip target, determining an engine torque produced by an engine of the vehicle, determining whether the engine torque is sufficient to support an application of the first and second drive slip targets, and generating at least one torque signal. The at least one torque signal is configured to alter an amount of torque that is applied to the front and rear axles of the vehicle according to the first and second drive slip targets, respectively.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="200.74mm" wi="163.49mm" file="US07641014-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="229.19mm" wi="190.75mm" file="US07641014-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="278.81mm" wi="218.52mm" file="US07641014-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="250.36mm" wi="170.69mm" file="US07641014-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="233.93mm" wi="122.60mm" file="US07641014-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="259.25mm" wi="174.41mm" orientation="landscape" file="US07641014-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND</heading>
+<p id="p-0002" num="0001">Modern four-wheel or all-wheel drive vehicles have been developed to give vehicle operators greater traction over varied terrain. Often, all-wheel drive vehicles use an electronically controlled system to affect the way in which the vehicle responds to certain terrain conditions. For example, electronic sensing units are used to indicate vehicle speed and acceleration. Such sensing units provide signals to a control unit, which can alter how braking is applied to the wheels in order to maintain traction with the road surface.</p>
+<heading id="h-0002" level="1">SUMMARY</heading>
+<p id="p-0003" num="0002">Although traction control systems are known, they are not fully satisfactory. For example, many systems do not individually manipulate torque to each drive wheel. In addition, many do not use integrated control of engine, braking, and drivetrain systems. Furthermore, a typical traction control system can be overly aggressive in reducing engine torque. It may be desirable to have a traction control system that in one mode provides enhanced stability, but in another mode allows a driver to purposely skid or slide the vehicle in a controlled fashion, for example, in the manner in which rally drivers or so-called &#x201c;drifters&#x201d; do in competition.</p>
+<p id="p-0004" num="0003">One embodiment of the invention provides a method of controlling the traction of a vehicle having at least a front axle and a rear axle. The method includes determining a stability status of the vehicle, identifying a driving style of a driver of the vehicle, generating a first drive slip target for one driven axle, generating a second drive slip target for the other driven axle, determining an engine torque produced by an engine of the vehicle, determining whether the engine torque is sufficient to support an application of the first and second drive slip targets, and applying a first torque and a second torque to the front and rear axles of the vehicle, respectively. The first and second torques are distributed to the front and rear axles according to the first and second drive slip targets, respectively.</p>
+<p id="p-0005" num="0004">In another embodiment, a traction control system includes a controller configured to generate a first drive slip target between two wheels for one drive axle, a second drive slip target between two wheels for another driven axle. The first and second drive slip targets are generated according to loading condition of each wheel and an estimation of a skill level of the driver of the vehicle. The output signals are indicative of independent torque quantities to be applied to individual wheels of the front and rear axles of a vehicle during turning.</p>
+<p id="p-0006" num="0005">Other aspects of the invention will become apparent by consideration of the detailed description and accompanying drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0007" num="0006"><figref idref="DRAWINGS">FIG. 1</figref> illustrates an exemplary embodiment of a vehicle.</p>
+<p id="p-0008" num="0007"><figref idref="DRAWINGS">FIG. 2A</figref> illustrates an exemplary plot of drive slip versus force at a front axle of a vehicle.</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 2B</figref> illustrates an exemplary plot of drive slip versus force at a rear axle of a vehicle.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 3</figref> illustrates an exemplary embodiment of a vehicle having a traction control system.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 4</figref> illustrates a flow chart of an exemplary traction control process.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 5</figref> illustrates a schematic of an exemplary traction control system controller.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0013" num="0012">Before any embodiments of the invention are explained in detail, it is to be understood that the invention is not limited in its application to the details of construction and the arrangement of components set forth in the following description or illustrated in the following drawings. The invention is capable of other embodiments and of being practiced or of being carried out in various ways.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 1</figref> illustrates a vehicle <b>10</b> having front wheels <b>14</b> and rear wheels <b>18</b>. The vehicle <b>10</b> is following a curved vehicle path <b>22</b> and illustrated with respect to an XYZ axis. As the vehicle <b>10</b> follows the path <b>22</b>, the wheels <b>14</b> and <b>18</b> have a certain drive slip (represented by arrows <b>26</b>) and a certain lateral turning capability (represented by arrows <b>30</b>).</p>
+<p id="p-0015" num="0014">Drive slip (or wheel slip) can be used to describe an amount of slip that the wheels of a vehicle are allowed with respect to a driving surface. Generally, drive slip is related to the amount of torque, or twisting force, that is applied to the wheels <b>14</b> and <b>18</b> of the vehicle <b>10</b>. For example, an amount of torque can be applied to the wheels of a vehicle to make them begin to slip. This slipping becomes more pronounced on driving surfaces with a lower surface coefficient of friction. As a result, a driving surface having a low surface coefficient of friction (e.g., gravel, loose dirt, snow, etc.), requires less torque to cause drive slip.</p>
+<p id="p-0016" num="0015">Drive slip has an impact on the lateral capability of a vehicle (i.e., the vehicle's ability to turn). Generally, as drive slip is increased, the lateral capability is reduced. For example, as shown in <figref idref="DRAWINGS">FIG. 1</figref>, decreasing the slip <b>26</b> increases the lateral capability <b>30</b>. Similarly, increasing the slip <b>26</b> decreases the lateral capability <b>30</b>. In the situation illustrated in <figref idref="DRAWINGS">FIG. 1</figref>, the front wheels <b>14</b> of the vehicle <b>10</b> have traction (i.e., are not substantially slipping), and begin to lead the vehicle through the turn <b>22</b>. The rear wheels <b>18</b> of the vehicle <b>10</b> are slipping, which reduces their lateral capability <b>30</b>. As a result, the front of the vehicle <b>10</b> is turning (e.g., begins to travel in the &#x201c;Y&#x201d; direction), while the rear of the vehicle <b>10</b> continues to travel straight (e.g., continues in the &#x201c;Z&#x201d; direction). As the vehicle <b>10</b> continues through the turn and the rear wheels <b>18</b> continue to slip, the rear of the vehicle <b>10</b> rotates more quickly about the &#x201c;X&#x201d; axis (e.g., a vertical axis extending through the vehicle <b>10</b>, from the bottom to the top) than the front of the vehicle <b>10</b>. Depending on the speed of the vehicle <b>10</b> and the radius of curvature of the turn (i.e., how &#x201c;sharp&#x201d; the turn is), the rear of the vehicle <b>10</b> rotates further than the front of the vehicle <b>10</b> (e.g., slides through the desired turn <b>22</b>). This &#x201c;rear-end slide&#x201d; effect, which can be referred to as oversteering, can actually increase the speed at which a corner can be negotiated if properly controlled. Additionally, some driving enthusiasts enjoy the more aggressive &#x201c;rally style&#x201d; driving experience.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIGS. 2A and 2B</figref> graphically illustrate the relationship between wheel forces and drive slip percentage. <figref idref="DRAWINGS">FIG. 2A</figref> illustrates the force/slip relationship of the front wheels <b>14</b>, while <figref idref="DRAWINGS">FIG. 2B</figref> illustrates the force/slip relationship of the rear wheels <b>18</b>. Slip, as previously described, is the amount that the wheels spin in excess of actual vehicle speed, and can be measured as a slip percentage. For example, at 50% slip the wheels <b>14</b> and <b>18</b> have about 50% more linear velocity than vehicle's velocity. For a given surface friction coefficient, the amount of slip increases when the wheel torque increases. A relatively small slip yields wheel forces that are generally proportional to the amount of torque that is applied to the axles. A larger slip causes the wheel forces to decrease, and become less proportional to the amount of torque that is applied to the axels (e.g., as a result of the spinning wheels).</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIGS. 2A and 2B</figref> include a lateral force trace <b>54</b> and a longitudinal force trace <b>58</b> for the wheels <b>14</b> and <b>18</b>, respectively. The lateral and longitudinal forces shown in <figref idref="DRAWINGS">FIGS. 2A and 2B</figref> vary with a slip percentage <b>62</b> (at a given slip angle). By way of background, a slip angle can be described as an angular difference between the wheel heading (i.e., the direction that the wheel is pointed) and the direction of wheel travel (i.e., the direction that the wheel is moving). In the embodiment shown, the lateral force <b>54</b> generally decreases as the slip percentage <b>62</b> increases. Conversely, the longitudinal force <b>58</b> increases (for a certain period) as the slip percentage <b>62</b> increases. Then, the longitudinal force decreases. As the wheels <b>14</b> and <b>18</b> slip more and more, the lateral and the longitudinal forces <b>54</b> and <b>58</b> decrease (i.e., the wheels spin relatively freely).</p>
+<p id="p-0019" num="0018">During a normal turn, the forces that are applied to the front and rear wheels <b>14</b> and <b>18</b> of the vehicle <b>10</b> are approximately equal. For example, in the embodiments shown in <figref idref="DRAWINGS">FIGS. 2A and 2B</figref>, a normal slip target is marked by dashed line <b>66</b>. The normal slip target <b>66</b> has a corresponding lateral wheel force (intersection <b>70</b>) and longitudinal wheel force (intersection <b>74</b>). Using approximately the same slip target for the front and rear wheels <b>14</b> and <b>18</b> can help to ensure the that vehicle <b>10</b> has sufficient traction, and the driver of the vehicle <b>10</b> has a normal, stable driving experience. However, in some embodiments, the slip targets for the front and rear wheels <b>14</b> and <b>18</b> can be individually controlled to change the traction of the vehicle <b>10</b> and the resulting driving experience. For example, in one embodiment, a controller (as described with respect to <figref idref="DRAWINGS">FIG. 5</figref>) can alter the slip targets for the front and rear wheels <b>14</b> and <b>18</b> independently, which changes the longitudinal and lateral forces. Changing the forces that are applied to the wheels <b>14</b> and <b>18</b> can alter the way the vehicle <b>10</b> handles (and feels) through a turn. In one embodiment, the longitudinal forces on the front wheels <b>14</b> are decreased, thereby increasing their lateral capability. Conversely, the longitudinal forces of the rear wheels <b>18</b> are increased, thereby reducing their lateral capability. As a result, the traction of the vehicle <b>10</b> is changed, destabilizing the rear (i.e., inducing an oversteering condition) and providing the driver with a more aggressive feel.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 2A</figref> illustrates one example of a front axle slip target adjustment. A new front axle slip target (marked by dashed line <b>78</b>) is relatively less than the normal turn slip target <b>66</b>. Therefore, in comparison, the lateral force is increased while the longitudinal force is decreased. Such a relationship, as marked by intersections <b>82</b> and <b>86</b>, respectively, increases the lateral capability (or force) of the front axle of the vehicle <b>10</b>. <figref idref="DRAWINGS">FIG. 2B</figref> illustrates an exemplary rear axle slip target adjustment (marked by dashed line <b>90</b>), which is relatively greater than the normal slip target <b>66</b>. In contrast to the situation illustrated in <figref idref="DRAWINGS">FIG. 2A</figref>, the lateral force is decreased (intersection <b>94</b>) while the longitudinal force is increased (intersection <b>98</b>). Such a relationship reduces the lateral capability of the rear axle of the vehicle. As described above and in connection with <figref idref="DRAWINGS">FIG. 1</figref>, increasing the lateral capability of the front axle, while decreasing the lateral capability of the rear axle allows the rear of the vehicle <b>10</b> to rotate more quickly than the front of the vehicle <b>10</b>, producing a rally-style feel for the driver. Other slip target adjustments are also possible. For example, in other embodiments, the front and rear slip targets can be adjusted differently by changing the difference between the slip target of the front wheels and the slip target of the rear wheels.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 3</figref> is a schematic of the exemplary vehicle <b>10</b> having a traction control system. In one embodiment, the vehicle <b>10</b> includes mechanical components such as a front axle <b>130</b>, a rear axle <b>134</b>, a drive shaft <b>136</b>, an engine <b>138</b>, brakes <b>142</b>, and a center coupling device <b>146</b>. In other embodiments, the vehicle <b>10</b> can include more or fewer components. For example, the vehicle <b>10</b> can include more axles and wheels than those shown (e.g., a truck with two front wheels and four rear wheels). The vehicle can also include components such as a front differential <b>147</b> and a rear differential <b>148</b> that are coupled to the front axle <b>130</b> and rear axle <b>134</b>, respectively.</p>
+<p id="p-0022" num="0021">The front wheels <b>14</b> and rear wheels <b>18</b> are coupled to the front axle <b>130</b> and the rear axle <b>134</b>, respectively. The axles <b>130</b> and <b>134</b> are coupled to the drive shaft <b>136</b>, which is turned by the engine <b>138</b>. The center coupling device <b>146</b> is configured to distribute torque from the drive shaft <b>136</b> to the front and rear axles <b>130</b> and <b>134</b>. In some embodiments, the center coupling device <b>146</b> is a center differential that can distribute different amounts of torque to the front and rear axles <b>130</b> and <b>134</b>. For example, the front axle <b>130</b> (and therefore the front wheels <b>14</b>) may receive <b>40</b> percent of the total torque that is produced by the engine <b>138</b>, while the rear axle <b>134</b> (and therefore rear wheels <b>18</b>) may receive the remaining <b>60</b> percent of available torque. In another embodiment, the front differential <b>147</b> and the rear differential <b>148</b> can be added to distribute varying amounts of torque to the left and right wheels of the vehicle <b>10</b>. For example, the front differential can be used to distribute a different amount of torque to each of the front wheels <b>14</b>. Similarly, the rear differential can be used to distribute a different amount of torque to each of the rear wheels <b>18</b>. Therefore, it is possible to distribute different amounts of torque to each of the wheels <b>14</b> and <b>18</b> of the vehicle <b>10</b>.</p>
+<p id="p-0023" num="0022">The way in which torque is distributed is limited by the configuration of the vehicle. For example, some two-wheel drive vehicles may only include a single differential, which controls either the front or rear wheels. Thus, only the wheels that are coupled to the differential may receive different amounts of torque. Other vehicles may include multiple differentials or an all-wheel drive system, which can allow different amounts of torque to be applied to each of the wheels. Additionally, the way in which the wheels <b>14</b> and <b>18</b> are driven is not limited to differentials and driven axles coupled to a central engine. For example, the front wheels <b>14</b> and rear wheels <b>18</b> of the vehicle <b>10</b> can be driven by separate electric motors (not shown). The torque that is applied to the wheels <b>14</b> and <b>18</b> of the vehicle <b>10</b>, therefore, is dependent on the torque that each of the electric motors produces. Torque can also be controlled by applying a braking force to the wheels <b>14</b> and <b>18</b>. Other ways of applying different amounts of torque to the wheels of the vehicle <b>10</b> should be apparent to those skilled in the art.</p>
+<p id="p-0024" num="0023">The brakes <b>142</b> can be used to apply a braking force to the wheels <b>14</b> and <b>18</b>. In some embodiments, the braking force is distributed evenly between the front wheels <b>14</b> and the rear wheels <b>18</b>, so that each of the wheels of the vehicle <b>10</b> receives approximately the same amount of braking force. Alternatively, a different amount of braking force can be applied to the wheels individually. Such an implementation may be accomplished using a brake-based electronic stability control (&#x201c;ESC&#x201d;) system or other electronic or computer control. As a result, in one embodiment, the torque at the wheels <b>14</b> and <b>18</b> is controlled using the brakes <b>142</b>, as described in greater detail below.</p>
+<p id="p-0025" num="0024">Some of the components of the vehicle, such as the center coupling device <b>146</b> may be electronically- or computer-controlled. For example, a coupling device or differential can comprise an electro-mechanical or electro-hydraulic controllable coupling device, which includes mechanical and hydraulic components, as well as an integrated electronic control unit (&#x201c;ECU&#x201d;). Therefore, in some embodiments, the ECU of the coupling device or differential is responsible for certain operations, for example, actuating a clutch within the coupling device or differential, or measuring the amount of torque that is applied to the front axle <b>130</b> and rear axle <b>134</b>.</p>
+<p id="p-0026" num="0025">Additional components of the vehicle <b>10</b> include wheel speed sensors <b>150</b>, a steering angle sensor <b>154</b>, a driver input sensor <b>158</b> (e.g., a pedal sensor), a desired driving style signal generator or style indicator <b>162</b> (such as an occupant-compartment mounted button and associated electronics), a yaw rate sensor <b>166</b>, an acceleration sensor <b>170</b> (e.g., accelerometer or lateral acceleration sensor), and a controller <b>174</b>. In one embodiment, the controller <b>174</b> is responsible for evaluating a traction control process (described below). Certain functions of the brakes <b>142</b> and the center differential <b>146</b> may also be electronically controlled. Each of the components of the vehicle <b>10</b> can be electrically connected via a bus <b>178</b> (e.g., a controller area network (&#x201c;CAN&#x201d;), a local interconnect network (&#x201c;LIN&#x201d;), or the like). The bus <b>178</b> can be used to supply power and transfer data signals to each of the components that are connected on the system. In other embodiments, a vehicle-wide communication bus, such as the bus <b>172</b> is not required, and each of the vehicle components is connected using separate electrical connections.</p>
+<p id="p-0027" num="0026">Referring still to <figref idref="DRAWINGS">FIG. 3</figref>, the wheel speed sensors <b>150</b> transmit a signal to the controller <b>174</b> indicative of a rotational wheel speed. In some embodiments, each of the wheels includes a separate wheel speed sensor <b>150</b>. In other embodiments, fewer wheel speed sensors <b>150</b> are used. Additionally or alternatively, the speed of each of the wheels may be measured in a different way, for example, by tracking the rotation of the drive shaft <b>136</b> or axles <b>130</b> and <b>134</b>.</p>
+<p id="p-0028" num="0027">The steering angle sensor <b>154</b> transmits a signal to the controller <b>174</b> indicative of a steering angle of the vehicle <b>10</b>. For example, the steering angle sensor <b>154</b> may be used to transmit a signal to the controller <b>174</b> that corresponds to an angle at which the front wheels <b>14</b> are turned. The angle at which other wheels are turned (e.g., the rear wheels <b>18</b>) can also be monitored using additional steering angle sensors, if applicable. The angle of rotation of the steering wheel can be determined using relative or absolute position references. A steering wheel position, for example, that aligns the wheels <b>14</b> approximately perpendicular to the axle <b>130</b> may represent a zero degree mark. Each degree that the steering wheel is turned away from the zero degree mark can then be measured. Measuring the steering angle of the vehicle <b>10</b> with a steering wheel sensor represents only one possible method of measuring the steering angle. A sensing mechanism that is positioned further from the steering source (i.e., the steering wheel) could also be used to measure the steering angle. For example, a sensing mechanism could be used to measure the actual wheel position, and angle thereof, compared to a standard reference such as an axle.</p>
+<p id="p-0029" num="0028">The driver input sensor <b>158</b> transmits a signal to the controller <b>174</b> indicative of a torque or braking request by a driver. Such a request is generally followed by an acceleration or deceleration response by the vehicle <b>10</b>. For example, if the driver of the vehicle <b>10</b> wishes to accelerate, an acceleration pedal (not shown) can be depressed. Conversely, if the driver of the vehicle <b>10</b> wishes to decelerate, a brake pedal (not shown) can be depressed. Accordingly, in some embodiments, the driver input sensor <b>158</b> is one or more pedal sensors that monitor the position of the accelerator and brake pedals. However, the torque and braking requests and the corresponding vehicle response can also be measured in other ways. For example, a flow rate of fuel into the engine of the vehicle <b>10</b> can be monitored. Generally, fuel flow rate can be correlated to torque. Alternatively or additionally, the position of a throttle cable may also be measured to indicate a torque request (and vehicle response). A torque or braking request signal may also be sent from the acceleration pedal or brake pedal to the engine electronically (e.g., drive-by-wire system). Other ways to monitor torque and braking requests should be apparent to those skilled in the art.</p>
+<p id="p-0030" num="0029">The desired driving style signal generator <b>162</b> is used to transmit a desired driving style signal to the controller <b>174</b>. In some embodiments, the driver of the vehicle <b>10</b> chooses to increase a slip threshold or slip difference between the front wheels <b>14</b> and the rear wheels <b>18</b> using the desired driving style signal generator <b>162</b>. As previously described, increasing the slip difference between the front and rear wheels <b>14</b> and <b>18</b> creates a more aggressive driving experience for the driver. In one embodiment, the desired driving style signal generator <b>162</b> is a pushbutton. If the driver of the vehicle <b>10</b> wishes to increase the slip difference (i.e., initiate a &#x201c;rally mode&#x201d;) the pushbutton can be actuated. If the driver wishes to return the slip threshold to normal tolerances, the pushbutton can be actuated again. In other embodiments, the driving style signal generator <b>162</b> transmits a variable signal. Accordingly, the slip threshold can be variably adjusted, allowing the driver of the vehicle <b>10</b> greater dynamic control.</p>
+<p id="p-0031" num="0030">The yaw rate sensor <b>166</b> transmits a signal to the controller <b>174</b> that is indicative of a yaw rate of the vehicle. The term yaw rate is intended to describe a speed at which the vehicle <b>10</b> rotates about a vertical axis (i.e., the previously described &#x201c;X&#x201d; axis that extends vertically through the vehicle <b>10</b>, from the bottom to the top). The accelerometer <b>170</b> transmits a signal to the controller <b>174</b> that is indicative of a lateral (i.e., side-to-side with respect to the vehicle <b>10</b>) acceleration of the vehicle <b>10</b>. Optionally, the accelerometer <b>170</b> could be configured to sense longitudinal acceleration as well. In some embodiments, the yaw rate sensor <b>166</b> and accelerometer <b>170</b> can be combined into a sensing module. Alternatively, the yaw rate sensor <b>166</b> and the accelerometer <b>170</b> may be separate modules that are positioned in different locations, depending on the vehicle <b>10</b> and the requirements of the sensors <b>166</b> and <b>170</b>.</p>
+<p id="p-0032" num="0031">The controller <b>174</b> is configured to determine how much torque is distributed to the front wheels <b>14</b> and the rear wheels <b>18</b>. The controller <b>174</b> also determines the amount of torque that the engine <b>138</b> is required to produce in order to satisfy the target drive slips, as described in greater detail below.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 4</figref> illustrates a traction control process <b>200</b> that can be used to determine slip targets (see <figref idref="DRAWINGS">FIG. 2</figref>), and use those slip targets to alter the traction of the vehicle <b>10</b>. In some embodiments, the process <b>200</b> is carried out by the controller <b>174</b>. In other embodiments, certain steps of the process <b>200</b> can be carried out by other controllers (such as other controllers used in the vehicle to control engine, braking, and other systems).</p>
+<p id="p-0034" num="0033">The process <b>200</b> begins by determining the vehicle status and the identifying the desired driving style and the capability of the driver (step <b>205</b>). After the vehicle status and the driving capabilities and desires of the driver have been determined, slip targets are generated (step <b>210</b>). As described in greater detail below, the slip targets may increase or decrease the lateral capability of the axles <b>130</b> and <b>134</b> in order to deliver a vehicle traction response that is consistent with the driver's ability and desire.</p>
+<p id="p-0035" num="0034">Torque calculations are completed (step <b>215</b>) after the slip targets are generated (step <b>210</b>). Torque calculations can include calculating the amount of torque that is required to implement the slip targets generated in step <b>210</b>. In some embodiments, the torque that is required to meet the slip targets for the front axle <b>130</b> is different than the torque that is required to meet the slip targets for the rear axle <b>135</b>. The torque that is applied to the axles <b>130</b> and <b>135</b> of the vehicle <b>10</b> can be controlled by multiple vehicle systems. As a result, step <b>215</b> can also include determining which vehicle system is responsible for controlling the torque. For example, a total torque calculation can be required for the engine <b>138</b> of the vehicle <b>10</b>, so that it produces enough torque to satisfy the torque requirements of the slip targets. Additionally, a center coupling torque calculation can be required for the center coupling device <b>146</b>, so that the center coupling device <b>146</b> correctly divides the total torque between the front and rear axles <b>130</b> and <b>134</b>. Alternatively or additionally, a braking torque calculation can be required for the braking system <b>150</b> of the vehicle <b>10</b>, so that the breaks <b>142</b> and associated components correctly apply the brakes of the vehicle.</p>
+<p id="p-0036" num="0035">Torque signals are sent to the appropriate vehicle systems (e.g., an engine ECU, a center coupling device ECU, etc.) (step <b>220</b>) after the torque calculations have been completed. In some embodiments, the traction control process <b>200</b> is completed at a rate that is defined by the controller <b>174</b>. For example, in some embodiments, the process <b>200</b> is completed in a fraction of a second, and upon completion, the traction control process <b>200</b> is repeated. Continually repeating the process <b>200</b> helps ensure that the vehicle's traction is continually controlled in accordance with the skill and desires of the driver. As a result, the slip target calculations (step <b>210</b>), the corresponding torque calculations (step <b>215</b>), and the resulting traction control implementation (step <b>220</b>) can be completed and changed several times during a vehicle maneuver (e.g., a turn).</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 5</figref> illustrates one embodiment of the controller <b>174</b>, which can be used to complete the process <b>200</b>. In the embodiment shown, the controller <b>174</b> includes a stability indicator module <b>285</b>, a skill and style module <b>290</b>, and a load analysis module <b>295</b>. The calculations from the stability indicator module <b>285</b> are used by an axle slip target module <b>300</b>. The calculations from the load analysis module <b>295</b> are used by a differential wheel slip target module <b>305</b>. The calculations from the skill and style module <b>290</b> are used by both the axle slip target module <b>300</b> and the differential wheel slip target module <b>305</b>. An axle torque calculation module <b>310</b> receives the calculations from the axle slip target module <b>300</b>, while a differential wheel torque target module <b>315</b> receives the calculations from the differential wheel slip target module <b>305</b>. A torque coordination module <b>320</b> receives the calculations from the axle torque calculation module <b>310</b> and the differential wheel torque target module <b>315</b>, and transmits torque actuation signals to the engine <b>138</b>, the center coupling device <b>146</b>, and the brakes <b>150</b>. Each of the modules is described separately in greater detail below to provide a system level representation of the processes controller.</p>
+<p id="p-0038" num="0037">It should be understood that with the exception of the axle slip target module <b>300</b>, many of the processes carried out by the modules shown in <figref idref="DRAWINGS">FIG. 5</figref> are generally known in the art. For example, there are known algorithms that can be used to determine the stability of a vehicle and that might be used in the vehicle stability module <b>285</b>. The processes carried out by the axle slip target module <b>300</b> include those that have been described with respect to <figref idref="DRAWINGS">FIGS. 1-4</figref>.</p>
+<p id="p-0039" num="0038">The vehicle stability module <b>285</b> utilizes a steering signal <b>325</b>, a yaw rate signal <b>330</b>, and a lateral acceleration signal <b>335</b> to provide a vehicle status indication (step <b>205</b> in <figref idref="DRAWINGS">FIG. 4</figref>). For example, in one embodiment, the stability indicator module <b>285</b> can determine the presence of an understeering or oversteering condition. An understeering condition exists when the wheels of a vehicle are turned, but the vehicle does not follow the intended turning path and proceeds to travel forward instead of at the intended turning radius (i.e., the turning radius corresponding to the angle of the wheels). An oversteering condition exists when the wheels of the vehicle are turned to a certain angle, but the vehicle does not follow the corresponding turning radius and proceeds to turn too sharply.</p>
+<p id="p-0040" num="0039">The skill and style module <b>290</b> determines the ability and style of the driver of the vehicle <b>10</b> (step <b>205</b>) using a brake pressure signal <b>340</b>, the steering signal <b>325</b>, an accelerator or torque request signal <b>345</b>, the yaw rate signal <b>330</b>, and the lateral acceleration signal <b>335</b>. For example, the brake pressure signal <b>340</b> can be used to determine the pressure and duration that the brakes <b>142</b> are applied. Braking in short, choppy, or inconsistent motions can indicate an unskilled driver. Alternatively, firm and steady brake applications can indicate a skilled driver. The accelerator signal <b>345</b> can also be used to determine driver skill. For example, applying the accelerator erratically or inconsistently can also indicate an unskilled driver, while steady and consistent acceleration can indicate a skilled driver. Additionally, the steering signal <b>325</b> can be used to indicate the skill level of the driver. For example, if the driver repeatedly steers excessively at the beginning of a turn, and must correlatively steer a large amount later in the turn (i.e., the steering wheel was turned more than the required amount), it may be determined that the driver is not very skilled. Other estimations of driver skill could also be made. The skill and style module <b>290</b> also determines a desired driving style of the driver (e.g., normal, rally, etc.) with the assistance of a style signal <b>350</b> (e.g., from the desired driving style signal generator <b>162</b>), which provides a readily available indication of the desired driving style of the driver.</p>
+<p id="p-0041" num="0040">The load analysis module <b>295</b> calculates the load on each of the wheels (also completed during the vehicle status and driving style step <b>205</b> in <figref idref="DRAWINGS">FIG. 4</figref>) using the steering signal <b>325</b>, the yaw rate signal <b>330</b>, and wheel speed signal(s) <b>355</b>. A &#x201c;wheel load&#x201d; refers to forces (e.g., radial, axial, torsional, etc.) that are imposed on the wheel. These loads (i.e., forces) can change throughout a turn. For example, the wheels on the outside of the vehicle generally experience higher loading than the wheels on the inside of the vehicle. The loading characteristics have an affect on the performance and capabilities of the vehicle <b>10</b>. As a result, the wheel loading calculations from the load analysis module <b>295</b> can be used to calculate a differential wheel slip target, as described in greater detail below.</p>
+<p id="p-0042" num="0041">The axle slip target module <b>300</b> uses the calculations from the stability indicator module <b>285</b> and the skill and style module <b>290</b> to generate a front axle slip target <b>360</b> and a rear axle slip target <b>365</b>. More specifically, the axle slip target module <b>300</b> can determine the current status of the vehicle <b>10</b>, the skill level of the driver, and how much the driver is willing to allow the vehicle to destabilize (e.g., the amount of &#x201c;rally&#x201d; style driving desired) to generate the front axle slip target <b>360</b> and the rear axle slip target <b>365</b>. If the stability indicator module <b>285</b> indicates that the vehicle <b>10</b> is unstable (e.g., the vehicle is understeering or oversteering), the drive slip target module <b>300</b> may perform steps to reduce the difference between the front axle slip target <b>360</b> and the rear axle slip target <b>365</b>. Conversely, if the vehicle stability indicator module <b>285</b> indicates that the vehicle <b>10</b> is stable, the axle slip target module <b>300</b> may allow a greater difference between the front axle slip target <b>360</b> and the rear axle slip target <b>365</b>. However, the skill and style module <b>290</b> also plays a role in determining the front and rear axle slip targets <b>360</b> and <b>365</b>. If the skill and style module <b>290</b> indicates that the driver of the vehicle meets or exceeds a certain skill level, and the style signal <b>350</b> indicates that a more aggressive style is desired, a relatively greater slip difference between the front and rear axle slip targets <b>360</b> and <b>365</b> is generated by the axle slip target module <b>300</b>. Alternatively, if the driver of the vehicle indicates that a less aggressive style is desired (e.g., using the style signal <b>350</b>), or does not possess a certain skill level, a relatively smaller difference between the front and rear axle slip targets <b>360</b> and <b>365</b> is generated. In some embodiments, the estimation of the driver's skill can include several different levels (e.g., novice, intermediate, expert), each level allowing a different amount of difference between the front and rear axle slip targets <b>360</b> and <b>365</b>.</p>
+<p id="p-0043" num="0042">The differential wheel slip target module <b>305</b> uses the calculations from the skill and style module <b>290</b> and the load analysis module <b>295</b> to generate a left wheel slip target <b>370</b> and a right wheel slip target <b>375</b> for either the front axle <b>130</b> or the rear axle <b>134</b> (step <b>210</b>), depending on the turning conditions. The differential wheel slip target module <b>305</b> also decides how much slip difference is allowed between the left wheel slip target <b>370</b> and the right wheel slip target <b>375</b>. The differential wheel slip target module <b>305</b>, in some embodiments, bases calculations on how each of the wheels of the vehicle <b>10</b> is loaded, the skill level of the driver, and the desired style of the driver. If the load analysis module <b>295</b> indicates that the outside wheels (which could be either the left wheels or the right wheels, depending on the direction of the turn direction) of the vehicle <b>10</b> are being substantially loaded, and the inside wheels of the vehicle are not being substantially loaded, a relatively large slip difference may be allowed by the differential wheel slip target module <b>305</b>. For example, the differential wheel slip target module <b>305</b> allows a large difference between the left wheel slip target <b>370</b> and the right wheel slip target <b>375</b> to ensure that the stability of outside wheels is not jeopardized. Alternatively, if the load analysis module indicates that the outside wheels are relatively unloaded, the differential wheel slip target module <b>305</b> may allow a relatively smaller difference between the left wheel slip target <b>370</b> and the right wheel slip target <b>375</b>. Similar to the axle slip target module <b>300</b>, the skill and style module <b>290</b> also plays a role in determining left and right wheel slip targets <b>370</b> and <b>375</b>. For example, if the driver skill module <b>290</b> indicates that the driver of the vehicle meets or exceeds a certain skill level, and the style signal <b>350</b> indicates that a more aggressive style is desired, a relatively smaller slip difference between the left and right wheel slip targets <b>370</b> and <b>375</b> is generated. For example, on the rear axle <b>134</b>, a smaller slip difference reduces the lateral capability of the wheels and enhances a sporty feel. Alternatively, if the driver of the vehicle indicates that a less aggressive style is desired (e.g., using the style signal <b>350</b>), or does not possess a certain skill level, a relatively large slip difference between the left wheel slip target <b>370</b> and right wheel slip target <b>375</b> is generated, increasing the lateral capability of the wheels.</p>
+<p id="p-0044" num="0043">As previously described, wheel slip and torque are related in that as the torque is increased, the wheel is more prone to slipping. The axle torque calculation module <b>310</b> uses the axle slip targets <b>360</b> and <b>365</b> to generate the target torque values <b>380</b> and <b>385</b> for each axle <b>130</b> and <b>134</b>, respectively (step <b>215</b>). In some embodiments, the front axle target torque value <b>380</b> differs from the rear target torque value <b>385</b>, for example, to induce an oversteering condition (as dictated by the stability indicator module <b>285</b> and the skill and style module <b>290</b>).</p>
+<p id="p-0045" num="0044">The differential wheel torque module <b>315</b> uses the left wheel slip target <b>370</b> and the right wheel slip target <b>375</b> from the differential wheel slip target module <b>305</b> to calculate a wheel torque difference value <b>390</b> (between the left and right wheels). More specifically, the differential wheel torque module <b>315</b> determines the maximum torque difference that is allowed to be applied to the left and right wheels for each driven axle. In some embodiments, the wheel torque difference value <b>390</b> is limited due to a lack of experience and skill in the driver. In such embodiments, as a result, a substantially similar amount of torque is applied to both the left and right wheels on both the front and rear axles. However, a relatively wide margin or maximum torque difference can be allowed if the wheels are not substantially loaded, or the driver is skilled. In some embodiments, as described below, the wheel torque difference value <b>390</b> is combined or superimposed with front axle torque <b>380</b> and rear axle torque <b>385</b> (from the axle torque calculation module <b>310</b>), and the result is applied to each individual wheel.</p>
+<p id="p-0046" num="0045">The torque coordination module <b>320</b> uses the front and rear axle torque values <b>380</b> and <b>385</b> and the wheel torque difference value <b>390</b> to calculate a plurality of torque actuation signals, and transmits those signals to a variety of components of the vehicle (step <b>220</b>). The torque coordination module <b>320</b> determines an engine torque signal <b>395</b>, a center coupling torque signal <b>400</b>, and a braking torque signal <b>405</b>, which can be used to by each respective component to modulate the torque that is applied to the front and rear axles <b>130</b> and <b>134</b> of the vehicle <b>10</b>. In other embodiments, the torque coordination module <b>330</b> determines and transmits more or fewer signals than those shown in <figref idref="DRAWINGS">FIG. 5</figref>. For example, in some embodiments, the torque coordination module <b>320</b> does not calculate or transmit a signal to the center coupling device <b>146</b>. In other embodiments, the torque coordination module <b>320</b> calculates front and rear differential torque signals that are transmitted to the front and rear differentials <b>147</b> and <b>148</b> of the vehicle <b>10</b>.</p>
+<p id="p-0047" num="0046">The way in which torque is coordinated by the torque coordination module <b>320</b> and delivered to the vehicle components described above depends on the front and rear axle torque values <b>380</b> and <b>385</b> and the wheel torque difference value <b>390</b>. Differing only the front and rear axle torque values <b>380</b> and <b>385</b> may not lead to a sporty driving experience, because the wheels on the outside of a curve are heavily loaded and able to provide lateral support. However, reducing the differential wheel slip target (using the wheel torque difference value <b>390</b>) allows more torque to be transferred to the rear wheel on the outside of the curve, which reduces its lateral capability and allows the rear of the vehicle to slide. After determining the amount of torque that is allowed to be applied to the wheels <b>14</b> and <b>18</b>, the appropriate engine torque signal <b>395</b> can be transmitted to the engine <b>138</b>. The center coupling torque signal <b>400</b> can be transmitted to the center coupling device <b>146</b>, which distributes torque to the front and rear axles <b>130</b> and <b>134</b>. Additionally, the braking torque signal <b>405</b> can be used by the braking system <b>150</b> to modulate the torque at the wheels <b>14</b> and <b>18</b> according to the front and rear axle torque values <b>380</b> and <b>385</b> and the wheel torque difference value <b>390</b>.</p>
+<p id="p-0048" num="0047">In another embodiment, the torque coordination module <b>320</b> does not send a center coupling torque signal <b>400</b> to the center coupling device <b>146</b>. In such an embodiment, the distribution of torque between the front and rear wheels <b>14</b> and <b>18</b> is achieved using only the brakes <b>150</b>. In yet another embodiment, the torque coordination module generates signals that produce different front and rear axle torque responses, as well as left and right wheel torque responses. In such an embodiment, different amounts of torque are applied to all of the wheels of the vehicle <b>10</b>, in order to optimize the vehicle response in accordance with the driver's wishes. For example, a different amount of torque is distributed to the front and rear axles <b>130</b> and <b>134</b> using the center coupling device <b>146</b> and the brakes <b>150</b> are used to modulate the torque for the left and right wheels. Other torque distribution combinations are possible.</p>
+<p id="p-0049" num="0048">As previously described, the controller <b>174</b> (or combination of controllers) can complete the process <b>200</b> several times per second. As a result, in some embodiments, modules shown in <figref idref="DRAWINGS">FIG. 5</figref> generate target slips and their corresponding torque signals several times throughout a vehicle maneuver. For example, the vehicle stability module <b>285</b> may indicate that the vehicle <b>10</b> is stable prior to entering a turn, which results in the controller <b>174</b> allowing a greater difference in the slip (and corresponding torque) between the front and rear axles <b>130</b> and <b>134</b>. However, the vehicle <b>10</b> may begin to lose stability as it progresses through the turn, which causes the controller to reduce the difference in slip (and corresponding torque) that is allowed in between the front and rear axles <b>130</b> and <b>134</b>.</p>
+<p id="p-0050" num="0049">Various embodiments are set forth in the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A traction control system comprising:
+<claim-text>a controller that generates a first drive slip target, a second drive slip target, and an output signal based on the first and second drive slip targets,</claim-text>
+<claim-text>wherein the first and second drive slip targets are generated according to a measured stability status of a vehicle and an estimation of a skill level of the driver of the vehicle,</claim-text>
+<claim-text>wherein the output signal is indicative of independent torque quantities to be applied to front and rear axles of the vehicle during turning, and</claim-text>
+<claim-text>wherein the controller analyzes loading characteristics of wheels of the vehicle to determine third and fourth drive slip targets, wherein the third and fourth drive slip targets at least partially determine a maximum amount of drive slip that is permitted at the front and rear axles.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The traction control system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the measured stability status comprises a calculation of an understeering characteristic of the vehicle, an oversteering characteristic of the vehicle, or a combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The traction control system of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the measured stability status of the vehicle is calculated using a signal indicative of a steering angle of the vehicle, a signal indicative of a yaw rate of the vehicle, a signal indicative of a lateral acceleration of the vehicle, or a combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The traction control system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the loading characteristics are determined using a signal indicative of a steering angle of the vehicle, a signal indicative of the yaw rate of the vehicle, at least one signal indicative of a wheel speed of the vehicle, or a combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The traction control system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the estimation of the skill level of the driver is based on a signal indicative of a braking force being applied to the wheels of the vehicle, a signal indicative of a steering angle of the vehicle, a signal indicative of an acceleration of the vehicle, a signal indicative of a yaw rate of the vehicle, a signal indicative of a lateral acceleration of the vehicle, or a combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The traction control system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a desired driving style signal generator, wherein the controller receives a desired driving style signal and generates signals that cause torque that is applied to the front and rear axles of the vehicle to vary from torque that would be applied based on the first and second drive slip targets.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The traction control system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a differential, wherein the controller transmits the output signal to the differential, and the differential distributes torque to the front and rear axles.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The traction control system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a braking system, wherein the controller transmits the output signal to the braking system, and the braking system individually applies a braking force to each of a front right wheel, a front left wheel, a rear right wheel, and a rear left wheel of the vehicle.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A traction control system comprising:
+<claim-text>a controller that generates a first drive slip target, a second drive slip target, and an output signal based on the first and second drive slip targets,</claim-text>
+<claim-text>wherein the first and second drive slip targets are generated according to a measured stability status of a vehicle and an estimation of a skill level of the driver of the vehicle,</claim-text>
+<claim-text>wherein the first drive slip target indicates a first non-zero amount of slip that at least a first wheel of the vehicle is allowed with respect to a driving surface, and the second drive slip target indicates a second non-zero amount of slip that at least a second wheel of the vehicle is allowed with respect to the driving surface,</claim-text>
+<claim-text>wherein the output signal is indicative of independent torque quantities to be applied to front and rear axles of the vehicle during turning, and</claim-text>
+<claim-text>wherein the estimation of the skill level of the driver is based on a signal indicative of a braking force being applied to the wheels of the vehicle, a signal indicative of a steering angle of the vehicle, a signal indicative of an acceleration of the vehicle, a signal indicative of a yaw rate of the vehicle, a signal indicative of a lateral acceleration of the vehicle, or a combination thereof.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The traction control system of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the measured stability status comprises a calculation of an understeering characteristic of the vehicle, an oversteering characteristic of the vehicle, or a combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The traction control system of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the measured stability status of the vehicle is calculated using a signal indicative of a steering angle of the vehicle, a signal indicative of a yaw rate of the vehicle, a signal indicative of a lateral acceleration of the vehicle, or a combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The traction control system of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the controller analyzes loading characteristics of wheels of the vehicle to determine third and fourth drive slip targets, wherein the third and fourth drive slip targets at least partially determine a maximum amount of drive slip that is permitted at the front and rear axles.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The traction control system of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the loading characteristics are determined using a signal indicative of a steering angle of the vehicle, a signal indicative of the yaw rate of the vehicle, at least one signal indicative of a wheel speed of the vehicle, or a combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The traction control system of <claim-ref idref="CLM-00009">claim 9</claim-ref>, further comprising a desired driving style signal generator, wherein the controller receives a desired driving style signal and generates signals that cause torque that is applied to the front and rear axles of the vehicle to vary from torque that would be applied based on the first and second drive slip targets.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The traction control system of <claim-ref idref="CLM-00009">claim 9</claim-ref>, further comprising a differential, wherein the controller transmits the output signal to the differential, and the differential distributes torque to the front and rear axles.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The traction control system of <claim-ref idref="CLM-00009">claim 9</claim-ref>, further comprising a braking system, wherein the controller transmits the output signal to the braking system, and the braking system individually applies a braking force to each of a front right wheel, a front left wheel, a rear right wheel, and a rear left wheel of the vehicle.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The traction control system of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the first and second drive slip targets are not equal.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. A traction control system comprising:
+<claim-text>a controller that generates a first drive slip target, a second drive slip target, and an output signal based on the first and second drive slip targets, and</claim-text>
+<claim-text>a desired driving style signal generator,</claim-text>
+<claim-text>wherein the first and second drive slip targets are generated according to a measured stability status of a vehicle and an estimation of a skill level of the driver of the vehicle,</claim-text>
+<claim-text>wherein the first drive slip target indicates a first non-zero amount of slip that at least a first wheel of the vehicle is allowed with respect to a driving surface, and the second drive slip target indicates a second non-zero amount of slip that at least a second wheel of the vehicle is allowed with respect to the driving surface,</claim-text>
+<claim-text>wherein the output signal is indicative of independent torque quantities to be applied to front and rear axles of the vehicle during turning, and</claim-text>
+<claim-text>wherein the controller receives a desired driving style signal from the desired driving style signal generator and generates signals that cause torque that is applied to the front and rear axles of the vehicle to vary from torque that would be applied based on the first and second drive slip targets.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The traction control system of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the measured stability status comprises a calculation of an understeering characteristic of the vehicle, an oversteering characteristic of the vehicle, or a combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The traction control system of <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the measured stability status of the vehicle is calculated using a signal indicative of a steering angle of the vehicle, a signal indicative of a yaw rate of the vehicle, a signal indicative of a lateral acceleration of the vehicle, or a combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The traction control system of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the controller analyzes loading characteristics of wheels of the vehicle to determine third and fourth drive slip targets, wherein the third and fourth drive slip targets at least partially determine a maximum amount of drive slip that is permitted at the front and rear axles.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The traction control system of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the loading characteristics are determined using a signal indicative of a steering angle of the vehicle, a signal indicative of the yaw rate of the vehicle, at least one signal indicative of a wheel speed of the vehicle, or a combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The traction control system of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the estimation of the skill level of the driver is based on a signal indicative of a braking force being applied to the wheels of the vehicle, a signal indicative of a steering angle of the vehicle, a signal indicative of an acceleration of the vehicle, a signal indicative of a yaw rate of the vehicle, a signal indicative of a lateral acceleration of the vehicle, or a combination thereof.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The traction control system of <claim-ref idref="CLM-00018">claim 18</claim-ref>, further comprising a differential, wherein the controller transmits the output signal to the differential, and the differential distributes torque to the front and rear axles.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The traction control system of <claim-ref idref="CLM-00018">claim 18</claim-ref>, further comprising a braking system, wherein the controller transmits the output signal to the braking system, and the braking system individually applies a braking force to each of a front right wheel, a front left wheel, a rear right wheel, and a rear left wheel of the vehicle.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. The traction control system of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the first and second drive sup targets are not equal. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640885-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640885</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11812766</doc-number>
+<date>20070621</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2005-118024</doc-number>
+<date>20050415</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>207</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>05</class>
+<subclass>B</subclass>
+<main-group>15</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>05</class>
+<subclass>B</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>05</class>
+<subclass>C</subclass>
+<main-group>11</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>118302</main-classification>
+<further-classification>118313</further-classification>
+<further-classification>118323</further-classification>
+<further-classification>118315</further-classification>
+<further-classification>239106</further-classification>
+<further-classification>239110</further-classification>
+<further-classification>239121</further-classification>
+</classification-national>
+<invention-title id="d0e71">Liquid processing method and liquid processing apparatus</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5658615</doc-number>
+<kind>A</kind>
+<name>Hasebe et al.</name>
+<date>19970800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5772764</doc-number>
+<kind>A</kind>
+<name>Akimoto</name>
+<date>19980600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5938847</doc-number>
+<kind>A</kind>
+<name>Akimoto et al.</name>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>118665</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>7153364</doc-number>
+<kind>B1</kind>
+<name>Rangarajan et al.</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>118326</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2003/0059534</doc-number>
+<kind>A1</kind>
+<name>Nishijima et al.</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2005/0188919</doc-number>
+<kind>A1</kind>
+<name>Nguyen</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>118300</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>JP</country>
+<doc-number>3227642</doc-number>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>JP</country>
+<doc-number>2003-178965</doc-number>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>3</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>118 52</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118 56</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118319</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118320</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118313-315</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118612</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118302</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118321</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118323</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>427240</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>427425</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438780</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438782</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>396604</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>396611</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>396627</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>239549-551</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>239556</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>239106</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>239110</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>239120-121</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>134153</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>134198</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>134902</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>134 941</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>134155</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>134171</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>1341042</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>134167 C</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>16</number-of-drawing-sheets>
+<number-of-figures>30</number-of-figures>
+</figures>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11175159</doc-number>
+<kind>00</kind>
+<date>20050707</date>
+</document-id>
+<parent-status>ABANDONED</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11812766</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070245953</doc-number>
+<kind>A1</kind>
+<date>20071025</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nakashima</last-name>
+<first-name>Tsunenaga</first-name>
+<address>
+<city>Koshi-Machi</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Urata</last-name>
+<first-name>Kenji</first-name>
+<address>
+<city>Koshi-Machi</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Okada</last-name>
+<first-name>Shinji</first-name>
+<address>
+<city>Koshi-Machi</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Matsuoka</last-name>
+<first-name>Nobuaki</first-name>
+<address>
+<city>Koshi-Machi</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Smith, Gambrell &#x26; Russell, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Tokyo Electron Limited</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Tadesse</last-name>
+<first-name>Yewebdar T</first-name>
+<department>1792</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">In a nozzle unit <b>4</b> equipped with processing-liquid nozzles <b>4</b>A to <b>4</b>J, an air layer <b>73</b> and a solvent layer <b>74</b> for processing liquid are successively formed outside a processing-liquid layer <b>71</b> included in the tip of each nozzle <b>4</b>A (<b>4</b>B to <b>4</b>J). Next, the solvent layer <b>74</b> in the nozzle <b>4</b>A is thrown out into a drain part <b>62</b> of a standby unit <b>6</b> and subsequently, the processing liquid is supplied from the nozzle <b>4</b>A to the surface of a wafer W, performing a coating process. After completing the coating process, the processing liquid remaining in the nozzle <b>4</b>A is sucked and continuously, respective tips of the nozzles <b>4</b>A to <b>4</b>J are dipped into respective solvents in solvent reservoir <b>62</b>A to <b>62</b>J, respectively. From this state, by sucking in the nozzle <b>4</b>A, there are newly formed, outside the processing layer <b>71</b> in the tip of the nozzle <b>4</b>A, an air layer <b>73</b> and a solvent layer <b>74.</b> Thus, in supplying a substrate, such as semiconductor wafer, with a processing liquid by use of a nozzle unit having a plurality of processing-liquid nozzles integrated, it is possible to prevent dryness of the processing liquids in the respective nozzles while preventing the nozzle unit from being large-sized.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="168.99mm" wi="254.93mm" file="US07640885-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="146.30mm" wi="154.35mm" file="US07640885-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="161.12mm" wi="155.70mm" file="US07640885-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="123.61mm" wi="112.61mm" file="US07640885-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="256.29mm" wi="177.55mm" orientation="landscape" file="US07640885-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="251.46mm" wi="172.21mm" file="US07640885-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="229.87mm" wi="113.79mm" file="US07640885-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="249.85mm" wi="140.55mm" file="US07640885-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="247.99mm" wi="139.36mm" file="US07640885-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="239.44mm" wi="161.21mm" file="US07640885-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="207.52mm" wi="128.27mm" file="US07640885-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="211.75mm" wi="156.63mm" orientation="landscape" file="US07640885-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="195.75mm" wi="172.30mm" orientation="landscape" file="US07640885-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="233.76mm" wi="175.77mm" file="US07640885-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="228.77mm" wi="172.89mm" file="US07640885-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="226.23mm" wi="167.30mm" file="US07640885-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="242.65mm" wi="168.15mm" file="US07640885-20100105-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This application is a division of Ser. No. 11/175,159, filed Jul. 7, 2005 now abandoned, and is being incorporated in its entirety herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">This invention relates to liquid processing method and apparatus for performing a coating process of processing liquid, such as resist liquid, to a substrate, for example, semiconductor wafer.</p>
+<p id="p-0005" num="0004">2. Background Art</p>
+<p id="p-0006" num="0005">In the manufacturing process for semiconductor devices or LCD substrates, a manufacturing technology called &#x201c;photo lithography&#x201d; is employed to form a desired resist pattern on the surface of a substrate. This technique is carried out during a series of processes of: coating resist liquid on a substrate, for example, semiconductor wafer that will be referred &#x201c;wafer&#x201d; hereinafter; exposing the resist liquid in accordance with a designated pattern; and developing the substrate after the exposure to form a desired pattern on the substrate.</p>
+<p id="p-0007" num="0006">The above coating process of the resist liquid is accomplished by first dropping the resist liquid onto the substantial center of a wafer supported by e.g. a spin chuck through application nozzles and secondly rotating the wafer to allow the resist liquid on the surface of the wafer to spread the same liquid from the center of the wafer to the periphery.</p>
+<p id="p-0008" num="0007">In the coating process, plural kinds of resist liquids may be used corresponding to the kinds of base films to be formed beneath the resist film, etching selectivities, thickness of the resist film and so on. In a constitution where coating nozzles are prepared for every resist liquids of different kinds and a common drive arm drives the coating nozzles between their standby positions and processing positions for applying the resist liquids, there are required many operative steps by the common drive arm grasping each of the application nozzles one after another and also troublesome tasks by the drive arm positioning the application nozzles to the wafer individually. From this point of view, the introduction of an &#x201c;all-in-one&#x201d; type coating nozzle unit having a plurality of nozzles built-in is recently contemplated, as shown with reference numeral <b>1</b> of <figref idref="DRAWINGS">FIG. 17</figref> (see Japanese Patent Publication No. 3227642).</p>
+<p id="p-0009" num="0008">Meanwhile, since the resist liquid generally includes components of a resist film made of organic materials and a solvent for the components, such as thinner liquid, the resist liquid is easy to evaporate due to its contact with atmosphere. In order to prevent such evaporation of the resist liquid, therefore, there has been conventionally attempted a suck-back operation where the resist liquid is sucked into an application nozzle by e.g. approx. 2 mm after applying the resist liquid on a wafer, thereby establishing a condition where it is difficult for the resist liquid to contact with the atmosphere.</p>
+<p id="p-0010" num="0009">In spite of the above measure, however, the resist liquid has the tendency of evaporating with a passage of time. Therefore, if performing the coating process with the use of a coating nozzle where a predetermined interval has lapsed since the previous coating, then the resist liquid whose concentration has changed due to its dryness is applied, so that coating defectiveness is produced. Under such a situation, the coating process is practically carried out after throwing out the resist liquid dragged into the coating nozzles. Additionally, besides the above drainage before coating the resist liquid on a wafer, periodical drainage of the resist liquid in the nozzles has been performed in view of maintaining the quality of resist liquid in the nozzles.</p>
+<p id="p-0011" num="0010">We now discuss the coating process with the use of the above-mentioned all-in-one coating nozzle unit <b>1</b>. Here, it should be noted that a single nozzle is activated and the other nozzles are not activated during the coating process. During the coating process, nevertheless, these nozzles not in use also move above a wafer W, together with the nozzle in use. Consequently, the resist liquid in the unused nozzles comes into contact with atmosphere, precipitating its dryness. Therefore, in the structure disclosed in the above publication No. 3227642, the coating nozzle unit <b>1</b> is covered with a cover body <b>11</b> and additionally, the cover body <b>11</b> is filled up with a thinner liquid <b>12</b> in view of preventing dryness of the resist liquid in the nozzle unit <b>1</b>. In <figref idref="DRAWINGS">FIG. 17</figref>, reference numeral <b>13</b> denotes holes that are formed in the cover body <b>11</b> to discharge the resist liquid from the nozzles, corresponding to the nozzles respectively, and reference numeral <b>14</b> denotes a lid body for opening the holes <b>13</b> selectively.</p>
+<p id="p-0012" num="0011">However, it should be noted that the above-mentioned nozzle unit <b>1</b> is large-sized due to the installation of the cover body <b>11</b> outside the nozzles. If the number of nozzles built in the nozzle unit <b>1</b> increases, then it is large-sized furthermore. In spite of filling the interior of the cover body <b>11</b> with the thinner liquid <b>12</b>, the actual coating process is carried out under conditions where the thinner liquid <b>12</b> is discharged from the cover body <b>11</b>. Therefore, since the nozzles not in use are not blocked off from the atmosphere perfectly, the evaporation of the resist liquid in the nozzles is accelerated in consequence.</p>
+<p id="p-0013" num="0012">Thus, in case of the next coating process with the use of a different nozzle, the resist liquid in this nozzle has to be discharged in advance of the coating process. Additionally, as for a less frequently used nozzle, it is required to perform a periodical drainage of the resist liquid in such a nozzle frequently.</p>
+<p id="p-0014" num="0013">In this way, if it is carried out to drain the resist liquid from the nozzle with respect to each application of the coating liquid or periodically, then such an expensive resist liquid is wasted, so that an increased consumption of the resist liquid causes the manufacturing cost to be elevated. Under a situation, we and our inventors of the present invention are considering a method of reducing waste of the resist liquid without draining it with the adoption of a technique disclosed in Japanese Patent Publication (Kokai) No. 2003-178965. According to the technique, an air layer and a thinner layer are formed outside the resist liquid in the coating nozzle. That is, by suppressing contact of the resist liquid with atmosphere to prevent dryness of the resist liquid, its drainage before the coating process is prevented.</p>
+<p id="p-0015" num="0014">In the above publication No. 2003-178965, however, it is not supposed to apply this technique on an all-in-one type coating nozzle unit equipped with a plurality of nozzles. Additionally, there is neither description about a technique of forming the air layers and the thinner layers in a plurality of nozzles effectively nor description about a technique of first coating with the use of one nozzle and subsequently coating with the used of the other nozzle. Therefore, it should be noted that the concretization could not be attained by only the technique disclosed in the publication.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0016" num="0015">In the above-mentioned situation, it is an object of the present invention to supply a substrate with processing liquids with the use of a nozzle unit having a plurality of processing-liquid nozzles formed integrally while preventing dryness of the processing liquids in the processing-liquid and also preventing the nozzle unit from being large-sized.</p>
+<p id="p-0017" num="0016">In order to accomplish the above object, an aspect of the present invention provides a liquid processing method with use of a nozzle unit having a plurality of processing-liquid nozzles arranged integrally and also connected to respective processing-liquid supply passages, for supplying a surface of a substrate with a processing liquid via one of the processing-liquid nozzles, the method comprising the steps of:</p>
+<p id="p-0018" num="0017">forming a processing-liquid layer, an air layer and a solvent layer in each tip of the processing-liquid nozzles of the nozzle unit, in order from the side of the processing-liquid supply passages;</p>
+<p id="p-0019" num="0018">subsequently discharging the solvent layer from one of the processing-liquid nozzles of the nozzle unit to a drain part;</p>
+<p id="p-0020" num="0019">supplying the surface of the substrate with a processing liquid through the one processing-liquid nozzle;</p>
+<p id="p-0021" num="0020">sucking the processing liquid remaining in the one processing-liquid nozzle so as to cause a liquid level of the processing liquid in the one processing-liquid nozzle to retreat toward the processing-liquid supply passages; and</p>
+<p id="p-0022" num="0021">dipping the tip of at least the one processing-liquid nozzle of the nozzle unit into a solvent in a solvent reservoir for storing the solvent of the processing liquid; and</p>
+<p id="p-0023" num="0022">sucking the one processing-liquid nozzle so as to cause the liquid level of the processing liquid in the one processing-liquid nozzle to further retreat toward the processing-liquid supply passages and also cause the solvent in the solvent reservoir to be sucked into the tip of the one processing-liquid nozzle, thereby forming a processing-liquid layer, an air layer and a solvent layer in the tip of the one processing-liquid nozzle, in order from the side of the processing-liquid supply passages.</p>
+<p id="p-0024" num="0023">Another aspect of the present invention provides a liquid processing method with use of a nozzle unit having a plurality of processing-liquid nozzles arranged integrally and also connected to respective processing-liquid supply passages, for supplying a surface of a substrate with a processing liquid via one of the processing-liquid nozzles, the method comprising:</p>
+<p id="p-0025" num="0024">a first step of forming a processing-liquid layer, an air layer and a solvent layer in each tip of the processing-liquid nozzles of the nozzle unit, in order from the side of the processing-liquid supply passages; and</p>
+<p id="p-0026" num="0025">a second step of refilling the solvent layer reduced due to its evaporation after a predetermined time has passed since an execution of the first step; wherein</p>
+<p id="p-0027" num="0026">the second step includes the steps of:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0027">discharging the solvent layers from the respective processing-liquid nozzles of the nozzle unit to a drain part;</li>
+        <li id="ul0002-0002" num="0028">dipping respective tips of the processing-liquid nozzles of the nozzle unit into a solvent in a solvent reservoir for storing the solvent of the processing liquid; and</li>
+        <li id="ul0002-0003" num="0029">sucking the processing-liquid nozzles so as to cause liquid levels of the processing liquids in the processing-liquid nozzles to retreat toward the processing-liquid supply passages and also cause the solvent to be sucked into the tips of the processing-liquid nozzles, thereby forming a processing-liquid layer, an air layer and a solvent layer in the each tip of the processing-liquid nozzles, in order from the side of the processing-liquid supply passages.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0028" num="0030">In common with the above-mentioned methods, when the step of supplying the surface of the substrate with the processing liquid through the one processing-liquid nozzle is done by supplying the processing liquid to the substrate during rotating, it is preferable that the plural processing-liquid nozzles of the nozzle unit are arranged on a straight line passing through a rotational center of the substrate and that the solvent reservoir and the drain part are arranged on a straight line passing through the rotational center of the substrate.</p>
+<p id="p-0029" num="0031">Further, it is preferable that the step of dipping the tip of at least the one processing-liquid nozzle of the nozzle unit into the solvent is done by dipping respective tips of the processing-liquid nozzles into respective solvent reservoirs provided for every processing-liquid nozzles, respectively. Still further, preferably, the step of discharging the solvent layer from the one processing-liquid nozzle is done by moving the processing-liquid nozzles to a common drain part and subsequently discharging the solvent layer from each of the processing-liquid nozzles. The solvent reservoir and the drain part may be arranged in a common container adjacently.</p>
+<p id="p-0030" num="0032">According to the present invention, there is also provided a liquid processing apparatus comprising:</p>
+<p id="p-0031" num="0033">a substrate holder for holding a substrate horizontally;</p>
+<p id="p-0032" num="0034">a nozzle unit in which a plurality of processing-liquid nozzles are provided in a common support integrally, the processing-liquid nozzles being connected to respective processing-liquid supply passages to each supply the substrate held by the substrate holder with a processing liquid;</p>
+<p id="p-0033" num="0035">a solvent reservoir for storing a solvent of the processing liquid, the solvent reservoir being arranged so as to allow either part or all of the processing-liquid nozzles of the nozzle unit to dip tips thereof into the solvent;</p>
+<p id="p-0034" num="0036">a drain part arranged so as to allow part of the processing-liquid nozzles of the nozzle unit to discharge the processing liquid;</p>
+<p id="p-0035" num="0037">suck means for sucking the each processing-liquid nozzles of the nozzle unit;</p>
+<p id="p-0036" num="0038">transfer means for transferring the nozzle unit among the solvent reservoir, the drain part and a position to supply the substrate with the processing liquids; and</p>
+<p id="p-0037" num="0039">a controller including a program to control the suck means and the transfer means so as to perform the steps of: discharging the solvent layer from one of the processing-liquid nozzles of the nozzle unit to a drain part; supplying the surface of the substrate with a processing liquid through the one processing-liquid nozzle; sucking the processing liquid remaining in the one processing-liquid nozzle so as to cause a liquid level of the processing liquid in the one processing-liquid nozzle to retire toward the processing-liquid supply passages; dipping the tip of at least the one processing-liquid nozzle of the nozzle unit into a solvent in a solvent reservoir for storing the solvent for the processing liquid; and sucking the one processing-liquid nozzle so as to cause the liquid level of the processing liquid in the one processing-liquid nozzle to further retire toward the processing-liquid supply passages and also cause the solvent in the solvent reservoir to be sucked into the tip of the one processing-liquid nozzle, thereby forming a processing-liquid layer, an air layer and a solvent layer in the tip of the one processing-liquid nozzle, in order from the side of the processing-liquid supply passages.</p>
+<p id="p-0038" num="0040">Furthermore, there is also provided a liquid processing apparatus comprising:</p>
+<p id="p-0039" num="0041">a substrate holder for holding a substrate horizontally;</p>
+<p id="p-0040" num="0042">a nozzle unit in which a plurality of processing-liquid nozzles are provided in a common support integrally, the processing-liquid nozzles being connected to respective processing-liquid supply passages to each supply the substrate held by the substrate holder with a processing liquid;</p>
+<p id="p-0041" num="0043">a solvent reservoir for storing a solvent of the processing liquid, the solvent reservoir being arranged so as to allow either part or all of the processing-liquid nozzles of the nozzle unit to dip tips thereof into the solvent;</p>
+<p id="p-0042" num="0044">a drain part arranged so as to allow part of the processing-liquid nozzles of the nozzle unit to discharge the processing liquid;</p>
+<p id="p-0043" num="0045">suck means for sucking the each processing-liquid nozzles of the nozzle unit;</p>
+<p id="p-0044" num="0046">transfer means for transferring the nozzle unit among the solvent reservoir, the drain part and a position to supply the substrate with the processing liquids; and</p>
+<p id="p-0045" num="0047">a controller including a program to control the suck means and the transfer means so as to perform the steps of: forming a processing-liquid layer, an air layer and a solvent layer in each tip of the processing-liquid nozzles of the nozzle unit, in order from the side of the processing-liquid supply passages; and refilling the solvent layer reduced due to its evaporation after a predetermined time has passed since an execution of the forming step. Here, the refilling step further includes the steps of: discharging the solvent layers from the respective processing-liquid nozzles of the nozzle unit to a drain part; dipping respective tips of the processing-liquid nozzles of the nozzle unit into a solvent in a solvent reservoir for storing the solvent for the processing liquid; and sucking the processing-liquid nozzles so as to cause liquid levels of the processing liquids in the processing-liquid nozzles to retire toward the processing-liquid supply passages and also cause the solvent to be sucked into the tips of the processing-liquid nozzles, thereby forming a processing-liquid layer, an air layer and a solvent layer in the each tip of the processing-liquid nozzles, in order from the side of the processing-liquid supply passages.</p>
+<p id="p-0046" num="0048">In common with the above-mentioned apparatus, when supplying the surface of the substrate rotated by the substrate holder with the processing liquid through the one processing-liquid nozzle, it is preferable that the plural processing-liquid nozzles of the nozzle unit are arranged on a straight line passing through a rotational center of the substrate and that the solvent reservoir and the drain part are arranged on a straight line passing through the rotational center of the substrate.</p>
+<p id="p-0047" num="0049">Further, the nozzle unit may further include a solvent nozzle connected to a solvent supply passage to supply the substrate held by the substrate holder with a solvent for the processing liquid. Still further, it is preferable that the plural processing-liquid nozzles and the solvent nozzle are together arranged on a straight line passing through the rotational center of the substrate. Preferably, the solvent reservoir is provided with respect to each of the processing-liquid nozzles, correspondingly. The solvent reservoir and the drain part may be arranged in a common container adjacently. Similarly, the drain part may be provided corresponding to the solvent nozzle.</p>
+<p id="p-0048" num="0050">According to the present invention, since the air layer and the solvent layer for the processing liquid are formed outside the processing liquid in each processing-liquid nozzle in the supply of a substrate with the processing liquid with the use of the nozzle unit having a plurality of the processing-liquid nozzles formed integrally, the contact of the processing liquid with atmosphere is suppressed, whereby it is possible to prevent the processing liquid in the processing-liquid nozzles not in use from being evaporated while preventing the nozzle unit from being large-sized.</p>
+<p id="p-0049" num="0051">Additionally, in the present invention, since the processing-liquid nozzle(s) used for the supply of the processing liquid is subjected to the first suction and the second suction upon dipping a tip(s) of the above nozzle(s) into the solvent for the processing liquid, it is possible to form an air layer and a solvent layer outside the processing liquid again, whereby dryness of the processing liquid in the above nozzle(s) can be prevented.</p>
+<p id="p-0050" num="0052">Still further, since the present liquid-processing method includes the step of refilling the solvent layer reduced due to its evaporation after a predetermined time has passed since the formation of the processing-liquid layer, the air layer and the solvent layer in each tip of the processing-liquid nozzles in order from the side of the processing-liquid supply passages, it is possible to suppress dryness of the processing liquid in the processing-liquid nozzles in spite of the passage of the predetermined time.</p>
+<p id="p-0051" num="0053">According to the present invention, the plural processing-liquid nozzles of the nozzle unit are arranged on the straight line passing through the rotational center of the substrate and the solvent reservoir and the drain part are arranged on the straight line passing through the rotational center of the substrate. Thus, by moving the processing-liquid nozzles in one direction horizontally and elevating the nozzles, it is possible to transfer the nozzle unit among one position where the processing-liquid nozzle supplies the substrate with the processing liquid, another position where the solvent layer is discharged from the processing-liquid nozzle into the drain part and the other position where the processing-liquid nozzle sucks in the solvent from the solvent reservoir. Therefore, as it eliminates the need for a driving mechanism for moving the nozzle unit to another direction horizontally, it is possible to simplify the mechanism for moving the nozzle unit.</p>
+<p id="p-0052" num="0054">These and other objects and features of the present invention will become more fully apparent from the following description and appended claims taken in conjunction with the accompany drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0053" num="0055"><figref idref="DRAWINGS">FIG. 1</figref> is a sectional view showing an embodiment where the present invention is applied to a coating apparatus;</p>
+<p id="p-0054" num="0056"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic perspective view showing the above coating apparatus;</p>
+<p id="p-0055" num="0057"><figref idref="DRAWINGS">FIG. 3</figref> is a perspective view of a nozzle unit in the above coating apparatus;</p>
+<p id="p-0056" num="0058"><figref idref="DRAWINGS">FIG. 4</figref> is a front sectional view showing the above nozzle unit;</p>
+<p id="p-0057" num="0059"><figref idref="DRAWINGS">FIGS. 5A and 5B</figref> are plan views showing respective positional relationships among the above nozzle unit, a standby unit and a wafer;</p>
+<p id="p-0058" num="0060"><figref idref="DRAWINGS">FIGS. 6A and 6B</figref> are sectional side views each showing the above nozzle unit;</p>
+<p id="p-0059" num="0061"><figref idref="DRAWINGS">FIGS. 7A</figref>, <b>7</b>B and <b>7</b>C are process diagrams for explanation of the operation of the above coating apparatus;</p>
+<p id="p-0060" num="0062"><figref idref="DRAWINGS">FIGS. 8A</figref>, <b>8</b>B, <b>8</b>C and <b>8</b>D are process diagrams for explanation of the operation of the above coating apparatus;</p>
+<p id="p-0061" num="0063"><figref idref="DRAWINGS">FIGS. 9A</figref>, <b>9</b>B and <b>9</b>C are process diagrams for explanation of the operation of the above coating apparatus;</p>
+<p id="p-0062" num="0064"><figref idref="DRAWINGS">FIGS. 10A and 10B</figref> are process diagrams for explanation of the operation of the above coating apparatus;</p>
+<p id="p-0063" num="0065"><figref idref="DRAWINGS">FIG. 11</figref> is a plan view showing one example of a resist-pattern formation apparatus where the above coating apparatus is built in;</p>
+<p id="p-0064" num="0066"><figref idref="DRAWINGS">FIG. 12</figref> is a perspective view showing one example of the above resist-pattern formation apparatus;</p>
+<p id="p-0065" num="0067"><figref idref="DRAWINGS">FIGS. 13A and 13B</figref> are characteristic diagrams showing the in-plane uniformity of film thickness on a wafer in view of confirming an effect of the invention;</p>
+<p id="p-0066" num="0068"><figref idref="DRAWINGS">FIGS. 14A and 14B</figref> are characteristic diagrams showing the in-plane uniformity of film thickness on a wafer in view of confirming an effect of the invention;</p>
+<p id="p-0067" num="0069"><figref idref="DRAWINGS">FIGS. 15A and 15B</figref> are characteristic diagrams showing the in-plane uniformity of film thickness on a wafer in view of confirming an effect of the invention;</p>
+<p id="p-0068" num="0070"><figref idref="DRAWINGS">FIG. 16</figref> is a sectional view showing another example of the nozzle unit of the invention; and</p>
+<p id="p-0069" num="0071"><figref idref="DRAWINGS">FIG. 17</figref> is a sectional view showing a conventional all-in-one nozzle.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENT</heading>
+<p id="p-0070" num="0072">An embodiment where a liquid processing apparatus of the present invention is applied to a coating apparatus for performing the application process of resist liquid will be described with reference to accompanying drawings. In <figref idref="DRAWINGS">FIG. 1</figref>, reference numeral <b>2</b> designates a coating apparatus. The coating apparatus <b>2</b> includes a spin chuck <b>21</b> forming a substrate holding part to absorb the center part (backside) of a semiconductor wafer W as a substrate, which will be referred &#x201c;wafer&#x201d; after, and hold it horizontally. This spin chuck <b>21</b> is connected to a driving mechanism (spin chuck motor) <b>23</b> through a shaft part <b>22</b>. Thus, the spin chuck <b>21</b> is rotatable and movable up and down by the driving mechanism <b>23</b>.</p>
+<p id="p-0071" num="0073">Outside the periphery of the wafer W held on the spin chuck <b>21</b>, there is a cup body <b>3</b> that opens upwardly so as to surround the wafer W. The upper portion of the sidewall of the cup body <b>3</b> is inclined inwardly in the radial direction. Further, the cup body <b>3</b> is provided, on its bottom side, with a liquid receiver <b>31</b> in the form of a concave part. The liquid receiver <b>31</b> is divided, below and along the whole circumference of the wafer W, to an outside zone <b>32</b> and an inside zone <b>33</b>. A drain passage <b>34</b> is connected to the bottom of the outside zone <b>32</b> to discharge drains, such as processing liquid, from the zone <b>32</b>. While, two exhaust passages <b>35</b><i>a</i>, <b>35</b><i>b </i>are connected to the bottom of the outside zone <b>32</b>.</p>
+<p id="p-0072" num="0074">A circular plate <b>37</b> is arranged below the wafer W, while an annular member <b>38</b> is arranged so as to surround the outside of the circular plate <b>37</b>. On the outer end face of the annular member <b>38</b>, an end plate <b>39</b> is provided so as to extend downwardly and enter the interior of the outside zone <b>32</b>. With this structure, processing liquid etc. is introduced into the outside zone <b>32</b> via respective surfaces of the end plate <b>39</b> and the annular member <b>38</b>. Although not shown in the figure, elevating pins are arranged so as to penetrate the annular member <b>37</b> vertically. These elevating pins are constructed so as to be movable up and down while supporting the backside of the wafer W. Due to collaborative work of the elevating pins with main transfer means mentioned later, the wafer W can be transferred to and from the spin chuck <b>21</b>.</p>
+<p id="p-0073" num="0075">In the figure, reference numeral <b>4</b> denotes a nozzle unit for supplying the wafer W held on the spin chuck <b>21</b> with processing liquids and solvent for the liquids. As shown in <figref idref="DRAWINGS">FIGS. 2 to 5B</figref>, this nozzle unit <b>4</b> includes a plurality of processing-liquid nozzles (e.g. ten nozzles <b>4</b>A to <b>4</b>J) for supplying the wafer W with the processing liquid (e.g. resist liquid) and one solvent nozzle <b>5</b> for supplying the wafer W with a solvent (e.g. thinner liquid) for the processing liquids. In the nozzle unit <b>4</b>, these nozzles <b>4</b>A to <b>4</b>J and <b>5</b> are fixed to a common support <b>41</b> into one body. The support <b>41</b> is further provided with a not-shown temperature control mechanism.</p>
+<p id="p-0074" num="0076">For example, as shown in <figref idref="DRAWINGS">FIGS. 3 to 5B</figref>, the processing-liquid nozzles <b>4</b>A to <b>4</b>J and the solvent nozzle <b>5</b> are fixed to the support <b>41</b> in a manner that five processing-liquid nozzles <b>4</b>A to <b>4</b>E and five processing-liquid nozzles <b>4</b>F to <b>4</b>J make a straight line along the longitudinal direction (i.e. Y-axis direction) of the coating apparatus <b>5</b> on both sides of the solvent nozzle <b>5</b> as a center.</p>
+<p id="p-0075" num="0077">As shown in <figref idref="DRAWINGS">FIG. 4</figref>, the processing-liquid nozzles <b>4</b>A to <b>4</b>J are communicated with processing-liquid sources <b>43</b>A to <b>43</b>J through processing-liquid supply passages <b>42</b>A to <b>42</b>J interposed by suck-back valves VA to VJ and flow control units CA to CJ having respective valves, respective massflow controllers and so on, respectively. These processing-liquid supply passages <b>42</b>A to <b>42</b>J and one or more nozzle temperature-control pipes (e.g. two pipes&#x2014;not shown) for supplying fluids, whose temperatures are controlled by the above temperature control mechanism, are together made from flexible material so as not to interfere with later-mentioned movements of the nozzle unit <b>4</b>. Further, the processing-liquid supply passages <b>42</b>A to <b>42</b>J and the not-shown nozzle temperature-control pipes extend to the underside of a later-mentioned base plate <b>48</b>, in a bundle. Below the base plate <b>48</b>, for instance, the passages <b>42</b>A to <b>42</b>J and the nozzle temperature-control pipes are connected to the suck-back valves VA to VJ, the flow control units CA to CJ, the processing-liquid sources <b>43</b>A to <b>43</b>J, a pump, filters, etc.</p>
+<p id="p-0076" num="0078">Now, <figref idref="DRAWINGS">FIG. 6A</figref> shows the processing-liquid supply passage <b>42</b>A formed in the support <b>41</b>, for the processing-liquid nozzle <b>4</b>A. Note, the above-mentioned suck-back valves VA to VJ constitute suck means of the invention, while the flow control units CA to CJ constitute means for controlling the flow rate of the processing liquid. In the processing-liquid sources <b>43</b>A to <b>43</b>J, there are stored different kinds of resist liquids or one kind of resist liquid but having different viscosities, for example, I-Line resist liquid, KrF resist liquid, ArF resist liquid, etc., as the processing liquids. The above solvent nozzle <b>5</b> is communicated with a solvent source <b>53</b> through a solvent supply passage <b>52</b>. In <figref idref="DRAWINGS">FIG. 4</figref>, reference numeral <b>51</b> denotes a flow control valve equipped with a valve, a massflow controller and so on.</p>
+<p id="p-0077" num="0079">The suck-back valves VA to VJ are provided to allow respective liquid levels of the processing liquids, which would remain in the processing-liquid nozzles <b>4</b>A to <b>4</b>J when the discharge of the processing liquids via the nozzles <b>4</b>A to <b>4</b>J is stopped, to retire (i.e. phenomenon of suck-back) toward the processing-liquid supply passages <b>42</b>A to <b>42</b>J. For this purpose, the suck-back valves VA to VJ are respectively equipped with bellows having vacuum chambers in communication with the processing-liquid supply passages <b>42</b>A to <b>42</b>J. If the bellows are expanded to form negative pressures in the vacuum chambers, then it becomes possible to make the processing liquids in the nozzles <b>4</b>A to <b>4</b>J go back to the corresponding processing-liquid supply passages <b>42</b>A to <b>42</b>J. Although not shown, the suck-back valves VA to VJ are respectively provided with needles that allow the maximum volumes of the vacuum chambers to be varied, allowing adjustment of retreating respective distances of the liquid levels of the processing liquids at the tips. The operations of the suck-back valves VA to VJ are controlled by a controller mentioned later.</p>
+<p id="p-0078" num="0080">A standby unit <b>6</b> for the nozzle unit <b>4</b> is attached to the outer face of the above cup <b>3</b>. The standby unit <b>6</b> is formed so that, for example, all of the processing-liquid nozzles <b>4</b>A to <b>4</b>J can dip their tips into the solvents. Thus, corresponding to the processing-liquid nozzles <b>4</b>A to <b>4</b>J and the solvent nozzle <b>5</b>, the standby unit <b>6</b> includes solvent reservoirs <b>61</b>A to <b>61</b>J and a drain part <b>62</b> at the center of the unit <b>6</b>. In a common container <b>63</b>, the solvent reservoirs <b>61</b>A to <b>61</b>J and the drain part <b>62</b><i>s </i>are arranged so as to adjoin each other in a straight line along a direction Y.</p>
+<p id="p-0079" num="0081"><figref idref="DRAWINGS">FIG. 6A</figref> is a longitudinal sectional view of the drain part <b>62</b>. <figref idref="DRAWINGS">FIG. 6A</figref> is a longitudinal sectional view of the solvent reservoir <b>61</b>A. In the figures, reference numeral <b>64</b>A denotes a drain passage that is adjacent to the solvent reservoir <b>61</b>A. The respective drain passages <b>64</b>A (<b>64</b>B to <b>64</b>J) respectively adjoining the solvent reservoirs <b>61</b>A (<b>61</b>B to <b>61</b>J) are communicated with each other and also connected with a drain chamber <b>65</b> in communication with the drain part <b>62</b>. With the structure, the solvents overflowing out of the solvent reservoirs <b>61</b>A to <b>61</b>F can flow into the drain chamber <b>65</b> through the drain passages <b>64</b>A to <b>64</b>J and subsequently, they flow out of the chamber <b>65</b> through a drain port <b>66</b> formed on the bottom of the container <b>63</b>.</p>
+<p id="p-0080" num="0082">As shown in <figref idref="DRAWINGS">FIGS. 2 and 5A</figref>, the nozzle unit <b>4</b> is constructed so as to be movable up and down (movable in a direction Z) along an elevating shaft <b>45</b> extending in the direction Z due to an elevating mechanism <b>44</b>. Additionally, along a guide rail <b>47</b> extending along the long direction (direction Y) of the coating apparatus <b>2</b>, the nozzle unit <b>4</b> can move on a straight line L passing through the rotational center O of the wafer W due to a horizontal moving mechanism <b>46</b>. Note, the elevating mechanism <b>44</b> and the horizontal moving mechanism <b>46</b> do constitute moving means of the invention. Reference numeral <b>48</b> designates the above-mentioned base plate.</p>
+<p id="p-0081" num="0083">For instance, as shown in <figref idref="DRAWINGS">FIG. 5A</figref>, the processing-liquid nozzles <b>4</b>A to <b>4</b>J and the solvent nozzle <b>5</b> of the nozzle unit <b>4</b> are arranged on the straight line L passing through the rotational center O of the wafer W. Similarly, as shown in <figref idref="DRAWINGS">FIG. 5B</figref>, the solvent reservoirs <b>61</b>A to <b>61</b>J and the drain part <b>62</b> of the standby unit <b>6</b> are positioned on the straight line L passing through the rotational center O of the wafer W. Note that, in <figref idref="DRAWINGS">FIGS. 5A and 5B</figref>, the nozzle unit <b>4</b> and the standby unit <b>6</b> are represented largely in comparison with the representation of the wafer W for the sake of simply illustration. Additionally, discharge openings at the tips of the nozzles are shown in the figure although they are invisible in a normal state.</p>
+<p id="p-0082" num="0084">The elevating mechanism <b>44</b> and the horizontal moving mechanism <b>46</b> are formed by, for example, motors. With the above constitution, the nozzle unit <b>4</b> is constructed so as to be movable among: a standby position where the tips of the processing-liquid nozzles <b>4</b>A to <b>4</b>J are positioned somewhat higher (e.g. approx. 1 to 2 mm higher) than the top surface of the container <b>63</b> of the standby unit <b>6</b>; a position where the processing-liquid nozzles <b>4</b>A to <b>4</b>J dip their tips in the solvents in the solvent reservoirs <b>61</b>A to <b>61</b>J by approx 1 mm from respective liquid levels of the solvents; and a position where any one of the nozzles <b>4</b>A-<b>4</b>J and <b>5</b> can supply the processing liquid or the solvent to the rotational center of the wafer W. Further, the nozzle unit <b>4</b> is movable up and down and also movable in the direction Y to positions where each of the processing-liquid nozzles <b>4</b>A to <b>4</b>J can oppose the drain part <b>62</b>.</p>
+<p id="p-0083" num="0085">The operations of the suck-back valves VA to VJ, the flow control units CA to CJ, the elevating mechanism <b>44</b> and the horizontal moving mechanism <b>46</b> are all controlled by a controller <b>100</b>. That is, the suck-back operations of the single processing-liquid nozzle <b>4</b>A (<b>4</b>B to <b>4</b>J) or all the processing-liquid nozzles <b>4</b>A to <b>4</b>J can be accomplished at a predetermined timing by the controller <b>100</b>. Additionally, the controller <b>100</b> previously stores the amounts of the processing liquids and the solvents to be sucked back, the amounts of the processing liquids and the solvents to be discharged from the processing-liquid nozzle <b>4</b>A (<b>4</b>B to <b>4</b>J), controlled variables of the suck-back valves VA to VJ and the flow control units CA to CJ for attaining these amounts to be sucked back or discharged, etc. Thus, the suck-back operations and the discharge operation are carried out in accordance with predetermined processing programs stored in the controller <b>100</b>.</p>
+<p id="p-0084" num="0086">Next, the present liquid processing method carried by the above-mentioned coating apparatus <b>2</b> will be described. Before performing the coating operation by the coating apparatus <b>2</b>, it is carried out to form, in order from the sides of the processing-liquid supply passages <b>42</b>A to <b>42</b>J, a processing-liquid layer, an air layer and a solvent layer for the processing liquid in each tip of the processing-liquid nozzles <b>4</b>A to <b>4</b>J of the nozzle unit <b>4</b>. In detail, as shown in <figref idref="DRAWINGS">FIG. 7A</figref>, the suck-back valves VA to VJ in the processing-liquid supply passages <b>42</b>A to <b>42</b>J for the processing-liquid nozzles <b>4</b>A to <b>4</b>J perform the first suck-back operation. Consequently, the liquid level of the processing-liquid layer <b>71</b> in each of the processing-liquid nozzles <b>4</b>A to <b>4</b>J changes from a pre-suction state (as representatively shown with the processing-liquid nozzle <b>4</b>A in <figref idref="DRAWINGS">FIG. 8A</figref>) and retreats toward the processing-liquid supply passages <b>42</b>A, as shown in <figref idref="DRAWINGS">FIG. 8B</figref>. Thus, the liquid level is raised from the tip of the nozzle <b>4</b>A. In connection, it is desirable to operate the suck-back valve VA so that the liquid level of the processing-liquid layer in the nozzle <b>4</b>A rises from its tip by approx. 1 to 1.5 mm.</p>
+<p id="p-0085" num="0087">Next, as shown in <figref idref="DRAWINGS">FIGS. 7B and 8C</figref>, it is carried out to move the nozzle unit <b>4</b> to a position opposing the standby unit <b>6</b> and further performed to allow the processing-liquid nozzles <b>4</b>A to <b>4</b>J to dip respective tips into solvents <b>72</b> in the solvent reservoirs <b>61</b>A to <b>61</b>J. Regarding the supply of the solvent reservoirs <b>61</b>A to <b>61</b>J with the solvents, in advance of the above dipping, the solvent nozzle <b>5</b> may move to respective position opposing the solvent reservoirs <b>61</b>A to <b>61</b>J, in turns where the nozzles further blasts out the solvent into the solvent reservoirs <b>61</b>A to <b>61</b>J. Alternatively, the solvent reservoirs <b>61</b>A to <b>61</b>J may be respectively provided with thinner suppliers, as shown in <figref idref="DRAWINGS">FIG. 6B</figref> representatively.</p>
+<p id="p-0086" num="0088">Next, as shown in <figref idref="DRAWINGS">FIG. 7C</figref>, the suck-back valves VA to VJ in the processing-liquid supply passages <b>42</b>A to <b>42</b>J for the processing-liquid nozzles <b>4</b>A to <b>4</b>J perform the second suck-back operation. Consequently, as shown in <figref idref="DRAWINGS">FIG. 8D</figref>, the liquid level of the processing-liquid layer <b>71</b> in each of the processing-liquid nozzles <b>4</b>A to <b>4</b>J retreats toward the processing-liquid supply passages <b>42</b>A to <b>42</b>J furthermore and the solvents in the solvent reservoirs <b>61</b>A to <b>61</b>J are sucked in the tips of the nozzles <b>4</b>A to <b>4</b>J. In this way, the processing-liquid layer <b>71</b>, the air layer <b>73</b> and the solvent layer <b>74</b> for the processing liquid are formed in each tip of the processing-liquid nozzles <b>4</b>A to <b>4</b>J, in order from the sides of the processing-liquid supply passages <b>42</b>A to <b>42</b>J.</p>
+<p id="p-0087" num="0089">Now, if the nozzles <b>4</b>A to <b>4</b>J of approx. 1.2 to 2 mm in bore diameter are employed, it is preferable that the air layer <b>73</b> in each of the nozzles <b>4</b>A to <b>4</b>J has a thickness of approx. 2 mm. Regarding the thickness of the solvent layer <b>74</b>, it depends on a period for preventing dryness of the processing liquid. For instance, if required to prevent dryness of the processing liquid in a period of approx. 2 hours, it is desirable that the solvent layer <b>74</b> has a thickness of approx. 1.5 to 2 mm, which will be obvious from later-mentioned experiments. Note, the degree of a rising of the liquid level of the processing-liquid layer <b>71</b> from the tip of the nozzle, which is caused by the first suction, and the thicknesses of the air layer <b>73</b> and the solvent layer <b>74</b> both formed at the second suction are controlled for every nozzles, due to sucking forces of the suck-back valves VA to VJ. In this way, a series of operations where the suction is performed by the suck-back valves VA to VJ under two time frames while interposing the dip of the tips of the nozzles <b>4</b>A to <b>4</b>J into the solvent reservoirs <b>61</b>A to <b>61</b>J, is carried out on the basis of the process program stored in the controller <b>100</b>.</p>
+<p id="p-0088" num="0090">Next, citing an instance of the coating operation using one processing-liquid nozzle <b>4</b>A of the nozzle unit <b>4</b> (the rightmost nozzle in <figref idref="DRAWINGS">FIG. 9A</figref>), we describe the coating process of a wafer W performed by the coating apparatus <b>2</b> having the nozzle unit <b>4</b> where the processing-liquid layers <b>71</b>, the air layers <b>73</b> and the solvent layers <b>74</b> are formed in the tips of the nozzles <b>4</b>A to <b>4</b>J.</p>
+<p id="p-0089" num="0091">First, it is carried out to discharge the solvent layer <b>71</b> from the processing-liquid nozzle <b>4</b>A. In detail, as shown in <figref idref="DRAWINGS">FIG. 9A</figref>, the nozzle unit <b>4</b> is moved so that the processing-liquid nozzle <b>4</b>A opposes the drain part <b>62</b> of the standby unit <b>6</b> and a predetermined amount of processing liquid due to the flow control unit CA is discharged from the nozzle <b>4</b>A. Subsequently, the processing liquid is sucked back. Then, in view of reducing a scrappage amount of the processing liquid, the charge amount of the processing liquid for accomplishing the discharge of the solvent layer <b>74</b> only is previously determined by experiments. For instance, the liquid level of the processing liquid is lowered by approx. 2 mm to discharge the solvent layer <b>74</b> from the nozzle. Note, a controlled variable for the flow control unit CA allowing the above charge amount of the processing liquid is stored in the controller <b>100</b> in advance.</p>
+<p id="p-0090" num="0092">Next, the nozzle unit <b>4</b> is moved to a coating position where the processing-liquid nozzle <b>4</b>A supplies a wafer W with an embrocation (i.e. processing liquid). Then, the processing-liquid nozzle <b>4</b>A supplies the wafer W with the processing liquid, putting a coating process into execution. In the coating process, the spin chuck <b>21</b> is positioned above the cup <b>3</b>, while a wafer W transferred from the previous step by not-shown main transfer means is delivered onto the spin chuck <b>21</b> in corporation with the elevating pins (not shown) and successively, the spin chuck <b>21</b> is lowered to a processing position.</p>
+<p id="p-0091" num="0093">Next, the nozzle unit <b>4</b> is moved to a position where the solvent nozzle <b>5</b> can supply the solvent to the rotational center O of the wafer W held on the spin chuck <b>21</b>. Then, the wafer W is supplied with a thinner liquid as the solvent. By rotation of the wafer W with the spin chuck <b>21</b>, the thinner liquid is diffused from the center O up to the periphery of the wafer W due to centrifugal force. Next, the rotation of the spin chuck <b>21</b> is stopped and additionally, the nozzle unit <b>4</b> is moved to a position where the processing-liquid nozzle <b>4</b>A can supply a processing liquid to the rotational center O of the wafer W held on the spin chuck <b>21</b>. In this way, the wafer W is supplied with a resist liquid A as the processing liquid. Similarly, by rotation of the wafer W with the spin chuck <b>21</b>, the resist liquid A is diffused from the center O up to the periphery of the wafer W due to the centrifugal force. It is noted that the resist liquid A is applied on the wafer W whose surface is getting wet by the thinner liquid. Then, the spin chuck <b>21</b> is moved upside the cup <b>3</b> and thereafter, the wafer W having the resist liquid A coated thereon is delivered to the not-shown main transfer means by the not-shown elevating pins.</p>
+<p id="p-0092" num="0094">In the meanwhile, if the spouting of the embrocation is not carried out over a predetermined period since the coating process has been completed, it is carried out to form the processing-liquid layer <b>71</b>, the air layer <b>73</b> and the solvent layer <b>74</b> in the tip of the processing-liquid nozzle <b>4</b>A on use. That is, as mentioned before, the suck-back valve VA performs the first suction on the nozzle <b>4</b>A (see <figref idref="DRAWINGS">FIG. 9C</figref>) and subsequently, the nozzle unit <b>4</b> is moved to a position to oppose the standby unit <b>6</b> where the nozzles <b>4</b>A to <b>4</b>J dip their tips into the solvents <b>72</b> in the solvent reservoirs <b>61</b>A to <b>61</b>J, as shown in <figref idref="DRAWINGS">FIG. 10A</figref>. In succession, as shown in <figref idref="DRAWINGS">FIG. 10B</figref>, the suck-back valve VA performs the second suction on the used nozzle <b>4</b>A only. As a result, there are formed the processing-liquid layer <b>71</b>, the air layer <b>73</b> and the solvent layer <b>74</b> in the tip of the nozzle <b>4</b>A, in order from the side of the processing-liquid supply passage <b>42</b>A. Alternatively, the above-mentioned second suction of the suck-back valve VA may be accomplished by dipping the nozzle <b>4</b>A into the solvent <b>72</b> in any one of the solvent reservoirs <b>61</b>A to <b>61</b>J.</p>
+<p id="p-0093" num="0095">Subsequently, in case of coating the wafer W with the use of the processing-liquid nozzle <b>4</b>B different from the above processing-liquid nozzle <b>4</b>A, the nozzle unit <b>4</b> is moved so that the processing-liquid nozzle <b>4</b>B opposes the drain part <b>62</b> of the standby unit <b>6</b>, discharging the solvent layer <b>74</b> in the nozzle <b>4</b>B, as similar to the use of the processing-liquid nozzle <b>4</b>A. Next, the wafer W is coated with a resist liquid B as the processing liquid with the use of the processing-liquid nozzle <b>4</b>B and successively, it is carried out to form the processing-liquid layer <b>71</b>, the air layer <b>73</b> and the solvent layer <b>74</b> in the tip of the processing-liquid nozzle <b>4</b>B. Then, it is desirable that the nozzle unit <b>4</b> normally waits ready in the atmosphere. For instance, the nozzle unit <b>4</b> is held in a standby position where the tips of the processing-liquid nozzles <b>4</b>A to <b>4</b>J are somewhat higher than the top surface of the container <b>63</b> of the standby unit <b>6</b> by e.g. approx. 1.5 to 2 mm.</p>
+<p id="p-0094" num="0096">Note, a series of operations of: discharging the solvent from the nozzle <b>4</b>A; performing the designated coating process, first sucking the used nozzle <b>4</b>A; dipping its tip into the solvent reservoir; and secondly sucking the nozzle <b>4</b>A by the suck-back valve Va, and another series of operations for the next coating process with the use of the nozzle <b>4</b>B, are carried out on the basis of the process program stored in the controller <b>100</b>.</p>
+<p id="p-0095" num="0097">According to the above-mentioned processing method, since the air layer <b>73</b> and the solvent layer <b>74</b> are formed outside the processing-liquid layer <b>71</b> in each tip of the processing-liquid nozzles <b>4</b>A to <b>4</b>J, the contact of the processing-liquid layer <b>71</b> with atmosphere can be avoided. In spite of the presence of the air layer <b>73</b> between the processing-liquid layer <b>71</b> and the solvent layer <b>74</b>, as the air layer <b>73</b> is saturated with evaporation of the solvent, an atmosphere for hydrating the processing liquid is established there to prevent the processing liquids in the processing-liquid nozzles <b>4</b>A to <b>4</b>J from evaporating. In addition, owing to the air layer <b>73</b> between the processing-liquid layer <b>71</b> and the solvent layer <b>74</b>, the contact of the layer <b>71</b> with the layer <b>74</b> is suppressed, so that the solvent in the solvent layer <b>74</b> can be prevented from mixing with the processing liquid.</p>
+<p id="p-0096" num="0098">In this way, since the dryness of the processing liquid is suppressed by forming the air layers <b>73</b> and the solvent layer <b>74</b> outside the processing-liquid layers <b>71</b> in the processing-liquid nozzles <b>4</b>A to <b>4</b>J, there is no possibility that in the &#x201c;all-in-one&#x201d; nozzle having a plurality of nozzles formed integrally, the processing liquids in the nozzles not in use are exposed to atmosphere, so that it is possible to suppress dryness of the processing liquid certainly. Additionally, in comparison with an arrangement where a dry-proof member is attached to the nozzle unit <b>4</b> having a plurality of nozzles, it is possible to prevent the whole unit <b>4</b> from being large-sized. Even if increasing the number of processing-liquid nozzles in the nozzle unit <b>4</b>, the size of the unit <b>4</b> is quit for its increase due to the addition of nozzles.</p>
+<p id="p-0097" num="0099">Further, with the prevention of dryness of the processing liquid in the processing-liquid nozzles <b>4</b>A to <b>4</b>J, there is no need to drain the malformed processing liquid as a result of the dryness before the coating process or periodically, where the running cost of the coating apparatus can be saved by restraining the waste of expensive processing liquid.</p>
+<p id="p-0098" num="0100">Since all of the processing-liquid nozzles <b>4</b>A to <b>4</b>J are subjected to the first suck-back operation of withdrawing the processing liquids in the respective tips and the second suck-back operation upon dipping the tips into the solvent, it is possible to form the processing-liquid layers <b>71</b>, the air layers <b>73</b> and the solvent layers <b>74</b> in all the nozzles <b>4</b>A to <b>4</b>J simultaneously, collectively, easily and effectively.</p>
+<p id="p-0099" num="0101">As for the processing-liquid nozzle that has been used to supply the wafer with the processing liquid, since the same nozzle is subjected to the first suction and the second suction upon dipping its tip into the solvent reservoir, it is possible to again form the processing-liquid layer <b>71</b>, the air layer <b>73</b> and the solvent layer <b>74</b>, whereby the dryness of the processing liquid in the above processing-liquid nozzle can be prevented.</p>
+<p id="p-0100" num="0102">In the nozzle unit <b>4</b>, additionally, since the processing-liquid nozzles <b>4</b>A to <b>4</b>J and the solvent nozzle <b>5</b> are arranged on the straight line L passing through the rotational center O of the wafer W and the solvent reservoirs <b>61</b>A and the drain part <b>62</b> are arranged on the straight line L passing through the rotational center O of the wafer W, it is possible to transfer the nozzle unit <b>4</b> among a position where each of the processing-liquid nozzles <b>4</b>A to <b>4</b>J supplies the wafer W with the processing liquid, another position where the solvent layer <b>74</b> is discharged from each of the processing-liquid nozzles <b>4</b>A to <b>4</b>J into the drain part <b>4</b>A to <b>4</b>J and the other position where each of the processing-liquid nozzles <b>4</b>A to <b>4</b>J sucks in the solvent from each of the solvent reservoirs <b>61</b>A to <b>61</b>J by moving each of the processing-liquid nozzles <b>4</b>A to <b>4</b>J in one direction horizontally (direction Y) and elevating each of the nozzles <b>4</b>A to <b>4</b>J. That is, as it allows the nozzle unit <b>4</b> to be moved to a designated position without using a driving mechanism for moving the nozzle unit to another direction (direction X) horizontally, it is possible to simplify means for moving the nozzle unit <b>4</b>.</p>
+<p id="p-0101" num="0103">In addition to the above arrangement of the processing-liquid nozzles <b>4</b>A to <b>4</b>J and the solvent nozzle <b>5</b>, since the solvent reservoirs <b>61</b>A to <b>61</b>J and the drain part <b>62</b> of the standby unit <b>6</b> are arranged on the straight line L passing through the rotational center O of the wafer W so as to correspond to the processing-liquid nozzles <b>4</b>A to <b>4</b>J and the solvent nozzle <b>5</b> respectively, it is possible to miniaturize the standby unit <b>6</b>. That is, it is desirable to arrange the solvent reservoirs <b>61</b>A to <b>61</b>J in a manner that all of the processing-liquid nozzles <b>4</b>A to <b>4</b>J can dip their tips into the solvent in order to form the solvent layers <b>74</b> in all of the nozzles <b>4</b>A to <b>4</b>J effectively, while the discharge of the solvent layer <b>74</b> before the coating process is carried out one nozzle by one nozzle. Thus, it means that the standby unit <b>6</b> has only to possess a single drain part <b>62</b>. In addition to this constitution, since the drain part <b>62</b> is arranged so as to oppose the solvent nozzle <b>5</b>, it is possible to save the installation space of the standby unit <b>6</b>.</p>
+<p id="p-0102" num="0104">Additionally, due to the individual arrangement of the solvent reservoirs <b>61</b>A to <b>61</b>J, it is possible to allow the coating apparatus to meet a situation using a different solvent with respect to each processing liquid. Even if the resist liquid enters the solvent reservoirs <b>61</b>A to <b>61</b>J into mixture, there is no possibility that one nozzle is infiltrated by difference resist liquids.</p>
+<p id="p-0103" num="0105">Still further, since the processing-liquid nozzles <b>4</b>A to <b>4</b>J are divided into two equal numbers on both sides of the solvent nozzle <b>5</b> as the center and correspondingly, the drain part <b>62</b> is arranged at the center of the standby unit <b>6</b>, the moving distances of the nozzle unit <b>4</b> to discharge the solvent layers <b>74</b> from the processing-liquid nozzles <b>4</b>A to <b>4</b>J is reduced in comparison with those in case of arranging the drain part <b>62</b> at the extremity of the standby unit <b>6</b>, improving the operating efficiency of the apparatus.</p>
+<p id="p-0104" num="0106">Next, a process (i.e. the second step) for refilling the solvent layer <b>74</b>, whose amount has been decreased due to the evaporation, in each of the processing-liquid nozzles <b>4</b>A to <b>4</b>J will be described. It is generally noted that the solvent layer <b>74</b> is composed of volatile components. Consequently, since the solvent layer <b>74</b> vaporizes with a passage of time, the resultant reduction of an amount of the solvent layer <b>74</b> may cause an incomplete prevention of dryness of the processing liquid. The second step is provided to meet such a situation. The timing of periodically refilling the solvent layer <b>74</b>, namely, a period from the previous formation of the layers <b>71</b>, <b>73</b> and <b>74</b> for all the nozzles <b>4</b>A to <b>4</b>J at the first step till the present formation of the solvent layer <b>74</b> is previously determined in compliance with the sorts of solvent forming the formed solvent layer <b>74</b>, a thickness of the layer <b>74</b> formed at the first step and so on.</p>
+<p id="p-0105" num="0107">At the second step, it is firstly performed to discharge the solvent layers <b>74</b> from the respective processing-liquid nozzles <b>4</b>A to <b>4</b>J. In detail, at first, the nozzle unit <b>4</b> is moved so that the first nozzle <b>4</b>A opposes the drain part <b>62</b> of the standby unit <b>6</b> and there, the solvent layer <b>74</b> is discharged with the supply of a predetermined amount of processing liquid by the flow control unit CA. Thereafter, the similar operation is performed against the other nozzles <b>4</b>B to <b>4</b>J, discharging the solvent layers <b>74</b> therefrom.</p>
+<p id="p-0106" num="0108">Note, the amount supplied of the processing liquid for discharging only the solvent layer <b>74</b> changes depending on a timing of executing the periodical refilling of the solvent layer <b>74</b>. Thus, by experiments, there are previously obtained an appropriate timing, a discharge rate of the layer <b>74</b> at that time, a controlled variable of the flow control unit CA at that time, etc., all of which are further stored in the controller <b>100</b> in advance.</p>
+<p id="p-0107" num="0109">Then, the nozzle unit <b>4</b> is moved to a position opposing the standby unit <b>6</b> where the tips of the processing-liquid nozzles <b>4</b>A to <b>4</b>J are dipped into the solvents <b>72</b> in the solvent reservoirs <b>61</b>A to <b>61</b>J, respectively. In succession, all of the valves <b>61</b>A to <b>61</b>J are sucked by the suck-back valves VA to VJ, so that the processing-liquid layers <b>71</b>, the air layers <b>73</b> and the solvent layers <b>74</b> are formed in the tips of all the nozzles <b>4</b>A to <b>4</b>J.</p>
+<p id="p-0108" num="0110">In the above way, this periodical formation of the solvent layers <b>74</b>, is accomplished by discharging the solvent layer <b>74</b> from each of the nozzles <b>4</b>A to <b>4</b>J after a predetermined time has passed since the previous formation of the layers <b>71</b>, <b>73</b> and <b>74</b> in all the nozzles <b>4</b>A to <b>4</b>J. Alternatively, the above periodical formation may be accomplished by directly dipping the tips of the nozzles <b>4</b>A to <b>4</b>J into the solvents <b>72</b> of the solvent reservoirs <b>61</b>A to <b>61</b>J and subsequently sucking all the nozzles <b>4</b>A to <b>4</b>J through the suck-back valves VA to VJ, thereby forming new solvent layers <b>74</b> at the tips of all the nozzles <b>4</b>A to <b>4</b>J.</p>
+<p id="p-0109" num="0111">Because, even if again forming the solvent layers <b>74</b> at a timing of either leaving a predetermined amount of solvent layer <b>74</b> or evaporating it almost on condition that the solvent layers <b>74</b> have been formed in all the nozzles <b>4</b>A to <b>4</b>J in a manner that they would evaporate substantially simultaneously, the adjustment of suction rates by the suck-back valves VA to VJ would allow the layers <b>74</b> to be formed with desired thicknesses. Then, by experiments, there are previously obtained a timing of forming the solvent layers <b>74</b> periodically, suction rates of the layers <b>74</b> at that time, etc., all of which are further stored in the controller <b>100</b> in advance.</p>
+<p id="p-0110" num="0112">Note, a series of operations of: discharging the solvent from the nozzle <b>4</b>A; performing the designated coating process, first sucking the used nozzle <b>4</b>A; dipping its tip into the solvent reservoir; and secondly sucking the nozzle <b>4</b>A by the suck-back valve Va, and another series of operations for the next coating process with the use of the nozzle <b>4</b>B, are carried out on the basis of the process program stored in the controller <b>100</b>.</p>
+<p id="p-0111" num="0113">As for the periodical formation of the solvent layers <b>74</b>, a series of operations of: discharging the solvent from the nozzles <b>4</b>A to <b>4</b>J; dipping their tips into the solvent reservoirs <b>61</b>A to <b>61</b>J; and operating the suck-back valves VA to VJ to suck the nozzles <b>4</b>A to <b>4</b>J are executed on a basis of the processing program stored in the controller <b>100</b>.</p>
+<p id="p-0112" num="0114">Thus, since the periodical formation of the solvent layers <b>74</b> at predetermined timings allows the solvent layers <b>74</b>, whose amounts have been reduced due to evaporation with the passage of time, to be refilled, it is possible to prevent dryness of the processing liquid certainly even when the processing-liquid nozzles <b>4</b>A to <b>4</b>J are not used in readiness for a long time.</p>
+<p id="p-0113" num="0115">The overall constitution of a resist-pattern forming system where an exposure unit (part) is connected with a coating-and-developing apparatus having the above-mentioned coating apparatus incorporated therein will be described in brief with reference to <figref idref="DRAWINGS">FIGS. 11 and 12</figref>. In these figures, alphabetic signage S<b>1</b> denotes a carrier mount for loading and unloading a carrier <b>8</b> accommodating a plurality of substrates (e.g. thirteen wafers W) in a sealed state. The carrier mount S<b>1</b> includes a carrier station <b>80</b> capable of mounting a plurality of carriers <b>8</b> forming a row, drawspans <b>81</b> formed in a front wall of the carrier station <b>80</b> and a transfer unit <b>82</b> for picking up a wafer W from the carrier <b>8</b> through the drawspan <b>81</b>.</p>
+<p id="p-0114" num="0116">Behind the carrier mount S<b>1</b>, a processing section S<b>2</b> surrounded by a casing <b>83</b> is connected to the mount S<b>1</b> and includes, in order from the near side, shelf units U<b>1</b>, U<b>2</b> and U<b>3</b> each having multistage heating/cooling units, liquid-processing units U<b>4</b> and U<b>5</b>, and main transfer units MA<b>1</b> and MA<b>2</b> for transferring a wafer W between the shelf unit U<b>1</b> (U<b>2</b>, U<b>3</b>) and the liquid-processing unit U<b>4</b> (U<b>5</b>). The units U<b>1</b> to U<b>3</b> and the units MA<b>1</b>, MA<b>2</b> are arranged one after another so as to form a line back and forth in a view from the carrier mount S<b>1</b>. At respective connection between the shelf unit U<b>1</b> (U<b>2</b>, U<b>3</b>) and the units MA<b>1</b> (MA<b>2</b>), not-shown openings for allowing passage of a wafer W are formed so as to allow the wafer W to be moved in the processing section S<b>2</b> freely, from the shelf unit U<b>1</b> on one side to the shelf unit U<b>3</b> on the other side.</p>
+<p id="p-0115" num="0117">Each of the shelf units U<b>1</b>, U<b>2</b> and U<b>3</b> is formed by various units for pretreatment/posttreatment of the operations executed at the liquid-processing units U<b>4</b>, U<b>5</b>, laminated in plural stages (e.g. ten stages). In combination, there are contained, in each shelf unit, a delivery unit, a hydrophobic-treatment unit (ADH), a thermo-regulating unit (CPL) for adjusting a wafer W at a predetermined temperature, a baking unit (BAKE) for heating a wafer W before coating resist liquid, a heating unit (PAB) referred to as &#x201c;pre-baking unit&#x201d; for heating a wafer W after coating the resist liquid, a heating unit (POST) referred to as &#x201c;post-baking unit&#x201d; for heating a wafer W after development, etc.</p>
+<p id="p-0116" num="0118">As shown in <figref idref="DRAWINGS">FIG. 12</figref>, each of the liquid-processing units U<b>4</b>, U<b>5</b> is formed by an antireflective coating unit (BARC), the coating apparatus (COT) <b>2</b> of the invention, a developing unit (DEV) for supplying a wafer W with developing liquid for development, etc. laminated in plural stages, for example, five stages.</p>
+<p id="p-0117" num="0119">Behind the shelf unit U<b>3</b>, an exposure section S<b>4</b> is connected to the section S<b>2</b> through an interface section S<b>3</b>. The interface section S<b>3</b> comprises a first transfer chamber <b>84</b> and a second transfer chamber <b>85</b> both arranged between the processing section S<b>2</b> and the exposure section S<b>4</b>. The first transfer chamber <b>84</b> and the second transfer chamber <b>85</b> include a first transfer arm <b>86</b> and a second transfer arm <b>87</b>, respectively. Both of the arms <b>86</b>, <b>87</b> are constructed so as to be movable up and down, rotatable about a vertical axis and also movable back and forth.</p>
+<p id="p-0118" num="0120">Additionally, the first transfer chamber <b>84</b> is provided with a shelf unit U<b>6</b> in which, for example, a delivery unit, a high-accuracy thermo-regulating unit (CPL), heating/cooling units (PEB) for applying a post-exposure baking on a wafer W, etc. are laminated vertically.</p>
+<p id="p-0119" num="0121">Taking only one case, the flowing of a wafer W in the resist-pattern forming system will be described. For instance, a wafer W mounted on the carrier mount S<b>1</b> is transferred in the following route of: the thermo-regulating unit (CPL)&#x2192;the antireflective coating unit (BARC)&#x2192;the baking unit (BAKE)&#x2192;the thermo-regulating unit (CPL)&#x2192;the coating apparatus (COT) <b>2</b>&#x2192;the heating unit (PAB)&#x2192;the exposure section S<b>4</b>. In the exposure section S<b>4</b>, the wafer W is subjected to an exposing process. Then, the wafer W after exposure is transferred in the following route of: the high-accuracy thermo-regulating unit (CPL)&#x2192;the developing unit (DEV)&#x2192;the heating unit (POST)&#x2192;the thermo-regulating unit (CPL)&#x2192;the carrier <b>8</b> of the carrier mount S<b>1</b>.</p>
+<heading id="h-0006" level="1">EXPERIMENTS</heading>
+<p id="p-0120" num="0122">Experiments were performed to confirm the effects of the present invention.</p>
+<heading id="h-0007" level="1">Experiment 1</heading>
+<p id="p-0121" num="0123">Using the above-mentioned coating apparatus, I-Line resist as the processing liquid and OK73 thinner as the solvent, the experiment 1 was performed wherein an air layer <b>73</b> having a thickness of 2 mm and a solvent layer <b>74</b> having a thickness of 1.5 to 2 mm were formed in the tip of a processing-liquid nozzle having a bore of 2 mm. While keeping the nozzle unit <b>4</b> waiting at the standby position above the standby unit <b>6</b>, the variation per hour of the solvent layer <b>74</b> was estimated visually. Note, the nozzle unit <b>4</b> was disposed in an environment of 23&#xb0; C. in temperature and 45% RH in humidity.</p>
+<p id="p-0122" num="0124">As a result, it was confirmed that the solvent layer <b>74</b> began to decrease after one hour has passed since the formation of the layer <b>74</b> and that it came to nothing due to evaporation after two hours have passed. Further, It was found that it was necessary to form (refill) a new solvent layer <b>74</b> within an elapse time from 1.5 to 2 hr. since the first formation of the solvent layer <b>74</b> in order to attain the solvent layer <b>74</b> having the above thickness or so.</p>
+<heading id="h-0008" level="1">Experiment 2</heading>
+<p id="p-0123" num="0125">Using the above-mentioned coating apparatus, I-Line resist as the processing liquid and OK73 thinner as the solvent, the experiment 2 was performed wherein an air layer <b>73</b> having a thickness of 2 mm and a solvent layer <b>74</b> having a thickness of 1.5 to 2 mm were formed in the tip of a processing-liquid nozzle having a bore of 2 mm. In this state, the coating process of the processing liquid was successively applied to four wafers W each having a diameter of 200. Subsequently, the in-plane uniformity about the film thicknesses on each wafer W was estimated by measuring film thicknesses on the wafer W at forty-nine points.</p>
+<p id="p-0124" num="0126">The result is shown in <figref idref="DRAWINGS">FIG. 13A</figref> for the second to fourth wafers W and <figref idref="DRAWINGS">FIG. 13B</figref> for the first wafer W. In common with <figref idref="DRAWINGS">FIGS. 13A and 13B</figref>, a horizontal axis denotes respective positions on a wafer W, which are formed by forty-nine points on a spiral line extending from the wafer's center (pt. 1) toward the periphery. It should be noted that great numbered points designate respective position in the vicinity of the wafer's periphery. In <figref idref="DRAWINGS">FIG. 13A</figref>, mark &#x22c4; (I-Line <b>2</b>) designates the second wafer in the coating process, mark &#x394; (I-Line <b>3</b>) the third wafer, and mark &#x25a1; (I-Line <b>4</b>) designates the fourth wafer in the coating process. In <figref idref="DRAWINGS">FIG. 13B</figref>, mark &#x22c4; (I-Line <b>1</b>) designates the first wafer in the coating process, and mark &#x25a1; (I-Line av.) designates an average value of data about the second to fourth wafers.</p>
+<p id="p-0125" num="0127">Here, the solvent layer <b>74</b> together with the processing liquid were ejected to the first wafer W, while only the processing liquid was ejected to the second to fourth wafers W. As a result, it was confirmed that the second to fourth wafers W were provided with similar profiles and that degeneration in the processing liquid was suppressed due to the absence of coating defectiveness. While, as for the first wafer W, it was confirmed that its profile was different from those of the second to fourth wafers and that coating defectiveness is produced under the influence of a mixing of the solvent layer <b>74</b>. In conclusion, it was recognized that high in-plane uniformity could be accomplished by performing a coating process after discharging the solvent layer <b>74</b>. However, it was also confirmed that the film thicknesses of the first to fourth wafers W were within an allowable range about in-plane uniformity and that the coating defectiveness would be less severe even if the solvent layer <b>74</b> were mixed into the coating.</p>
+<heading id="h-0009" level="1">Experiment 3</heading>
+<p id="p-0126" num="0128">Using KrF resist as the processing liquid and OK73 thinner as the solvent, the experiment 3 was performed as similar to the experiment 2. The result is shown in <figref idref="DRAWINGS">FIG. 14A</figref> for the second to fourth wafers W and <figref idref="DRAWINGS">FIG. 14B</figref> for the first wafer W. In <figref idref="DRAWINGS">FIG. 14A</figref>, mark &#x22c4; (KrF2) designates the second wafer in the coating process, mark &#x25a1; (KrF3) the third wafer, and mark &#x394; (KrF4) designates the fourth wafer in the coating process. In <figref idref="DRAWINGS">FIG. 14B</figref>, mark &#x22c4; (KrF1) designates the first wafer in the coating process, and mark &#x25a1; (KrF-av.) designates an average value of data about the second to fourth wafers.</p>
+<p id="p-0127" num="0129">As a result, it was confirmed that the second to fourth wafers W were provided with similar profiles, while the profile of the first wafer W was different from those of the second to fourth wafers. Nevertheless, it was also confirmed that the film thicknesses of the coating films on the first to fourth wafers W were together within an allowable range about in-plane uniformity, producing no coating defectiveness.</p>
+<heading id="h-0010" level="1">Experiment 4</heading>
+<p id="p-0128" num="0130">Using ArF resist as the processing liquid and OK73 thinner as the solvent, the experiment 4 was performed as similar to the experiment 2. The result is shown in <figref idref="DRAWINGS">FIG. 15A</figref> for the second to fourth wafers W and <figref idref="DRAWINGS">FIG. 15B</figref> for the first wafer W. In <figref idref="DRAWINGS">FIG. 15A</figref>, mark &#x22c4; (ArF2) designates the second wafer in the coating process, mark &#x25a1; (ArF3) the third wafer, and mark &#x394; (ArF4) designates the fourth wafer in the coating process. In <figref idref="DRAWINGS">FIG. 15B</figref>, mark &#x22c4; (ArF1) designates the first wafer in the coating process, and mark &#x25a1; (ArF-av.) designates an average value of data about the second to fourth wafers.</p>
+<p id="p-0129" num="0131">As a result, it was confirmed that the second to fourth wafers W were provided with similar profiles, while the profile of the first wafer W was different from those of the second to fourth wafers, as similar to the Experiment 2. Nevertheless, it was also confirmed that the film thicknesses of the coating films on the first to fourth wafers W were together within an allowable range about in-plane uniformity, producing no coating defectiveness.</p>
+<p id="p-0130" num="0132">According to the present invention, besides the arrangement of the standby unit <b>6</b> on the side face of the cup <b>3</b>, the standby unit <b>6</b> may be arranged in a designated position outside the cup <b>6</b> appropriately. Similarly, the solvent nozzle <b>5</b> may be disposed in any position of the nozzle unit <b>4</b>, besides the center position in the shown embodiment. Alternatively, the drain part <b>62</b> may be arranged in a position so as not to face the solvent nozzle <b>5</b> when making the nozzle unit <b>4</b> oppose the standby unit <b>6</b>.</p>
+<p id="p-0131" num="0133">If only arranging the drain part <b>62</b> on the straight line L passing through the rotational center O of a wafer W, the part <b>62</b> may be provided independently of the solvent reservoirs <b>61</b>A to <b>61</b>J. Alternatively, the standby unit <b>6</b> may be provided with a plurality of drain parts. Moreover, the nozzle unit <b>4</b> may be constructed so as to discharge the solvent layers <b>74</b> through a plurality of processing-liquid nozzles simultaneously.</p>
+<p id="p-0132" num="0134">Further, in view of allowing all or some of the processing-liquid nozzles <b>4</b>A to <b>4</b>J to dip their tips into the solvent at a time, the solvent reservoirs <b>61</b>A to <b>61</b>J may be constructed so as to be usable in common with either all of the nozzles <b>4</b>A to <b>4</b>J or some nozzles.</p>
+<p id="p-0133" num="0135">Additionally, the solvent reservoir(s) may be formed so as to allow a two-step suction of solvent, for example, the first suction where part of the processing-liquid nozzles <b>4</b>A to <b>4</b>J (e.g. nozzles <b>4</b>A to <b>4</b>E) are dipped into the solvent simultaneously and the second suction where the remaining nozzles are dipped into the solvent simultaneously.</p>
+<p id="p-0134" num="0136">In a modification, the means for sucking the processing-liquid nozzles <b>4</b>A to <b>4</b>J may be constructed as shown in <figref idref="DRAWINGS">FIG. 16</figref>. In the shown arrangement, opening and closing valves V<b>1</b> to V<b>10</b> are interposed in the processing-liquid supply passages <b>42</b>A to <b>42</b>J for the nozzles <b>4</b>A to <b>4</b>J, respectively. The processing-liquid supply passages <b>42</b>A to <b>42</b>J are connected to a common suck-back valve V. In operation, the controller <b>100</b> controls a sucking force in sucking all of the nozzles <b>4</b>A to <b>4</b>J and a sucking force in sucking one nozzle <b>4</b>A appropriately. When performing to suck all of the nozzles <b>4</b>A to <b>4</b>J, all of the valves V<b>1</b> to V<b>10</b> are opened by the controller <b>100</b>. While, when performing to suck the single nozzle <b>4</b>A, the relevant valve V<b>1</b> is opened by the controller <b>100</b>. In this way, the suck-back operation may be modified fitly. Note, the processing-liquid sources <b>43</b>A to <b>43</b>J are connected to the downstream side of the valves V<b>1</b> to V<b>10</b> through the flow control units CA to CJ, respectively.</p>
+<p id="p-0135" num="0137">As a further modification of the invention, when coating a wafer W with the use of the processing-liquid nozzles <b>4</b>A to <b>4</b>J, it may be previously carried out to eject a designated amount of processing liquid together with the solvent layer <b>74</b>. Even in this case, the emissions of the processing liquid could be reduced in comparison with that in the conventional case of discharging the dried processing liquid. Further, in this modification, even if the solvent layer <b>74</b> is mixed with the processing-liquid layer <b>71</b>, it is possible to avoid an occurrence of coating defectiveness.</p>
+<p id="p-0136" num="0138">Besides the coating process of the resist liquid, the present invention is also applicable to the coating process of another processing liquid, such as SOG/SOD. Additionally, besides the semiconductor wafers W, the invention is also applicable to a liquid processing for the other substrates, such as LCD substrates and mask substrates.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A liquid processing apparatus comprising;
+<claim-text>a substrate holder for holding a substrate horizontally;</claim-text>
+<claim-text>a nozzle unit in which a plurality of processing-liquid nozzles are provided in a common support integrally, the plurality of processing-liquid nozzles being connected to respective processing-liquid supply passages to each supply the substrate held by the substrate holder with a processing liquid;</claim-text>
+<claim-text>a standby unit having a plurality of solvent reservoirs each storing a solvent for the processing liquid, the plurality of solvent reservoirs being arranged to allow tips of the plurality of processing-liquid nozzles of the nozzle unit to dip into the solvent, and a drain part arranged to receive processing liquid discharged from at least one of the plurality of processing-liquid nozzles;</claim-text>
+<claim-text>suck means for sucking each processing-liquid nozzle of the nozzle unit; and</claim-text>
+<claim-text>transfer means for transferring the nozzle unit between a first position over the plurality of solvent reservoirs, a second position over the drain part, and a third position over the substrate to supply the substrate with the processing liquid,</claim-text>
+<claim-text>wherein the plurality of processing-liquid nozzles of the nozzle unit, and the plurality of solvent reservoirs and the drain part of the standby unit are arranged on a straight center line passing through a rotational center of the substrate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The liquid processing apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the nozzle unit further includes a solvent nozzle connected to a solvent supply passage to supply the substrate held by the substrate holder with the solvent, the solvent nozzle being arranged on the straight center line.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The liquid processing apparatus as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the plurality of solvent reservoirs are arranged to allow the tip of each of the plurality of processing-liquid nozzles to dip into the solvent reserved in corresponding one of the plurality of solvent reservoirs. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

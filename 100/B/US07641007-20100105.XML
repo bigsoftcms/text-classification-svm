@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641007-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641007</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11286726</doc-number>
+<date>20051123</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>482</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>62</class>
+<subclass>D</subclass>
+<main-group>55</main-group>
+<subgroup>116</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>180  952</main-classification>
+<further-classification>305134</further-classification>
+</classification-national>
+<invention-title id="d0e53">Dynamic blade distance ratio system and method</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3182741</doc-number>
+<kind>A</kind>
+<name>Roach</name>
+<date>19650500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180  95</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3677427</doc-number>
+<kind>A</kind>
+<name>Allen</name>
+<date>19720700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>414697</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3763938</doc-number>
+<kind>A</kind>
+<name>Brodersen</name>
+<date>19731000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>172789</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3899028</doc-number>
+<kind>A</kind>
+<name>Morris et al.</name>
+<date>19750800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>172  45</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3907041</doc-number>
+<kind>A</kind>
+<name>Manor</name>
+<date>19750900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>172780</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3974699</doc-number>
+<kind>A</kind>
+<name>Morris et al.</name>
+<date>19760800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 73432</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3986563</doc-number>
+<kind>A</kind>
+<name>Stubben</name>
+<date>19761000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>172793</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4041623</doc-number>
+<kind>A</kind>
+<name>Miller et al.</name>
+<date>19770800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 37382</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4053017</doc-number>
+<kind>A</kind>
+<name>Gill et al.</name>
+<date>19771000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>172  45</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4061194</doc-number>
+<kind>A</kind>
+<name>McCanse</name>
+<date>19771200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>172447</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4088236</doc-number>
+<kind>A</kind>
+<name>Moore</name>
+<date>19780500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>214 90</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4124080</doc-number>
+<kind>A</kind>
+<name>McCanse</name>
+<date>19781100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>172447</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4213507</doc-number>
+<kind>A</kind>
+<name>Horrer et al.</name>
+<date>19800700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>172784</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>4340126</doc-number>
+<kind>A</kind>
+<name>Larson</name>
+<date>19820700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>180305</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>4635730</doc-number>
+<kind>A</kind>
+<name>Larsson</name>
+<date>19870100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>172788</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>4696350</doc-number>
+<kind>A</kind>
+<name>Ruhter et al.</name>
+<date>19870900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>172793</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>4807461</doc-number>
+<kind>A</kind>
+<name>Brimeyer et al.</name>
+<date>19890200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>172793</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5074061</doc-number>
+<kind>A</kind>
+<name>Thompson</name>
+<date>19911200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 37129</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5549412</doc-number>
+<kind>A</kind>
+<name>Malone</name>
+<date>19960800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>404 841</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>5762446</doc-number>
+<kind>A</kind>
+<name>Manatt et al.</name>
+<date>19980600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>404 75</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>5775438</doc-number>
+<kind>A</kind>
+<name>Confoey et al.</name>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>172831</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>5921706</doc-number>
+<kind>A</kind>
+<name>Manatt et al.</name>
+<date>19990700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>404 72</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>6164399</doc-number>
+<kind>A</kind>
+<name>Bays</name>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180  95</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>6322287</doc-number>
+<kind>B1</kind>
+<name>Yelton</name>
+<date>20011100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>404118</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>6382873</doc-number>
+<kind>B1</kind>
+<name>Mulders et al.</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>404128</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>6691795</doc-number>
+<kind>B2</kind>
+<name>L'Abbe</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>172787</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>2002/0162669</doc-number>
+<kind>A1</kind>
+<name>L'abbe</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>172787</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>9</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>180  91</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180  95</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180  952</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>305132</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>305134</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>305141</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60631563</doc-number>
+<kind>00</kind>
+<date>20041129</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060124329</doc-number>
+<kind>A1</kind>
+<date>20060615</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Radke</last-name>
+<first-name>Daniel Dean</first-name>
+<address>
+<city>Dubuque</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nagorcka</last-name>
+<first-name>James Arthur</first-name>
+<address>
+<city>Tarrington Victoria</city>
+<country>AU</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>AU</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Allen</last-name>
+<first-name>Lyal Douglas</first-name>
+<address>
+<city>Hamilton Victoria</city>
+<country>AU</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>AU</country>
+</residence>
+</applicant>
+</applicants>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Deere &#x26; Company</orgname>
+<role>02</role>
+<address>
+<city>Moline</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Boehler</last-name>
+<first-name>Anne Marie M.</first-name>
+<department>3611</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The blade ratio of an articulated work vehicle with multiple tracks is adjusted by shifting a load from the weight of the vehicle toward the front or rear of one or more of the tracks. The load may be shifted through the actuation of a hydraulic cylinder that applies a biasing load between a frame on which a track frame is mounted and a front or rear portion of the track frame.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="166.62mm" wi="257.05mm" file="US07641007-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="248.58mm" wi="153.50mm" orientation="landscape" file="US07641007-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="233.17mm" wi="165.35mm" orientation="landscape" file="US07641007-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="257.30mm" wi="166.88mm" orientation="landscape" file="US07641007-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="240.96mm" wi="146.73mm" orientation="landscape" file="US07641007-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="239.95mm" wi="143.93mm" orientation="landscape" file="US07641007-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<p id="p-0002" num="0001">This document claims priority based on U.S. provisional; application Ser. No. 60/631,563, filed Nov. 29, 2004, and entitled DYNAMIC BLADE DISTANCE RATIO SYSTEM AND METHOD, under 35 U.S.C. 119(e).</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The invention relates to blade distance ratio as a factor in the grading ability of dozers. More specifically, it relates to a system and method for dynamically adjusting the blade distance ratio on a four track articulated dozer.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">Current market trends indicate that crawler operators are using their machines for more finish grading work than has historically been done. Thus the need for dozers that can competently grade is growing. To support this trend, manufacturers continue to improve the machines ability to perform this work to the operators expectations.</p>
+<p id="p-0005" num="0004">Key contributors of the dozers finish grading capability include such factors as machine balance, weight distribution, track length on ground, machine rigidity, and the location of the blade relative to the track. Locating the blade closer to the tracks increases the machine stability, and makes the machine easier to operate. The ability to minimize this distance is limited on dozers that have the ability to angle their blade because the blade must have adequate clearance to the tracks in all positions.</p>
+<p id="p-0006" num="0005">The blade distance ratio is commonly used as an indicator of a dozers grading ability. The blade distance ratio is determined by dividing the distance from the rear track roller to the blade (RTBD) by the effective track length on ground (ETL), i.e. Blade Distance Ratio=RTBD/ETL.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0007" num="0006">The exemplary embodiment of the invention described herein is applied to a crawler dozer with 4 independent tracks. In this configuration, the tracks are mounted such that they can move in a way that they can follow the contour of the ground. Each of the tracks pivots about a drive wheel. The blade distance ratio in this case would be best described as the (distance between the rear track pivot and the blade) divided by the (distance between the front and rear track pivots). In the case of a wheeled dozer, the latter term would be the wheel base.</p>
+<p id="p-0008" num="0007">In order to have a uniform ground pressure for the tracks of the exemplary embodiment, the pivot to the frame is located near the fore-aft center of the track. The negative consequence of this arrangement is that the distance from the blade to the center of the front weight bearing member is greater than would be achieved with a conventional crawler.</p>
+<p id="p-0009" num="0008">The invention improves the machine performance, i.e., the machine's ability to grade, by reducing the distance between the blade and the center of force under the front track system. This is accomplished by adding a hydraulic cylinder between the track frame and the track mounting frame which can increase the down-force on the front of the track frame. The cylinder is hydraulically connected to an accumulator and pressure regulating system so that the track can rotationally move around its mounting pivot and maintain contact with the ground.</p>
+<p id="p-0010" num="0009">This system can be actuated by the operator from the operators station when desired. When this system is activated, the cylinder exerts a torque on the track frame that creates an increased downward force at the front of the track, and a reduced force at the rear of the track. This subsequently causes an increased ground pressure on the front of the track, and a reduced ground pressure at the rear of the track. The amount of force is approximately proportional to the hydraulic cylinder force which can be adjustably controlled by the operator, or preset by the manufacturer.</p>
+<p id="p-0011" num="0010">An additional benefit of this system is that it enables the operator to artificially increase the downforce at the front of the track. In certain soil conditions, this can increase the tractive effort of the machine by forcing the track lug into the ground deeper than would be achieved without this feature enabled. The remainder of the track would then have a packed track to run in. This increased soil density under the track would enable the track to exert higher pull forces than would be otherwise achievable.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 1</figref> is a side view of a work vehicle in which the invention may be used;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 2</figref> is an elevated oblique view of a rear of the vehicle illustrated in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 3</figref> is a schematic of a front track drive illustrated in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 4</figref> illustrates the track length for calculating the blade ratio without the activation of the invention; and</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 5</figref> illustrates the track length for calculating the blade ration when the invention is activated.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIGS. 1 and 2</figref> illustrate a vehicle in which the invention may be used. The particular vehicle illustrated in <figref idref="DRAWINGS">FIGS. 1 and 2</figref> is a four track articulated dozer <b>10</b> having a front portion <b>20</b> a rear portion <b>30</b>; an articulation mechanism <b>40</b> between the front portion <b>20</b> and the rear portion <b>30</b>; first track systems <b>50</b>, <b>60</b>; and second track systems <b>70</b>, <b>80</b>. The front portion <b>20</b> includes a blade <b>22</b> and a blade mounting frame <b>23</b> as well as an operator cab <b>21</b>.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 3</figref> is a schematic of an exemplary embodiment of the invention. Included is an exemplary embodiment of the track system <b>50</b> which includes a track assembly <b>50</b>&#x2032; and a hydraulic circuit <b>50</b>&#x2033;. The track assembly <b>50</b> is as illustrated in <figref idref="DRAWINGS">FIG. 3</figref>. A track frame <b>50</b><i>d </i>is pivotally mounted at track frame mounting pivot <b>50</b><i>d</i>&#x2032; to a mounting frame <b>200</b>. A drive wheel <b>50</b><i>a </i>is also pivotally mounted to the mounting frame <b>200</b> at drive wheel pivot <b>50</b><i>a</i>&#x2032;. A first main idler <b>50</b><i>b </i>is pivotally attached to tension link <b>50</b><i>e </i>at first main idler pivot <b>50</b><i>b</i>&#x2032; and the tension link <b>50</b><i>e </i>is pivotally attached to the track frame <b>50</b><i>d </i>on a first side of the track frame mounting pivot <b>50</b><i>d</i>&#x2032; at tension link pivot <b>50</b><i>b</i>&#x2033;. A second main idler <b>50</b><i>c </i>is pivotally attached to the track frame <b>50</b><i>d </i>on a second side of the track frame mounting pivot <b>50</b><i>d</i>&#x2032; at second main idler pivot <b>50</b><i>c</i>&#x2032;. A tensioning cylinder <b>57</b> is pivotally connected to the track frame <b>50</b><i>d </i>at tensioning cylinder pivot <b>57</b>&#x2032; and pivotally connected to the tensioning link at cylinder link pivot <b>57</b>&#x2033;. A biasing cylinder <b>56</b> is pivotally mounted to the mounting frame <b>200</b> at biasing cylinder mounting pivot <b>56</b>&#x2032; and pivotally mounted to the track frame <b>50</b><i>d </i>at track frame biasing pivot <b>56</b>&#x2033;.</p>
+<p id="p-0019" num="0018">Minor idler rollers <b>50</b><i>g </i>and <b>50</b><i>h </i>are pivotally connected to minor rocker beam <b>50</b><i>k </i>at minor roller pivots <b>50</b><i>g</i>&#x2032; and <b>50</b><i>h</i>&#x2032; respectively. The minor rocker beam <b>50</b><i>k </i>is pivotally mounted to the track frame <b>50</b><i>d </i>at rocker beam mounting pivot <b>50</b><i>f</i>. As illustrated in <figref idref="DRAWINGS">FIG. 3</figref>, the minor roller pivots <b>50</b><i>g</i>&#x2032; and <b>50</b><i>h</i>&#x2032; are mounted on first and second sides of rocker beam mounting pivot <b>50</b><i>f</i>, respectively.</p>
+<p id="p-0020" num="0019">A first side of a track <b>50</b><i>m </i>contacts the drive wheel <b>50</b><i>a</i>, the first main idler <b>50</b><i>b</i>, the second main idler <b>50</b><i>c</i>, the first minor idler <b>50</b><i>g </i>and the second minor idler <b>50</b><i>h</i>. A second side of the track contacts the ground for purposes of vehicle propulsion. As illustrated in <figref idref="DRAWINGS">FIG. 3</figref>, the track <b>50</b><i>m </i>assumes a triangular appearance as the first side contacts and conforms to the drive wheel <b>50</b><i>a </i>and the first and second main idlers <b>50</b><i>b </i>and <b>50</b><i>c </i>on front and rear portions of the track assembly, respectively.</p>
+<p id="p-0021" num="0020">Controlling the biasing cylinder <b>56</b> is exemplary hydraulic circuit <b>50</b>&#x2033; which includes: a hydraulic pump <b>51</b>; a load sense actuating valve <b>52</b>; a pressure reducing valve <b>53</b> in communication with the hydraulic pump <b>51</b> and fluid reservoir <b>59</b>; a check valve <b>52</b>&#x2032; in communication with the pressure reducing valve <b>53</b>; an electrically adjustable pressure relief valve <b>54</b> in communication with the pressure reducing valve <b>53</b>; a first gas charge accumulator <b>55</b> in communication with the biasing cylinder <b>56</b> as well as in communication with the adjustable pressure relief valve <b>54</b> and the pressure reducing valve <b>53</b>.</p>
+<p id="p-0022" num="0021">The pressure relief valve <b>54</b> is adjustable. In this particular embodiment, it is adjustable from 70 bar to 140 bar. The pressure relief valve <b>54</b>, in practice, is set 10 bar above the setting of the pressure reducing valve <b>53</b>. The pressure reducing valve <b>53</b> and the pressure relief valve <b>54</b> may be adjusted from the operator's cab <b>21</b> via a switch control <b>53</b>&#x2033; and a controller <b>53</b>&#x2032;.</p>
+<p id="p-0023" num="0022">The biasing cylinder <b>56</b> is actuated when a signal from the controller <b>53</b>&#x2032;, prompted by a manipulation from the switch control <b>53</b>&#x2033; activates the pump load sense valve <b>52</b> and shifts the pressure reducing valve <b>53</b> from position (1) to position (2), thus exposing the pressure relief valve <b>54</b>, the accumulator <b>55</b> and the biasing cylinder <b>56</b> to pressurized fluid from the pump <b>51</b>. The pump <b>51</b> is driven by conventional means well known in the art.</p>
+<p id="p-0024" num="0023">The blade ratio is improved as it decreases and moves toward a value of 1. <figref idref="DRAWINGS">FIG. 4</figref> illustrates distances for blade distance ratio calculations for the vehicle of <figref idref="DRAWINGS">FIG. 1</figref> without the invention activated and <figref idref="DRAWINGS">FIG. 5</figref> illustrates distances for blade distance ratio calculations for the vehicle of <figref idref="DRAWINGS">FIG. 1</figref> after the invention is activated. As is clearly illustrated the effective track length (ETL) increases by at least a distance between the track frame pivot <b>50</b><i>d</i>&#x2033; and pivot <b>50</b><i>b</i>&#x2032; for the first main idler <b>50</b><i>b </i>when the biasing cylinder <b>56</b> is actuated. The maximum increase in distance (&#x394;Dmax) is illustrated in <figref idref="DRAWINGS">FIG. 5</figref>. The increase in distance (&#x394;D) depends upon the fluid pressure applied to the biasing cylinder <b>56</b>. Such changes increase the grading ability of the dozer <b>10</b>. Activation of the invention tends to shift the weight seen by the track assembly <b>50</b>&#x2032; toward the first main idler <b>50</b><i>b </i>the load seen by the ground is more concentrated which results in a greater amount of packing of the dirt under the track <b>50</b><i>m </i>and, consequently, greater traction.</p>
+<p id="p-0025" num="0024">Having described the illustrated embodiment, it will become apparent that various modifications can be made without departing from the scope of the invention as defined in the accompanying claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A track system for a multi-track work vehicle, comprising:
+<claim-text>a track having a first side and a second side;</claim-text>
+<claim-text>a first idle roller engaging the first side of the track;</claim-text>
+<claim-text>a second idle roller engaging the first side of the track;</claim-text>
+<claim-text>a drive wheel engaging the first side of the track, the second side of the track engaging the ground between at least two of the first idle roller, the second idle roller and the drive wheel;</claim-text>
+<claim-text>a biasing hydraulic cylinder, the biasing hydraulic shifting a load from a weight of the vehicle toward at least one of the first and second idle rollers when the actuator is activated; and</claim-text>
+<claim-text>a hydraulic circuit, the hydraulic circuit including a hydraulic pump, a pressure reducing valve having a first valve position and a second valve position, a pressure relief valve, an accumulator, a controller and a switch control, the switch control having a first switch position and a second switch position, the hydraulic circuit controlling the hydraulic cylinder by controlling a flow of pressurized hydraulic fluid to the biasing hydraulic cylinder.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The track system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the actuator is activated when the hydraulic circuit allows the pressurized hydraulic fluid to flow to the biasing hydraulic cylinder.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The track system of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the second switch position causes the pressure reducing valve to move to the second valve position and allow the pressurized hydraulic fluid to flow to the hydraulic cylinder.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The track system of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the controller causes the pressure reducing valve to move to the second valve position.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The track system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first switch position allows the displacement valve to move to the first valve position and prevent the flow of pressurized hydraulic fluid to the hydraulic cylinder.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The track system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a pressure across the pressure relief valve is adjusted by the controller.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The track system of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein a pressure delivered to the hydraulic cylinder is controlled by the pressure relief valve and a preload on the accumulator.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The track system of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein a preload comprises a pre-charge.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A pivotable track system for a multi-track work vehicle, comprising:
+<claim-text>a track assembly, including:
+<claim-text>a track,</claim-text>
+<claim-text>a track frame,</claim-text>
+<claim-text>a first main idle roller engaging a first side of the track and pivotally attached to the tension link,</claim-text>
+<claim-text>a second main idle roller engaging the first side of the track and pivotally attached to the track frame,</claim-text>
+<claim-text>at least one minor idle roller engaging the first side of the track and pivotally attached to the track frame,</claim-text>
+<claim-text>a drive wheel engaging the first side of the track,</claim-text>
+<claim-text>a mounting frame, the track frame pivotally mounted to the mounting frame, the drive wheel pivotally mounted to the mounting frame, and</claim-text>
+<claim-text>a biasing cylinder, the biasing cylinder pivotally mounted to the mounting frame, the biasing cylinder pivotally mounted to the track frame, the biasing cylinder arranged to cause a load from a weight of the vehicle to shift toward the first main idle roller when the biasing cylinder is actuated; and</claim-text>
+</claim-text>
+<claim-text>a hydraulic circuit, including:
+<claim-text>a hydraulic pump;</claim-text>
+<claim-text>a load sense actuating valve;</claim-text>
+<claim-text>a check valve;</claim-text>
+<claim-text>a pressure reducing valve having at least two positions;</claim-text>
+<claim-text>a pressure relief valve;</claim-text>
+<claim-text>a first accumulator;</claim-text>
+<claim-text>a second accumulator;</claim-text>
+<claim-text>a controller;</claim-text>
+<claim-text>a control switch having a first switch position and a second switch position; and</claim-text>
+<claim-text>a fluid reservoir, the load sense actuating valve in communication with the hydraulic pump, the first accumulator and the pressure reducing valve, the check valve in communication with the hydraulic pump and the pressure reducing valve, the pressure reducing valve in communication with the second accumulator, the pressure relief valve and the biasing cylinder, the controller adjusting a position of the pressure reducing valve, the controller adjusting a pressure reducing setting of the pressure reducing valve and the pressure relief setting of the pressure relief valve.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

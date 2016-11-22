@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640755-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640755</doc-number>
+<kind>B1</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11157463</doc-number>
+<date>20050620</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>559</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>B</subclass>
+<main-group>63</main-group>
+<subgroup>08</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 62 60</main-classification>
+<further-classification> 62132</further-classification>
+<further-classification>426383</further-classification>
+<further-classification>426393</further-classification>
+<further-classification> 53127</further-classification>
+<further-classification>222 52</further-classification>
+<further-classification> 99334</further-classification>
+</classification-national>
+<invention-title id="d0e53">Dynamic process control</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3590727</doc-number>
+<kind>A</kind>
+<name>Shevlin</name>
+<date>19710700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 99359</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3632245</doc-number>
+<kind>A</kind>
+<name>Getman</name>
+<date>19720100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>425130</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3660988</doc-number>
+<kind>A</kind>
+<name>Garavelli</name>
+<date>19720500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62306</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3695314</doc-number>
+<kind>A</kind>
+<name>Watts et al.</name>
+<date>19721000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>141 59</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3803870</doc-number>
+<kind>A</kind>
+<name>Conz</name>
+<date>19740400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62342</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3874189</doc-number>
+<kind>A</kind>
+<name>Calim</name>
+<date>19750400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62306</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3876110</doc-number>
+<kind>A</kind>
+<name>Logie</name>
+<date>19750400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>222 80</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>3954126</doc-number>
+<kind>A</kind>
+<name>Piana</name>
+<date>19760500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>141 48</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4052180</doc-number>
+<kind>A</kind>
+<name>Erickson</name>
+<date>19771000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62188</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4119252</doc-number>
+<kind>A</kind>
+<name>Bernard</name>
+<date>19781000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>225 96</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4124339</doc-number>
+<kind>A</kind>
+<name>Bernard</name>
+<date>19781100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>4251331</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4165818</doc-number>
+<kind>A</kind>
+<name>Bernard</name>
+<date>19790800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>222 53</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4193272</doc-number>
+<kind>A</kind>
+<name>Bernard</name>
+<date>19800300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62320</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>4209534</doc-number>
+<kind>A</kind>
+<name>Poznanski et al.</name>
+<date>19800600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>426 42</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>4241847</doc-number>
+<kind>A</kind>
+<name>Lancia et al.</name>
+<date>19801200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>221 12</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>4244470</doc-number>
+<kind>A</kind>
+<name>Burnham</name>
+<date>19810100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>206525</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>4301659</doc-number>
+<kind>A</kind>
+<name>Martin et al.</name>
+<date>19811100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62 57</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>4316490</doc-number>
+<kind>A</kind>
+<name>Meyer</name>
+<date>19820200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>141  9</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>4473098</doc-number>
+<kind>A</kind>
+<name>Sawvel</name>
+<date>19840900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>141172</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>4645093</doc-number>
+<kind>A</kind>
+<name>Jones</name>
+<date>19870200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>221 93</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>4752197</doc-number>
+<kind>A</kind>
+<name>Getman</name>
+<date>19880600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>425104</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>4803086</doc-number>
+<kind>A</kind>
+<name>Hedenberg</name>
+<date>19890200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>426 87</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>5018363</doc-number>
+<kind>A</kind>
+<name>Aoki et al.</name>
+<date>19910500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62135</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>5027698</doc-number>
+<kind>A</kind>
+<name>Chirnomas</name>
+<date>19910700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 994501</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>5083591</doc-number>
+<kind>A</kind>
+<name>Edwards et al.</name>
+<date>19920100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>141  9</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>5105978</doc-number>
+<kind>A</kind>
+<name>Trouteaud et al.</name>
+<date>19920400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>221150</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>5121854</doc-number>
+<kind>A</kind>
+<name>Trouteaud et al.</name>
+<date>19920600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>221 15</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>5281429</doc-number>
+<kind>A</kind>
+<name>Zevlakis</name>
+<date>19940100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>426389</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>5285041</doc-number>
+<kind>A</kind>
+<name>Wright</name>
+<date>19940200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>219717</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>5292030</doc-number>
+<kind>A</kind>
+<name>Kateman et al.</name>
+<date>19940300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>222  1</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>5382090</doc-number>
+<kind>A</kind>
+<name>Cocchi</name>
+<date>19950100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>366177</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>5403611</doc-number>
+<kind>A</kind>
+<name>Tomita et al.</name>
+<date>19950400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>426565</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>5433967</doc-number>
+<kind>A</kind>
+<name>Kateman et al.</name>
+<date>19950700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>426565</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>5464119</doc-number>
+<kind>A</kind>
+<name>Giuseppe et al.</name>
+<date>19951100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>221156</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>5473909</doc-number>
+<kind>A</kind>
+<name>Kateman et al.</name>
+<date>19951200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62306</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>5603257</doc-number>
+<kind>A</kind>
+<name>Kateman et al.</name>
+<date>19970200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 99455</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>5727713</doc-number>
+<kind>A</kind>
+<name>Kateman et al.</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>2221456</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>5758571</doc-number>
+<kind>A</kind>
+<name>Kateman et al.</name>
+<date>19980600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 99455</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>5794820</doc-number>
+<kind>A</kind>
+<name>Shabbits et al.</name>
+<date>19980800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>222307</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>5868065</doc-number>
+<kind>A</kind>
+<name>Haggerty et al.</name>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 99455</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>5997924</doc-number>
+<kind>A</kind>
+<name>Olander, Jr. et al.</name>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>426296</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>6060099</doc-number>
+<kind>A</kind>
+<name>Ito</name>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>426243</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>6085645</doc-number>
+<kind>A</kind>
+<name>Huang</name>
+<date>20000700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 99455</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>6099874</doc-number>
+<kind>A</kind>
+<name>Tucker et al.</name>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>426 91</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>6186358</doc-number>
+<kind>B1</kind>
+<name>Peteraf</name>
+<date>20010200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>221 85</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>6196113</doc-number>
+<kind>B1</kind>
+<name>Yung</name>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 99327</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>6209590</doc-number>
+<kind>B1</kind>
+<name>Mandsberg</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>141  1</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00048">
+<document-id>
+<country>US</country>
+<doc-number>6277434</doc-number>
+<kind>B1</kind>
+<name>Matluk-Boisseau</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>426635</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00049">
+<document-id>
+<country>US</country>
+<doc-number>6292784</doc-number>
+<kind>B1</kind>
+<name>Martin et al.</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>705 11</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00050">
+<document-id>
+<country>US</country>
+<doc-number>6308522</doc-number>
+<kind>B1</kind>
+<name>Jones et al.</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62114</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00051">
+<document-id>
+<country>US</country>
+<doc-number>6325244</doc-number>
+<kind>B2</kind>
+<name>Vincent et al.</name>
+<date>20011200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>222  1</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00052">
+<document-id>
+<country>US</country>
+<doc-number>6698228</doc-number>
+<kind>B2</kind>
+<name>Kateman et al.</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62346</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00053">
+<document-id>
+<country>US</country>
+<doc-number>6745595</doc-number>
+<kind>B1</kind>
+<name>Kateman et al.</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62458</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00054">
+<document-id>
+<country>US</country>
+<doc-number>6889603</doc-number>
+<kind>B2</kind>
+<name>Carhuff et al.</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 99452</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00055">
+<document-id>
+<country>US</country>
+<doc-number>6907741</doc-number>
+<kind>B2</kind>
+<name>Kateman</name>
+<date>20050600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62 60</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00056">
+<document-id>
+<country>US</country>
+<doc-number>6931984</doc-number>
+<kind>B2</kind>
+<name>Lassota</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 99280</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00057">
+<document-id>
+<country>US</country>
+<doc-number>6941858</doc-number>
+<kind>B2</kind>
+<name>Kateman</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 99455</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00058">
+<document-id>
+<country>US</country>
+<doc-number>6952928</doc-number>
+<kind>B2</kind>
+<name>Kateman et al.</name>
+<date>20051000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62 71</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00059">
+<document-id>
+<country>US</country>
+<doc-number>7052728</doc-number>
+<kind>B2</kind>
+<name>Kateman et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>426515</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00060">
+<document-id>
+<country>US</country>
+<doc-number>7131279</doc-number>
+<kind>B2</kind>
+<name>Kateman et al.</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62 71</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00061">
+<document-id>
+<country>US</country>
+<doc-number>2001/0038019</doc-number>
+<kind>A1</kind>
+<name>Vincent et al.</name>
+<date>20011100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>222 95</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00062">
+<document-id>
+<country>US</country>
+<doc-number>2002/0022073</doc-number>
+<kind>A1</kind>
+<name>Soehnlen et al.</name>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>426393</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00063">
+<document-id>
+<country>US</country>
+<doc-number>2002/0027164</doc-number>
+<kind>A1</kind>
+<name>Mault et al.</name>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>23546246</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00064">
+<document-id>
+<country>US</country>
+<doc-number>2003/0006281</doc-number>
+<kind>A1</kind>
+<name>Thomas et al.</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>235385</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00065">
+<document-id>
+<country>US</country>
+<doc-number>2003/0010791</doc-number>
+<kind>A1</kind>
+<name>Gentiluomo et al.</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>221 92</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00066">
+<document-id>
+<country>US</country>
+<doc-number>2003/0028285</doc-number>
+<kind>A1</kind>
+<name>Zura et al.</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>700241</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00067">
+<document-id>
+<country>US</country>
+<doc-number>2004/0238555</doc-number>
+<kind>A1</kind>
+<name>Parks</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>221 80</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00068">
+<document-id>
+<country>US</country>
+<doc-number>2005/0043011</doc-number>
+<kind>A1</kind>
+<name>Murray et al.</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>455405</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00069">
+<document-id>
+<country>US</country>
+<doc-number>2005/0115597</doc-number>
+<kind>A1</kind>
+<name>Carhuff et al.</name>
+<date>20050600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>134134</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00070">
+<document-id>
+<country>US</country>
+<doc-number>2006/0003065</doc-number>
+<kind>A1</kind>
+<name>Kateman</name>
+<date>20060100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>426506</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00071">
+<document-id>
+<country>US</country>
+<doc-number>2006/0054614</doc-number>
+<kind>A1</kind>
+<name>Baxter et al.</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>219400</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00072">
+<document-id>
+<country>US</country>
+<doc-number>2006/0108415</doc-number>
+<kind>A1</kind>
+<name>Thomas et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>235381</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00073">
+<document-id>
+<country>US</country>
+<doc-number>2006/0162347</doc-number>
+<kind>A1</kind>
+<name>Kateman et al.</name>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62 71</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00074">
+<document-id>
+<country>US</country>
+<doc-number>2006/0162348</doc-number>
+<kind>A1</kind>
+<name>Kateman et al.</name>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62 71</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00075">
+<document-id>
+<country>US</country>
+<doc-number>2007/0251260</doc-number>
+<kind>A1</kind>
+<name>Baxter et al.</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 62342</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00076">
+<document-id>
+<country>WO</country>
+<doc-number>WO 88/00741</doc-number>
+<date>19880100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00077">
+<document-id>
+<country>WO</country>
+<doc-number>WO 00/54172</doc-number>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00078">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2004-072913</doc-number>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00079">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2006/016241</doc-number>
+<kind>A1</kind>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>9</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 62 60</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62132</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426383</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426393</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53127</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>141 82</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>235385</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>705 22</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>705 28</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>222  1</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>222 52</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 99334</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>9</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>10359834</doc-number>
+<kind>00</kind>
+<date>20030207</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>6907741</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11157463</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kateman</last-name>
+<first-name>Paul R.</first-name>
+<address>
+<city>Wellesley</city>
+<state>MA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Mintz, Levin, Cohn, Ferris, Glovsky and Popeo PC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>MooBella, LLC</orgname>
+<role>02</role>
+<address>
+<city>Taunton</city>
+<state>MA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Norman</last-name>
+<first-name>Marc E</first-name>
+<department>3744</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method and apparatus for defining the processing of an ingredient of a manufactured product, particularly one that is manufactured &#x201c;one-the-spot&#x201d; to a consumer's specification, such as ice cream, among other products. A tag encoded on a container for the product carries indicia that, directly or indirectly, define one or more formulations for the product. Apparatus into which the ingredient is loaded sets the processing of ingredients in accordance with the formulations so specified. By connecting the apparatus which is to process the ingredients to a control station, the formulations may be changed at will.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="111.08mm" wi="131.91mm" file="US07640755-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="213.02mm" wi="134.11mm" file="US07640755-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="118.87mm" wi="103.97mm" file="US07640755-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="75.18mm" wi="173.74mm" file="US07640755-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="211.16mm" wi="149.27mm" file="US07640755-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="159.43mm" wi="163.24mm" file="US07640755-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="124.29mm" wi="156.63mm" file="US07640755-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="162.14mm" wi="144.78mm" file="US07640755-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<p id="p-0002" num="0001">This application is a Continuation of U.S. patent application Ser. No. 10/359,834 filed Feb. 7, 2003 (now U.S. Pat. No. 6,907,741 B2).</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The invention relates to dynamic process control, especially as applied to on-the-spot manufacture of food products, particularly frozen food products.</p>
+<p id="p-0005" num="0004">2. Background Information</p>
+<p id="p-0006" num="0005">The history of manufacture has been that of a progression from individual, local, hand-crafted preparation and construction to mass manufacture and distribution. For most manufactures, the latter mode is generally characterized by substantial economic efficiency and thus has largely replaced the former. In some areas, such as food preparation, individual preparation of an item to be served is still common although, even here, mass manufacture has made headway, and prepackaged foods such as frozen dinners have eliminated much or most of the individual preparation. While some food products such as meats, pastas, etc. still accommodate individual preparation and flavoring such as by the addition of spices, sauces, and the like, others such as ice cream, yogurt, etc. are supplied in essentially the final flavored form, with little opportunity to adjust the underlying product itself to a particular taste.</p>
+<p id="p-0007" num="0006">Many branded food products are distributed to the end user through chains of restaurants, as well as through individual stands or kiosks, with final preparation done on site. Control of the uniformity of the end products is important, as is the ability to quickly introduce and control changes in the formulation of the product from time to time and even from place to place. This has been difficult to do on a broad basis.</p>
+<p id="p-0008" num="0007">In the field of frozen food products such as ice cream, yogurt, and the like, a significant change in the manufacture and distribution of such products is described in a series of patents issued to the present applicant: see, e.g., U.S. Pat. No. 5,292,030 issued Mar. 8, 1994 to Paul Kateman et al. for &#x201c;Method and Apparatus For Producing and Dispensing Aerated Products&#x201d;. This series of patents describes the on-the-spot production of frozen food products such as ice cream, yogurt, and the like in individual-sized servings of various flavors and with the option of additional mix-ins such as nuts, candies, etc. The present invention extends the capabilities of such methods and apparatus by enabling the controlled variation of the production process.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0009" num="0008">Accordingly, it is an object of the present invention to enhance the control of on-the-spot product manufacture of various products.</p>
+<p id="p-0010" num="0009">Further, it is an object of the invention to enhance the control of on-the-spot manufacture of food products.</p>
+<p id="p-0011" num="0010">Still a further object of the invention to enhance the control of on-the-spot manufacture of frozen food products such as ice cream and the like.</p>
+<p id="p-0012" num="0011">Yet a further object of the invention is to enable the individual particularization of the processes of on-the-spot manufacture of various products to one or more of the specific product inputs.</p>
+<p id="p-0013" num="0012">Yet another object of the invention is to facilitate localized and isolated changes in the formulation of products manufactured on-the-spot.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0014" num="0013">The invention description below refers to the accompanying drawings, of which:</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 1</figref> is a view in perspective of one embodiment of apparatus for on-the-spot manufacture of frozen food products such as ice cream, yogurt and the like;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 2</figref> is a view in perspective of the interior of the apparatus of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 3</figref> illustrates an example ingredient container encoded for particularized on-the-spot manufacturing;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIGS. 4A and 4B</figref> show illustrative dynamically adjustable parameters encoded in connection with ingredient containers in accordance with the present invention;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 5</figref> is a flow diagram illustrating the manner in which the apparatus of <figref idref="DRAWINGS">FIGS. 1 and 2</figref> is particularized to the specific product inputs;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 6</figref> shows an illustrative user control panel by which a user may select an item to be produced;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 7</figref> is a block and line diagram illustrating operation of the apparatus of <figref idref="DRAWINGS">FIGS. 1 and 2</figref> to produce an individual serving of a product on the spot; and</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 8</figref> is a block and line diagram of a central control system for controlling and dynamically changing the processing of one or more ingredients of a product to be manufactured.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF AN ILLUSTRATIVE EMBODIMENT</heading>
+<p id="p-0023" num="0022">In <figref idref="DRAWINGS">FIG. 1</figref>, apparatus <b>10</b> for manufacturing on-the-spot an individual serving of a frozen food product such as ice cream, yogurt or the like comprises a hinged cabinet <b>12</b> having a dispensing station <b>14</b> including a stand <b>16</b> for receiving a cup or other container for a product to be dispensed and a dispenser <b>18</b> located above the stand. A dispensing control panel <b>20</b> includes a keypad <b>22</b> for selecting a product to be manufactured on-the-spot and dispensed to the consumer, and a display <b>24</b> for indicating the selections made. For purposes of description, the product will be described as ice cream of various flavors and with or without mix-ins such as nuts, candies, and the like, although it will be understood that a variety of other products are amendable to similar manufacturing control. The keypad <b>24</b> enables the operator to select, for example, the particular flavor, the amount to be dispensed, and one or more mix-ins, as specified by a customer for whom an individual-sized serving is to be prepared.</p>
+<p id="p-0024" num="0023">Turning now to <figref idref="DRAWINGS">FIG. 2</figref>, the apparatus of <figref idref="DRAWINGS">FIG. 1</figref> is shown with the front panel opened to expose the interior thereof. Receptacles <b>30</b>, <b>32</b>, <b>34</b> are provided in the apparatus <b>10</b> to receive containers of various ingredients from which the final product is to be produced. For example, receptacle <b>30</b><i>a </i>may hold a container of a low-fat neutral base dairy mix from which end product ice cream or yogurt is to be produced, while receptacle <b>30</b><i>b </i>may hold a container of a higher-fat form of the base mix. Receptacles <b>32</b><i>a</i>, <b>32</b><i>b</i>, <b>32</b><i>c</i>, etc. may hold containers of various flavorings, such as vanilla, chocolate, strawberry, etc. Receptacles <b>34</b><i>a</i>, <b>34</b><i>b</i>, <b>34</b><i>c</i>, etc. may hold containers of mix-ins, such as nuts, candies, etc. Preferably, each receptacle carries an indicator tag, such as tag <b>36</b> on receptacle <b>30</b><i>a</i>, that identifies it to the production process, as explained in more detail below.</p>
+<p id="p-0025" num="0024">The receptacles are connected to provide their contents to a formulator <b>40</b> which mixes the ingredients and otherwise processes them to form the end product in the desired amount, and then dispenses them through dispensing head <b>14</b>. An example of an appropriate formulator by means of which the end product may be manufactured and dispensed is described in the copending patent application of Paul Kateman et al., Ser. No. 10/160,674, filed Jul. 31, 2002 entitled &#x201c;Method and Apparatus For Producing and Dispensing An Aerated And/Or Blended Food Product&#x201d; and assigned to the assignee of the present invention; the contents of that application are expressly incorporated herein by reference.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 3</figref> illustrates an example ingredient container for loading into one of the receptacles of <figref idref="DRAWINGS">FIG. 2</figref> and encoded for particularized on-the-spot manufacturing. Container <b>50</b> may, for example, be structured to hold a neutral base mix for producing individual servings of ice cream and, for this purpose, may enclose an inner flexible pouch <b>52</b> having a connector <b>54</b> for feeding its contents to the formulator <b>40</b>. The latter processes the various ingredients to produce the finished product which is dispensed to the user. The construction of one such formulator is set forth in U.S. patent application Ser. No. 10/160,674 referred to above.</p>
+<p id="p-0027" num="0026">In accordance with one part of the present invention, the container carries a tag <b>56</b> in a suitable location, preferably the exterior thereof, which bears, inter alia, information (&#x201c;process information&#x201d;) defining the manner in which the contents may be processed. As illustrated in <figref idref="DRAWINGS">FIG. 4A</figref>, the tag may be encoded with a serial number identifying the specific container or a group of particular containers; an ingredient type designator, indicating, for example, that the container contains &#x201c;base mix, low fat content&#x201d; or &#x201c;flavoring, vanilla&#x201d;; an expiration date, after which the ingredient should not be used; the amount of ingredient (e.g., volume, weight, etc.); a display name for viewing by the operator; and, most importantly, one or more &#x201c;formulations&#x201d;, as exemplified in <figref idref="DRAWINGS">FIG. 4B</figref>, defining appropriate processing for the ingredient.</p>
+<p id="p-0028" num="0027">The formulations are, of course, specific to the product being manufactured and the process by which they are being manufactured. Further, the formulations may specify the physical process conditions (e.g., time, temperature, pressure, etc.) under which the ingredient, or product formulated using that ingredient, is to be used, and may also specify the proportions of the ingredient to be used with other ingredients. Thus, in the case of ice cream that is manufactured in accordance with patent application Ser. No. 10/160,674 noted above, as shown in <figref idref="DRAWINGS">FIG. 4B</figref> the formulation associated with a particular ingredient may define the type and amount of other ingredients that are desirable or permissible for use with the ingredient in question, as well as some or all of the physical processing conditions and the processing steps to be followed.</p>
+<p id="p-0029" num="0028">For example, a container of a low-fat neutral base mix for ice cream may specify the identity and concentration of flavorings that are appropriate or permitted for use with that particular base (e.g., &#x201c;Flavoring #1: 0.03 oz/oz&#x201d;; &#x201c;Flavoring #2: 0.025 oz/oz&#x201d;; etc.); the type and amount of mix-ins (e.g., &#x201c;Mix-In #1: 0.3 oz/oz&#x201d;; &#x201c;Mix-In #2: 0.27 oz/oz&#x201d;, etc.); the length of time during which the ingredients are to be subjected to one or more of the process steps (e.g., &#x201c;Freezing Duration: 90 seconds&#x201d;; &#x201c;Aeration Duration: 60 seconds&#x201d;); and the aeration pressure (e.g., &#x201c;Aeration Pressure: 20 psi&#x201d;). Other types of ingredients may specify different formulations appropriate to that ingredient. It will be understood that other parameters may be included in the formulation and that, conversely, one or more of the above parameters may be omitted.</p>
+<p id="p-0030" num="0029">The process information may be encoded on the container tags in a variety of manners, including optically readable strips; magnetically readable strips; and electronically readable constructs such as memory sticks and chips containing other active or passive electric or electronic circuits, to mention just a few. In the embodiment of the invention described specifically herein, it is encoded in optically scannable bar code. The tags may thus simply comprise printed areas on the container or may comprise labels or even electric circuits affixed to, or otherwise associated with, the container and encoding the desired information therein.</p>
+<p id="p-0031" num="0030">Referring again to <figref idref="DRAWINGS">FIG. 2</figref>, a control panel <b>60</b> is mounted on the inside of front panel <b>12</b>. The control panel <b>60</b> includes a keypad <b>60</b><i>a </i>and a display panel <b>60</b><i>b</i>. A hand-held scanner <b>62</b> is removably mounted on the inside of front panel <b>12</b>, and is connected to control panel <b>60</b> to provide data input thereto. With the apparatus <b>10</b> open as indicated, an operator charges the apparatus with ingredients by loading containers such as container <b>50</b> into receptacles such as receptacles <b>30</b>, <b>32</b>, <b>34</b>. As noted above, the receptacles are preferably particularized to the type of ingredient to be loaded, i.e., base mix, flavoring, mix-in, etc. In the process of loading an ingredient, the operator scans both the tag <b>36</b> of the receptacle and the tag <b>56</b> of the ingredient container. Scanning the former identifies to the system controller the specific receptacle into which the ingredient is being loaded, and thus enables the system to extract a desired ingredient during product processing. Scanning the latter identifies to the system the specific ingredient which is being loaded and enables the system to verify that a given ingredient is loaded into an appropriate receptacle; it also loads into the system the particular processing parameters and other data either set forth on, or associated with, the tag <b>56</b>.</p>
+<p id="p-0032" num="0031">A particular container may be one that is being loaded into the apparatus <b>10</b> for the first time or it may be one that has previously been loaded into the apparatus but subsequently removed therefrom, e.g., for system maintenance. Thus (see <figref idref="DRAWINGS">FIG. 5</figref>) responsive to scanner data input from a container, the controller reads the container identification number (step <b>70</b>) and examines its process memory to determine whether the particular container has previously been loaded into the apparatus (step <b>72</b>). If it has previously been loaded, the system retrieves the volume of the container in its current state (&#x201c;the current volume&#x201d;, step <b>74</b>) and uses this in controlling production operations. The &#x201c;current volume&#x201d; is the volume calculated during prior use of the particular container in the apparatus and stored on removing the container from the apparatus, as described in further detail below. If, on the other hand, the container is being installed for the first time, the initial container volume is stored in process memory (step <b>76</b>). This initial volume may be that contained on the container tag itself, or it may be a known value for the particular type of container (e.g., base mix). The expiration date is then stored in process memory (step <b>78</b>), and a determination is made as to whether a formulation for the particular ingredient is contained on the tag or is otherwise provided in connection with it (step <b>80</b>). If one or more formulations are specified, it is retrieved from the scanner input data stream and stored in process memory (step <b>82</b>). The process is repeated (step <b>84</b>) for each additional formulation that is input. Conversely, if no specific formulation associated with the particular container is input or otherwise is provided, a default formulation for the given ingredient is used (step <b>86</b>).</p>
+<p id="p-0033" num="0032">Once the data associated with the various ingredient containers is loaded into the system, and the system is brought to operating temperature, preparation of a desired end product may proceed. As illustrated in <figref idref="DRAWINGS">FIG. 6</figref>, dispensing control panel <b>20</b> has a number is of selector buttons <b>24</b><i>a </i>for choosing a desired item (e.g. yogurt, ice cream, etc.) and its grade (e.g., low fat, regular, creamy), as well as flavor (e.g., vanilla, chocolate, strawberry, etc.), mix-ins (e.g., almonds, pistachios, etc.) and amount (e.g., 1 scoop, 2 scoops, etc.), among other variables. Provision may also be made for selecting among one or more formulations (&#x201c;R1&#x201d;, &#x201c;R2&#x201d;, &#x201c;R3&#x201d;, etc.) for the production. Depressing a &#x201c;Run&#x201d; button <b>24</b><i>b </i>starts the manufacturing process.</p>
+<p id="p-0034" num="0033">The display <b>22</b> illustrates the product that will be manufactured. In most cases this will be as selected by the user, and the panel may provide confirmation of this, e.g., the message &#x201c;OK&#x201d; may be displayed. In some cases, however, one or more choices of the user may be overridden, e.g., because they are incompatible with the particular ingredients currently loaded into the machine, or with a particular process to be used, or because there are insufficient resources (ingredients) to fulfill the request. In such a case, an indication of rejection of the selected choices may be displayed instead, and preferably the reasons for the rejection as well.</p>
+<p id="p-0035" num="0034">As schematically illustrated in <figref idref="DRAWINGS">FIG. 7</figref>, the process actually used to manufacture a selected item is preferably controlled by three distinct inputs, namely, user inputs from the control panel <b>24</b>, which specify, e.g., the nature of the desired product (&#x201c;e.g., low fat vanilla&#x201d;); the amount to be manufactured (e.g., &#x201c;2 scoops&#x201d;) and desired mix-ins (&#x201c;e.g., &#x201c;nuts&#x201d;); and unique control inputs associated with the ingredient containers <b>50</b>; and overall system inputs. A controller <b>100</b> receives these inputs from the respective sources, e.g., the control panel <b>24</b> in the case of user inputs; the containers <b>50</b> in the case of specific ingredient control inputs; and a system memory <b>102</b> which contains the manufacturing and control program and associated data. In particular, process control inputs with respect to the ingredients are received directly from the containers for these ingredients, thereby eliminating the chance for human error or malfeasance in setting the manufacturing process. In the preferred embodiment of the invention, memory <b>102</b> is implemented in the form of a hard disk, but obviously may take or include other forms such as ROM, flashware, firmware, wired-in circuitry, etc. Further, it will be understood that the memory <b>102</b> need not be a single memory but may advantageously be distributed among a number of memories of various to control the overall manufacturing process.</p>
+<p id="p-0036" num="0035">Responsive to these inputs, the controller <b>100</b> establishes within the machine the settings that will be used to produce the specific end product requested by the user, and the specific &#x201c;recipe&#x201d; by which it will be produced, thereby particularizing the machine for this particular product in this specific instance, but subject to overall constraints that may be imposed by the system memory and control. The controller is advantageously a general purpose digital computer which executes the program stored in memory <b>102</b> responsive to the user inputs and to the ingredient control inputs to set the appropriated temperatures, pressures and other processing conditions of the operation. It will be understood, of course, that special-purpose computers or other forms of controllers may be used as well.</p>
+<p id="p-0037" num="0036">It will also be understood by those skilled in the art that the tag may, in fact, be physically dissociated from the ingredients whose processing is to be controlled, as long as the tag information is tracked in some manner to the product. For example, the tag may in fact be shipped to the processing point with the container, but physically separate from it. Further, the tag or the information on it may be shipped or otherwise transmitted entirely separate from the container, as long as there is some indicia or other mechanism on the tag and the container that associates the two. Preferably, however, the tag is encoded directly on the container as described in the preferred embodiment of the invention detailed herein.</p>
+<p id="p-0038" num="0037">In connection with the production (step <b>106</b>) of a given product, it is desirable that statistics be kept (step <b>107</b>) of the specific product manufactured, e.g., &#x201c;low fat vanilla with nut mix-ins&#x201d;, the quantity, the specific ingredients used (identified e.g., by serial number of their containers), and the amount of such ingredients used, among other items. These statistics not only enable the local operator to determine when a particular ingredient is running low and may need replenishment, but also enable broader control and coordination of the distribution process. To this end, some or all of the manufacturing of a particular machine may be transmitted to another location (step <b>108</b>) for a variety of purposes, including billing, test marketing, etc. The transmission may be accomplished in a variety of ways. For example, they may be accumulated and transmitted at periodic intervals by paper records, by recording on disk or tape, by transmission over wired or wireless communication channels or the like. Further, they may be made available to interrogation by an authorized source, either remotely or locally.</p>
+<p id="p-0039" num="0038">The benefits to this approach to manufacturing are many. To begin with, it facilitates integration into an ordered network of manufacturing stations or machines that may be distributed over a wide range of locations and operators. Within this network, it enables the distributor to vary process parameters on an individual, regional, or system-wide basis without changing the fundamental structure of the manufacturing apparatus and without requiring local labor to modify the apparatus in any way. For example, the distributor may determine that the tastes of consumers in a particular region of the country is for a more heavily flavored, sweeter ice cream than that prevailing in other regions. Rather than formulate flavorings of higher concentration and sweetness especially for those particular regions, and use local labor to make necessary alterations in the manufacturing process to accommodate them, the distributor need merely modify the coding on the flavoring containers to reflect a formulation that uses a greater amount of the flavoring per unit volume or mass of ice cream that is processed for a serving.</p>
+<p id="p-0040" num="0039">Similarly, the distributor or others may easily and inexpensively test market differing formulations in one or more regions or at one or more locations within a region in the same manner. Since no change in the underlying ingredients need be made, only changes in the formulation associated with those ingredients, no special inventory is required, and the speed of implementation can be greatly enhanced while the costs are simultaneously reduced. Further, since the local operators of the apparatus need not even be aware of the change in formulations, the test can truly be conducted &#x201c;blind&#x201d;, and thus a more reliable assessment made as to the reception of the new &#x201c;products&#x201d;, i.e. new formulations. Of course, fundamental changes in the nature of the ingredients themselves may also be made and readily fitted into the manufacturing process by changing the formulations to accommodate the modified or new ingredients and/or by changing one or more steps in the process.</p>
+<p id="p-0041" num="0040">Embedding &#x201c;formulations&#x201d; and other data defining some or all of the manufacturing process on a tag of a container for one or more ingredients of the process has the advantage of creating a direct and immediate association between the specific ingredient and the machine in which it is to be processed. The person operating or servicing the machine need take no special steps to change or control the manufacturing process other than to scan the container label on loading it into the machine. In the preferred embodiment described herein, the data that is included on the tag is preferably extensive, and may include, for example, one or more specifications of ingredients, amounts and concentrations of products to be used in the manufacturing process, as well as process parameters such as processing time, temperature, etc. An alternative approach merely embeds the serial number of the container on the tag carried on it. This serial number is keyed to a separate master formulation listing that is also provided to the local machine operator. The master may be provided to the operator in the form of a disk, a ROM, or other means of conveniently conveying information. This information is loaded into the local machine and thereafter used in processing the particular unit of ingredient associated with the given serial number. The disadvantage of this approach, however, is that it requires additional, even if minimal, intervention by the operator.</p>
+<p id="p-0042" num="0041">An alternative which requires no such intervention is shown in <figref idref="DRAWINGS">FIG. 8</figref>. As shown, a plurality of machines <b>110</b><i>a</i>, <b>110</b><i>b</i>, <b>110</b><i>c </i>which are to prepare products on site to user taste are located remote from a control center or station <b>112</b>. The control center may be a plant at which ingredients for processing in the machines are made or packaged; may be a distribution center; or may simply be a control center independent of manufacturing and distributing operations. It is connected for communication with the various manufacturing machines <b>110</b> through a communications link which may be wired or wireless; one such mode of communication is through a network <b>114</b>, such as the internet, as illustrated schematically in <figref idref="DRAWINGS">FIG. 8</figref>. Containers <b>116</b><i>a</i>, <b>116</b><i>b</i>, <b>116</b><i>c</i>, etc. are shipped to the machines <b>110</b> for processing therein. The containers each carry a tag or label <b>118</b><i>a</i>, <b>118</b><i>b</i>, <b>118</b><i>c</i>, respectively, that identifies each one. For example, the label may simply be a serial number, e.g., &#x201c;11435886&#x201d; or other identifier by which the container may be designated. The serial number or other identifier may be unique to that particular container; or may be common to two or more containers.</p>
+<p id="p-0043" num="0042">The control center <b>112</b> maintains a database <b>120</b> that associates each serial number <b>120</b><i>a </i>with a particular set of parameters or &#x201c;formulation&#x201d; <b>120</b><i>b </i>that defines at least in part the processing for ingredients associated with that serial number. Preferably, it also contains a record of the locations to which the item bearing that serial number had been shipped. At various times, the control source <b>112</b> transmits to the machines <b>110</b> information from the database <b>120</b> that relates the serial number <b>120</b><i>a </i>of a unit or units of ingredient with the formulation or process parameters <b>120</b><i>b </i>for that unit or units. That information is stored in the machine for use in processing the particular unit bearing the particular serial number. When the control source maintains a record of the location to which a particular unit of ingredient has been shipped, the information as to that unit of ingredient need only be transmitted to the particular machine to which the unit has been shipped. Otherwise, the information may be shipped to all machines or at least to all machines which may have received a unit of ingredient covered by the information. Preferably, the time and circumstances of the information transmission is controlled by the source so that the local operator need not be involved. Of course, provision may also be made for receiving user responses to the product being tested. These responses may be entered directly on the machine itself or on a separate data entry tablet. In either case, they may be transmitted directly to the control center at the time of entry or at a later time.</p>
+<p id="p-0044" num="0043">An advantage to this embodiment of the invention is that the &#x201c;formulation&#x201d; for processing the ingredient may be changed at will from the control source and with very little effort, simply by changing the appropriate items in the database and transmitting an updated record to the manufacturing site. Further, it may be changed with respect to one to or more containers over the period of use of the container, i.e. while that container is at its end location and available for use, either while loaded in the machine which is to process it or while simply available from storage.</p>
+<p id="p-0045" num="0044">Thus, it is possible that the processing of a single container of ingredient in a single machine may be established and changed at will and quite simply and economically is during the course of its use in order to satisfy such developments as improved formulations, changing seasons, desired market studies, etc. This can readily be done without local intervention or even knowledge, thus allowing tight control of the manufacturing and distribution process.</p>
+<p id="p-0046" num="0045">Information may also, of course, be transmitted in the reverse direction, i.e., from the local machines to the central control. Thus, an inventory of the volume of various ingredients in one or more machines, the amount and composition of product that has been manufactured and dispensed in the machines, the aging of the ingredients, and other information concerning the ingredients or the machines in which they are located may be transmitted to the central control. The resultant data may be used for inventory control, for billing, for quality control, for testing, and for other purposes.</p>
+<p id="p-0047" num="0046">An alternative to a central control station may also be used, e.g., a portable data exchange system which is brought to or near the site of the various production apparatus. This approach may be useful, or even necessary, where, for one reason or another, it is not feasible to connect the production apparatus to a network of one form or another. However, the portable system itself should ultimately transmit collected data, or portions thereof, to a central control and desirably may receive data from central control.</p>
+<p id="p-0048" num="0047">From the foregoing it will be seen that I have described a method and apparatus for selectively controlling the manufacture of an individual item. The method and apparatus enable great flexibility in defining the manufacturing steps, physical processing parameters (e.g., temperature, pressure, etc.), ingredients, and ingredient ratios, among other characteristics, while allowing tight control of the operations from a central source if desired. By providing for direct reading of a container without requiring human entry of information as to the container, its contents, or its processing, the present invention not only insures against human error in data entry, but also provides security against unauthorized changes in the information which is to control the manufacturing process.</p>
+<p id="p-0049" num="0048">The method and apparatus are applicable to a variety of products, but are particularly well suited to the controlled production of products which are manufactured on-the-spot at least partially to individual taste or specification. It will be understood that the term &#x201c;manufacturing&#x201d; is used herein in the broadest sense, and includes processing, compounding, mixing or otherwise operating on and with ingredients of all types, solid, liquid, or gaseous, to transform them from their original state. Thus, it may also advantageously be applied to such other varied processes as mixing various shades of paint to achieve a specific shade, compounding prescriptions for a particular patient, compounding cosmetics, and other such applications.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. Apparatus for controlling the processing of a product, said apparatus comprising
+<claim-text>a plurality of containers containing various ingredients, wherein at least one of the containers contains an ingredient distinct from another ingredient in at least one of the other containers;</claim-text>
+<claim-text>a tag associated with each container, each tag including indicia that includes an identification of the ingredient in the associated container;</claim-text>
+<claim-text>a formulator;</claim-text>
+<claim-text>delivery means configured to selectively deliver the ingredients in the plurality of containers to the formulator;</claim-text>
+<claim-text>a selection device for selecting from among a plurality of products that can be manufactured from the ingredients in said plurality of containers, wherein the selection device includes an input mechanism that can be activated by a user to select from the ingredients and to produce a selection signal corresponding to the selected ingredients;</claim-text>
+<claim-text>a controller including memory storing a process control program that includes instructions that cause the controller, in response to the selection signal and in response to the indicia in the tags of the one or more selected ingredient container,
+<claim-text>to control the delivery means to deliver from selected ones of the plurality of containers to the formulator the ingredients necessary to produce the selected product and</claim-text>
+<claim-text>to control the formulator in accordance with the process control program and the tag indicia on at least one of the selected ingredient containers to cause the formulator to produce the selected product.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. Apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref> in which said processing comprises a food manufacturing process.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. Apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref> in which said processing comprises a process for manufacturing a frozen food product essentially contemporaneously with the request for such serving by the user.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. Apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref> which includes a communications link to a control station for exchanging with said station information specific to the ingredient in each of said plurality of containers.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. Apparatus according to <claim-ref idref="CLM-00004">claim 4</claim-ref> in which said communications link includes a communications network.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. Apparatus according to <claim-ref idref="CLM-00005">claim 5</claim-ref> in which said network comprises the internet.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. Apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the input mechanism enables the selection of ingredients via user activation by enabling the user to select from among the plurality of products.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A method for automatically producing a customized food product with a machine in response to a user input provided to the machine, the method comprising:
+<claim-text>loading a machine with a plurality of containers, each containing a respective ingredient, wherein a respective tag is associated with each container, each tag including indicia identifying the ingredient in the associated container;</claim-text>
+<claim-text>reading with the machine the tags to identify the ingredients to the machine;</claim-text>
+<claim-text>receiving input from a user at the machine, wherein the user selects one or more ingredients for a desired product;</claim-text>
+<claim-text>in response to the user input, delivering with the machine to a formulator disposed within the machine the selected ingredients from the containers associated with the tags that have indicia identifying the selected ingredients;</claim-text>
+<claim-text>within the formulator, combining the one or more selected ingredients;</claim-text>
+<claim-text>manufacturing with at least the formulator the desired product from the one or more selected ingredients; and</claim-text>
+<claim-text>delivering with the machine the desired product to the user at the machine.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the desired product includes a frozen food product.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

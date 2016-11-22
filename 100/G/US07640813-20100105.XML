@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640813-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640813</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11734441</doc-number>
+<date>20070412</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>DE</country>
+<doc-number>10 2006 017 676</doc-number>
+<date>20060412</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>F</subclass>
+<main-group>1</main-group>
+<subgroup>84</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 73861356</main-classification>
+</classification-national>
+<invention-title id="d0e61">Process for operating a Coriolis mass flow rate measurement device</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5259239</doc-number>
+<kind>A</kind>
+<name>Gaisford</name>
+<date>19931100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5259250</doc-number>
+<kind>A</kind>
+<name>Kolpak</name>
+<date>19931100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73861355</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5637804</doc-number>
+<kind>A</kind>
+<name>Hansen</name>
+<date>19970600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73861357</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5926096</doc-number>
+<kind>A</kind>
+<name>Mattar et al.</name>
+<date>19990700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>RE36597</doc-number>
+<kind>E</kind>
+<name>Agar et al.</name>
+<date>20000300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 7386104</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6327914</doc-number>
+<kind>B1</kind>
+<name>Dutton</name>
+<date>20011200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>6505519</doc-number>
+<kind>B2</kind>
+<name>Henry et al.</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>6513393</doc-number>
+<kind>B1</kind>
+<name>Eckert et al.</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6598488</doc-number>
+<kind>B1</kind>
+<name>Sutton et al.</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73861355</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6880410</doc-number>
+<kind>B2</kind>
+<name>Drahm et al.</name>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73861357</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6910366</doc-number>
+<kind>B2</kind>
+<name>Drahm et al.</name>
+<date>20050600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>7036355</doc-number>
+<kind>B2</kind>
+<name>Drahm et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>7040181</doc-number>
+<kind>B2</kind>
+<name>Rieder et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>7059199</doc-number>
+<kind>B2</kind>
+<name>Mattar et al.</name>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73861356</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>7162915</doc-number>
+<kind>B2</kind>
+<name>Drahm et al.</name>
+<date>20070100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>7188534</doc-number>
+<kind>B2</kind>
+<name>Tombs et al.</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73861356</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>7284449</doc-number>
+<kind>B2</kind>
+<name>Rieder et al.</name>
+<date>20071000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>7296484</doc-number>
+<kind>B2</kind>
+<name>Rieder et al.</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>7305892</doc-number>
+<kind>B2</kind>
+<name>Kourosh</name>
+<date>20071200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73861357</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>7357039</doc-number>
+<kind>B2</kind>
+<name>Rieder et al.</name>
+<date>20080400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>DE</country>
+<doc-number>44 23 168</doc-number>
+<kind>A1</kind>
+<date>19960100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>WO</country>
+<doc-number>01/31298</doc-number>
+<kind>A2</kind>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>6</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>None</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>2</number-of-drawing-sheets>
+<number-of-figures>4</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080011101</doc-number>
+<kind>A1</kind>
+<date>20080117</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Storm</last-name>
+<first-name>Ralf</first-name>
+<address>
+<city>Essen</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Safran</last-name>
+<first-name>David S.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<orgname>Roberts Mlotkowski Safran &#x26; Cole, P.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>KROHNE Messtechnik GmbH &#x26; Co. KG</orgname>
+<role>03</role>
+<address>
+<city>Duisburg</city>
+<country>DE</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Patel</last-name>
+<first-name>Harshad</first-name>
+<department>2855</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A process for operating a Coriolis mass flow rate measurement device, with at least one measurement tube (<b>10</b>) through which a medium flows and which is subjected to vibration excitation that leads to resulting vibrations of the measurement tube (<b>10</b>), a first indicator quantity being used for detection of a multiphase flow. For detection of the multiphase flow, an additional, second indicator quantity that is independent of the first indicator quantity is used. Thus, a process for operating a Coriolis mass flow rate measurement device (<b>1</b>) is attained with which the detection of multiphase flows, especially of two-phase flows, is reliably possible without the need to make assumptions regarding the properties of the individual phases of the flowing medium.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="101.52mm" wi="165.52mm" file="US07640813-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="217.76mm" wi="186.52mm" file="US07640813-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="224.45mm" wi="168.99mm" file="US07640813-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">The invention relates to a process for operating a Coriolis mass flow rate measurement device, with at least one measurement tube through which a medium flows and which is subjected to vibration excitation; this leads to resulting vibrations of the measurement tube, a first indicator quantity being used for detection of a multiphase flow.</p>
+<p id="p-0004" num="0003">2. Description of Related Art</p>
+<p id="p-0005" num="0004">Coriolis mass flow rate measurement devices generally have a single measurement tube or a plurality of measurement tubes through which a medium flows with a mass flow rate which is to be determined. In this connection, different arrangements and geometries of measurement tubes are known. Thus, there are, for example, Coriolis mass flow rate measurement devices with a single straight measurement tube and Coriolis mass flow rate measurement devices with two curved measurement tubes.</p>
+<p id="p-0006" num="0005">It is common to these Coriolis mass flow rate measurement devices that the measurement tubes through which the medium flows form a mechanical vibration system which is influenced by the flowing medium. Thus, the density of the medium changes the resonant frequency of the vibration system, while the mass flow rate of the medium changes the form of the vibration. Accordingly, in addition to the mass flow rate, among other things, also the density of the flowing medium can be determined.</p>
+<p id="p-0007" num="0006">Coriolis mass flow rate measurement devices are characterized by high measurement accuracy. Thus, the mass flow rate can be measured with a precision of less than 0.1%. Moreover, with Coriolis mass flow rate measurement devices, in addition to the mass flow rate, other values can be determined which are derived in part from primary measurement values. Examples of these derived values are the volumetric flow rate, the mass amount and volumetric amount, and the concentrations of the flowing medium. Thus, Coriolis mass flow rate measurement devices constitute multivariable measurement devices which are often used not only for a primary measurement task, but in addition can also deliver important secondary diagnosis and quality information about a process.</p>
+<p id="p-0008" num="0007">Information about multiphase flows, such as two-phase flows, especially specifically detection of the occurrence of such a multiphase flow and conclusions about the form of the multiphase flow, have not be reliably available in the past using Coriolis mass flow rate measurement devices. Examples of multiphase flows, specifically of two-phase flows, are gas bubbles in a liquid which can be caused, for example, by cavitation in valves or pumps or intake of air at leaks. Furthermore, one example of a two-phase flow is a system of solids in a liquid, for example, caused by crystallization or sudden detachment of deposits in a piping system through which the medium is flowing. Finally, there is an example of two-phase flows in mixtures of insoluble liquids, therefore in emulsions, which can be caused, for example, by changing of the medium flowing through the piping system.</p>
+<p id="p-0009" num="0008">Conventional approaches to detection of multiphase flows in a Coriolis mass flow rate measurement device are based, for example, on determination of the drive power which is required to obtain mechanical vibrations in a Coriolis mass flow rate measurement device, such as described, for example, in German Patent Application DE 44 23 168 A1. In practice, the quantity &#x201c;installation factor&#x201d; has been introduced; it corresponds as a dimensionless amount to the drive power which is necessary to reach a given vibration amplitude. This quantity is designed primarily for assessment of the quality of the installation of the Coriolis mass flow rate measurement device in the piping system. However, gas bubbles in the liquid medium likewise increase the power demand and lead to an increase of the installation factor so that the installation factor can also be used for detection of a multiphase flow.</p>
+<p id="p-0010" num="0009">But, the disadvantage is the fact that this value alone is not sufficient for reliable detection of gas bubbles since, in particular, in addition to the quality of the installation of the Coriolis mass flow rate measurement device also, for example, the viscosity of the medium can have an effect on the power demand of the Coriolis mass flow rate measurement device. In this way, the use of the drive power for detecting a multiphase flow is associated with the danger of faulty detection of such a multiphase flow in the case of a change of the viscosity or in the case of a change of the installation conditions.</p>
+<p id="p-0011" num="0010">A second conventional approach to detecting or determining multiphase flows is based on the use of reference densities, such as described, for example, in U.S. Pat. No. 4,689,989. Here, the density of the multiphase flow is compared to known densities of the individual phases. However, the disadvantage is the necessity of knowing a priori the densities of the individual components of the flowing medium. Thus, this diagnosis can only be implemented in a special process and not in general.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0012" num="0011">Thus, it is a primary object of the present invention to devise such a process for operating a Coriolis mass flow rate measurement device with which the detection of multiphase flows, especially of two-phase flows, is reliably possible without the need to make assumptions regarding the properties of the individual phases of the flowing medium.</p>
+<p id="p-0013" num="0012">Proceeding from the initially described process, this object is achieved in that an additional, second indicator quantity independent of the first indicator quantity is used for detection of the multiphase flow.</p>
+<p id="p-0014" num="0013">Therefore, it is provided in accordance with the invention that, for detection of the multiphase flow, two indicator quantities which are independent of one another are used; this means that these indicator quantities depend on external effects in different ways. In this way, the danger of erroneously detecting a multiphase flow is reduced, although only the change of an external variable has taken place which changes the indicator quantity in the same direction as a multiphase flow.</p>
+<p id="p-0015" num="0014">In other words, providing a plurality of indicator quantities can ensure that solely the change of the indicator quantity in the direction which would correspond to the presence of a multiphase flow is still insufficient to confirm the presence of such a multiphase flow. Rather, for at least a second indicator quantity, a corresponding effect must also occur in order to positively detect a multiphase flow. Erroneous display of the presence of a multiphase flow can be drastically reduced in this way.</p>
+<p id="p-0016" num="0015">Basically, the first indicator quantity can originate from a plurality of groups of quantities of the Coriolis mass flow rate measurement device, which groups are different from one another. According to one preferred development of the invention, it is provided that the first indicator quantity is based on
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0016">a) friction losses within the multiphase flow,</li>
+        <li id="ul0002-0002" num="0017">b) inhomogeneity of the multiphase flow,</li>
+        <li id="ul0002-0003" num="0018">c) modeling of the nominal behavior of the Coriolis mass flow rate measurement device or</li>
+        <li id="ul0002-0004" num="0019">d) transit time effects of the multiphase flow between two detection sites which are spaced apart from one another in the lengthwise direction of the measurement tube for the resulting vibrations
+<br/>
+and the second indicator quantity is based on another of these quantities a)-d).
+</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0017" num="0020">According to this preferred development of the invention, the first indicator quantity can, therefore, be selected from four categories that differ from one another, while the second indicator quantity is then selected from another of these categories. In other words, this means that the four aforementioned categories of different quantities, in the sense of the invention, yield indicator quantities which are independent of one another.</p>
+<p id="p-0018" num="0021">Basically, it can be sufficient to use two indicator quantities which are independent of one another for detection of a multiphase flow. However, according to a preferred development of the invention it is provided that at least a third indicator quantity is used for detection of the multiphase flow. In this connection, when a third indicator quantity is used and when other indicator quantities are used, it is fundamentally possible for them to originate from a group which is different from the group of the first indicator quantity and from the group of the second indicator quantity.</p>
+<p id="p-0019" num="0022">While the first indicator quantity and the second indicator quantity in accordance with the invention must be independent of one another, and thus must originate from groups which are different from one another, this is not absolutely necessary for the third and for other indicator quantities, so that the third and other indicator quantities can also originate from those groups from which the first and the second indicator quantity originate.</p>
+<p id="p-0020" num="0023">Basically, the indicator quantities can be formed in any manner from the quantities of the Coriolis mass flow rate measurement device which can be determined as long as fixed rules can be assigned to the indicator quantities, which rules indicate in what direction the indicator quantity must change in order to indicate the presence of a multiphase flow. According to a preferred development of the invention, it is provided that the indicator quantities exhibit a larger value, the more pronounced the multiphase flow.</p>
+<p id="p-0021" num="0024">According to a preferred development of the invention, it is also provided that, to determine a quantity based on friction losses within a multiphase flow, the following is or are evaluated: the drive power necessary for vibration excitation of the measurement tube, the drive amplitude, the resulting vibration amplitude and/or at least one quantity derived from one or more of these quantities. In particular, in this connection, according to a preferred development of the invention, it can be provided that the averages of these quantities are used.</p>
+<p id="p-0022" num="0025">Furthermore, according to another preferred development of the invention, it is provided that a quantity based on the inhomogeneity of the multiphase flow is obtained from the noise of an internal signal of the Coriolis mass flow rate measurement device. This preferred development of the invention is based on the fact that the multiphase flow can be regarded as a stochastic noise process which stochastically disrupts the signals of the Coriolis mass flow rate measurement device.</p>
+<p id="p-0023" num="0026">According to a preferred development of the invention, the internal signal of the Coriolis mass flow rate measurement device is especially the phase difference between two signals which are detected at detection sites spaced apart from one another in the lengthwise direction of the measurement tube for the resulting vibrations, the natural frequency of the measurement tube through which flow takes place, the phase difference between the vibration excitation and the resulting vibrations, the instantaneous amplitude of the drive power per vibration amplitude and/or at least one quantity derived from one or more of these quantities, such as the mass flow rate through the measurement tube and/or the density of the flowing medium. Finally, according to a preferred development of the invention, it is especially provided that the variance, the standard deviation or the difference of the maximum value and the minimum value of a time interval for one or more of these quantities is determined.</p>
+<p id="p-0024" num="0027">According to another preferred development of the invention, the deviation of a detected signal from the signal expected based on modeling is intended for determining a quantity based on modeling of the nominal behavior of the Coriolis mass flow rate measurement device. Here, according to a preferred development of the invention, it is provided especially that the detected signal is a signal of the vibration excitation of the measurement tube, a signal of the resulting vibrations of the measurement tube or/and at least one quantity derived from one or more of these quantities.</p>
+<p id="p-0025" num="0028">Finally, according to another preferred development of the invention, it is provided that, to determine a quantity based on transit time effects of the multiphase flow between two detection sites that are spaced apart from one another in the lengthwise direction of the measurement tube, for the resulting vibrations, the deviation of the computed transit time based on the determined mass flow rate is determined by the transit time determined for the multiphase flow. Thus, according to this preferred development of the invention, a fourth group of indicator quantities is defined which are based on the noise of an inlet-side or outlet-side signal being correlated to one another and therefrom the transit time of the multiphase flow being determined, the latter in turn being compared to the transit time which would result based on the computed mass flow rate. The greater the difference which has been determined in this connection, the greater the characteristic form of the multiphase flow.</p>
+<p id="p-0026" num="0029">The invention is explained in detail below using a preferred embodiment with reference to the accompanying drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">DETAILED DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0027" num="0030"><figref idref="DRAWINGS">FIG. 1</figref> schematically shows a Coriolis mass flow rate measurement device for use with a process according to a preferred embodiment of the invention,</p>
+<p id="p-0028" num="0031"><figref idref="DRAWINGS">FIG. 2</figref> schematically shows the measuring transducer of the Coriolis mass flow rate measurement device,</p>
+<p id="p-0029" num="0032"><figref idref="DRAWINGS">FIG. 3</figref> schematically shows the evaluation electronics of the Coriolis mass flow rate measurement device, and</p>
+<p id="p-0030" num="0033"><figref idref="DRAWINGS">FIG. 4</figref> schematically shows a two-phase flow in the measurement tube of the Coriolis mass flow rate measurement device.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0031" num="0034">The process in accordance with the invention is based on the linking of two or more indicator quantities in order to detect a multiphase flow. By linking several indicator quantities, reliable detection of a multiphase flow is ensured; this could not be done using a single indicator quantity. This is done as described below:</p>
+<p id="p-0032" num="0035"><figref idref="DRAWINGS">FIG. 1</figref> shows a diagram of the Coriolis mass flow rate measurement device for use with a process according to a preferred embodiment of the invention. The Coriolis mass flow rate measurement device <b>1</b> is installed in a piping system <b>2</b> through which the medium flows, with a mass flow rate which is to be measured. The Coriolis mass flow rate measurement device <b>1</b> has a measuring transducer <b>3</b> which is connected via electrical connections <b>4</b> to evaluation electronics <b>5</b>. The data determined by the evaluation electronics <b>5</b> can be output to an external device, such as a display means <b>7</b>, via outputs <b>6</b>.</p>
+<p id="p-0033" num="0036">The measuring transducer <b>3</b> of the Coriolis mass flow rate measurement device <b>1</b> is illustrated in <figref idref="DRAWINGS">FIG. 2</figref>. The measuring transducer <b>3</b> has a housing <b>8</b> and flanges <b>9</b> by means of which it is installed in the piping system <b>2</b>. The medium with a mass flow rate which is to be measured flows through a single straight measurement tube <b>10</b>. A vibration generator <b>12</b> is provided within a carrier tube <b>11</b> to excite the measurement tube <b>10</b> into vibration. The resulting vibrations of the measurement tube <b>10</b> are detected by two vibration transducers <b>13</b>.</p>
+<p id="p-0034" num="0037"><figref idref="DRAWINGS">FIG. 3</figref> shows the evaluation electronics <b>5</b> in detail. As already described above, the evaluation electronics <b>5</b> are connected via electrical connections <b>4</b> to the measuring transducer <b>3</b> and communicate via outputs <b>6</b> with an external device. The evaluation electronics <b>5</b> have an arithmetic unit <b>14</b> which undertakes triggering of the vibration generator <b>12</b>. This triggering is digitally produced and transmitted to a driver circuit <b>16</b> via an analog/digital converter <b>15</b> which contains elements for power amplification and power matching, interference suppression, filtering and protection for overvoltages. From there, transmission takes place, as already stated, via electrical connections <b>4</b>.</p>
+<p id="p-0035" num="0038">The signals detected by the vibration transducers <b>13</b> are supplied to an analog preprocessing circuit <b>17</b> via the electrical connections <b>4</b>. From there, the signal is routed to the analog/digital converter <b>18</b> which relays the digitized signals to the arithmetic unit <b>14</b>. From these signals, the arithmetic unit <b>14</b> then determines the primary measurement values of the Coriolis mass flow rate measurement device <b>1</b>, such as the mass flow rate and the density of the medium flowing through the measurement tube <b>10</b>. These values are then relayed to an output unit <b>19</b> which, as already stated, communicates with an external device via the outputs <b>6</b>. The arithmetic unit <b>14</b> is also responsible for detection of a multiphase flow according to the preferred embodiment described here, specifically for detection of a two-phase flow.</p>
+<p id="p-0036" num="0039"><figref idref="DRAWINGS">FIG. 4</figref> is a schematic lengthwise sectional view through a segment of the measurement tube <b>10</b> with a two-phase flow. This two-phase flow generally has a carrier medium <b>20</b> as the first phase which has irregular inclusions of a second medium <b>21</b> as the second phase. One example of this two-phase flow is water as the carrier medium <b>20</b> with air bubbles of different size as the inclusions. This two-phase flow consisting of the carrier medium <b>20</b> and air inclusions as the second medium is routed in the direction of the x-coordinate through the measurement tube <b>10</b> of the Coriolis mass flow rate measurement device <b>1</b>.</p>
+<p id="p-0037" num="0040">According to the preferred embodiment of the invention described here, a two-phase flow is detected by linking a plurality of indicator quantities, as is stated below. Here, it is critical that the indicator quantities and linking of indicator quantities need not linearly image the two-phase flow. Rather, it is sufficient to define threshold values which, when exceeded, indicate the presence of a two-phase flow. Moreover, a qualitative conclusion about the form of the two-phase flow can be delivered via linkages of the indicator quantities, therefore, for example, about the proportion of air bubbles in the water. Otherwise, optionally, nonlinear behavior of the individual indicator quantities can also be linearized by a suitable choice of the linking of the indicator quantities.</p>
+<p id="p-0038" num="0041">The first group of possible indicator quantities for a two-phase flow is based on friction losses within the two-phase flow. The flow state, as is shown schematically in <figref idref="DRAWINGS">FIG. 4</figref>, leads to an increase of the required drive power. This is based on the fact that the measurement tube <b>10</b> in <figref idref="DRAWINGS">FIG. 4</figref> is excited to vibrations in the direction of the y-coordinate. By these vibrations, the carrier medium <b>20</b> and the inclusions of the second medium <b>21</b> are also excited to vibrations in the direction of the y-coordinate. Based on the different densities of the two phases, the resulting movements of the two phases are different from one another. Furthermore, relative motion occurs between the carrier medium <b>20</b> and the second medium <b>21</b>. The friction losses which occur due to this relative motion must be additionally applied by the drive; this leads to an increase of the required average drive power compared to a single-phase flow.</p>
+<p id="p-0039" num="0042">These friction losses can be determined differently, for example, by measuring the electrical output with which the vibration generator <b>12</b> is operated. Alternatively, a different measure can be used for the magnitude of the drive power, such as the drive amplitude.</p>
+<p id="p-0040" num="0043">The drive power alone is a reliable measure for the losses caused by the two-phase flow only in the case of a constant vibration amplitude of the measurement tube <b>10</b>. Thus, a change of the friction losses can also lead to a change of the vibration amplitude of the measurement tube <b>10</b> when, for example, the drive power is limited by the driver circuit <b>16</b>. Therefore, it is advantageous to consider the drive power P<sub>A </sub>relative to the instantaneous vibration of the measurement tube <b>10</b> for determining the friction losses.</p>
+<p id="p-0041" num="0044">This vibration can be determined, for example, by the amplitude or the effective value of a signal of a vibration transducer <b>13</b> or by the amplitude or effective value of linking of the signals of several vibration sensors <b>13</b>. Combining the possible quantities for the drive power P<sub>A </sub>and the drive amplitude and the resulting vibration amplitudes yields the first group of indicator quantities. For example, the following values can be used as indicator quantities:
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>I</i><sub>11</sub><i>=MW</i>(<i>P</i><sub>A</sub>)/<i>MW</i>(amplitude of the sum of the vibration sensor signals)<?in-line-formulae description="In-line Formulae" end="tail"?>
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>I</i><sub>12</sub><i>=MW</i>(amplitude of trigger signal/amplitude of vibration sensor signal)<?in-line-formulae description="In-line Formulae" end="tail"?>
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>I</i><sub>13</sub><i>=MW</i>(gain of amplitude controller).<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0042" num="0045">The function MW (x) is an arithmetic rule for at least approximate computation of the average value of the argument x.</p>
+<p id="p-0043" num="0046">The indicator quantities of the above described first group alone are not sufficient for reliable detection of the two-phase flow. This is due to the friction losses of the vibrations of the measurement tube <b>10</b> not being influenced solely by the two-phase flow. Changes of the temperature in the Coriolis mass flow rate measurement device <b>1</b> can also lead to a change of the internal friction losses, for example, at the connecting sites between the measurement tube <b>10</b> and the carrier tube <b>11</b>. A change of the flowing medium, mainly a change of its viscosity, also leads to a change of friction losses.</p>
+<p id="p-0044" num="0047">Therefore, other groups of indicator quantities are provided. A second group of indicator quantities is based on the inhomogeneity of the two-phase flow. As is shown in <figref idref="DRAWINGS">FIG. 4</figref>, the distribution and form of the inclusions of the second medium <b>21</b> in the carrier medium <b>20</b> are nonuniform, i.e., the size and number of inclusions of the second medium <b>21</b> in the measurement tube <b>10</b> at different observation instants are different, even if the time averages of size and quantity are constant. A two-phase flow can thus be regarded as a stochastic noise process which stochastically disrupts the signals of the Coriolis mass flow rate measurement device <b>1</b>.</p>
+<p id="p-0045" num="0048">The second group of indicator quantities for the two-phase flow is thus obtained from the noise of internal signals of the Coriolis mass flow rate measurement device <b>1</b>. In this connection possible signals which can be evaluated for use as indicator quantities are all signals which are directly or indirectly linked to the medium to be measured, such as</p>
+<p id="p-0046" num="0049">1. The mass flow rate m and the phase difference &#x394;&#x3c6; between the signals detected by the vibration transducers <b>13</b>:
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>I</i><sub>21</sub><i>=R</i>(<i>m</i>).<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0047" num="0050">Since the mass flow rate is determined from the phase difference between the signals detected by the two vibration transducers <b>13</b>, these two quantities are equivalent with respect to the detection of noise originating from a medium. Since the mass in the measurement tube <b>10</b> changes depending on the stochastic distribution of the phases, the mass flow rate through the measurement tube <b>10</b> likewise changes depending on the two-phase flow.</p>
+<p id="p-0048" num="0051">2. Density &#x3c1; or frequency &#x3c9;<sub>A </sub>of the drive signals:
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>I</i><sub>22</sub><i>=R</i>(&#x3c1;).<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0049" num="0052">Since the density is determined from the frequency of the drive signals, these two quantities are equivalent with respect to detection of noise originating from a medium. The mass in the measurement tube <b>10</b> changes depending on the stochastic distribution of the phases, and thus, the density in the measurement tube <b>10</b> likewise changes.</p>
+<p id="p-0050" num="0053">3. The phase difference &#x3c6;<sub>AS </sub>between the excitation signals and the resulting vibration sensor signals:
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>I</i><sub>23</sub><i>=R</i>(&#x3c6;<sub>AS</sub>).<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0051" num="0054">According to the preferred embodiment of the invention described here, the measurement tube <b>10</b> is operated in mechanical resonance. This is achieved via control of the phase difference &#x3c6;<sub>AS </sub>between the excitation signals and the sum of the detected vibration signals. In resonance the phase difference &#x3c6;<sub>AS </sub>is equal to zero. If the density in the measurement tube <b>10</b> changes stochastically as a result of a two-phase flow, the mechanical resonant frequency changes. Until the control sets the frequency of excitation to the new resonant frequency, a likewise stochastic change of the phase difference &#x3c6;<sub>AS </sub>occurs.</p>
+<p id="p-0052" num="0055">4. Instantaneous amplitude of the drive power P<sub>A </sub>per vibration amplitude &#x15c;:</p>
+<p id="p-0053" num="0056">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+<mrow>
+  <msub>
+    <mi>I</mi>
+    <mn>24</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mi>R</mi>
+      <mo>&#x2061;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <msub>
+            <mi>P</mi>
+            <mi>A</mi>
+          </msub>
+          <mover>
+            <mi>S</mi>
+            <mo>^</mo>
+          </mover>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mo>.</mo>
+  </mrow>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0054" num="0057">As was described above, the two-phase flow increases the average demand for drive power per average vibration amplitude reached. This leads to the indicator quantities of the above described group. Only the stochastic change of these quantities or the stochastic change of the quotient of the instantaneous drive power and instantaneous vibration amplitude are added. In contrast to the average values which are used for the indicator quantities from the first group, the change of the instantaneous values is, for example, not dependent on the average viscosity of a single-phase medium.</p>
+<p id="p-0055" num="0058">In this connection, the function R(x) constitutes a suitable arithmetic rule for determining a measure for the noise of the signal x. This can be determined in the arithmetic unit <b>14</b>, for example, by determining the</p>
+<p id="p-0056" num="0059">1. variance</p>
+<p id="p-0057" num="0060">2. standard deviation or</p>
+<p id="p-0058" num="0061">3. difference of the maximum and minimum value in a time interval of the respective signal x.</p>
+<p id="p-0059" num="0062">Here, it must be watched that the noise in the respective signal can differ from the added noise by the two-phase flow based on filtering by</p>
+<p id="p-0060" num="0063">1. the mechanical vibration system comprised of the measurement tube <b>10</b> and the carrier tube <b>11</b>,</p>
+<p id="p-0061" num="0064">2. the transmission properties of the vibration generator <b>12</b> and vibration transducer <b>13</b> used,</p>
+<p id="p-0062" num="0065">3. the signal chain comprised of the digital/analog converter <b>15</b>, the driver circuit <b>16</b>, the analog processing circuit <b>17</b> and the analog/digital converter <b>18</b> and</p>
+<p id="p-0063" num="0066">4. processing in the arithmetic unit <b>14</b> depending on where the signal x is tapped.</p>
+<p id="p-0064" num="0067">A third group of indicator quantities is based on modulation of the nominal behavior of the Coriolis mass flow rate measurement device <b>1</b>. The Coriolis mass flow rate measurement device <b>1</b> which is described here is operated in high quality mechanical resonance so that the signals detected by the vibration transducers <b>13</b> in the case of a single-phase medium are single-frequency sinusoidal signals. The corresponding applies to the signals of the vibration excitation when they are obtained directly from the signals of the vibration transducer <b>13</b>.</p>
+<p id="p-0065" num="0068">With knowledge of the nominal form of the signals, a signal model can be prepared. Comparison of the computed signals of the signal model with the measured signals then enables computation of indicator quantities for the two phase flows. Thus, for example, the average difference of a measured signal x and a signal x<sub>nom </sub>which is expected based on the model is a measure of the interference caused by the two-phase flow: I<sub>31</sub>=MW(|x&#x2212;x<sub>nom</sub>|).</p>
+<p id="p-0066" num="0069">In this connection, the signal is one of the signals from the vibration transducers <b>13</b>, the signal of the vibration excitation or a combination of these signals.</p>
+<p id="p-0067" num="0070">Alternatively, the nominal vibration behavior of the Coriolis mass flow rate measurement device <b>1</b> can be described by a model. This model can be identified via conventional processes for parameter estimation. In this connection, the actually measured signals <u style="single">x</u> and signals of vibration excitation <u style="single">u</u> of the Coriolis mass flow rate measurement device <b>1</b> are used to determine, for example, the parameters of the model M by means of the least squares process. The residues determined in this parameter estimation are a measure of the deviation of the model from the measured values. If the model describes the nominal behavior of the Coriolis mass flow rate measurement device without two-phase flows, the residues in the case of an existing two-phase flow are an indicator quantity:
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>I</i><sub>32</sub>=Residues(<i><u style="single">x</u>, <u style="single">u</u>,</i><sup>M</sup>)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0068" num="0071">With respect to the residues, reference is made to the graduate paper &#x201c;Model-supported self-diagnosis of process sensors&#x201d;, Kourosh Kolahi, Christian-Albrechts-Universitaet zu Kiel, 2001.</p>
+<p id="p-0069" num="0072">The modulation of the Coriolis mass flow rate measurement device <b>1</b> can also be expanded such that the two-phase flow is contained in the model. This is even possible when the exact functional relationship of the interaction of the two-phase flow with the Coriolis mass flow rate measurement device <b>1</b> is unknown. The two-phase flow can be regarded as the influencing variable in the model of the Coriolis mass flow rate measurement device <b>1</b> which is determined with an observer of the influencing variable. With respect to this observer of an influencing variable, reference is made to the <i>Handbook of Control Engineering</i>, Lutz, H.; Wendt, W. Verlag Harri Deutsch, 2003. In this way, the two-phase flow is described by the parameter <u style="single">p</u> of the model M which can be used as the indicator quantity:
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>I</i><sub>33</sub><i>=<u style="single">p</u></i>(<i><u style="single">x</u>, <u style="single">u</u>, M</i>).<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0070" num="0073">Another possibility involves analysis of the spectrum of the signals detected by the vibration transducers <b>13</b>. In the design of the Coriolis mass flow rate measurement device <b>1</b>, resonant frequencies and qualities of the natural forms of the measurement tube <b>10</b> are established. The effects of mass flow rate, density and temperature and the signal-noise ratios of the vibration transducers <b>13</b> used and of the signal chain consisting of the analog processing circuit <b>17</b> and the analog-digital circuit <b>18</b> are known. Thus, in the operation of the Coriolis mass flow rate measurement device <b>1</b> for the measured process conditions a nominal spectrum of the detected signals can be established. The deviation from this spectrum or the deviation in a suitable partial frequency range of the spectrum is an indicator quantity for the noise due to the two-phase flow:</p>
+<p id="p-0071" num="0074">
+<maths id="MATH-US-00002" num="00002">
+<math overflow="scroll">
+<mrow>
+  <msub>
+    <mi>I</mi>
+    <mn>34</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mi>MW</mi>
+      <mo>&#x2061;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mo>&#xf603;</mo>
+          <mrow>
+            <mrow>
+              <munderover>
+                <mo>&#x2211;</mo>
+                <mrow>
+                  <mi>i</mi>
+                  <mo>=</mo>
+                  <mn>1</mn>
+                </mrow>
+                <mi>n</mi>
+              </munderover>
+              <mo>&#x2062;</mo>
+              <mstyle>
+                <mspace width="0.3em" height="0.3ex"/>
+              </mstyle>
+              <mo>&#x2062;</mo>
+              <mrow>
+                <mi>DFT</mi>
+                <mo>&#x2061;</mo>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow>
+                    <mi>x</mi>
+                    <mo>,</mo>
+                    <msub>
+                      <mi>&#x3c9;</mi>
+                      <mi>i</mi>
+                    </msub>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+              </mrow>
+            </mrow>
+            <mo>-</mo>
+            <mrow>
+              <munderover>
+                <mo>&#x2211;</mo>
+                <mrow>
+                  <mi>i</mi>
+                  <mo>=</mo>
+                  <mn>1</mn>
+                </mrow>
+                <mi>n</mi>
+              </munderover>
+              <mo>&#x2062;</mo>
+              <mstyle>
+                <mspace width="0.3em" height="0.3ex"/>
+              </mstyle>
+              <mo>&#x2062;</mo>
+              <mrow>
+                <mi>DFT</mi>
+                <mo>&#x2061;</mo>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow>
+                    <munder>
+                      <mi>P</mi>
+                      <mi>_</mi>
+                    </munder>
+                    <mo>,</mo>
+                    <msub>
+                      <mi>x</mi>
+                      <munder>
+                        <mi>nom</mi>
+                        <mo>-</mo>
+                      </munder>
+                    </msub>
+                    <mo>,</mo>
+                    <msub>
+                      <mi>&#x3c9;</mi>
+                      <mi>i</mi>
+                    </msub>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+              </mrow>
+            </mrow>
+          </mrow>
+          <mo>&#xf604;</mo>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mo>.</mo>
+  </mrow>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0072" num="0075">In this connection, for example, a discrete Fourier transform (DFT) can be used to determine the spectrum. DFT (x, &#x3c9;<sub>i</sub>) is the value at the frequency o<sub>i </sub>for the signal x, DFT (<u style="single">P</u>, x<sub>nom</sub>, &#x3c9;<sub>i</sub>) is the value of the nominal spectrum computed as the DFT at the frequency o<sub>i </sub>for the nominal signal x<sub>nom </sub>and the current process conditions <u style="single">P</u>. Here, the signal x can also be a signal from one of the vibration transducers <b>13</b>, the signal of the vibration excitation or a combination of these signals.</p>
+<p id="p-0073" num="0076">A fourth group of indicator quantities is based on the transit time effects of the multiphase flow between two detection sites spaced apart from one another in the lengthwise direction of the measurement tube <b>10</b> for the resulting vibrations, here, therefore, given by the two vibration transducers <b>13</b>. Thus, at least one signal x<sub>in </sub>of the vibrations in the inlet-side half of the measurement tube <b>10</b> and a signal x<sub>out </sub>of the vibrations in the outlet side half of the measurement tube <b>10</b> are available. The noise of the individual signal or of the linking of the signals has already been used in the second group of indicator quantities. In addition, the noise of the inlet side signal can be correlated to the noise of the outlet-side signal and the transit time of the two-phase flow between the two vibration transducers <b>13</b> can be determined therefrom. From the flow velocity &#x3bd; of its medium in the measurement tube <b>10</b>, computed from the detected mass flow rate, the transit time of the medium between the vibration transducers <b>13</b> can likewise be determined. By comparing these transit times another indicator quantity is obtained which is independent of the noise which is acting at the same time on the two vibration transducers:
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>I</i><sub>41</sub><i>=f</i>(transit time(<sub>in</sub><i>, x</i><sub>out</sub>), transit time(&#x3bd;)).<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0074" num="0077">In this connection, the function f(x) is an arithmetic rule which yields a large value when the difference of the two transit times is small, and yields a small value when the difference between the two transit times is large. This can be achieved, for example, by inversion of the amount of the difference of the transit times.</p>
+<p id="p-0075" num="0078">The indicator quantities I<sub>11 </sub>to I<sub>41 </sub>all exhibit a respective value which is greater, the more pronounced the two-phase flow in the Coriolis mass flow rate measurement device <b>1</b>. However, an individual indicator quantity can have cross sensitivities against other interference of the Coriolis mass flow rate measurement device <b>1</b>. Thus, for example, the indicator quantities of the first group are also influenced by the viscosity of the flowing medium. The indicator quantities of the second group and the third group can be influenced by vibrations or pump pulsations. The indicator quantities of the fourth group can be influenced by the great difference in transit time of the carrier medium <b>20</b> and the inclusions from the second medium <b>21</b>. In order to ensure reliable detection of the two-phase flow, at least two indicator quantities are combined into a common value.</p>
+<p id="p-0076" num="0079">According to the preferred embodiment of the invention described here, linking of the indicator quantities takes place such that the individual indicator quantities are weighted in order to deliver a larger value, the greater the amplitudes of the community of indicator quantities used. Amplitudes of individual indicator quantities alone, for example, caused by the above described cross sensitivities, should not cause a major deflection.</p>
+<p id="p-0077" num="0080">This yields a value for the two-phase flow
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>ZPS=g</i>(<i>I</i><sub>11</sub><i>, . . . , I</i><sub>nm</sub>).<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0078" num="0081">In this connection, the function g( ) constitutes a suitable arithmetic rule which links the indicator quantities to one another such that the ZPS value is greater, the more pronounced the two-phase flow.</p>
+<p id="p-0079" num="0082">Examples for suitable linkage are sums of weighted powers
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>ZPS=&#x3b1;</i><sub>11</sub><i>&#xb7;I</i><sub>11</sub><sup>b</sup><sup><sub2>11</sub2></sup>+ . . . +&#x3b1;<sub>nm</sub><i>&#xb7;I</i><sub>nm</sub><sup>b</sup><sup><sub2>nm </sub2></sup><?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0080" num="0083">or products of powers
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>ZPS=I</i><sub>11</sub><sup>b</sup><sup><sub2>11</sub2></sup><i>&#xb7; . . . &#xb7;I</i><sub>nm</sub><sup>b</sup><sup><sub2>nm </sub2></sup><?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0081" num="0084">or mixed forms thereof
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>ZPS=&#x3b1;</i><sub>11</sub><i>&#xb7;I</i><sub>11</sub><sup>b</sup><sup><sub2>11</sub2></sup>+ . . . +&#x3b1;<sub>uv</sub><i>&#xb7;I</i><sub>uv</sub><sup>b</sup><sup><sub2>uv</sub2></sup>+&#x3b1;<sub>xy</sub><i>I</i><sub>xy</sub><sup>b</sup><sup><sub2>11</sub2></sup><i>&#xb7; . . . &#xb7;I</i><sub>kl</sub><sup>b</sup><sup><sub2>11</sub2></sup>+ . . . +&#x3b1;<sub>&#x3b1;&#x3b2;</sub><i>I</i><sub>&#x3b1;&#x3b2;</sub><sup>b</sup><sup><sub2>&#x3b1;&#x3b2;</sub2></sup><i>&#xb7; . . . &#xb7;I</i><sub>K&#x3bb;</sub><sup>b</sup><sup><sub2>K&#x3bb;</sub2></sup>.<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0082" num="0085">In addition, the formula g( ) can provide for linearization and/or scaling so that the ZPS value grows linearly with the state variable of the two-phase flow. Examples of these state variables for describing a two-phase flow are the mass and volumetric ratios of the two phases.</p>
+<p id="p-0083" num="0086">However, the linking can also be a complex arithmetic rule, given, for example, by a neural network or fuzzy logic algorithm. Threshold values are also possible which must be exceeded by individual indicator quantities before the indicator quantities are linked to one another. When the threshold values are not reached the ZPS value would be fixed, for example, ZPS=0.</p>
+<p id="p-0084" num="0087">In the linking of the indicator quantities, the procedure can also proceed such that several indicator quantities from a common group are used at the same time. Thus, for example the resonant frequency and therefore the controlled phase difference f<sub>AS </sub>are much more quickly variable than the vibration amplitude &#x15c;. In the arithmetic unit <b>15</b>, this is conventionally satisfied by the respective signal processing and the control circuit for the phase amplitude working with different time constants. In this way, two-phase flows, for example, depending on the flow velocity or depending on the distribution and number of inclusions of the second medium <b>21</b>, can act differently on the indicator quantities I<sub>23 </sub>and I<sub>24</sub>. With simultaneous use of the two indicator quantities, thus reliable detection can be done via a wide range of two-phase flows.</p>
+<p id="p-0085" num="0088">In general, the reliability of detection rises by expanding the linking by other independent indicator quantities. However, with water as the carrier medium <b>20</b> with inclusions of air as the second medium <b>21</b>, the value of the ZPS can be successfully determined via simple linking:
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>ZPS=I</i><sub>13</sub><i>&#xb7;I</i><sub>23 </sub><?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0086" num="0089">Research has shown that this linking is adequate for a measuring transducer <b>3</b> with a single straight measurement tube <b>10</b> for reliable detection of a two-phase flow.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US07640813-20100105-M00001.NB">
+<img id="EMI-M00001" he="6.69mm" wi="76.20mm" file="US07640813-20100105-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00002" nb-file="US07640813-20100105-M00002.NB">
+<img id="EMI-M00002" he="8.47mm" wi="76.20mm" file="US07640813-20100105-M00002.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. Process for operating a Coriolis mass flow rate measurement device, with at least one measurement tube through which a medium flows, comprising the steps of:
+<claim-text>subjecting the at least one measurement tube to vibration excitation leading to vibrations of the measurement tube,</claim-text>
+<claim-text>using both a first indicator quantity and an additional, second indicator quantity that is independent of the first indicator quantity for detection of multiphase flow,</claim-text>
+<claim-text>wherein the first indicator quantity is based on one of</claim-text>
+<claim-text>a) a quantity based on friction losses within the multiphase flow, wherein to determine a quantity based on friction losses within a multiphase flow, at least one value from the value of drive power necessary for producing vibration excitation of the at least one measurement tube, drive amplitude, resulting vibration amplitude and at least one quantity derived from at least one of said values is evaluated,</claim-text>
+<claim-text>b) a quantity based on inhomogeneity of the multiphase flow, wherein a quantity based on the inhomogeneity of the multiphase flow is obtained from noise of an internal signal of the Coriolis mass flow rate measurement device and wherein the internal signal of the Coriolis mass flow rate measurement device is at least one value from the values of:</claim-text>
+<claim-text>a phase difference between two signals detected at detection sites spaced apart from one another in the lengthwise direction of the at least one measurement tube for the resulting vibrations, the natural frequency of the at least one measurement tube through which flow takes place, a phase difference between the vibration excitation and resulting vibrations, an instantaneous amplitude of drive power per vibration amplitude and at least one quantity derived from at least one of said values,</claim-text>
+<claim-text>c) a quantity based on modeling of the nominal behavior of the Coriolis mass flow rate measurement device, wherein the deviation of a detected signal from a signal which is expected based on modeling is used for determining one of said quantities based on modeling of the nominal behavior of the Coriolis mass flow rate measurement device, and</claim-text>
+<claim-text>d) a quantity based on transit time effects of the multiphase flow between two detection sites which are spaced apart from one another in the lengthwise direction of the at least one measurement tube for the resulting vibrations, wherein to determine such a quantity, the deviation of a computed transit time for the resulting vibrations based on the determined mass flow rate is determined by the transit time determined for the multiphase flow, and</claim-text>
+<claim-text>wherein the second indicator quantity is based on another of said quantities a)-d).</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. Process in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said at least one quantity derived from at least one of said values is at least one the mass flow rate through the measurement tube and the density of the flowing medium.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. Process in accordance with <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein one of the variance, the standard deviation or the difference between a maximum value and a minimum value of a time interval is determined for at least one of said values.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. Process in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the detected signal is a signal that represents a characteristic from one of the vibration excitation of the measurement tube, the resulting vibrations of the measurement tube and at least one quantity derived from at least one of the characteristics represented by said detected signal.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. Process in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least one third indicator quantity is used for detection of the multiphase flow.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. Process in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the indicator quantities ach exhibit a value that is larger, the more pronounced the multiphase flow.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

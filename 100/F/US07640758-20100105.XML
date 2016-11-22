@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640758-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640758</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11355691</doc-number>
+<date>20060216</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>610</us-term-extension>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>25</class>
+<subclass>B</subclass>
+<main-group>45</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 62149</main-classification>
+<further-classification> 62127</further-classification>
+<further-classification> 62509</further-classification>
+</classification-national>
+<invention-title id="d0e55">Refrigerant tracking/leak detection system and method</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>665885</doc-number>
+<kind>A</kind>
+<name>De Veau</name>
+<date>19010100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>1203583</doc-number>
+<kind>A</kind>
+<name>Clark</name>
+<date>19161100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4624112</doc-number>
+<kind>A</kind>
+<name>Proctor</name>
+<date>19861100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62149</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4967567</doc-number>
+<kind>A</kind>
+<name>Proctor et al.</name>
+<date>19901100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62127</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5009076</doc-number>
+<kind>A</kind>
+<name>Winslow</name>
+<date>19910400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5161385</doc-number>
+<kind>A</kind>
+<name>Schumacher</name>
+<date>19921100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5351037</doc-number>
+<kind>A</kind>
+<name>Martell et al.</name>
+<date>19940900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>6623630</doc-number>
+<kind>B1</kind>
+<name>Staffler</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6629420</doc-number>
+<kind>B2</kind>
+<name>Renders</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6787713</doc-number>
+<kind>B2</kind>
+<name>Kuechenmeister et al.</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>7377118</doc-number>
+<kind>B2</kind>
+<name>Esslinger</name>
+<date>20080500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62149</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>2002/0121100</doc-number>
+<kind>A1</kind>
+<name>Yabuki et al.</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>19</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 62149</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62 77</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62127</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 622281</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62292</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62509</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>2</number-of-drawing-sheets>
+<number-of-figures>2</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60653424</doc-number>
+<kind>00</kind>
+<date>20050216</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060179854</doc-number>
+<kind>A1</kind>
+<date>20060817</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Esslinger</last-name>
+<first-name>Steve</first-name>
+<address>
+<city>Oak Grove</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Michael Best &#x26; Friedrich LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Zero Zone, Inc.</orgname>
+<role>02</role>
+<address>
+<city>North Prairie</city>
+<state>WI</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Jones</last-name>
+<first-name>Melvin</first-name>
+<department>3744</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A refrigeration system includes a mass of refrigerant, a reservoir containing a first portion of the mass of refrigerant, and a condenser containing a second portion of the mass of refrigerant. A first sensor is positioned to measure a first parameter of the reservoir and output a first signal indicative of the first parameter. A second sensor is positioned to measure a second parameter of the condenser and output a second signal indicative of the second parameter. A processor receives the first signal and the second signal to calculate a weight of missing refrigerant.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="184.15mm" wi="242.65mm" file="US07640758-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="243.59mm" wi="188.13mm" orientation="landscape" file="US07640758-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="235.97mm" wi="173.48mm" orientation="landscape" file="US07640758-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority to U.S. Provisional Patent Application No. 60/653,424, filed on Feb. 16, 2005, titled &#x201c;Refrigerant Tracking/Leak Detection System and Method&#x201d;, the entire content of which is incorporated herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">The present invention relates to refrigeration systems generally used in large cooling applications. More particularly, the present invention relates to a system and method for monitoring the quantity of refrigerant within the refrigeration system.</p>
+<p id="p-0004" num="0003">One method of monitoring refrigerant includes placing a mechanical float within a receiver vessel of a refrigeration system. The mechanical float provides a visual indication of the level of refrigerant within the vessel. In this case, the level of refrigerant is only viewed during servicing operations. Alternatively, the mechanical float can include an electrical output signal fed to a tracking system. The tracking system generally includes a visual display and an alarm actuated when the level of refrigerant indicates a nearly empty receiver vessel. However, this method is difficult to employ in heat exchangers such as condensers.</p>
+<p id="p-0005" num="0004">Another method of monitoring refrigerant includes an infrared leak detector. The infrared leak detector includes a sensor placed on the outer surface of refrigeration system elements (e.g. receiver vessel, piping, valves, heat exchangers). By action of an air pump, the infrared detector can sample air surrounding the refrigeration system and detect refrigerant. The presence of refrigerant in the air can indicate the existence of a leak and thus trigger an alarm.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0006" num="0005">In one embodiment, the invention provides a refrigeration system including a mass of refrigerant, a reservoir containing a first portion of the mass of refrigerant, and a condenser containing a second portion of the mass of refrigerant. A first sensor is positioned to measure a first parameter of the reservoir and output a first signal indicative of the first parameter. A second sensor is positioned to measure a second parameter of the condenser and output a second signal indicative of the second parameter. A processor is coupled to the first sensor and the second sensor to receive the first signal and the second signal. The processor is operable in response to the first signal and the second signal to calculate a weight of missing refrigerant.</p>
+<p id="p-0007" num="0006">In another embodiment, the invention provides a method of operating a refrigeration system including a quantity of refrigerant having a known weight. The method includes operating a compressor to compress at least a portion of the quantity of refrigerant and produce a flow of compressed refrigerant. The method also includes directing the flow of compressed refrigerant through a condenser to condense the flow of refrigerant, and to a reservoir to collect the flow of refrigerant. The method also includes weighing the condenser to generate a first signal indicative of the weight of the condenser and the weight of the refrigerant within the condenser, and weighing the reservoir to generate a second signal indicative of the weight of the reservoir and the weight of the refrigerant within the reservoir. The method also includes processing the first signal and the second signal to calculate a total weight of refrigerant, and comparing the calculated total weight of refrigerant to the known weight to determine a weight of lost refrigerant.</p>
+<p id="p-0008" num="0007">In another embodiment, the invention provides a refrigeration system that includes a compressor assembly operable to deliver a flow of compressed refrigerant. A condenser receives the flow of compressed refrigerant and discharging a flow of condensed refrigerant. A first sensor is coupled to the condenser and is operable to output a first signal indicative of the weight of the condenser and the refrigerant entrained therein. A reservoir is in fluid communication with the condenser to receive the flow of condensed refrigerant. A second sensor is coupled to the reservoir and is operable to output a second signal indicative of the weight of the reservoir and the refrigerant entrained therein. A processor is operable to calculate a weight of refrigerant within the refrigeration system at least partially in response to the first signal and the second signal. A passageway interconnects the condenser and the reservoir to provide fluid communication therebetween. The passageway includes a resilient portion movable in response to relative movement between the condenser and the remainder of the passageway.</p>
+<p id="p-0009" num="0008">Other aspects of the invention will become apparent by consideration of the detailed description and accompanying drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic representation of a refrigeration system embodying the invention; and</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic representation of a processing system, suitable for use with the system of <figref idref="DRAWINGS">FIG. 1</figref> and including a number of sensors.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0012" num="0011">Before any embodiments of the invention are explained in detail, it is to be understood that the invention is not limited in its application to the details of construction and the arrangement of components set forth in the following description or illustrated in the following drawings. The invention is capable of other embodiments and of being practiced or of being carried out in various ways. Also, it is to be understood that the phraseology and terminology used herein is for the purpose of description and should not be regarded as limiting. The use of &#x201c;including,&#x201d; &#x201c;comprising,&#x201d; or &#x201c;having&#x201d; and variations thereof herein is meant to encompass the items listed thereafter and equivalents thereof as well as additional items. Unless specified or limited otherwise, the terms &#x201c;mounted,&#x201d; &#x201c;connected,&#x201d; &#x201c;supported,&#x201d; and &#x201c;coupled&#x201d; and variations thereof are used broadly and encompass both direct and indirect mountings, connections, supports, and couplings. Further, &#x201c;connected&#x201d; and &#x201c;coupled&#x201d; are not restricted to physical or mechanical connections or couplings.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic representation of a refrigeration system <b>10</b> operable to measure at least a portion of a mass of refrigerant within the refrigeration system <b>10</b>, and to detect a quantity of refrigerant missing from the refrigeration system <b>10</b>. It is to be understood that other constructions of the refrigeration system <b>10</b> are possible and that the components described herein are for illustrative purposes only. Moreover, the basic operation of refrigeration systems is known by those skilled in the art and thus will not be described in detail.</p>
+<p id="p-0014" num="0013">The refrigeration system <b>10</b> includes a reservoir <b>12</b> that generally contains a portion of the mass of refrigerant. More specifically, the reservoir <b>12</b> is configured to collect the portion of the mass of refrigerant and to deliver another portion of the mass of refrigerant. The portion of the mass of refrigerant collected in the reservoir <b>12</b> is generally in a liquid state. In some modes of operation of the refrigeration system <b>10</b>, the amount of refrigerant within the reservoir <b>12</b> is substantially constant, as the reservoir <b>12</b> collects a flow of refrigerant and delivers another flow of refrigerant at a substantially equal rate. The reservoir <b>12</b> may be generally cylindrical and defines an enclosed space. Other constructions of the refrigeration system <b>10</b> can include a reservoir with different shapes or configurations. For example, in another construction, a plurality of tanks are interconnected to define the reservoir <b>12</b>.</p>
+<p id="p-0015" num="0014">The reservoir <b>12</b> shown in <figref idref="DRAWINGS">FIG. 1</figref> includes a relief valve <b>14</b>, a liquid level probe <b>16</b>, a liquid level indicator <b>18</b>, and at least two supports <b>20</b>. The relief valve <b>14</b> is generally used to release pressure from the reservoir <b>12</b> and can be operated automatically or manually. The liquid level probe <b>16</b> and the liquid level indicator <b>18</b> are used to measure and indicate the amount of refrigerant contained within the enclosed space of the reservoir <b>12</b>. The liquid level indicator <b>18</b> can incorporate a mechanical or an electrical display to indicate a value representative of the amount of refrigerant contained in the reservoir <b>12</b>.</p>
+<p id="p-0016" num="0015">The supports <b>20</b> include two or more legs that extend from the bottom of the reservoir <b>12</b> to support the reservoir <b>12</b> above a surface <b>22</b>. A sensor <b>24</b> is generally placed between the reservoir <b>12</b> and the surface <b>22</b>. For example, one sensor <b>24</b> is positioned between each support <b>20</b> and the surface <b>22</b>, as shown in <figref idref="DRAWINGS">FIG. 1</figref>. Each sensor <b>24</b>, such as a load sensor, is operable to detect at least one characteristic of the reservoir <b>12</b> and to generate a signal indicative of the at least one characteristic of the reservoir <b>12</b>. In the illustrated construction, each sensor <b>24</b> is shown between one support <b>20</b> and the surface <b>22</b> such that the generated signal is at least partially indicative of the weight of the reservoir <b>12</b> and the refrigerant entrained therein. In other constructions, one sensor <b>24</b> can be placed between the reservoir <b>12</b> and the support <b>20</b>. Moreover, the sensor <b>24</b> can be an integral part of the structure of each support <b>20</b>. In still other constructions, more than one sensor <b>24</b> can be coupled to each support <b>20</b> or to different sections of the reservoir <b>12</b>.</p>
+<p id="p-0017" num="0016">As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the refrigeration system <b>10</b> also includes two heat exchangers or evaporators <b>26</b> fluidly connected to the reservoir <b>12</b> by a first piping portion <b>28</b>. Each evaporator <b>26</b> is associated with one or more spaces to be cooled. As such, other constructions of the refrigeration system <b>10</b> can include more or fewer evaporators <b>26</b> as required. As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the evaporators <b>26</b> are each associated with an expansion valve <b>29</b> that facilitates the expansion of the refrigerant. Following expansion, the low-pressure, low-temperature refrigerant flows into the heat exchanger of the corresponding evaporator <b>26</b> to provide cooling.</p>
+<p id="p-0018" num="0017">The first piping portion <b>28</b> and other piping portions (subsequently described) generally include metal pipes (e.g. aluminum, copper, stainless steel, galvanized steel) capable of containing the mass of refrigerant at pressure. In other constructions, the pipes can be manufactured using other materials capable of supporting the mass of refrigerant. In addition, while the term &#x201c;pipe&#x201d; has been used to describe the piping portions, other constructions may use tubes or other flow passages to convey fluids through the system. As such, the terms &#x201c;pipe&#x201d; and &#x201c;piping portions&#x201d; should be interpreted broadly to include any closed device, passageway, conduit, etc. suitable for conveying fluid.</p>
+<p id="p-0019" num="0018">The first piping portion <b>28</b> includes a first flexible pipe portion <b>30</b> in relatively close proximity to the reservoir <b>12</b>, and a distribution section <b>32</b> that directs the flow of refrigerant from the reservoir <b>12</b> to the evaporators <b>26</b>. In the construction shown in <figref idref="DRAWINGS">FIG. 1</figref>, the distribution section <b>32</b> includes a liquid manifold portion that distributes refrigerant to the two evaporators <b>26</b>. In other constructions, the distribution portion <b>32</b> can define a different structure operable to feed refrigerant to a different number of evaporators <b>26</b>. Moreover, the distribution portion <b>32</b>, as well as other components illustrated in <figref idref="DRAWINGS">FIGS. 1-2</figref>, can include additional parts or sections not shown in <figref idref="DRAWINGS">FIGS. 1-2</figref>.</p>
+<p id="p-0020" num="0019">Flexible pipe portions, such as the first flexible pipe portion <b>30</b>, can be manufactured using any suitable materials or configurations capable of transporting refrigerant, and preferably include resilient properties such as being capable of flexing or moving (e.g., corrugated tubes, woven tube, etc.). In the construction shown in <figref idref="DRAWINGS">FIG. 1</figref>, the first flexible pipe portion <b>30</b> is positioned near the reservoir <b>12</b> to help isolate the weight of the reservoir <b>12</b> and the mass of refrigerant within the reservoir <b>12</b> from the first piping portion <b>28</b>. Specifically, the flexible pipe portion <b>30</b> moves in response to relative movement between the remainder of piping portion <b>28</b> and the reservoir <b>12</b>. This reduces the forces applied to the reservoir <b>12</b> by the pipe portion <b>28</b> and allows for more accurate weight measurements. It is to be understood that other flexible pipe portions subsequently described also include the same characteristics and capabilities as the first flexible pipe portion <b>30</b>. For example, flexible pipe portions can help isolate an element (e.g. reservoir <b>12</b>) from pipes connected to the element for weighing purposes.</p>
+<p id="p-0021" num="0020">In the construction shown in <figref idref="DRAWINGS">FIG. 1</figref>, the refrigeration system <b>10</b> also includes a second piping portion <b>34</b> fluidly connecting the evaporators <b>26</b> to a compressor section that includes three compressors <b>36</b> operating in a parallel configuration. Of course, other constructions may include more or fewer compressors arranged in parallel, series or a combination as required. The second piping portion <b>34</b> includes a filter <b>38</b> and a suction accumulator <b>40</b>. The compressors <b>36</b> generally receive refrigerant from the evaporators <b>26</b> and compress the refrigerant to increase the pressure of the refrigerant.</p>
+<p id="p-0022" num="0021">A third piping portion <b>42</b> fluidly connects the compressors <b>36</b> to a heat exchanger such as a condenser <b>44</b>. In the construction shown in <figref idref="DRAWINGS">FIG. 1</figref>, the third piping portion <b>42</b> includes an oil separator <b>46</b> that separates oil from the refrigerant flowing from the compressors <b>36</b>. A piping portion <b>47</b> routes the oil retrieved by the oil separator <b>46</b> back to the compressors <b>36</b> for re-use in the compressors <b>36</b>. The third piping portion <b>42</b> also includes a sub-portion of piping <b>48</b> for delivering a portion of refrigerant through a heat reclamation coil <b>50</b>. The sub-portion of piping <b>48</b> allows for the use of some of the heat produced during the compression process to heat other systems unrelated to the refrigeration system <b>10</b>. The omission of the sub-portion of piping <b>48</b> does not affect the function of the invention. As such, some constructions omit the sub-portion of piping <b>48</b>.</p>
+<p id="p-0023" num="0022">In the construction shown in <figref idref="DRAWINGS">FIG. 1</figref>, a valve <b>52</b> is used to direct the flow of refrigerant through the sub-portion of piping <b>48</b> or directly to the condenser <b>44</b>. The sub-portion of piping <b>48</b> includes two auxiliary valves <b>54</b> to help direct the flow of refrigerant. In some modes of operation, the valve <b>52</b> directs the flow of refrigerant through the sub-portion of piping <b>48</b>. In these modes of operation, the auxiliary valves <b>54</b> are generally open to allow the flow of refrigerant. In other modes of operation, the auxiliary valves <b>54</b> are closed and the valve <b>52</b> directs the flow of refrigerant directly to the condenser <b>44</b>.</p>
+<p id="p-0024" num="0023">The condenser <b>44</b> is generally configured to receive refrigerant from the compressors <b>36</b> at a first temperature and in a gaseous state, and to release refrigerant at a second temperature, lower than the first temperature, and in a liquid state. In the construction shown in <figref idref="DRAWINGS">FIG. 1</figref>, the condenser <b>44</b> includes at least two supports <b>57</b> supporting the condenser <b>44</b> on a surface <b>58</b>. At least one sensor <b>60</b> is placed between the condenser <b>44</b> and the surface <b>58</b>. For example, a sensor <b>60</b> can be placed between the condenser <b>44</b> and the support <b>57</b> or between the support <b>57</b> and the surface <b>58</b>. Similar to sensors <b>24</b>, the sensors <b>60</b> are configured to detect at least one characteristic of the condenser <b>44</b> and to generate a signal indicative of the at least one characteristic of the condenser <b>44</b>. In the construction shown in <figref idref="DRAWINGS">FIG. 1</figref>, the signal generated by each sensor <b>60</b> is at least partially indicative of the weight of the condenser <b>44</b> and the refrigerant entrained within the condenser <b>44</b>. In other constructions, the sensors <b>60</b> can be placed at a location different than adjacent to the supports <b>57</b> of the condenser <b>44</b>. In yet other constructions, the sensors <b>60</b> can be part of the structure to the condenser <b>44</b>, thus the signal generated by the sensors <b>60</b> can be indicative of other parameters of the condenser <b>44</b> (e.g. temperature, pressure, flow rate, etc.).</p>
+<p id="p-0025" num="0024">The refrigeration system <b>10</b> also includes a fourth piping portion <b>62</b> to move a flow of refrigerant from the condenser <b>44</b> to the reservoir <b>12</b>. The fourth piping portion <b>62</b> includes a second flexible pipe portion <b>64</b> in close proximity to the condenser <b>44</b>, and a third flexible pipe portion <b>65</b> in close proximity to the reservoir <b>12</b>. Additionally, the third piping portion <b>42</b> includes a fourth flexible pipe portion <b>56</b> in close proximity to the condenser <b>44</b>, as shown in <figref idref="DRAWINGS">FIG. 1</figref>. The first and third flexible pipe portions <b>30</b>, <b>65</b> cooperate with each other to help isolate the reservoir <b>12</b> from the first piping portion <b>28</b> and the fourth piping portion <b>62</b>, respectively. The second and fourth flexible pipe portions <b>64</b>, <b>56</b> cooperate with each other to help isolate the condenser <b>44</b> from the third piping portion <b>42</b> and the fourth piping portion <b>62</b>, respectively. Isolating the reservoir <b>12</b> and the condenser <b>44</b> using the first, second, third, and fourth flexible pipe portions <b>30</b>, <b>64</b>, <b>65</b>, <b>56</b> generally helps sensors <b>24</b>, <b>60</b> generate signals that, when processed, more accurately indicate the weight of the reservoir <b>12</b>, the condenser <b>44</b>, and the refrigerant entrained therein.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic representation of a processing system <b>66</b> including a signal conditioner <b>68</b>, an input board <b>70</b>, and a rack controller <b>72</b>. The sensors <b>24</b>, <b>60</b> are electrically connected to the signal conditioner <b>68</b>. The signal conditioner <b>68</b> receives signals generated by the sensors <b>24</b>, <b>60</b>, filters the signals, and generates output signals to be sent to the input board <b>70</b>. Filtering the signals generally includes applying a low pass filter to the signals generated by the sensors <b>24</b>, <b>60</b> to reduce noise, though other processes are possible. Some constructions can include wirelessly connecting the sensors <b>24</b>, <b>60</b> to the signal conditioner <b>68</b>. Other suitable means to send the signals generated by sensors <b>24</b>, <b>60</b> to the signal conditioner <b>68</b> are also within the scope of the invention.</p>
+<p id="p-0027" num="0026">The input board <b>70</b> relays the output signals to the rack controller <b>72</b> for processing, recording, transmitting, etc. In the construction shown in <figref idref="DRAWINGS">FIG. 2</figref>, the processing system <b>66</b> also includes a first remote computer <b>74</b> and a second remote computer <b>76</b>. For example, the first remote computer <b>74</b> can include additional processing tools to process signals from the rack controller <b>72</b> in relation to the signals generated by the sensors <b>24</b>, <b>60</b>. Additionally, the rack controller <b>72</b> connects to the second remote computer <b>76</b> via a modem <b>78</b> to perform operations similar to those performed by the first remote computer <b>74</b>. In this case, the second remote computer <b>76</b> can be placed at a different physical location than the rest of the elements of the processing system <b>66</b>. In some constructions, the processing system <b>66</b> is part of other automated systems operating the refrigeration system <b>10</b>. Moreover, the processing system <b>66</b> can have other configurations than the one shown in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0028" num="0027">In one mode of operation, the processing system <b>66</b> receives the signals generated by the sensors <b>24</b>, <b>60</b> for processing and analysis. The signals are processed and analyzed to determine a weight of refrigerant within the reservoir <b>12</b> and a weight of refrigerant within the condenser <b>44</b>. Some of the processes of the processing system <b>66</b> include filtering, amplification, recording, and comparing. More particularly, the processing system <b>66</b> can combine the calculated weight of refrigerant within the reservoir <b>12</b> and the calculated weight of refrigerant within the condenser <b>44</b> to compare it to a predetermined value. The predetermined value, generally indicating an actual weight of refrigerant within the reservoir <b>12</b> and the condenser <b>44</b>, can be automatically calculated by the processing system <b>66</b> at a start up procedure or manually recorded by a user or technician. The predetermined value can also be a desired weight of refrigerant within the reservoir <b>12</b> and the condenser <b>44</b>. Comparing the predetermined value to the calculated weights of refrigerant allows the processing system to determine a quantity or weight of missing refrigerant. In other modes of operation, the signals generated by the sensors <b>24</b>, <b>60</b> can be processed and manipulated by the processing system <b>66</b> to determine other characteristics of the refrigeration system <b>10</b>.</p>
+<p id="p-0029" num="0028">In general, the value indicative of the combined weight of refrigerant within the reservoir <b>12</b> and the condenser <b>44</b> is substantially constant under relatively stable operating conditions of the refrigeration system <b>10</b>. The processing system <b>66</b> can continuously or periodically (e.g. once per millisecond, once per minute, every hour, etc.) monitor the weight of refrigerant within the reservoir <b>12</b> and the condenser <b>44</b>. When the calculated weight of refrigerant changes to a value out of a predetermined range, the processing system <b>66</b> can initiate an alarm (e.g., audible, visual, written, etc.) indicating a possible undesired condition of the refrigeration system <b>10</b>. Events that generally disrupt stable operating conditions of the refrigeration system <b>10</b>, and thus produce undesired refrigerant conditions, include refrigerant leaks and sudden changes in ambient temperature. For example, in some cases the amount of refrigerant within the reservoir <b>12</b> combined with the amount of refrigerant within the condenser <b>44</b> represents a fixed percentage of the total amount of refrigerant within the refrigeration system <b>10</b>. In these cases, the calculated amount of missing refrigerant exceeding a predetermined range may be indicative of a refrigerant leak.</p>
+<p id="p-0030" num="0029">Various features and advantages of the invention are set forth in the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A refrigeration system comprising:
+<claim-text>a mass of refrigerant;</claim-text>
+<claim-text>a reservoir containing a first portion of the mass of refrigerant;</claim-text>
+<claim-text>a condenser containing a second portion of the mass of refrigerant;</claim-text>
+<claim-text>a first sensor positioned to measure a first parameter of the reservoir and output a first signal indicative of the first parameter;</claim-text>
+<claim-text>a second sensor positioned to measure a second parameter of the condenser and output a second signal indicative of the second parameter; and</claim-text>
+<claim-text>a processor coupled to the first sensor and the second sensor to receive the first signal and the second signal, the processor operable in response to the first signal and the second signal to calculate a weight of missing refrigerant, wherein the first parameter is indicative of the weight of the reservoir, and the second parameter is indicative of the weight of the condenser.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The refrigeration system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising an evaporator, a compressor, and a piping system fluidly connecting the reservoir, the condenser, the evaporator, and the compressor, the piping system including a first resilient portion fluidly connected to the reservoir, and a second resilient portion fluidly connected to the condenser.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A refrigeration system comprising:
+<claim-text>a mass of refrigerant;</claim-text>
+<claim-text>a reservoir containing a first portion of the mass of refrigerant;</claim-text>
+<claim-text>a condenser containing a second portion of the mass of refrigerant;</claim-text>
+<claim-text>a first sensor positioned to measure a first parameter of the reservoir and output a first signal indicative of the first parameter;</claim-text>
+<claim-text>a second sensor positioned to measure a second parameter of the condenser and output a second signal indicative of the second parameter;</claim-text>
+<claim-text>a processor coupled to the first sensor and the second sensor to receive the first signal and the second signal, the processor operable in response to the first signal and the second signal to calculate a weight of missing refrigerant; and</claim-text>
+<claim-text>an evaporator, a compressor, and a piping system fluidly connecting the reservoir, the condenser, the evaporator, and the compressor, the piping system including a first resilient portion fluidly connected to the reservoir, and a second resilient portion fluidly connected to the condenser, wherein the first resilient portion moves in response to a change in the relative position between a portion of the piping system and the reservoir.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A refrigeration system comprising:
+<claim-text>a mass of refrigerant;</claim-text>
+<claim-text>a reservoir containing a first portion of the mass of refrigerant;</claim-text>
+<claim-text>a condenser containing a second portion of the mass of refrigerant;</claim-text>
+<claim-text>a first sensor positioned to measure a first parameter of the reservoir and output a first signal indicative of the first parameter;</claim-text>
+<claim-text>a second sensor positioned to measure a second parameter of the condenser and output a second signal indicative of the second parameter;</claim-text>
+<claim-text>a processor coupled to the first sensor and the second sensor to receive the first signal and the second signal, the processor operable in response to the first signal and the second signal to calculate a weight of missing refrigerant; and</claim-text>
+<claim-text>an evaporator, a compressor, and a piping system fluidly connecting the reservoir, the condenser, the evaporator, and the compressor, the piping system including a first resilient portion fluidly connected to the reservoir, and a second resilient portion fluidly connected to the condenser, wherein the second resilient portion moves in response to a change in the relative position between a portion of the piping system and the condenser.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The refrigeration system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a data storage device operable to store a weight value indicative of the weight of at least one of the reservoir and the condenser, the data storage device in communication with the processor.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The refrigeration system of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the processor compares the weight value to the sum of the sensed weight of the reservoir and the sensed weight of the condenser to determine the weight of missing refrigerant.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The refrigeration system of <claim-ref idref="CLM-00006">claim 6</claim-ref>, further comprising an alarm operable in one of an actuated and non-actuated state, the alarm transitioning from the non-actuated to the actuated state in response to the calculated weight of missing refrigerant exceeding a predetermined value.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The refrigeration system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a signal conditioner manipulating the first and second signals.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The refrigeration system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first sensor and the second sensor are each operable to measure a weight and generate a signal indicative of the measured weight.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A method of operating a refrigeration system including a quantity of refrigerant having a known weight, the method comprising:
+<claim-text>operating a compressor to compress at least a portion of the quantity of refrigerant and produce a flow of compressed refrigerant;</claim-text>
+<claim-text>directing the flow of compressed refrigerant through a condenser to condense the flow of refrigerant and to a reservoir to collect the flow of refrigerant;</claim-text>
+<claim-text>weighing the condenser to generate a first signal indicative of the weight of the condenser and the weight of the refrigerant within the condenser;</claim-text>
+<claim-text>weighing the reservoir to generate a second signal indicative of the weight of the reservoir and the weight of the refrigerant within the reservoir;</claim-text>
+<claim-text>processing the first signal and the second signal to calculate a total weight of refrigerant; and</claim-text>
+<claim-text>comparing the calculated total weight of refrigerant to the known weight to determine a weight of lost refrigerant.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method of <claim-ref idref="CLM-00010">claim 10</claim-ref>, further comprising recording a value indicative of the weight of lost refrigerant.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method of <claim-ref idref="CLM-00010">claim 10</claim-ref>, further comprising actuating an alarm in response to the weight of lost refrigerant exceeding a predetermined value.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein processing the first signal and the second signal includes
+<claim-text>converting the first signal to a first measured weight,</claim-text>
+<claim-text>converting the second signal to a second measured weight, and</claim-text>
+<claim-text>adding the first measured weight to the second measured weight.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method of <claim-ref idref="CLM-00010">claim 10</claim-ref>, further comprising moving a first resilient portion fluidly connected to the reservoir in response to relative movement between the reservoir and a portion of piping.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The method of <claim-ref idref="CLM-00014">claim 14</claim-ref>, further comprising moving a second resilient portion fluidly connected to the condenser in response to relative movement between the condenser and a portion of piping.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. A refrigeration system comprising:
+<claim-text>a compressor assembly operable to deliver a flow of compressed refrigerant;</claim-text>
+<claim-text>a condenser receiving the flow of compressed refrigerant and discharging a flow of condensed refrigerant;</claim-text>
+<claim-text>a first sensor coupled to the condenser and operable to output a first signal indicative of the weight of the condenser and the refrigerant entrained therein;</claim-text>
+<claim-text>a reservoir in fluid communication with the condenser to receive the flow of condensed refrigerant;</claim-text>
+<claim-text>a second sensor coupled to the reservoir and operable to output a second signal indicative of the weight of the reservoir and the refrigerant entrained therein;</claim-text>
+<claim-text>a processor operable to calculate a weight of refrigerant within the refrigeration system at least partially in response to the first signal and the second signal; and</claim-text>
+<claim-text>a passageway interconnecting the condenser and the reservoir to provide fluid communication therebetween, the passageway including a resilient portion movable in response to relative movement between the condenser and the remainder of the passageway.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The refrigeration system of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the processor is operable to compare the calculated weight to a known weight to determine a weight of lost refrigerant.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The refrigeration system of <claim-ref idref="CLM-00017">claim 17</claim-ref>, further comprising an alarm transitionable from a non-alarm condition to an alarm condition in response to the weight of lost refrigerant exceeding a predetermined value.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The refrigeration system of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the resilient portion is disposed adjacent the condenser, the passageway further comprising a second resilient portion disposed adjacent the condenser and movable in response to relative movement between the condenser and the remainder of the passageway. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

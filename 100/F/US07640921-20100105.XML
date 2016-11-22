@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640921-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640921</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10599453</doc-number>
+<date>20041122</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2004-110043</doc-number>
+<date>20040402</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>02</class>
+<subclass>M</subclass>
+<main-group>29</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>123590</main-classification>
+</classification-national>
+<invention-title id="d0e61">Fuel supply apparatus and vehicle provided with the same</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2907557</doc-number>
+<kind>A</kind>
+<name>Coanda</name>
+<date>19591000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>261 781</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3050376</doc-number>
+<kind>A</kind>
+<name>Bishop et al.</name>
+<date>19620800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>422168</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3374777</doc-number>
+<kind>A</kind>
+<name>Walker</name>
+<date>19680300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>123325</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3868936</doc-number>
+<kind>A</kind>
+<name>Rivere</name>
+<date>19750300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>123445</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4016845</doc-number>
+<kind>A</kind>
+<name>Marsee</name>
+<date>19770400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>123548</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4315491</doc-number>
+<kind>A</kind>
+<name>Takeda</name>
+<date>19820200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>123478</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5146897</doc-number>
+<kind>A</kind>
+<name>Hattori et al.</name>
+<date>19920900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>6827064</doc-number>
+<kind>B2</kind>
+<name>Akagi et al.</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>7198032</doc-number>
+<kind>B2</kind>
+<name>Taguchi et al.</name>
+<date>20070400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>123470</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2004/0079337</doc-number>
+<kind>A1</kind>
+<name>Akagi et al.</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2005/0205067</doc-number>
+<kind>A1</kind>
+<name>Koide et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>EP</country>
+<doc-number>1398498</doc-number>
+<kind>A1</kind>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>EP</country>
+<doc-number>1580422</doc-number>
+<kind>A1</kind>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>JP</country>
+<doc-number>57-073858</doc-number>
+<date>19820500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>JP</country>
+<doc-number>58-035266</doc-number>
+<date>19830300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>JP</country>
+<doc-number>61-053565</doc-number>
+<date>19860400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>JP</country>
+<doc-number>64-036653</doc-number>
+<date>19890300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>JP</country>
+<doc-number>01-300061</doc-number>
+<date>19891200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>JP</country>
+<doc-number>03-082875</doc-number>
+<date>19910800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>JP</country>
+<doc-number>09-126101</doc-number>
+<date>19970500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>JP</country>
+<doc-number>10-205410</doc-number>
+<date>19980800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>JP</country>
+<doc-number>10-281042</doc-number>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>JP</country>
+<doc-number>2000-097131</doc-number>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00024">
+<othercit>European search report for corresponding European application 04821892 lists the references above.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>30</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-exemplary-claim>2</us-exemplary-claim>
+<us-exemplary-claim>3</us-exemplary-claim>
+<us-exemplary-claim>4</us-exemplary-claim>
+<us-exemplary-claim>5</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>123445</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123472</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123590</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123548</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123 65 V</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123 41 R</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123456</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123468</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123 4131</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>12319014</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>1231799</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123294</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123540</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123545</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123 38</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123298</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123587</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123 73 V</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>277591</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>261 65</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2391022</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2395333</main-classification>
+</classification-national>
+<us-classifications-ipcr>F02M 29/00</us-classifications-ipcr>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>14</number-of-drawing-sheets>
+<number-of-figures>16</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070289583</doc-number>
+<kind>A1</kind>
+<date>20071220</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Konakawa</last-name>
+<first-name>Tsugunori</first-name>
+<address>
+<city>Shizuoka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Koide</last-name>
+<first-name>Mitsutoshi</first-name>
+<address>
+<city>Shizuoka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ito</last-name>
+<first-name>Hiroaki</first-name>
+<address>
+<city>Shizuoka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ozawa</last-name>
+<first-name>Takahiro</first-name>
+<address>
+<city>Shizuoka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Hogan &#x26; Hartson LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Yamaha Hatsudoki Kabushiki Kaisha</orgname>
+<role>03</role>
+<address>
+<city>Shizuoka-Ken</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Cronin</last-name>
+<first-name>Stephen K</first-name>
+<department>3747</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Coleman</last-name>
+<first-name>Keith</first-name>
+</assistant-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2004/017366</doc-number>
+<kind>00</kind>
+<date>20041122</date>
+</document-id>
+<us-371c124-date>
+<date>20070712</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2005/100776</doc-number>
+<kind>A </kind>
+<date>20051027</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An injector bracket <b>10</b> is provided inside an air cleaner <b>5</b>. The injector bracket <b>10</b> comprises a rectifying wall <b>10</b><i>a </i>bulging into a main chamber <b>5</b><i>b</i>, and a stream-line guide wall <b>10</b><i>b </i>in opposition to an air current M having passed through an element <b>8</b>. The injector bracket <b>10</b> functions as a partition and forms a separate chamber <b>10</b><i>e </i>partitioned from the main chamber <b>5</b><i>b </i>in the air cleaner <b>5</b>. An upstream injector unit <b>7</b> is arranged in the separate chamber <b>10</b><i>e</i>. The rectifying wall <b>10</b><i>a </i>is in the form of a symmetric blade.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="113.20mm" wi="184.49mm" file="US07640921-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="203.03mm" wi="122.09mm" orientation="landscape" file="US07640921-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="209.13mm" wi="153.25mm" file="US07640921-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="159.60mm" wi="89.75mm" file="US07640921-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="61.21mm" wi="110.83mm" file="US07640921-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="183.64mm" wi="155.36mm" orientation="landscape" file="US07640921-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="219.63mm" wi="132.84mm" orientation="landscape" file="US07640921-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="218.10mm" wi="127.68mm" orientation="landscape" file="US07640921-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="137.75mm" wi="100.25mm" file="US07640921-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="146.39mm" wi="155.62mm" file="US07640921-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="196.68mm" wi="152.48mm" file="US07640921-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="144.61mm" wi="148.59mm" file="US07640921-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="178.14mm" wi="152.23mm" orientation="landscape" file="US07640921-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="217.51mm" wi="162.39mm" file="US07640921-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="141.82mm" wi="124.29mm" file="US07640921-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates to a fuel supply apparatus that supplies a fuel to an engine, and a vehicle provided with the same.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0003" num="0002">Conventionally, with general fuel supply apparatuses, a throttle valve is provided on an intake passage extending toward an engine from an air cleaner and an injector for jetting of a fuel is arranged downstream of the throttle valve in an air current direction (referred below to as &#x201c;downstream injector&#x201d;).</p>
+<p id="p-0004" num="0003">On the other hand, there is a fear that a fuel feed rate becomes short only with a downstream injector at the time of high rotation/high load of an engine. Therefore, an injector is in some cases arranged in an air cleaner connected to an upstream side of an intake passage in the air current direction (referred below to as &#x201c;upstream injector&#x201d;). In many cases, such upstream injector is provided in a state of projecting into the air cleaner in order to ensure a volume for the air cleaner and to reduce a distance between the upstream injector and an opening of the intake passage. A fuel is jetted not only from the downstream injector but also from the upstream injector at the time of high rotation/high load of the engine.</p>
+<p id="p-0005" num="0004">Such construction, that is, a construction, in which an injector is arranged in a space upstream of the intake passage, is disclosed in, for example, Patent Document 1. With the construction disclosed in Patent Document 1, an injector is mounted in a chamber connected to an upstream side of an intake pipe.</p>
+<p id="p-0006" num="0005">More specifically, with the construction disclosed in Patent Document 1, a mount seat surface for mounting of an injector is formed on a side wall of the chamber. The mount seat surface projects into the chamber and the projecting portion thereof is formed with a hole. The injector mounted to the mount seat surface jets a fuel into the chamber through the hole.</p>
+<p id="p-0007" num="0006">Patent Document 1: JP-A-7-247924</p>
+<heading id="h-0003" level="1">DISCLOSURE OF THE INVENTION</heading>
+<heading id="h-0004" level="1">Problems that the Invention is to Solve</heading>
+<p id="p-0008" num="0007">By the way, in the case where a fuel is jetted into a space upstream of an intake passage as described above, it must be taken into consideration that a fuel jetted from an upstream injector flies (referred below to as &#x201c;scatter&#x201d;) outside the intake passage due to, for example, turbulence of an air current. In particular, with a construction, in which an upstream injector projects as in Patent Document 1, the projecting portion thereof makes an air current turbulent, so that measures to suppress scattering of a fuel is essential. As such measures, it is conceivable to restrict a quantity of a fuel jetted from the upstream injector.</p>
+<p id="p-0009" num="0008">When a quantity of a fuel jetted from the upstream injector is restricted, however, there is a fear that a fuel is not sufficiently supplied to an engine. That is, although the upstream injector is arranged, there is a fear that it is not possible to accommodate to high rotation/high load of an engine.</p>
+<p id="p-0010" num="0009">The invention has been thought of in view of such point and has its object to provide a fuel supply apparatus capable of supplying a sufficient fuel even at the time of high rotation/high load of an engine to improve an engine performance, and a vehicle.</p>
+<heading id="h-0005" level="1">Means for Solving the Problems</heading>
+<p id="p-0011" num="0010">A fuel supply apparatus according to the invention comprises an intake chamber including an inlet, through which an air is introduced, and an outlet, through which the introduced air is led to an engine, a rectifying member that rectifies an air current flowing from the inlet in the intake chamber to the outlet, and an injector that jets a fuel to the air current in the intake chamber.</p>
+<p id="p-0012" num="0011">With the fuel supply apparatus, an air current flowing from the inlet in the intake chamber to the outlet is rectified by the rectifying member. The injector jets a fuel to the rectified air current. Therefore, a fuel together with the air current flows smoothly into the outlet, so that scattering of a fuel is suppressed. Also, since scattering of a fuel is suppressed even when a distance between the injector and the outlet is large, it is possible to promote atomization of a fuel making use of a space in the intake chamber. Accordingly, it is possible to supply a sufficient fuel even at the time of high rotation/high load of an engine to improve an engine performance.</p>
+<heading id="h-0006" level="1">Effect of the Invention</heading>
+<p id="p-0013" num="0012">According to the invention, since it is possible to promote atomization of a fuel jetted from an injector and to supply a sufficient fuel to an engine, it is possible to improve an engine performance even at the time of high rotation/high load of an engine.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0007" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 1</figref> is a side view showing a vehicle according to an embodiment of the invention.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 2</figref> is a cross sectional view showing the construction of a fuel supply apparatus according to a first embodiment of the invention.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 3</figref> is a cross sectional view taken along the line III-III in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 4</figref> is a cross sectional view taken along the line IV-IV in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 5</figref> is a view showing an air current around a rectifying wall.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 6</figref> is a perspective view showing an essential part in a main chamber according to the first embodiment.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 7</figref> is a view showing an interior of the main chamber according to the first embodiment as viewed from forwardly upwardly of a vehicle.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 8</figref> is a view showing an interior of a main chamber according to a further embodiment as viewed from forwardly upwardly of a vehicle.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 9</figref> is a view showing a rectifying wall according to a modification and corresponding to <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 10</figref> is a view showing a rectifying wall according to a further modification and corresponding to <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 11</figref> is a plan view showing a fuel supply apparatus according to a second embodiment.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 12</figref> is a cross sectional view taken along the line XII-XII in <figref idref="DRAWINGS">FIG. 11</figref>.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 13</figref> is a cross sectional view taken along the line XIII-XIII in <figref idref="DRAWINGS">FIG. 11</figref>.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 14</figref> is a perspective view showing an essential part in a main chamber according to the second embodiment.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 15</figref> is a cross sectional view showing a fuel supply apparatus according to a third embodiment.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 16</figref> is a partial, cross sectional view showing a fuel supply apparatus according to a fourth embodiment.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0008" level="1">DESCRIPTION OF REFERENCE NUMERALS AND SIGNS</heading>
+<p id="p-0030" num="0000">
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0029"><b>4</b><i>b</i>: intake port (inlet)</li>
+    <li id="ul0001-0002" num="0030"><b>4</b><i>e</i>: through-hole (outlet)</li>
+    <li id="ul0001-0003" num="0031"><b>5</b>: air cleaner (intake chamber)</li>
+    <li id="ul0001-0004" num="0032"><b>5</b><i>b</i>: main chamber</li>
+    <li id="ul0001-0005" num="0033"><b>9</b>: intake passage</li>
+    <li id="ul0001-0006" num="0034"><b>10</b>: injector bracket (partition)</li>
+    <li id="ul0001-0007" num="0035"><b>10</b><i>a</i>: rectifying wall (rectifying member)</li>
+    <li id="ul0001-0008" num="0036"><b>10</b><i>b</i>: guide wall</li>
+    <li id="ul0001-0009" num="0037"><b>10</b><i>e</i>: separate chamber</li>
+    <li id="ul0001-0010" num="0038"><b>10</b><i>g</i>: through-hole</li>
+    <li id="ul0001-0011" num="0039"><b>10</b><i>j</i>: wide portion</li>
+    <li id="ul0001-0012" num="0040"><b>10</b><i>k</i>: extension wall (rectifying member)</li>
+    <li id="ul0001-0013" num="0041"><b>13</b>: engine</li>
+    <li id="ul0001-0014" num="0042"><b>14</b>: upstream injector (injector)</li>
+    <li id="ul0001-0015" num="0043"><b>14</b><i>e</i>: nozzle</li>
+    <li id="ul0001-0016" num="0044"><b>20</b>: air funnel</li>
+    <li id="ul0001-0017" num="0045"><b>20</b><i>a</i>: opening</li>
+</ul>
+</p>
+<heading id="h-0009" level="1">BEST MODE FOR CARRYING OUT THE INVENTION</heading>
+<heading id="h-0010" level="1">First Embodiment</heading>
+<p id="p-0031" num="0046">An embodiment of the invention will be described below in detail with reference to the drawings.</p>
+<p id="p-0032" num="0047"><figref idref="DRAWINGS">FIG. 1</figref> is a side view showing an example of a vehicle according to the embodiment of the invention. The vehicle according to the embodiment comprises a motorcycle (including motorbikes, scooters, etc.). In the figure, the left indicates the front of a vehicle and the right indicates the rear of a vehicle. In addition, front and rear, and left and right referred to in the specification of the present application mean front and rear, and left and right with a person, who rides a vehicle, as reference.</p>
+<p id="p-0033" num="0048">The motorcycle comprises an inlet port <b>1</b>, through which an air is taken, an air cleaner <b>5</b>, an engine <b>13</b>, and a muffler <b>17</b>. The inlet port <b>1</b> and the air cleaner <b>5</b> are connected to each other through an intake duct <b>3</b>. The air cleaner <b>5</b> and a combustion chamber <b>13</b><i>c </i>(not shown in <figref idref="DRAWINGS">FIG. 1</figref>. see <figref idref="DRAWINGS">FIG. 2</figref>) of the engine <b>13</b> are connected to each other through intake passages <b>9</b>. The combustion chamber <b>13</b><i>c </i>and the muffler <b>17</b> are connected to each other through an exhaust passage <b>15</b>. Upstream injector units <b>7</b> are arranged in the air cleaner <b>5</b> and downstream injector units <b>11</b> are arranged in the intake passages <b>9</b>.</p>
+<p id="p-0034" num="0049">In the motorcycle, an air sucked from the inlet port <b>1</b> passes through the intake duct <b>3</b> to be led to the air cleaner <b>5</b>. An air purified by the air cleaner <b>5</b> and a fuel jetted from the upstream injector units <b>7</b> are sucked into the intake passages <b>9</b>. In the intake passages <b>9</b>, a fuel is further jetted from the downstream injector units <b>1</b>. An air and a fuel in the intake passages <b>9</b> are supplied to the combustion chambers <b>13</b><i>c </i>in the intake stroke of the engine <b>13</b>. In addition, the engine <b>13</b> in the embodiment is a water-cooling type 4-cycle parallel 4-cylinder engine. Accordingly, the intake passages <b>9</b> are provided four in number.</p>
+<p id="p-0035" num="0050">An air and a fuel supplied to the combustion chambers <b>13</b><i>c </i>are compressed in the compression stroke, burnt in the combustion stroke, and then fed to the exhaust passage <b>15</b> in the exhaust stroke. Exhaust gases fed to the exhaust passage <b>15</b> is exhausted outside through the muffler <b>17</b>.</p>
+<p id="p-0036" num="0051">In the following descriptions, an upstream sense in an air current direction of an air passing through the air cleaner <b>5</b> and the intake passages <b>9</b> from the inlet port <b>1</b> to reach the combustion chambers <b>13</b><i>c </i>of the engine <b>13</b> is referred simply to as upstream and a downstream sense in the air current direction is referred simply to as downstream.</p>
+<p id="p-0037" num="0052"><figref idref="DRAWINGS">FIG. 2</figref> is a cross sectional view showing the construction of a fuel supply apparatus. The left and the right in <figref idref="DRAWINGS">FIG. 2</figref> indicate the front and the rear of a vehicle. The fuel supply apparatus comprises the air cleaner <b>5</b>, the upstream injector units <b>7</b>, the intake passages <b>9</b>, and the downstream injector units <b>11</b>.</p>
+<p id="p-0038" num="0053">The air cleaner <b>5</b> comprises an upper casing <b>2</b>, a lower casing <b>4</b>, an intake port cover <b>6</b>, an element <b>8</b>, and an injector bracket <b>10</b>.</p>
+<p id="p-0039" num="0054">The upper casing <b>2</b> forms an upper, outer shell of the air cleaner <b>5</b>. A recess <b>2</b><i>a </i>is provided on a front portion of a peripheral edge of the upper casing <b>2</b> and a recess <b>2</b><i>d </i>is provided on a rear portion of the peripheral edge thereof. Mounts <b>2</b><i>b</i>, <b>2</b><i>c </i>for mounting of the injector bracket <b>10</b> are formed on the back side of an upper inner surface of the upper casing <b>2</b> and in the vicinity of the recess <b>2</b><i>d. </i></p>
+<p id="p-0040" num="0055">The lower casing <b>4</b> forms a lower, outer shell of the air cleaner <b>5</b>. A projection <b>4</b><i>a </i>and a projection <b>4</b><i>d</i>, respectively, are formed on a peripheral edge of the lower casing <b>4</b>. The projections <b>4</b><i>a</i>, <b>4</b><i>d</i>, respectively, are fitted into the recesses <b>2</b><i>a</i>, <b>2</b><i>d </i>of the upper casing <b>2</b>. Thereby, the upper casing <b>2</b> and the lower casing <b>4</b> are fixed to each other. Fitting portions of the upper casing <b>2</b> and the lower casing <b>4</b> are sealed by a sealing member, so that airtightness in the air cleaner <b>5</b> is kept.</p>
+<p id="p-0041" num="0056">An intake port <b>4</b><i>b </i>for introduction of an air from the intake duct <b>3</b> is formed on the front of a bottom surface of the lower casing <b>4</b>. Also, an inner wall <b>4</b><i>f </i>is provided forward in the lower casing <b>4</b> to be extended to an interior of the air cleaner <b>5</b> from the intake port <b>4</b><i>b</i>. An interior of the air cleaner <b>5</b> is divided into a front chamber <b>5</b><i>a </i>forwardly of the inner wall <b>4</b><i>f </i>and a main chamber <b>5</b><i>b </i>rearwardly of the inner wall <b>4</b><i>f </i>by the inner wall <b>4</b><i>f</i>. An air introduced from the intake port <b>4</b><i>b </i>is mainly led to an interior of the main chamber <b>5</b><i>b</i>. An air led to the main chamber <b>5</b><i>b </i>flows toward the intake passages <b>9</b>. Consequently, an air current M is formed in the interior of the air cleaner <b>5</b> to be directed toward the intake passages <b>9</b> from the intake port <b>4</b><i>b. </i></p>
+<p id="p-0042" num="0057">An element <b>8</b> is arranged in the main chamber <b>5</b><i>b</i>. An upper end <b>8</b><i>a </i>of the element <b>8</b> is fixed to an upper end of the inner wall <b>4</b><i>f </i>by a bolt <b>12</b>. A lower end <b>8</b><i>b </i>of the element <b>8</b> is fitted into a groove <b>4</b><i>c </i>of the lower casing <b>4</b>. Further, through-holes <b>4</b><i>e </i>are formed on a lower, inner surface rearwardly of the groove <b>4</b><i>c </i>of the lower casing <b>4</b> to permit the intake passages <b>9</b> to be inserted therethrough. As described above, since the fuel supply apparatus comprises four intake passages <b>9</b>, four through-holes <b>4</b><i>e </i>are formed on the lower casing <b>4</b>. While being not shown, the through-holes <b>4</b><i>e </i>are aligned in a left and right direction of a vehicle (a front-back direction of a plane in <figref idref="DRAWINGS">FIG. 2</figref>).</p>
+<p id="p-0043" num="0058">The intake port cover <b>6</b> has, for example, a lattice shape on a surface thereof and covers the intake port <b>4</b><i>b </i>formed on the lower casing <b>4</b>. The intake port cover <b>6</b> permits an air, which flows through the intake duct <b>3</b>, to be introduced into the intake port <b>4</b><i>b </i>and prevents large-diameter foreign matters from entering the intake port <b>4</b><i>b. </i></p>
+<p id="p-0044" num="0059">The element <b>8</b> removes dirt and impurities of small diameter contained in an air introduced into the intake port <b>4</b><i>b </i>to purify an air.</p>
+<p id="p-0045" num="0060">The injector bracket <b>10</b> comprises rectifying walls <b>10</b><i>a</i>, which bulge forward (a leftward direction in <figref idref="DRAWINGS">FIG. 2</figref>) into the main chamber <b>5</b><i>b</i>, and guide walls <b>10</b><i>b </i>in opposition to the air current M having passed through the element <b>8</b> (see <figref idref="DRAWINGS">FIG. 6</figref>). The injector bracket <b>10</b> functions as a partition and forms a separate chamber <b>10</b><i>e </i>in the air cleaner <b>5</b> to be separate from the main chamber <b>5</b><i>b</i>. The upstream injector units <b>7</b> are arranged in the separate chambers <b>10</b><i>e</i>. The upstream injector units <b>7</b> comprise an upstream injector <b>14</b>, a fuel pipe <b>16</b>, and an electric power supplying harness <b>18</b>. Accordingly, the upstream injectors <b>14</b> are mounted in the air cleaner <b>5</b>. In the fuel supply apparatus, all portions of the upstream injectors <b>14</b> are disposed in an interior of a chamber positioned in the air cleaner <b>5</b>. However, only portions of the upstream injectors <b>14</b> may be arranged in the air cleaner <b>5</b>.</p>
+<p id="p-0046" num="0061">By the way, since the upstream injectors <b>14</b> have an irregular shape (in other words, a shape having many irregularities), the air current M is made turbulent by the upstream injectors <b>14</b> when the upstream injectors <b>14</b> are caused to project into the main chamber <b>5</b><i>b</i>. On the other hand, when the upstream injectors <b>14</b> are caused not to project into the air current M (in other words, centrally in the flow passage) and arranged in an upper region so as to be clear of the air current M, it is possible to first suppress turbulence of the air current M. In this case, however, members such as the fuel pipe <b>16</b>, etc. project above the upper casing <b>2</b>, so that it is not possible to achieve miniaturization of the apparatus. Further, when a distance between the nozzle <b>14</b><i>a </i>of the upstream injector <b>14</b> and an opening <b>20</b><i>a </i>of an air funnel <b>20</b> described later becomes excessively large, there is a fear that a fuel jetted from the nozzle <b>14</b><i>a </i>flies around the opening <b>20</b><i>a </i>even when the air current is not turbulent in the main chamber <b>5</b><i>b. </i></p>
+<p id="p-0047" num="0062">Hereupon, according to the embodiment, the upstream injectors <b>14</b> are caused to project into the flow passage of the air current M and the rectifying walls <b>10</b><i>a </i>described above cover the projecting upstream injectors <b>14</b> whereby the upstream injectors <b>14</b> are prevented from becoming an obstacle to make the air current M turbulent. Also, by appropriately adjusting distances between the nozzles <b>14</b><i>a </i>of the upstream injectors <b>14</b> and the openings <b>20</b><i>a </i>of the air funnels <b>20</b>, a fuel is prevented from flying around the openings <b>20</b><i>a</i>. In addition, the rectifying walls <b>10</b><i>a </i>are provided corresponding to the intake passages <b>9</b>. Therefore, four rectifying walls <b>10</b><i>a </i>are provided according to the embodiment (see <figref idref="DRAWINGS">FIG. 6</figref>).</p>
+<p id="p-0048" num="0063">The guide walls <b>10</b><i>b </i>are walls formed between the rectifying walls <b>10</b><i>a </i>and the guide walls <b>10</b><i>b </i>are shaped to have a stream-line cross section. As shown in <figref idref="DRAWINGS">FIG. 2</figref>, the guide walls <b>10</b><i>b </i>comprises an upper end <b>10</b><i>c</i>, a curved wall extended substantially vertically downward from the upper end <b>10</b><i>c </i>and curved rearward, a support end <b>10</b><i>d </i>extended rearward from the curved wall and bent substantially upward, and an extension wall <b>10</b><i>k </i>curved in an opposite direction to the curved wall and extended substantially vertically downward. A lower end <b>10</b><i>i </i>of the extension wall <b>10</b><i>k </i>is positioned in the vicinity of an end of the opening <b>20</b><i>a </i>of the air funnel <b>20</b>.</p>
+<p id="p-0049" num="0064">As described above, the guide walls <b>10</b><i>b </i>are provided in opposition to the air current M having passed through the element <b>8</b> and guide the air current M to the openings <b>20</b><i>a</i>. Thereby, turbulence of the air current M can be suppressed between the rectifying walls <b>10</b><i>a </i>and the air current M in the whole main chamber <b>5</b><i>b </i>can be stabilized.</p>
+<p id="p-0050" num="0065">In addition, the guide walls <b>10</b><i>b </i>may be shortened in a vertical direction so that the lower end <b>10</b><i>i </i>is at the same level as that of the lowermost, transverse walls of the rectifying walls <b>10</b><i>a</i>. That is, the extension wall <b>10</b><i>k </i>can be omitted. In this case, a rear wall of the lower casing <b>4</b> functions as a guide wall in a region below the lower end <b>10</b><i>i</i>. In this case, preferably, the air funnels <b>20</b> are arranged in positions close to the rear wall and a rear end wall of the lower casing <b>4</b> is made close to the openings <b>20</b><i>a </i>of the air funnels <b>20</b>.</p>
+<p id="p-0051" num="0066">According to the embodiment, however, spaces <b>40</b> are formed between the extension walls <b>10</b><i>k </i>and the back wall of the lower casing <b>4</b> by providing the extension walls <b>10</b><i>k </i>inwardly of the rear wall of the lower casing <b>4</b>. In other words, the spaces <b>40</b> are formed radially outwardly of the openings <b>20</b><i>a </i>of the air funnels <b>20</b>.</p>
+<p id="p-0052" num="0067">The injector bracket <b>10</b> is fixed to the upper casing <b>2</b>. More specifically, the upper end <b>10</b><i>c </i>of the guide walls <b>10</b><i>b </i>is mounted to the mount <b>2</b><i>b </i>of the upper casing <b>2</b> and the support ends <b>10</b><i>d </i>of the guide walls <b>10</b><i>b </i>are mounted to the mount <b>2</b><i>c </i>of the upper casing <b>2</b>. Mount portions of the upper casing <b>2</b> and the injector bracket <b>10</b> are also sealed by a sealing member, so that airtightness in the main chamber <b>5</b><i>b </i>is kept.</p>
+<p id="p-0053" num="0068">As described above, the upstream injector units <b>7</b> comprise the upstream injector <b>14</b>, the fuel pipe <b>16</b>, and the electric power supplying harness <b>18</b>.</p>
+<p id="p-0054" num="0069">The upstream injectors <b>14</b> comprise a nozzle <b>14</b><i>a</i>, the nozzles <b>14</b><i>a </i>being inserted into through-holes <b>10</b><i>g </i>provided on the rectifying walls <b>10</b><i>a</i>. Other portions than tip ends of the nozzles <b>14</b><i>a </i>of the upstream injectors <b>14</b> are received in the separate chambers <b>10</b><i>e</i>. The upstream injectors <b>14</b> are provided four in number and arranged corresponding to the four intake passages <b>9</b>, respectively. The upstream injectors <b>14</b> jet a fuel into the main chamber <b>5</b><i>b </i>from the separate chambers <b>10</b><i>e</i>. More specifically, the upstream injectors <b>14</b> jet a fuel toward the air current M having been rectified by the rectifying walls <b>10</b><i>a. </i></p>
+<p id="p-0055" num="0070">The fuel pipe <b>16</b> connects ends of the four upstream injectors <b>14</b> in the separate chambers <b>10</b><i>e </i>together. Also, one end of the fuel pipe <b>16</b> is connected to a fuel tank (not shown) A fuel is supplied to the respective upstream injectors <b>14</b> through the fuel pipe <b>16</b>.</p>
+<p id="p-0056" num="0071">The electric power supplying harness <b>18</b> extends through the upper casing <b>2</b> to be led outside to be connected to a control unit (not shown). The electric power supplying harness <b>18</b> supplies electric power to the upstream injectors <b>14</b>. The control unit transmits a signal to the upstream injectors <b>14</b> through the electric power supplying harness <b>18</b> to control an injection quantity and an injection timing of a fuel from the upstream injectors <b>14</b>.</p>
+<p id="p-0057" num="0072">The intake passages <b>9</b> comprise the air funnel <b>20</b>, a throttle body <b>22</b>, a joint member <b>32</b>, and an intake port <b>13</b><i>f </i>on the engine <b>13</b>. In addition, according to the embodiment, the four intake passages <b>9</b> are provided, so that these respective members are arranged four in number.</p>
+<p id="p-0058" num="0073">The air funnel <b>20</b> is fitted into the through-hole <b>4</b><i>e </i>of the lower casing <b>4</b> and the opening <b>20</b><i>a </i>thereof projects into the main chamber <b>5</b><i>b</i>. The air funnel <b>20</b> permits an air and a fuel in the main chamber <b>5</b><i>b </i>to be led outside the air cleaner <b>5</b> through the opening <b>20</b><i>a. </i></p>
+<p id="p-0059" num="0074"><figref idref="DRAWINGS">FIG. 6</figref> is a perspective view showing an essential portion in the main chamber <b>5</b><i>b</i>. According to the embodiment, four air funnels <b>20</b> aligned in a left and right direction of a vehicle are opened in the main chamber <b>5</b><i>b </i>as shown in <figref idref="DRAWINGS">FIG. 6</figref>. The upstream injectors <b>14</b> and the rectifying walls <b>10</b><i>a </i>covering the upstream injectors <b>14</b>, respectively, are arranged above the openings <b>20</b><i>a </i>of the respective air funnels <b>20</b>.</p>
+<p id="p-0060" num="0075">Mounts <b>36</b> for bolts are formed on a peripheral edge of the opening <b>20</b><i>a </i>of the air funnel <b>20</b>. Bolts extend through the mounts <b>36</b> to be fitted into an inner surface of a lower portion of the lower casing <b>4</b> whereby the air funnel <b>20</b> is fixed to the lower casing <b>4</b>. Thereby, the openings <b>20</b><i>a </i>of the air funnels <b>20</b> are set in predetermined positions. In addition, the four air funnels <b>20</b> are fixed by means of six bolts <b>36</b>. Specifically, the mounts <b>36</b> common to the openings <b>20</b><i>a </i>of two right air funnels <b>20</b> out of four air funnels <b>20</b> aligned in the left and right direction of the vehicle are provided between the openings <b>20</b><i>a</i>, and the mounts <b>36</b> common to the openings <b>20</b><i>a </i>of two left air funnels <b>20</b> are also provided between the openings <b>20</b><i>a</i>. On the other hand, mounts <b>36</b>, respectively, are also provided rearwardly of the openings <b>20</b><i>a </i>of the respective air funnels <b>20</b>. The bolts, respectively, are mounted to the six mounts <b>36</b>.</p>
+<p id="p-0061" num="0076">The four rectifying walls <b>10</b><i>a </i>extended in the vehicle longitudinal direction are arranged above the openings <b>20</b><i>a </i>of the air funnels <b>20</b> to be spaced from one another in a left and right direction. The rectifying walls <b>10</b><i>a </i>bulge into the main chamber <b>5</b><i>b </i>and are extended to a flow passage of the air current M. Also, the rectifying walls <b>10</b><i>a </i>extend along the flow passage. The upstream injectors <b>14</b> are supported in the rectifying walls <b>10</b><i>a</i>. In other words, the upstream injectors <b>14</b> are arranged to project into the flow passage of the air current M and the rectifying walls <b>10</b><i>a </i>are arranged in a manner to cover the projecting upstream injectors <b>14</b>.</p>
+<p id="p-0062" num="0077">As shown in <figref idref="DRAWINGS">FIG. 2</figref>, an upstream end of the throttle body <b>22</b> is connected to the air funnel <b>20</b> and a downstream end of the throttle body <b>22</b> is connected to the joint member <b>32</b>. A large-diameter portion <b>22</b><i>a </i>is formed at an upstream end of the throttle body <b>22</b>, and a downstream end of the air funnel <b>20</b> is fitted into the large-diameter portion <b>22</b><i>a</i>. Inner surfaces of the air funnel <b>20</b> and the throttle body <b>22</b> define a continuous surface.</p>
+<p id="p-0063" num="0078">A throttle valve <b>24</b> is provided substantially centrally of the throttle body <b>22</b> in a longitudinal direction. The throttle valves <b>24</b> are provided in the four throttle bodies <b>22</b>, respectively, and the throttle valves <b>24</b> in adjacent throttle bodies <b>22</b> turn about the same axis. A mount <b>22</b><i>b </i>is formed downstream of the throttle valve <b>24</b> to fix thereto the downstream injector unit <b>11</b>.</p>
+<p id="p-0064" num="0079">The joint member <b>32</b> connects between the throttle body <b>22</b> and the intake port <b>13</b><i>f </i>on the engine <b>13</b>.</p>
+<p id="p-0065" num="0080">The intake port <b>13</b><i>f </i>on the engine <b>13</b> is communicated to the combustion chamber <b>13</b><i>c</i>. The exhaust passage <b>15</b> (see <figref idref="DRAWINGS">FIG. 1</figref>) is also communicated to the combustion chamber <b>13</b><i>c</i>. The intake port <b>13</b><i>f </i>is opened and closed by an intake valve <b>13</b><i>b</i>. An exhaust port (not shown) of the exhaust passage <b>15</b> is opened and closed by an exhaust valve <b>13</b><i>e</i>. In addition, the intake valve <b>13</b><i>b </i>and the exhaust valve <b>13</b><i>e</i>, respectively, are drivenly opened and closed by an exhaust cam <b>13</b><i>a </i>and an exhaust cam <b>13</b><i>d. </i></p>
+<p id="p-0066" num="0081">The downstream injector units <b>11</b> comprises a downstream injector <b>26</b>, a fuel pipe <b>28</b>, and an electric power supplying harness <b>30</b>.</p>
+<p id="p-0067" num="0082">The downstream injector <b>26</b> is supported on a mount <b>22</b><i>b </i>on the throttle body <b>22</b>, and other portions than a nozzle <b>26</b><i>a </i>project outside the intake passage <b>9</b>. The downstream injectors <b>26</b> are arranged on the respective four intake passages <b>9</b> to jet a fuel into the intake passages <b>9</b>.</p>
+<p id="p-0068" num="0083">The fuel pipe <b>28</b> connects ends of the four downstream injectors <b>26</b> together and is connected at one end thereof to a fuel tank (not shown). The fuel pipe <b>28</b> supplies a fuel to the respective downstream injectors <b>26</b>.</p>
+<p id="p-0069" num="0084">The electric power supplying harness <b>30</b> is connected to a control unit (not shown) to supply electric power to the downstream injectors <b>26</b>. The control unit transmits a signal to the downstream injectors <b>26</b> through the electric power supplying harness <b>30</b> to control an injection quantity and an injection timing of a fuel from the downstream injectors <b>26</b>.</p>
+<p id="p-0070" num="0085">The whole construction of the fuel supply apparatus is described above.</p>
+<p id="p-0071" num="0086">Subsequently, an explanation will be given to a detailed structure of the rectifying wall <b>10</b><i>a</i>. <figref idref="DRAWINGS">FIG. 3</figref> is a cross sectional view showing the rectifying wall <b>10</b><i>a </i>in an air current direction (in other words, a direction along a flow passage in the air cleaner <b>5</b>), that is, a cross sectional view taken along the line III-III in <figref idref="DRAWINGS">FIG. 2</figref>. In <figref idref="DRAWINGS">FIG. 3</figref>, however, a cross section of the upstream injector <b>14</b> is omitted and only a cross section of the rectifying wall <b>10</b><i>a </i>is shown.</p>
+<p id="p-0072" num="0087">As shown in <figref idref="DRAWINGS">FIG. 3</figref>, the rectifying wall <b>10</b><i>a </i>is in the form of a symmetric blade. An upstream portion <b>10</b><i>f </i>of the rectifying wall <b>10</b><i>a </i>is gradually increased in width between both left and right (vertical in <figref idref="DRAWINGS">FIG. 3</figref>) wall surfaces as it goes downstream from an upstream end thereof. A separate chamber <b>10</b><i>e </i>is formed in the upstream portion <b>10</b><i>f </i>to follow the shape of the left and right wall surfaces. A through-hole <b>10</b><i>g </i>for communication between the main chamber <b>5</b><i>b </i>and the separate chamber <b>10</b><i>e </i>is provided below the rectifying wall <b>10</b><i>a</i>, specifically, below a substantially central portion thereof in an air current direction (a left and right direction in FIG. <b>3</b>).</p>
+<p id="p-0073" num="0088">A width of the rectifying wall <b>10</b><i>a </i>between the both wall surfaces is largest in the vicinity of the through-hole <b>10</b><i>g</i>. That is, a wide portion <b>10</b><i>j </i>of the rectifying wall <b>10</b><i>a </i>is defined in the vicinity of the through-hole <b>10</b><i>g</i>. The wide portion <b>10</b><i>j </i>is larger in width than the upstream injector <b>14</b> supported in the rectifying wall <b>10</b><i>a</i>. Accordingly, other portions than a tip end of the nozzle <b>14</b><i>a </i>of the upstream injector <b>14</b> are completely covered by the rectifying wall <b>10</b><i>a</i>. Therefore, the upstream injector <b>14</b> having an irregular shape is not exposed to an interior of the main chamber <b>5</b><i>b. </i></p>
+<p id="p-0074" num="0089">A downstream portion <b>10</b><i>h </i>downstream of the through-hole <b>10</b><i>g </i>of the rectifying wall <b>10</b><i>a </i>is gradually decreased in width between both wall surfaces thereof as it goes downstream from the wide portion <b>10</b><i>j. </i></p>
+<p id="p-0075" num="0090"><figref idref="DRAWINGS">FIG. 4</figref> is a cross sectional view taken along the line IV-IV in <figref idref="DRAWINGS">FIG. 2</figref>. As shown in <b>4</b>, the nozzle <b>14</b><i>a </i>of the upstream injector <b>14</b> extends through the through-hole <b>10</b><i>g </i>of the rectifying wall <b>10</b><i>a</i>. An O-ring <b>34</b> is fitted onto that portion of the through-hole <b>10</b><i>g</i>, through which the nozzle <b>14</b><i>a </i>is inserted. The nozzle <b>14</b><i>a </i>extends through a central hole of the O-ring <b>34</b> to be inserted into the through-hole <b>10</b><i>g</i>. Therefore, the through-hole <b>10</b><i>g </i>is sealed, so that airtightness in the main chamber <b>5</b><i>b </i>is kept. Accordingly, even when an air flows into the separate chamber <b>10</b><i>e </i>through that hole, through which, for example, the electric power supplying harness <b>18</b> is led outside the air cleaner <b>5</b>, the air is prevented from flowing into the main chamber <b>5</b><i>b</i>. That is, an air entering from outside does not make the air current M turbulent.</p>
+<p id="p-0076" num="0091">The air current M is rectified as shown in <figref idref="DRAWINGS">FIG. 5</figref> by the rectifying wall <b>10</b><i>a </i>having the configuration as described above. That is, the air current M is first smoothly separated by the upstream portion <b>10</b><i>f</i>. Subsequently, two air currents separated along the both wall surfaces pass laterally of the upstream injector <b>14</b> without being made turbulent by the upstream injector <b>14</b>, which is received in the wide portion <b>10</b><i>j</i>. The two air currents having passed laterally of the upstream injector <b>14</b> combine together at that downstream end, with which the both wall surfaces of the downstream portion <b>10</b><i>h </i>contact, without being made turbulent, and make again one air current.</p>
+<p id="p-0077" num="0092">While the rectifying wall <b>10</b><i>a </i>comprises the upstream portion <b>10</b><i>f </i>and the downstream portion <b>10</b><i>h</i>, the upstream portion <b>10</b><i>f </i>and the downstream portion <b>10</b><i>h</i>, respectively, function differently.</p>
+<p id="p-0078" num="0093">That is, the upstream portion <b>10</b><i>f </i>prevents an air current M from striking directly against the upstream injector <b>14</b> having an irregular shape. Also, the upstream portion <b>10</b><i>f </i>separates the air current M smoothly along the both wall surfaces of the rectifying wall <b>10</b><i>a</i>. Thereby, the upstream portion <b>10</b><i>f </i>suppresses turbulence of the air current M between the upstream end of the rectifying wall <b>10</b><i>a </i>and the wide portion <b>10</b><i>j. </i></p>
+<p id="p-0079" num="0094">On the other hand, especially in the case where the air current M is increased in flow rate at the time of high rotation/high load of the engine <b>13</b>, the downstream portions <b>10</b><i>h </i>prevents generation of Karman's vortex on the downstream side of the upstream injector <b>14</b> to suppress turbulence of the air current M between the wide portion <b>10</b><i>j </i>and the downstream end of the rectifying wall <b>10</b><i>a. </i></p>
+<p id="p-0080" num="0095">In this manner, the upstream portion <b>10</b><i>f </i>and the downstream portion <b>10</b><i>h</i>, respectively, suppress turbulence of the air current M even singly. Therefore, only one of them may be provided on the rectifying wall <b>10</b><i>a</i>. For example, as shown in <figref idref="DRAWINGS">FIG. 9</figref>, the rectifying wall <b>10</b><i>a </i>may comprise a wide portion <b>10</b><i>j </i>being larger in width than the upstream injector <b>14</b> and an upstream portion <b>10</b><i>f </i>extending upstream of the wide portion <b>10</b><i>j</i>. In this case, it suffices that the upstream injector <b>14</b> be arranged inside the wide portion <b>10</b><i>j</i>, or downstream of the wide portion <b>10</b><i>j</i>. Thereby, since the air current M does not strike directly against the upstream injector <b>14</b>, it is possible to prevent turbulence of the air current M. In the case where the air current M is relatively slow in flow rate, there is less fear that Karman's vortex or the like is generated on the downstream side of the upstream injector <b>14</b>. Also, even when Karman's vortex is generated, turbulence of the air current M is relatively small since the vortex is small in intensity. Therefore, only the upstream portion <b>10</b><i>f </i>and the wide portion <b>10</b><i>j </i>can suppress turbulence of the air current M effectively.</p>
+<p id="p-0081" num="0096">On the other hand, as shown in, for example, <figref idref="DRAWINGS">FIG. 10</figref>, the rectifying wall <b>10</b><i>a </i>may comprise a wide portion <b>10</b><i>j </i>being substantially equal in width to the upstream injector <b>14</b> and a downstream portion <b>10</b><i>h </i>extended downstream of the wide portion <b>10</b><i>j</i>. In this case, it suffices that the upstream injector <b>14</b> be arranged inside the wide portion <b>10</b><i>j</i>, or upstream of the wide portion <b>10</b><i>j</i>. Thereby, even when the air current M becomes large in flow rate, the air current downstream of the upstream injector <b>14</b> is rectified, so that it is possible to prevent generation of Karman's vortex. In addition, when the upstream injector <b>14</b> is small in width, turbulence of the air current M upstream of the upstream injector <b>14</b> can be neglected practically. Therefore, only the wide portion <b>10</b><i>j </i>and the downstream portion <b>10</b><i>h </i>can suppress turbulence of the air current M effectively.</p>
+<p id="p-0082" num="0097">In addition, the upstream portion <b>10</b><i>f </i>and the downstream portion <b>10</b><i>h </i>are in no way limited in shape. For example, the upstream portion <b>10</b><i>f </i>may be semi-circular in shape and only the downstream portion <b>10</b><i>h </i>may have a symmetric blade configuration as shown in <figref idref="DRAWINGS">FIG. 3</figref>. It suffices that the rectifying wall <b>10</b><i>a </i>have a configuration, of which a portion of a cross section in the air current direction is suited to rectification, for example, a symmetric blade configuration.</p>
+<p id="p-0083" num="0098"><figref idref="DRAWINGS">FIG. 7</figref> is a view showing an essential part in the main chamber <b>5</b><i>b </i>as viewed from forwardly upwardly of a vehicle.</p>
+<p id="p-0084" num="0099">According to the embodiment, centers (see dashed lines in <figref idref="DRAWINGS">FIG. 7</figref>) of rectifying walls <b>10</b><i>a </i>are positioned inside opened portions of openings <b>20</b><i>a </i>in a left and right direction (a left and right direction in <figref idref="DRAWINGS">FIG. 7</figref>) of a vehicle. Also, a through-hole <b>10</b><i>g </i>is provided centrally of the rectifying wall <b>10</b><i>a </i>in the left and right direction. Therefore, a fuel jetted from the nozzles <b>14</b><i>a </i>of the upstream injectors <b>14</b> is jetted toward centers of the openings <b>20</b><i>a </i>and carried over to the air current M having been rectified by the rectifying walls <b>10</b><i>a</i>. Accordingly, a fuel jetted from the nozzles <b>14</b><i>a </i>is liable to flow into the openings <b>20</b><i>a </i>without scattering. Also, at this time, atomization of the jetted fuel is promoted since somewhat large spaces are ensured between the nozzles <b>14</b><i>a </i>and the openings <b>20</b><i>a</i>. That is, a fuel having been adequately atomized flows into the openings <b>20</b><i>a. </i></p>
+<p id="p-0085" num="0100">Subsequently, an explanation will be given to an operation of the fuel supply apparatus.</p>
+<p id="p-0086" num="0101">An air introduced from the inlet port <b>1</b> passes through the intake duct <b>3</b> to be guided into the intake port <b>4</b><i>b </i>of the air cleaner <b>5</b>. At this time, the intake port cover <b>6</b> prevents foreign matters having a large particle size from flowing into the intake port <b>4</b><i>b</i>. Therefore, it is possible to prevent damage to the inner wall <b>4</b><i>f </i>exposed to the intake port <b>4</b><i>b </i>and the element <b>8</b>.</p>
+<p id="p-0087" num="0102">An air introduced into the intake port <b>4</b><i>b </i>is further purified by the element <b>8</b>. More specifically, small dirt and impurities contained in the air introduced into the intake port <b>4</b><i>b </i>are removed by the element <b>8</b>. The purified air flows into the interior of the main chamber <b>5</b><i>b </i>of the air cleaner <b>5</b>. The in flowing air flows in the main chamber <b>5</b><i>b </i>to form an air current M directed toward the openings <b>20</b><i>a </i>of the air funnels <b>20</b>.</p>
+<p id="p-0088" num="0103">Specifically, when an air having passed through the element <b>8</b> is led by the guide walls <b>10</b><i>b </i>of the injector bracket <b>10</b>, so that a direction, in which the air flows, is smoothly varied. Thus an air current M directed toward the openings <b>20</b><i>a </i>opened in the vicinity of the lower end <b>10</b><i>i </i>is formed. While the rectifying walls <b>10</b><i>a </i>receiving therein the upstream injectors <b>14</b> project into the air current M, the air current M is rectified by the rectifying walls <b>10</b><i>a </i>since the rectifying walls <b>10</b><i>a </i>have a symmetric blade configuration described above. Therefore, turbulence of the air current M is suppressed.</p>
+<p id="p-0089" num="0104">Also, according to the embodiment, the air inlet port <b>1</b> is provided on the front of a vehicle as shown in <figref idref="DRAWINGS">FIG. 1</figref> and the air cleaner <b>5</b> is provided on the vehicle rearwardly of the inlet port <b>1</b>. Accordingly, when the vehicle travels, travel wind flowing rearward from the front energizes the air current in the intake duct <b>3</b> and much air is introduced from the intake port <b>4</b><i>b </i>of the air cleaner <b>5</b>.</p>
+<p id="p-0090" num="0105">Further, the openings <b>20</b><i>a </i>of the air funnels <b>20</b> being air outlets are provided rearwardly of the intake port <b>4</b><i>b </i>in the air cleaner <b>5</b>. That is, the air flow passage is structured to be directed wholly rearward from the front. Therefore, travel wind energizes the air current M in the main chamber <b>5</b><i>b </i>of the air cleaner <b>5</b> when the vehicle travels, and the air current M is increased in flow rate. When the air current M is increased in flow rate, an air quantity supplied to the engine <b>13</b> per unit time is consequently increased, so that it is possible to achieve a further improvement in engine performance.</p>
+<p id="p-0091" num="0106">When the air current M is increased in flow rate, however, there is a high possibility that turbulence of the air current M in the main chamber <b>5</b><i>b </i>is increased. According to the embodiment, however, the air current M is rectified by the rectifying walls <b>10</b><i>a </i>and guided to the openings <b>20</b><i>a </i>of the air funnels <b>20</b> by the guide walls <b>10</b><i>b</i>. Therefore, even when the air current M is increased in flow rate, it is possible to form a stable air current M in the main chamber <b>5</b><i>b</i>. Also, since the guide walls <b>10</b><i>b </i>and the extension walls <b>10</b><i>k </i>extend in the left and right direction, it is possible to evenly bear the air current (in other words, the air current increased in dynamic pressure) M, which increased in flow rate, to guide the air current M to the openings <b>20</b><i>a </i>effectively.</p>
+<p id="p-0092" num="0107">In the intake stroke of the engine <b>13</b>, electric power is supplied to the electric power supplying harnesses <b>18</b>, <b>30</b> through control by a control unit (not shown), and a fuel is jetted from the upstream injectors <b>14</b> and the downstream injectors <b>26</b>.</p>
+<p id="p-0093" num="0108">A fuel jetted from the upstream injectors <b>14</b> is atomized making use of the space in the main chamber <b>5</b><i>b </i>and then led to the openings <b>20</b><i>a </i>by the rectified air current M. Since the air current M in the main chamber <b>5</b><i>b </i>in the fuel supply apparatus is not made considerably turbulent, it is not necessary to take into consideration that a fuel jetted from the upstream injectors <b>14</b> is scattered around the openings <b>20</b><i>a</i>. Therefore, a sufficient quantity of fuel corresponding to high rotation/high load of the engine <b>13</b> can be jetted from the upstream injectors <b>14</b>.</p>
+<p id="p-0094" num="0109">An air and a fuel having flowed into the openings <b>20</b><i>a </i>flow into the throttle bodies <b>22</b> from the air funnels <b>20</b>. An air and a fuel of quantities conformed to opening degrees of the throttle valves <b>24</b> flow further into the joint members <b>32</b> and the intake ports <b>13</b><i>f </i>on downstream sides. A fuel is jetted on the downstream sides of the throttle valves <b>24</b> from the downstream injectors <b>26</b>. When the intake valves <b>13</b><i>b </i>are opened by the exhaust cams <b>13</b><i>a</i>, a mixture of an air and a fuel is supplied to the combustion chambers <b>13</b><i>c</i>. The mixture is compressed in the combustion chambers <b>13</b><i>c </i>in the compression stroke and the compressed mixture explodes in the combustion stroke to give a motive power.</p>
+<p id="p-0095" num="0110">In the exhaust stroke subsequent to the combustion stroke, the exhaust valves <b>13</b><i>e </i>are opened by the exhaust cams <b>13</b><i>d</i>. Thereby, exhaust gases generated in explosion are discharged into the exhaust passage <b>15</b> to be exhausted outside from the muffler <b>17</b>. At the termination of the exhaust stroke, the intake stroke is succeedingly begun and the operations described above are repeated.</p>
+<p id="p-0096" num="0111">As described above, according to the embodiment, while the upstream injectors <b>14</b> project into the flow passage, they are covered by the rectifying walls <b>10</b><i>a</i>. Accordingly, it is possible to prevent the air current from being diffused by the upstream injectors <b>14</b> having an irregular shape and Karman's vortex, etc. from being generated on downstream sides of the upstream injectors <b>14</b>. Therefore, it is possible to suppress turbulence of the air current M in the air cleaner <b>5</b>. Accordingly, there is less fear that a fuel is scattered outside the intake passages <b>9</b>, and it is possible to supply a sufficient quantity of fuel from the upstream injectors <b>14</b>.</p>
+<p id="p-0097" num="0112">The fuel supply apparatus comprises, as a member that rectifies the air current, rectifying walls <b>10</b><i>a </i>extending along the flow passage. Therefore, it is possible to rectify the air current with a ready construction.</p>
+<p id="p-0098" num="0113">Further, the rectifying walls <b>10</b><i>a </i>receiving therein the upstream injectors <b>14</b> are extended to a center of the flow passage. Therefore, it is possible to easily jet a fuel toward the air current M having been rectified by the rectifying walls <b>10</b><i>a</i>. Here, the air current M is formed in a large space in the main chamber <b>5</b><i>b</i>. Therefore, atomization of a fuel can be promoted making use of the large space in the main chamber <b>5</b><i>b </i>by jetting a fuel toward the air current M.</p>
+<p id="p-0099" num="0114">Also, the rectifying walls <b>10</b><i>a </i>comprise the wide portion <b>10</b><i>j </i>being larger in width in a left and right direction than other portions. Therefore, by arranging the wide portion <b>10</b><i>j </i>upstream or downstream of an obstacle (the upstream injector <b>14</b> in the embodiment), which makes the air current M turbulent, it is possible to suppress turbulence of the air current M caused by the obstacle.</p>
+<p id="p-0100" num="0115">Since a cross section of the rectifying wall <b>10</b><i>a </i>in a direction along the flow passage is in the form of a symmetric blade, the air current M is guided along the wall surfaces whereby it can be rectified effectively. Also, it is possible to achieve effectively making use of a space through arrangement of the upstream injector <b>14</b> in that portion, in which a symmetric blade is wide.</p>
+<p id="p-0101" num="0116">With the fuel supply apparatus, centers of the rectifying walls <b>10</b><i>a </i>are positioned inside opened portions of the openings <b>20</b><i>a </i>in the left and right direction, the air current M flowing into one opening <b>20</b><i>a </i>can be effectively rectified by a single rectifying wall <b>10</b><i>a</i>. Also, since the upstream injectors <b>14</b> are received in the rectifying walls <b>10</b><i>a</i>, it is possible to jet a fuel from positions close to the openings <b>20</b><i>a </i>to further suppress scattering. In addition, since centers of the rectifying walls <b>10</b><i>a </i>are positioned inside the intake port <b>4</b><i>b </i>in the left and right direction, the air current M having flowed from the intake port <b>4</b><i>b </i>can be effectively rectified by the rectifying walls <b>10</b><i>a. </i></p>
+<p id="p-0102" num="0117">With the fuel supply apparatus, since the openings <b>20</b><i>a </i>of the plurality of air funnels <b>20</b> are aligned in the left and right direction and the rectifying walls <b>10</b><i>a </i>are extended in the longitudinal direction, an air led out from the respective openings <b>20</b><i>a </i>can be made uniform in quantity and a fuel supplied to the engine from the respective openings <b>20</b><i>a </i>can be made uniform in quantity.</p>
+<p id="p-0103" num="0118">Also, since the openings <b>20</b><i>a </i>of the plurality of air funnels <b>20</b> are aligned in the left and right direction and the guide walls <b>10</b><i>b </i>and the extension walls <b>10</b><i>k </i>extend in the left and right direction, it is possible to distribute the air current M to the respective openings <b>20</b><i>a </i>in a well-balanced manner. Accordingly, a fuel supplied to the engine from the respective openings <b>20</b><i>a </i>can be made uniform in quantity.</p>
+<p id="p-0104" num="0119">Since the rectifying walls <b>10</b><i>a </i>are provided to correspond to each of the plurality of openings <b>20</b><i>a </i>to be spaced from one another, turbulence of the air current can be further surely suppressed by arranging the guide walls <b>10</b><i>b </i>between the rectifying walls <b>10</b><i>a. </i></p>
+<p id="p-0105" num="0120">Since the rectifying walls <b>10</b><i>a </i>are extended in a direction (a longitudinal direction) intersecting a longitudinal direction (a left and right direction of a vehicle) of the element <b>8</b>, it is possible to easily form a plurality of rectifying walls <b>10</b><i>a </i>in a limited space in the main chamber <b>5</b><i>b</i>. Therefore, it is possible to easily form rectifying walls <b>10</b><i>a </i>corresponding in number to the respective openings <b>20</b><i>a. </i></p>
+<p id="p-0106" num="0121">Also, with the fuel supply apparatus, the extension walls <b>10</b><i>k </i>are provided to lead the air current M to the openings <b>20</b><i>a </i>of the air funnels <b>20</b>, so that the extension walls <b>10</b><i>k </i>can also suppress turbulence of the air current M. Further, since the spaces <b>40</b> are formed on back sides of the extension walls <b>10</b><i>k</i>, it is possible to ensure a sufficient volume for the air cleaner <b>5</b> unlike the case where a rear wall of the lower casing <b>4</b> is caused to project forward. That is, although rectifying members (the extension walls <b>10</b><i>k</i>) are newly provided to lead the air current M to the openings <b>20</b><i>a</i>, it is possible to restrict a decrease in the volume of the air cleaner <b>5</b>. Accordingly, there is no fear that degradation in engine performance is incurred due to insufficiency in the volume of the air cleaner <b>5</b>. Consequently, it is possible to improve an engine performance while preventing scattering of a fuel.</p>
+<p id="p-0107" num="0122">By the way, according to the embodiment, the through-holes <b>10</b><i>g </i>are formed on transverse walls at the downstream ends of the rectifying walls <b>10</b><i>a</i>. Therefore, a fuel jetted from the upstream injectors <b>14</b> is jetted toward the air current M having been rectified. However, the through-holes <b>10</b><i>g </i>are not limited in positions especially but the through-holes <b>10</b><i>g </i>may be formed on vertical walls at upstream ends of the rectifying walls <b>10</b><i>a</i>. A fuel may be jetted toward the air current M before being rectified, from the upstream injectors <b>14</b>.</p>
+<p id="p-0108" num="0123">In addition, according to a further embodiment of the invention, as shown in, for example, <figref idref="DRAWINGS">FIG. 8</figref>, plate-shaped rectifying walls <b>10</b><i>a</i>&#x2032; extended forward may be formed outside openings <b>20</b><i>a</i>, that is, between adjacent openings <b>20</b><i>a </i>so that two adjacent rectifying walls <b>10</b><i>a</i>&#x2032; define definite flow passages of an air current M corresponding to the respective openings <b>20</b><i>a. </i></p>
+<p id="p-0109" num="0124">In this case, since upstream injectors <b>14</b> project into flow passages of the air current M, turbulence is generated in the air current M but an air and a fuel do not flow outside the openings <b>20</b><i>a </i>and a fuel is not scattered around the openings <b>20</b><i>a </i>since definite flow passages to the respective openings <b>20</b><i>a </i>are formed by the rectifying walls <b>10</b><i>a&#x2032;. </i></p>
+<p id="p-0110" num="0125">Also, rectifying walls <b>10</b><i>a </i>or <b>10</b><i>a</i>&#x2032; may be provided in the vicinity of an element <b>8</b>, which defines an air inlet port to a main chamber <b>5</b><i>b</i>, to rectify an air current having just passed through the element <b>8</b>. Further, according to the invention, the upstream injectors <b>14</b> and the rectifying walls <b>10</b><i>a </i>or <b>10</b><i>a</i>&#x2032; may not necessarily be made close to each other. That is, for example, the upstream injectors <b>14</b> may be arranged in the vicinity of the element <b>8</b> and a fuel may be jetted to that air current M, which has passed through the element <b>8</b> but has not been rectified. In this case, the rectifying walls <b>10</b><i>a </i>or <b>10</b><i>a</i>&#x2032; provided above the openings <b>20</b><i>a </i>of the air funnels <b>20</b> may rectify the air current M containing a fuel to lead the same outside from the openings <b>20</b><i>a. </i></p>
+<heading id="h-0011" level="1">Second Embodiment</heading>
+<p id="p-0111" num="0126">A fuel supply apparatus according to a second embodiment will be described with reference to <figref idref="DRAWINGS">FIGS. 11 to 14</figref>. In addition, the same portions as those in the first embodiment are denoted by the same reference numerals as those in the latter, and a detailed explanation therefor is omitted.</p>
+<p id="p-0112" num="0127">According to the first embodiment, the lower ends <b>10</b><i>i </i>of the extension walls <b>10</b><i>k </i>are extended to substantially the same level of ends of the openings <b>20</b><i>a </i>of the air funnels <b>20</b> (see <figref idref="DRAWINGS">FIG. 2</figref>). In contrast, as shown in <figref idref="DRAWINGS">FIGS. 12 and 13</figref>, according to the second embodiment, lower ends <b>10</b><i>i </i>of extension walls <b>10</b><i>k </i>are positioned above openings <b>20</b><i>a </i>of air funnels <b>20</b>. That is, clearances are formed between the extension walls <b>10</b><i>k </i>and the openings <b>20</b><i>a </i>in a direction, in which the openings <b>20</b><i>a </i>are opened (a vertical direction in <figref idref="DRAWINGS">FIG. 12</figref>).</p>
+<p id="p-0113" num="0128">As shown in <figref idref="DRAWINGS">FIG. 12</figref>, according to the embodiment, an injector bracket <b>10</b> is arranged in a main chamber <b>5</b><i>b </i>of an air cleaner <b>5</b> and separate chambers <b>10</b><i>e </i>are formed in the injector bracket <b>10</b>. Upstream injector units <b>7</b> are accommodated in the separate chambers <b>10</b><i>e. </i></p>
+<p id="p-0114" num="0129">Also, the air cleaner <b>5</b> comprises an upper casing <b>2</b> and a lower casing <b>4</b>. A flange <b>51</b> of the upper casing <b>2</b> and a flange <b>52</b> of the lower casing <b>4</b> are fixed together by bolts <b>53</b> and nuts <b>54</b>. An end of the injector bracket <b>10</b> and the upper casing <b>2</b> are fixed together by bolts <b>55</b>, which are inserted from outside the upper casing <b>2</b>. In addition, fasteners such as the bolts <b>55</b> are exemplary and other fasteners such as screws can be of course used.</p>
+<p id="p-0115" num="0130">According to the embodiment, the injector bracket <b>10</b> comprises rectifying walls <b>10</b><i>a </i>and guide walls <b>10</b><i>b</i>, the respective rectifying walls <b>10</b><i>a </i>covering the respective upstream injectors <b>14</b>. As shown in <figref idref="DRAWINGS">FIG. 14</figref>, the rectifying walls <b>10</b><i>a </i>according to the embodiment are formed to be substantially in the form of a circular column. That is, the rectifying walls <b>10</b><i>a </i>are arcuate-shaped in cross section. However, the rectifying walls <b>10</b><i>a </i>are not specifically limited in shape.</p>
+<p id="p-0116" num="0131">As shown in <figref idref="DRAWINGS">FIG. 12</figref>, the extension walls <b>10</b><i>k </i>project downward. That is, the extension walls <b>10</b><i>k </i>project toward the openings <b>20</b><i>a </i>of the air funnels <b>20</b>. The lower ends <b>10</b><i>i </i>of the extension walls <b>10</b><i>k </i>are positioned radially outwardly of the openings <b>20</b><i>a</i>. However, the lower ends <b>10</b><i>i </i>may be positioned radially inwardly of the openings <b>20</b><i>a</i>. Surfaces of the extension walls <b>10</b><i>k </i>face centrally of the main chamber <b>5</b><i>b </i>and back surfaces of the extension walls <b>10</b><i>k </i>face a back wall <b>4</b><i>g </i>of the lower casing <b>4</b>. The extension walls <b>10</b><i>k </i>are away from the back wall <b>4</b><i>g </i>of the lower casing <b>4</b> and spaces <b>40</b> are formed between the back surfaces of the extension walls <b>10</b><i>k </i>and the back wall <b>4</b><i>g</i>. The surfaces of the extension walls <b>10</b><i>k </i>define rectifying wall surfaces (first wall surfaces) that lead an air current to the openings <b>20</b><i>a</i>. On the other hand, the back surfaces of the extension walls <b>10</b><i>k </i>define compartment surfaces (second wall surfaces) that compartment the spaces <b>40</b>.</p>
+<p id="p-0117" num="0132">As shown in <figref idref="DRAWINGS">FIG. 14</figref>, the extension walls <b>10</b><i>k </i>are provided at lower ends of the guide walls <b>10</b><i>b </i>to form parts of the guide walls <b>10</b><i>b</i>. Also, the extension walls <b>10</b><i>b </i>are also provided below the rectifying walls <b>10</b><i>a</i>. Therefore, the air current led to the rectifying walls <b>10</b><i>a </i>is guided to the openings <b>20</b><i>a </i>by the extension walls <b>10</b><i>k</i>. Also, the extension walls <b>10</b><i>k </i>extend downwardly of nozzles of the upstream injectors <b>14</b>. Therefore, it is possible to effectively suppress scattering of a fuel.</p>
+<p id="p-0118" num="0133">As shown in <figref idref="DRAWINGS">FIG. 12</figref>, a fuel pipe <b>16</b> is connected to upper ends of the respective upstream injectors <b>14</b>. As shown in <figref idref="DRAWINGS">FIG. 11</figref>, insertion holes <b>43</b>, <b>44</b> are formed on a back wall of the upper casing <b>2</b>. Inserted through the insertion hole <b>43</b> is an electric power supplying harness <b>18</b> bundled integrally. In addition, a connection connector <b>45</b> is connected to an end of the electric power supplying harness <b>18</b>. The fuel pipe <b>16</b> is inserted through the insertion hole <b>44</b>.</p>
+<p id="p-0119" num="0134">As shown in <figref idref="DRAWINGS">FIG. 12</figref>, an opening <b>41</b> projecting rearward is provided on the back wall <b>4</b><i>g </i>of the lower casing <b>4</b>. A pipe <b>42</b> is fitted into the opening <b>41</b>, the pipe <b>42</b> being fixed to the opening <b>41</b> by a clip <b>46</b>. The pipe <b>42</b> leads blow-by gases of the engine <b>13</b> to the air cleaner <b>5</b>. The other end of the pipe <b>42</b> is connected to a crankcase (not shown) of the engine <b>13</b>.</p>
+<p id="p-0120" num="0135">A base end side of the opening <b>41</b> is opened between the extension walls <b>10</b><i>k </i>and the back wall <b>4</b><i>g</i>, that is, into the spaces <b>40</b>. Therefore, blow-by gases are once supplied to the spaces <b>40</b> and then combine with the air current in the air cleaner <b>5</b> to flow into the air funnels <b>20</b>.</p>
+<p id="p-0121" num="0136">According to the embodiment, it is also possible in the embodiment to suppress turbulence of the air current in the air cleaner <b>5</b> in the same manner as in the first embodiment. Therefore, it is possible to prevent a fuel jetted from the upstream injectors <b>14</b> from scattering. Accordingly, it is possible to jet a sufficient quantity of fuel from the upstream injectors <b>14</b>. Also, distances between the upstream injectors <b>14</b> and the openings <b>20</b><i>a </i>of the air funnels <b>20</b> can be relatively lengthened to promote atomization of a fuel.</p>
+<p id="p-0122" num="0137">Further, although the extension walls <b>10</b><i>k </i>are provided for the purpose of rectification, it is possible to restrict a decrease in a volume of the air cleaner <b>5</b> because the spaces <b>40</b> are formed on the back sides of the extension walls <b>10</b><i>k</i>. In this manner, since it is possible to produce effects of an increase in fuel feed rate and promotion of atomization described above while restricting a decrease in a volume of the air cleaner <b>5</b>, it is possible to adequately improve an engine performance.</p>
+<p id="p-0123" num="0138">Besides, with the fuel supply apparatus, blow-by gases are supplied to the spaces <b>40</b>, so that there is less fear that turbulence of the air current is caused by blow-by gases. That is, the spaces <b>40</b> on the back sides of the extension walls <b>10</b><i>k </i>make it possible not only to increase a volume of the air cleaner <b>5</b> but also to suppress turbulence of the air current caused by blow-by gases. Also, blow-by gases once flow into the spaces <b>40</b> and then flow into the openings <b>20</b><i>a </i>of the air funnels <b>20</b>. Therefore, since blow-by gases do not flow directly into the openings <b>20</b><i>a</i>, they are liable to uniformly flow into the respective openings <b>20</b><i>a</i>. In other words, blow-by gases are rectified by the back sides of the extension walls <b>10</b><i>k </i>to uniformly flow into the respective openings <b>20</b><i>a</i>. Accordingly, it is possible to prevent a difference every cylinder in air/fuel ratio.</p>
+<p id="p-0124" num="0139">In addition, according to the embodiment, the openings <b>20</b><i>a </i>of the air funnels <b>20</b> also project into the main chamber <b>5</b><i>b </i>from an inner surface of the lower casing <b>4</b>. Therefore, it is unnecessary to make peripheral edges of the openings <b>20</b><i>a </i>follow the inner surface of the lower casing <b>4</b>. Therefore, it is easy to perform exchange of the air funnels <b>20</b> and it is possible to readily set the air funnels <b>20</b>.</p>
+<p id="p-0125" num="0140">Also, with the fuel supply apparatus, the lower ends <b>10</b><i>i </i>of the extension walls <b>10</b><i>k </i>and the openings <b>20</b><i>a </i>of the air funnels <b>20</b> are vertically separate from each other. Therefore, it is possible to make the openings <b>20</b><i>a </i>surely function as open ends of the air funnels <b>20</b>.</p>
+<p id="p-0126" num="0141">Also, with the fuel supply apparatus, the surfaces of the extension walls <b>10</b><i>k </i>rectify the air current and the back surfaces of the extension walls <b>10</b><i>k </i>compartment the spaces <b>40</b>, so that rectification of the air current and compartmentation of the spaces <b>40</b> can be realized by a single member (the extension walls <b>10</b><i>k</i>).</p>
+<p id="p-0127" num="0142">With the fuel supply apparatus, a flow passage in the air cleaner <b>5</b> is curved in a substantially inverted U-shaped manner. Therefore, while the air current is varied in a direction of ventilation, it flows toward the openings <b>20</b><i>a </i>of the air funnels <b>20</b> from the intake port <b>4</b><i>b</i>. On the other hand, the extension walls <b>10</b><i>k </i>are arranged on an opposite side to the intake port <b>4</b><i>b </i>with the openings <b>20</b><i>a </i>of the air funnels <b>20</b> as a reference. Accordingly, the extension walls <b>10</b><i>k </i>are provided in positions opposed to the air current, so that they can rectify the air current efficiently.</p>
+<heading id="h-0012" level="1">Third Embodiment</heading>
+<p id="p-0128" num="0143">According to the first and second embodiments, the extension walls <b>10</b><i>k </i>are provided on the injector bracket <b>10</b>. That is, a part of the injector bracket <b>10</b> constitutes the extension walls <b>10</b><i>k</i>. However, extension walls <b>10</b><i>k </i>may be separate from an injector bracket <b>10</b>. As shown in <figref idref="DRAWINGS">FIG. 15</figref>, according to a third embodiment, the extension walls <b>10</b><i>k </i>are formed separately from the injector bracket <b>10</b>.</p>
+<p id="p-0129" num="0144">In <figref idref="DRAWINGS">FIG. 15</figref>, the right indicates the front of a vehicle and the left indicates the rear of a vehicle. According to the embodiment, an air cleaner <b>5</b> comprises an upper casing <b>2</b> and a lower casing <b>4</b>, and an intake port <b>4</b><i>b </i>is formed on the front of the lower casing <b>4</b>. Formed in the air cleaner <b>5</b> is a flow passage curved in a substantially inverted U-shaped manner.</p>
+<p id="p-0130" num="0145">According to the third embodiment, the injector bracket <b>10</b> is arranged inside the curved flow passage (toward a center of curvature). The injector bracket <b>10</b> is formed to assume a shape of a cylinder extending in a left and right direction (a front-back direction of a plane in <figref idref="DRAWINGS">FIG. 15</figref>) and extends through left and right side walls of the upper casing <b>2</b>. While illustration is omitted, the extending-through portion is supported by flanges of the lower casing <b>4</b> and the upper casing <b>2</b>.</p>
+<p id="p-0131" num="0146">An interior of the injector bracket <b>10</b> is compartmented into separate chambers <b>10</b><i>e </i>and upstream injectors <b>14</b>, etc. are accommodated in the separate chambers <b>10</b><i>e</i>. The upstream injectors <b>14</b> are inserted into a boss <b>15</b><i>d </i>of the injector bracket <b>10</b> and nozzles <b>14</b><i>a </i>project downwardly of the boss <b>15</b><i>d. </i></p>
+<p id="p-0132" num="0147">An extension wall <b>10</b><i>k </i>is arranged on an opposite side to the injector bracket <b>10</b> with the openings <b>20</b><i>a </i>of the air funnels <b>20</b> as a reference. That is, the extension wall <b>10</b><i>k </i>is arranged on an opposite side (outside) to the center of curvature of the flow passage. Accordingly, the extension wall <b>10</b><i>k </i>is positioned on a side opposed to the air current M.</p>
+<p id="p-0133" num="0148">The extension wall <b>10</b><i>k </i>is formed to assume a plate shape projecting obliquely downward from a back wall <b>4</b><i>g </i>of the lower casing <b>4</b>. A surface of the extension wall <b>10</b><i>k </i>faces centrally of a main chamber <b>5</b><i>b </i>and a back surface of the extension wall <b>10</b><i>k </i>faces the back wall <b>4</b><i>g</i>. The back surface of the extension wall <b>10</b><i>k </i>is separate from an inner surface of the back wall <b>4</b><i>g</i>. Consequently, a space <b>40</b> is formed among the back surface of the extension wall <b>10</b><i>k</i>, the inner surface of the back wall <b>4</b><i>g</i>, and outsides of the openings <b>20</b><i>a </i>of the air funnels <b>20</b>.</p>
+<p id="p-0134" num="0149">The extension wall <b>10</b><i>k </i>may have a stream-line cross section, or a further curved-surface cross section. Also, the extension wall <b>10</b><i>k </i>may have a straight cross section. The extension wall <b>10</b><i>k </i>suffices to lead the air current to the openings <b>20</b><i>a </i>and is not specifically limited in shape.</p>
+<p id="p-0135" num="0150">A throttle body <b>22</b> according to the embodiment comprises a diaphragm type cushion valve <b>19</b> on an upstream side of a throttle valve <b>24</b>. With the cushion valve <b>19</b>, a piston valve <b>19</b><i>a </i>for increase and decrease in intake passage area is biased toward a closed side. Also, the piston valve <b>19</b><i>a </i>is connected to a diaphragm <b>19</b><i>b </i>and structured to introduce negative pressure in an intake passage <b>9</b> into a diaphragm chamber <b>19</b><i>c</i>. Owing to the provision of such cushion valve <b>19</b>, in the case where the throttle valve <b>24</b> is abruptly opened, the piston valve <b>19</b><i>a </i>opens the intake passage <b>9</b> a little late to conform an increase in air quantity to an increase in fuel injection quantity whereby it is possible to achieve a smooth rise in rotation of the engine.</p>
+<p id="p-0136" num="0151">In addition, a character V in <figref idref="DRAWINGS">FIG. 15</figref> denotes a line indicative of a vertical direction, a character A denotes a central line of the intake passage <b>9</b>, and a character B denotes a bore axis of the engine <b>13</b>.</p>
+<p id="p-0137" num="0152">According to the embodiment, it is also possible to produce the same effect as those in the respective embodiments described above. That is, it is possible to rectify the air current M while restricting a decrease in a volume of the air cleaner <b>5</b>. Therefore, it is possible to produce effects of an increase in fuel feed rate for the upstream injectors <b>14</b> and promotion of atomization and it is possible to improve an engine performance.</p>
+<p id="p-0138" num="0153">Also, according to the embodiment, the extension wall <b>10</b><i>k </i>is formed plate-shaped, so that it is possible to thin the extension wall <b>10</b><i>k</i>. Therefore, the space <b>40</b> on the back side of the extension wall <b>10</b><i>k </i>can be made relatively large. Accordingly, it is possible to ensure a sufficient volume for the air cleaner <b>5</b> and to improve an engine performance.</p>
+<heading id="h-0013" level="1">Fourth Embodiment</heading>
+<p id="p-0139" num="0154">According to the respective embodiments described above, the flow passage in the air cleaner <b>5</b> is curved and the extension walls <b>10</b><i>k </i>are arranged on an opposite side to the center of curvature of the flow passage. However, the shape of the flow passage and arrangement and positions of the extension walls <b>10</b><i>k </i>are not limited to those in the respective embodiments. According to a fourth embodiment, a shape of a flow passage and arrangement and position of an extension wall <b>10</b><i>k </i>are modified.</p>
+<p id="p-0140" num="0155">As shown in <figref idref="DRAWINGS">FIG. 16</figref>, according to the fourth embodiment, a substantially straight flow passage is formed in an air cleaner <b>5</b>. However, the whole flow passage is required not to be straight but only a part of the flow passage may be straight. An upstream injector <b>14</b> jets a fuel between an element <b>8</b> and an opening <b>20</b><i>a </i>of an air funnel <b>20</b>. In addition, the upstream injector <b>14</b> is preferably positioned in the vicinity of a wall surface of the air cleaner <b>5</b> but is not specifically limitative.</p>
+<p id="p-0141" num="0156">The extension wall <b>10</b><i>k </i>comprises a rectifying plate projecting toward the opening <b>20</b><i>a </i>from the wall surface of the air cleaner <b>5</b> and inclined relative to a direction along the flow passage. A tip end of the extension wall <b>10</b><i>k </i>is positioned outside an opening center of the opening <b>20</b><i>a</i>. However, the tip end of the extension wall <b>10</b><i>k </i>may be positioned inside the opening <b>20</b><i>a</i>. The extension walls <b>10</b><i>k </i>are in no way limited in number. Two extension walls <b>10</b><i>k </i>may be provided on both sides of the opening <b>20</b><i>a</i>. Also, a plurality of extension walls <b>10</b><i>k </i>may be arranged to be circumferentially distributed around the opening <b>20</b><i>a</i>, or a single extension wall <b>10</b><i>k </i>may be circumferentially formed so as to surround a periphery of the opening <b>20</b><i>a. </i></p>
+<p id="p-0142" num="0157">According to the embodiment, a space <b>40</b> is also formed among a back surface of the extension wall <b>10</b><i>k</i>, an inner surface of the air cleaner <b>5</b>, and an outer peripheral surface of the opening <b>20</b><i>a </i>of the air funnel <b>20</b>.</p>
+<p id="p-0143" num="0158">An air having flowed into the air cleaner <b>5</b> passes through the element <b>8</b> and then flows into the openings <b>20</b><i>a </i>of the air funnels <b>20</b>. At this time, the air current M is led to the openings <b>20</b><i>a </i>by the extension walls <b>10</b><i>k</i>. That is, the air current M as rectified is formed in the air cleaner <b>5</b> to be directed to the openings <b>20</b><i>a </i>from the element <b>8</b>.</p>
+<p id="p-0144" num="0159">Accordingly, according to the embodiment, it is also possible to produce the same effect as those in the respective embodiments.</p>
+<heading id="h-0014" level="1">INDUSTRIAL APPLICABILITY</heading>
+<p id="p-0145" num="0160">As described above, the invention is useful for fuel supply apparatuses and vehicles.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A fuel supply apparatus comprising:
+<claim-text>an air cleaner chamber including an inlet, through which an air is introduced in a first direction, and an outlet, through which the introduced air is led to an engine in a second direction which is different from the first direction,</claim-text>
+<claim-text>a rectifying member that rectifies an air current flowing from the inlet in the air cleaner chamber to the outlet,</claim-text>
+<claim-text>an injector that is mounted on a casing forming the air cleaner chamber and jets a fuel to the air current flowing from the inlet in the air cleaner chamber to the outlet;</claim-text>
+<claim-text>a filter element that is disposed between the inlet and the outlet in the air cleaner chamber, the air passing through the filter element, and</claim-text>
+<claim-text>an intake passage projecting into the air cleaner chamber from the outlet and having an opening opened to the air cleaner chamber, the intake passage comprising a throttle valve therein, wherein the air and the fuel in the air cleaner chamber are led to the engine through the intake passage.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The fuel supply apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a flow passage leading to the outlet from the inlet is formed in the air cleaner chamber, and
+<claim-text>the rectifying member comprises a rectifying wall extending along the flow passage.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The fuel supply apparatus according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the rectifying wall includes a wide portion, of which a width in a first direction perpendicular to a second direction, in which the rectifying wall extends, is larger than that of the remaining portion.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The fuel supply apparatus according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the injector includes an in-chamber portion arranged in the air cleaner chamber,
+<claim-text>the rectifying wall is arranged upstream of the in-chamber portion, and</claim-text>
+<claim-text>the wide portion of the rectifying wall is positioned at a downstream end of the rectifying wall and has a larger width than that of the in-chamber portion.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The fuel supply apparatus according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the injector includes an in-chamber portion arranged in the air cleaner chamber,
+<claim-text>the rectifying wall is arranged downstream of the in-chamber portion, and</claim-text>
+<claim-text>the wide portion of the rectifying wall is positioned at an upstream end of the rectifying wall and has substantially the same width as that of the in-chamber portion.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The fuel supply apparatus according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the injector includes an in-chamber portion arranged in the air cleaner chamber, and
+<claim-text>the rectifying wall covers the in-chamber portion, supports the in-chamber portion, and extends downstream of the in-chamber portion from upstream thereof.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The fuel supply apparatus according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein at least a part of the rectifying wall is in the form of a symmetric blade.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The fuel supply apparatus according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein a center of the rectifying wall in a first direction perpendicular to a second direction, in which the rectifying wall extends, is positioned inside the inlet or the outlet.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The fuel supply apparatus according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the air cleaner chamber includes a plurality of outlets, and
+<claim-text>the rectifying walls are provided in plural corresponding to each of the plurality of outlets, and</claim-text>
+<claim-text>the plurality of rectifying walls are arranged to be spaced from one another.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The fuel supply apparatus according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein a center of the rectifying wall in a first direction perpendicular to a second direction, in which the rectifying wall extends, is positioned outside the outlet.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The fuel supply apparatus according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the air cleaner chamber includes a plurality of outlets, and
+<claim-text>a center of the rectifying wall in a first direction perpendicular to a second direction, in which the rectifying wall extends, is positioned between the plurality of outlets.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The fuel supply apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a partition provided in the air cleaner chamber to compartment a main chamber, in which a flow passage extending from the inlet to the outlet is formed, and a separate chamber partitioned from the main chamber, the partition being formed with a through-hole, which connects the separate chamber and the main chamber,
+<claim-text>wherein the injector is supported in the separate chamber by the partition to jet a fuel into the main chamber from the through-hole, and</claim-text>
+<claim-text>the rectifying member is formed by the partition.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The fuel supply apparatus according to <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the injector comprises a nozzle inserted into the through-hole, and
+<claim-text>further comprising a sealing member to seal a clearance between the through-hole and the nozzle.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The fuel supply apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the filter element purifies the air, and
+<claim-text>the rectifying member comprises a rectifying wall extending in a direction intersecting a longitudinal direction of the filter element.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The fuel supply apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the rectifying member comprises a wall surface, by which the air current from the inlet is led to the opening, and
+<claim-text>a space is formed radially outwardly of the opening in the intake chamber.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The fuel supply apparatus according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, further comprising a blow-by gas passage that provides communication between an interior of a crankcase of the engine and the space.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The fuel supply apparatus according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the rectifying member comprises a compartment surface that compartments the space.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The fuel supply apparatus according to <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the rectifying member is composed of a rectifying plate projecting toward the opening.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The fuel supply apparatus according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein a clearance is formed between the rectifying member and the opening in a direction, in which the opening is opened.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The fuel supply apparatus according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the injector comprises a nozzle, and
+<claim-text>at least a part of the wall surface is positioned downstream of the nozzle and upstream of the opening.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The fuel supply apparatus according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the wall surface is positioned on an opposite side to the inlet with the opening as reference.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The fuel supply apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the rectifying member comprises a first wall surface extending toward the opening, and a second wall surface positioned radially outwardly of the opening relative to the first wall surface and separated from an inner surface of the air cleaner chamber.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. A vehicle comprising the fuel supply apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The vehicle according to <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein
+<claim-text>the outlet is positioned rearwardly of the inlet, and</claim-text>
+<claim-text>the rectifying member comprises a rectifying wall extending substantially in a longitudinal direction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The vehicle according to <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein
+<claim-text>the air cleaner chamber comprises a plurality of outlets aligned in a left and right direction, and</claim-text>
+<claim-text>the rectifying member comprises a rectifying wall extending substantially in a longitudinal direction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. The vehicle according to <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein
+<claim-text>the outlet is positioned rearwardly of the inlet, and</claim-text>
+<claim-text>the rectifying member comprises a rectifying wall extending substantially in a left and right direction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text>27. The vehicle according to <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein
+<claim-text>the air cleaner chamber comprises a plurality of outlets aligned in a left and right direction, and</claim-text>
+<claim-text>the rectifying member comprises a rectifying wall extending substantially in a left and right direction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text>28. A fuel supply apparatus comprising:
+<claim-text>an air cleaner chamber including an inlet, through which an air is introduced, and a plurality of outlets, through which the introduced air is led to an engine,</claim-text>
+<claim-text>a rectifying member that rectifies an air current flowing from the inlet in the air cleaner chamber to the respective outlets,</claim-text>
+<claim-text>a plurality of injectors that are mounted on a casing forming the cleaner chamber and jets a fuel to the air current in the air cleaner chamber, and</claim-text>
+<claim-text>a plurality of intake passages projecting into the air cleaner chamber from the outlets respectively, and each having an opening opened to the air cleaner chamber, wherein</claim-text>
+<claim-text>the rectifying member comprises a plurality of guide walls opposite to the air current passing from the inlet so as to lead the air current to the openings of the intake passages respectively, and a plurality of rectifying walls adjacent to the guide walls respectively, bulging into the air cleaner chamber more than the guide walls, and covering the injectors respectively.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text>29. The fuel supply apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the rectifying member covers the injector so as to prevent the injector from making the air current turbulent.</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text>30. The fuel supply apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein an injector unit, which includes the injector, a fuel pipe and an electric power supply harness, is mounted on the casing forming the air cleaner chamber, and the rectifying member covers the injector unit so as to prevent the injector unit from making the air current turbulent.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

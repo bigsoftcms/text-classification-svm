@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641385-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641385</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12119035</doc-number>
+<date>20080512</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>15</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>374133</main-classification>
+<further-classification>374  1</further-classification>
+<further-classification>374121</further-classification>
+<further-classification>374110</further-classification>
+<further-classification>374132</further-classification>
+</classification-national>
+<invention-title id="d0e43">Heating apparatus, heating apparatus control method and noncontact thermal sensing device</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5220389</doc-number>
+<kind>A</kind>
+<name>Kishimoto et al.</name>
+<date>19930600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6026273</doc-number>
+<kind>A</kind>
+<name>Kinouchi et al.</name>
+<date>20000200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6078781</doc-number>
+<kind>A</kind>
+<name>Takagi et al.</name>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6087641</doc-number>
+<kind>A</kind>
+<name>Kinouchi et al.</name>
+<date>20000700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6097926</doc-number>
+<kind>A</kind>
+<name>Takagi et al.</name>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6137985</doc-number>
+<kind>A</kind>
+<name>Kinouchi et al.</name>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>6154629</doc-number>
+<kind>A</kind>
+<name>Kinouchi et al.</name>
+<date>20001100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>6212344</doc-number>
+<kind>B1</kind>
+<name>Takagi et al.</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6337969</doc-number>
+<kind>B1</kind>
+<name>Takagi et al.</name>
+<date>20020100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6415128</doc-number>
+<kind>B1</kind>
+<name>Takagi et al.</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6438335</doc-number>
+<kind>B1</kind>
+<name>Kinouchi et al.</name>
+<date>20020800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6643476</doc-number>
+<kind>B1</kind>
+<name>Kinouchi et al.</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>6643491</doc-number>
+<kind>B2</kind>
+<name>Kinouchi et al.</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>6724999</doc-number>
+<kind>B2</kind>
+<name>Kikuchi et al.</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>6725000</doc-number>
+<kind>B2</kind>
+<name>Takagi et al.</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6763206</doc-number>
+<kind>B2</kind>
+<name>Kinouchi et al.</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>6861627</doc-number>
+<kind>B2</kind>
+<name>Wasai et al.</name>
+<date>20050300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6861630</doc-number>
+<kind>B2</kind>
+<name>Kinouchi et al.</name>
+<date>20050300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6868249</doc-number>
+<kind>B2</kind>
+<name>Kinouchi et al.</name>
+<date>20050300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6871041</doc-number>
+<kind>B2</kind>
+<name>Takagi et al.</name>
+<date>20050300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6889018</doc-number>
+<kind>B2</kind>
+<name>Kinouchi et al.</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>6898409</doc-number>
+<kind>B2</kind>
+<name>Tsueda et al.</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>6900419</doc-number>
+<kind>B2</kind>
+<name>Takagi et al.</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>2002/0114375</doc-number>
+<kind>A1</kind>
+<name>Pompei</name>
+<date>20020800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>374133</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>2005/0008413</doc-number>
+<kind>A1</kind>
+<name>Takagi et al.</name>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>2005/0031014</doc-number>
+<kind>A1</kind>
+<name>Pompei</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>374121</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>2005/0199612</doc-number>
+<kind>A1</kind>
+<name>Kikuchi et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>2005/0205557</doc-number>
+<kind>A1</kind>
+<name>Sone et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>2005/0205558</doc-number>
+<kind>A1</kind>
+<name>Kinouchi et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>2005/0205559</doc-number>
+<kind>A1</kind>
+<name>Kikuchi et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>2005/0207774</doc-number>
+<kind>A1</kind>
+<name>Sone et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>2005/0207804</doc-number>
+<kind>A1</kind>
+<name>Kikuchi et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>2005/0207805</doc-number>
+<kind>A1</kind>
+<name>Tsueda et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>2005/0226645</doc-number>
+<kind>A1</kind>
+<name>Sone et al.</name>
+<date>20051000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>2005/0238531</doc-number>
+<kind>A1</kind>
+<name>Trifu et al.</name>
+<date>20051000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>2005/0265021</doc-number>
+<kind>A1</kind>
+<name>Galvez</name>
+<date>20051200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>2006/0222048</doc-number>
+<kind>A1</kind>
+<name>Pompei</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>374121</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>2007/0268952</doc-number>
+<kind>A1</kind>
+<name>Scott</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>374  1</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>2007/0268953</doc-number>
+<kind>A1</kind>
+<name>Price</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>374  1</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>JP</country>
+<doc-number>9-212033</doc-number>
+<kind>A</kind>
+<date>19970800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>JP</country>
+<doc-number>9-281843</doc-number>
+<kind>A</kind>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>JP</country>
+<doc-number>10-031390</doc-number>
+<kind>A</kind>
+<date>19980200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00043">
+<othercit>U.S. Appl. No. 10/378,859, filed Mar. 5, 2003, Sone et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00044">
+<othercit>U.S. Appl. No. 10/806,392, filed Mar. 23, 2004, Takagi et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00045">
+<othercit>U.S. Appl. No. 10/944,707, filed Sep. 21, 2004, Sone et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00046">
+<othercit>U.S. Appl. No. 10/944,855, filed Sep. 21, 2004, Sone et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00047">
+<othercit>U.S. Appl. No. 10/945,395, filed Sep. 21, 2004, Kinouchi et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00048">
+<othercit>U.S. Appl. No. 11/078,421, filed Mar. 14, 2005, Takagi et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00049">
+<othercit>U.S. Appl. No. 11/078,725, filed Mar. 14, 2005, Takagi et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00050">
+<othercit>U.S. Appl. No. 11/078,726, filed Mar. 14, 2005, Tsueda et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00051">
+<othercit>U.S. Appl. No. 11/080,833, filed Mar. 16, 2005, Tsueda et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00052">
+<othercit>U.S. Appl. No. 11/080,909, filed Mar. 16, 2005, Kinouchi et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00053">
+<othercit>U.S. Appl. No. 11/080,942, filed Mar. 16, 2005, Kinouchi et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00054">
+<othercit>U.S. Appl. No. 11/080,943, filed Mar. 16, 2005, Sone et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00055">
+<othercit>U.S. Appl. No. 11/082,198, filed Mar. 17, 2005, Sone et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00056">
+<othercit>U.S. Appl. No. 11/082,218, filed Mar. 17, 2005, Tsueda et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>10</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>374  1</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374132</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374133</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374121</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>11</number-of-drawing-sheets>
+<number-of-figures>16</number-of-figures>
+</figures>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11778269</doc-number>
+<kind>00</kind>
+<date>20070716</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7389080</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12119035</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11082242</doc-number>
+<kind>00</kind>
+<date>20050317</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7248808</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11778269</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080260399</doc-number>
+<kind>A1</kind>
+<date>20081023</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Sone</last-name>
+<first-name>Toshihiro</first-name>
+<address>
+<city>Yokohama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Takagi</last-name>
+<first-name>Osamu</first-name>
+<address>
+<city>Chofu</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kinouchi</last-name>
+<first-name>Satoshi</first-name>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Tsueda</last-name>
+<first-name>Yoshinori</first-name>
+<address>
+<city>Fuji</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Foley &#x26; Lardner LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Kabushiki Kaisha Toshiba</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+<assignee>
+<addressbook>
+<orgname>Toshiba Tec Kabushiki Kaisha</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Verbitsky</last-name>
+<first-name>Gail</first-name>
+<department>2855</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A fixing apparatus according to one aspect of the present invention includes a non-contact temperature detecting element <b>81</b> allocated in non-contact with a heat roller, the sensing element detecting a temperature of the heat roller. The non-contact temperature sensing section <b>81</b> includes a thermopile P which detects a target temperature Pt of a heat roller <b>2</b>, a temperature element CPU <b>100</b> which estimates an ambient temperature at the periphery of the thermopile P and computes an estimated ambient temperature SQt, and a thermister Q which detects an ambient temperature Qt at the periphery of the thermopile and outputs the ambient temperature Qt at an output voltage of a predetermined rate with respect to a total output voltage value corresponding to the estimated ambient temperature SQt.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="83.57mm" wi="138.94mm" file="US07641385-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="120.48mm" wi="114.81mm" file="US07641385-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="192.79mm" wi="153.75mm" file="US07641385-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="227.16mm" wi="151.13mm" file="US07641385-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="217.68mm" wi="160.70mm" file="US07641385-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="213.36mm" wi="148.08mm" file="US07641385-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="229.36mm" wi="149.78mm" file="US07641385-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="214.71mm" wi="148.67mm" file="US07641385-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="78.15mm" wi="149.69mm" file="US07641385-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="221.66mm" wi="145.29mm" file="US07641385-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="187.71mm" wi="120.82mm" file="US07641385-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="181.95mm" wi="124.04mm" file="US07641385-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a divisional application of U.S. application Ser. No. 11/778,269 filed Jul. 16, 2007, now U.S. Pat. No. 7,389,080, which is a divisional application of U.S. application Ser. No. 11/082,242 filed Mar. 17, 2005, now U.S. Pat. No. 7,248,808, the entire contents of which are incorporated herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates to an image forming apparatus which forms an image on a transfer material by using an electronic photography process and a heating apparatus mounted on a copying machine, a printer or the like, the heating apparatus being incorporated in a fixing apparatus for fixing a developer onto the transfer material.</p>
+<heading id="h-0003" level="1">DESCRIPTION OF THE RELATED ART</heading>
+<p id="p-0004" num="0003">In copying machine or a printer using an electronic process, it is known that a toner image formed on a photosensitive drum is transferred onto a transfer material, and then, the toner image molten by a fixing apparatus including a heat roller and a pressure roller is fixed onto the transfer material.</p>
+<p id="p-0005" num="0004">There is known a method of detecting a surface temperature by using a detecting element brought into contact with a surface of the heat roller and controlling a temperature of the heat roller. However, there is a possibility that such a contact temperature detecting element degrades the surface of the heat roller due to sliding, and there is a problem that a service line of the heat roller is reduced. In addition, due to surface degradation, responsiveness of the detecting element may be degraded and a temperature may be incorrectly detected.</p>
+<p id="p-0006" num="0005">Further, it is known to use a temperature detecting element which senses a red infrared ray radiated from a heat roller and detects a temperature of the heat roller in a non-contact manner.</p>
+<p id="p-0007" num="0006">However, at a radiation rate of a red infrared ray from the heat roller detected by the non-contact temperature detecting element, the surface of the heat roller is gradually degraded by contact with a transfer material which holds a toner, whereby a deviation occurs at the life beginning of using the heat roller and at the life end of the heat roller. Since the degradation of the surface of the heat roller is different depending on type of a transfer material passing through paper, or size of the transfer material, a deviation occurs also in a longitudinal direction of the roller at a red infrared radiation rate. That is, a time at which a temperature detected by the non-contact temperature detecting element reaches a set temperature is delayed due to a change of the red infrared radiation.</p>
+<p id="p-0008" num="0007">For example, as disclosed in Jpn. Pat. Appln. KOKAI Publication No. 10-31390, there is known a technique using non-contact temperature detecting means which has self temperature detecting means to recognize a temperature T of the heat roller as a multiple order formula between a self temperature output T<b>1</b> and a sensor output T<b>0</b> of a non-contact temperature sensor sensed and outputted according to the self temperature and a heat roller temperature which is a non-sample, and controlling the temperature of the heat roller.</p>
+<p id="p-0009" num="0008">In addition, in Jpn. Pat. Appln. KOKAI Publication No. 9-281843, there is disclosed an electronic photography apparatus having a non-contact temperature sensor which senses a temperature of a heat roller in a non-contact manner and which controls the temperature of the heat roller by a sensor output of the non-contact temperature sensor. The electronic photography apparatus has means (fan) for supplying an air from a pair of image carriers to a fixing apparatus, and the non-contact sensor is allocated such that at least a part of the sensor is included in air between the fixing apparatus and the image carrier.</p>
+<p id="p-0010" num="0009">Further, Jpn. Pat. Appln. KOKAI Publication No. 9-212033 discloses a fixing apparatus having a self heat generation type heat roller and a temperature sensor which senses a temperature in a non-contact manner by a red infrared ray radiated by the heat roller, temperature control of the heat roller being made on the basis of an output of the temperature sensor. When a rise time from a room temperature of the heat roller to a fixing enable temperature is defined as Th, a diameter of the heat roller is defined as D cm, a maximum paper passage width of the heat roller is defined as W cm, and a response time of a fixing temperature sensor is defined as Ts, a relationship of 5 seconds&#x2266;Th&#x2266;0.23&#xd7;DW seconds and 0.01Th&#x2266;Ts&#x2266;0.08Th is established.</p>
+<heading id="h-0004" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0011" num="0010">According to an aspect of the present invention, there is provided a heating apparatus comprising:</p>
+<p id="p-0012" num="0011">a heat roller which supplies a heat to sheet;</p>
+<p id="p-0013" num="0012">a heating device including a heating member which heats the heat roller and a first control section which controls power supplied to the heating member in order to heat the heat roller to a target temperature; and</p>
+<p id="p-0014" num="0013">at least one non-contact temperature sensing device provided in non-contact with a surface of the heating member, the at least one non-contact temperature sensing device comprising:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0014">a target temperature sensing section which detects a target temperature of the heat roller;</li>
+        <li id="ul0002-0002" num="0015">a second control section which estimates an ambient temperature at the periphery of the target temperature sensing section and computes an estimated ambient temperature; and</li>
+        <li id="ul0002-0003" num="0016">a self temperature detecting section which detects an ambient temperature at the periphery of the target temperature sensing section and outputs the ambient temperature at an output voltage of a predetermined rate with respect to a total output voltage value which corresponds to the estimated ambient temperature.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0015" num="0017">According to another aspect of the present invention, there is provided a heating apparatus control method comprising:</p>
+<p id="p-0016" num="0018">heating an outer periphery face of a heat roller by utilizing a plurality of inductive heating coils allocated outside of the heat roller;
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0019">detecting a target temperature from a target temperature detecting section provided in non-contact with the heat roller;</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0017" num="0020">computing an estimated ambient temperature which is estimated as an ambient temperature at the periphery of the target temperature sensing section;</p>
+<p id="p-0018" num="0021">detecting an ambient temperature at the periphery of the target temperature sensing section which is outputted at an output voltage of a predetermined rate with respect to a total output voltage value which corresponds to the estimated ambient temperature;</p>
+<p id="p-0019" num="0022">computing a temperature of the heat roller on the basis of the target temperature and the ambient temperature; and</p>
+<p id="p-0020" num="0023">controlling power supplied to the inductive heating coil on the basis of the temperature of the heat roller.</p>
+<p id="p-0021" num="0024">According to further another aspect of the present invention, there is provided a non-contact temperature sensing device comprising:</p>
+<p id="p-0022" num="0025">a thermopile which detects a target temperature;</p>
+<p id="p-0023" num="0026">a control section which estimates an ambient temperature at the periphery of the thermopile and computes an estimated ambient temperature; and</p>
+<p id="p-0024" num="0027">a self temperature detecting section which detects an ambient temperature at the periphery of the thermopile and outputs the ambient temperature at an output voltage of a rate with respect to a total output voltage value which corresponds to the estimated ambient temperature.</p>
+<p id="p-0025" num="0028">Additional objects and advantages of the invention will be set forth in the description which follows, and in part will be obvious from the description, or may be learned by practice of the invention. The objects and advantages of the invention may be realized and obtained by means of the instrumentalities and combinations particularly pointed out hereinafter.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE SEVERAL VIEWS OF THE DRAWING</heading>
+<p id="p-0026" num="0029">The accompanying drawings, which are incorporated in and constitute a part of the specification, illustrate embodiments of the invention, and together with the general description given above and the detailed description of the embodiments given below, serve to explain the principles of the invention.</p>
+<p id="p-0027" num="0030"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic view illustrating an example of a fixing apparatus to which an embodiment of the present invention can be applied;</p>
+<p id="p-0028" num="0031"><figref idref="DRAWINGS">FIG. 2</figref> is a block diagram illustrating a control system of the fixing apparatus shown in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0029" num="0032"><figref idref="DRAWINGS">FIG. 3</figref> is a flow chart showing an example of a heating apparatus control method which can be applied to the fixing apparatus shown in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0030" num="0033"><figref idref="DRAWINGS">FIG. 4</figref> is a view showing a relationship between an estimated ambient temperature and an output voltage value of an ambient temperature according to a first embodiment of the invention;</p>
+<p id="p-0031" num="0034"><figref idref="DRAWINGS">FIG. 5</figref> is a view showing a display section which displays service personnel inspection;</p>
+<p id="p-0032" num="0035"><figref idref="DRAWINGS">FIG. 6</figref> is a view showing a relationship between a roller temperature of a heat roller heated by the control method shown in <figref idref="DRAWINGS">FIG. 3</figref>, and a time;</p>
+<p id="p-0033" num="0036"><figref idref="DRAWINGS">FIG. 7</figref> is a flow chart showing another example of the heating apparatus control method which can be applied to the fixing apparatus shown in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0034" num="0037"><figref idref="DRAWINGS">FIG. 8</figref> is a view showing a relationship between an estimated ambient temperature and an output voltage value of an ambient temperature according to a second embodiment of the invention;</p>
+<p id="p-0035" num="0038"><figref idref="DRAWINGS">FIG. 9</figref> is a view showing a result obtained by measuring an ambient temperature during warming up in a low tone and low humidity environment;</p>
+<p id="p-0036" num="0039"><figref idref="DRAWINGS">FIG. 10</figref> is a block diagram illustrating a control system of a non-contact temperature detecting element;</p>
+<p id="p-0037" num="0040"><figref idref="DRAWINGS">FIG. 11</figref> is a view showing a relationship between temperature detection of an ambient temperature detecting section and program change;</p>
+<p id="p-0038" num="0041"><figref idref="DRAWINGS">FIG. 12</figref> is a view showing a relationship between an estimated ambient temperature and an output voltage value of an ambient temperature in a first thermister;</p>
+<p id="p-0039" num="0042"><figref idref="DRAWINGS">FIG. 13</figref> is a view showing a relationship between an estimated ambient temperature and an output voltage value of an ambient temperature in a second thermister;</p>
+<p id="p-0040" num="0043"><figref idref="DRAWINGS">FIG. 14</figref> is a view showing a relationship between an estimated ambient temperature and an output voltage value of an ambient temperature in a third thermister;</p>
+<p id="p-0041" num="0044"><figref idref="DRAWINGS">FIG. 15</figref> is a flow chart showing still another example of the heating apparatus control method which can be applied to the fixing apparatus shown in <figref idref="DRAWINGS">FIG. 1</figref>; and</p>
+<p id="p-0042" num="0045"><figref idref="DRAWINGS">FIG. 16</figref> is a flow chart showing a control method which follows the heating apparatus control method shown in <figref idref="DRAWINGS">FIG. 15</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0043" num="0046">Hereinafter, an example of a fixing apparatus to which an embodiment of the present invention is applied will be described with reference to the accompanying drawings.</p>
+<p id="p-0044" num="0047"><figref idref="DRAWINGS">FIG. 1</figref> shows an example of the fixing apparatus to which the embodiment of the invention is applied. <figref idref="DRAWINGS">FIG. 2</figref> is a block diagram illustrating a control system of the fixing apparatus shown in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0045" num="0048">As shown in <figref idref="DRAWINGS">FIG. 1</figref>, a fixing apparatus <b>1</b> has: a heating member (heat roller) <b>2</b>; a pressure roller member (press roller) <b>3</b>; a pressurizing spring <b>4</b>; a release claw <b>5</b>; a cleaning roller <b>6</b>; an induction heating device <b>7</b>; a temperature detecting mechanism <b>8</b>; and a thermostat <b>9</b>.</p>
+<p id="p-0046" num="0049">The heat roller <b>2</b> has: a shaft <b>2</b><i>a </i>composed of a material having rigidity (hardness) which is not deformed at a predetermined pressure; elastic layers <b>2</b><i>b </i>(a foam rubber layer made by foaming a silicon rubber, a sponge layer, and a silicon rubber layer) allocated in order around the shaft <b>2</b><i>a</i>; and an conductive layer (metal conductive layer) <b>2</b><i>c</i>. Although not shown, a solid rubber layer and a mold release layer made of a thin film layer such as, for example, a heat resistance silicon rubber are further formed outside of the metal conductive layer <b>2</b><i>c. </i></p>
+<p id="p-0047" num="0050">It is preferable that the metal conductive layer <b>2</b><i>c </i>is formed of an electrically conducting material (such as nickel, stainless steel, aluminum, copper, and composite material of stainless steel and aluminum). It is preferable that a length in a longitudinal direction of the heat roller <b>2</b> is 330 mm.</p>
+<p id="p-0048" num="0051">It is preferable that the foam rubber layer <b>2</b><i>b </i>is formed to have thickness of 5 mm to 10 mm, that the metal conductive layer <b>2</b><i>c </i>is formed to have thickness of 10 &#x3bc;m to 100 &#x3bc;m, and that the solid rubber layer is formed to have thickness of 100 &#x3bc;m to 200 &#x3bc;m, respectively. In the embodiment, the foam rubber layer <b>2</b><i>b </i>is formed to have thickness of 5 mm, the metal conductive layer <b>2</b><i>c </i>is formed to have thickness of 40 &#x3bc;m, the solid rubber layer is formed to have thickness of 200 &#x3bc;m, and the mold release layer is formed to have thickness of 30 &#x3bc;m, respectively. The heat roller <b>2</b> is formed to have a diameter of 40 mm.</p>
+<p id="p-0049" num="0052">The pressure roller <b>3</b> may be provided as an elastic roller coated with a silicon rubber having a predetermined thickness or a fluorine rubber at the periphery of a rotating shaft having a predetermined diameter. In addition, like the heat roller <b>2</b>, the pressure roller may be configured to have a metal conductive layer and an elastic layer.</p>
+<p id="p-0050" num="0053">The pressurizing spring <b>4</b> brings pressure contact with an axle of the heat roller <b>2</b> at a predetermined pressure, and the pressure roller <b>3</b> is maintained in approximately parallel to the axle of the heat roller <b>2</b>. A predetermined pressure is supplied from both ends of the pressure roller <b>3</b> via a pressurizing support bracket <b>4</b><i>a </i>which supports an axis of the pressure roller <b>3</b>, so that the pressurizing spring <b>4</b> can be in parallel to the heat roller <b>2</b>.</p>
+<p id="p-0051" num="0054">In this manner, a nip having a predetermined width is formed between the heat roller <b>2</b> and the pressure roller <b>3</b>.</p>
+<p id="p-0052" num="0055">By means of a fixing motor <b>25</b> shown in <figref idref="DRAWINGS">FIG. 2</figref>, the heat roller <b>2</b> is rotated in a clockwise CW direction indicated by the arrow at an approximately constant speed. The pressure roller <b>3</b> is brought into contact with the heat roller <b>2</b> at a predetermined pressure by means of the pressurizing spring <b>4</b>. Thus, the heat roller <b>2</b> is rotated, whereby the pressure roller <b>3</b> is rotated in an opposite direction to a direction in which the heat roller <b>2</b> is rotated at a position which comes into contact with the heat roller <b>2</b>.</p>
+<p id="p-0053" num="0056">The release claw <b>5</b> is positioned on the periphery of the heat roller <b>2</b>, on the downstream side in a direction in which the heat roller <b>2</b> is rotated by the nip at which the heat roller <b>2</b> and the pressure roller <b>3</b> come into contact with each other, and at a predetermined position in the vicinity of the nip. The release claw <b>5</b> releases paper P passed through the nip from the heat roller <b>2</b>. The present invention is not limited to the embodiment. For example, in the case where a large amount of developer is fixed onto paper, as is the case with forming a color image, the paper is hardly released from the heat roller. Thus, a plurality of release claws <b>5</b> may be provided. In addition, in the case where the paper is easily released from the heat roller, a release claw may not be provided.</p>
+<p id="p-0054" num="0057">The cleaning roller <b>6</b> removes dust such as toner or paper chips offset onto a surface of the heat roller <b>1</b>.</p>
+<p id="p-0055" num="0058">The induction heating device <b>7</b> has at least one heating coil (exciting coil) allocated outside of the heat roller, wherein predetermined power is supplied to supply a predetermined magnetic field to the heat roller <b>2</b>. In the embodiment, as shown in <figref idref="DRAWINGS">FIG. 2</figref>, the induction heating device includes: a coil <b>71</b> allocated to be opposed to a center portion in an axial direction of the heat roller <b>2</b>, the coil providing a magnetic field to the center portion of the heat roller <b>2</b>; and coils <b>72</b>, <b>73</b> allocated to be opposed to an end portion in the axial direction of the heat roller <b>2</b>, the coils each providing a magnetic field to the end portion of the heat roller <b>2</b>. As described later in detail, in the coils <b>71</b> to <b>73</b>, predetermined power is supplied from an exciting circuit <b>22</b>, thereby making it possible to generate a magnetic field according to this power and to inductively heat the metal conductive layer <b>2</b><i>c </i>of the heat roller <b>2</b>.</p>
+<p id="p-0056" num="0059">The temperature detecting mechanism <b>8</b> includes at least one non-contact temperature detecting element provided in non-contact with the surface of the heat roller <b>2</b>, the non-contact temperature detecting element detecting a temperature on an outer periphery face of the heat roller <b>2</b> in a non-contact manner. The non-contact temperature detecting element is allocated on the downstream side in the rotation direction of the heat roller <b>2</b> more than a position at which the induction heating device <b>7</b> is allocated and on the upstream side more than the nip portion. The detecting element detects a surface temperature of the heat roller <b>2</b> heated by the induction heating device <b>7</b>.</p>
+<p id="p-0057" num="0060">In the embodiment, the temperature detecting mechanism <b>8</b> includes non-contact temperature detecting elements <b>81</b>, <b>82</b>, <b>83</b>, <b>84</b>, <b>85</b> allocated in order in the longitudinal direction of the heat roller <b>2</b> as shown in <figref idref="DRAWINGS">FIG. 2</figref>. The non-contact temperature detecting elements <b>81</b>, <b>82</b>, <b>83</b> each detect a surface temperature of the heat roller <b>2</b> opposed to the coils <b>71</b>, <b>72</b>, <b>73</b>. The non-contact temperature detecting element <b>84</b> detects a surface temperature of the heat roller <b>2</b> opposed to a joint of the coil <b>71</b> and the coil <b>72</b>. The non-contact temperature detecting element <b>85</b> detects a surface temperature of the heat roller <b>2</b> opposed to a joint of the coil <b>71</b> and the coil <b>73</b>.</p>
+<p id="p-0058" num="0061">The non-contact temperature detecting elements <b>81</b>, <b>82</b>, <b>83</b>, <b>84</b>, <b>85</b> are provided as non-contact temperature detecting elements capable of detecting temperatures of one or more sites by one element. These detecting elements each include: a thermopile (target temperature sensing section) P which detects a surface temperature of the heat roller <b>2</b>; a thermister (self temperature detecting section) Q which detects an ambient temperature in the vicinity of the thermopile; and a temperature element CPU <b>100</b> connected to the thermopile and the thermister.</p>
+<p id="p-0059" num="0062">The thermopile P detects a target temperature Pt which is a surface temperature of the heat roller <b>2</b> allocated oppositely, and the thermister Q detects an ambient temperature Qt in the vicinity of the thermopile P. The target temperature Pt and the ambient temperature Qt each are detected at a voltage value which corresponds to a sensing temperature.</p>
+<p id="p-0060" num="0063">The temperature element CPU <b>100</b> computes a roller temperature based on the output voltage values of the connected thermopile and thermister.</p>
+<p id="p-0061" num="0064">For example, the non-contact temperature detecting element <b>81</b> and the temperature element CPU <b>100</b> each estimate a temperature which will be detected by the ambient temperature Qt on the basis of a predetermined correlation table or the like with reference to the target temperature Pt detected from the thermopile P or a state of the past heating of the heat roller <b>2</b>. Hereinafter, the thus estimated ambient temperature is referred to as an estimated ambient temperature SQt. The estimated ambient temperature SQt is estimated depending on the state of the past heating of the heat roller, that is, a case in which power has been turned ON under a low temperature environment or a case in which resetting is carried out while long paper passage is in progress. In addition, the above predetermined correlation table corresponds to an inductive heating control method for heating a surface of the heat roller <b>2</b> in a short time, as in the present embodiment. That is, as in inductive heating, in the case where the surface of the heat roller <b>2</b> is heated in a short time, the target temperature Pt rapidly rises. However, the ambient temperature does not rise in response to a rise of the target temperature, and is different depending on the environment temperature or the past heating state of the heat roller. Therefore, the above predetermined correlation table is different depending on an equipment structure or performance of a non-contact temperature detecting element according to the target temperature Pt, the past heating state of the heat roller, and the like.</p>
+<p id="p-0062" num="0065">The temperature element CPU <b>100</b> selects a rate of an output voltage value of the ambient temperature Qt to a total output voltage on the basis of the estimated ambient temperature SQt, and detects the ambient temperature Qt. Then, the temperature element CPU <b>100</b> computes a surface temperature of the heat roller <b>2</b> based on the thus detected ambient temperature Qt and target temperature Pt, and outputs a roller surface temperature Rt<b>1</b>. In the embodiment, an error of about &#xb1;3&#xb0; C. is allowed with respect to the estimated ambient temperature SQt.</p>
+<p id="p-0063" num="0066">In addition, the other non-contact temperature detecting elements <b>82</b> to <b>85</b> each have similar configuration, operation, and function and are capable of detecting roller temperatures Rt<b>2</b>, Rt<b>3</b>, Rt<b>4</b>, Rt<b>5</b>.</p>
+<p id="p-0064" num="0067">The thermostat <b>9</b> senses a heating abnormality indicating that a surface temperature of the heat roller <b>2</b> abnormally rises. If such a heating abnormality occurs, the thermostat is utilized in order to shut out the power supplied to a heating coil of the induction heating device <b>7</b>. It is preferable that at least one or more thermostats <b>9</b> are provided in the vicinity of the surface of the heat roller <b>2</b>.</p>
+<p id="p-0065" num="0068">Further, on the periphery of the pressure roller <b>3</b>, there may be provided: a release claw for releasing paper P from the pressure roller <b>3</b> or a cleaning roller which removes the toner adhered onto the peripheral face of the pressure roller <b>3</b>.</p>
+<p id="p-0066" num="0069">Thus, the paper P holding the toner T is passed through the nit portion formed between the heat roller <b>2</b> and the pressure roller <b>3</b>, whereby the molten toner T is brought into pressure contact with the paper P, and an image is fixed.</p>
+<p id="p-0067" num="0070">As shown in <figref idref="DRAWINGS">FIG. 2</figref>, a main CPU <b>20</b> is connected to a IH controller <b>21</b>, the exciting circuit <b>22</b>, a motor driver circuit <b>24</b>, the fixing motor <b>25</b>, a display section <b>26</b>, a RAM <b>27</b>, a ROM <b>28</b>, and a timer <b>29</b>.</p>
+<p id="p-0068" num="0071">The main CPU <b>20</b> integrally controls a fixing operation of the fixing apparatus <b>1</b>.</p>
+<p id="p-0069" num="0072">The IH controller <b>21</b> controls the exciting circuit <b>22</b> so that roller temperature information of the heat roller <b>2</b> detected by the non-contact temperature detecting elements <b>81</b> to <b>85</b> is inputted and predetermined power based on the temperature information or the like is supplied to the coils <b>71</b> to <b>73</b> of the induction heating device <b>7</b>. In more detail, the IH controller <b>21</b> controls the temperature of the heat roller <b>2</b> to be increased uniformly in an axial direction and to a fixing temperature required for fixing, on the basis of the roller temperature information of the heat roller <b>2</b> outputted from the non-contact temperature detecting elements <b>81</b> to <b>85</b>.</p>
+<p id="p-0070" num="0073">The exciting circuit <b>22</b> supplies predetermined power to the coils <b>71</b> to <b>73</b> in response to a control signal outputted from the IH controller <b>21</b>. In this manner, each of the coils <b>71</b> to <b>73</b> generates a magnetic flux which is a predetermined heating force. This heating force is determined by a size of a magnetic flux which forms a basis for causing the heat roller <b>2</b> to generate an eddy current and a size of the power supplied to each of the coils <b>71</b> to <b>73</b>. For example, in the case where paper passes through the center portion of the heat roller <b>2</b>, or alternatively, in the case where predetermined power for exciting the coil <b>71</b> is outputted, and then, the paper passes through the center portion and end part of the heat roller <b>2</b>, predetermined power (for example, 1300 W) for exciting the coils <b>71</b> to <b>73</b> is outputted.</p>
+<p id="p-0071" num="0074">The motor driver circuit <b>24</b> is connected to the fixing motor <b>25</b> which rotates the heat roller <b>2</b>. The motor driver circuit may be also connected to a main motor <b>32</b> which rotates the photosensitive drum <b>33</b>.</p>
+<p id="p-0072" num="0075">The display section <b>26</b> displays a device internal state message or a user message.</p>
+<heading id="h-0007" level="1">First Embodiment</heading>
+<p id="p-0073" num="0076">Now, an example of temperature control of the IH controller <b>21</b> will be described with reference to <figref idref="DRAWINGS">FIGS. 3 and 4</figref>. <figref idref="DRAWINGS">FIG. 3</figref> is a flow chart showing an example of a temperature control method using the non-contact temperature detecting element <b>81</b>. <figref idref="DRAWINGS">FIG. 4</figref> is a view showing a relationship of an output voltage value of an estimated ambient temperature to all the output voltage values, the estimated ambient temperature being detected by the non-contact temperature detecting element according to the embodiment.</p>
+<p id="p-0074" num="0077">As shown in <figref idref="DRAWINGS">FIG. 4</figref>, for example, the non-contact temperature detecting element <b>81</b> outputs an output voltage which is 45% or higher of the total output voltage at an estimated ambient temperature of 50&#xb0; C. (first temperature) or higher, and outputs an output voltage which is 70% or higher of the total output voltage at an estimated ambient temperature of 80&#xb0; C. (second temperature). That is, when the target temperature Pt is a target temperature (160&#xb0; C.), the non-contact temperature detecting element <b>81</b> can output a voltage obtained when an output voltage value outputted from the thermister Q is equal to or smaller than a maximum output value and is 50% or higher of the total output voltage.</p>
+<p id="p-0075" num="0078">In the case where the surface temperature of the heat roller <b>2</b> is the second temperature of 180&#xb0; C., it is preferable that the thermister P of the non-contact temperature detecting element <b>81</b> outputs an output voltage which is at most 80% or less of the total output voltage. That is, in the case where the total output voltage of the thermister P is 1V, 0.8V is outputted.</p>
+<p id="p-0076" num="0079">As shown in <figref idref="DRAWINGS">FIG. 3</figref>, when the fixing apparatus is powered ON (S<b>1</b>), the IH controller <b>21</b> controls predetermined power to be supplied to the coils <b>71</b> to <b>73</b> via the exciting circuit <b>22</b>. When the fixing apparatus is powered ON, power is supplied to the non-contact temperature detecting elements <b>81</b>, <b>82</b>, <b>83</b>, <b>84</b>, <b>85</b> as well to detect a target temperature and an ambient temperature.</p>
+<p id="p-0077" num="0080">For example, the non-contact temperature detecting element <b>81</b> detects the target temperature Pt (S<b>2</b>) and estimates a temperature which will be detected by the ambient temperature Qt from the detected target temperature Pt. That is, the temperature element CPU <b>100</b> computes the estimated ambient temperature SQt with reference to the predetermined correlation table (S<b>3</b>).</p>
+<p id="p-0078" num="0081">The temperature element CPU <b>100</b> determines whether or not the computed estimated ambient temperature SQt is smaller than the first temperature of 50&#xb0; C. (S<b>4</b>). In the case where the estimated ambient temperature SQt is smaller than the first temperature of 50&#xb0; C. (S<b>4</b>&#x2014;YES), the temperature element CPU <b>100</b> detects the ambient temperature Qt of the output voltage which is smaller than 45% of the total output voltage value (output limit) (S<b>5</b>), and computes the roller temperature Rt<b>1</b> on the basis of the target temperature Pt and ambient temperature Qt detected in step S<b>2</b> (S<b>6</b>).</p>
+<p id="p-0079" num="0082">On the other hand, in the case where the estimated ambient temperature SQt is equal to or higher than the first temperature of 50&#xb0; C. in step S<b>4</b> (S<b>4</b>&#x2014;NO), the temperature element CPU <b>100</b> further determines whether or not the estimated ambient temperature SQt is equal to or lower than the second temperature of 80&#xb0; C. which is higher than the first temperature (S<b>7</b>). In the case where the estimated ambient temperature SQt is equal to or lower than the second temperature of 80&#xb0; C. (S<b>7</b>&#x2014;YES), the temperature element CPU <b>100</b> detects the ambient temperature Qt of the output voltage which is 45% or higher of the total output voltage value (output limit) (S<b>8</b>), and computes the roller temperature Rt on the basis of the target temperature Pt and ambient temperature Qt detected in step S<b>2</b> (S<b>6</b>).</p>
+<p id="p-0080" num="0083">On the other hand, in the case where the estimated ambient temperature SQt is higher than the second temperature of 80&#xb0; C., (S<b>7</b>&#x2014;NO), the temperature element CPU <b>100</b> detects the ambient temperature Qt of the output voltage which is 70% or higher of the total output voltage value (output limit) (S<b>9</b>), and computes the roller temperature Rt<b>1</b> on the basis of the target temperature Pt and ambient temperature Qt detected in step S<b>2</b> (S<b>6</b>).</p>
+<p id="p-0081" num="0084">The thus computed roller temperature Rt<b>1</b> is compared with a predetermined set value (for example, 160&#xb0; C.) (S<b>10</b>). In the case where the roller temperature Rt<b>1</b> does not reach the set value (S<b>10</b>&#x2014;NO), temperature control is executed by means of the IH controller <b>21</b> for heating the coil <b>71</b> to the set temperature (S<b>11</b>). On the other hand, when the roller temperature Rt<b>1</b> reaches the predetermined set value (S<b>10</b>&#x2014;YES), the IH controller <b>21</b> determines whether or not a difference between the roller temperature Rt<b>1</b> and the roller temperature Rt<b>2</b> of another contact temperature detecting element <b>82</b> obtained as in the roller temperature Rt<b>1</b> is within a predetermined specified value (S<b>12</b>).</p>
+<p id="p-0082" num="0085">When the difference between the roller temperature Rt<b>1</b> and the roller temperature Rt<b>2</b> is within the specified value (S<b>12</b>&#x2014;YES), it is determined that the heat roller <b>2</b> has been heated uniformly in the longitudinal direction up to a set temperature value, and warming up completes. In the case where a print reservation or instruction is made after warming up has terminated (S<b>13</b>&#x2014;YES), a fixing operation of the fixing apparatus is started (S<b>14</b>), and temperature controls are executed by the IH controller <b>21</b> (S<b>11</b>). In the case where no print reservation is made (S<b>13</b>&#x2014;NO), it is determined whether or not power has been turned OFF (S<b>15</b>). In the case where power has been turned OFF (S<b>15</b>&#x2014;YES), these temperature controls are terminated.</p>
+<p id="p-0083" num="0086">If the power is kept to be turned ON (S<b>15</b>&#x2014;NO), a ready state is established (S<b>16</b>), and the IH controller <b>21</b> makes control so as to maintain the surface temperature of the heat roller <b>2</b> (S<b>11</b>). In the case where this ready mode lasts for a predetermined time or longer, temperature control in an energy saving mode can be executed.</p>
+<p id="p-0084" num="0087">On the other hand, turning to step S<b>12</b>, if the difference between the roller temperature Rt<b>1</b> and the roller temperature Rt<b>2</b> is greater than the specified value, it is determined that the temperature of the heat roller <b>2</b> is not uniform in the longitudinal direction (S<b>12</b>&#x2014;NO). In the case where the difference between the roller temperature Rt<b>1</b> and the roller temperature Tr<b>2</b> does not become equal to or lower than the specified value after the specified time has elapsed (S<b>17</b>&#x2014;YES), the main CPU determines that a problem that precise temperature detection cannot be carried out occurs because the heat roller <b>2</b> fails or the not-contact temperature detecting element is dirty. Then, the display section <b>26</b> displays &#x201c;service personnel inspection&#x201d; as shown in <figref idref="DRAWINGS">FIG. 5</figref>, and requests roller replacement or cleaning of the non-contact temperature detecting element (S<b>18</b>). In step S<b>17</b>, in the case where the specified time has not elapsed (S<b>17</b>&#x2014;NO), temperature control is executed by the IH controller <b>21</b> for making uniform the temperature in the axial direction of the heat roller <b>2</b> (S<b>81</b>).</p>
+<p id="p-0085" num="0088">In this way, temperature control is executed using the non-contact temperature detecting element <b>81</b>. The roller temperatures Rt<b>2</b> to Rt<b>5</b> are computed similarly in the other non-contact temperature detecting elements <b>82</b> to <b>85</b>. The IH controller <b>21</b> makes temperature control of the heat roller <b>2</b> on the basis of these roller temperatures Rt<b>2</b> to Rt<b>5</b>.</p>
+<p id="p-0086" num="0089">The temperature control by the IH controller <b>21</b> is provided as a control for increasing the surface temperature of the heat roller <b>2</b> uniformly in the axial direction up to the set temperature value and maintaining this set temperature value. The temperature control by the IH controller in step S<b>11</b> can be made in a mode different from another one according to determination of the previous step. For example, in the case where it is determined that the roller temperature Rt<b>1</b> does not read the set value in step S<b>10</b>, the IH controller <b>21</b> executes a control for making the temperature of the roller temperature Rt<b>1</b> to the set value as during warming up. In the case where the difference between the roller temperature Rt<b>1</b> and the roller temperature Rt<b>2</b> is greater than the specified value in step S<b>12</b>, the IH controller makes control so as to heat a region in which a temperature is lower in order to make uniform the temperature in the axial direction of the heat roller <b>2</b>. Further, in the case where it is determined that a ready state is established in step S<b>16</b>, an energy saving mode is established if a user does not supply a print instruction. Then, the set value of the surface temperature of the heat roller <b>2</b> is set at a temperature which is lower than a fixing temperature and which can be recovered in a short time, and the power supplied to the coils <b>71</b> to <b>73</b> is restricted.</p>
+<p id="p-0087" num="0090">Further, in the embodiment, the IH controller <b>21</b> makes control for supplying power to a coil in which the detected roller temperature is lower, thereby supplying power which is lower than power shared in the coil whose roller temperature is lower or stopping power supply. For example, in control of the coil <b>71</b> and the coil <b>72</b>, the roller temperature Rt<b>1</b> and the roller temperature Rt<b>2</b> are compared with each other, and when the roller temperature Rt<b>1</b> is lower, power is supplied to the coil <b>71</b> and power supply to the coil <b>72</b> is stopped.</p>
+<p id="p-0088" num="0091">The IH controller <b>21</b> can also control power supplied to the coils <b>71</b>, <b>72</b> so as not to lower a temperature between the coil <b>71</b> and the coil <b>72</b> with reference to the roller temperature Rt<b>4</b>.</p>
+<p id="p-0089" num="0092">Thus, the heat roller <b>2</b> can be increased to a temperature which is uniform in the axial direction and can be maintained by the IH controller <b>21</b>.</p>
+<p id="p-0090" num="0093">As described above, the temperature element CPU <b>100</b> can estimate a temperature which will be detected by the ambient temperature Qt on the basis of the target temperature Pt detected by the thermopile P and can select a rate of an output voltage of the ambient temperature Qt in response to the estimated ambient temperature SQt. In this manner, the thermister Q can output sufficient output power. Therefore, in the thermister Q, the non-contact temperature detecting elements <b>81</b> to <b>85</b> can detect a temperature more precisely because a difference in output voltage broadens in response to a temperature change.</p>
+<p id="p-0091" num="0094">In addition, in the embodiment, when the heat roller <b>2</b> has been heated up to a target temperature (160&#xb0; C.), i.e., when the estimated ambient temperature is 80&#xb0; C., an output voltage of the thermister Q is 70% (i.e., 50% or higher) of the total output voltage. Thus, this thermister is effective in particular in the case where the ambient temperature rapidly changes as during warming up.</p>
+<p id="p-0092" num="0095">Further, the power supplied to the coils <b>71</b> to <b>73</b> is also selected according to the temperature detected by the non-contact temperature detecting elements <b>81</b> to <b>85</b>, thus making it possible to utilize power with no wastefulness without excessive power being supplied to the coils <b>71</b> to <b>73</b> and to contribute to energy saving.</p>
+<p id="p-0093" num="0096">Namely, in the case where the ambient temperature rapidly changes as during warming up, the output voltage value detected by the thermister greatly changes concurrently. In this case, if a difference between an output voltage value of the ambient temperature of the thermister and an output voltage value of the target temperature of the thermopile is small, there has been a problem that the roller temperature of the heat roller <b>2</b> cannot be precisely measured.</p>
+<p id="p-0094" num="0097">However, the non-contact temperature detecting elements <b>81</b> to <b>85</b> as described above can output a sufficient output voltage as the ambient temperature Qt outputted from the thermister Q, in particular, until a fixing temperature of the heat roller <b>2</b> has reached about 180&#xb0; C. Thus, even in the case where the difference in output voltage of the ambient temperature outputted from the thermister Q broadens, and then, the ambient temperature Qt rapidly changes as during warming up, the non-contact temperature detecting elements <b>81</b> to <b>85</b> can detect the surface temperature of the heat roller <b>2</b> precisely.</p>
+<p id="p-0095" num="0098"><figref idref="DRAWINGS">FIG. 6</figref> shows a relationship between a time (horizontal axis) and a temperature (vertical axis) when the heat roller <b>2</b> has been heated by means of such temperature control. This temperature is provided as a temperature detected from the non-contact temperature detecting element when temperature control has been made such that the heat roller is heated to a predetermined temperature (160&#xb0; C.). A result utilizing the temperature control according to the present invention is designated by L<b>1</b>, and a result of the temperature control according to a conventional method is designated by L<b>2</b>. The conventional temperature control method is provided as a temperature control method for computing a surface temperature of the heat roller <b>2</b> by utilizing the output voltage itself detected from the thermister and the thermopile.</p>
+<p id="p-0096" num="0099">As shown in <figref idref="DRAWINGS">FIG. 6</figref>, with respect to the result L<b>1</b> of the temperature control according to the invention, when a temperature is increased to the set temperature of 160&#xb0; C., the surface temperature of the heat roller <b>2</b> controlled to be turned ON/OFF in the vicinity of the temperature of 160&#xb0; C. is detected as is controlled. On the other hand, with respect to the result L<b>2</b> of the conventional temperature control, although the heat roller <b>2</b> has been increased to the set temperature of 160&#xb0; C., the surface temperature of the heat roller <b>2</b> controlled to be turned ON/OFF in the vicinity of 140&#xb0; C. which is lower than the set temperature by about 20&#xb0; C. is detected. Therefore, in the conventional method, a large detection error occurs.</p>
+<p id="p-0097" num="0100">The invention can solve such a conventional problem and is effective in a fixing apparatus which executes feedback control based on temperature information. In addition, according to the embodiment, in the fixing apparatus utilizing IH control, a temperature rise within a short time can be achieved. Thus, according to the embodiment, an abnormal temperature rise of the heat roller <b>2</b> can be prevented by precisely detecting a temperature. Therefore, damage imparted to the heat roller is reduced, and the service life is extended.</p>
+<heading id="h-0008" level="1">Second Embodiment</heading>
+<p id="p-0098" num="0101">Now, another example of temperature control of the IH controller <b>21</b> will be described with reference to <figref idref="DRAWINGS">FIGS. 7 and 8</figref>. <figref idref="DRAWINGS">FIG. 7</figref> is a flow chart showing an example of a temperature control method using the non-contact temperature detecting element <b>81</b>. <figref idref="DRAWINGS">FIG. 8</figref> is a view showing a relationship between an output voltage value and a total output voltage value of an estimated ambient temperature detected by a non-contact temperature detecting element according to the embodiment.</p>
+<p id="p-0099" num="0102">As shown in <figref idref="DRAWINGS">FIG. 8</figref>, for example, the non-contact temperature detecting element <b>81</b> outputs an output voltage which is 30% or higher of the total output voltage when an estimated ambient temperature is equal to or higher than 20&#xb0; C. (third temperature) which is a minimum temperature when warming up completes. The detecting element also outputs an output voltage which is 90% or higher of the total output voltage at an estimated ambient temperature of 80&#xb0; C. (second temperature).</p>
+<p id="p-0100" num="0103">That is, when a target temperature Pt is a target temperature (100&#xb0; C.), the non-contact temperature detecting element <b>81</b> can output a voltage in the case where an output voltage value outputted from the thermister Q is equal to or smaller than the maximum output value and is 30% or higher of the total output voltage.</p>
+<p id="p-0101" num="0104">As shown in <figref idref="DRAWINGS">FIG. 7</figref>, when the fixing apparatus is powered ON (S<b>21</b>), the IH controller <b>21</b> makes control so that predetermined power is supplied to the coils <b>71</b> to <b>73</b> via the exciting circuit <b>22</b>. In addition, when the fixing apparatus is powered ON, power is supplied to the non-contact temperature detecting elements <b>81</b>, <b>82</b>, <b>83</b>, <b>84</b>, <b>85</b> as well to detect a target temperature and an ambient temperature.</p>
+<p id="p-0102" num="0105">For example, the non-contact temperature detecting element <b>81</b> detects the target temperature Pt (S<b>22</b>), and estimates a temperature which will be detected by the ambient temperature Qt from the detected target temperature Pt. That is, the temperature element CPU <b>100</b> computes the estimated ambient temperature SQt with reference to the predetermined correlation table (S<b>23</b>).</p>
+<p id="p-0103" num="0106">The temperature element CPU <b>100</b> determines whether or not the computed estimated ambient temperature SQt is smaller than the third temperature of 20&#xb0; C. (S<b>24</b>). In the case where the estimated ambient temperature SQt is smaller than the third temperature of 20&#xb0; C. (S<b>24</b>&#x2014;YES), the temperature element CPPU <b>100</b> detects the ambient temperature Qt of an output voltage which is smaller than 30% of the total output voltage value (output limit) (S<b>25</b>), and computes a roller temperature Rt<b>1</b> based on the target temperature Pt and ambient temperature Qt detected in step S<b>22</b> (S<b>26</b>).</p>
+<p id="p-0104" num="0107">On the other hand, in the case where the estimated ambient temperature SQt is equal to or higher than the third temperature of 20&#xb0; C. in step S<b>24</b> (S<b>24</b>&#x2014;NO), the temperature element CPU <b>100</b> further determines whether or not the estimated ambient temperature SQt is equal to or lower than the second temperature of 80&#xb0; C. which is higher than the third temperature (S<b>27</b>). In the case where the estimated ambient temperature SQt is equal to or lower than the second temperature of 80&#xb0; C. (S<b>27</b>&#x2014;YES), the temperature element CPU <b>100</b> detects the ambient temperature Qt of an output voltage which is equal to or higher than 30% of the total output voltage value (output limit) (S<b>28</b>), and computes the roller temperature Rt on the basis of the target temperature Pt and ambient temperature Qt detected in step S<b>22</b> (S<b>26</b>).</p>
+<p id="p-0105" num="0108">On the other hand, in the case where the estimated ambient temperature SQt is higher than the second temperature of 80&#xb0; C. (S<b>27</b>&#x2014;NO), the temperature element CPU <b>100</b> detects the ambient temperature Qt of an output voltage which is 90% or higher of the total output voltage value (output limit) (S<b>29</b>), and computes the roller temperature Rt<b>1</b> on the basis of the target temperature Pt and ambient temperature Qt detected in step S<b>22</b> (S<b>26</b>).</p>
+<p id="p-0106" num="0109">The thus detected roller temperature Rt<b>1</b> is compared with a predetermined set value (for example, 160&#xb0; C.) (S<b>30</b>). In the case where the roller temperature Rt<b>1</b> does not reach the set value (S<b>30</b>&#x2014;NO), temperature control is executed by the IH controller <b>21</b> for heating the coil <b>71</b> to the set temperature (S<b>31</b>). On the other hand, if the roller temperature Rt<b>1</b> reaches the predetermined set value (S<b>30</b>&#x2014;YES), the IH controller <b>21</b> determines whether or not a difference between the roller temperature Rt<b>1</b> and a roller temperature Rt<b>2</b> of another non-contact temperature detecting element obtained in the same manner as when the roller temperature Rt<b>1</b> is obtained is within a predetermined specified value (S<b>32</b>).</p>
+<p id="p-0107" num="0110">When the difference between the roller temperature Rt<b>1</b> and the roller temperature Rt<b>2</b> is within the specified value (S<b>32</b>&#x2014;YES), it is determined that the heat roller <b>2</b> has been heated uniformly in the longitudinal direction up to the set temperature value, and warming up completes. In the case where a print reservation or instruction is made after warming up has terminated (S<b>33</b>&#x2014;YES), a fixing operation of the fixing apparatus is started (S<b>34</b>), and temperature controls are executed by the IH controller <b>21</b> (S<b>31</b>). In the case where no print reservation is made (S<b>33</b>&#x2014;NO), it is determined whether or not power has been turned OFF (S<b>35</b>). In the case where power has been turned OFF (S<b>35</b>&#x2014;YES), these temperature controls are terminated.</p>
+<p id="p-0108" num="0111">If power is kept to be turned ON (S<b>35</b>&#x2014;NO), a ready state is established (S<b>36</b>), and the IH controller <b>21</b> makes control so as to maintain a surface temperature of the heat roller <b>2</b> (S<b>31</b>). In the case where this ready state lasts for a predetermined time or longer, temperature control can be executed in an energy saving mode.</p>
+<p id="p-0109" num="0112">On the other hand, turning to step S<b>12</b>, if the difference between the roller temperature Rt<b>1</b> and the roller temperature Rt<b>2</b> is greater than the specified value, it is determined that the temperature of the heat roller <b>2</b> is not uniform in the longitudinal direction (S<b>3</b>&#x2014;NO). In the case where the difference between the roller temperature Rt<b>1</b> and the roller temperature Rt<b>2</b> is not equal to or smaller than the specified value after a specified time has elapsed (S<b>37</b>&#x2014;YES), the main CPU determines that there occurs a problem that precise temperature detection cannot be carried out because the heat roller <b>2</b> fails or a non-contact temperature detecting element is dirty. Then, the display section <b>26</b> displays &#x201c;service personnel inspection&#x201d; as shown in <figref idref="DRAWINGS">FIG. 5</figref>, and requests roller replacement or cleaning of the non-contact temperature detecting element (S<b>38</b>). In the case where the specified time has not elapsed in step S<b>37</b> (S<b>37</b>&#x2014;NO), temperature control is executed by the IH controller <b>21</b> for making uniform the temperature in the axial direction of the heat roller <b>2</b> (S<b>31</b>).</p>
+<p id="p-0110" num="0113">The above-described third temperature is provided as a minimum temperature required when warming up completes, and the third temperature has been set to 20&#xb0; C. in the embodiment. Thus is because, as shown in <figref idref="DRAWINGS">FIG. 9</figref>, 20&#xb0; C. has been set when warming up completes as a result of measuring the ambient temperature during warming up in a low tone and low humidity environment. Therefore, the ambient temperature when warming up completes reaches at least 20&#xb0; C. or higher under a normal temperature environment or under a high temperature environment.</p>
+<p id="p-0111" num="0114">As described above, the non-contact temperature detecting elements <b>81</b> to <b>85</b> can output an ambient temperature of a sufficient output voltage value from an ambient temperature in a state in which the ambient temperature has reached the minimum temperature required when warming up completes to an ambient temperature at which the surface temperature of the heat roller <b>2</b> is heated and maintained to the fixing temperature. Consequently, the non-contact temperature detecting elements <b>81</b> to <b>85</b> can detect a temperature more precisely. Therefore, the power supplied to the coils <b>71</b> to <b>73</b> is also selected according to the temperatures detected by the non-contact temperature detecting elements <b>81</b> to <b>85</b>, thus making it possible to utilize power with no wastefulness without excessive power being supplied to the coils <b>71</b> to <b>73</b> and contribute to energy saving.</p>
+<heading id="h-0009" level="1">Third Embodiment</heading>
+<p id="p-0112" num="0115">Now, a still another example of the heating apparatus control method according to the invention will be described with reference to <figref idref="DRAWINGS">FIGS. 10 to 16</figref>.</p>
+<p id="p-0113" num="0116"><figref idref="DRAWINGS">FIG. 10</figref> is a block diagram illustrating a control system of a non-contact temperature detecting element. <figref idref="DRAWINGS">FIG. 11</figref> is a view showing a relationship between temperature detection of an ambient temperature detecting section and program change. <figref idref="DRAWINGS">FIG. 12</figref> is a view showing a relationship between an output voltage value and a total output voltage value of an estimated ambient temperature in a first thermister according to the embodiment. <figref idref="DRAWINGS">FIG. 13</figref> is a view showing a relationship of an output voltage value and a total output voltage value of an estimated ambient temperature in a second thermister according to the embodiment. <figref idref="DRAWINGS">FIG. 14</figref> is a view showing a relationship between an output voltage value and a total output voltage value of an estimated ambient temperature of a third thermister according to the embodiment. <figref idref="DRAWINGS">FIGS. 15 and 16</figref> are flow charts each showing an example of a temperature control method using the non-contact temperature detecting element <b>81</b>.</p>
+<p id="p-0114" num="0117">As shown in <figref idref="DRAWINGS">FIG. 10</figref>, the non-contact temperature detecting element <b>81</b> comprises a thermopile P, a first thermister QA, a second thermister QB, a third thermister QC, a temperature element CPU <b>100</b>, and a thermister selector circuit <b>200</b>.</p>
+<p id="p-0115" num="0118">The temperature element CPU <b>100</b> is connected to the thermopile P, the thermister selector circuit <b>200</b>, and the IH controller <b>21</b> to input a target temperature Pt detected by the thermopile P and ambient temperatures QtA, QtB, QtC detected by the first to third thermisters QA, QB, QC selected via the thermister selector circuit <b>200</b>. The temperature element CPU <b>100</b> computes a roller temperature Rt based on these items of inputted information, and outputs the computed temperature to the IH controller <b>21</b>.</p>
+<p id="p-0116" num="0119">Specifically, when the thermister selector circuit <b>200</b> selects the first thermister QA, a program A described later is used to output the ambient temperature QtA which is a voltage value of a rate set with respect to the total output voltage according to the ambient temperature, as described in the first and second embodiments. Similarly, when the second thermister QB is selected, a program B is used to output the ambient temperature QtB which is a voltage value of a rate set with respect to the total output value according to the ambient temperature. When the third thermister is selected, a program C is used to output the ambient temperature QtC which is a voltage value of a rate set with respect to the total output value according to the ambient temperature.</p>
+<p id="p-0117" num="0120">As described above, the temperature element CPU <b>100</b> can compute the estimated ambient temperature SQt with reference to the target temperature Pt detected by the thermopile P on the basis of the predetermined correlation table.</p>
+<p id="p-0118" num="0121">The thermister selector circuit <b>200</b> selects a self temperature detecting section for detecting an ambient temperature according to the above estimated ambient temperature SQt. In the embodiment, in the case of (A) &#x2212;5&#xb0; C.&#x2266;the estimated ambient temperature SQt&#x3c;28&#xb0; C. (first temperature range), the thermister selector circuit <b>200</b> selects the first thermister QA. In the case of (B) 28&#xb0; C.&#x2266;the estimated ambient temperature SQt&#x3c;57&#xb0; C. (second temperature range), the selector circuit selects the second thermister QB. In the case of (C) 57&#xb0; C.&#x2266;the estimated ambient temperature SQt&#x3c;80&#xb0; C. (third temperature range), the selector circuit selects the third thermister QC.</p>
+<p id="p-0119" num="0122">When the program A is used, the first thermister QA is controlled to output an output voltage which is equal to or higher than &#x2212;5&#xb0; C. in estimated ambient temperature SQt and which is 20% or higher of the total output voltage, as shown in <figref idref="DRAWINGS">FIG. 12</figref> and to output an output voltage which is 28&#xb0; C. in estimated ambient temperature SQt and which is 90% or higher of the total output voltage, by means of the temperature element CPU <b>100</b>.</p>
+<p id="p-0120" num="0123">When the program B is used, the second thermister QB is controlled to output an output voltage which is equal to or higher than 28&#xb0; C. in estimated ambient temperature SQt and which is 20% or higher of the total output voltage, as shown in <figref idref="DRAWINGS">FIG. 13</figref> and to output an output voltage which is 57&#xb0; C. in estimated ambient temperature SQt and which is 90% or higher of the total output voltage, by means of the temperature element CPU <b>100</b>.</p>
+<p id="p-0121" num="0124">When the program C is used, the third thermister QC is controlled to output an output voltage which is equal to or higher than 57&#xb0; C. in estimated ambient temperature SQt and which is 20% or higher of the total output voltage, as shown in <figref idref="DRAWINGS">FIG. 14</figref> and to output an output voltage which is 80&#xb0; C. in estimated ambient temperature SQt and which is 90% or higher of the total output voltage, by means of the temperature element CPU <b>100</b>.</p>
+<p id="p-0122" num="0125">That is, the first to third thermisters QA, QB, QC, as described in the first and second embodiments, are controlled based on the programs A to C such that a rate of an output voltage to a total output voltage is selected according to the threshold value of the respective estimated ambient temperature SQt.</p>
+<p id="p-0123" num="0126">Therefore, as in the non-contact temperature detecting element according to the embodiment, a plurality of thermisters capable of outputting a sufficient output voltage are provided in association with an ambient temperature range delimited by an arbitrary threshold value, whereby a difference in output voltage according to a temperature change broadens, thus making it possible to carry out more precious temperature detection.</p>
+<p id="p-0124" num="0127">As shown in <figref idref="DRAWINGS">FIG. 15</figref>, when the fixing apparatus is powered ON (S<b>61</b>), the IH controller <b>21</b> makes control so as to supply predetermined power to the coils <b>71</b> to <b>73</b> via the exciting circuit <b>22</b>. In addition, when the fixing apparatus is powered ON, power is supplied to non-contact temperature detecting elements <b>81</b>, <b>82</b>, <b>83</b>, <b>84</b>, <b>85</b> as well to detect a target temperature and an ambient temperature.</p>
+<p id="p-0125" num="0128">For example, when the thermopile P of the non-contact temperature detecting element <b>81</b> detects the target temperature Pt (S<b>62</b>), the temperature element CPU <b>100</b> computes the estimated ambient temperature SQt with reference to the predetermined correlation table (S<b>63</b>).</p>
+<p id="p-0126" num="0129">The temperature element CPU <b>100</b> determines whether or not the computed estimated ambient temperature SQt is within the range between &#x2212;5&#xb0; C. or higher and lower than 28&#xb0; C. (S<b>64</b>). In the case where the estimated ambient temperature SQt is within the range of &#x2212;5&#xb0; C.&#x2266;the estimated ambient temperature SQt&#x3c;28&#xb0; C. (S<b>64</b>&#x2014;YES), the thermister selector circuit <b>200</b> selects the thermister QA. The temperature element CPU <b>100</b> detects the ambient temperature QtA from the thermister QA at an output voltage of 20% or higher and lower than 90% of the total output voltage by using the program A (S<b>65</b>).</p>
+<p id="p-0127" num="0130">On the other hand, in step S<b>64</b>, in the case where the estimated ambient temperature SQt is not within the range of &#x2212;5&#xb0; C.&#x2266;the estimated ambient temperature SQt&#x3c;28&#xb0; C. (S<b>65</b>&#x2014;YES), the temperature element CPU <b>100</b> determines whether or not the inputted estimated ambient temperature SQt is within the range between 28&#xb0; C. or higher and lower than 57&#xb0; C. (S<b>66</b>). In the case where the estimated ambient temperature SQt is within the range of 28&#xb0; C.&#x2266;the estimated ambient temperature SQt&#x3c;57&#xb0; C. (S<b>66</b>&#x2014;YES), the thermister selector circuit <b>200</b> selects the thermister QB. The temperature element CPU <b>100</b> detects the ambient temperature QtB from the thermister QB at an output voltage in the range between 20% or higher and lower than 90% of the total output voltage by using the program B (S<b>67</b>).</p>
+<p id="p-0128" num="0131">On the other hand, in the case where the estimated ambient temperature SQt is not within the range of &#x2212;28&#xb0; C.&#x2266;the estimated ambient temperature SQt&#x3c;57&#xb0; C. (S<b>66</b>&#x2014;YES), the temperature element CPU <b>100</b> determines whether or not the inputted estimated ambient temperature SQt is within the range between 57&#xb0; C. or higher and lower than 80&#xb0; C. (S<b>68</b>). In the case where the estimated ambient temperature SQt is within the range of 57&#xb0; C.&#x2266;the estimated ambient temperature SQt&#x3c;80&#xb0; C. (S<b>68</b>&#x2014;YES), the thermister selector circuit <b>200</b> selects the thermister QC. The temperature element CPU <b>100</b> detects the ambient temperature QtC from the thermister QC at an output voltage in the range between 20% or higher and lower than 90% of the total output voltage by using the program C (S<b>69</b>).</p>
+<p id="p-0129" num="0132">On the other hand, in step S<b>66</b>, in the case where the estimated ambient temperature SQt is not within the range of &#x2212;28&#xb0; C.&#x2266;the estimated ambient temperature SQt&#x3c;57&#xb0; C. (S<b>66</b>&#x2014;YES), the thermister selector circuit <b>200</b> selects any one of the thermister QA to QC. In the embodiment, the thermister QC is selected. The temperature element CPU <b>100</b> detects the ambient temperature QtC from the thermister QC at an output voltage which is 90% or higher of the total output voltage by using the program C (S<b>70</b>).</p>
+<p id="p-0130" num="0133">The temperature element CPU <b>100</b> computes a roller temperature Rt<b>1</b> on the basis of any one of the ambient temperatures QtA to QtC detected as described above and the target temperature Pt detected in step S<b>2</b> (S<b>71</b>).</p>
+<p id="p-0131" num="0134">The computed roller temperature Rt<b>1</b> is compared with a predetermined set value (for example, 160&#xb0; C.) (S<b>72</b>). In the case where the roller temperature Rt<b>1</b> does not reach the set value (S<b>72</b>&#x2014;NO), temperature control is executed by the IH controller <b>2</b> for heating the coil <b>71</b> to the set temperature (S<b>73</b>). On the other hand, when the roller temperature Rt<b>1</b> reaches the predetermined set value (S<b>72</b>&#x2014;YES), the IH controller <b>21</b> determines whether or not a difference between the roller temperature Rt<b>1</b> and a roller temperature Rt<b>2</b> of another non-contact temperature detecting element <b>82</b> obtained in the same manner as when the roller temperature Rt<b>1</b> is obtained is within the predetermined specified value (S<b>74</b>).</p>
+<p id="p-0132" num="0135">When the difference between the roller temperature Rt<b>1</b> and the roller temperature Rt<b>2</b> is within the specified value (S<b>74</b>&#x2014;YES), it is determined that the heat roller <b>2</b> has been heated uniformly in the longitudinal direction up to the set temperature value, and warming up completes. In the case where a print reservation or instruction is made after warming up has terminated (S<b>75</b>&#x2014;YES), a fixing operation of the fixing apparatus is started (S<b>76</b>), and temperature controls are executed by the IH controller <b>21</b> (S<b>73</b>). In the case where no print reservation is made (S<b>75</b>&#x2014;NO), it is determined whether or not power is turned OFF (S<b>77</b>). In the case where power has been turned OFF (S<b>77</b>&#x2014;YES), these temperature controls are terminated.</p>
+<p id="p-0133" num="0136">If power is kept to be turned ON (S<b>77</b>&#x2014;NO), a ready state is established (S<b>78</b>), and the IH controller <b>21</b> makes control so as to maintain a surface temperature of the heat roller <b>2</b> (S<b>73</b>). In the case where this ready state lasts for a predetermined time or longer, temperature control can be executed in an energy saving mode.</p>
+<p id="p-0134" num="0137">On the other hand, turning to step S<b>74</b>, if the difference between the roller temperature Rt<b>1</b> and the roller temperature Rt<b>2</b> is greater than the specified value, it is determined that the temperature of the heat roller <b>2</b> is not uniform in the longitudinal direction S<b>74</b>&#x2014;NO). In the case where the difference between the roller temperature Rt<b>1</b> and the roller temperature Rt<b>2</b> is not equal to or smaller than the specified value after a specified time has elapsed (S<b>79</b>&#x2014;YES), the main CPU determines that there occurs a problem that precise temperature detection cannot be carried out because the heat roller <b>2</b> fails or because the non-contact temperature detecting element is dirty. Then, the display section <b>26</b> displays &#x201c;service personnel inspection&#x201d; as shown in <figref idref="DRAWINGS">FIG. 5</figref>, and requests roller replacement or cleaning of the non-contact temperature detecting element (S<b>80</b>). In step S<b>79</b>, in the case where the specified time has not elapsed (S<b>79</b>&#x2014;NO), temperature control is executed by the IH controller <b>21</b> for making uniform the temperature in the axial direction of the heat roller <b>2</b> (S<b>73</b>).</p>
+<p id="p-0135" num="0138">In this manner, temperature control is executed using the non-contact temperature detecting element <b>81</b>. With respect to the other non-contact temperature detecting elements <b>82</b> to <b>85</b> as well, the roller temperatures Rt<b>2</b> to Rt<b>5</b> are computed similarly. The IH controller <b>21</b> makes temperature control of the heat roller <b>2</b> on the basis of these roller temperatures Rt<b>2</b> to Rt<b>5</b>.</p>
+<p id="p-0136" num="0139">As described above, the non-contact temperature detecting elements <b>81</b> to <b>85</b> according to the embodiment each has the first to third thermisters capable of, in a predetermined estimated ambient temperature range (first to third temperature ranges), detecting an ambient temperature of an output voltage which is in the range between 20% or higher and lower than 90% of the total output voltage in this temperature range. In addition, the first to third temperature ranges are provided as continuous temperature ranges. A thermister selected by the thermister selector circuit <b>200</b> is switched according to the computed estimated ambient temperature, whereby the ambient temperature of an output voltage in the range between 20% or higher and lower than 90% of the total output voltage can be detected in the first to third temperature ranges. Thus, a difference in output voltage of the ambient temperature output from the thermister Q broadens, and the thermister can carry out precise temperature detection.</p>
+<p id="p-0137" num="0140">In step S<b>70</b> shown in <figref idref="DRAWINGS">FIG. 15</figref>, although the thermister QC has been utilized, the present invention is not limited to this thermister. For example, a fourth thermister is further provided to output an output voltage which is equal to or higher than 80&#xb0; C. in estimated ambient temperature and which is equal to or higher than 20% of a total output voltage, so that an ambient temperature may be detected by the fourth thermister.</p>
+<p id="p-0138" num="0141">In addition, the invention utilizing a non-contact temperature detecting mechanism can prevent an occurrence of a slide contact trace which may be formed on the surface of the heat roller <b>2</b> by the temperature detecting mechanism of contact type, and thus, the service life of the heat roller <b>2</b> can be executed.</p>
+<p id="p-0139" num="0142">The present invention is not limited to the above-described embodiments themselves. The invention can be embodied by modifying the constituent elements without departing from the spirit of the invention at the stage of carrying out the invention. In addition, a variety of inventions can be formed by using a proper combination of a plurality of constituent elements disclosed in the above-described embodiments. For example, some of all the constituent elements shown in the embodiments may be erased. Further, the constituent elements over the different embodiments may be properly combined with each other.</p>
+<p id="p-0140" num="0143">For example, the non-contact temperature detecting elements <b>81</b> to <b>85</b> may sense the surface temperature of the heat roller <b>2</b> on the downstream side in the rotation direction of the heat roller <b>2</b> more than a position at which the induction heating device <b>7</b> is allocated and on the upstream side more than the nip portion. For example, these non-contact temperature detecting elements may be configured to sense the surface temperature of the heat roller <b>2</b> between the coil and the heat roller <b>2</b>, immediately after the coil, and immediately before the nip.</p>
+<p id="p-0141" num="0144">In addition, as described above, while the non-contact temperature detecting elements <b>81</b> to <b>85</b> have been described as constituent elements capable of detecting a temperature of one site by one element, the present invention is not limited to these detecting elements. For example, there may be used a non-contact temperature detecting element which detects temperatures of two or more sites by one element.</p>
+<p id="p-0142" num="0145">Further, as described above, while the non-contact temperature detecting elements <b>81</b> to <b>85</b> have been described to be allocated in a region opposed to the coil joint or the center of the coils <b>71</b> to <b>73</b>, the present invention is not limited to these detecting elements. For example, these detecting elements may be allocated at both ends in the longitudinal direction of the heat roller <b>2</b>, i.e., in a region opposed to the ends of the coils <b>72</b>, <b>73</b>. In addition, the detecting elements may be configured so as not to be allocated at the joint and so as to be allocated in a region opposed to at least the center coil <b>71</b> and in a region opposed to the end coil <b>72</b>.</p>
+<p id="p-0143" num="0146">Furthermore, in temperature control as shown in <figref idref="DRAWINGS">FIG. 3</figref>, the heat roller <b>2</b> may be configured to be rotated at the same time as when power is turned ON or may be configured to be rotated after a predetermined time has elapsed.</p>
+<p id="p-0144" num="0147">Moreover, while the embodiment has described that a fixing temperature of the heat roller <b>2</b> is set to 180&#xb0; C., the present invention is not limited to this fixing temperature. The setting can be changed according to an equipment structure, a melting point of a developer to be utilized or the like. In addition, this set value depends depending on the size, type or thickness of a recording medium. For example, when the recording medium is thick, the set value is set to be higher than usual.</p>
+<p id="p-0145" num="0148">In addition, while the embodiment has described a method for setting an amount of power, thereby generating a magnetic flux which is an arbitrary heating force from the coils <b>71</b> to <b>73</b>, the present invention is not limited to this method. This method may be provided as a method for selecting a frequency of a flow current for the coils <b>71</b> to <b>73</b>, thereby changing the heating force.</p>
+<p id="p-0146" num="0149">While the embodiment has described a configuration of applying a pressure from the pressure roller to the heat roller, the present invention is not limited to this configuration. This configuration may be provided as a configuration of applying a pressure from the heat roller to the pressure roller.</p>
+<p id="p-0147" num="0150">In addition, this configuration may be provided as a configuration of detecting the temperature of the heat roller <b>2</b> by using a sensor of contact type. Further, in the non-contact temperature detecting element <b>81</b>, at least the thermopile P and the thermister Q may be allocated in the fixing apparatus. The temperature element CPU <b>100</b> or the like may be allocated outside of the fixing apparatus.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A non-contact temperature sensing device comprising:
+<claim-text>a thermopile configured to detect a target temperature;</claim-text>
+<claim-text>a control section configured to estimate an ambient temperature at the periphery of the thermopile and compute an estimated ambient temperature with reference to the target temperature;</claim-text>
+<claim-text>a plurality of self temperature detecting sections each configured to detect an ambient temperature at the periphery of the thermopile and output the ambient temperature to the control section at an output voltage of a rate with respect to a total output voltage value which corresponds to the estimated ambient temperature; and</claim-text>
+<claim-text>a self temperature detecting section selector configured to switch the self temperature detecting sections according to the estimated ambient temperature.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The non-contact temperature sensing device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the self temperature detecting sections include:
+<claim-text>a first self temperature detecting section configured to output an output voltage which is 20% or higher of the total output voltage when the estimated ambient temperature is in a first temperature range; and</claim-text>
+<claim-text>a second self temperature detecting section configured to output an output voltage which is 20% or higher of the total output voltage when the estimated ambient temperature is within a second temperature range different from the first temperature range,</claim-text>
+<claim-text>wherein the self temperature detecting section selector is configured to select the first temperature detecting section when the estimated ambient temperature is within the first temperature range, or the second temperature detecting section when the estimated ambient temperature is within the second temperature range, and</claim-text>
+<claim-text>wherein the control section is configured to compute a temperature of a target on the basis of the output voltage of the first self temperature detecting section or the second self temperature detecting section selected by the self temperature detecting section selector, and the target temperature detected by the thermopile.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The non-contact temperature sensing device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the thermopile comprises a thermopile temperature sensor configured to detect a temperature by utilizing a red infrared ray.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The non-contact temperature sensing device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the self temperature detecting sections include:
+<claim-text>a first self temperature detecting section configured to output an output voltage which is 20% or higher of the total output voltage when the estimated ambient temperature is in a first temperature range;</claim-text>
+<claim-text>a second self temperature detecting section configured to output an output voltage which is 20% or higher of the total output voltage when the estimated ambient temperature is within a second temperature range different from the first temperature range; and</claim-text>
+<claim-text>a third self temperature detecting section configured to output an output voltage which is 20% or higher of the total output voltage when the estimated ambient temperature is within a third temperature range different from the first temperature range and the second temperature range,</claim-text>
+<claim-text>wherein the self temperature detecting section selector is configured to select:
+<claim-text>the first self temperature detecting section when the estimated ambient temperature is within the first temperature range;</claim-text>
+<claim-text>the second self temperature detecting section when the estimated ambient temperature is within the second temperature range; or</claim-text>
+<claim-text>the third self temperature detecting section when the estimated ambient temperature is within the third temperature range, and</claim-text>
+</claim-text>
+<claim-text>wherein the control section is configured to compute a temperature of a target on the basis of the output voltage of the first self temperature detecting section, the second self temperature detecting section, or the third temperature detecting section selected by the self temperature detecting section selector, and the target temperature detected by the thermopile.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The non-contact temperature sensing device according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the first temperature range is &#x2212;5&#xb0; C.&#x2266;the estimated ambient temperature SQt&#x3c;28&#xb0; C., the second temperature range is 28&#xb0; C.&#x2266;the estimated ambient temperature SQt&#x3c;57&#xb0; C., and the third temperature range is 57&#xb0; C.&#x2266;the estimated ambient temperature SQt&#x3c;80&#xb0; C.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A method of non-contact temperature sensing comprising:
+<claim-text>detecting a target temperature using a thermopile;</claim-text>
+<claim-text>estimating an ambient temperature at the periphery of the thermopile and computing an estimated ambient temperature with reference to the target temperature;</claim-text>
+<claim-text>detecting an ambient temperature at the periphery of the thermopile using each of a plurality of self temperature detecting sections and outputting the detected ambient temperatures at an output voltage of a rate with respect to a total output voltage value which corresponds to the estimated ambient temperature; and</claim-text>
+<claim-text>switching the self temperature detecting sections according to the estimated ambient temperature.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the self temperature detecting sections include:
+<claim-text>a first self temperature detecting section configured to output an output voltage which is 20% or higher of the total output voltage when the estimated ambient temperature is in a first temperature range; and</claim-text>
+<claim-text>a second self temperature detecting section configured to output an output voltage which is 20% or higher of the total output voltage when the estimated ambient temperature is within a second temperature range different from the first temperature range,</claim-text>
+<claim-text>wherein the switching the self temperature detecting sections includes selecting the first self temperature detecting section when the estimated ambient temperature is within the first temperature range and selecting the self second temperature detecting section when the estimated ambient temperature is within the second temperature range, and</claim-text>
+<claim-text>wherein the computing includes computing a temperature of a target on the basis of the output voltage of the first self temperature detecting section or the second self temperature detecting section selected by the switching, and the target temperature detected by the thermopile.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the thermopile comprises a thermopile temperature sensor configured to detect a temperature by utilizing a red infrared ray.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the self temperature detecting sections include:
+<claim-text>a first self temperature detecting section configured to output an output voltage which is 20% or higher of the total output voltage when the estimated ambient temperature is in a first temperature range;</claim-text>
+<claim-text>a second self temperature detecting section configured to output an output voltage which is 20% or higher of the total output voltage when the estimated ambient temperature is within a second temperature range different from the first temperature range; and</claim-text>
+<claim-text>a third self temperature detecting section configured to output an output voltage which is 20% or higher of the total output voltage when the estimated ambient temperature is within a third temperature range different from the first temperature range and the second temperature range,</claim-text>
+<claim-text>wherein the switching the self temperature detecting sections includes:
+<claim-text>selecting the first self temperature detecting section when the estimated ambient temperature is within the first temperature range;</claim-text>
+<claim-text>selecting the second self temperature detecting section when the estimated ambient temperature is within the second temperature range; or</claim-text>
+<claim-text>selecting the third self temperature detecting section when the estimated ambient temperature is within the third temperature range, and</claim-text>
+</claim-text>
+<claim-text>wherein the computing includes computing a temperature of a target on the basis of the output voltage of the first self temperature detecting section, the second self temperature detecting section, or the third self temperature detecting section selected by the switching, and the target temperature detected by the thermopile.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the first temperature range is &#x2212;5&#xb0; C.&#x2266;the estimated ambient temperature SQt&#x3c;28&#xb0; C., the second temperature range is 28&#xb0; C.&#x2266;the estimated ambient temperature SQt&#x3c;57&#xb0; C., and the third temperature range is 57&#xb0; C.&#x2266;the estimated ambient temperature SQt&#x3c;80&#xb0; C. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

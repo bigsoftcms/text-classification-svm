@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641797-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641797</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11665732</doc-number>
+<date>20051021</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2004-307813</doc-number>
+<date>20041022</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>279</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>02</class>
+<subclass>F</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>210606</main-classification>
+<further-classification>210749</further-classification>
+<further-classification>210764</further-classification>
+<further-classification>210908</further-classification>
+</classification-national>
+<invention-title id="d0e71">Method of treating waste liquid from production plant for hydrocarbons or oxygen-containing compounds</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4338196</doc-number>
+<kind>A</kind>
+<name>Mayerle</name>
+<date>19820700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210610</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4824577</doc-number>
+<kind>A</kind>
+<name>Schwitzgelbel</name>
+<date>19890400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210665</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6126830</doc-number>
+<kind>A</kind>
+<name>Marshall</name>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210627</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6268204</doc-number>
+<kind>B1</kind>
+<name>Miller et al.</name>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>4352625</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6946073</doc-number>
+<kind>B2</kind>
+<name>Daigger et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210605</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>JP</country>
+<doc-number>51-145168</doc-number>
+<date>19761200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>JP</country>
+<doc-number>53-144149</doc-number>
+<date>19781200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>JP</country>
+<doc-number>07-232178</doc-number>
+<date>19950900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>JP</country>
+<doc-number>08-024885</doc-number>
+<date>19960100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>JP</country>
+<doc-number>09-253696</doc-number>
+<date>19970900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>JP</country>
+<doc-number>11-019685</doc-number>
+<date>19990100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>JP</country>
+<doc-number>11-019686</doc-number>
+<date>19990100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>JP</country>
+<doc-number>2003-024991</doc-number>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>JP</country>
+<doc-number>2003-136087</doc-number>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>JP</country>
+<doc-number>2003260449</doc-number>
+<kind>A</kind>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00016">
+<othercit>English language Abstract of JP JP2003260449 A.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+</references-cited>
+<number-of-claims>21</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>210908</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210764</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210749</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210606</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>2</number-of-drawing-sheets>
+<number-of-figures>2</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070289923</doc-number>
+<kind>A1</kind>
+<date>20071220</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ikebe</last-name>
+<first-name>Hiroaki</first-name>
+<address>
+<city>Narashino</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Uchida</last-name>
+<first-name>Masayuki</first-name>
+<address>
+<city>Narashino</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Betchaku</last-name>
+<first-name>Hitoshi</first-name>
+<address>
+<city>Funabashi</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Flynn, Thiel, Boutell &#x26; Tanis, P.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Toyo Engineering Corporation</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+<assignee>
+<addressbook>
+<orgname>Water Re-Use Promotion Center</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Barry</last-name>
+<first-name>Chester T</first-name>
+<department>1797</department>
+</primary-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2005/019836</doc-number>
+<kind>00</kind>
+<date>20051021</date>
+</document-id>
+<us-371c124-date>
+<date>20070418</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2006/043726</doc-number>
+<kind>A </kind>
+<date>20060427</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method for treating a formaldehyde-containing waste liquid, which is formed as a byproduct in a plant for the production of hydrocarbons or oxygen-containing compounds, containing the steps of: subjecting formaldehyde in the liquid to chemical treatment; and treating the resulting waste liquid, while being aerated, by using a membrane bioreactor that is composed of a microorganism or enzyme and a separation membrane.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="134.70mm" wi="217.34mm" file="US07641797-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="222.50mm" wi="153.84mm" orientation="landscape" file="US07641797-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="214.80mm" wi="148.93mm" orientation="landscape" file="US07641797-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates to a method of treating waste liquid, which is formed from a plant for the production of hydrocarbons or oxygen-containing compounds.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0003" num="0002">Industrial waste liquid may contain formaldehyde or methanol. Such waste liquid is discharged after it is treated to make the concentration of formaldehyde fit a waste liquid standard. As a method of treating formaldehyde or methanol in the waste liquid, the activated sludge method is used, in many cases.</p>
+<p id="p-0004" num="0003">In the activated sludge method, formaldehyde: a material originally harmful to living things, is treated with microorganisms, and in the treatment, a stage called &#x201c;acclimatization&#x201d; raises the concentration of formaldehyde gradually, causing the microorganisms to gain resistance against formaldehyde, and simultaneously causing the microorganisms to decompose formaldehyde, whereby waste liquid having a target formaldehyde concentration is treated. During acclimatization, it is possible to treat only formaldehyde-containing waste liquid having a concentration of a fraction of several tens or several hundreds of a target formaldehyde concentration, or having a smaller concentration. Thus, it is necessary to wait several months before treatment of waste liquid having the target formaldehyde concentration can be performed.</p>
+<p id="p-0005" num="0004">JP-A-11-19685 (&#x201c;JP-A&#x201d; means unexamined published Japanese patent application), JP-A-11-19686, JP-A-9-253696, and JP-A-7-232178 disclose methods of treating formaldehyde-containing waste liquid, in which the period of acclimatization can be made short or is not required. JP-A-11-19685 and JP-A-11-19686 describe methods of using a specific microorganism capable of decomposing high-concentration formaldehyde. Further, JP-A-9-253696 and JP-A-7-232178 describe methods of decomposing formaldehyde without using any activated sludge. The methods described in JP-A-9-253696 and JP-A-7-232178, which are different from any activated sludge method, require the setting up of facilities and catalysts, to raise the temperature and pressure of waste liquid to be treated.</p>
+<p id="p-0006" num="0005">On the other hand, as to facilities for waste liquid treatment in the activated sludge method, JP-A-8-24885 discloses a method of using a microfiltration membrane filter, thereby omitting a sedimentation tank for sludge, which is conventionally necessary in the activated sludge method, and saving on facility-installation space.</p>
+<p id="p-0007" num="0006">Incidentally, in recent years, the demand for water has been increasing, based on a rising population, and the amount of water that can be used per person has been increasing, based on improvement in the level of living, while new development of water (fresh water) resources has not been pursued. Further, the demand for water that can be used to produce food has also been increasing, from the rise in population. As a result, distribution of water resources between daily life water and agricultural water has been coming to the fore as a new problem.</p>
+<p id="p-0008" num="0007">To obtain fresh water by seawater desalting, it is essential that a place therefor is geographically near the sea. Further, to remove salts and the like from seawater, it is necessary to consume energy of a heat source or the like.</p>
+<p id="p-0009" num="0008">Meanwhile, waste water or sullage discharged (formed) following reactions in chemical plants or the like, is treated for reuse as a raw material water, boiler feed water, cooling water, or the like in plants, industrial complexes, or the like. In general, however, water generated by chemical reaction contains a variety of salts, reaction products, or compounds harmful to the human body, in many cases. In particular, salts are easily dissolved in water; and, metal components of pipes used in plant, catalysts used in the reaction, and the like may be present as salts in aqueous solution. In many cases, it is difficult to remove such salts by filtration or some other operation, or to remove only the salts selectively and effectively. For this reason, great cost is necessary to treat waste liquid to such a level that the resultant waste liquid can be used as life water or agricultural water. Thus, in general, the treatment has not been conducted.</p>
+<heading id="h-0003" level="1">DISCLOSURE OF INVENTION</heading>
+<p id="p-0010" num="0009">According to the present invention, the following means are provided:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0010">(1) A method for treating a formaldehyde-containing waste liquid, which is formed as a byproduct in a plant for the production of hydrocarbons or oxygen-containing compounds, comprising the steps of:
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0011">subjecting formaldehyde in the liquid to chemical treatment; and</li>
+        <li id="ul0002-0002" num="0012">treating the resulting waste liquid, while being aerated, by using a membrane bioreactor that is composed of a microorganism or enzyme and a separation membrane;</li>
+    </ul>
+    </li>
+    <li id="ul0001-0002" num="0013">(2) The method for treating the waste liquid according to item (1), wherein the membrane bioreactor is provided with activated sludge;</li>
+    <li id="ul0001-0003" num="0014">(3) The method for treating the waste liquid according to item (1) or (2), wherein the chemical treatment is conducted by converting formaldehyde to formic acid;</li>
+    <li id="ul0001-0004" num="0015">(4) The method for treating the waste liquid according to any one of items (1) to (3), which comprises the step of: filtrating after the treating step with the membrane bioreactor;</li>
+    <li id="ul0001-0005" num="0016">(5) The method for treating the waste liquid according to item (4), wherein the filtrating is reverse osmosis filtration;</li>
+    <li id="ul0001-0006" num="0017">(6) The method for treating the waste liquid according to item (4) or (5), which comprises the step of: sterilizing after the filtrating step;</li>
+    <li id="ul0001-0007" num="0018">(7) The method for treating the waste liquid according to item (6), which comprises the step of: adding a mineral or fertilizer after the sterilizing step;</li>
+    <li id="ul0001-0008" num="0019">(8) A method for producing reclaimed water, comprising: using the method for treating the waste liquid according to any one of items (1) to (7); and</li>
+    <li id="ul0001-0009" num="0020">(9) The method for producing reclaimed water according to item (8), which is performed by treating waste liquid formed as a byproduct in the step of producing dimethyl ether from a hydrocarbon via methanol, or the step of producing liquid fuel oil from natural gas via synthetic gas.</li>
+</ul>
+</p>
+<p id="p-0011" num="0021">In the present invention, the term &#x201c;reclaimed water&#x201d; means to include life water (domestic water) including drinking water, plant-cultivating water, agricultural water, intermediate water (middle or gray water), or industrial water including boiler feed water, each of which is obtained by treating waste liquid.</p>
+<p id="p-0012" num="0022">According to the present invention, formaldehyde-containing waste liquid (byproduct water) that is formed as a byproduct in a plant for the production of hydrocarbons or oxygen-containing compounds can be effectively treated at low costs, and the resultant waste liquid can be reused as a new water resource (reclaimed water) for domestic water, a typical example thereof being drinking water, plant-cultivating water, agricultural water, intermediate water, industrial water, or some other water.</p>
+<p id="p-0013" num="0023">Other and further features and advantages of the invention will appear more fully from the following description, taken in connection with the accompanying drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0014" num="0024"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic view of an example of a preferred facility for carrying out the present invention.</p>
+<p id="p-0015" num="0025"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic view of another example of a preferred facility for carrying out the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">BEST MODE FOR CARRYING OUT THE INVENTION</heading>
+<p id="p-0016" num="0026">The present inventors, having made eager investigations, have found out that waste liquid formed as a byproduct in a plant for producing an oxygen-containing compound, such as dimethyl ether (referred to as &#x2018;DME&#x2019; herein), or a liquid hydrocarbon, such as GTL (gas to liquid, liquid fuel oil produced from natural gas via synthetic gas), contains formaldehyde, methanol, formic acid, or the like as trace constituents; however, the waste liquid hardly contains any salt or metal, or it contains a salt or metal merely to such a degree that no problem is caused when the waste liquid is used as domestic water or agricultural water. Further, the inventors have found out that this waste liquid can be effectively reused at low costs, for example, as domestic water including drinking water, agricultural water, or industrial water, by treating the waste liquid with a membrane bioreactor. The present invention has been completed based on such findings.</p>
+<p id="p-0017" num="0027">The present invention will be described in detail hereinafter.</p>
+<p id="p-0018" num="0028">One of the characteristics of the present invention resides in the treating, for, as a subject therefor, formaldehyde-containing waste liquid which is formed as a byproduct in a plant for the production of oxygen-containing compounds such as dimethyl ether (DME), or liquid hydrocarbons such as GTL (gas to liquid, liquid fuels from gaseous components). This is based on that the waste liquid contains formaldehyde, methanol, formic acid or the like as a trace component, but the waste liquid hardly contains any salt or metal or it contains a salt or metal merely to such a degree that no problem is caused when the waste liquid is used as domestic water or agricultural water.</p>
+<p id="p-0019" num="0029">In general, water generated by chemical reaction contains a variety of salts, reaction products, or compounds harmful to the human body, in many cases. In particular, salts are easily dissolved in water; and, metal components of pipes used in plant, catalysts used in the reaction, and the like may be present as salts in aqueous solution. It is difficult to remove such salts by filtration or some other operation, or to remove only the salts selectively and effectively, which is hindrance for the use of the waste liquid as drinking water from the viewpoint of treating costs and technique. For this reason, although various methods for treating waste liquids have been developed, great cost is necessary to treat waste liquid to such a level that the resultant waste liquid can be used as life water or agricultural water. Usually, therefore, the treatment has not been conducted.</p>
+<p id="p-0020" num="0030">Meanwhile, it has been found out that in the production, for example, of DME, formed as byproducts are water, ethanol, formaldehyde, formic acid, and the like, but a salt material such as an ammonium salt or a chloride salt is not produced.</p>
+<p id="p-0021" num="0031">Attention has been paid to a matter that formaldehyde-containing waste liquid formed as a byproduct in a plant for the production of a hydrocarbon or an oxygen-containing compound hardly contains any salt or metal, and thus the present invention has been made. According to the present invention, waste liquid can be treated to such a level that the waste liquid can be effectively used as domestic water or agricultural water at low costs.</p>
+<p id="p-0022" num="0032">Examples of the hydrocarbons or oxygen-containing compounds produced in a plant from which waste liquid to which the present invention can be applied is discharged, include oxygen-containing compounds such as dimethyl ether and methanol; and hydrocarbons formed via GTL (gas to liquid). The waste liquid formed as a byproduct in the production of the above substances hardly contains any salt or metal. Raw materials thereof may be carbon monoxide and hydrogen, which are produced by a steam reforming method of steam and a hydrocarbon material such as natural gas; or carbon monoxide and hydrogen, which are produced by partial oxidization reaction based on reaction between a hydrocarbon material, such as natural gas, and an oxidizer, such as oxygen, oxygen-rich air, or the air. Herein, the term &#x201c;hardly contains any salt or metal&#x201d; means that the concentrations of salts or metals in a liquid are as follows: for example, the concentration of nickel is 0.5 mg/L or less, that of cobalt or chromium is 0.02 mg/L or less, that of SO<sub>4 </sub>(sulfates) is 1 mg/L or less, and that of Cl (chlorides) is 5 mg/L or less.</p>
+<p id="p-0023" num="0033">Preferred examples of the steps in the method of the present invention are as follows:</p>
+<p id="p-0024" num="0034">(1) Conversion of formaldehyde</p>
+<p id="p-0025" num="0035">(2) Treatment with a membrane bioreactor</p>
+<p id="p-0026" num="0036">(3) Filtrating</p>
+<p id="p-0027" num="0037">(4) Sterilizing</p>
+<p id="p-0028" num="0038">(5) Adding of a mineral or the like</p>
+<p id="p-0029" num="0039">A preferred embodiment of the present invention will be described in detail based on the attached drawings.</p>
+<p id="p-0030" num="0040"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic view of a preferred facility for carrying out the present invention.</p>
+<p id="p-0031" num="0041">In <figref idref="DRAWINGS">FIG. 1</figref>, the preferred waste liquid treating facility for carrying out the present invention is comprised of a waste liquid equalizing tank (pit) <b>12</b>, a formaldehyde converting tank <b>21</b>, a membrane bioreactor (referred to as &#x2018;MBR&#x2019; hereinafter) aeration tank <b>13</b>, a filtrating section <b>15</b>, and a sterilizing section <b>17</b>.</p>
+<p id="p-0032" num="0042">The pit <b>12</b> is set up in order to level out the amount of water to be treated that will flow into treating steps subsequent thereto (the downstream side). The material and capacity thereof are appropriately selected and designed in accordance with a material which is less damaged or deteriorated by a substance(s) contained in the waste liquid to be treated, the treating capacity of the treating facility, and other factors. For example, the pit can be made from reinforced concrete, or a plastic. It is however preferred to avoid a pit made of iron since the iron pit may be corroded.</p>
+<p id="h-0006" num="0000">(1) Conversion of Formaldehyde</p>
+<p id="p-0033" num="0043">In the formaldehyde converting tank <b>21</b> (which may be referred to merely as a &#x2018;converting tank&#x2019; hereinafter), formaldehyde is converted to formic acid.</p>
+<p id="p-0034" num="0044">The formaldehyde concentration in waste liquid from a plant for the production of a hydrocarbon or an oxygen-containing compound is as high as 100 to 200 mg/L. Therefore, in order to decompose formaldehyde having this concentration only with microorganisms, it is indispensable to perform an operation of acclimatization until formaldehyde of a target treatment-concentration can be decomposed, with the operation starting from a low concentration (several mg/L) of formaldehyde. However, in the middle course of the acclimatization or during a steady state operation, the microorganisms may die out. Thus, the acclimatization may be an unstable factor for the operation.</p>
+<p id="p-0035" num="0045">On the other hand, formic acid can be decomposed without acclimatizing activated sludge (microorganisms). For this reason, formaldehyde is converted to formic acid, thereby decreasing a risk of the extinction of the microorganisms while keeping the steady state operation easily. Consequently, the treatment can be more easily conducted.</p>
+<p id="p-0036" num="0046">As a method for the conversion, for example, Cannizzaro reaction can be used. In this reaction, an alkali such as sodium hydroxide is added to formaldehyde-containing waste liquid in accordance with the concentration of formaldehyde, thereby converting formaldehyde to methanol and formic acid. For the addition of the alkali, an alkali tank <b>22</b> is set up together with the converting tank <b>21</b>. For reference, sodium is contained in ordinary drinking water, and the amount of sodium hydroxide to be used in the reaction does not damage the quality of drinking water.</p>
+<p id="p-0037" num="0047">The converting method is not limited to Cannizzaro reaction, and may be a method of adding hydrogen peroxide to convert formaldehyde to formic acid and water. Further, a method of oxidizing formaldehyde by aerating, to convert to formic acid, may be used. In that case, a part of formaldehyde is oxidized to formic acid, and additionally methanol or other components diffuse into the air at the time of aeration. The amount of the air to be used in the aeration can be appropriately determined into a suitable amount in accordance with formaldehyde, formic acid and others in the waste liquid.</p>
+<p id="h-0007" num="0000">(2) Treatment with a Membrane Bioreactor</p>
+<p id="p-0038" num="0048">In the membrane bioreactor (MBR) aeration tank <b>13</b>, a microorganism (activated sludge) is used, to decompose formaldehyde, the concentration of which has been decreased in the converting tank, or other byproducts (such as methanol and formic acid), further into carbon dioxide gas or/and water. According to this MBR, a reaction product permeates through the membrane to be taken out from the system so that no solid-liquid separating operation is necessary. Therefore, any solid-liquid separating section can be omitted, and the MBR contributes largely to the simplification of the treating facility.</p>
+<p id="p-0039" num="0049">The MBR aeration tank <b>13</b> is provided with a microorganism or enzyme, and a separating membrane. The microorganism is preferably used in the state of activated sludge.</p>
+<p id="p-0040" num="0050">Examples of the MBR include: a forcible permeation-type MBR, wherein a microorganism or the like is fixed to the inside or outside of a membrane, and a substrate (a material to be decomposed with the microorganism) is decomposed with the microorganism upon permeation of a solution containing the substrate therethrough, thereby separating a product (for example, JP-A-8-24885, JP-B-7-28722 (&#x201c;JP-B&#x201d; means examined Japanese patent publication), and Japanese Patent No. 3340356); and a free-type MBR, wherein a microorganism or the like is made free inside a reactor, a substrate is decomposed in this state, thereafter a membrane section is used, to discharge a resultant treated water out of the system, thereby keeping the microorganism or the like inside the system (for example, Japanese Patent No. 3152357). In the present invention, the forcible permeation-type MBR can be used.</p>
+<p id="p-0041" num="0051">Specifically, the MBR aeration tank <b>13</b> may be made into a structure as described in JP-A-8-24885. That is, the tank has a structure in which a plurality of hollow fibers are bundled to make a module, an activated sludge, which adheres to the outsides of the hollow fibers to have a given thickness, decomposes byproducts such as formaldehyde, and the thus-treated liquid obtained by the decomposition of the byproducts flows into the insides of the hollow fibers.</p>
+<p id="p-0042" num="0052">In <figref idref="DRAWINGS">FIG. 1</figref>, the membrane bioreactor <b>13</b> is constituted with a plurality of hollow fiber membrane modules <b>61</b>, and the liquid to be treated is supplied to the outside of the membrane modules. In the present invention, an arbitrary hollow fiber membrane module can be used. The size of a unit membrane module and the number of membrane modules to be used can be determined in accordance with the amount of the liquid to be treated. For example, hollow membranes of a microfilter membrane (openings: 0.4 &#x3bc;m), manufactured by Mitsubishi Rayon Co., Ltd., can be used. Furthermore, instead of the hollow fibers, a flat membrane (in a cloth form), manufactured by Kubota Corp., can also be used.</p>
+<p id="p-0043" num="0053">The membrane modules are each composed of a membrane and a construction made of metal or plastic in which the membrane is put. A pipe into which the liquid to be treated flows and a taking-out pipe from which the liquid that has permeated through the membrane is discharged are fitted to the construction. From the hollow fiber membrane modules, the liquid to be treated, in which the byproducts are decomposed with the microorganism, is sent to the next step.</p>
+<p id="p-0044" num="0054">Furthermore, in the case of using activated sludge, the treatment can also be carried out by a method using a sedimentation tank (thickener), as described in JP-A-8-24885. To the above-mentioned method, the method using the hollow fibers is more preferred, since the area where the facility is to be set up can be made small.</p>
+<p id="p-0045" num="0055">In the treatment using the membrane bioreactor, aeration treatment is simultaneously conducted. Herein, the term &#x2018;aeration&#x2019; means an operation for bringing waste liquid into contact with the air sufficiently, and for making a gas which is dissolved in the waste liquid out from the liquid and simultaneously dissolving the air into the waste liquid, by aeration.</p>
+<p id="p-0046" num="0056">The aeration treatment makes it possible to dissolve the air (oxygen) into the liquid to be treated, and to accelerate metabolisms of microorganisms, such as oxidization or anabolism, thereby decomposing formaldehyde effectively. Furthermore, the treatment makes it also possible to remove materials adhering or accumulating onto the separation membrane to be used in the membrane bioreactor, to adjust the thickness of the activated sludge adhering onto the outsides of the hollow fibers appropriately, thereby maintaining the separating performance. Moreover, according to the aeration, iron contained in the liquid to be treated is oxidized with aerating air so as to be precipitated and moved into the activated sludge. Thus, the iron is removed from the liquid to be treated. If more complete removal of the iron is required, the requirement can be met by setting an iron-removing section (a magnet or a filter) in an appropriate region out of those the treating steps.</p>
+<p id="p-0047" num="0057">The air flow rate at the time of the aeration is preferably from 2 to 5 Nm<sup>3</sup>/H, more preferably from 3 to 4 Nm<sup>3</sup>/H per m<sup>3 </sup>of the membrane.</p>
+<p id="p-0048" num="0058">In the use of the MBR, the separating membrane preferably has a large surface area from the viewpoint of effective treatment.</p>
+<p id="p-0049" num="0059">Further, it is possible to supply, form the outside of the aeration tank, the MBR aeration tank with components necessary for the growth of the microorganism, or other purposes, for example, a phosphorus or nitrogen source.</p>
+<p id="h-0008" num="0000">(3) Filtrating Treatment</p>
+<p id="p-0050" num="0060">The treated liquid, which has been subjected to the treatment with the MBR, can be used as domestic intermediate water (water for which a higher degree of treatment (safety) is not required than for drinking water, the intermediate water being used not for drinking but for washing a toilet, a car or the like), irrigating water, industrial cooling water, or the like. In accordance with required water quality, desired treating steps can be put together. A process in which the same step is carried out plural times may be utilized.</p>
+<p id="p-0051" num="0061">However, in order to use the treated liquid as boiler supplying water or drinking water having a stricter water quality than the waters for use in the above-mentioned usages, the treated liquid needs to be further subjected to filtrating treatment. The treated liquid sent from the MBR aeration tank <b>13</b> is further filtrated with a membrane filter(s), to separate microorganisms and any foreign matters incorporated in the treating steps.</p>
+<p id="p-0052" num="0062">From the viewpoint of filtrating efficiency or equipment, it is preferred to use, as the membrane filter(s), a filtrating module(s). The kind of the membrane filter for filtration, the number thereof to be used (the number of modules), and others can be appropriately selected or designed in accordance with the amount to be treated or the quality of water which is a subject to be treated.</p>
+<p id="p-0053" num="0063">Membrane filters can be classified as follows, in view of the filtrating performance thereof:</p>
+<p id="p-0054" num="0064">Microfiltration (MF) is generally used, to filtrate fine particles or microorganisms having a size of 0.01 to several micrometers. In the present invention, any MF membrane can be used. For example, a membrane described in JP-A-2000-70683, JP-A-2004-34031, or the like can be used.</p>
+<p id="p-0055" num="0065">Ultrafiltration (UF) is generally used, to filtrate solutes or particles having a molecular weight of several hundreds to several millions. In the present invention, any UF membrane can be used. For example, a membrane described in JP-A-7-60249, JP-A-2001-96299, or the like can be used.</p>
+<p id="p-0056" num="0066">Reverse osmosis (RO) filtration is generally used, to separate a solvent (or water) and a solute from each other, by applying a pressure, which is larger than the difference in osmotic pressure between a solution at one side of a membrane and another solution at the other side, to the solution having a higher concentration, thereby moving the solvent (or water) to the side of the dilute solution, which is reverse to osmotic phenomenon. In the present invention, any RO membrane can be used. For example, a membrane described in JP-A-7-60249, JP-A-10-57989, or the like can be used. In the present invention, it is most preferred to perform reverse osmosis filtration as the filtrating treatment after the MBR treatment.</p>
+<p id="p-0057" num="0067">The water treated in the aeration tank is subjected to one out of the above-mentioned filtrating treatments as needed, thereby obtaining a target water quality.</p>
+<p id="h-0009" num="0000">(4) Sterilizing Treatment</p>
+<p id="p-0058" num="0068">In the case where the treated liquid is used as drinking water, the liquid is subjected to necessary sterilizing treatment, to cause the quality of the liquid to reach a standard for drinking water, and then the liquid is subjected to necessary examinations. Thus, the whole treatment is finished. The method for the sterilization may be any method, and can be appropriately selected or designed in accordance with the standard for drinking water, and others. Examples of sterilizing means include chlorine, ozone, and ultraviolet rays.</p>
+<p id="p-0059" num="0069">Meanwhile, the level of formaldehyde in drinking water is 0.9 mg/L according to the drinking water standard of the WHO (World Health Organization), and is 0.08 mg/L according to the water supply standard of Japan.</p>
+<p id="h-0010" num="0000">(5) Addition of a Mineral and the Like</p>
+<p id="p-0060" num="0070">Further, according to the need, a mineral and the like can be added to the treated liquid. For example, iodine or fluorine is added to the drinking water, or calcium or magnesium is added thereto in order to adjust the hardness of the resultant water. When the treated liquid is to be used as irrigating water, it is also possible to add fertilizer and the like to the treated liquid and then distribute the resultant liquid.</p>
+<p id="p-0061" num="0071">To use the treated water as boiler supplying water, the amount of oxygen dissolved therein is adjusted and other necessary treatments are applied thereto, and then the resultant liquid can be distributed.</p>
+<p id="p-0062" num="0072">As described in the above, in accordance with the finally-required purposes or usage, necessary treating equipment, apparatus, and the like can be appropriately selected, combined or designed.</p>
+<p id="p-0063" num="0073">The means for transferring the solution, which is necessary in the above treating steps, can be appropriately designed by selecting the material therefor, in accordance with the amount of the liquid to be treated or the quality of the liquid. Example of the transferring means include pumps. Of the pumps, a centrifugal pump can be mentioned. Further, about the pump to be used to introduce liquids of chemicals (such as sodium hydroxide or chlorine) necessary for the mineral addition or treatment, a material which is not corroded by the liquid of a chemical and a capacity corresponding to the amount to be used thereof can be appropriately selected or designed. As the pump for introducing the liquid of a chemical, a constant rate pump is preferably used.</p>
+<p id="p-0064" num="0074">To carry the air to introduce into the aeration tank, various blowing means can be used. An appropriate blowing means can be appropriately selected or designed in accordance with a required amount of the air. Examples of the blowing means include a blower and a compressor.</p>
+<p id="p-0065" num="0075">The material or the shape and volume of pipes and tanks for use in the treating facility are appropriately selected or designed, in accordance with a material(s), which does not elute out in the liquid to be treated, among those that does not suffer any damage or the like by the treated liquid, and the amount of the liquid to be treated. Examples of thereof include those made of, in addition to concrete, carbon steel, and cast iron; synthetic resin, such as vinyl chloride, or reinforced plastic; and a composite material thereof, e.g. those in which carbon steel is coated or lined with a synthetic resin.</p>
+<p id="p-0066" num="0076">It is possible that a level gauge, a flow rate meter, or/and any of various sensors, valves and other instruments are set up to the above-mentioned apparatuses, sections or the like, and connected to a controller or the like, thereby conducting the treatment automatically. Instruments necessary for the automation are appropriately selected or designed in accordance with the amount of the liquid to be treated, the quality of the liquid treated, and the treating steps to be applied.</p>
+<p id="p-0067" num="0077">Next, a preferred embodiment of the present invention is described in detail based on <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0068" num="0078">First, waste liquid (raw water) containing formaldehyde or the like discharged from a production plant <b>11</b> is passed through a line <b>31</b> or <b>41</b> so as to be collected in the waste liquid equalizing tank (pit) <b>12</b> and the formaldehyde converting tank <b>21</b>. In the converting tank <b>21</b>, a necessary amount of sodium hydroxide is sent from the alkali tank <b>22</b> to the converting tank <b>21</b> through a line <b>32</b> by means of a pump <b>27</b>, thereby converting formaldehyde to methanol and formic acid. Meanwhile, as illustrated in <figref idref="DRAWINGS">FIG. 1</figref>, when the raw water is distributed to the waste liquid equalizing tank <b>12</b> and the formaldehyde converting tank <b>21</b>, the distributing ratio between those tanks is not particularly limited and can be set arbitrarily as long as the objects of the present invention can be attained. Further, in <figref idref="DRAWINGS">FIG. 1</figref>, the raw water is sent to the waste liquid equalizing tank <b>12</b> and the formaldehyde converting tank <b>21</b>, but it is also possible to send the entire amount of the raw water first to the waste liquid equalizing tank <b>12</b> and subsequently to the formaldehyde converting tank <b>21</b>.</p>
+<p id="p-0069" num="0079">The thus-converted liquid to be treated is passed through a pump <b>28</b> and a line <b>33</b>, to be jointed, in the MBR aeration tank <b>13</b>, with the raw water sent from the waste liquid equalizing tank <b>12</b> through a pump <b>23</b> and a line <b>42</b>.</p>
+<p id="p-0070" num="0080">The raw water and the converted liquid sent into the MBR aeration tank <b>13</b> are aerated at a temperature of about 30 to 40&#xb0; C. in the MBR aeration tank <b>13</b>. To the MBR aeration tank, the air is sent for aerobic microorganisms from a blower <b>24</b> through a line (not illustrated). A filter or the like is fitted to the tip of a pipe for supplying the air, if necessary. By the aeration, a part of volatile substances which becomes unable to be dissolved in the liquid under the aeration conditions, such as formaldehyde in the liquid to be treated, is separated from the waste liquid, and discharged from the MBR aeration tank to the atmosphere.</p>
+<p id="p-0071" num="0081">In the MBR aeration tank, formaldehyde, methanol, formic acid, and the like that remain in the liquid to be treated are decomposed into carbon dioxide gas, water, and the like, by the microorganisms in the activated sludge adhering to the outside surfaces of the hollow fibers which constitute the hollow fiber membrane modules <b>61</b>, and then the resultant substances are moved into (permeated through) the hollow fibers, together with the resultant liquid to be treated. The liquid to be treated moved into the inside of the hollow fibers, is sent to a MBR treated-liquid reserving tank <b>14</b> through lines <b>43</b> and <b>44</b> by means of a suction pump <b>25</b>, and reserved therein.</p>
+<p id="p-0072" num="0082">Meanwhile, on the bottom of the MBR aeration tank <b>13</b>, the activated sludge (excessive sludge) peeled off down from the hollow fibers, and sedimentations of iron or the like may be deposited. Those are taken out regularly, by means of a line, a pump, and the like, which are not illustrated, and appropriately treated.</p>
+<p id="p-0073" num="0083">In the MBR treated-liquid reserving tank <b>14</b>, the treated liquid from the MBR aeration tank <b>13</b> is reserved. The thus-reserved, treated liquid is sent to a filtrating section <b>15</b>, which is, for example, a reverse osmosis (RO) membrane section, through a line <b>45</b> with a booster pump <b>26</b>, at regular amount intervals, at regular time intervals, or in accordance with each of instructions of the controller or the like. In this way, the treated liquid is filtrated. As the booster pump <b>26</b>, a pump capable of pressuring the liquid to a pressure required for the RO membrane is appropriately selected or designed.</p>
+<p id="p-0074" num="0084">In this RO membrane section <b>15</b>, it is preferable to use a membrane that is capable of filtrating off nickel and cobalt, which are mainly used in DME synthesizing catalysts, further with the membrane's ratio of blocking the remaining formaldehyde, methanol, formic acid, and the like, being 60% or more.</p>
+<p id="p-0075" num="0085">The liquid thus filtrated in the RO membrane section <b>15</b> is passed through a line <b>46</b> and reserved temporarily in an RO membrane treated-liquid tank <b>16</b>. In the case of reusing the liquid as drinking water, the liquid is sent to the sterilizing section <b>17</b> through a line <b>47</b> with a pump (not illustrated) or by the gravity, to be sterilized. Further, if necessary, a mineral or the like may be added to the liquid, and the resultant liquid is subjected to water-quality examination and then supplied as drinking water through a line <b>48</b>.</p>
+<p id="p-0076" num="0086">Meanwhile, <figref idref="DRAWINGS">FIG. 1</figref> illustrates the steps for the production of drinking water. Alternatively, in the case of reusing the liquid as irrigating water or industrial water in the usage of cooling water, the water come out from the MBR aeration tank <b>13</b> is subjected to a necessary treatment(s), and the resultant liquid can be used for the above-mentioned usage.</p>
+<p id="p-0077" num="0087">Further, in the case of using the liquid as industrial water for a boiler, the water come out from the RO membrane section <b>15</b> is subjected to a necessary treatment(s), and the resultant water can be used for that usage. For example, the water may be taken out from a line <b>50</b>.</p>
+<p id="p-0078" num="0088">In the case of using the liquid as domestic intermediate water, any one of the above-mentioned waters can be used. The treatment may be finished at any of the treatment stages according to the necessity, then the resultant is subjected to a treatment necessary for intermediate water use, and the thus-treated water can be used for the intended usage.</p>
+<p id="p-0079" num="0089">Next, another preferred embodiment of the present invention is described based on <figref idref="DRAWINGS">FIG. 2</figref>. Herein, in <figref idref="DRAWINGS">FIG. 2</figref>, the same reference numbers are given to the same elements as in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0080" num="0090">In this embodiment, instead of the formaldehyde converting tank as in the first embodiment, an air oxidization tank (aeration tank) is set up, and waste liquid is aerated in the air oxidization tank, thereby oxidizing formaldehyde with the air so as to be converted into formic acid.</p>
+<p id="p-0081" num="0091">The waste liquid collected in a waste liquid equalizing tank (pit) <b>12</b> is sent to an air oxidization tank (aeration tank) <b>18</b> through a line <b>31</b> by means of an air oxidization tank supply pump <b>29</b>.</p>
+<p id="p-0082" num="0092">In the air oxidization tank <b>18</b>, the air is sent by means of a blower <b>51</b> through an air supplying pipe <b>52</b>. If necessary, a filter or the like is set to an air supplying port of the air supplying pipe <b>52</b>. In the air oxidization tank <b>18</b>, formaldehyde in the waste liquid is aerated to be oxidized and converted to formic acid. Further, not only a part of formaldehyde is oxidized to formic acid but also a component(s) such as methanol diffuses into the air upon the aeration. The amount of the air to be used in the aeration is arbitrarily determined as an appropriate amount in accordance with the formaldehyde, formic acid, and the like in the waste liquid.</p>
+<p id="p-0083" num="0093">The waste liquid thus subjected to the air oxidization treatment by the aeration is then sent to an MBR aeration tank <b>13</b>, through a line <b>33</b>, by means of a bioreactor supply pump <b>28</b>.</p>
+<p id="p-0084" num="0094">In this embodiment, other constituents, and actions and advantageous effects thereof are substantially the same as in the first embodiment. Thus, descriptions thereof are omitted.</p>
+<p id="p-0085" num="0095">The present invention will be described in more detail based on examples given below, but the invention is not meant to be limited by these.</p>
+<heading id="h-0011" level="1">EXAMPLES</heading>
+<heading id="h-0012" level="1">Example 1</heading>
+<p id="p-0086" num="0096">To 20 kg of waste liquid from a plant for the production of DME, the following treatment was conducted. The steps of the treatment was in accordance with those illustrated in <figref idref="DRAWINGS">FIG. 1</figref>. Main components of the waste liquid are shown in Table 1. Herein, the components of the waste liquid were measured, in accordance with a JIS method, as designated by the Japan Industrial Water Association.</p>
+<p id="p-0087" num="0097">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Components of supplied waste liquid (line Nos. 41 and 31)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="133pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Concentration</entry>
+</row>
+<row>
+<entry/>
+<entry>Component</entry>
+<entry>(mg/L)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="133pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Formaldehyde</entry>
+<entry>160</entry>
+</row>
+<row>
+<entry/>
+<entry>Methanol</entry>
+<entry>&#x3c;10</entry>
+</row>
+<row>
+<entry/>
+<entry>BOD</entry>
+<entry>300</entry>
+</row>
+<row>
+<entry/>
+<entry>COD</entry>
+<entry>150</entry>
+</row>
+<row>
+<entry/>
+<entry>Formic acid</entry>
+<entry>15</entry>
+</row>
+<row>
+<entry/>
+<entry>TDS</entry>
+<entry>5</entry>
+</row>
+<row>
+<entry/>
+<entry>Iron</entry>
+<entry>5</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="left" id="FOO-00001">BOD: Biochemical oxygen demand</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="left" id="FOO-00002">COD: Chemical oxygen demand</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="left" id="FOO-00003">TDS: Total dissolved solids</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0088" num="0098">Of the waste liquid, 10 kg thereof was supplied to the pit <b>12</b>, and the remainder was supplied to the formaldehyde converting tank <b>21</b>. To the formaldehyde converting tank <b>21</b>, 5 g of sodium hydroxide was added, to carry out Cannizzaro reaction.</p>
+<p id="p-0089" num="0099">The waste liquid reserved in the pit <b>12</b> and the liquid to be treated from the formaldehyde converting tank <b>21</b> were sent to the MBR aeration tank <b>13</b>, and then treated, while being aerated, at 30 to 40&#xb0; C. for 20 hours. The air flow rate at the time of the aeration was set to 3.6 Nm<sup>3</sup>/H per m<sup>3 </sup>of the membrane. In the MBR, a single hollow fiber membrane module <b>61</b> using a microfiltration membrane (trade name: Sterapore, manufactured by Mitsubishi Rayon Co., Ltd.) was set. Further, activated sludge was applied by coating on the periphery of the hollow fibers.</p>
+<p id="p-0090" num="0100">After the completion of the treatment in the MBR aeration tank <b>13</b>, the thus-treated liquid was sent to the MBR treated-liquid reserving tank <b>14</b>. Main components of the liquid at an outlet of the aeration tank are shown in Table 2.</p>
+<p id="p-0091" num="0101">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Components of discharged waste liquid (line No. 43)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="77pt" align="center"/>
+<colspec colname="3" colwidth="77pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Concentration</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Component</entry>
+<entry>(mg/L)</entry>
+<entry>Remarks</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="77pt" align="char" char="."/>
+<colspec colname="3" colwidth="77pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Formaldehyde</entry>
+<entry>2</entry>
+<entry>Removal ratio: 98.75%</entry>
+</row>
+<row>
+<entry/>
+<entry>Methanol</entry>
+<entry>1</entry>
+<entry>Reduction ratio: &#x3e;90%</entry>
+</row>
+<row>
+<entry/>
+<entry>BOD</entry>
+<entry>30</entry>
+<entry>Reduction ratio: 90%</entry>
+</row>
+<row>
+<entry/>
+<entry>COD</entry>
+<entry>15</entry>
+<entry>Reduction ratio: 90%</entry>
+</row>
+<row>
+<entry/>
+<entry>Formic acid</entry>
+<entry>1.5</entry>
+<entry>Reduction ratio: 90%</entry>
+</row>
+<row>
+<entry/>
+<entry>TDS</entry>
+<entry>5</entry>
+<entry>Reduction ratio: 0%</entry>
+</row>
+<row>
+<entry/>
+<entry>Iron</entry>
+<entry>5</entry>
+<entry>Reduction ratio: 0%</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0092" num="0102">As described above, formaldehyde, which is a harmful material, was removed off from the liquid after the treatment, and the resultant liquid is able to be disposed at the outside of a plant, also from the viewpoint of the BOD and COD levels therein. Further, this treated liquid can be reused as irrigating water or industrial water for use in cooling water.</p>
+<p id="p-0093" num="0103">Furthermore, the liquid was pressurized with the pump <b>26</b>, and filtrated with the reverse osmosis (RO) membrane section <b>15</b>. As the reverse osmotic membrane, a spiral type (trade name: Romembra, manufactured by Toray Industries, Inc.) was used.</p>
+<p id="p-0094" num="0104">The liquid permeated through the RO membrane section <b>15</b> was reserved in the RO treated-liquid tank <b>16</b>. Thereafter, the liquid was sent to the sterilizing section <b>17</b> and sterilized. The sterilization was conducted in a manner of pouring a solution of sodium hypochlorite. It was analyzed whether or not the thus-treated liquid after the sterilization contained E. Coliform bacteria. As a result, none of E. Coliform bacteria was detected at all.</p>
+<p id="p-0095" num="0105">By the above-mentioned treatments, drinking water can be supplied.</p>
+<heading id="h-0013" level="1">Example 2</heading>
+<p id="p-0096" num="0106">Treatments were conducted in the same manner as in Example 1, except that the treatment steps were in accordance with those shown in <figref idref="DRAWINGS">FIG. 2</figref>. The air flow rate in the air oxidization tank was set to 2.4 Nm<sup>3</sup>/hour per m<sup>3 </sup>of the tank.</p>
+<p id="p-0097" num="0107">With respect to the treated liquid thus treated in the MBR aeration tank <b>13</b>, components thereof were measured. As a result, similar to Example 1, formaldehyde, which is a harmful material, was removed off, and the resultant liquid is able to be reused as irrigating water or industrial water for use in cooling water.</p>
+<p id="p-0098" num="0108">Further, after the treatment with the MBR, the liquid was then subjected to the reverse osmosis filtration treatment and the sterilizing treatment, in the same manner as in Example 1. It was analyzed whether or not the thus-treated liquid after the sterilizing treatment contained a group of E. Coliform bacteria. As a result, none of E. Coliform bacteria was detected at all, and thus it is possible to supply drinking water.</p>
+<heading id="h-0014" level="1">Comparative Example</heading>
+<p id="p-0099" num="0109">To 20 kg of waste liquid from a production plant of ethylene, the treatment was conducted in the same manner as in Example 1. Main components of the waste liquid are shown in Table 3.</p>
+<p id="p-0100" num="0110">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Components of waste liquid from ethylene production plant</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="140pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Component</entry>
+<entry>Concentration (mg/L)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="140pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>BOD</entry>
+<entry>500</entry>
+</row>
+<row>
+<entry/>
+<entry>COD</entry>
+<entry>1000</entry>
+</row>
+<row>
+<entry/>
+<entry>Phenol</entry>
+<entry>100</entry>
+</row>
+<row>
+<entry/>
+<entry>SS</entry>
+<entry>60</entry>
+</row>
+<row>
+<entry/>
+<entry>H<sub>2</sub>S</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry/>
+<entry>Oil</entry>
+<entry>20</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0101" num="0111">With respect to the thus-treated liquid treated in the MBR aeration tank <b>13</b>, components thereof were measured. Main components are shown in Table 4.</p>
+<p id="p-0102" num="0112">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Components of discharged waste liquid</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="center"/>
+<colspec colname="3" colwidth="77pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Component</entry>
+<entry>Concentration (mg/L)</entry>
+<entry>Remarks</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="char" char="."/>
+<colspec colname="3" colwidth="77pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>BOD</entry>
+<entry>50</entry>
+<entry>Removal ratio: 90%</entry>
+</row>
+<row>
+<entry/>
+<entry>COD</entry>
+<entry>100</entry>
+<entry>Removal ratio: 90%</entry>
+</row>
+<row>
+<entry/>
+<entry>Phenol</entry>
+<entry>20</entry>
+<entry>Removal ratio: 80%</entry>
+</row>
+<row>
+<entry/>
+<entry>SS</entry>
+<entry>&#x3c;1</entry>
+<entry>Removal ratio: &#x3e;98%</entry>
+</row>
+<row>
+<entry/>
+<entry>H<sub>2</sub>S</entry>
+<entry>0.5</entry>
+<entry>Removal ratio: 50%</entry>
+</row>
+<row>
+<entry/>
+<entry>Oil</entry>
+<entry>&#x3c;2</entry>
+<entry>Removal ratio: &#x3e;90%</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0103" num="0113">As is apparent from the results in Table 4, salts or compounds harmful to human bodies were not removed off from the water after the treatment. Thus, the thus-treated liquid is even unable to be reused as irrigating water or industrial water for use in cooling water. Moreover, the liquid is also unable to be reused as agricultural water or domestic water including drinking water, since salts or the like are unable to be removed off by filtration treatment or sterilizing treatment according to the present invention.</p>
+<heading id="h-0015" level="1">INDUSTRIAL APPLICABILITY</heading>
+<p id="p-0104" num="0114">The treating method of the present invention is preferable as a treating method for reusing, as a new water resource, waste liquid containing formaldehyde, which is formed as a byproduct in a plant for the production of hydrocarbons or oxygen-containing compounds, effectively at low costs.</p>
+<p id="p-0105" num="0115">Having described our invention as related to the present embodiments, it is our intention that the invention not be limited by any of the details of the description, unless otherwise specified, but rather be construed broadly within its spirit and scope as set out in the accompanying claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method for treating a formaldehyde-containing waste liquid, comprising the steps of:
+<claim-text>subjecting formaldehyde in the liquid to chemical treatment to form a resulting waste liquid;</claim-text>
+<claim-text>treating the resulting waste liquid, while being aerated, by using a membrane bioreactor that is comprised of a microorganism or enzyme and a separation membrane to form a treated waste liquid;</claim-text>
+<claim-text>filtrating the treated waste liquid to form a filtrated waste liquid; and</claim-text>
+<claim-text>sterilizing the filtrated waste liquid to form a sterilized and filtrated waste liquid.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the membrane bioreactor is provided with activated sludge.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the chemical treatment is conducted by converting formaldehyde to formic acid.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the filtrating is reverse osmosis filtration.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising the step of adding a mineral or fertilizer after the sterilizing step.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, additionally comprising the step of reclaiming the sterilized and filtrated waste liquid.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the formaldehyde-containing waste liquid is formed as a byproduct during the production of dimethyl ether from a hydrocarbon via methanol, or during the production of liquid fuel oil from natural gas via synthetic gas.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least part of the formaldehyde is converted to methanol or formic acid.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the microorganism or enzyme of the membrane reactor is sensitive to the formaldehyde concentration.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the initial formaldehyde concentration in the waste liquid is between 100 mg/l and 200 mg/l.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the membrane bioreactor is provided with activated sludge.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the chemical treatment is conducted by converting at least a portion of the formaldehyde to formic acid.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the filtrating is reverse osmosis filtration.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, further comprising the step of adding a mineral or fertilizer to the resulting liquid, after the sterilizing step.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. A method for treating a formaldehyde-containing waste liquid, comprising the steps of:
+<claim-text>converting formaldehyde in a waste liquid to at least one other substance to lower the formaldehyde concentration in the waste liquid and forming a resulting formaldehyde-containing waste liquid; and</claim-text>
+<claim-text>treating the resulting formaldehyde-containing waste liquid, while being aerated, by using a membrane bioreactor that is comprised of a microorganism or enzyme and a separation membrane.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the membrane bioreactor is provided with activated sludge.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the chemical treatment is conducted by converting formaldehyde to formic acid.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, further comprising the step of filtrating after the treating step with the membrane bioreactor.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the filtrating is reverse osmosis filtration.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00018">claim 18</claim-ref>, further comprising the step of sterilizing after the filtrating step.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The method for treating the formaldehyde-containing waste liquid according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, further comprising the step of adding a mineral or fertilizer after the sterilizing step. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

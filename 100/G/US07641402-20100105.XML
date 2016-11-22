@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641402-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641402</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11322528</doc-number>
+<date>20051230</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>498</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>03</class>
+<subclass>B</subclass>
+<main-group>17</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>396427</main-classification>
+</classification-national>
+<invention-title id="d0e53">Transport system for monitoring industrial process</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3021386</doc-number>
+<kind>A</kind>
+<name>Clark</name>
+<date>19620200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>348 83</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4657728</doc-number>
+<kind>A</kind>
+<name>Coppa et al.</name>
+<date>19870400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>376248</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4913458</doc-number>
+<kind>A</kind>
+<name>Hamilton</name>
+<date>19900400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>280  6153</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5835806</doc-number>
+<kind>A</kind>
+<name>Kautz</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>396419</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5842069</doc-number>
+<kind>A</kind>
+<name>Konno</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>396419</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6325621</doc-number>
+<kind>B1</kind>
+<name>Murasaki et al.</name>
+<date>20011200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>432250</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2004/0212675</doc-number>
+<kind>A1</kind>
+<name>Lee</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>348 83</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2005/0018074</doc-number>
+<kind>A1</kind>
+<name>Nakamoto et al.</name>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>EP</country>
+<doc-number>1361190</doc-number>
+<kind>A1</kind>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00010">
+<othercit>Flir Systems, &#x201c;ThermaCAM&#xae; A Series Infrared Cameras&#x2014;Process &#x26; Control Monitoring&#x201d;, http://www.flirthermography.com/cameras/series/1005/, (2003),2 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00011">
+<othercit>Mikron Infrared, &#x201c;MikroScan 7302&#x2014;Fixed-Installation Thermal Imaging Camera for Industrial and Scienti&#x26;#64257;c Applications&#x201d;, <i>Datasheet</i>, http://www.mikroninfrared.com/literature/7302datasheet.pdf, (Mar. 29, 2005),2 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00012">
+<othercit>NEC San-Ei Instruments, &#x201c;Fixed Installation Type Infrared Thermal Imager&#x2014;Thermo Tracer TS7302&#x201d;, http://www.necsan-ei.co.jp/osd/thermography/ts7302.htm, (Copyright(C)1998-2005),3 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00013">
+<othercit>NEC San-Ei Instruments, &#x201c;Thermal Imaging Camera for Tubes of Heating Furnace&#x2014;Model TH7102WB&#x201d;, http://www.metrum.co.uk/images/TH7102WB.pdf, (No date listed),2 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>8</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>348 82</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>348 83</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>396419</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>396427</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>396428</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>6</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070154205</doc-number>
+<kind>A1</kind>
+<date>20070705</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kocanda</last-name>
+<first-name>Robert F.</first-name>
+<address>
+<city>Bloomingdale</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Schmidt</last-name>
+<first-name>Roger N.</first-name>
+<address>
+<city>Edina</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Sheard</last-name>
+<first-name>Justin M.</first-name>
+<address>
+<city>Brooklyn Park</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Volna</last-name>
+<first-name>William M.</first-name>
+<address>
+<city>Minneapolis</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="005" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Alvarez</last-name>
+<first-name>Manuel S.</first-name>
+<address>
+<city>Warrenton</city>
+<state>VA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="006" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Lane, III</last-name>
+<first-name>Charles E.</first-name>
+<address>
+<city>Meadowbrook</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="007" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hain</last-name>
+<first-name>Larry A.</first-name>
+<address>
+<city>Chalfont</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Schwegman Lundberg &#x26; Woessner</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Honeywell International Inc.</orgname>
+<role>02</role>
+<address>
+<city>Morristown</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Perkey</last-name>
+<first-name>W. B.</first-name>
+<department>2862</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A system transports a device into a piece of industrial equipment for the purpose of collecting data inside of the industrial equipment. In an embodiment, the industrial equipment is a furnace and the device is an IR camera. The system opens a door covering an opening on the furnace, moves the IR camera inside of the furnace for a short time, the IR camera captures images, and the system removes the camera from the furnace and closes the door.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="156.38mm" wi="176.19mm" file="US07641402-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="178.05mm" wi="178.05mm" file="US07641402-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="239.78mm" wi="158.07mm" file="US07641402-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="181.02mm" wi="172.47mm" file="US07641402-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="240.37mm" wi="131.40mm" file="US07641402-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="126.58mm" wi="167.81mm" file="US07641402-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="256.62mm" wi="176.11mm" orientation="landscape" file="US07641402-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The invention relates to systems and methods for introducing and withdrawing equipment into an environment, and in particular, introducing and withdrawing a camera into a high temperature environment.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Industrial processes should be closely monitored so that all process parameters can be verified as being within specification. This monitoring can take on many forms, and usually falls into two broad categories. Physical inspection and monitoring by humans, or physical inspection and monitoring by computer systems. In both cases, inspections and monitoring are aided by many other pieces of equipment such as all types of sensors (temperature, air quality, viscosity, density, visual appearance, etc.).</p>
+<p id="p-0004" num="0003">In some situations however, the environment that must be monitored is too harsh and extreme for either a human or a standard device or piece of equipment. Harsh and extreme environments include high temperature environments such as the inside of a furnace, caustic chemical environments, and high pressure environments. The extremes of these environments however do not lessen the need for the monitoring of the industrial process. Consequently, industries would benefit from a system that could monitor industrial processes under extreme conditions.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0005" num="0004"><figref idref="DRAWINGS">FIG. 1</figref> illustrates an example embodiment of a transport system in a home position.</p>
+<p id="p-0006" num="0005"><figref idref="DRAWINGS">FIG. 1</figref><i>a </i>illustrates a detailed view of an embodiment of a mechanical actuator, in a compressed mode, that can be used in connection with an example embodiment of the invention.</p>
+<p id="p-0007" num="0006"><figref idref="DRAWINGS">FIG. 2</figref> illustrates an example embodiment of a transport system in a deployed position.</p>
+<p id="p-0008" num="0007"><figref idref="DRAWINGS">FIG. 2</figref><i>a </i>illustrates a detailed view of an embodiment of a mechanical actuator, in expanded mode, that can be used in connection with an example embodiment of the invention.</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 3</figref> is an exploded view of an industrial camera and housing that can be used in connection with an example embodiment of the invention.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 4</figref> illustrates a flowchart of a process control that can be used in connection with an example embodiment of the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0011" num="0010">In the following detailed description, reference is made to the accompanying drawings that show, by way of illustration, specific embodiments in which the invention may be practiced. These embodiments are described in sufficient detail to enable those skilled in the art to practice the invention. It is to be understood that the various embodiments of the invention, although different, are not necessarily mutually exclusive. For example, a particular feature, structure, or characteristic described herein in connection with one embodiment may be implemented within other embodiments without departing from the scope of the invention. In addition, it is to be understood that the location or arrangement of individual elements within each disclosed embodiment may be modified without departing from the scope of the invention. The following detailed description is, therefore, not to be taken in a limiting sense, and the scope of the present invention is defined only by the appended claims, appropriately interpreted, along with the full range of equivalents to which the claims are entitled. In the drawings, like numerals refer to the same or similar functionality throughout the several views.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIGS. 1 and 2</figref> illustrate an embodiment of a transport system that moves a visible and/or an infrared (IR) camera enclosed in an industrial housing along a rail. While the embodiment of <figref idref="DRAWINGS">FIGS. 1 and 2</figref> show a transport system of the invention in connection with an IR camera, those of skill in the art will readily realize that the invention is not limited to an IR camera, but that embodiments of the transport system of <figref idref="DRAWINGS">FIGS. 1 and 2</figref> could also transport other pieces of equipment as well. Additionally, while the embodiment of <figref idref="DRAWINGS">FIG. 1</figref> is discussed in connection with an industrial furnace, those of skill in the art will readily realize that the transport system of <figref idref="DRAWINGS">FIGS. 1 and 2</figref> can be used in connection with other pieces of industrial equipment also. Moreover, while the transport system of <figref idref="DRAWINGS">FIGS. 1 and 2</figref> is described as operating with a pneumatic system, one of skill in the art will realize that other means of powering the transport system such as electric powered motors in combination with gears, belts, chains, and/or pulleys could also be used.</p>
+<p id="p-0013" num="0012">The support and transport structure <b>100</b> of <figref idref="DRAWINGS">FIG. 1</figref> has a frame <b>105</b>. Attached to the frame <b>105</b> is a first motion transport system. In an embodiment, the first motion transport system is a pneumatic transport system that consists of a rail <b>110</b> and a trolley structure <b>115</b>. In another embodiment, the rail <b>110</b> is one that is manufactured by Tol-o-matic&#xae; of Hamel, Minn. In an embodiment, the frame <b>105</b> is attached to the outside of the wall of an industrial housing <b>140</b>, and the pneumatic transport system is attached to the frame <b>105</b>. In one particular embodiment, the wall of the industrial housing <b>140</b> is an outside wall of a furnace. Positioned on top of the trolley structure <b>115</b> is an enclosure <b>120</b>. The enclosure <b>120</b> contains a stepper motor <b>126</b> and a shaft <b>127</b>. The stepper motor and shaft have wheels <b>128</b>, <b>129</b> attached thereto respectively, and wheels <b>128</b>, <b>129</b> are coupled via a belt, a chain, a gearing system or other means <b>130</b>. (See <figref idref="DRAWINGS">FIG. 2</figref>).</p>
+<p id="p-0014" num="0013">Connected to the enclosure <b>120</b> via a cable <b>136</b> is a control box <b>137</b> that houses a control processor and electrical and pneumatic controls. Also attached to the control box <b>137</b> is a reservoir <b>138</b> for the storage of pneumatic air. A second industrial housing <b>135</b> is connected to the end of shaft <b>127</b> opposite that of the wheel <b>129</b>. In an embodiment, the industrial housing <b>135</b> encloses a camera, such as an IR camera. Also attached to the frame <b>105</b> is a second motion transport system that, like the first motion transport system, may be a pneumatic transport system. In the embodiment of <figref idref="DRAWINGS">FIG. 1</figref>, such a pneumatic transport system has a rail <b>150</b>, a second trolley structure <b>156</b>, and a door <b>154</b>. The second trolley structure is attached to the door <b>154</b> with attachments <b>157</b> and tension springs <b>153</b> that attach the door <b>154</b> to the pneumatic transport system via a door trolley structure <b>156</b>. The door trolley <b>156</b> in <figref idref="DRAWINGS">FIGS. 1 and 2</figref> is depicted in generic form to indicate that several connecting mechanisms known in the art could be used to connect the door <b>154</b> to the trolley structure <b>156</b>. In one particular embodiment, the details of which are illustrated in <figref idref="DRAWINGS">FIGS. 1</figref><i>a </i>and <b>2</b><i>a</i>, the attachment <b>157</b> includes a triangular bracket <b>157</b><i>a </i>and a roller <b>158</b><i>b </i>to connect the bracket <b>157</b><i>a </i>to the trolley structure <b>156</b>. The door covers an opening <b>160</b> in the industrial housing wall <b>140</b> (<figref idref="DRAWINGS">FIG. 2</figref>).</p>
+<p id="p-0015" num="0014">The transport system <b>100</b> supports and transports the industrial housing <b>135</b> into and out of an industrial environment. In an embodiment, the industrial environment is a furnace, and the industrial housing <b>135</b> encloses an IR camera. An exploded view of an embodiment of an industrial housing <b>135</b> and an IR camera is illustrated in <figref idref="DRAWINGS">FIG. 3</figref>. The housing <b>135</b> has a bottom plate <b>171</b>, and encloses a camera <b>170</b>. An opening <b>172</b> receives the camera lens (not shown in <figref idref="DRAWINGS">FIG. 3</figref>) that is attached to the camera <b>170</b>. The camera lens is enclosed and protected by a window <b>173</b> and lens housing <b>174</b> that is attached to the industrial housing. A coupling unit <b>175</b> attaches onto the housing wall, and serves to connect the housing <b>135</b> to the shaft <b>127</b>. In an embodiment, the industrial housing <b>135</b> is manufactured out of hardened stainless steel, and the window <b>173</b> is made out of sapphire. In different embodiments, the lens attached to the camera may be a wide angle lens, a narrow angle lens, and/or a telescoping lens.</p>
+<p id="p-0016" num="0015">Referring now to <figref idref="DRAWINGS">FIG. 2</figref>, the door <b>154</b> has been moved in the direction of arrow A. As will be explained in detail in connection with <figref idref="DRAWINGS">FIG. 4</figref>, the movement of the door along arrow A occurs by activating the second pneumatic transport system, which moves door trolley <b>156</b> and the door <b>154</b> along rail <b>150</b>, thereby exposing opening <b>160</b> in the industrial wall <b>140</b>. Referring now to <figref idref="DRAWINGS">FIG. 2A</figref>, in an embodiment, attachments <b>157</b> A&#x26;B and tension springs <b>153</b> A&#x26;B secure the door <b>154</b> to the door trolley <b>156</b>. The attachment <b>157</b> between door trolley <b>156</b> and the door <b>154</b> has compression springs <b>157</b>C to ensure a tight seal between the door <b>154</b> and the wall <b>140</b> when the door trolley <b>156</b> is in the lowered position. Tension springs <b>153</b> A&#x26;B between door <b>154</b> and door trolley <b>156</b> is to ensure the door is held against the door trolley and away from the wall <b>140</b> when the door trolley is in the upper position. When the door trolley <b>156</b> first begins to rise, the compression spring force of attachments <b>157</b> A&#x26;B releases and tension springs <b>153</b> A&#x26;B pull door <b>154</b> toward door trolley <b>156</b> and away from the wall <b>140</b>. This ensures that there is no interference between the door <b>154</b> and the wall <b>140</b> or other structure. As the door trolley <b>156</b> continues to raise, both the door trolley <b>156</b> and door <b>154</b> move in the direction of arrow A. When the door <b>154</b> and door trolley <b>156</b> are lowered by activating the second pneumatic transport system, the door first moves with the door trolley down in the direction of arrow B until roller <b>158</b>A, which is fixed to door <b>154</b>, contacts the horizontal portion of the frame <b>105</b><i>a</i>. The trolley <b>156</b> continues to move down while the door <b>154</b> can not, causing compression spring loaded attachment <b>157</b>B to move the door toward the industrial wall <b>140</b>. The detail of the attachment <b>157</b>B, roller <b>158</b>A and tension spring <b>153</b>B is illustrated in <figref idref="DRAWINGS">FIGS. 1</figref><i>a </i>and <b>2</b><i>a</i>. Referring to <figref idref="DRAWINGS">FIG. 1</figref><i>a</i>, as the door trolley <b>156</b> is moved down by the second pneumatic transport system with the roller <b>158</b>B preventing any further movement in the direction of arrow B, attachment <b>157</b>A pushes the door <b>154</b> away from the door trolley <b>156</b> toward wall <b>140</b>. When the door trolley <b>156</b> is raised by the second pneumatic system, the tension spring <b>153</b>A first pulls the door <b>154</b> back away from the industrial wall <b>140</b> and then door trolley <b>156</b> and door <b>154</b> move together in the direction of arrow A. In situations in which the industrial housing <b>140</b> is cylindrical-like in shape, or the surface of a flat housing wall is not perfectly planar, an adapter can be welded or otherwise coupled onto the wall of the industrial housing. The surface of the adapter that contacts the door <b>154</b> can then be machined to accurately mate with the door.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 2</figref> further shows that enclosure <b>120</b>, shaft <b>127</b>, and housing <b>135</b> have been moved along rail <b>110</b> via the activation of the first pneumatic transport system. The housing <b>135</b> itself has been moved through opening <b>160</b> into the industrial housing <b>140</b>. <figref idref="DRAWINGS">FIG. 2</figref> further illustrates that the industrial housing <b>135</b> has been rotated from a home position as illustrated in <figref idref="DRAWINGS">FIG. 1</figref> (as determined by the direction that the window <b>173</b> and lens housing <b>174</b> is pointed), to a deployed position as illustrated in <figref idref="DRAWINGS">FIG. 2</figref>. In another embodiment, the industrial housing is attached to the shaft <b>127</b> by a mechanism that allows the industrial housing <b>135</b> to tilt when it is in the industrial housing <b>140</b>.</p>
+<p id="p-0018" num="0017">In an embodiment, the transport structure <b>100</b> is connected to a processor housed in control box <b>137</b> that controls the functions of the transport system <b>100</b>. A flowchart outlining an embodiment of the control process is illustrated in <figref idref="DRAWINGS">FIG. 4</figref>. In <figref idref="DRAWINGS">FIG. 4</figref>, the control process <b>400</b> at block <b>405</b> (a process control computer) transmits a signal to the camera <b>170</b> to determine the temperature of the camera. If the temperature of the camera is too high, for example because of a recent incursion into a furnace, the process control will not move the camera into the furnace. In one embodiment, a timed loop is programmed into the processor logic to poll the temperature again, and see if the temperature is low enough to be inserted into the furnace. In other embodiments, the insertion of the camera is on a timed and scheduled basis, and the system then waits for the next scheduled time to insert the camera into the furnace. In yet another embodiment, an operator provides a command to the processor to move the camera into the furnace, and if insertion does not occur because the temperature of the camera is too high, the operator can wait before reissuing the command.</p>
+<p id="p-0019" num="0018">In an embodiment, if the temperature of the camera is found to be within operating conditions in block <b>410</b>, image and rotation angle commands are transmitted from the camera to a programmable logic controller (PLC) housed in control box <b>137</b> (block <b>412</b>). The image command readies the IR camera <b>170</b> for capturing images, and the rotation command is sent to the PLC which communicates with the stepper motor controller, housed in control box <b>137</b>, which rotates the camera so that the window <b>173</b> and lens housing <b>174</b> will be pointed in the desired direction at <b>427</b>. At <b>415</b>, the PLC checks to see if the industrial housing <b>135</b>, the enclosure <b>120</b>, and the control box <b>137</b> have been successfully purged. A purge system <b>139</b>, housed in control box <b>137</b>, establishes a positive pressure in the enclosure <b>120</b>, the control box <b>137</b>, and the housing <b>135</b>. This positive pressure keeps contaminants from leaking into these structures. If the Purge is OK, the PLC then checks in block <b>420</b> whether the camera <b>135</b> is out and the door <b>154</b> is closed. If the camera is out and the door <b>154</b> to the housing <b>140</b> is closed, the PLC checks in block <b>425</b> to see if the camera window <b>173</b> and lens housing <b>174</b> are located in the home position. If the camera is home, signals are then sent to the stepper motor at <b>427</b> so that the camera is rotated the desired number of degrees to the desired angle (i.e. the deployed position). If the purge was not OK in block <b>415</b>, or the camera was not out and/or the door was not closed in block <b>420</b>, or the stepper motor was not in a home position in block <b>425</b>, a variable representing the health or status of the PLC is set to zero and sent to the camera in block <b>430</b>, and the camera communicates a PLC health error indication to the process computer.</p>
+<p id="p-0020" num="0019">In block <b>440</b>, the processor sends a signal to energize a pneumatic valve which opens the door <b>154</b> that seals the housing <b>140</b>. In block <b>445</b>, the processor checks to see if the door successfully opened. If the door did not open successfully, the PLC health status is set to zero at <b>430</b>, and the PLC sends the information to the camera. If the door successfully opened, the first pneumatic transport system is energized at <b>447</b>, and the housing <b>135</b> and camera <b>170</b> are moved through the housing wall <b>140</b>. The processor then determines if the camera was moved into the housing successfully at <b>450</b>. If it was not, the PLC status is once again set to zero. If the processor determines that the camera was moved into the furnace successfully, images are captured by the camera at <b>460</b>. The camera then communicates with the process computer in block <b>405</b> and transfers the images. These images may be transmitted via wired or unwired means. Then, after a short time in the furnace at <b>465</b> (three seconds in one embodiment), the PLC sends a signal to the first pneumatic transport system at <b>470</b> to energize the valve again so that the housing and camera are removed from the furnace. The PLC checks to see if the camera was successfully removed from the furnace at <b>475</b>. If it was not, the PLC status is set to zero. If the camera was successfully removed from the furnace, the close door valve of the second pneumatic transport system is reenergized at <b>480</b>, and the door <b>154</b> is closed. The PLC checks to see if the door was successfully closed (<b>485</b>), and if it was not, PLC status is set to zero.</p>
+<p id="p-0021" num="0020">When the transport system senses any of the problems outlined above (e.g. the door <b>154</b> did not successfully close at <b>485</b>), or any other problems such as loss of electrical power or loss of pneumatic pressure, the processor status is set to zero and the system goes into a failsafe state. If instrument air is lost in the failsafe state, the pneumatic air in the reservoir <b>138</b> is used by the system to remove the camera from the furnace (if the camera is in the furnace when the problem occurs), and to shut the door <b>154</b> (if once again the door is open when the problem occurs). This failsafe operation prevents the situation where the furnace door remains open because of a failure of some part of the system. In an embodiment that uses an electric motor to move said industrial housing <b>135</b> and said door <b>154</b>, an alternative power supply, such as a battery or gas-powered generator, could be used to put the system into the failsafe mode.</p>
+<p id="p-0022" num="0021">In the foregoing detailed description of embodiments of the invention, various features are grouped together in one or more embodiments for the purpose of streamlining the disclosure. This method of disclosure is not to be interpreted as reflecting an intention that the claimed embodiments of the invention require more features than are expressly recited in each claim. Rather, as the following claims reflect, inventive subject matter lies in less than all features of a single disclosed embodiment. Thus the following claims are hereby incorporated into the detailed description of embodiments of the invention, with each claim standing on its own as a separate embodiment. It is understood that the above description is intended to be illustrative, and not restrictive. It is intended to cover all alternatives, modifications and equivalents as may be included within the scope of the invention as defined in the appended claims. Many other embodiments will be apparent to those of skill in the art upon reviewing the above description. The scope of the invention should, therefore, be determined with reference to the appended claims, along with the full scope of equivalents to which such claims are entitled. In the appended claims, the terms &#x201c;including&#x201d; and &#x201c;in which&#x201d; are used as the plain-English equivalents of the respective terms &#x201c;comprising&#x201d; and &#x201c;wherein,&#x201d; respectively. Moreover, the terms &#x201c;first,&#x201d; &#x201c;second,&#x201d; and &#x201c;third,&#x201d; etc., are used merely as labels, and are not intended to impose numerical requirements on their objects.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An apparatus comprising:
+<claim-text>a frame;</claim-text>
+<claim-text>a first pneumatic system attached to said frame;</claim-text>
+<claim-text>a second pneumatic system attached to said frame;</claim-text>
+<claim-text>a first industrial housing connected to said first pneumatic system;</claim-text>
+<claim-text>an industrial plant-based, immobile industrial housing associated with an industrial process and connected to said frame; and</claim-text>
+<claim-text>a door connected to said second pneumatic system.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a motor, said motor connected to said first pneumatic system and said first industrial housing.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The apparatus of <claim-ref idref="CLM-00002">claim 2</claim-ref>, further comprising a shaft, said shaft connecting said motor to said first industrial housing.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The apparatus of <claim-ref idref="CLM-00002">claim 2</claim-ref>, further comprising:
+<claim-text>a programmable logic controller coupled to said first pneumatic system and said second pneumatic system, said processor housed in a control box;</claim-text>
+<claim-text>an enclosure to house said motor; and</claim-text>
+<claim-text>a purge system to establish a positive pressure within said control box, said enclosure that houses said motor, and said first industrial housing.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said industrial plant-based, immobile industrial housing comprises a furnace.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a camera contained within said first industrial housing.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a second frame attached to said second pneumatic system; and</claim-text>
+<claim-text>an actuator connecting said second frame to said door;</claim-text>
+<claim-text>wherein said second pneumatic system causes said door to move in a first direction and said actuator causes said door to move away from said industrial equipment; and</claim-text>
+<claim-text>further wherein said second pneumatic system causes said door to move in a second direction and said actuator causes said door to move towards said industrial equipment.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The apparatus of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein said camera comprises an infrared camera, a wide angle lens, and a sapphire window. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

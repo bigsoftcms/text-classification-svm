@@ -1,0 +1,2420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641073-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641073</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11624012</doc-number>
+<date>20070117</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>KR</country>
+<doc-number>10-2006-0107961</doc-number>
+<date>20061102</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>541</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>07</class>
+<subclass>F</subclass>
+<main-group>11</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>221171</main-classification>
+<further-classification>221173</further-classification>
+<further-classification>221174</further-classification>
+<further-classification>221200</further-classification>
+</classification-national>
+<invention-title id="d0e71">Apparatus and method for preventing irregular packaging for automatic medicine packing machine</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>169935</doc-number>
+<kind>A</kind>
+<name>Whitman</name>
+<date>18751100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>350675</doc-number>
+<kind>A</kind>
+<name>Hathaway</name>
+<date>18861000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>488721</doc-number>
+<kind>A</kind>
+<name>Stempel</name>
+<date>18921200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>1121804</doc-number>
+<kind>A</kind>
+<name>Coulson</name>
+<date>19141200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>1270756</doc-number>
+<kind>A</kind>
+<name>Holmberg</name>
+<date>19180600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>1912248</doc-number>
+<kind>A</kind>
+<name>Bateman et al.</name>
+<date>19330500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2005496</doc-number>
+<kind>A</kind>
+<name>Donovan et al.</name>
+<date>19350600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2181314</doc-number>
+<kind>A</kind>
+<name>Burns</name>
+<date>19391100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2208951</doc-number>
+<kind>A</kind>
+<name>Tamassy</name>
+<date>19400700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2255036</doc-number>
+<kind>A</kind>
+<name>Gedge</name>
+<date>19410900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2449139</doc-number>
+<kind>A</kind>
+<name>Posner</name>
+<date>19480900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>2710712</doc-number>
+<kind>A</kind>
+<name>Friedman</name>
+<date>19550600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>2712883</doc-number>
+<kind>A</kind>
+<name>Esposito et al.</name>
+<date>19550700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>2918069</doc-number>
+<kind>A</kind>
+<name>Brown, Jr. et al.</name>
+<date>19591200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>2994996</doc-number>
+<kind>A</kind>
+<name>Klar</name>
+<date>19610800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>3074214</doc-number>
+<kind>A</kind>
+<name>Schneider et al.</name>
+<date>19630100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>3227127</doc-number>
+<kind>A</kind>
+<name>Gayle</name>
+<date>19660100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>3263857</doc-number>
+<kind>A</kind>
+<name>Krakauer et al.</name>
+<date>19660800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>3348392</doc-number>
+<kind>A</kind>
+<name>Schreiber</name>
+<date>19671000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>3408876</doc-number>
+<kind>A</kind>
+<name>Andrews</name>
+<date>19681100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>3410452</doc-number>
+<kind>A</kind>
+<name>Igel et al.</name>
+<date>19681100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>3481103</doc-number>
+<kind>A</kind>
+<name>Summerour</name>
+<date>19691200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>3546849</doc-number>
+<kind>A</kind>
+<name>Zimmerman</name>
+<date>19701200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>3562475</doc-number>
+<kind>A</kind>
+<name>Angelotti et al.</name>
+<date>19710200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>3604559</doc-number>
+<kind>A</kind>
+<name>McCall et al.</name>
+<date>19710900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>3774368</doc-number>
+<kind>A</kind>
+<name>Paprzycki et al.</name>
+<date>19731100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>3820655</doc-number>
+<kind>A</kind>
+<name>La Tourette et al.</name>
+<date>19740600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>3830419</doc-number>
+<kind>A</kind>
+<name>Lee</name>
+<date>19740800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>3842569</doc-number>
+<kind>A</kind>
+<name>McClelland et al.</name>
+<date>19741000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>3850780</doc-number>
+<kind>A</kind>
+<name>Crawford et al.</name>
+<date>19741100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>3861651</doc-number>
+<kind>A</kind>
+<name>Takamura</name>
+<date>19750100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>3871156</doc-number>
+<kind>A</kind>
+<name>Koenig et al.</name>
+<date>19750300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>3917025</doc-number>
+<kind>A</kind>
+<name>Yates et al.</name>
+<date>19751100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>188 52</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>3921419</doc-number>
+<kind>A</kind>
+<name>Rosenkranz et al.</name>
+<date>19751100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>3990209</doc-number>
+<kind>A</kind>
+<name>Eisenberg</name>
+<date>19761100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>4019547</doc-number>
+<kind>A</kind>
+<name>Ross</name>
+<date>19770400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>4149394</doc-number>
+<kind>A</kind>
+<name>Sornes</name>
+<date>19790400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>4209211</doc-number>
+<kind>A</kind>
+<name>Alford</name>
+<date>19800600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>4244158</doc-number>
+<kind>A</kind>
+<name>Nelham</name>
+<date>19810100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>4254601</doc-number>
+<kind>A</kind>
+<name>Prager et al.</name>
+<date>19810300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>4267942</doc-number>
+<kind>A</kind>
+<name>Wick, Jr. et al.</name>
+<date>19810500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>4382527</doc-number>
+<kind>A</kind>
+<name>Lerner</name>
+<date>19830500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>4519179</doc-number>
+<kind>A</kind>
+<name>Meier</name>
+<date>19850500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>4534499</doc-number>
+<kind>A</kind>
+<name>Cox et al.</name>
+<date>19850800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>4572376</doc-number>
+<kind>A</kind>
+<name>Wrennall</name>
+<date>19860200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>4664289</doc-number>
+<kind>A</kind>
+<name>Shimizu et al.</name>
+<date>19870500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>4696392</doc-number>
+<kind>A</kind>
+<name>Chisholm, Jr.</name>
+<date>19870900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00048">
+<document-id>
+<country>US</country>
+<doc-number>4771912</doc-number>
+<kind>A</kind>
+<name>van Wingerden</name>
+<date>19880900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00049">
+<document-id>
+<country>US</country>
+<doc-number>4790118</doc-number>
+<kind>A</kind>
+<name>Chilcoate</name>
+<date>19881200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00050">
+<document-id>
+<country>US</country>
+<doc-number>4790421</doc-number>
+<kind>A</kind>
+<name>Gorges</name>
+<date>19881200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00051">
+<document-id>
+<country>US</country>
+<doc-number>4811764</doc-number>
+<kind>A</kind>
+<name>McLaughlin</name>
+<date>19890300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00052">
+<document-id>
+<country>US</country>
+<doc-number>4903861</doc-number>
+<kind>A</kind>
+<name>Yuyama</name>
+<date>19900200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00053">
+<document-id>
+<country>US</country>
+<doc-number>4915259</doc-number>
+<kind>A</kind>
+<name>Guigan et al.</name>
+<date>19900400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00054">
+<document-id>
+<country>US</country>
+<doc-number>4922682</doc-number>
+<kind>A</kind>
+<name>Tait et al.</name>
+<date>19900500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00055">
+<document-id>
+<country>US</country>
+<doc-number>4955178</doc-number>
+<kind>A</kind>
+<name>Shroyer</name>
+<date>19900900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00056">
+<document-id>
+<country>US</country>
+<doc-number>5069511</doc-number>
+<kind>A</kind>
+<name>Swets et al.</name>
+<date>19911200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00057">
+<document-id>
+<country>US</country>
+<doc-number>5097652</doc-number>
+<kind>A</kind>
+<name>Inamura et al.</name>
+<date>19920300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00058">
+<document-id>
+<country>US</country>
+<doc-number>5219095</doc-number>
+<kind>A</kind>
+<name>Shimizu et al.</name>
+<date>19930600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00059">
+<document-id>
+<country>US</country>
+<doc-number>5221024</doc-number>
+<kind>A</kind>
+<name>Campbell</name>
+<date>19930600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00060">
+<document-id>
+<country>US</country>
+<doc-number>5318430</doc-number>
+<kind>A</kind>
+<name>Ramm</name>
+<date>19940600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00061">
+<document-id>
+<country>US</country>
+<doc-number>5337919</doc-number>
+<kind>A</kind>
+<name>Spaulding et al.</name>
+<date>19940800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00062">
+<document-id>
+<country>US</country>
+<doc-number>5348061</doc-number>
+<kind>A</kind>
+<name>Riley et al.</name>
+<date>19940900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00063">
+<document-id>
+<country>US</country>
+<doc-number>5381904</doc-number>
+<kind>A</kind>
+<name>Thurell</name>
+<date>19950100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00064">
+<document-id>
+<country>US</country>
+<doc-number>5383559</doc-number>
+<kind>A</kind>
+<name>Toren</name>
+<date>19950100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00065">
+<document-id>
+<country>US</country>
+<doc-number>5413245</doc-number>
+<kind>A</kind>
+<name>Wright</name>
+<date>19950500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00066">
+<document-id>
+<country>US</country>
+<doc-number>5441165</doc-number>
+<kind>A</kind>
+<name>Kemp et al.</name>
+<date>19950800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00067">
+<document-id>
+<country>US</country>
+<doc-number>5459983</doc-number>
+<kind>A</kind>
+<name>Sadek et al.</name>
+<date>19951000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00068">
+<document-id>
+<country>US</country>
+<doc-number>5481855</doc-number>
+<kind>A</kind>
+<name>Yuyama</name>
+<date>19960100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00069">
+<document-id>
+<country>US</country>
+<doc-number>5487289</doc-number>
+<kind>A</kind>
+<name>Otto, III et al.</name>
+<date>19960100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00070">
+<document-id>
+<country>US</country>
+<doc-number>5502944</doc-number>
+<kind>A</kind>
+<name>Kraft et al.</name>
+<date>19960400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00071">
+<document-id>
+<country>US</country>
+<doc-number>5509573</doc-number>
+<kind>A</kind>
+<name>Campoli</name>
+<date>19960400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00072">
+<document-id>
+<country>US</country>
+<doc-number>5522525</doc-number>
+<kind>A</kind>
+<name>McLaughlin et al.</name>
+<date>19960600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00073">
+<document-id>
+<country>US</country>
+<doc-number>5575465</doc-number>
+<kind>A</kind>
+<name>Auerbach et al.</name>
+<date>19961100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00074">
+<document-id>
+<country>US</country>
+<doc-number>5588792</doc-number>
+<kind>A</kind>
+<name>Tiso</name>
+<date>19961200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00075">
+<document-id>
+<country>US</country>
+<doc-number>5599015</doc-number>
+<kind>A</kind>
+<name>Shimizu et al.</name>
+<date>19970200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00076">
+<document-id>
+<country>US</country>
+<doc-number>5611456</doc-number>
+<kind>A</kind>
+<name>Kasper</name>
+<date>19970300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00077">
+<document-id>
+<country>US</country>
+<doc-number>5626219</doc-number>
+<kind>A</kind>
+<name>Deefholts et al.</name>
+<date>19970500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00078">
+<document-id>
+<country>US</country>
+<doc-number>5651476</doc-number>
+<kind>A</kind>
+<name>Percy et al.</name>
+<date>19970700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00079">
+<document-id>
+<country>US</country>
+<doc-number>5660305</doc-number>
+<kind>A</kind>
+<name>Lasher et al.</name>
+<date>19970800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00080">
+<document-id>
+<country>US</country>
+<doc-number>5667096</doc-number>
+<kind>A</kind>
+<name>Wu</name>
+<date>19970900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00081">
+<document-id>
+<country>US</country>
+<doc-number>5671592</doc-number>
+<kind>A</kind>
+<name>Yuyama et al.</name>
+<date>19970900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00082">
+<document-id>
+<country>US</country>
+<doc-number>5678393</doc-number>
+<kind>A</kind>
+<name>Yuyama et al.</name>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00083">
+<document-id>
+<country>US</country>
+<doc-number>5709063</doc-number>
+<kind>A</kind>
+<name>Yuyama et al.</name>
+<date>19980100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00084">
+<document-id>
+<country>US</country>
+<doc-number>5722215</doc-number>
+<kind>A</kind>
+<name>Yuyama</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00085">
+<document-id>
+<country>US</country>
+<doc-number>5749117</doc-number>
+<kind>A</kind>
+<name>Forsline</name>
+<date>19980500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00086">
+<document-id>
+<country>US</country>
+<doc-number>5765606</doc-number>
+<kind>A</kind>
+<name>Takemasa et al.</name>
+<date>19980600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00087">
+<document-id>
+<country>US</country>
+<doc-number>5787678</doc-number>
+<kind>A</kind>
+<name>Koike et al.</name>
+<date>19980800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00088">
+<document-id>
+<country>US</country>
+<doc-number>5797248</doc-number>
+<kind>A</kind>
+<name>Hetherington et al.</name>
+<date>19980800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00089">
+<document-id>
+<country>US</country>
+<doc-number>5803309</doc-number>
+<kind>A</kind>
+<name>Yuyama et al.</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00090">
+<document-id>
+<country>US</country>
+<doc-number>5819500</doc-number>
+<kind>A</kind>
+<name>Haraguchi et al.</name>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00091">
+<document-id>
+<country>US</country>
+<doc-number>5839257</doc-number>
+<kind>A</kind>
+<name>Soderstrom et al.</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00092">
+<document-id>
+<country>US</country>
+<doc-number>5852911</doc-number>
+<kind>A</kind>
+<name>Yuyama et al.</name>
+<date>19981200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00093">
+<document-id>
+<country>US</country>
+<doc-number>5865342</doc-number>
+<kind>A</kind>
+<name>Ito et al.</name>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00094">
+<document-id>
+<country>US</country>
+<doc-number>5875610</doc-number>
+<kind>A</kind>
+<name>Yuyama et al.</name>
+<date>19990300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00095">
+<document-id>
+<country>US</country>
+<doc-number>5901876</doc-number>
+<kind>A</kind>
+<name>Yuyama et al.</name>
+<date>19990500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00096">
+<document-id>
+<country>US</country>
+<doc-number>5927546</doc-number>
+<kind>A</kind>
+<name>Yuyama et al.</name>
+<date>19990700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00097">
+<document-id>
+<country>US</country>
+<doc-number>5930145</doc-number>
+<kind>A</kind>
+<name>Yuyama et al.</name>
+<date>19990700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00098">
+<document-id>
+<country>US</country>
+<doc-number>5944057</doc-number>
+<kind>A</kind>
+<name>Pierce</name>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00099">
+<document-id>
+<country>US</country>
+<doc-number>5946883</doc-number>
+<kind>A</kind>
+<name>Yuyama et al.</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00100">
+<document-id>
+<country>US</country>
+<doc-number>5963453</doc-number>
+<kind>A</kind>
+<name>East</name>
+<date>19991000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00101">
+<document-id>
+<country>US</country>
+<doc-number>5964374</doc-number>
+<kind>A</kind>
+<name>Yuyama et al.</name>
+<date>19991000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00102">
+<document-id>
+<country>US</country>
+<doc-number>5987859</doc-number>
+<kind>A</kind>
+<name>Dreger</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00103">
+<document-id>
+<country>US</country>
+<doc-number>6012602</doc-number>
+<kind>A</kind>
+<name>Yuyama et al.</name>
+<date>20000100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00104">
+<document-id>
+<country>US</country>
+<doc-number>6023916</doc-number>
+<kind>A</kind>
+<name>Bouthiette</name>
+<date>20000200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00105">
+<document-id>
+<country>US</country>
+<doc-number>6029683</doc-number>
+<kind>A</kind>
+<name>Moebs et al.</name>
+<date>20000200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00106">
+<document-id>
+<country>US</country>
+<doc-number>6050064</doc-number>
+<kind>A</kind>
+<name>Yuyama et al.</name>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00107">
+<document-id>
+<country>US</country>
+<doc-number>6089136</doc-number>
+<kind>A</kind>
+<name>Hinojosa et al.</name>
+<date>20000700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00108">
+<document-id>
+<country>US</country>
+<doc-number>6109486</doc-number>
+<kind>A</kind>
+<name>Lee, Jr. et al.</name>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00109">
+<document-id>
+<country>US</country>
+<doc-number>6119440</doc-number>
+<kind>A</kind>
+<name>Benner, Jr. et al.</name>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00110">
+<document-id>
+<country>US</country>
+<doc-number>6119892</doc-number>
+<kind>A</kind>
+<name>Laurent et al.</name>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00111">
+<document-id>
+<country>US</country>
+<doc-number>6145700</doc-number>
+<kind>A</kind>
+<name>Takahashi et al.</name>
+<date>20001100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00112">
+<document-id>
+<country>US</country>
+<doc-number>6164038</doc-number>
+<kind>A</kind>
+<name>Kim</name>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00113">
+<document-id>
+<country>US</country>
+<doc-number>6170229</doc-number>
+<kind>B1</kind>
+<name>Kim</name>
+<date>20010100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00114">
+<document-id>
+<country>US</country>
+<doc-number>6170230</doc-number>
+<kind>B1</kind>
+<name>Chudy et al.</name>
+<date>20010100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00115">
+<document-id>
+<country>US</country>
+<doc-number>6170699</doc-number>
+<kind>B1</kind>
+<name>Kim</name>
+<date>20010100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00116">
+<document-id>
+<country>US</country>
+<doc-number>6179205</doc-number>
+<kind>B1</kind>
+<name>Sloan</name>
+<date>20010100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00117">
+<document-id>
+<country>US</country>
+<doc-number>6202385</doc-number>
+<kind>B1</kind>
+<name>Kim</name>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00118">
+<document-id>
+<country>US</country>
+<doc-number>6216418</doc-number>
+<kind>B1</kind>
+<name>Kim</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00119">
+<document-id>
+<country>US</country>
+<doc-number>6256963</doc-number>
+<kind>B1</kind>
+<name>Kim</name>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00120">
+<document-id>
+<country>US</country>
+<doc-number>6263639</doc-number>
+<kind>B1</kind>
+<name>Kim</name>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00121">
+<document-id>
+<country>US</country>
+<doc-number>6273335</doc-number>
+<kind>B1</kind>
+<name>Sloan</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00122">
+<document-id>
+<country>US</country>
+<doc-number>6308494</doc-number>
+<kind>B1</kind>
+<name>Yuyama et al.</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00123">
+<document-id>
+<country>US</country>
+<doc-number>6311743</doc-number>
+<kind>B1</kind>
+<name>Baroncini</name>
+<date>20011100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00124">
+<document-id>
+<country>US</country>
+<doc-number>6318051</doc-number>
+<kind>B1</kind>
+<name>Preiss</name>
+<date>20011100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00125">
+<document-id>
+<country>US</country>
+<doc-number>6349848</doc-number>
+<kind>B1</kind>
+<name>Uema et al.</name>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00126">
+<document-id>
+<country>US</country>
+<doc-number>6364517</doc-number>
+<kind>B1</kind>
+<name>Yuyama et al.</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00127">
+<document-id>
+<country>US</country>
+<doc-number>6367232</doc-number>
+<kind>B2</kind>
+<name>Kim</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00128">
+<document-id>
+<country>US</country>
+<doc-number>6394308</doc-number>
+<kind>B1</kind>
+<name>Yuyama et al.</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00129">
+<document-id>
+<country>US</country>
+<doc-number>6409290</doc-number>
+<kind>B1</kind>
+<name>Lin</name>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00130">
+<document-id>
+<country>US</country>
+<doc-number>6427865</doc-number>
+<kind>B1</kind>
+<name>Stillwell et al.</name>
+<date>20020800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00131">
+<document-id>
+<country>US</country>
+<doc-number>6449921</doc-number>
+<kind>B1</kind>
+<name>Kim</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00132">
+<document-id>
+<country>US</country>
+<doc-number>6457611</doc-number>
+<kind>B1</kind>
+<name>Koehler</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00133">
+<document-id>
+<country>US</country>
+<doc-number>6471089</doc-number>
+<kind>B2</kind>
+<name>Liff et al.</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00134">
+<document-id>
+<country>US</country>
+<doc-number>6471090</doc-number>
+<kind>B1</kind>
+<name>Inamura et al.</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00135">
+<document-id>
+<country>US</country>
+<doc-number>6478185</doc-number>
+<kind>B2</kind>
+<name>Kodama et al.</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00136">
+<document-id>
+<country>US</country>
+<doc-number>6481180</doc-number>
+<kind>B1</kind>
+<name>Takahashi et al.</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00137">
+<document-id>
+<country>US</country>
+<doc-number>6508279</doc-number>
+<kind>B2</kind>
+<name>Siegel et al.</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00138">
+<document-id>
+<country>US</country>
+<doc-number>6540101</doc-number>
+<kind>B1</kind>
+<name>Kim</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00139">
+<document-id>
+<country>US</country>
+<doc-number>6581356</doc-number>
+<kind>B2</kind>
+<name>Kim</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00140">
+<document-id>
+<country>US</country>
+<doc-number>6585132</doc-number>
+<kind>B2</kind>
+<name>Kim</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00141">
+<document-id>
+<country>US</country>
+<doc-number>6604019</doc-number>
+<kind>B2</kind>
+<name>Ahlin et al.</name>
+<date>20030800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00142">
+<document-id>
+<country>US</country>
+<doc-number>6611733</doc-number>
+<kind>B1</kind>
+<name>De La Huerga</name>
+<date>20030800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00143">
+<document-id>
+<country>US</country>
+<doc-number>6644504</doc-number>
+<kind>B2</kind>
+<name>Yuyama et al.</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00144">
+<document-id>
+<country>US</country>
+<doc-number>6647702</doc-number>
+<kind>B1</kind>
+<name>Kim</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00145">
+<document-id>
+<country>US</country>
+<doc-number>6722167</doc-number>
+<kind>B1</kind>
+<name>Hsu</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00146">
+<document-id>
+<country>US</country>
+<doc-number>6772907</doc-number>
+<kind>B2</kind>
+<name>Kim</name>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00147">
+<document-id>
+<country>US</country>
+<doc-number>6786356</doc-number>
+<kind>B2</kind>
+<name>Geiger et al.</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00148">
+<document-id>
+<country>US</country>
+<doc-number>6792736</doc-number>
+<kind>B1</kind>
+<name>Takahashi</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00149">
+<document-id>
+<country>US</country>
+<doc-number>6805259</doc-number>
+<kind>B2</kind>
+<name>Stevens et al.</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00150">
+<document-id>
+<country>US</country>
+<doc-number>6877611</doc-number>
+<kind>B2</kind>
+<name>Yamamoto et al.</name>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>209646</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00151">
+<document-id>
+<country>US</country>
+<doc-number>6898919</doc-number>
+<kind>B2</kind>
+<name>Kim</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00152">
+<document-id>
+<country>US</country>
+<doc-number>7028447</doc-number>
+<kind>B2</kind>
+<name>Sung</name>
+<date>20060400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00153">
+<document-id>
+<country>US</country>
+<doc-number>7059098</doc-number>
+<kind>B2</kind>
+<name>Kim</name>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00154">
+<document-id>
+<country>US</country>
+<doc-number>7331151</doc-number>
+<kind>B2</kind>
+<name>Kim</name>
+<date>20080200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00155">
+<document-id>
+<country>US</country>
+<doc-number>7523594</doc-number>
+<kind>B2</kind>
+<name>Greenwald et al.</name>
+<date>20090400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53255</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00156">
+<document-id>
+<country>US</country>
+<doc-number>2002/0092275</doc-number>
+<kind>A1</kind>
+<name>Kim</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00157">
+<document-id>
+<country>US</country>
+<doc-number>2003/0057225</doc-number>
+<kind>A1</kind>
+<name>Kim</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00158">
+<document-id>
+<country>US</country>
+<doc-number>2003/0074868</doc-number>
+<kind>A1</kind>
+<name>Yasuoka et al.</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00159">
+<document-id>
+<country>US</country>
+<doc-number>2004/0046020</doc-number>
+<kind>A1</kind>
+<name>Andreasson et al.</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00160">
+<document-id>
+<country>US</country>
+<doc-number>2004/0129716</doc-number>
+<kind>A1</kind>
+<name>Naufel et al.</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00161">
+<document-id>
+<country>US</country>
+<doc-number>2004/0182044</doc-number>
+<kind>A1</kind>
+<name>Kim</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00162">
+<document-id>
+<country>US</country>
+<doc-number>2005/0179349</doc-number>
+<kind>A1</kind>
+<name>Booth et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00163">
+<document-id>
+<country>US</country>
+<doc-number>2005/0234430</doc-number>
+<kind>A1</kind>
+<name>Mao et al.</name>
+<date>20051000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00164">
+<document-id>
+<country>US</country>
+<doc-number>2006/0058918</doc-number>
+<kind>A1</kind>
+<name>Handfield et al.</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00165">
+<document-id>
+<country>US</country>
+<doc-number>2006/0070352</doc-number>
+<kind>A1</kind>
+<name>Momich</name>
+<date>20060400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00166">
+<document-id>
+<country>US</country>
+<doc-number>2006/0139148</doc-number>
+<kind>A1</kind>
+<name>Faro et al.</name>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00167">
+<document-id>
+<country>US</country>
+<doc-number>2006/0267727</doc-number>
+<kind>A1</kind>
+<name>Cayne et al.</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00168">
+<document-id>
+<country>US</country>
+<doc-number>2006/0273106</doc-number>
+<kind>A1</kind>
+<name>Kim</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00169">
+<document-id>
+<country>US</country>
+<doc-number>2007/0016327</doc-number>
+<kind>A1</kind>
+<name>Yuyama et al.</name>
+<date>20070100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00170">
+<document-id>
+<country>US</country>
+<doc-number>2007/0078562</doc-number>
+<kind>A1</kind>
+<name>Park</name>
+<date>20070400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00171">
+<document-id>
+<country>US</country>
+<doc-number>2007/0125100</doc-number>
+<kind>A1</kind>
+<name>Shoenfeld</name>
+<date>20070600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00172">
+<document-id>
+<country>US</country>
+<doc-number>2007/0151204</doc-number>
+<kind>A1</kind>
+<name>Kim</name>
+<date>20070700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00173">
+<document-id>
+<country>US</country>
+<doc-number>2007/0208595</doc-number>
+<kind>A1</kind>
+<name>Ohmura et al.</name>
+<date>20070900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00174">
+<document-id>
+<country>US</country>
+<doc-number>2007/0257773</doc-number>
+<kind>A1</kind>
+<name>Hill et al.</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00175">
+<document-id>
+<country>GB</country>
+<doc-number>2178397</doc-number>
+<date>19870200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00176">
+<document-id>
+<country>JP</country>
+<doc-number>9-175510</doc-number>
+<date>19970700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00177">
+<document-id>
+<country>JP</country>
+<doc-number>9-266940</doc-number>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>8</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>221171</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>221173</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>221174</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>221200</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>10</number-of-drawing-sheets>
+<number-of-figures>10</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080104929</doc-number>
+<kind>A1</kind>
+<date>20080508</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kim</last-name>
+<first-name>Jun Ho</first-name>
+<address>
+<city>Taegu</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Park</last-name>
+<first-name>John K.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<orgname>Park Law Firm</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>JVM Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Taegu</city>
+<country>KR</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Crawford</last-name>
+<first-name>Gene</first-name>
+<department>3651</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Waggoner</last-name>
+<first-name>Timothy R</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method for preventing irregular packaging for automatic medicine packing machine having a last hopper that contains the tablet just before the tablet is packed, includes steps of sensing whether a tablet is received in the last hopper, sensing and deciding whether the tablet stands vertical inside the last hopper, vibrating a shutter if it is decided that the tablet stands vertical whereby the vertical standing tablet falls down, and checking non-standing of the tablet after completion of shutter vibration. The apparatus performing the method includes a shutter vibrating unit and a standing sensor that is installed on the last hopper and senses whether the tablet received in the last hopper stands vertical. The standing sensor includes a horizontal slot that is formed horizontally at a side of the last hopper at a position corresponding to a vertical height of a tablet and a photo sensor.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="117.94mm" wi="122.00mm" file="US07641073-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="211.92mm" wi="144.70mm" file="US07641073-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="186.10mm" wi="143.09mm" file="US07641073-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="127.93mm" wi="139.02mm" file="US07641073-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="133.94mm" wi="133.94mm" file="US07641073-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="117.77mm" wi="137.75mm" file="US07641073-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="104.56mm" wi="136.82mm" file="US07641073-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="208.20mm" wi="124.12mm" file="US07641073-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="170.86mm" wi="157.31mm" file="US07641073-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="166.12mm" wi="167.05mm" file="US07641073-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="137.41mm" wi="168.06mm" file="US07641073-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CLAIMING FOREIGN PRIORITY</heading>
+<p id="p-0002" num="0001">The applicant claims and requests a foreign priority, through the Paris Convention for the Protection of Industrial Property, based on patent applications filed in the Republic of Korea (South Korea) with the filing date of Nov. 2, 2006 with the patent application number 10-2006-0107961 by the applicant, the contents of which are incorporated by reference into this disclosure as if fully set forth herein.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates to method and apparatus for preventing irregular packaging in an automatic medicine packing machine. More particularly, the present invention relates to method and apparatus for vibrating a last hopper of an automatic medicine packing machine for preventing irregular packing in which a tablet stands vertical.</p>
+<p id="p-0004" num="0003"><figref idref="DRAWINGS">FIG. 7</figref> shows an automatic medicine packing machine by prior art. The machine includes a plurality of tablet cassettes <b>200</b> that are installed in shelves that are provided in the upper part of a main body <b>100</b>, a hopper <b>300</b> that is provided below the tablet cassettes <b>200</b> and has a last hopper <b>301</b> on its lower end, a pair of packing envelope rolls <b>400</b> provided on both sides of and below the hopper <b>300</b>, a printing unit <b>500</b> that is provided below the rolls <b>400</b> and prints prescription, administering and patient information, a pair of feed rollers <b>600</b> that are provided below the hopper, a sealing unit <b>700</b> forming a bundle of packed envelopes by heat sealing the envelopes and provided between the hopper and the feed rollers, a punching unit <b>800</b> that punches holes on the bundle of envelopes and is provided below the sealing unit. In the operation of the machine, tablets discharged from the tablet cassette <b>200</b> to the hopper <b>300</b> are collected in the last hopper <b>301</b>, and all the tablets are discharged at once and received in an envelope that is fed from the packing envelope roll <b>400</b> by the feed rollers <b>600</b>. The envelope carrying the tablets is sealed by the sealing unit <b>700</b> while the envelope is moving downward, and the sealed envelope is discharged to the lower portion of the main body <b>100</b>.</p>
+<p id="p-0005" num="0004">As shown in <figref idref="DRAWINGS">FIGS. 8 and 9</figref>, the last hopper <b>301</b> and a shutter driver unit <b>303</b> are installed on a main frame <b>101</b>. The shutter driver unit <b>303</b> opens/closes a shutter <b>302</b> for the last hopper <b>301</b>. The shutter driver unit <b>303</b> is operated as follows. A motor <b>303</b><i>a </i>rotates a rotating member <b>303</b><i>b </i>by a predetermined angle. Then an angular movement pin <b>303</b><i>c </i>is angularly moved and pushes a trigger <b>302</b><i>a </i>by a predetermined angle and thereby rotating a rotating pin <b>302</b><i>b </i>that is coupled to the trigger <b>302</b><i>a</i>, and the shutter <b>302</b> that is coupled to the rotating pin <b>302</b><i>b </i>is rotated. In this way, a lower part of the last hopper <b>301</b>, which has been closed by the shutter <b>302</b>, is opened and a tablet T that was contained in the last hopper is discharged between the pair of the packing envelope P. The tablet T discharged on the packing envelope P is packed by heat sealing of the envelope with the sealing unit <b>700</b>.</p>
+<p id="p-0006" num="0005">To close the last hopper <b>301</b> again, the motor <b>303</b><i>a </i>is rotated to its initial position. Then the angular movement pin <b>303</b><i>c </i>is rotated back and return to its initial position. Then the pushing of the trigger <b>302</b><i>a </i>by the angular movement pin <b>303</b><i>c </i>is removed and elastic force by a torsion spring <b>302</b><i>c </i>that was pressing the rotating pin <b>302</b><i>b </i>is removed thereby returning the rotating pin <b>302</b><i>b </i>and returning the shutter <b>302</b> to its original position.</p>
+<p id="p-0007" num="0006">The disadvantage of the prior art is that when an elongate tablet like a capsule is positioned vertical in the last hopper, the vertically standing tablet falls down when the shutter is open, and remains vertical on the packing envelope. In this case, the upper end of the tablet is pressed by the sealing unit and may be broken or damaged. This break or damage is more frequent for a large tablet that is packed alone.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">The present invention contrives to solve the disadvantages of the prior art.</p>
+<p id="p-0009" num="0008">An objective of the invention is to provide a simple apparatus and method for preventing vertical standing of a tablet in a last hopper of an automatic medicine packing machine, thereby preventing erroneous packing and break or damage of a tablet.</p>
+<p id="p-0010" num="0009">Another objective of the invention is to provide a last hopper vibration device that can be easily installed on an existing automatic medicine packing machine.</p>
+<p id="p-0011" num="0010">Still another objective of the invention is to provide a last hopper vibration device that senses whether a tablet stands vertical, and vibrates a last hopper only when a tablet stands vertical.</p>
+<p id="p-0012" num="0011">In order to achieve the above objective, the present invention provides a method for preventing irregular packaging for automatic medicine packing machine that comprises a last hopper that receives a tablet discharged from a tablet cassette and contains the tablet just before the tablet is packed. The last hopper comprises a shutter. The method comprises the steps of sensing whether a tablet is received in the last hopper, sensing and deciding whether the tablet stands vertical inside the last hopper, vibrating the shutter for a predetermined period of time if it is decided that the tablet stands vertical whereby the vertical standing tablet falls down, and checking non-standing of the tablet, in which checking vertical standing of the tablet is performed with the standing sensor after completion of shutter vibration.</p>
+<p id="p-0013" num="0012">In the step of sensing and deciding whether the tablet stands vertical, a photo sensor that is provided on the last hopper performs sensing standing status of the tablet.</p>
+<p id="p-0014" num="0013">In another embodiment, a method for preventing irregular packaging for automatic medicine packing machine that comprises the steps of sensing whether a tablet was discharged from the tablet cassette into the last hopper and stays inside the last hopper, extracting size information of the tablet that is input into the last hopper from medicine data that is stored in a controller in advance, comparing the extracted size of the tablet with a reference tablet size that is preset by an operator of the automatic medicine packing machine, and vibrating the shutter for a predetermined period of time if it is decided that the extracted size exceeds the reference tablet size.</p>
+<p id="p-0015" num="0014">The present invention also provides an apparatus for preventing irregular packaging for automatic medicine packing machine that comprises a last hopper that receives a tablet discharged from a tablet cassette and contains the tablet just before the tablet is packed. The last hopper comprises a shutter and a shutter drive unit that actuates the shutter to discharge the tablet. The apparatus comprises a shutter vibrating unit that is provided on an outer surface of the shutter and vibrates the shutter to prevent vertical standing of a tablet received in the last hopper.</p>
+<p id="p-0016" num="0015">The shutter vibrating unit comprises a vibration motor that is provided on the outer surface of the shutter and generates vibration and a fixing frame that fixes the vibration motor to the outer surface of the shutter so that the vibration motor is in close contact with the outer surface.</p>
+<p id="p-0017" num="0016">The apparatus further comprises a standing sensor that is installed on the last hopper and senses whether the tablet received in the last hopper stands vertical.</p>
+<p id="p-0018" num="0017">The standing sensor comprises a horizontal slot that is formed horizontally at a side of the last hopper at a position corresponding to a vertical height of a tablet and a photo sensor that is horizontally arranged in the horizontal slot and senses vertical standing of the tablet.</p>
+<p id="p-0019" num="0018">The advantages of the present invention are: (1) the present invention provides a simple method and apparatus that prevents vertical standing of a tablet in a last hopper, irregular packaging caused by vertical standing tablet, and break or damage of a tablet caused by packing vertical standing tablet; (2) the apparatus is easy to assemble and install in an existing automatic medicine packing machine, and operational stability is improved when the last hopper is vibrated; and (3) noise and damage of the apparatus is substantially reduced since the vibration of the last hopper is performed only when it is sensed that the tablet stands vertical, and thus unnecessary vibration is not repeated.</p>
+<p id="p-0020" num="0019">Although the present invention is briefly summarized, the fuller understanding of the invention can be obtained by the following drawings, detailed description and appended claims.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0021" num="0020">These and other features, aspects and advantages of the present invention will become better understood with reference to the accompanying drawings, wherein:</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 1</figref> is a flow diagram showing a method of preventing irregular packaging of an automatic medicine packing machine;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 2</figref> is a flow diagram for a second embodiment;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 3</figref> is a perspective view showing a last hopper;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 4</figref> is a cross-sectional view of the last hopper;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIGS. 5 and 6</figref> are enlarged partial cross-sectional views showing operation of the present invention;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 7</figref> is an elevation view showing an automatic medicine packing machine by prior art;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 8</figref> is a cross-sectional view of a last hopper by prior art viewed from the top;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 9</figref> is a cross-sectional view of the last hopper by prior art viewed from the front; and</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 10</figref> is a block diagram showing an apparatus for preventing irregular packaging of an automatic medicine packing machine.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 1</figref> shows a method for preventing erroneous packing of medicine. The method includes step S<b>1</b> of sensing whether a tablet is received in a last hopper, step S<b>2</b> of deciding whether the tablet stands vertical inside the last hopper, and step S<b>3</b> of vibrating a shutter if the tablet stands vertical so that the tablet is discharged from the last hopper not in vertical standing state.</p>
+<p id="p-0032" num="0031">In step S<b>1</b>, whether a tablet was discharged from a tablet cassette into the last hopper and stays inside the last hopper is sensed with an input sensor <b>13</b> (refer to <figref idref="DRAWINGS">FIG. 10</figref>). This step is to recognize that situation that a tablet is input into the last hopper.</p>
+<p id="p-0033" num="0032">After the input sensor senses that a tablet is received, in step S<b>2</b>, the positional status of the tablet inside the last hopper is sensed with a standing sensor <b>40</b> (refer to <figref idref="DRAWINGS">FIG. 10</figref>), and whether the tablet stands vertical is decided from the sensed information with a controller <b>44</b> (refer to <figref idref="DRAWINGS">FIG. 10</figref>). The standing sensor is a photo sensor that is installed in the last hopper, and senses the upper end of the tablet which is exposed when the tablet stands vertical (refer to <figref idref="DRAWINGS">FIGS. 5 and 6</figref>).</p>
+<p id="p-0034" num="0033">If it is decided that the tablet stands vertical, in step S<b>3</b>, the shutter is vibrated for a predetermined period of time so that the standing tablet falls down. If it is decided that the tablet does not stand vertical, the shutter is not vibrated in step S<b>3</b>.</p>
+<p id="p-0035" num="0034">The method further includes step S<b>4</b> of checking non-standing of the tablet, in which checking vertical standing of the tablet is performed with the standing sensor after completion of shutter vibration. If the tablet still stands vertical, the shutter is vibrated again.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 2</figref> shows another embodiment of a method preventing erroneous packaging of medicine. The method includes step S<b>10</b> of sensing whether a tablet is received in the last hopper, step S<b>20</b> of extracting tablet size information, in which tablet size information is extracted, step S<b>30</b> of deciding oversize of tablet, in which whether the size of the tablet exceeds the predetermined size is decided, and step S<b>40</b> of vibrating the shutter if the size of the tablet exceeds the predetermined size. These steps are performed sequentially to prevent the tablet from being discharged standing vertical.</p>
+<p id="p-0037" num="0036">In step S<b>10</b>, whether a tablet was discharged from the tablet cassette into the last hopper and stays inside the last hopper is sensed with the input sensor. This step is to recognize that situation that a tablet is input into the last hopper.</p>
+<p id="p-0038" num="0037">In step S<b>20</b>, size information about the size of the tablet that is input into the last hopper is extracted from the medicine data that is stored in the controller in advance to compare with a reference size of a tablet that is preset in the controller.</p>
+<p id="p-0039" num="0038">Generally, the size of a tablet stored in the medicine data includes three classes, large, medium and small.</p>
+<p id="p-0040" num="0039">In step S<b>30</b>, the extracted size of the tablet obtained from the medicine data of the tablet is compared with the reference tablet size that is preset by the operator. For example, under situation that the operator set the reference tablet size as medium, when the extracted size for the tablet received in the last hopper is large, it is decided that size of the tablet received in the last hopper exceeds the reference tablet size.</p>
+<p id="p-0041" num="0040">In step S<b>40</b>, the shutter is vibrated for a predetermined period of time to fall down the tablet if it is decided that the extracted size exceeds the reference tablet size. The shutter is not vibrated if it is decided that the extracted size does not exceed the reference tablet size. In this method, the shutter is vibrated only when the tablet size to be packed is relatively big.</p>
+<p id="p-0042" num="0041">Referring to <figref idref="DRAWINGS">FIGS. 3 and 4</figref>, an apparatus <b>50</b> for preventing irregular packaging in an automatic medicine packing machine includes a last hopper <b>10</b>, a shutter <b>12</b> that is installed on the lower part of the last hopper and opens or closes to receive a tablet discharged from a tablet cassette, a shutter drive unit <b>20</b> that moves the shutter <b>12</b>, and a shutter vibrating unit <b>30</b> that vibrates the shutter.</p>
+<p id="p-0043" num="0042">The last hopper <b>10</b> is separately provided on a front surface of an installation plate <b>11</b> and has a lower open end that is covered by the shutter <b>12</b>. The last hopper <b>10</b> carries a tablet just before it is packed.</p>
+<p id="p-0044" num="0043">An input sensor <b>13</b> is provided on the upper part of the last hopper <b>10</b> to sense whether a tablet is received in the last hopper <b>10</b>.</p>
+<p id="p-0045" num="0044">The shutter drive unit <b>20</b> is separately provided on a rear surface of the installation plate <b>11</b>, and drives the shutter <b>12</b> to open the last hopper <b>10</b> and discharge the tablet carried by the last hopper.</p>
+<p id="p-0046" num="0045">The shutter vibrating unit <b>30</b> is provided on an outer surface of the shutter <b>12</b> and vibrates the shutter <b>12</b> to make a vertical standing tablet fall down thereby preventing vertical standing of a tablet.</p>
+<p id="p-0047" num="0046">The shutter vibrating unit <b>30</b> includes a vibration motor <b>31</b> that is provided on the outer surface of the shutter <b>12</b> and generates vibration, and a fixing frame <b>32</b> that fixes the vibration motor <b>31</b> to the outer surface of the shutter <b>12</b> so that the vibration motor <b>31</b> is in close contact with the outer surface.</p>
+<p id="p-0048" num="0047">The apparatus for preventing irregular packaging in an automatic medicine packing machine further includes a standing sensor <b>40</b> that is provided on the last hopper <b>10</b> and senses whether a tablet received in the last hopper <b>10</b> stands vertical. The vibration motor <b>31</b> is operated only when the tablet is senses as standing vertical.</p>
+<p id="p-0049" num="0048">The standing sensor <b>40</b> includes a horizontal slot <b>41</b> that is formed horizontally at a side of the last hopper <b>10</b> at a position corresponding to a vertical height of a tablet and a photo sensor <b>42</b> that is horizontally arranged in the horizontal slot <b>41</b> and senses vertical standing of the tablet. The photo sensor <b>42</b> includes a plurality of photo sensing modules that are linearly arranged along the horizontal slot <b>41</b>.</p>
+<p id="p-0050" num="0049">Referring to <figref idref="DRAWINGS">FIGS. 5 and 6</figref>, when a tablet is received in the last hopper <b>10</b> standing vertical, the upper end of the tablet is exposed to the photo sensor <b>42</b>. The photo sensor <b>42</b> senses that the tablet stands vertical. This sensed information is transferred to the controller, and the controller operates the vibration motor <b>31</b> for a predetermined period of time making the shutter <b>12</b> vibrate so that the tablet falls down to horizontal state.</p>
+<p id="p-0051" num="0050">While the invention has been shown and described with reference to different embodiments thereof, it will be appreciated by those skilled in the art that variations in form, detail, compositions and operation may be made without departing from the spirit and scope of the invention as defined by the accompanying claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method for preventing irregular packaging for automatic medicine packing machine that comprises a last hopper that receives a tablet discharged from a tablet cassette and contains the tablet just before the tablet is packed, wherein the last hopper comprises a shutter, the method comprises the steps of:
+<claim-text>a) sensing whether a tablet is received in the last hopper;</claim-text>
+<claim-text>b) sensing and deciding whether the tablet stands vertical inside the last hopper; and</claim-text>
+<claim-text>c) vibrating the shutter for a predetermined period of time if it is decided that the tablet stands vertical whereby the vertical standing tablet falls down.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a step of checking non-standing of the tablet, in which checking vertical standing of the tablet is performed with a standing sensor after completion of shutter vibration.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein in the step of sensing and deciding whether the tablet stands vertical, a photo sensor that is provided on the last hopper performs sensing standing status of the tablet.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A method for preventing irregular packaging for automatic medicine packing machine that comprises a last hopper that receives a tablet discharged from a tablet cassette and contains the tablet just before the tablet is packed, wherein the last hopper comprises a shutter, the method comprises the steps of:
+<claim-text>a) sensing whether a tablet was discharged from the tablet cassette into the last hopper and stays inside the last hopper;</claim-text>
+<claim-text>b) extracting size information of the tablet that is input into the last hopper from medicine data that is stored in a controller in advance;</claim-text>
+<claim-text>c) comparing the extracted size of the tablet with a reference tablet size that is preset by an operator of the automatic medicine packing machine; and</claim-text>
+<claim-text>d) vibrating the shutter for a predetermined period of time if it is decided that the extracted size exceeds the reference tablet size.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. An apparatus for preventing irregular packaging for automatic medicine packing machine that comprises a last hopper that receives a tablet discharged from a tablet cassette and contains the tablet just before the tablet is packed, wherein the last hopper comprises a shutter and a shutter drive unit that actuates the shutter to discharge the tablet, the apparatus comprising:
+<claim-text>a shutter vibrating unit that is provided on an outer surface of the shutter and vibrates the shutter to prevent vertical standing of a tablet received in the last hopper.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The apparatus of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the shutter vibrating unit comprises:
+<claim-text>a) a vibration motor that is provided on the outer surface of the shutter and generates vibration; and</claim-text>
+<claim-text>b) a fixing frame that fixes the vibration motor to the outer surface of the shutter so that the vibration motor is in close contact with the outer surface.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The apparatus of <claim-ref idref="CLM-00006">claim 6</claim-ref>, further comprising a standing sensor that is installed on the last hopper and senses whether the tablet received in the last hopper stands vertical.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The apparatus of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the standing sensor comprises a horizontal slot that is formed horizontally at a side of the last hopper at a position corresponding to a vertical height of a tablet and a photo sensor that is horizontally arranged in the horizontal slot and senses vertical standing of the tablet. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

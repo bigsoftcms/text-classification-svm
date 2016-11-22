@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640993-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640993</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10563855</doc-number>
+<date>20040705</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>GB</country>
+<doc-number>0315666.8</doc-number>
+<date>20030704</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>GB</country>
+<doc-number>0323146.1</doc-number>
+<date>20031003</date>
+</priority-claim>
+<priority-claim sequence="03" kind="national">
+<country>GB</country>
+<doc-number>0407600.6</doc-number>
+<date>20040402</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>294</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>E</section>
+<class>21</class>
+<subclass>B</subclass>
+<main-group>43</main-group>
+<subgroup>16</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>166385</main-classification>
+<further-classification>166 651</further-classification>
+<further-classification>166105</further-classification>
+</classification-national>
+<invention-title id="d0e107">Method of deploying and powering an electrically driven in a well</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3835929</doc-number>
+<kind>A</kind>
+<name>Suman</name>
+<date>19740900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>166384</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3926269</doc-number>
+<kind>A</kind>
+<name>Cullen et al.</name>
+<date>19751200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>175104</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3939705</doc-number>
+<kind>A</kind>
+<name>Glotin et al.</name>
+<date>19760200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 7315251</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3976347</doc-number>
+<kind>A</kind>
+<name>Cooke et al.</name>
+<date>19760800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>439132</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4150279</doc-number>
+<kind>A</kind>
+<name>Metcalfe</name>
+<date>19790400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>219152</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4494602</doc-number>
+<kind>A</kind>
+<name>Capdeboscq</name>
+<date>19850100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>166 664</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4589717</doc-number>
+<kind>A</kind>
+<name>Pottier</name>
+<date>19860500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>439277</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5058683</doc-number>
+<kind>A</kind>
+<name>Godfrey et al.</name>
+<date>19911000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>166381</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5070940</doc-number>
+<kind>A</kind>
+<name>Conner</name>
+<date>19911200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>166 651</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5180140</doc-number>
+<kind>A</kind>
+<name>Araki</name>
+<date>19930100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>251291</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5191173</doc-number>
+<kind>A</kind>
+<name>Sizer</name>
+<date>19930300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>174105 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5355952</doc-number>
+<kind>A</kind>
+<name>Meynier</name>
+<date>19941000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>16625001</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5535828</doc-number>
+<kind>A</kind>
+<name>derKinderen et al.</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>166372</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5740860</doc-number>
+<kind>A</kind>
+<name>Crawford et al.</name>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>166 64</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5746582</doc-number>
+<kind>A</kind>
+<name>Patterson</name>
+<date>19980500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>418 53</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5871051</doc-number>
+<kind>A</kind>
+<name>Mann</name>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>166377</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>6668921</doc-number>
+<kind>B2</kind>
+<name>Koehler et al.</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>1662422</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6684952</doc-number>
+<kind>B2</kind>
+<name>Brockman et al.</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>16625003</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>7063143</doc-number>
+<kind>B2</kind>
+<name>Tilton</name>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>1662426</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>2002/0050361</doc-number>
+<kind>A1</kind>
+<name>Shaw et al.</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>166380</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>2003/0085815</doc-number>
+<kind>A1</kind>
+<name>Tilton et al.</name>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>3408544</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>2004/0055746</doc-number>
+<kind>A1</kind>
+<name>Ross et al.</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>16625015</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>2004/0094303</doc-number>
+<kind>A1</kind>
+<name>Brockman et al.</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>166313</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>2004/0159444</doc-number>
+<kind>A1</kind>
+<name>Wolters et al.</name>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>166381</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>10</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>166385</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>166 651</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>166105</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>166381</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>15</number-of-drawing-sheets>
+<number-of-figures>36</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060243450</doc-number>
+<kind>A1</kind>
+<date>20061102</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Head</last-name>
+<first-name>Philip</first-name>
+<address>
+<city>Berkshire</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Wilford</last-name>
+<first-name>Andrew</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Artificial Lift Company Limited Lion Works</orgname>
+<role>03</role>
+<address>
+<city>Great Yarmouth, Norfolk</city>
+<country>GB</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Dang</last-name>
+<first-name>Hoang</first-name>
+<department>3672</department>
+</primary-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/GB2004/002941</doc-number>
+<kind>00</kind>
+<date>20040705</date>
+</document-id>
+<us-371c124-date>
+<date>20060614</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2005/003506</doc-number>
+<kind>A </kind>
+<date>20050113</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A system for installing a powered device in a downhole tube has a power line extending down a production tube and terminating in a power connector or contact. The powered device toolstring is down the tube and has a corresponding power connector or contact. The two connectors or contacts are aligned as the connector or contact of the line approaches the connector or contact of the tool. Then the two contacts are fitted together such that they make electrical connection when the powered device toolstring is located adjacent to the power connector or contact of the production tube.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="157.56mm" wi="49.95mm" file="US07640993-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="200.07mm" wi="190.67mm" file="US07640993-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="175.34mm" wi="196.68mm" file="US07640993-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="200.58mm" wi="148.84mm" file="US07640993-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="213.78mm" wi="150.96mm" file="US07640993-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="230.80mm" wi="166.03mm" file="US07640993-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="266.78mm" wi="171.96mm" file="US07640993-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="271.95mm" wi="186.44mm" file="US07640993-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="258.23mm" wi="164.68mm" file="US07640993-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="237.74mm" wi="183.05mm" file="US07640993-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="247.14mm" wi="192.02mm" file="US07640993-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="223.27mm" wi="173.23mm" file="US07640993-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="233.34mm" wi="164.85mm" file="US07640993-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="243.25mm" wi="189.91mm" file="US07640993-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="231.39mm" wi="185.76mm" file="US07640993-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="236.47mm" wi="162.90mm" file="US07640993-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is the US national phase of PCT application PCT/GB2004/002941 filed 5 Jul. 2004 with a claim to the priority of British patent application 0315666.8 itself filed 4 Jul. 2003, British patent application 0323146.1 itself filed 3 Oct. 2003 and British patent application 0407600.6 itself filed on 2 Apr. 2004.</p>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">This invention relates to a method of deploying an electrical submersible powered fluid transducer system, such as a gas compressor or an electrical submersible pump, generally known as an ESP, in an oil and/or gas production well.</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">The disposing in wells of electrical submersible systems has been done for many years using jointed tubular conduits with an electrical motor, and a fluid transducer connected to the bottom of the jointed tubing. Consecutive joints of tubular conduits are connected and lowered into a well with the assistance of a rig mast and hoisting equipment, whilst unspooling and connecting to the outer diameter of the tubing a continuous length of electrical power transmission cable. This method of disposing the electrical submersible fluid transducer system is well know to those familiar with the art of producing non-eruptive sources of oil and gas from the subterranean environment. The retrieval of these electrical submersible fluid transducer systems is also commonly accomplished by pulling the jointed tubing out of the well simultaneously with the electrical submersible motor and fluid transducer system and the electrical power transmission cable. The following prior art references are believed to be pertinent to the invention claimed in the present application: U.S. Pat. Nos. 3,939,705; 4,105,279; 4,494,602; 4,589,717; 5,180,140; 5,746,582 and 5,871,051; International patent application No. WO98122692 and European patent specifications Nos. 470576 and 745176. U.S. Pat. Nos. 3,835,929, 5,180,140 and 5,191,173 teach the art of deploying and retrieving an electrical submersible system in oil wells using coiled or continuous tubing. These coiled tubing disposal methods often use large coiled tubing spool diameters owing to the radius of curvature possible of the continuous tubing. Hence the surface spooling devices that these systems require to inject and retrieve the continuous tubing are cumbersome, and require special surface and subterranean equipment for deployment and intervention.</p>
+<p id="p-0005" num="0004">Other previous art disclosed in the literature teaches the disposal and retrieval of the subterranean electrical fluid transducer system with wireline or wire rope as structural support for simultaneously disposing the electrical power transmission cable with the system. Hence these wireline methods and apparatus involve the use of large and unique surface intervention equipment to handle the weight and spool used for the electrical power cable and the wire rope to be run in the well. U.S. Pat. No. 5,746,582 discloses the retrieval of a submersible pumps whilst leaving an electrical motor and cable in a well. Hence the method of U.S. Pat. No. 5,746,582 teaches the retrieval and deployment of the mechanical portion of an electrical submersible fluid transmission system whilst leaving the electrical motor and other component parts of the electrical submersible system disposed in the disposal of the electrical motor separately from the electrical power transmission cable. In the case of artificially lifted wells powered with electrical submersible motor systems, the current art is to dispose the required transducer assembly, for example a pump or compressor assembly, with an electrical motor and electrical power cable simultaneously into the well with a supporting member. This supporting member is jointed tubing from a surface rig, a coiled tubing unit with continues tubing or braided cable. The tubing or a braided cable is required as the electrical power cable is not able to support its own weight in the well and hence must be connected and disposed in the well with a structural member for support. In the case of jointed pipe deployed from a rig, the power cable is attached to the electrical motor on surface, and the cable is attached to the tubing as the electrical motor, transducer, and tubing are disposed into the well casing or tubing. The attachment of the cable to the tube is done by the use of steel bands, cast clamps, and other methods known to those familiar with the oil and gas business. In other methods, the power cable is placed inside of continuous tubing or attached to the outside of continuous tubing with bands as taught by U.S. Pat. No. 5,191,173. This continuous tubing is often referred to in the industry as coiled tubing. U.S. Pat. No. 3,835,929 teaches the use of the continuous tubing with the electrical power transmission cable inside of the tube. In all cases where electrical submersible fluid transducers systems are disposed and retrieved from wells the electric motor and electrical power transmission cable are deployed or retrieved simultaneously.</p>
+<p id="p-0006" num="0005">It is well known to those familiar with electrical submersible power cable that the action of removing the cable from the well can result in damage to the electrical power transmission cable, in a variety of ways. The damage inflicted on the electrical power cable can be due to bending stresses imposed on the cable during the disposal and retrieval. The conventional electrical power cable insulation, wrapping, and shields can develop stress cracks from the spooling of the cable over sheaves and spools devices used to deploy the cable. Another failure mode associated with submersible power transmission cable is caused form impact loads or crushing of the cable as it is disposed or retrieved in the wells. It is also well known that gases found in subterranean environments impregnated the permeability of the electrical power transmission cable's insulation, wrapping and shields.</p>
+<p id="p-0007" num="0006">This gas is trapped in the permeability of the insulation at a pressure similar to the pressure found inside the well. When the cable is retrieved from the well the electrically powered transmission cable is exposed to ambient pressures. This will create a pressure differential between gas encapsulated in the cable insulation and the ambient surface pressure conditions. The rate of impregnated gas expansion from the higher pressure inside of the cable insulation expanding towards the lower pressure of the ambient conditions can sometimes exceed the cable insulation permeability's ability to equalise the pressure differential. The result is a void, or stressing of the insulation, and premature failure of the cable. The requirement to retrieve and dispose the electrical power transmission cable with the electrical submersible fluid traducer system also requires the use of specialised surface intervention equipment. This can require very large rigs, capable of pulling tubing, electrical power transmission cable, and electrical submersible fluid transducers. In the offshore environment these well intervention methods require semi-submersible drill ships and platforms. In the case of jointed conduit deployed in a plurality of threaded lengths, normally 9-12 m each, the pulling equipment is a drilling or pulling rig at surface. In the case that the electrical power transmission cable and assembly are disposed connected to or in continuous tubing, a specialised coiled tubing rig is required at surface. This coiled tubing unit consisting of an injector head, a hydraulic power unit, and a large diameter spooling device containing the continuous coiled tubing all located on the surface. This disposal and retrieval method requires significant space at the earth's surface or sea floor. The reasons for intervening in a well to retrieve or dispose an electrical submersible transducer system are well know to those familiar with the art of fluid removing fluids from wells. There are at least two classical reasons for intervention in wells disposed with electrical submersible fluid transducer systems. These include the need to increase fluid production, or the need to repair the disposed electrical submersible power system. The reason for requiring increased fluid production is dependent on many factors including but not limited to economical and reservoir management techniques discussed in the literature. The reasons for intervening for repair or to replace the electrical submersible fluid transducer systems are due to normal equipment wear and the subsequent loss of fluid production capacity, catastrophic equipment failure, and changes in the fluid production capacity of the subterranean fluid reservoir. The equipment failures can be caused due to subterranean electrical failures in the electrical motor windings, electrical motor insulation degradation due to heat or mechanical wear, conductive fluid leaking into the motor, wear or failure of the fluid transducer parts, wear of electrical motor bearings, shaft vibrations, changes in inflow performance of the reservoir, and other phenomena known to those familiar with the art of fluid production from wells. Therefore, it is often required to change out component parts of the electrical submersible fluid transducer system, but not necessarily the electrical power transmission cable. However, owing to prior art the power cable is retrieved when the electrical motor or the motor seals fail.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">According to the present invention, there is provided a system for installing a powered device in a downhole tube, comprising a power line disposed along a production tube, terminating in a first power connector, an orientation means disposed in the vicinity of the first power connector, and a powered device including a second power connector, the powered device being lowered down the production tube and oriented by the orientation means so that the first power connector means and second power connector means engage to connect the powered device to the power line.</p>
+<p id="p-0009" num="0008">Preferably the first power connector is supported by an alignment means that moves the first power connector from a first unaligned position to a second aligned position as the power connector descends towards it so that the first power connector means and second power connector means engage to connect the powered device to the power line.</p>
+<p id="p-0010" num="0009">According to another aspect of the present invention, there is provided a system for installing a powered device in a downhole tube, comprising a power line disposed along a production tube, terminating in a first power connector, the powered device being lowered down the production tube, the first power connector being supported by an alignment means that moves the first power connector from a first unaligned position to a second aligned position as the power connector descends towards it so that the first power connector means and second power connector means engage to connect the powered device to the power line.</p>
+<p id="p-0011" num="0010">The aligned position may be closer to the centre of the bore than the unaligned position.</p>
+<p id="p-0012" num="0011">Preferably a sleeve is provided with a cammed surface of which is shaped to orient the powered device. The sleeve ideally includes a keyway to move the first connection means towards the centre of the bore.</p>
+<p id="p-0013" num="0012">The method according to the invention comprises: connecting an electrical power cable to a first part of a wet mateable electrical power connector which is secured to a lower region of a production tubing; lowering the production tubing and the electrical power cable into the well; lowering through the production tubing an electrically driven downhole fluid transducer system which is equipped with a second part of a wet mateable electrical power connector; releasably latching the transducer system to the production tubing such that the two parts of the wet mateable power connector face each other; Lowering of the electrical submersible fluid transducer system would be any number of means the most practical being a slickline or wireline conveyed system. If the device is in a deviated well then an electrically powered tractor could be used.</p>
+<p id="p-0014" num="0013">In addition, it is extremely important to maximize the internal diameter of the tubing to allow the largest sized motor and pump to be conveyed internally. Consequently, a novel packer arrangement is ideally employed which accommodates electrical feed-throughs, and which is mechanical expanded using a mechanical roller system. This eliminates all the complicated components of a traditional packer device while achieving all the required functions of a packer device. i.e. a pressure bulk head and tubing anchoring means. Finally to remove the expanded packer, an internal support may be lowered and installed, which traverses the expanded section. A suitable acid may then be pumped into the tubing which dissolves the expanded section, allowing the quick and simple recovery of the tubing.</p>
+<p id="p-0015" num="0014">The current invention is an improvement to the known art of well construction, this invention teaches operational methods and claims apparatus related to disposing, operating, and retrieving electrical submersible fluid transducers systems. More particularly, the invention's methods and apparatus enables the electrical power transmission cable to remain in the well whilst teaching a plurality of retrieving and/or disposing well interventions for components of the electrical submersible fluid transmission system.</p>
+<p id="p-0016" num="0015">According to another aspect of the present invention there is provided a system for removing liquid from a portion of a borehole, comprising</p>
+<p id="h-0005" num="0000">a motor;</p>
+<p id="h-0006" num="0000">a pump;</p>
+<p id="h-0007" num="0000">a tube disposed within the borehole so as to define an annulus between the outer surface of the tube and the wall of the borehole</p>
+<p id="h-0008" num="0000">a packer sealedly separating the annulus above the packer from the lower part of the borehole,</p>
+<p id="h-0009" num="0000">such that gas may be produced up the bore of the tube, and liquid may be pumped into the annulus above the packer.</p>
+<p id="p-0017" num="0016">Preferably the motor and pump may be moved along the tube.</p>
+<p id="p-0018" num="0017">According to another aspect of the present invention there is provided a system for removing liquid from a portion of a borehole, comprising</p>
+<p id="h-0010" num="0000">a tube disposed within the borehole so as to define an annulus between the outer surface of the tube and the wall of the borehole</p>
+<p id="h-0011" num="0000">and a sump packer sealing the sump of the borehole with the borehole above it</p>
+<p id="h-0012" num="0000">such that a motor and pump may be used to direct liquid in the borehole either up the annulus, or below the sump packer.</p>
+<p id="p-0019" num="0018">According to another aspect of the present invention there is provided a system for removing liquid from a portion of a borehole, comprising</p>
+<p id="h-0013" num="0000">a motor;</p>
+<p id="h-0014" num="0000">a pump;</p>
+<p id="h-0015" num="0000">a sump packer sealing the sump of the borehole with the borehole above it</p>
+<p id="h-0016" num="0000">the inlet of the pump being in fluid communication with the borehole above the sump packer, and the outlet of the pump being in fluid communication with the borehole beneath the packer.</p>
+<p id="p-0020" num="0019">According to yet another aspect of the present invention, there is provided a system for installing a powered device in a downhole tube, comprising a power line disposed along a production tube, terminating in a at least power connector or contact, and a powered device toolstring which may be lowered down the tube, the powered device having a corresponding power connector or contact, the two contacts making electrical connection when the powered device toolstring is located adjacent to the power connector or contact of the production tube.</p>
+<p id="p-0021" num="0020">Preferably at least one of the power connectors or contacts are annular.</p>
+<p id="p-0022" num="0021">Preferably a protective element is locatable adjacent to the power connector or contact of the production tube, the protective element being displaceable by the powered device toolstring to reveal the power connector or contact of the production tube.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0017" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 1</figref> illustrates how the production tubing, electrical power cable, side pocket electrical connection are installed permanently in an oil or gas well.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 2</figref> shows a side view of the electrical side pocket, with the electrical wet connect in the retracted mode.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 3</figref> shows a side view of the electrical side pocket, with the electrical wet connect in the deployed mode.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 4</figref> shows a plan view of the electrical side pocket, with the electrical wet connect in the retracted mode.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 5</figref> shows a plan view of the electrical side pocket, with the electrical wet connect in the deployed mode.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 6</figref> shows a side view of the well, with a pump being deployed inside the tubing and engaging a locating profile built into the side pocket electrical connect</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 7</figref> shows a side view of the well, with a pump being deployed inside the tubing and engaged and orientated into a locating profile built into the side pocket electrical connect</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 8</figref> shows a side view of the well, with a pump being deployed inside the tubing and sliding a sleeve to deploy the electrical wet connects built into the side pocket electrical connect</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 9</figref> shows a side view of the well, with a pump being deployed inside the tubing and landed with the electrical wet connects mated and the slick line deployment system disengaged.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 10</figref> shows a cross section of the well</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 11</figref> shows a cross section of a side pocket electrical wet connect device.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 12</figref> shows a cross section of an expanding packer with three electrical feed throughs, unexpanded</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 13</figref> shows a cross section of an expanding packer with three electrical feed throughs, expanded</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 14</figref> shows a cross section of another embodiment of an expanding packer with feed throughs expanded</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 15</figref> shows an electrical feed through detail of <figref idref="DRAWINGS">FIG. 5</figref></p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 16A</figref> shows a side view of a well with the completion installed and an electrically powered expanding tool adjacent to each expandable packer</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 16B</figref> shows a side view of the well with the two expandable packers expanded and the electrically powered roller expander being recovered back to surface.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 17</figref> shows a side view of the well, with landing positions for a wet connect device, and deep set sub surface safety valve and a side pocket electrical connection.</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 18</figref> shows a side view of the well, with a pump being deployed inside the tubing and engaged and orientated into a locating profile built into the side pocket electrical connect</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 19</figref> shows a side view of the well, with a pump being deployed inside the tubing and the docking support both activating the conveyed electrical wet connect and providing the support for the entire weight of the deployed pumping device</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 20</figref> shows an isometric picture of the docking port, as it is installed in the tubing; with a side pocket wet connect engaged</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 21</figref> shows a side view of the side pocket wet connect</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 22</figref> shows a side view of the side pocket wet connect with the internally conveyed tool with lugs engaged in the kick over and orientation key way</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 23</figref> shows the side pocket wet connect of <figref idref="DRAWINGS">FIG. 22</figref> later in the engagement process</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 24</figref> shows a side view of the side pocket wet connect with the internally conveyed tool fully engaged and in the position to transmit electrical power.</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 25</figref> shows a side view of the assembly during a recovery stage.</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. 26</figref> shows a plan view of another embodiment of the electrical side pocket, with the deployed half located in the well bore, prior to engagement</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. 27</figref> shows a similar view to <figref idref="DRAWINGS">FIG. 26</figref> with the two halves of the electrical wet connect fully engaged in the side pocket assembly</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 28</figref> shows a side view of the <figref idref="DRAWINGS">FIG. 26</figref> embodiment, with the required number of electrical wet connects stacked on top of each other, and located in the wellbore prior to engagement</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. 29</figref> shows a similar view to <figref idref="DRAWINGS">FIG. 28</figref>, with the electrical wet connects fully engaged in the side pocket assembly.</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. 30</figref> shows a side view of a further embodiment of a downhole wet connect assembly, using the full annular area of the pipe to make electrical contact.</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. 31</figref> shows a similar view to <figref idref="DRAWINGS">FIG. 30</figref> with a tool deployed inside the tubing and fully engaged in the downhole wet connect assembly.</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIGS. 32 and 33</figref> shows a further embodiment of the downhole wet connect assembly in use.</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. 34</figref> shows a side view of a well, with a pump installed and used to empty water into the annular area above the packer, to enable gas to flow freely from the well</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. 35</figref> shows a side view of a well, with a pump installed and used to empty water into a depleted zone below a packer in the lower sump region of the well, again, to enable gas to flow freely from the well</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0018" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. 1</figref> shows production tubing <b>1</b>, with two side pocket electrical connection housings <b>2</b> located in it. Oil flows from a lower zone <b>3</b>, via the tubing to surface <b>4</b>.</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIGS. 2-5</figref> show the side pocket electrical connection tool in more detail, In the example shown, it consists of 3 wet electrical connections <b>10</b> housed in such a way as not to obstruct the main bore when not in use. Provision of three connectors allows power to be supplied in convenient three-phase form. The electrical wet connects <b>10</b> are mounted on a saddle <b>11</b>. The saddle includes lugs which engage a keyway mechanism <b>53</b> built into a sliding sleeve <b>13</b>. The sleeve will ideally include an internal surface shaped to accommodate the saddle at its most radially outward position and allow it to move as described below without interference. The lugs on the saddle may be shaped to keep the wet connects upright.</p>
+<p id="p-0060" num="0059">Suitable power cabling <b>52</b> is disposed in the annulus between the borehole and the production tubing, secured to the outer surface of the production tubing. This cabling enters the side pocket unit through a port <b>56</b> before being separated into three connection cables <b>12</b>. On the upper surface of the sliding sleeve is a orientation profile <b>14</b> which is shaped to ensure the component docking into it is oriented at the correct angle. Only after the docking component is correctly orientated will the saddle <b>11</b> be moved into the main bore.</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. 6-9</figref> show the sequence of operation when the through tubing deployed electrical device reaches the side pocket electrical connection.</p>
+<p id="p-0062" num="0061">The device <b>21</b> being deployed is lowered through the production tubing on a wireline <b>41</b>. As the deployed device contacts the sleeve, extendible dogs <b>50</b> in the lowermost part of the deployed tool locate on the profile <b>14</b> and orient the assembly <b>21</b> to the required angle as the deployed device is lowered. As shown in <figref idref="DRAWINGS">FIG. 7</figref>, once oriented, the dogs push the sliding sleeve downwards. The male electrical wet connects <b>10</b> are both constrained in the keyway <b>53</b> whilst also being held approximately level with respect to the side pocket and production tubing, for example by including an cables <b>12</b> which are sufficiently stiff. The keyway is at an angle to the axis of the production tubing, so that as the sleeve descends relative to the production tubing, the male electrical wet connects are constrained to move towards the centre of the main bore (as illustrated in <figref idref="DRAWINGS">FIGS. 3 and 5</figref>), so that male electrical wet connects <b>10</b> are aligned with the female half <b>23</b> of the wet connect provided on the deployed device. In its fully landed position <b>25</b> the wet electrical connections <b>10</b>, <b>23</b> are fully engaged and the load of the deployed system is fully supported by the landing sleeve. At this time the deployment system <b>30</b> can be disengaged and recovered to surface as shown in <figref idref="DRAWINGS">FIG. 9</figref>.</p>
+<p id="p-0063" num="0062">One example of a deployed device which could suitably be installed in this way is a pump. After the male wet connects <b>10</b> and the female wet connects <b>23</b> are engaged, the pump can be turned on and fluid pumped to surface. It will be realised though that other assemblies requiring power can be installed using the principles disclosed herein.</p>
+<p id="p-0064" num="0063">In the above embodiment, the deployed device is provided with two dogs <b>50</b> which follow the upper surface of the sleeve as the pump descends, orienting the pump. It will be realised that other equivalent configurations are possible, such as providing the device with a single dog, and using a sleeve whose upper surface has a helically descending surface subtending 360&#xb0;, the top and bottom of the helix being joined by a vertical step. The shaped orienting surface could be included on the bottom of the device.</p>
+<p id="p-0065" num="0064">Should the deployed device only be required temporarily, the deployment process may be reversed. The sleeve may include some resilient member, such as a spring, so that the sleeve is maintained in its uppermost position, and the male wet connectors <b>10</b> retained away from the centre of the bore, when no powered device is installed. The principles included herein could alternative or additionally supply hydraulic power.</p>
+<p id="p-0066" num="0065"><figref idref="DRAWINGS">FIG. 10</figref> shows the casing of a well <b>101</b>, in which a flush jointed tubing is installed <b>102</b> and externally strapped to the outside of the tubing is a power cable <b>103</b>.</p>
+<p id="p-0067" num="0066"><figref idref="DRAWINGS">FIG. 11</figref> shows the cross section at the side pocket wet electrical wet connect. The electrical cables <b>103</b>, if they are metal clad, are fed into guide tubes <b>104</b>, <b>105</b>, <b>106</b>, these both ensure the electrical wires follow a set path and are protected at this location. The guide tubes are part of the saddle <b>110</b> which holds the wet electrical connect assembly <b>107</b>, <b>108</b>, <b>109</b>. The saddle is a pressure vessel and internally, the wires are connected to the lowermost end of the connectors <b>107</b>, <b>108</b>, <b>109</b>.</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. 12 to 15</figref> shows an expanding packer with electrical feedthru's, The metal clad electrical cables <b>103</b> are installed inside tubes <b>120</b> in the eccentric wall <b>121</b> of the packer <b>122</b>, the outer surface of the packer is coated in elastomer <b>123</b> for a pressure seal. When the inner surface <b>124</b> is expanded, it forces the rubber element <b>123</b> into intimate contact with the casing <b>100</b>. This is both a pressure tight seal and provides tensile capacity. The tubes <b>120</b> protect the electrical cables <b>103</b> from excessive compression forces. There are O rings around the cables <b>103</b> not shown. If the packer is some way along the tubing <b>102</b>, it would be very difficult or impossible to feed the cables <b>103</b> through individual holes. Referring to <figref idref="DRAWINGS">FIG. 14</figref>, in this situation slots <b>130</b> are machined into the packer body <b>131</b> so that the cables do not need to be cut but can be laid into the slot and held in place with suitable retaining means not shown. Four such slots <b>130</b> may be formed around the tube's circumference, three housing the cables <b>103</b>, and one housing a check valve insert <b>134</b> for venting gas. Referring to <figref idref="DRAWINGS">FIG. 15</figref>, a high-strength protective cap <b>132</b> maybe used to prevent the metal clad cable being subjected to excessive compressive load when the packer body <b>131</b> is expanded. A small amount of elastomer or soft metal <b>133</b> may fill the void along the cable. When it is energized, it fills all the gaps and prevents fluids and gases migrating along the cable.</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIGS. 16 to 21</figref> show the well casing <b>101</b> with production tubing <b>102</b> and packers <b>122</b>. A power cable <b>103</b> is deployed on the outside of the tubing <b>102</b> terminating with a side pocket wet connect <b>110</b>. Apertures <b>173</b>, <b>174</b> have been cut in the tube, ideally prior to installation. In one of the packers a vent check valve <b>140</b> is located. Full bore <b>150</b> access to the well is possible for serving the perforations or sections of the reservoir.</p>
+<p id="p-0070" num="0069">During the initial tubing installation an electric motor <b>210</b> with roller expanding devices <b>211</b> is located at packers <b>122</b>. When set to the required depth, and hung off at surface, the electric motor <b>210</b> is energized from surface through the side pocket electrical connection <b>110</b>, this in turn rotates the expandable rollers <b>211</b> which mechanically expand the metal packer <b>122</b> to come into intimate contact with the casing into its set position <b>123</b>. Once this operation has been completed the electrically powered expander is recovered to surface using a slick line recover system (not shown) to leave the bore with packers <b>123</b> expanded, as shown in <figref idref="DRAWINGS">FIG. 17</figref>. A docking support (not shown) could be left in the tubing, and the weight of the wet connect assembly supported on this. If however the tubing was left full bore, when it is required to deploy a device to be set at the side pocket electrical wet connect, a slick line deployed docking support could lowered into the well and located at the required depth by a set of corresponding recesses in the tubing <b>102</b>. The pump assembly is then lowered into the well. It is orientated by a single 360 degree groove cut into the tubing <b>102</b> (not shown) so that the assembly is orientated correctly to the side pocket <b>110</b>. An arbour <b>153</b> on the lower end of the motor assembly hinges radially outwards as actuating lug <b>151</b> engages with cammed surface <b>152</b>. The electrical wet connection is made and completed as the assembly comes to rest against the wet protect <b>110</b> (or a separate docking support if necessary). At the final rest position, it can be seen that the well fluids can flow annularly <b>200</b> into the pump inlet <b>101</b> through slots <b>202</b> in the production tubing <b>102</b>. When the pump is energised fluid is discharged from the pump outlet <b>203</b> into the production tubing ID. If gas is separated from the pump, it needs to be separated to prevent the centrifugal pump from &#x201c;gas locking&#x201d; up. In this case a gas separator can be fitted, and its outlet can discharge into the chamber <b>210</b> this is vented into the tubing annulus via the check valve <b>140</b>. A sub-surface safety valve <b>178</b> may be included in the installed assembly.</p>
+<p id="p-0071" num="0070"><figref idref="DRAWINGS">FIG. 20 to 24</figref> show the side pocket electrical wet connect in more detail. A window is cut <b>171</b> in the tubing. Externally a saddle is made which holds wet electrical connects <b>170</b> and has metal tubes <b>104</b>,<b>105</b> and <b>106</b> which provide safe passage for the electrical cables past the window and allow the electrical connections to be made inside the saddle. On the lower end of the tool deployed on wireline are lugs <b>300</b> which have been orientated in the manner previously described to align with keyways <b>301</b> suitably positioned relative to the window <b>171</b>. As the lugs engage the keyway, they are guided by its profile which cause the electrical wet connections <b>107</b>&#x2032;, <b>108</b>&#x2032;, <b>109</b>&#x2032; to become oriented to those in the side pocket window <b>107</b>, <b>108</b> and <b>109</b>. The assembly is not fully landed, but a small clearance is left <b>302</b> so that the wet connects never have side loading or compressive force applied to them. In this side pocket wet connect embodiment no structure in the inner bore is required to make the kick over operation occur. To disengage the reverse operation is performed.</p>
+<p id="p-0072" num="0071"><figref idref="DRAWINGS">FIG. 25</figref> shows the recovery of the tubing in the event the well needs to be abandoned. The expanded sections could be machined out, or alternatively, if the body of the expanded section was titanium (for example), internal support tubes <b>1000</b> could be placed into the tubing, then the titanium tube exposed to hydrofluoric acid, so that very rapidly the titanium tube dissolves and the tubing would be free to recover to surface.</p>
+<p id="p-0073" num="0072"><figref idref="DRAWINGS">FIG. 26 to 29</figref> show a further embodiment of the side pocket connection system, in this version it maybe be necessary to use a large wet connect assembly, or it may be necessary to connect several assemblies and these may occupy more space than that available to make multi connections on a single plane. Hence a stacking arrangement such as that shown in <figref idref="DRAWINGS">FIGS. 28 and 29</figref>, using a suitable keyway and cam profile <b>161</b>, can be used so that a lug <b>162</b> pushes the assembly over into the side pocket once correctly aligned so that the assemblies multiple wet connector <b>163</b> contact corresponding wet connectors <b>165</b> installed in the tube.</p>
+<p id="p-0074" num="0073"><figref idref="DRAWINGS">FIGS. 30 and 31</figref> show a further embodiment of the invention. An annular body <b>1200</b>, has a protective sleeve <b>1201</b> covering <b>3</b> electrical contact rings <b>1202</b>, <b>1203</b>, <b>1204</b>. These rings are set in an insulation layer <b>1205</b>, each ring being terminated to an electrical connector <b>1210</b>, which in turn connects the cable to the surface <b>1211</b>. At each end of the protective sleeve <b>1201</b> are seals <b>1212</b> and <b>1213</b>. When the bottom face <b>1220</b> of the toolstring lowered on wireline contacts the sleeve <b>1201</b>, it displaces the sleeve to a lower position which compresses a compression spring <b>1221</b> as shown in <figref idref="DRAWINGS">FIG. 31</figref> so that the lowered toolstrings contacts <b>1202</b>&#x2032;, <b>1203</b>&#x2032;, <b>1204</b>&#x2032; respectively electrically engage the annular bodies electrical contacts <b>1202</b>, <b>1203</b>, <b>1204</b> in a full 360 degree contact.</p>
+<p id="p-0075" num="0074">Oil in a chamber <b>1222</b> is kept at equal pressure to the surrounding hydrostatic pressure in the well <b>1224</b> by a compensation piston <b>1223</b>, this oil can also be in the area <b>1225</b> around the electrical contacts, seals <b>1226</b> and <b>1227</b> and also to prevent wellbore fluids from coming into contact with the electrical contacts <b>1202</b>, <b>1202</b>&#x2032;, <b>1203</b>, <b>1203</b>&#x2032; <b>1204</b> and <b>1204</b>&#x2032;, The electrical rings on the tool deployed are each terminated with a connector <b>1230</b> and the power cables <b>1231</b>, <b>1232</b> are connected to the item requiring power in the tool deployed on wireline, be it a motor or some other device.</p>
+<p id="p-0076" num="0075">Referring to <figref idref="DRAWINGS">FIGS. 32 to 33</figref>, a further embodiment is the inclusion of collets <b>1300</b> with corresponding recesses <b>1301</b> and <b>1302</b> for parking the sleeve <b>1201</b> in its two extreme positions, and similarly collets <b>1400</b> and recess <b>1401</b> to latch onto the sleeve by the power device. The sleeve <b>1201</b> is for protection only and can be either recovered to surface or pushed to the bottom of the well if replacing it is desired.</p>
+<p id="p-0077" num="0076">A inner bore allows fluid to pass through the tool being deployed and a pressure compensation chamber keeps the differential pressure across the seals to virtually zero pressure.</p>
+<p id="p-0078" num="0077">This method of making an electrical connection downhole can be applied to many electrical and/or telemetry devices. For example, liquid-phase material is often present in underground gas reservoirs, either as condensation of hydrocarbon gas, or, particularly from coalbed gas wells, as water. The accumulation of liquid in the well imposes a back pressure which reduces the rate of gas production, and can kill a low pressure well.</p>
+<p id="p-0079" num="0078">Initially, the pressure of the well may be sufficient to carry the liquid and gas to be carried up the well together. However, the well pressure may not be sufficient for this, or it may be desired to remove liquid separately from the well for other reasons. Periods were the well must be dewatering typically last between six months and three years. One method of dewatering a well is to introduce a siphon pipe between the accumulated liquid and the surface of the well. However, the pressure of the well may be insufficient to carry liquid up the siphon quickly enough, and the accumulated liquid may build up, so reducing the gas production.</p>
+<p id="p-0080" num="0079">The wet connect methods described above can though be used in apparatus to provide a convenient an effective way of removing liquids from a well.</p>
+<p id="p-0081" num="0080">Where equivalent components appear in different embodiments, the same designating numeral will be used.</p>
+<p id="p-0082" num="0081">Referring to <figref idref="DRAWINGS">FIG. 34</figref>, a gas production tube <b>260</b> is disposed in a borehole <b>220</b> of a gas well. The gas production tube <b>260</b> is substantially concentric with the borehole <b>220</b> so that an annulus <b>222</b> exists between the casing of the borehole <b>220</b> and the gas production tube <b>260</b>. The gas production tube <b>260</b> is sealed against the casing of the borehole <b>220</b> by a packer <b>212</b>. The gas production tube <b>260</b> includes gas inlet apertures <b>214</b> which allow fluid communication between the inside of the gas production tube <b>260</b> and the annulus <b>222</b>, the gas inlet apertures <b>214</b> being located a short distance beneath the packer <b>212</b>. The lower end of the gas production tube <b>260</b> is open.</p>
+<p id="p-0083" num="0082">A pump discharge tube <b>216</b> runs along part of the gas production tube <b>260</b>, ideally located on the gas production tube's outer surface. The upper end of the pump discharge tube <b>216</b> is located above the packer <b>212</b> and is open to the annulus <b>222</b>. The pump discharge tube <b>216</b> extends past the gas inlet apertures <b>214</b>, the pump discharge tube's lower end being sealed from the annulus <b>222</b> but communicating, via an aperture <b>217</b> in the gas production tube's wall, with the inner bore of the gas production tube <b>260</b>.</p>
+<p id="p-0084" num="0083">An electrical power line <b>218</b> is also attached to the outside of the gas production tube <b>260</b>, the line extending between the surface where it can be connected to a power supply, and a point typically beneath the lower end of the pump discharge tube <b>216</b>. The lower end of the electrical power line <b>218</b> terminates with a electrical wet connector <b>221</b> that is accessible from the inner bore of the gas production tube <b>260</b>.</p>
+<p id="p-0085" num="0084">The packer <b>212</b> is arranged such that the electrical power line <b>218</b> and the pump discharge tube <b>216</b> are accommodated without compromising the seal between the annulus <b>222</b> above the packer <b>212</b> and the annulus <b>222</b> below the packer <b>212</b>.</p>
+<p id="p-0086" num="0085">The gas production tube <b>260</b> also includes an inlet port <b>219</b> allowing communication between the bore of the gas production tube <b>260</b> and the annulus <b>222</b>. The inlet port <b>219</b> is situated between the pump discharge tube <b>216</b> and the electrical wet connector <b>221</b>.</p>
+<p id="p-0087" num="0086">To install the motor and pump assembly is lowered through the gas production tube <b>260</b> using a slickline running tool.</p>
+<p id="p-0088" num="0087">The motor and pump assembly (comprising a motor <b>235</b> and pump <b>240</b>) includes an electrical contact that engages with the electrical wet connector <b>221</b> through an aperture in the gas production tube <b>260</b>. The connection mechanism illustrated shows a hinged plug <b>232</b> attached to the bottom of the motor and pump assembly, the hinged plug <b>232</b> including a protruding pin <b>233</b> that extends radially outwards towards the wall of the gas production tube <b>260</b>. The motor and pump assembly is kept correctly oriented, by using for example an engaging profile between the motor and pump assembly. The gas production tube <b>260</b> also includes an inwardly protruding vane <b>234</b> having a surface set a shallow angle to the gas production tube's axis. When the motor and pump assembly near the desired position, the pin <b>233</b> of the hinged plug <b>232</b> engages with the inwardly protruding vane, causing the plug <b>232</b> to pivot (in an anti-clockwise direction when considered as illustrated in the figure), the gas production tubing in this region having a cut-out portion to accommodate the plug <b>232</b>. An electrical contact (not visible) on the hinged plug <b>232</b> then engages with the electrical wet connector <b>221</b> mounted on the gas production tube <b>260</b>. In addition to the engagement between the electrical wet connector <b>221</b> and the electrical contact on the hinged plug <b>232</b>, further engagement means may be provided to support the weight of the motor and pump assembly.</p>
+<p id="p-0089" num="0088">When the motor and pump assembly has been located in its desired position at the lower end of the gas production tube <b>260</b>, the slickline running tool is disengaged and retrieved.</p>
+<p id="p-0090" num="0089">The motor and pump assembly comprises a pump <b>240</b> connected above and driven by an electric motor <b>235</b> (which is supplied from the electrical power line <b>218</b> via the electrical wet connector <b>221</b> and the electrical contact on the hinged plug <b>232</b>). When the motor and pump assembly is installed, the pump inlet port <b>219</b> is adjacent to the inlet <b>242</b> of the pump <b>240</b>. The outlet <b>243</b> of the pump <b>240</b> is adjacent to the aperture <b>217</b> communicating with the lower end of the pump discharge tube <b>216</b>. The pump's inlet <b>242</b> and outlet <b>243</b> are separated by a lower assembly seal <b>245</b>. An upper assembly seal <b>244</b> separates the pump outlet from the bore of the gas production tube <b>260</b> above the motor and pump assembly.</p>
+<p id="p-0091" num="0090">Gas present in the borehole <b>220</b> enters the gas inlet apertures <b>214</b> of the gas production tube <b>260</b> and travels up the bore of the gas production tube <b>260</b> to the surface. When water or another liquid accumulates in the borehole <b>220</b> to the level of the pump inlet port <b>219</b>, the electric pump <b>240</b> is operated to draw the water through the pump to exit through the pump's outlet <b>243</b> into the portion of the gas production tube <b>260</b> between the upper and lower assembly seals <b>244</b>, <b>245</b>. The water is then forced through the pump discharge pipe <b>216</b> into the borehole annulus <b>222</b>, to be removed at the surface of the borehole. The gas produced and the water extracted from the borehole <b>220</b> are therefore conveniently transported up the borehole along separate paths.</p>
+<p id="p-0092" num="0091">The water found in coalbed mines often has includes a suspension of coal particles, and the presence of such particles can affect or damage the pump <b>240</b>. If the pump <b>240</b> requires attention or replacement, the slickline running tool may be lowered down the gas production line, to engage with the motor and pump assembly. The motor and pump assembly may then be disengaged from the electrical and other connections, and winched to the surface. A repaired or replacement motor and pump assembly may then be deployed in the manner previously described.</p>
+<p id="p-0093" num="0092">Referring to <figref idref="DRAWINGS">FIG. 35</figref>, in another embodiment the lowest portion of the borehole <b>220</b> is sealed by a sump packer <b>250</b>. The motor and pump assembly are configured as previously described, being connected to a power supply via the electrical wet connector <b>221</b>. The pump outlet <b>243</b> discharges into a <b>216</b> which extends through the sump packer <b>250</b>. Gas in the borehole <b>220</b> above the sump packer <b>250</b> from the surrounding formation travels through the gas inlet apertures <b>214</b> into the gas production tube <b>260</b> as in the previous embodiment. As liquid accumulates in the borehole <b>220</b>, the pump <b>240</b> may be activated, drawing liquid from the section of the borehole <b>220</b> in which the motor and pump assembly is situated, and discharging this liquid into the mine's sump beneath the sump packer <b>250</b>. In this manner, liquid removed from the borehole, which is often contaminated with hydrocarbons, does not have to be treated or disposed of at the surface.</p>
+<p id="p-0094" num="0093">Another possible arrangement would be to lower the motor and pump assembly through the borehole until they come to a sump packer, so that the pump engages with the sump packer with the pump's outlet beneath the sump packer. The electric motor could be suspended, and electrically connected by a line to the assembly's electrical plug connection module, which engages mechanically with the gas production tube and electrically with the electrical wet connector in the manner previously described. The line connecting the electrical plug connection module and the motor and pump assembly must be sufficiently strong to carry the weight of the assembly.</p>
+<p id="p-0095" num="0094">In such an embodiment, the pump inlet is situated very close to the bottom of the portion of the borehole defined by the upper packer and sump packer. All but the smallest levels of accumulated liquid can therefore be injected into the zone beneath the sump packer.</p>
+<p id="p-0096" num="0095">It will be seen that for the embodiments where liquid is pumped beneath the sump packer, the annulus of the gas production tube is not required for transport of liquid. These embodiments may be effected less preferably without a gas production tube defining an annulus with the borehole. The installation of the gas production tube and packer to isolate the annulus, and the provision of the gas inlet apertures and pump discharge tube, together with a suitable sump packer, allows for adaptability of the dewatering process, different methods being adopted at different times or depending upon the characteristics of the well.</p>
+<p id="p-0097" num="0096">It will also be realised that other electrical types of connection between the electrical conductor and the motor could be employed with such a method of dewatering a gas well.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A system for installing a powered device in a downhole tube, the system comprising:
+<claim-text>a power line disposed along a production tube and terminating in a first power connector;</claim-text>
+<claim-text>orientation means disposed in the vicinity of the first power connector;</claim-text>
+<claim-text>a powered device including a second power connector, the powered device being lowered down the production tube and oriented by the orientation means so that the first power connector means and second power connector means engage to connect the powered device to the power line; and</claim-text>
+<claim-text>alignment means supporting the first power connector and moving the first power connector from a first unaligned position to a second aligned position as the first power connector descends toward it so that the first power connector and the second power connector engage to connect the powered device to the power line.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A system for installing a powered device in a downhole tube, the system comprising a power line disposed along a production tube and terminating in a first power connector, the powered device being down the production tube, the first power connector being supported by an alignment means that moves the first power connector from a first unaligned position to a second aligned position as the power connector descends toward it so that the first power connector means and second power connector means engage to connect the powered device to the power line.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The system according to <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein the aligned position is closer to a center of a bore holding the powered device than the unaligned position.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The system according to <claim-ref idref="CLM-00003">claim 3</claim-ref> wherein a sleeve is provided with a cam surface shaped to orient the powered device.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The system according to <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein the sleeve includes a keyway to move the first connection means toward the center of the bore.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A system for installing a powered device in a downhole tube, the system comprising
+<claim-text>a power line disposed along a production tube, terminating in a first power connector, the powered device including a second power connector, and</claim-text>
+<claim-text>means for radially aligning one or both of the connectors as the powered tool is lowered such that the connectors are aligned for engagement.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The system according to <claim-ref idref="CLM-00006">claim 6</claim-ref> wherein the second power connector is radially displaced when aligned by the alignment means.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A system for installing a powered device in a downhole tube, the system comprising:
+<claim-text>a power line disposed along a production tube, terminating in a power connector or contact;</claim-text>
+<claim-text>a powered device toolstring down the tube and having a corresponding power connector or contact;</claim-text>
+<claim-text>means for aligning the two connectors or contacts as the connector or contact of the line approaches the connector or contact of the toolstring; and</claim-text>
+<claim-text>means for fitting together the two connectors or contacts such that they make electrical connection when the powered device toolstring is located adjacent to the power connector or contact of the production tube.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The system according to <claim-ref idref="CLM-00008">claim 8</claim-ref> wherein at least one of the power connectors or contacts is annular.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The system according to <claim-ref idref="CLM-00008">claim 8</claim-ref> wherein a protective element is adjacent to the power connector or contact of the production tube, the protective element being displaceable by the powered device toolstring to expose the power connector or contact of the production tube.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

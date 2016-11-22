@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641406-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641406</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12179522</doc-number>
+<date>20080724</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2007-195031</doc-number>
+<date>20070726</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>JP</country>
+<doc-number>2007-195032</doc-number>
+<date>20070726</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>03</class>
+<subclass>D</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>03</class>
+<subclass>B</subclass>
+<main-group>27</main-group>
+<subgroup>32</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>03</class>
+<subclass>C</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>396611</main-classification>
+<further-classification>355 27</further-classification>
+<further-classification>430 30</further-classification>
+</classification-national>
+<invention-title id="d0e79">Bevel inspection apparatus for substrate processing</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>6874515</doc-number>
+<kind>B2</kind>
+<name>Ishihara et al.</name>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6893171</doc-number>
+<kind>B2</kind>
+<name>Fukutomi et al.</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2006/0045722</doc-number>
+<kind>A1</kind>
+<name>Hashimoto</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2006/0291855</doc-number>
+<kind>A1</kind>
+<name>Shigemori et al.</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2007/0190437</doc-number>
+<kind>A1</kind>
+<name>Kaneyama et al.</name>
+<date>20070800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2007/0229789</doc-number>
+<kind>A1</kind>
+<name>Kawamura</name>
+<date>20071000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>JP</country>
+<doc-number>2003-324139</doc-number>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>JP</country>
+<doc-number>2006-080403</doc-number>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>JP</country>
+<doc-number>2006-080404</doc-number>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>JP</country>
+<doc-number>2007-214365</doc-number>
+<date>20070800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>JP</country>
+<doc-number>2007-235089</doc-number>
+<date>20070900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>JP</country>
+<doc-number>2007-266074</doc-number>
+<date>20071000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>WO</country>
+<doc-number>WO 99/49504</doc-number>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2006/027900</doc-number>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2006/028173</doc-number>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00016">
+<othercit>English Translation of JP 2006-080403 (dated Mar. 2006).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00017">
+<othercit>English Translation of JP 2006-080404 (dated Mar. 2006).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+</references-cited>
+<number-of-claims>16</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>396611</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>355 27</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>430 30</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>134902</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>24</number-of-drawing-sheets>
+<number-of-figures>24</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090027634</doc-number>
+<kind>A1</kind>
+<date>20090129</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nishimura</last-name>
+<first-name>Joichi</first-name>
+<address>
+<city>Kyoto</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Yoshii</last-name>
+<first-name>Hiroshi</first-name>
+<address>
+<city>Kyoto</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nishiyama</last-name>
+<first-name>Koji</first-name>
+<address>
+<city>Kyoto</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Townsend and Townsend and Crew LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Sokudo Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Kyoto</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Mathews</last-name>
+<first-name>Alan A</first-name>
+<department>2851</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A substrate processing apparatus includes an indexer block, an anti-reflection film processing block, a resist film processing block, a development processing block, a resist cover film processing block, a resist cover film removal block, and an interface block. The interface block includes a bevel portion inspection unit. The bevel portion inspection unit inspects a bevel portion of a substrate to determine whether or not the bevel portion of the substrate is contaminated. The substrate whose bevel portion is determined to be contaminated and the substrate whose bevel portion is determined that it is not contaminated are respectively subjected to different types of processing.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="135.30mm" wi="193.21mm" file="US07641406-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="203.45mm" wi="150.03mm" orientation="landscape" file="US07641406-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="205.32mm" wi="128.52mm" orientation="landscape" file="US07641406-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="201.51mm" wi="118.36mm" orientation="landscape" file="US07641406-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="172.47mm" wi="138.94mm" file="US07641406-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="199.73mm" wi="140.38mm" orientation="landscape" file="US07641406-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="86.61mm" wi="105.83mm" file="US07641406-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="92.46mm" wi="111.34mm" file="US07641406-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="185.59mm" wi="115.23mm" file="US07641406-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="200.24mm" wi="125.56mm" orientation="landscape" file="US07641406-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="94.06mm" wi="116.84mm" file="US07641406-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="111.25mm" wi="119.89mm" file="US07641406-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="109.64mm" wi="134.79mm" file="US07641406-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="200.41mm" wi="132.08mm" orientation="landscape" file="US07641406-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="126.83mm" wi="136.99mm" file="US07641406-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="83.99mm" wi="136.14mm" file="US07641406-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="197.95mm" wi="120.14mm" orientation="landscape" file="US07641406-20100105-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="198.80mm" wi="130.98mm" orientation="landscape" file="US07641406-20100105-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="203.71mm" wi="122.85mm" orientation="landscape" file="US07641406-20100105-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="93.64mm" wi="114.05mm" file="US07641406-20100105-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="183.47mm" wi="132.93mm" orientation="landscape" file="US07641406-20100105-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="163.91mm" wi="130.39mm" file="US07641406-20100105-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="224.96mm" wi="154.35mm" orientation="landscape" file="US07641406-20100105-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="188.30mm" wi="115.91mm" orientation="landscape" file="US07641406-20100105-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="181.95mm" wi="140.38mm" orientation="landscape" file="US07641406-20100105-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCES TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority to Japanese Patent Application 2007-195031, filed Jul. 26, 2007 and Japanese Patent Application 2007-195032, filed Jul. 26, 2007. The disclosures of JP 2007-195031 and JP 2007-195032 are hereby incorporated by reference in their entirety for all purposes.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates to a substrate processing apparatus that subjects substrates to processing.</p>
+<p id="p-0005" num="0004">2. Description of the Background Art</p>
+<p id="p-0006" num="0005">Substrate processing apparatuses are used to subject various types of substrates such as semiconductor substrates, substrates for liquid crystal displays, plasma displays, optical disks, magnetic disks, and magneto-optical disks, photomasks, and other substrates to various types of processing.</p>
+<p id="p-0007" num="0006">Such a substrate processing apparatus generally subjects a single substrate to a plurality of different types of processing successively. A substrate processing apparatus as described in JP 2003-324139 A includes an indexer block, an anti-reflection film processing block, a resist film processing block, a development processing block, and an interface block. An exposure device is arranged adjacent to the interface block as an external device separate from the substrate processing apparatus.</p>
+<p id="p-0008" num="0007">In the above-mentioned substrate processing apparatus, a substrate carried thereinto from the indexer block is transported to the exposure device through the interface block after being subjected to anti-reflection film formation and resist film coating processing in the anti-reflection film processing block and the resist film processing block. After the resist film on the substrate is subjected to exposure processing in the exposure device, the substrate is transported to the development processing block through the interface block. After the resist film on the substrate is subjected to development processing to form a resist pattern thereon in the development processing block, the substrate is transported to the indexer block.</p>
+<p id="p-0009" num="0008">With recent increases in density and integration of devices, making finer resist patterns has become an important problem. Conventional exposure devices have generally performed exposure processing by reduction-projecting reticle patterns on substrates through projection lenses. In such conventional exposure devices, however, the line widths of exposure patterns are determined by the wavelengths of light sources of the exposure devices. Therefore, making finer resist patterns has had limitations.</p>
+<p id="p-0010" num="0009">Therefore, as projection exposure methods allowing for finer exposure patterns, a liquid immersion method is suggested (see, e.g., WO99/49504 pamphlet). In the projection exposure device according to the WO99/49504 pamphlet, an area between a projection optical system and a substrate is filled with a liquid, resulting in a shorter wavelength of exposure light on a top surface of the substrate. This allows for a finer exposure pattern.</p>
+<p id="p-0011" num="0010">In the projection exposure device according to the above-mentioned WO99/49504 pamphlet, however, exposure processing is performed with the substrate and the liquid brought into contact with each other. When a contaminant adheres to the substrate before the exposure processing, the contaminant is mixed into the liquid.</p>
+<p id="p-0012" num="0011">Although the substrate is subjected to various types of film formation processing before the exposure processing, a bevel portion of the substrate or its peripheral portion may, in some cases, be contaminated in the process of the film formation processing. When the substrate is subjected to the exposure processing in the state, a lens of the exposure device may be contaminated, resulting in a defective dimension and a defective shape of the exposure pattern.</p>
+<p id="p-0013" num="0012">With the bevel portion or the peripheral portion of the substrate contaminated even during the film formation processing of the substrate, films may not be normally formed on the substrate.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0014" num="0013">An object of the present invention is to provide a substrate processing apparatus that can prevent defective processing caused by contamination of a bevel portion of a substrate.</p>
+<p id="p-0015" num="0014">Another object of the present invention is to provide a substrate processing apparatus that can prevent defective processing caused by contamination of an end portion of a substrate.</p>
+<p id="p-0016" num="0015">(1) According to an aspect of the present invention, a substrate processing apparatus that is arranged adjacent to an exposure device includes a processing section for subjecting a substrate to processing, an interface provided adjacent to one end of the processing section for receiving and transferring the substrate between the processing section and the exposure device, and a controller that controls the respective operations of the processing section and the interface, in which at least one of the processing section and the interface includes a bevel portion inspection device that inspects the state of a bevel portion of the substrate to determine whether or not the bevel portion of the substrate is contaminated, and the controller performs a first control operation when the bevel portion inspection device determines that the bevel portion of the substrate is contaminated, while performing a second control operation when the bevel portion inspection device determines that the bevel portion of the substrate is not contaminated.</p>
+<p id="p-0017" num="0016">In the substrate processing apparatus, the processing section subjects the substrate to predetermined processing, and the interface receives and transfers the substrate from the processing section to the exposure device. After the exposure device subjects the substrate to the exposure processing, the interface returns the substrate after the exposure processing from the exposure device to the processing section. The controller controls the respective operations of the processing section and the interface.</p>
+<p id="p-0018" num="0017">In at least one of the processing section and the interface, the bevel portion inspection device inspects the state of the bevel portion of the substrate, to determine whether or not the bevel portion of the substrate is contaminated. The controller performs the first control operation when the bevel portion inspection device determines that the bevel portion of the substrate is contaminated, while performing the second control operation when the bevel portion inspection device determines that the bevel portion of the substrate is not contaminated.</p>
+<p id="p-0019" num="0018">The first or second control operation is thus performed on the basis of the results of the determination whether or not the bevel portion is contaminated, which can prevent defective processing of the substrate due to the contamination of the bevel portion of the substrate.</p>
+<p id="p-0020" num="0019">(2) The bevel portion inspection device may inspect the bevel portion of the substrate before exposure processing by the exposure device, and the controller may control the interface such that the substrate is not transported to the exposure device as the first control operation when the bevel portion inspection device determines that the bevel portion of the substrate is contaminated before the exposure processing.</p>
+<p id="p-0021" num="0020">In this case, the substrate whose bevel portion has been contaminated is not transported to the exposure device, which prevents contamination in the exposure device. This prevents a defective dimension and a defective shape of an exposure pattern.</p>
+<p id="p-0022" num="0021">(3) At least one of the processing section and the interface may include a cleaning processing unit that subjects the substrate before the exposure processing by the exposure device to cleaning processing, the bevel portion inspection device may inspect the bevel portion of the substrate after the cleaning processing by the cleaning processing unit, and the controller may control at least one of the processing section and the interface such that the substrate is not transported to the exposure device as the first control operation when the bevel portion inspection device determines that the bevel portion of the substrate is contaminated after the cleaning processing.</p>
+<p id="p-0023" num="0022">In this case, after the cleaning processing unit subjects the substrate to the cleaning processing, the bevel portion inspection device inspects the state of the bevel portion of the substrate. Therefore, the ratio of the substrates whose bevel portions are determined to be contaminated is reduced. This causes the ratio of the substrates that are transported to the exposure device to be increased, resulting in improved yield.</p>
+<p id="p-0024" num="0023">(4) The controller may control at least one of the processing section and the interface such that the substrate is subjected to the cleaning processing by the cleaning processing unit again as the first control operation when the bevel portion inspection device determines that the bevel portion of the substrate is contaminated.</p>
+<p id="p-0025" num="0024">In this case, after the cleaning processing unit removes a contaminant that adheres to the bevel portion of the substrate, the substrate can be transported to the exposure device. This results in further improved yield.</p>
+<p id="p-0026" num="0025">(5) The cleaning processing unit may include a bevel portion cleaning mechanism for cleaning the bevel portion of the substrate.</p>
+<p id="p-0027" num="0026">In this case, the cleaning processing unit can sufficiently remove the contaminant that adheres to the bevel portion of the substrate. This causes the ratio of the substrates that are transported to the exposure device to be further increased, resulting in further improved yield.</p>
+<p id="p-0028" num="0027">(6) The substrate processing apparatus may further include an alarm generation device that generates an alarm in accordance with the control operation of the controller, the bevel portion inspection device may inspect the bevel portion of the substrate after the exposure processing by the exposure device, and the controller may control the alarm generation device so as to generate the alarm as the first control operation when the bevel portion inspection device determines that the bevel portion of the substrate is contaminated after the exposure processing.</p>
+<p id="p-0029" num="0028">In this case, when the exposure device is contaminated or is not normally operated, the bevel portion of the substrate may be contaminated during the exposure processing. By causing the alarm generation device to generate the alarm when it is determined that the bevel portion of the substrate after the exposure processing is contaminated, therefore, an operator can be made to recognize the timing of maintaining the exposure device.</p>
+<p id="p-0030" num="0029">(7) The processing section may include a film formation unit that subjects the substrate before the exposure processing by the exposure device to film formation processing, the bevel portion inspection device may inspect the bevel portion of the substrate before the film formation processing by the film formation unit, and the controller may control the processing section such that the substrate is not subjected to the film formation processing by the film formation unit as the first control operation when the bevel portion inspection device determines that the bevel portion of the substrate is contaminated before the film formation processing.</p>
+<p id="p-0031" num="0030">In this case, the film formation unit subjects the substrate whose bevel portion is clean to the film formation processing. This can prevent defective film formation processing caused by the contamination of the bevel portion of the substrate.</p>
+<p id="p-0032" num="0031">(8) The substrate processing apparatus may further include a transport device that transports the substrate between the processing section and a plurality of storing containers in accordance with the control operation of the controller, in which the processing section may include a development processing unit that subjects the substrate after the exposure processing by the exposure device to development processing, the bevel portion inspection device may inspect the bevel portion of the substrate after the development processing by the development processing unit, and the controller may control the transport device such that the substrate is stored in one of the plurality of storing containers as the first control operation when the bevel portion inspection device determines that the bevel portion of the substrate is contaminated after the development processing, while controlling the transport device such that the substrate is stored in the other one of the plurality of storing containers as the second control operation when the bevel portion inspection device determines that the bevel portion is not contaminated.</p>
+<p id="p-0033" num="0032">In this case, the substrate whose bevel portion has been contaminated and the substrate whose bevel portion is clean are respectively stored in the separate storing containers, which can prevent the substrate whose bevel portion has been contaminated from being fed as it is to the subsequent processing process.</p>
+<p id="p-0034" num="0033">(9) According to another aspect of the present invention, a substrate processing apparatus that is arranged adjacent to an exposure device may include a processing section having a processing unit that subjects a substrate to processing, an interface provided adjacent to one end of the processing section for receiving and transferring the substrate between the processing section and the exposure device, and a controller that controls the respective operations of the processing section and the interface, in which the processing unit has an end portion inspection device that inspects the state of an end portion of the substrate after the substrate is subjected to predetermined processing, and the controller determines whether or not the end portion of the substrate is in a good state on the basis of the results of the inspection by the end portion inspection device, to perform a first control operation when the end portion of the substrate is in the good state, while performing a second control operation when the end portion of the substrate is in a not-good state.</p>
+<p id="p-0035" num="0034">In the substrate processing apparatus, the processing unit subjects the substrate to the predetermined processing in the processing section, and the interface receives and transfers the substrate from the processing section to the exposure device. After the exposure device subjects the substrate to the exposure processing, the interface returns the substrate after the exposure processing from the exposure device to the processing section. The controller controls the respective operations of the processing section and the interface.</p>
+<p id="p-0036" num="0035">In the processing unit, the end portion inspection device inspects the state of the end portion of the substrate after the substrate is subjected to the predetermined processing. The controller determines whether or not the end portion of the substrate is in the good state on the basis of the results of the inspection. The controller performs the first control operation when the end portion of the substrate is in the good state, while performing the second control operation when the end portion of the substrate is in the not-good state.</p>
+<p id="p-0037" num="0036">Thus, the first control operation or the second control operation is selectively performed depending on the state of the end portion of the substrate after the processing in the processing unit, which can prevent defective processing of the substrate caused by the state of the end portion of the substrate.</p>
+<p id="p-0038" num="0037">(10) The processing unit may include a film formation processing unit that subjects the substrate before the exposure processing by the exposure device to film formation processing, the film formation processing unit may include a processing liquid supplier that supplies a processing liquid for the film formation processing onto the substrate, and a processing liquid remover that removes the processing liquid supplied onto the substrate by the processing liquid supplier, and the end portion inspection device may inspects the state of the end portion of the substrate after the processing liquid supplier supplies the processing liquid onto the substrate in the film formation processing unit.</p>
+<p id="p-0039" num="0038">In this case, in the film formation processing unit, the processing liquid supplier supplies the processing liquid onto the substrate, so that the substrate is subjected to the film formation processing. After the film formation processing, the end portion inspection device inspects the state of the end portion of the substrate.</p>
+<p id="p-0040" num="0039">The substrate can be suitably subjected to the film formation processing while keeping the end portion of the substrate clean by controlling the processing liquid supplier and the processing liquid remover depending on the state of the end portion of the substrate after the film formation processing.</p>
+<p id="p-0041" num="0040">(11) The controller may determine whether the processing liquid does not adhere to the end portion of the substrate as the good state or the processing liquid adheres to the end portion of the substrate as the not-good state on the basis of the results of the inspection by the end portion inspection device in the film formation processing unit, to control the processing liquid supplier and the processing liquid remover so as to remove the processing liquid supplied onto the substrate and supply the processing liquid onto the substrate again as the second control operation when the processing liquid adheres to the end portion of the substrate.</p>
+<p id="p-0042" num="0041">In this case, if the processing liquid adheres to the end portion of the substrate after the film formation processing, the processing liquid remover removes the processing liquid on the substrate once, and the processing liquid supplier then subjects the substrate to the film formation processing again. This prevents the substrate from being transported from the film formation processing unit to the exposure device with the processing liquid adhering to the end portion. Therefore, the exposure device is prevented from being contaminated by the processing liquid that adheres to the end portion of the substrate, to prevent a defective dimension and a defective shape of an exposure pattern.</p>
+<p id="p-0043" num="0042">(12) The controller may determine whether the processing liquid does not adhere to the end portion of the substrate as the good state or the processing liquid adheres to the end portion of the substrate as the not-good state on the basis of the results of the inspection by the end portion inspection device in the film formation processing unit, to control the processing liquid remover so as to remove the processing liquid that adheres to the end portion of the substrate as the second control operation when the processing liquid adheres to the end portion of the substrate.</p>
+<p id="p-0044" num="0043">In this case, if the processing liquid adheres to the end portion of the substrate after the film formation processing, the processing liquid remover removes the processing liquid that adheres to the end portion of the substrate. This prevents the substrate from being transported from the film formation processing unit to the exposure device with the processing liquid adhering to the end portion. This prevents the exposure device from being contaminated by the processing liquid that adheres to the end portion of the substrate, to prevent a defective dimension and a defective shape of an exposure pattern.</p>
+<p id="p-0045" num="0044">(13) The film formation processing unit may include a photosensitive film formation unit that forms a photosensitive film on the substrate. In this case, the photosensitive film can be suitably formed on the substrate while keeping the end portion of the substrate clean.</p>
+<p id="p-0046" num="0045">(14) The film formation processing unit may further include an anti-reflection film formation unit that forms an anti-reflection film on the substrate before the photosensitive film formation unit forms the photosensitive film.</p>
+<p id="p-0047" num="0046">In this case, the anti-reflection film can be suitably formed on the substrate while keeping the end portion of the substrate clean. Furthermore, in the photosensitive film formation unit, the film formation processing can be performed with the end portion of the substrate kept clean, which allows the photosensitive film to be satisfactorily formed on the substrate.</p>
+<p id="p-0048" num="0047">(15) The film formation processing unit may further include a protective film formation unit that forms on the substrate a protective film for protecting the photosensitive film formed by the photosensitive film formation unit.</p>
+<p id="p-0049" num="0048">In this case, the protective film can be suitably formed on the substrate while keeping the end portion of the substrate clean. This allows the photosensitive film to be sufficiently protected, which can more sufficiently prevent defective processing of the substrate.</p>
+<p id="p-0050" num="0049">(16) The substrate processing apparatus may further include a transport device that transports the substrate between the processing section and a plurality of storing containers in accordance with the control operation of the controller, in which the processing unit may include a development processing unit that subjects the substrate after the exposure processing by the exposure device to development processing, the end portion inspection device may inspect the end portion of the substrate after the development processing by the development processing unit, and the controller may determine whether or not the end portion of the substrate is in the good state on the basis of the results of the inspection by the end portion inspection device after the development processing, to control the transport device such that the substrate is stored in one of the plurality of storing containers as the first control operation when the end portion of the substrate is in the good state, while controlling the transport device such that the substrate is stored in the other one of the plurality of storing containers as the second control operation when the end portion of the substrate is in the not-good state.</p>
+<p id="p-0051" num="0050">In this case, the substrate whose end portion is in the good state and the substrate whose end portion is in the not-good state are respectively stored in the separate storing containers, which can prevent the substrate whose end portion is in the not-good state from being fed as it is to the subsequent processing process.</p>
+<p id="p-0052" num="0051">Other features, elements, characteristics, and advantages of the present invention will become more apparent from the following description of preferred embodiments of the present invention with reference to the attached drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. 1</figref> is a plan view of a substrate processing apparatus according to a first embodiment of the present invention;</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic side view of the substrate processing apparatus shown in <figref idref="DRAWINGS">FIG. 1</figref> as viewed from the +X direction;</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. 3</figref> is a schematic side view of the substrate processing apparatus shown in <figref idref="DRAWINGS">FIG. 1</figref> as viewed from the &#x2212;X direction;</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. 4</figref> is a schematic side view of an interface block as viewed from the +Y side;</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. 5</figref> is a diagram for explaining the configuration of a first cleaning/drying processing unit;</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. 6</figref> is a diagram showing the details of a bevel portion of a substrate;</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. 7</figref> is a plan view showing the respective rotation directions of a substrate and a cleaning brush;</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIGS. 8(</figref><i>a</i>) to <b>8</b>(<i>c</i>) are diagrams showing a contact state between a substrate and a cleaning brush;</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. 9</figref> is a diagram showing another example of installation of a cleaning brush;</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIG. 10</figref> is a diagram for explaining cleaning processing of a bevel portion of a substrate in a cleaning processing unit shown in <figref idref="DRAWINGS">FIG. 9</figref>;</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIG. 11</figref> is a diagram showing another example of a bevel cleaner;</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIG. 12</figref> is a diagram showing still another example of a bevel cleaner;</p>
+<p id="p-0065" num="0064"><figref idref="DRAWINGS">FIG. 13</figref> is a diagram showing another example of a cleaning processing unit;</p>
+<p id="p-0066" num="0065"><figref idref="DRAWINGS">FIGS. 14(</figref><i>a</i>) and <b>14</b>(<i>b</i>) are diagrams for explaining cleaning processing of a bevel portion of a substrate using a cleaning brush in a bevel cleaner shown in <figref idref="DRAWINGS">FIG. 13</figref>;</p>
+<p id="p-0067" num="0066"><figref idref="DRAWINGS">FIG. 15</figref> is a diagram for explaining cleaning processing of a bevel portion of a substrate using a cleaning brush in a bevel cleaner shown in <figref idref="DRAWINGS">FIG. 13</figref>;</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. 16</figref> is a plan view of a substrate processing apparatus according to a second embodiment;</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIG. 17</figref> is a plan view of a substrate processing apparatus according to a third embodiment;</p>
+<p id="p-0070" num="0069"><figref idref="DRAWINGS">FIG. 18</figref> is a plan view of a substrate processing apparatus according to a fourth embodiment;</p>
+<p id="p-0071" num="0070"><figref idref="DRAWINGS">FIG. 19</figref> is a diagram schematically showing an end portion of a substrate;</p>
+<p id="p-0072" num="0071"><figref idref="DRAWINGS">FIG. 20</figref> is a plan view showing the configuration of a coating unit BARC;</p>
+<p id="p-0073" num="0072"><figref idref="DRAWINGS">FIG. 21</figref> is a schematic flow chart showing a control operation of a main controller;</p>
+<p id="p-0074" num="0073"><figref idref="DRAWINGS">FIG. 22</figref> is a plan view showing the configuration of a development processing unit DEW;</p>
+<p id="p-0075" num="0074"><figref idref="DRAWINGS">FIG. 23</figref> is a cross sectional view taken along a line Q-Q of the development processing unit DEW shown in <figref idref="DRAWINGS">FIG. 22</figref>; and</p>
+<p id="p-0076" num="0075"><figref idref="DRAWINGS">FIG. 24</figref> is a plan view showing a modified example of a coating unit BARC.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0077" num="0076">Substrate processing apparatuses according to embodiments of the present invention will be described with reference to the drawings. In the following description, a substrate refers to a semiconductor substrate, a substrate for a liquid crystal display, a substrate for a plasma display, a glass substrate for a photomask, a substrate for an optical disk, a substrate for a magnetic disk, a substrate for a magneto-optical disk, a substrate for a photomask, or the like.</p>
+<heading id="h-0006" level="1">(A) FIRST EMBODIMENT</heading>
+<p id="p-0078" num="0077">(A-1) Configuration of Substrate Processing Apparatus</p>
+<p id="p-0079" num="0078"><figref idref="DRAWINGS">FIG. 1</figref> is a plan view of a substrate processing apparatus according to a first embodiment of the present invention. <figref idref="DRAWINGS">FIG. 1</figref> and <figref idref="DRAWINGS">FIGS. 2 to 4</figref>, <b>16</b> to <b>18</b>, <b>20</b>, and <b>22</b> to <b>24</b> described later are accompanied by arrows that respectively indicate X, Y, and Z directions perpendicular to one another for clarity of a positional relationship. The X and Y directions are perpendicular to each other within a horizontal plane, and the Z direction corresponds to the vertical direction. In each of the directions, the direction of the arrow is defined as a +direction, and the opposite direction is defined as a &#x2212; direction. A rotation direction centered around the Z direction is defined as a &#x3b8;direction.</p>
+<p id="p-0080" num="0079">As shown in <figref idref="DRAWINGS">FIG. 1</figref>, a substrate processing apparatus <b>500</b> includes an indexer block <b>9</b>, an anti-reflection film processing block <b>10</b>, a resist film processing block <b>11</b>, a development processing block <b>12</b>, a resist cover film processing block <b>13</b>, a resist cover film removal block <b>14</b>, and an interface block <b>15</b>. An exposure device <b>16</b> is arranged adjacent to the interface block <b>15</b>. The exposure device <b>16</b> subjects a substrate W to exposure processing by means of a liquid immersion method.</p>
+<p id="p-0081" num="0080">Each of the indexer block <b>9</b>, the anti-reflection film processing block <b>10</b>, the resist film processing block <b>11</b>, the development processing block <b>12</b>, the resist cover film processing block <b>13</b>, the resist cover film removal block <b>14</b>, and the interface block <b>15</b> will be hereafter referred to as a processing block.</p>
+<p id="p-0082" num="0081">The indexer block <b>9</b> includes a main controller (controller) <b>30</b> that controls the operation of each of the processing blocks, a plurality of carrier platforms <b>40</b>, and an indexer robot IR. The indexer robot IR has a hand IRH provided for receiving and transferring the substrates W.</p>
+<p id="p-0083" num="0082">The anti-reflection film processing block <b>10</b> includes thermal processing groups <b>100</b> and <b>101</b> for anti-reflection film, a coating processing group <b>50</b> for anti-reflection film, and a first central robot CR<b>1</b>. The coating processing group <b>50</b> is opposed to the thermal processing groups <b>100</b> and <b>101</b> with the first central robot CR<b>1</b> sandwiched therebetween. The first central robot CR<b>1</b> has hands CRH<b>1</b> and CRH<b>2</b> provided one above the other for receiving and transferring the substrates W.</p>
+<p id="p-0084" num="0083">A partition wall <b>17</b> is provided between the indexer block <b>9</b> and the anti-reflection film processing block <b>10</b> for shielding an atmosphere. The partition wall <b>17</b> has substrate platforms PASS<b>1</b> and PASS<b>2</b> provided in close proximity one above the other for receiving and transferring the substrates W between the indexer block <b>9</b> and the anti-reflection film processing block <b>10</b>. The upper substrate platform PASS<b>1</b> is used in transporting the substrates W from the indexer block <b>9</b> to the anti-reflection film processing block <b>10</b>, and the lower substrate platform PASS<b>2</b> is used in transporting the substrates W from the anti-reflection film processing block <b>10</b> to the indexer block <b>9</b>.</p>
+<p id="p-0085" num="0084">Each of the substrate platforms PASS<b>1</b> and PASS<b>2</b> is provided with an optical sensor (not shown) for detecting the presence or absence of the substrate W. This allows determination whether or not the substrate W is placed on the substrate platform PASS<b>1</b> or PASS<b>2</b>. Furthermore, each of the substrate platforms PASS<b>1</b> and PASS<b>2</b> has a plurality of support pins secured thereto. Note that each of substrate platforms PASS<b>3</b> to PASS<b>13</b> and PASS<b>15</b> to PASS<b>26</b> described later is similarly provided with an optical sensor and support pins.</p>
+<p id="p-0086" num="0085">The resist film processing block <b>11</b> includes thermal processing groups <b>110</b> and <b>111</b> for resist film, a coating processing group <b>60</b> for resist film, and a second central robot CR<b>2</b>. The coating processing group <b>60</b> is opposed to the thermal processing groups <b>110</b> and <b>111</b> with the second central robot CR<b>2</b> sandwiched therebetween. The second central robot CR<b>2</b> has hands CRH<b>3</b> and CRH<b>4</b> provided one above the other for receiving and transferring the substrates W.</p>
+<p id="p-0087" num="0086">A partition wall <b>18</b> is provided between the anti-reflection film processing block <b>10</b> and the resist film processing block <b>11</b> for shielding an atmosphere. The partition wall <b>18</b> has substrate platforms PASS<b>3</b> and PASS<b>4</b> provided in close proximity one above the other for receiving and transferring the substrates W between the anti-reflection film processing block <b>10</b> and the resist film processing block <b>11</b>. The upper substrate platform PASS<b>3</b> is used in transporting the substrates W from the anti-reflection film processing block <b>10</b> to the resist film processing block <b>11</b>, and the lower substrate platform PASS<b>4</b> is used in transporting the substrates W from the resist film processing block <b>11</b> to the anti-reflection film processing block <b>10</b>.</p>
+<p id="p-0088" num="0087">The development processing block <b>12</b> includes thermal processing groups <b>120</b> and <b>121</b> for development, a development processing group <b>70</b>, and a third central robot CR<b>3</b>. The development processing group <b>70</b> is opposed to the thermal processing groups <b>120</b> and <b>121</b> with the third central robot CR<b>3</b> sandwiched therebetween. The third central robot CR<b>3</b> has hands CRH<b>5</b> and CRH<b>6</b> provided one above the other for receiving and transferring the substrates W.</p>
+<p id="p-0089" num="0088">A partition wall <b>19</b> is provided between the resist film processing block <b>11</b> and the development processing block <b>12</b> for shielding an atmosphere. The partition wall <b>19</b> has substrate platforms PASS<b>5</b> and PASS<b>6</b> provided in close proximity one above the other for receiving and transferring the substrates W between the resist film processing block <b>11</b> and the development processing block <b>12</b>. The upper substrate platform PASS<b>5</b> is used in transporting the substrates W from the resist film processing block <b>11</b> to the development processing block <b>12</b>, and the lower substrate platform PASS<b>6</b> is used in transporting the substrates W from the development processing block <b>12</b> to the resist film processing block <b>11</b>.</p>
+<p id="p-0090" num="0089">The resist cover film processing block <b>13</b> includes thermal processing groups <b>130</b> and <b>131</b> for resist cover film, a coating processing group <b>80</b> for resist cover film, and a fourth central robot CR<b>4</b>. The coating processing group <b>80</b> is opposed to the thermal processing groups <b>130</b> and <b>131</b> with the fourth central robot CR<b>4</b> sandwiched therebetween. The fourth central robot CR<b>4</b> has hands CRH<b>7</b> and CRH<b>8</b> provided one above the other for receiving and transferring the substrates W.</p>
+<p id="p-0091" num="0090">A partition wall <b>20</b> is provided between the development processing block <b>12</b> and the resist cover film processing block <b>13</b> for shielding an atmosphere. The partition wall <b>20</b> has substrate platforms PASS<b>7</b> and PASS<b>8</b> provided in close proximity one above the other for receiving and transferring the substrates W between the development processing block <b>12</b> and the resist cover film processing block <b>13</b>. The upper substrate platform PASS<b>7</b> is used in transporting the substrates W from the development processing block <b>12</b> to the resist cover film processing block <b>13</b>, and the lower substrate platform PASS<b>8</b> is used in transporting the substrates W from the resist cover film processing block <b>13</b> to the development processing block <b>12</b>.</p>
+<p id="p-0092" num="0091">The resist cover film removal block <b>14</b> includes thermal processing groups <b>140</b> and <b>141</b> for post-exposure bake, a removal processing group <b>90</b> for resist cover film, and a fifth central robot CR<b>5</b>. The thermal processing group <b>141</b> is adjacent to the interface block <b>15</b>, and includes substrate platforms PASS<b>11</b> and PASS<b>12</b>, as described later. The removal processing group <b>90</b> is opposed to the thermal processing groups <b>140</b> and <b>141</b> with the fifth central robot CR<b>5</b> sandwiched therebetween. The fifth central robot CR<b>5</b> has hands CRH<b>9</b> and CRH<b>10</b> provided one above the other for receiving and transferring the substrates W.</p>
+<p id="p-0093" num="0092">A partition wall <b>21</b> is provided between the resist cover film processing block <b>13</b> and the resist cover film removal block <b>14</b> for shielding an atmosphere. The partition wall <b>21</b> has substrate platforms PASS<b>9</b> and PASS<b>10</b> provided in close proximity one above the other for receiving and transferring the substrates W between the resist cover film processing block <b>13</b> and the resist cover film removal block <b>14</b>. The upper substrate platform PASS<b>9</b> is used in transporting the substrates W from the resist cover film processing block <b>13</b> to the resist cover film removal block <b>14</b>, and the lower substrate platform PASS<b>10</b> is used in transporting the substrates W from the resist cover film removal block <b>14</b> to the resist cover film processing block <b>13</b>.</p>
+<p id="p-0094" num="0093">The interface block <b>15</b> includes a bevel portion inspection unit EE, first cleaning/drying processing units SD<b>1</b>, a sixth central robot CR<b>6</b>, an edge exposure unit EEW, a return buffer unit RBF, placement/cooling units PASS-CP (hereinafter abbreviated as P-CP), a substrate platform PASS<b>13</b>, an interface transport mechanism IFR, and second cleaning/drying processing units SD<b>2</b>. The first cleaning/drying processing unit SD<b>1</b> subjects the substrate W before exposure processing to cleaning and drying processing, and the second cleaning/drying processing SD<b>2</b> subjects the substrate W after exposure processing to cleaning and drying processing. The details of the first and second cleaning/drying processing units SD<b>1</b> and SD<b>2</b> will be described later.</p>
+<p id="p-0095" num="0094">The sixth central robot CR<b>6</b> has hands CRH<b>11</b> and CRH<b>12</b> (see <figref idref="DRAWINGS">FIG. 4</figref>) provided one above the other for receiving and transferring the substrates W, and the interface transport mechanism IFR has hands H<b>1</b> and H<b>2</b> (see <figref idref="DRAWINGS">FIG. 4</figref>) provided one above the other for receiving and transferring the substrates W. The details of the interface block <b>15</b> will be described later.</p>
+<p id="p-0096" num="0095">In the substrate processing apparatus <b>500</b> according to the present embodiment, the indexer block <b>9</b>, the anti-reflection film processing block <b>10</b>, the resist film processing block <b>11</b>, the development processing block <b>12</b>, the resist cover film processing block <b>13</b>, the resist cover film removal block <b>14</b>, and the interface block <b>15</b> are provided side by side in this order in the Y direction.</p>
+<p id="p-0097" num="0096"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic side view of the substrate processing apparatus <b>500</b> shown in <figref idref="DRAWINGS">FIG. 1</figref> as viewed from the +X direction, and <figref idref="DRAWINGS">FIG. 3</figref> is a schematic side view of the substrate processing apparatus <b>500</b> shown in <figref idref="DRAWINGS">FIG. 1</figref> as viewed from the &#x2212;X direction. <figref idref="DRAWINGS">FIG. 2</figref> mainly shows the configuration on the +X side of the substrate processing apparatus <b>500</b>, and <figref idref="DRAWINGS">FIG. 3</figref> mainly shows the configuration on the &#x2212;X side of the substrate processing apparatus <b>500</b>.</p>
+<p id="p-0098" num="0097">Description is first made of the configuration on the +X side of the substrate processing apparatus <b>500</b> using <figref idref="DRAWINGS">FIG. 2</figref>. As shown in <figref idref="DRAWINGS">FIG. 2</figref>, the coating processing group <b>50</b> in the anti-reflection film processing block <b>10</b> (see <figref idref="DRAWINGS">FIG. 1</figref>) has a vertical stack of three coating units BARC. Each of the coating units BARC includes a spin chuck <b>51</b> for rotating the substrate W with the substrate W held in a horizontal attitude by suction, and a supply nozzle <b>52</b> for supplying a coating liquid for an anti-reflection film to the substrate W held on the spin chuck <b>51</b>.</p>
+<p id="p-0099" num="0098">The coating processing group <b>60</b> in the resist film processing block <b>11</b> (see <figref idref="DRAWINGS">FIG. 1</figref>) has a vertical stack of three coating units RES. Each of the coating units RES includes a spin chuck <b>61</b> for rotating the substrate W with the substrate W held in a horizontal attitude by suction, and a supply nozzle <b>62</b> for supplying a coating liquid for a resist film to the substrate W held on the spin chuck <b>61</b>.</p>
+<p id="p-0100" num="0099">The development processing group <b>70</b> in the development processing block <b>12</b> has a vertical stack of five development processing units DEV. Each of the development processing units DEV includes a spin chuck <b>71</b> for rotating the substrate W with the substrate W held in a horizontal attitude by suction, and a supply nozzle <b>72</b> for supplying a development liquid to the substrate W held on the spin chuck <b>71</b>.</p>
+<p id="p-0101" num="0100">The coating processing group <b>80</b> in the resist cover film processing block <b>13</b> has a vertical stack of three coating units COV. Each of the coating units COV includes a spin chuck <b>81</b> for rotating the substrate W with the substrate W held in a horizontal attitude by suction, and a supply nozzle <b>82</b> for supplying a coating liquid for a resist cover film to the substrate W held on the spin chuck <b>81</b>. Materials having a low affinity for resists and water (materials having low reactivity to resists and water) can be used as the coating liquid for the resist cover film. An example of the coating liquid is fluororesin. Each of the coating units COV forms the resist cover film on the resist film formed on the substrate W by applying the coating liquid onto the substrate W while rotating the substrate W.</p>
+<p id="p-0102" num="0101">The removal processing group <b>90</b> in the resist cover film removal block <b>14</b> has a vertical stack of three removal units REM. Each of the removal units REM includes a spin chuck <b>91</b> for rotating the substrate W with the substrate W held in a horizontal attitude by suction, and a supply nozzle <b>92</b> for supplying a stripping liquid (e.g., fluororesin) to the substrate W held on the spin chuck <b>91</b>. Each of the removal units REM removes the resist cover film formed on the substrate W by applying the stripping liquid onto the substrate W while rotating the substrate W.</p>
+<p id="p-0103" num="0102">Note that a method of removing the resist cover films in the removal units REM is not limited to the above-mentioned examples. For example, the resist cover film may be removed by supplying the stripping liquid onto the substrate W while moving a slit nozzle above the substrate W.</p>
+<p id="p-0104" num="0103">The interface block <b>15</b> has a vertical stack of an edge exposure unit EEW and three second cleaning/drying processing units SD<b>2</b> on the +X side. The edge exposure unit EEW includes a spin chuck <b>98</b> for rotating the substrate W with the substrate held in a horizontal attitude by suction, and a light irradiator <b>99</b> for exposing a peripheral portion of the substrate W held on the spin chuck <b>98</b>.</p>
+<p id="p-0105" num="0104">Description is now made of the configuration on the &#x2212;X side of the substrate processing apparatus <b>500</b> using <figref idref="DRAWINGS">FIG. 3</figref>. As shown in <figref idref="DRAWINGS">FIG. 3</figref>, each of the thermal processing groups <b>100</b> and <b>101</b> in the anti-reflection film processing block <b>10</b> has a stack of two heating units (hot plates) HP and two cooling units (cooling plates) CP. Each of the thermal processing groups <b>100</b> and <b>101</b> has a local controller LC for controlling the respective temperatures of the heating units HP and the cooling units CP arranged in its uppermost part.</p>
+<p id="p-0106" num="0105">Each of the thermal processing groups <b>110</b> and <b>111</b> in the resist film processing block <b>11</b> has a stack of two heating units HP and two cooling units CP. Each of the thermal processing groups <b>110</b> and <b>111</b> also has a local controller LC for controlling the respective temperatures of the heating units HP and the cooling units CP arranged in its uppermost part.</p>
+<p id="p-0107" num="0106">Each of the thermal processing groups <b>120</b> and <b>121</b> in the development processing block <b>12</b> has a stack of two heating units HP and two cooling units CP. Each of the thermal processing groups <b>120</b> and <b>121</b> also has a local controller LC for controlling the respective temperatures of the heating units HP and the cooling units CP arranged in its uppermost part.</p>
+<p id="p-0108" num="0107">Each of the thermal processing groups <b>130</b> and <b>131</b> in the resist cover film processing block <b>13</b> has a stack of two heating units HP and two cooling units CP. Each of the thermal processing groups <b>130</b> and <b>131</b> also has a local controller LC for controlling the respective temperatures of the heating units HP and the cooling units CP arranged in its uppermost part.</p>
+<p id="p-0109" num="0108">In the resist cover film removal block <b>14</b>, the thermal processing group <b>140</b> has a vertical stack of two heating units HP and two cooling units CP, and the thermal processing group <b>141</b> has a vertical stack of two heating units HP, two cooling units CP, and substrate platforms PASS<b>11</b> and PASS<b>12</b>. Each of the thermal processing groups <b>140</b> and <b>141</b> has a local controller LC for controlling the respective temperatures of the heating units HP and the cooling units CP arranged in its uppermost part.</p>
+<p id="p-0110" num="0109">The interface block <b>15</b> will be then described in detail using <figref idref="DRAWINGS">FIG. 4</figref>.</p>
+<p id="p-0111" num="0110"><figref idref="DRAWINGS">FIG. 4</figref> is a schematic side view of the interface block <b>15</b> as viewed from the +Y side. As shown in <figref idref="DRAWINGS">FIG. 4</figref>, the interface block <b>15</b> has a stack of the bevel portion inspection unit EE and the three first cleaning/drying processing units SD<b>1</b> on the &#x2212;X side. The interface block <b>15</b> has an edge exposure unit EEW arranged on the +X side in its upper part.</p>
+<p id="p-0112" num="0111">The interface block <b>15</b> has a vertical stack of a sending buffer unit SBE, a return buffer unit RBF, two placement/cooling units P-CP, and a substrate platform PASS<b>13</b> at its substantially central portion below the edge exposure unit EEW. The interface block <b>15</b> has a vertical stack of three second cleaning/drying processing units SD<b>2</b> arranged on the +X side below the edge exposure unit EEW.</p>
+<p id="p-0113" num="0112">A sixth central robot CR<b>6</b> and an interface transport mechanism IFR are provided in a lower part of the interface block <b>15</b>. The sixth central robot CR<b>6</b> is provided so as to be vertically movable and rotatable in an area among the bevel portion inspection unit EE, the first cleaning/drying processing units SD<b>1</b>, the edge exposure unit EEW, the sending buffer unit SBF, the return buffer unit RBF, the placement/cooling units P-CP, and the substrate platform PASS<b>13</b>. The interface transport mechanism IFR is provided so as to be vertically movable and rotatable in an area among the placement/cooling units P-CP, the substrate platform PASS<b>13</b>, and the second cleaning/drying processing units SD<b>2</b>.</p>
+<p id="p-0114" num="0113">(A-2) Operation of Substrate Processing Apparatus</p>
+<p id="p-0115" num="0114">The operation of the substrate processing apparatus <b>500</b> according to the present embodiment will be then described with reference to <figref idref="DRAWINGS">FIGS. 1 to 4</figref>.</p>
+<p id="p-0116" num="0115">(A-2-1) Operations of Indexer Block to Resist Cover Film Removal Block</p>
+<p id="p-0117" num="0116">First, the operations of the indexer block <b>9</b> to the resist cover film removal block <b>14</b> will be briefly described.</p>
+<p id="p-0118" num="0117">Carriers C that store a plurality of substrates W in multiple stages are respectively carried onto the carrier platforms <b>40</b> in the indexer block <b>9</b>. The indexer robot IR takes out the unprocessed substrate W that is stored in the carrier C using the hand IRH. Thereafter, the indexer robot IR rotates in the &#xb1;&#x3b8; direction while moving in the &#xb1;X direction, to place the unprocessed substrate W on the substrate platform PASS<b>1</b>.</p>
+<p id="p-0119" num="0118">Although FOUPs (Front Opening Unified Pods) are adopted as the carriers C in the present embodiment, the present invention is not limited to the same. For example, SMIF (Standard Mechanical Inter Face) pods, OCs (Open Cassettes) that expose the stored substrates W to outside air, and so on may be used.</p>
+<p id="p-0120" num="0119">Furthermore, although linear-type transport robots that move their hands forward or backward by linearly sliding them to the substrate W are respectively used as the indexer robot IR, the first to sixth central robots CR<b>1</b> to CR<b>6</b>, and the interface transport mechanism IFR, the present invention is not limited to the same. For example, multi-joint type transport robots that linearly move their hands forward and backward by moving their joints may be used.</p>
+<p id="p-0121" num="0120">The unprocessed substrate W placed on the substrate platform PASS<b>1</b> is received by the first central robot CR<b>1</b> in the anti-reflection film processing block <b>10</b>. The first central robot CR<b>1</b> carries the substrate W into the thermal processing group <b>100</b> or <b>101</b>.</p>
+<p id="p-0122" num="0121">Thereafter, the first central robot CR<b>1</b> takes out the thermally processed substrate W from the thermal processing group <b>100</b> or <b>101</b> and carries the substrate W into the coating processing group <b>50</b>. In the coating processing group <b>50</b>, the coating unit BARC forms a coating of an anti-reflection film on the substrate W in order to reduce standing waves and halation generated during the exposure processing.</p>
+<p id="p-0123" num="0122">The first central robot CR<b>1</b> then takes out the substrate W after the coating processing from the coating processing group <b>50</b> and carries the substrate W into the thermal processing group <b>100</b> or <b>101</b>. Thereafter, the first central robot CR<b>1</b> takes out the thermally processed substrate W from the thermal processing group <b>100</b> or <b>101</b> and places the substrate W on the substrate platform PASS<b>3</b>.</p>
+<p id="p-0124" num="0123">The substrate W placed on the substrate platform PASS<b>3</b> is received by the second central robot CR<b>2</b> in the resist film processing block <b>11</b>. The second central robot CR<b>2</b> carries the substrate W into the thermal processing group <b>110</b> or <b>110</b>.</p>
+<p id="p-0125" num="0124">Thereafter, the second central robot CR<b>2</b> takes out the thermally processed substrate W from the thermal processing group <b>110</b> or <b>111</b> and carries the substrate W into the coating processing group <b>60</b>. In the coating processing group <b>60</b>, the coating unit RES forms a coating of a resist film on the substrate W that has been coated with the anti-reflection film.</p>
+<p id="p-0126" num="0125">The second central robot CR<b>2</b> then takes out the substrate W after the coating processing from the coating processing group <b>60</b> and carries the substrate W into the thermal processing group <b>110</b> or <b>111</b>. Thereafter, the second central robot CR<b>2</b> takes out the thermally processed substrate W from the thermal processing group <b>110</b> or <b>111</b> and places the substrate W on the substrate platform PASS<b>5</b>.</p>
+<p id="p-0127" num="0126">The substrate W placed on the substrate platform PASS<b>5</b> is received by the third central robot CR<b>3</b> in the development processing block <b>12</b>. The third central robot CR<b>3</b> places the substrate W on the substrate platform PASS<b>7</b>.</p>
+<p id="p-0128" num="0127">The substrate W placed on the substrate platform PASS<b>7</b> is received by the fourth central robot CR<b>4</b> in the resist cover film processing block <b>13</b>. The fourth central robot CR<b>4</b> carries the substrate W into the coating processing group <b>80</b>. In the coating processing group <b>80</b>, the coating unit COV forms a coating of a resist cover film on the substrate W that has been coated with the resist film.</p>
+<p id="p-0129" num="0128">The fourth central robot CR<b>4</b> then takes out the substrate W after the coating processing from the coating processing group <b>80</b> and carries the substrate W into the thermal processing group <b>130</b> or <b>131</b>. Thereafter, the fourth central robot CR<b>4</b> takes out the thermally processed substrate W from the thermal processing group <b>130</b> or <b>131</b> and places the substrate W on the substrate platform PASS<b>9</b>.</p>
+<p id="p-0130" num="0129">The substrate W placed on the substrate platform PASS<b>9</b> is received by the fifth central robot CR<b>5</b> in the resist cover film removal block <b>14</b>. The fifth central robot CR<b>5</b> places the substrate W on the substrate platform PASS<b>11</b>.</p>
+<p id="p-0131" num="0130">The substrate W placed on the substrate platform PASS<b>11</b> is received by the sixth central robot CR<b>6</b> in the interface block <b>15</b>, and is subjected to predetermined processing in the interface block <b>15</b> and the exposure device <b>16</b>, as described later. After the substrate W is subjected to the predetermined processing in the interface block <b>15</b> and the exposure device <b>16</b>, the sixth central robot CR<b>6</b> carries the substrate W into the thermal processing group <b>141</b> in the resist cover film removal block <b>14</b>.</p>
+<p id="p-0132" num="0131">In the thermal processing group <b>141</b>, the substrate W is subjected to post-exposure bake (PEB). Thereafter, the sixth central robot CR<b>6</b> takes out the substrate W from the thermal processing group <b>141</b> and places the substrate W on the substrate platform PASS<b>12</b>.</p>
+<p id="p-0133" num="0132">Although the substrate W is subjected to the post-exposure bake in the thermal processing group <b>141</b> in the present embodiment, the substrate W may be subjected to post-exposure bake in the thermal processing group <b>140</b>.</p>
+<p id="p-0134" num="0133">The substrate W placed on the substrate platform PASS<b>12</b> is received by the fifth central robot CR<b>5</b> in the resist cover film removal block <b>14</b>. The fifth central robot CR<b>5</b> carries the substrate W into the removal processing group <b>90</b>. In the removal processing group <b>90</b>, the removal unit REM removes the resist cover film on the substrate W.</p>
+<p id="p-0135" num="0134">The fifth central robot CR<b>5</b> then takes out the processed substrate W from the removal processing group <b>90</b> and places the substrate W on the substrate platform PASS<b>10</b>.</p>
+<p id="p-0136" num="0135">The substrate W placed on the substrate platform PASS<b>10</b> is placed on the substrate platform PASS<b>8</b> by the fourth central robot CR<b>4</b> in the resist cover film processing block <b>13</b>.</p>
+<p id="p-0137" num="0136">The substrate W placed on the substrate platform PASS<b>8</b> is received by the third central robot CR<b>3</b> in the development processing block <b>12</b>. The third central robot CR<b>3</b> carries the substrate W into the development processing group <b>70</b>. In the development processing group <b>70</b>, the exposed substrate W is subjected to development processing.</p>
+<p id="p-0138" num="0137">The third central robot CR<b>3</b> then takes out the substrate W after the development processing from the development processing group <b>70</b> and carries the substrate W into the thermal processing group <b>120</b> or <b>121</b>. Thereafter, the third central robot CR<b>3</b> takes out the thermally processed substrate W from the thermal processing group <b>120</b> or <b>121</b> and places the substrate W on the substrate platform PASS<b>6</b>.</p>
+<p id="p-0139" num="0138">The substrate W placed on the substrate platform PASS<b>6</b> is placed on the substrate platform PASS<b>4</b> by the second central robot CR<b>2</b> in the resist film processing block <b>11</b>. The substrate W placed on the substrate platform PASS<b>4</b> is placed on the substrate platform PASS<b>2</b> by the first central robot CR<b>1</b> in the anti-reflection film processing block <b>10</b>.</p>
+<p id="p-0140" num="0139">The substrate W placed on the substrate platform PASS<b>2</b> is stored in the carrier C by the indexer robot IR in the indexer block <b>9</b>. Each processing for the substrate W in the substrate processing apparatus <b>500</b> is thus terminated.</p>
+<p id="p-0141" num="0140">(A-2-2) Operation of Interface Block</p>
+<p id="p-0142" num="0141">The operation of the interface block <b>15</b> will be then described.</p>
+<p id="p-0143" num="0142">As described in the foregoing, the substrate W carried into the indexer block <b>9</b> is subjected to predetermined processing, and is then placed on the substrate platform PASS<b>11</b> in the resist cover film removal block <b>14</b> (<figref idref="DRAWINGS">FIG. 1</figref>).</p>
+<p id="p-0144" num="0143">The substrate W placed on the substrate platform PASS<b>11</b> is received by the sixth central robot CR<b>6</b> in the interface block <b>15</b>. The sixth central robot CR<b>6</b> carries the substrate W into the edge exposure unit EEW (<figref idref="DRAWINGS">FIG. 4</figref>). In the edge exposure unit EEW, a peripheral portion of the substrate W is subjected to exposure processing.</p>
+<p id="p-0145" num="0144">The sixth central robot CR<b>6</b> then takes out the substrate W after the exposure processing from the edge exposure unit EEW and carries the substrate W into any one of the first cleaning/drying processing units SD<b>1</b>. In the first cleaning/drying processing unit SD<b>1</b>, the substrate W before the exposure processing is subjected to cleaning and drying processing, as described above.</p>
+<p id="p-0146" num="0145">The sixth central robot CR<b>6</b> then takes out the substrate W after the cleaning and drying processing from the first cleaning/drying processing unit SD<b>1</b> and carries the substrate W into the bevel portion inspection unit EE. The bevel portion inspection unit EE inspects a bevel portion of the substrate W, to determine whether or not the bevel portion of the substrate W is contaminated.</p>
+<p id="p-0147" num="0146">Specifically, laser light is irradiated onto the bevel portion of the substrate W, and its scattered light is detected, for example. When the intensity of the detected scattered light is within a predetermined range, it is determined that the bevel portion of the substrate W is not contaminated. When the intensity of the detected scattered light deviates from the predetermined range, it is determined that the bevel portion of the substrate W is contaminated. Note that a method of inspecting the bevel portion of the substrate W is not limited to the same. For example, the bevel portion of the substrate W may be imaged by a CCD (Charge Coupled Device) camera or the like to determine whether or not the bevel portion of the substrate W is contaminated on the basis of an image obtained by the imaging.</p>
+<p id="p-0148" num="0147">The results of the determination made by the bevel portion inspection unit EE are given to the main controller <b>30</b>. The main controller <b>30</b> controls each of the processing blocks such that the substrate W whose bevel portion is determined contaminated and the substrate W whose bevel portion is determined that it is not contaminated are respectively subjected to different types of processing.</p>
+<p id="p-0149" num="0148">The substrate W whose bevel portion is determined to be contaminated is taken out of the bevel portion inspection unit EE by the sixth central robot CR<b>6</b>, and is then carried into the sending buffer unit SBF. The substrate W is recovered by an operator after lot completion, and is separately subjected to processing. Note that a buffer for storing the substrate W whose bevel portion is determined to be contaminated may be provided separately from the sending buffer unit SBF.</p>
+<p id="p-0150" num="0149">Description is now made of the operation of the interface block <b>15</b> for the substrate W whose bevel portion is determined that it is not contaminated.</p>
+<p id="p-0151" num="0150">A time period for the exposure processing by the exposure device <b>16</b> is ordinarily longer than those for other processing and transporting processes. As a result, the exposure device <b>16</b> cannot accept the subsequent substrates W in many cases. In this case, the substrate W is temporarily stored in the sending buffer unit SBF. In the present embodiment, the sixth central robot CR<b>6</b> takes out the substrate W after the cleaning and drying processing from the first cleaning/drying processing unit SD<b>1</b> and transports the substrate W to the sending buffer unit SBF.</p>
+<p id="p-0152" num="0151">The sixth central robot CR<b>6</b> then takes out the substrate W stored in the sending buffer unit SBF and carries the substrate W into the placement/cooling unit P-CP. The substrate W carried into the placement/cooling unit P-CP is kept at the same temperature as that in the exposure device <b>16</b> (for example, 23&#xb0; C.).</p>
+<p id="p-0153" num="0152">In a case where the exposure device <b>16</b> has a sufficient processing speed, the substrate W need not be stored in the sending buffer unit SBF but may be transported to the placement/cooling unit P-CP from the first cleaning/drying processing unit SD<b>1</b>.</p>
+<p id="p-0154" num="0153">The substrate W kept at the above-mentioned predetermined temperature in the placement/cooling unit P-CP is then received with the upper hand H<b>1</b> of the interface transport mechanism IFR (<figref idref="DRAWINGS">FIG. 4</figref>) and carried into a substrate inlet <b>16</b><i>a </i>in the exposure device <b>16</b> (<figref idref="DRAWINGS">FIG. 1</figref>).</p>
+<p id="p-0155" num="0154">The substrate W that has been subjected to the exposure processing in the exposure device <b>16</b> is carried out of a substrate outlet <b>16</b><i>b </i>(<figref idref="DRAWINGS">FIG. 1</figref>) with the lower hand H<b>2</b> of the interface transport mechanism IFR (<figref idref="DRAWINGS">FIG. 4</figref>). The interface transport mechanism IFR carries the substrate W into any one of the second cleaning/drying processing units SD<b>2</b> with the hand H<b>2</b>. In the second cleaning/drying processing unit SD<b>2</b>, the substrate W after the exposure processing is subjected to cleaning and drying processing, as described above.</p>
+<p id="p-0156" num="0155">The substrate W that has been subjected to the cleaning and drying processing in the second cleaning/drying processing unit SD<b>2</b> is taken out with the hand H<b>1</b> of the interface transport mechanism IFR (<figref idref="DRAWINGS">FIG. 4</figref>). The interface transport mechanism IFR places the substrate W on the substrate platform PASS<b>13</b> with the hand H<b>1</b>.</p>
+<p id="p-0157" num="0156">The substrate W placed on the substrate platform PASS<b>13</b> is received by the sixth central robot CR<b>6</b>. The sixth central robot CR<b>6</b> transports the substrate W to the thermal processing group <b>141</b> in the resist cover film removal block <b>14</b> (<figref idref="DRAWINGS">FIG. 1</figref>).</p>
+<p id="p-0158" num="0157">Note that when the resist cover film removal block <b>14</b> cannot temporarily receive the substrate W due to a failure or the like in the removal unit REM (<figref idref="DRAWINGS">FIG. 2</figref>), the substrate W after the exposure processing can be temporarily stored in the return buffer unit RBF.</p>
+<p id="p-0159" num="0158">(A-3) Effect of the First Embodiment</p>
+<p id="p-0160" num="0159">In the first embodiment, the substrate W whose bevel portion is determined to be contaminated in the bevel portion inspection unit EE is not carried into the exposure device <b>16</b>. This prevents contamination in the exposure device <b>16</b> due to contamination of the bevel portion of the substrate W. As a result, a defective dimension and a defective shape of an exposure pattern can be prevented.</p>
+<p id="p-0161" num="0160">(A-4) Another Example of Operation</p>
+<p id="p-0162" num="0161">(A-4-1)</p>
+<p id="p-0163" num="0162">The substrate W whose bevel portion is determined to be contaminated in the bevel portion inspection unit EE may be returned to the indexer block <b>9</b> by the first to sixth central robots CR<b>1</b> to CR<b>6</b>. In this case, the substrate W whose bevel portion has been contaminated is not subjected to exposure processing and development processing. Note that in the indexer block <b>9</b>, the substrate W that has been subjected to the exposure processing and the development processing and the substrate W that is returned without being subjected to the exposure processing and the development processing are respectively stored in the separate carriers C.</p>
+<p id="p-0164" num="0163">(A-4-2)</p>
+<p id="p-0165" num="0164">The substrate W whose bevel portion is determined to be contaminated in the bevel portion inspection unit EE may be carried into the first cleaning/drying unit SD<b>1</b> again. In this case, the substrate W that has been subjected to the cleaning and drying processing in the first cleaning/drying unit SD<b>1</b> is carried into the bevel portion inspection unit EE again, to inspect whether or not the bevel portion is contaminated. That is, the substrate W is repeatedly subjected to cleaning processing in the first cleaning/drying unit SD<b>1</b> until the bevel portion inspection unit EE determines that the bevel portion is not contaminated. This allows the substrate W to be carried into the exposure device <b>16</b> with the bevel portion kept clean.</p>
+<p id="p-0166" num="0165">(A-4-3)</p>
+<p id="p-0167" num="0166">The bevel portion inspection unit EE may inspect the bevel portion of the substrate W immediately after exposure processing in addition to the inspection of the bevel portion of the substrate W before exposure processing.</p>
+<p id="p-0168" num="0167">Only the substrate W whose bevel portion is clean is carried into the exposure device <b>16</b>. If the exposure device <b>16</b> is normally operated in a clean state, the bevel portion of the substrate W immediately after exposure processing is clean. On the other hand, if the exposure device <b>16</b> is contaminated or is not normally operated, the bevel portion of the substrate W may be contaminated during exposure processing.</p>
+<p id="p-0169" num="0168">When it is determined in the bevel portion inspection unit EE that the bevel portion of the substrate W immediately after exposure processing is contaminated, an alarm generation device such as an alarm buzzer or an alarm lamp generates an alarm. Correspondingly, an operator stops the operation of the substrate processing apparatus <b>500</b>, to maintain the exposure device <b>16</b>.</p>
+<p id="p-0170" num="0169">By thus inspecting the bevel portion of the substrate W immediately before the substrate W is carried into the exposure device <b>16</b> and immediately after the substrate W is carried out of the exposure device <b>16</b>, the timing of maintenance of the exposure device <b>16</b> can be quickly recognized.</p>
+<p id="p-0171" num="0170">Note that even when the bevel portion inspection unit EE determines that the bevel portion of the substrate W is not contaminated after the exposure processing, an alarm may be issued to an operator, as in the foregoing, if the degree of contamination detected in the bevel portion inspection unit EE before the exposure processing and the degree of contamination detected in the bevel portion inspection unit EE after the exposure processing differ from each other.</p>
+<p id="p-0172" num="0171">Note that a bevel portion inspection unit that inspects the bevel portion of the substrate W before the exposure processing and a bevel portion inspection unit that inspects the bevel portion of the substrate W after the exposure processing may be separately provided.</p>
+<p id="p-0173" num="0172">(A-5) Specific Example of First Cleaning/Drying Unit SD<b>1</b></p>
+<p id="p-0174" num="0173">The first cleaning/drying processing unit SD<b>1</b> may be provided with a bevel portion cleaning function for cleaning the bevel portion of the substrate W. In the case, the ratio of the substrates W whose bevel portions are determined to be contaminated in the bevel portion inspection unit EE is reduced. Therefore, the ratio of the substrates W that can be carried into the exposure device <b>16</b> is increased, resulting in improved yield.</p>
+<p id="p-0175" num="0174">The first cleaning/drying processing unit SD<b>1</b> with the bevel portion cleaning function will be described below. <figref idref="DRAWINGS">FIG. 5</figref> is a diagram for explaining the configuration of the first cleaning/drying processing unit SD<b>1</b>. As shown in <figref idref="DRAWINGS">FIG. 5</figref>, the first cleaning/drying processing unit SD<b>1</b> includes a spin chuck <b>521</b> for keeping the substrate W horizontal while rotating the substrate W around its vertical axis passing through the center of the substrate W.</p>
+<p id="p-0176" num="0175">The spin chuck <b>521</b> is secured to an upper end of a rotating shaft <b>523</b> that is rotated by a chuck rotation-driving mechanism <b>523</b>. Furthermore, a suction path (not shown) is formed in the spin chuck <b>521</b>. By evacuating the suction path with the substrate W placed on the spin chuck <b>521</b> to adsorb a lower surface of the substrate W to the spin chuck <b>521</b> under vacuum, the substrate W can be held in a horizontal attitude.</p>
+<p id="p-0177" num="0176">A plurality of (two in this example) lower surface nozzles <b>524</b> directed outwardly upward are provided in the vicinity of the spin chuck <b>521</b>. Furthermore, an upper surface nozzle <b>525</b> directed obliquely downward are provided above the spin chuck <b>521</b>. A cleaning liquid supply pipe <b>524</b><i>a </i>is connected to each of the lower surface nozzles <b>524</b>, and a cleaning liquid supply pipe <b>525</b><i>a </i>is connected to the upper surface nozzle <b>525</b>. A cleaning liquid is supplied to the lower surface nozzle <b>524</b> and the upper surface nozzle <b>525</b>, respectively, through the cleaning liquid supply pipes <b>524</b><i>a </i>and <b>525</b><i>a</i>. Usable as the cleaning liquid is pure water, a surface active agent, a solvent, or an alcohol chemical liquid such as IPA (isopropyl alcohol).</p>
+<p id="p-0178" num="0177">When the substrate W is subjected to cleaning processing, the substrate W is rotated with the substrate W held in the spin chuck <b>521</b>. The cleaning liquid is supplied toward the lower surface of the substrate W to be rotated from the lower surface nozzle <b>524</b>. Furthermore, the cleaning liquid is supplied toward an upper surface of the substrate W to be rotated from the upper surface nozzle <b>525</b>. The cleaning liquids respectively discharged from the lower surface nozzle <b>524</b> and the upper surface nozzle <b>525</b> expand outward by a centrifugal force. This causes respective peripheral regions of a top surface and a back surface of the substrate W to be cleaned.</p>
+<p id="p-0179" num="0178">A bevel cleaner <b>530</b> is arranged outside the spin chuck <b>521</b>. The bevel cleaner <b>530</b> includes a cleaning brush <b>531</b>. The cleaning brush <b>531</b> is held so as to be rotatable around its vertical axis by holding members <b>532</b> and <b>533</b>, and is driven to rotate by a brush rotation-driving mechanism <b>534</b>.</p>
+<p id="p-0180" num="0179">An arm <b>535</b> is connected to the holding member <b>532</b>. An arm driving mechanism <b>536</b> moves the arm <b>535</b> in the vertical direction and the horizontal direction. As the arm driving mechanism <b>536</b> moves the arm <b>535</b>, the cleaning brush <b>531</b> moves in the vertical direction and the horizontal direction.</p>
+<p id="p-0181" num="0180">The cleaning brush <b>531</b> has a shape that is rotationally-symmetric to the vertical axis, and has an upper bevel cleaning surface <b>531</b><i>a</i>, an end surface cleaning surface <b>531</b><i>b</i>, and a lower bevel cleaning surface <b>531</b><i>c</i>. The end surface cleaning surface <b>531</b><i>b </i>is a cylindrical surface having its axis in the vertical direction. The upper bevel cleaning surface <b>531</b><i>a </i>extends, inclined outwardly upward from an upper end of the end surface cleaning surface <b>531</b><i>b</i>, and the lower bevel cleaning surface <b>531</b><i>c </i>extends, inclined outwardly downward from a lower end of the end surface cleaning surface <b>531</b><i>b. </i></p>
+<p id="p-0182" num="0181">When the substrate W is subjected to cleaning processing, the cleaning brush <b>531</b> in the bevel cleaner <b>530</b> cleans a bevel portion R of the substrate W.</p>
+<p id="p-0183" num="0182">Description is herein made of the bevel portion R of the substrate W. <figref idref="DRAWINGS">FIG. 6</figref> is a diagram showing the details of the bevel portion R of the substrate W. As shown in <figref idref="DRAWINGS">FIG. 6</figref>, the bevel portion R includes an upper bevel region A inclined so as to continuously connect with a flat top surface of the substrate W, a lower bevel region C inclined so as to continuously connect with a flat back surface of the substrate W, and an end surface region B. Note that the top surface of the substrate W refers to a surface, on which various patterns such as a circuit pattern are formed, of the substrate W, and the back surface of the substrate W refers to a surface, on the opposite side thereof, of the substrate W.</p>
+<p id="p-0184" num="0183">An angle of inclination &#x3b8;<b>1</b> of the upper bevel region A and an angle of inclination &#x3b8;<b>2</b> of the lower bevel region C to a vertical plane are approximately equal to each other. Respective angles of inclination of the upper bevel cleaning surface <b>531</b><i>a </i>and the lower bevel cleaning surface <b>531</b><i>c </i>of the cleaning brush <b>531</b> shown in <figref idref="DRAWINGS">FIG. 5</figref> to the vertical plane are respectively made approximately equal to the angles of inclination &#x3b8;<b>1</b> and &#x3b8;<b>2</b> of the upper bevel region A and the lower bevel region C in the substrate W.</p>
+<p id="p-0185" num="0184">When the substrate W is subjected to the cleaning processing, the cleaning brush <b>531</b> shown in <figref idref="DRAWINGS">FIG. 5</figref> rotates by the brush rotation-driving mechanism <b>534</b> while moving toward the bevel portion R of the substrate W by the arm driving mechanism <b>536</b>. Furthermore, the cleaning brush <b>531</b> moves in the vertical direction such that the upper bevel cleaning surface <b>531</b><i>a</i>, the end surface cleaning surface <b>531</b><i>b</i>, and the lower bevel cleaning surface <b>531</b><i>c </i>of the cleaning brush <b>531</b> respectively come into contact with the upper bevel region A, the end surface region B, and the lower bevel region C (<figref idref="DRAWINGS">FIG. 6</figref>) in the bevel portion R of the substrate W.</p>
+<p id="p-0186" num="0185">Note that the cleaning liquids respectively discharged from the lower surface nozzle <b>524</b> and the upper surface nozzle <b>525</b> are introduced into the bevel portion R along the back surface and the top surface of the substrate W by a centrifugal force caused by the rotation of the substrate W. That is, the cleaning liquid is supplied to a contact portion between the cleaning brush <b>531</b> and the bevel portion R of the substrate W.</p>
+<p id="p-0187" num="0186"><figref idref="DRAWINGS">FIG. 7</figref> is a plan view showing the respective rotation directions of the substrate W and the cleaning brush <b>531</b>, and <figref idref="DRAWINGS">FIGS. 8(</figref><i>a</i>) to <b>8</b>(<i>c</i>) are diagrams showing a contact state between the substrate W and the cleaning brush <b>531</b>.</p>
+<p id="p-0188" num="0187">As shown in <figref idref="DRAWINGS">FIG. 7</figref>, the cleaning brush <b>531</b> and the substrate W are rotated in the same direction. In this case, the relative rotational speed between the cleaning brush <b>531</b> and the substrate W is increased in the contact portion between the cleaning brush <b>531</b> and the substrate W. This causes the bevel portion R of the substrate W to be efficiently cleaned.</p>
+<p id="p-0189" num="0188">As shown in <figref idref="DRAWINGS">FIG. 8(</figref><i>a</i>), the upper bevel cleaning surface <b>531</b><i>a </i>of the cleaning brush <b>531</b> comes into contact with the upper bevel region A in the substrate W, so that the upper bevel region A in the substrate W is cleaned. As described above, the angle of inclination of the upper bevel region A in the substrate W and the angle of inclination of the upper bevel cleaning surface <b>531</b><i>a </i>of the cleaning brush <b>531</b> are approximately equal to each other. Therefore, the upper bevel cleaning surface <b>531</b><i>a </i>of the cleaning brush <b>531</b> can be brought into contact with the whole area of the upper bevel region A in the substrate W. This allows the whole area of the upper bevel region A to be reliably cleaned.</p>
+<p id="p-0190" num="0189">Furthermore, as shown in <figref idref="DRAWINGS">FIG. 8(</figref><i>b</i>), the lower bevel cleaning surface <b>531</b><i>c </i>of the cleaning brush <b>531</b> is brought into contact with the lower bevel region C in the substrate W, so that the lower bevel region C in the substrate W is cleaned. As described above, the angle of inclination of the lower bevel region C in the substrate W and the angle of inclination of the lower bevel cleaning surface <b>531</b><i>c </i>of the cleaning brush <b>531</b> are approximately equal to each other. Therefore, the lower bevel cleaning surface <b>531</b><i>c </i>of the cleaning brush <b>531</b> can be brought into contact with the whole area of the lower bevel region C in the substrate W. Therefore, the whole area of the lower bevel region C can be reliably cleaned.</p>
+<p id="p-0191" num="0190">Furthermore, as shown in <figref idref="DRAWINGS">FIG. 8(</figref><i>c</i>), the end surface cleaning surface <b>531</b><i>b </i>of the cleaning brush <b>531</b> comes into contact with the end surface region B in the substrate W, so that the end surface region B in the substrate W is cleaned.</p>
+<p id="p-0192" num="0191">The whole area of the bevel portion R of the substrate W can be reliably cleaned by respectively bringing the upper bevel cleaning surface <b>531</b><i>a</i>, the end surface cleaning surface <b>531</b><i>b</i>, and the lower bevel cleaning surface <b>531</b><i>c </i>of the cleaning brush <b>531</b> into contact with the upper bevel region A, the end surface region B, and the lower bevel region C in the substrate W. This allows a contaminant that adheres to the bevel portion R of the substrate W to be reliably removed.</p>
+<p id="p-0193" num="0192">After the upper bevel region A, the end surface region B, and the lower bevel region C in the substrate W are cleaned, the cleaning brush <b>531</b> separates from the substrate W. Then, the rotational speed of the rotating shaft <b>553</b> (<figref idref="DRAWINGS">FIG. 5</figref>) rises, so that the cleaning liquid that adheres to the substrate W is scattered by a centrifugal force. This causes the substrate W to be dried. Note that an inert gas supply nozzle for spraying inert gas such as N2 (nitrogen) to the substrate W may be further provided in order to dry the substrate W efficiently and reliably.</p>
+<p id="p-0194" num="0193">(A-5-a) Another Example of Installation of the Cleaning Brush</p>
+<p id="p-0195" num="0194"><figref idref="DRAWINGS">FIG. 9</figref> is a diagram showing another example of installation of the cleaning brush <b>531</b>. In the first cleaning/drying processing unit SD<b>1</b> shown in <figref idref="DRAWINGS">FIG. 9</figref>, the cleaning brush <b>531</b> is provided so as to be inclined to its vertical axis. The angle of inclination of the cleaning brush <b>531</b> is set such that the lower bevel cleaning surface <b>531</b><i>c </i>is parallel to a horizontal plane.</p>
+<p id="p-0196" num="0195"><figref idref="DRAWINGS">FIG. 10</figref> is a diagram for explaining cleaning processing of the bevel portion R of the substrate W in the first cleaning/drying processing unit SD<b>1</b> shown in <figref idref="DRAWINGS">FIG. 9</figref>. As shown in <figref idref="DRAWINGS">FIG. 10</figref>, in the first cleaning/drying processing unit SD<b>1</b>, the lower bevel cleaning surface <b>531</b><i>c </i>of the cleaning brush <b>531</b> can clean a peripheral region on the lower surface of the substrate W. This allows a contaminant that adheres to the peripheral region on the lower surface of the substrate W to be reliably removed.</p>
+<p id="p-0197" num="0196">The lower bevel region C in the substrate W can be cleaned by bringing the end surface cleaning surface <b>531</b><i>b </i>of the cleaning brush <b>531</b> into contact with the lower bevel region C in the substrate W. Furthermore, the end surface region B in the substrate W can be cleaned by bringing the upper bevel cleaning surface <b>531</b><i>a </i>of the cleaning brush <b>531</b> into contact with the end surface region B in the substrate W.</p>
+<p id="p-0198" num="0197">Note that the angle of inclination of the cleaning brush <b>531</b> may be made optionally controllable. In the case, the upper bevel region A, the end surface region B, and the lower bevel region C in the bevel portion R of the substrate W can be cleaned with the cleaning brush <b>531</b> in an upright attitude, as shown in <figref idref="DRAWINGS">FIGS. 8(</figref><i>a</i>) to <b>8</b>(<i>c</i>). Furthermore, the peripheral region on the lower surface of the substrate W can be cleaned by inclining the cleaning brush <b>531</b> as shown in <figref idref="DRAWINGS">FIG. 10</figref>.</p>
+<p id="p-0199" num="0198">(A-5-b) Another Example of the Bevel Cleaner</p>
+<p id="p-0200" num="0199"><figref idref="DRAWINGS">FIG. 11</figref> is a diagram showing another example of the bevel cleaner <b>530</b>. A bevel cleaner <b>530</b> shown in <figref idref="DRAWINGS">FIG. 11</figref> differs from the bevel cleaner <b>530</b> shown in <figref idref="DRAWINGS">FIG. 5</figref> in that it includes a cleaning brush <b>540</b> in place of the cleaning brush <b>531</b>.</p>
+<p id="p-0201" num="0200">The cleaning brush <b>540</b> differs from the cleaning brush <b>531</b> shown in <figref idref="DRAWINGS">FIG. 5</figref> in the following points. A lower surface cleaner <b>541</b> is formed so as to project outward in a lower part of the cleaning brush <b>540</b>. An upper surface <b>541</b><i>a </i>of the lower surface cleaner <b>541</b> (hereinafter referred to as a lower surface cleaning surface <b>541</b><i>a</i>) extends outward along a horizontal plane from a lower end of a lower bevel cleaning surface <b>531</b><i>c. </i></p>
+<p id="p-0202" num="0201">When the cleaning brush <b>540</b> is used, a peripheral region on a back surface of a substrate W, in addition to an upper bevel region A, an end surface region B, and a lower bevel region C in the substrate W, can be cleaned by the lower surface cleaning surface <b>541</b><i>a. </i></p>
+<p id="p-0203" num="0202">(A-5-c) Still Another Example of the Bevel Cleaner</p>
+<p id="p-0204" num="0203"><figref idref="DRAWINGS">FIG. 12</figref> is a diagram showing still another example of the bevel cleaner <b>530</b>. In a bevel cleaner <b>530</b> shown in <figref idref="DRAWINGS">FIG. 12</figref>, a back surface cleaning brush <b>545</b> is attached to a lower surface of a holding member <b>533</b>.</p>
+<p id="p-0205" num="0204">In the bevel cleaner <b>530</b>, the whole area of a back surface of a substrate W, in addition to an upper bevel region A, an end surface region B, and a lower bevel region C in the substrate W, can be cleaned by the back surface cleaning brush <b>545</b>. Specifically, the upper bevel region A, the end surface region B, and the lower bevel region C in the substrate W are first cleaned by a cleaning brush <b>531</b>, as shown in <figref idref="DRAWINGS">FIGS. 8(</figref><i>a</i>) to <b>8</b>(<i>c</i>). After a cleaning liquid that adheres to the substrate W is scattered to dry the substrate W, a top surface and the back surface of the substrate W are reversed by a reversing robot (not shown). That is, the back surface of the substrate W is directed upward.</p>
+<p id="p-0206" num="0205">In the state, the substrate W is rotated while the cleaning liquid is supplied from the upper surface nozzle <b>525</b>. The substrate W is scanned from its central portion to peripheral portion with the back surface cleaning brush <b>545</b> in the bevel cleaner <b>530</b> brought into contact with the back surface of the substrate W. Therefore, the back surface cleaning brush <b>545</b> cleans the whole area of the back surface of the substrate W, to more reliably remove a contaminant that adheres to the back surface of the substrate W.</p>
+<p id="p-0207" num="0206">Note that the back surface cleaning brush <b>545</b> may be driven to rotate integrally with the cleaning brush <b>531</b> by the brush rotation-driving mechanism <b>534</b>. Although the back surface of the substrate W is cleaned after a bevel portion R of the substrate W is cleaned in this example, the bevel portion R of the substrate W may be cleaned after the back surface of the substrate W is cleaned.</p>
+<p id="p-0208" num="0207">When the bevel cleaner <b>530</b> shown in <figref idref="DRAWINGS">FIG. 12</figref> is used, it is preferable that the spin chuck <b>521</b> of a vacuum suction type is replaced with a spin chuck that can rotate the substrate W by holding the bevel portion R of the substrate W in a plurality of holding pins and rotating each of the plurality of holding pins around its vertical axis, for example. In this case, the substrate W can be rotated with the back surface thereof directed upward without damaging a film formed on the top surface of the substrate W.</p>
+<p id="p-0209" num="0208">(A-5-d) Still Another Example of the Bevel Cleaner</p>
+<p id="p-0210" num="0209">The bevel cleaner <b>530</b> may be replaced with bevel cleaners <b>560</b> and <b>570</b> shown in <figref idref="DRAWINGS">FIG. 13</figref>. <figref idref="DRAWINGS">FIG. 13</figref> is a diagram showing a first cleaning/drying processing unit SD<b>1</b> including the bevel cleaners <b>560</b> and <b>570</b>.</p>
+<p id="p-0211" num="0210">As shown in <figref idref="DRAWINGS">FIG. 13</figref>, each of the bevel cleaners <b>560</b> and <b>570</b> includes holding members <b>532</b> and <b>533</b>, a brush rotation-driving mechanism <b>534</b>, an arm <b>535</b>, and an arm driving mechanism <b>536</b>, similarly to the bevel cleaner <b>530</b> shown in <figref idref="DRAWINGS">FIG. 5</figref>.</p>
+<p id="p-0212" num="0211">The bevel cleaner <b>560</b> differs from the bevel cleaner <b>530</b> (<figref idref="DRAWINGS">FIG. 5</figref>) in that it includes a cleaning brush <b>561</b> in place of the cleaning brush <b>531</b>. The cleaning brush <b>561</b> has an upper bevel cleaning surface <b>561</b><i>a </i>and an end surface cleaning surface <b>561</b><i>b </i>(<figref idref="DRAWINGS">FIG. 14</figref>) respectively corresponding to the upper bevel cleaning surface <b>531</b><i>a </i>and the end surface cleaning surface <b>531</b><i>b </i>of the cleaning brush <b>531</b>.</p>
+<p id="p-0213" num="0212">The bevel cleaner <b>570</b> differs from the bevel cleaner <b>530</b> in that a cleaning brush <b>571</b> is provided in place of the cleaning brush <b>531</b>. The cleaning brush <b>571</b> has an end surface cleaning surface <b>571</b><i>b </i>and a lower bevel cleaning surface <b>571</b><i>c </i>(<figref idref="DRAWINGS">FIG. 14</figref>) respectively corresponding to the end surface cleaning surface <b>531</b><i>b </i>and the lower bevel cleaning surface <b>531</b><i>c </i>of the cleaning brush <b>531</b>.</p>
+<p id="p-0214" num="0213">When a substrate W is subjected to cleaning processing, the cleaning brushes <b>561</b> and <b>571</b> are respectively driven individually by the brush rotation-driving mechanism <b>534</b> and the arm driving mechanism <b>536</b>.</p>
+<p id="p-0215" num="0214"><figref idref="DRAWINGS">FIGS. 14(</figref><i>a</i>), <b>14</b>(<i>b</i>), and <b>15</b> are diagrams for explaining cleaning processing of a bevel portion R of the substrate W by the cleaning brushes <b>561</b> and <b>571</b> in the bevel cleaners <b>560</b> and <b>570</b>. As shown in <figref idref="DRAWINGS">FIG. 14(</figref><i>a</i>), the upper bevel cleaning surface <b>561</b><i>a </i>of the cleaning brush <b>561</b> comes into contact with an upper bevel region A in the substrate W, and the lower bevel cleaning surface <b>571</b><i>c </i>of the cleaning brush <b>571</b> comes into contact with a lower bevel region C in the substrate W, to clean the upper bevel region A and the lower bevel region C in the substrate W.</p>
+<p id="p-0216" num="0215">Furthermore, as shown in <figref idref="DRAWINGS">FIG. 14(</figref><i>b</i>), the end surface cleaning surface <b>561</b><i>b </i>of the cleaning brush <b>561</b> and the end surface cleaning surface <b>571</b><i>b </i>of the cleaning brush <b>571</b> come into contact with an end surface region B in the substrate W, to clean the end surface region B in the substrate W.</p>
+<p id="p-0217" num="0216">When the bevel cleaners <b>560</b> and <b>570</b> are thus used, the upper bevel region A and the lower bevel region C in the substrate W can be simultaneously cleaned. Therefore, a cleaning time period can be shortened, as compared with that in a case where the upper bevel region A and the lower bevel region C in the substrate W are cleaned in this order.</p>
+<p id="p-0218" num="0217">As shown in <figref idref="DRAWINGS">FIG. 15</figref>, the upper bevel cleaning surface <b>561</b><i>a </i>of the cleaning brush <b>561</b>, the lower bevel cleaning surface <b>571</b><i>c </i>of the cleaning brush <b>571</b>, and the respective end surface cleaning surfaces <b>561</b><i>b </i>and <b>571</b><i>b </i>of the cleaning brushes <b>561</b> and <b>571</b> may be respectively brought into contact with the upper bevel region A, the end surface region B, and the lower bevel region C in the substrate W simultaneously. In this case, the upper bevel region A, the end surface region B, and the lower bevel region C in the substrate W can be simultaneously cleaned.</p>
+<heading id="h-0007" level="1">(B) SECOND EMBODIMENT</heading>
+<p id="p-0219" num="0218">As to a substrate processing apparatus <b>500</b> according to a second embodiment, the difference from the substrate processing apparatus <b>500</b> according to the first embodiment will be then described. <figref idref="DRAWINGS">FIG. 16</figref> is a plan view of the substrate processing apparatus <b>500</b> according to the second embodiment. In <figref idref="DRAWINGS">FIG. 16</figref>, each of processing blocks is illustrated in simplified fashion.</p>
+<p id="p-0220" num="0219">As shown in <figref idref="DRAWINGS">FIG. 16</figref>, the substrate processing apparatus <b>500</b> according to the second embodiment includes a bevel portion inspection block <b>31</b> between an indexer block <b>9</b> and an anti-reflection film processing block <b>10</b>. The bevel portion inspection block <b>31</b> includes a seventh central robot CR<b>7</b> and bevel portion inspection groups <b>311</b> and <b>312</b>.</p>
+<p id="p-0221" num="0220">The bevel portion inspection groups <b>311</b> and <b>312</b> are opposed to each other with the seventh central robot CR<b>7</b> sandwiched therebetween. Each of the bevel portion inspection groups <b>311</b> and <b>312</b> has a vertical stack of a plurality of bevel portion inspection units EE. The seventh central robot CR<b>7</b> has hands CRH<b>13</b> and CRH<b>14</b> provided one above the other for receiving and transferring substrates W.</p>
+<p id="p-0222" num="0221">A partition wall <b>313</b> is provided between the indexer block <b>9</b> and the bevel portion inspection block <b>31</b> for shielding an atmosphere, and a partition wall <b>314</b> is provided between the bevel portion inspection block <b>31</b> and the anti-reflection film processing block <b>10</b> for shielding an atmosphere. The partition wall <b>313</b> has substrate platforms PASS<b>15</b> and PASS<b>16</b> provided in close proximity one above the other for receiving and transferring the substrates W between the indexer block <b>9</b> and the bevel portion inspection block <b>31</b>. The upper substrate platform PASS<b>15</b> is used in transporting the substrates W from the indexer block <b>9</b> to the bevel portion inspection block <b>31</b>, and the lower substrate platform PASS<b>16</b> is used in transporting the substrates W from the bevel portion inspection block <b>31</b> to the indexer block <b>9</b>.</p>
+<p id="p-0223" num="0222">The partition wall <b>314</b> has substrate platforms PASS<b>17</b> and PASS<b>18</b> provided in close proximity one above the other for receiving and transferring the substrates W between the bevel portion inspection block <b>31</b> and the anti-reflection film processing block <b>10</b>. The upper substrate platform PASS<b>17</b> is used in transporting the substrates W from the bevel portion inspection block <b>31</b> to the anti-reflection film processing block <b>10</b>, and the lower substrate platform PASS<b>18</b> is used in transporting the substrates W from the anti-reflection film processing block <b>10</b> to the bevel portion inspection block <b>31</b>.</p>
+<p id="p-0224" num="0223">In the substrate processing apparatus <b>500</b>, the unprocessed substrate W is transported from the indexer block <b>9</b> to the bevel portion inspection block <b>31</b>. In the bevel portion inspection block <b>31</b>, the bevel portion inspection unit EE inspects a bevel portion of the substrate W.</p>
+<p id="p-0225" num="0224">The substrate W whose bevel portion is determined to be contaminated as a result of the inspection by the bevel portion inspection unit EE is returned to the indexer block <b>9</b> by the seventh central robot CR<b>7</b> and the indexer robot IR (<figref idref="DRAWINGS">FIG. 1</figref>), and is recovered in the carrier C (<figref idref="DRAWINGS">FIG. 1</figref>). The substrate W is carried into the indexer block <b>9</b> anew after the bevel portion is cleaned outside the substrate processing apparatus <b>500</b>. The substrate whose bevel portion is determined to be contaminated may be recovered by an operator.</p>
+<p id="p-0226" num="0225">On the other hand, the substrate whose bevel portion is determined that it is not contaminated is transported to the anti-reflection film processing block <b>10</b>. The substrate W is subjected to the same processing as described above in the anti-reflection film processing block <b>10</b>, a resist film processing block <b>11</b>, a development processing block <b>12</b>, a resist cover film processing block <b>13</b>, a resist cover film removal block <b>14</b>, an interface block <b>15</b>, and an exposure device <b>16</b>.</p>
+<p id="p-0227" num="0226">The processed substrate W is returned to the bevel portion inspection block <b>31</b>. The bevel portion inspection unit EE inspects the bevel portion again. Thereafter, the substrate W is returned to the indexer block <b>9</b>, and is recovered in the carrier C. In this case, the substrate W whose bevel portion is determined to be contaminated and the substrate W whose bevel portion is determined that it is not contaminated as a result of the inspection by the bevel portion inspection unit EE are respectively recovered in the separate carriers C. After the substrate W whose bevel portion is determined to be contaminated is recovered in the carrier C, the bevel portion is cleaned outside the substrate processing apparatus <b>500</b>.</p>
+<p id="p-0228" num="0227">In the present embodiment, the bevel portion inspection unit EE inspects the bevel portion of the unprocessed substrate W. Therefore, only the substrate W whose bevel portion is determined that it is not contaminated is transported to the anti-reflection film processing block <b>10</b>. This allows the substrate W in each of the processing blocks to be satisfactorily processed.</p>
+<p id="p-0229" num="0228">Furthermore, the bevel portion of the substrate W is inspected by the bevel portion inspection unit EE immediately before being carried out of the substrate processing apparatus <b>500</b>. Even when the bevel portion of the substrate W is contaminated during development processing in the development processing block <b>12</b>, for example, therefore, contamination of the substrate W can be quickly recognized.</p>
+<p id="p-0230" num="0229">Note that the bevel portion inspection block <b>31</b> may be provided with a bevel portion cleaning unit with a bevel portion cleaning function. In this case, the bevel portion cleaning unit can clean the bevel portion of the unprocessed substrate W whose bevel portion is determined to be contaminated by the bevel portion inspection unit EE. This eliminates the necessity of recovering the substrate W once in the carrier C in order to clean the bevel portion thereof.</p>
+<p id="p-0231" num="0230">Furthermore, the bevel portion cleaning unit cleans the bevel portion of the processed substrate W whose bevel portion is determined to be contaminated by the bevel portion inspection unit EE. This allows the substrate W whose bevel portion has been contaminated during development processing or the like to be also carried out of the substrate processing apparatus <b>500</b> in a clean state.</p>
+<p id="p-0232" num="0231">Note that the same configuration as that of the first cleaning/drying processing unit SD<b>1</b> shown in <figref idref="DRAWINGS">FIGS. 5 to 15</figref>, for example, can be used as the configuration of the bevel portion cleaning unit.</p>
+<heading id="h-0008" level="1">(C) THIRD EMBODIMENT</heading>
+<p id="p-0233" num="0232">As to a substrate processing apparatus <b>500</b> according to a third embodiment, the difference from the substrate processing apparatus <b>500</b> according to the first embodiment will be then described. <figref idref="DRAWINGS">FIG. 17</figref> is a plan view of the substrate processing apparatus <b>500</b> according to the third embodiment. In <figref idref="DRAWINGS">FIG. 17</figref>, each of processing blocks is illustrated in simplified fashion.</p>
+<p id="p-0234" num="0233">As shown in <figref idref="DRAWINGS">FIG. 17</figref>, the substrate processing apparatus <b>500</b> according to the third embodiment includes an inspection block <b>32</b> between a resist cover film removal block <b>14</b> and an interface block <b>15</b>. The inspection block <b>32</b> includes an eighth central robot CR<b>8</b>, thermal processing groups <b>321</b> and <b>322</b> for post-exposure bake, and a substrate inspection group <b>323</b>.</p>
+<p id="p-0235" num="0234">The substrate inspection group <b>323</b> is opposed to the thermal processing groups <b>321</b> and <b>322</b> with the eighth central robot CR<b>8</b> sandwiched therebetween. The substrate inspection group <b>323</b> has a vertical stack of a plurality of bevel portion inspection units EE and a plurality of film thickness inspection units FE<b>1</b>. The eighth central robot CR<b>8</b> has hands CRH<b>15</b> and CRH<b>16</b> provided one above the other for receiving and transferring substrates W.</p>
+<p id="p-0236" num="0235">A partition wall <b>324</b> is provided between the resist cover film removal block <b>14</b> and the inspection block <b>32</b> for shielding an atmosphere. The partition wall <b>324</b> has substrate platforms PASS<b>19</b> and PASS<b>20</b> provided in close proximity one above the other for receiving and transferring the substrates W between the resist cover film removal block <b>14</b> and the inspection block <b>32</b>. The upper substrate platform PASS<b>19</b> is used in transporting the substrates W from the resist cover film removal block <b>14</b> to the inspection block <b>32</b>, and the lower substrate platform PASS<b>20</b> is used in transporting the substrates W from the inspection block <b>32</b> to the resist cover film removal block <b>14</b>.</p>
+<p id="p-0237" num="0236">The thermal processing group <b>322</b> includes substrate platforms PASS<b>21</b> and PASS<b>22</b> for receiving and transferring the substrates W between the inspection block <b>32</b> and the interface block <b>15</b>. The upper substrate platform PASS<b>21</b> is used in transporting the substrates W from the inspection block <b>32</b> to the interface block <b>15</b>, and the lower substrate platform PASS<b>22</b> is used in transporting the substrates W from the interface block <b>15</b> to the inspection block <b>32</b>.</p>
+<p id="p-0238" num="0237">In the inspection block <b>32</b>, the bevel portion inspection unit EE inspects a bevel portion of the substrate W before or after exposure processing. Furthermore, the film thickness inspection unit FE<b>1</b> inspects the respective thicknesses of an anti-reflection film, a resist film, and a resist cover film on the substrate W before exposure processing.</p>
+<heading id="h-0009" level="1">(D) FOURTH EMBODIMENT</heading>
+<p id="p-0239" num="0238">As to a substrate processing apparatus <b>500</b> according to a fourth embodiment, the difference from the substrate processing apparatus <b>500</b> according to the first embodiment will be then described. <figref idref="DRAWINGS">FIG. 18</figref> is a plan view of the substrate processing apparatus <b>500</b> according to the fourth embodiment. In <figref idref="DRAWINGS">FIG. 18</figref>, each of processing blocks is illustrated in simplified fashion.</p>
+<p id="p-0240" num="0239">As shown in <figref idref="DRAWINGS">FIG. 18</figref>, the substrate processing apparatus <b>500</b> according to the fourth embodiment includes an inspection block <b>33</b> between a resist film processing block <b>11</b> and a development processing block <b>12</b>. The inspection block <b>33</b> includes a ninth central robot CR<b>9</b> and substrate inspection groups <b>331</b> and <b>332</b>.</p>
+<p id="p-0241" num="0240">The substrate inspection groups <b>331</b> and <b>332</b> are opposed to each other with the ninth central robot CR<b>9</b> sandwiched therebetween. The substrate inspection group <b>331</b> has a vertical stack of a plurality of bevel portion inspection units EE. The substrate inspection group <b>332</b> has a vertical stack of a plurality of line width inspection units FE<b>2</b> and a plurality of overlay inspection unit FE<b>3</b>. The ninth central robot CR<b>9</b> has hands CRH<b>17</b> and CRH<b>18</b> provided one above the other for receiving and transferring substrates W.</p>
+<p id="p-0242" num="0241">A partition wall <b>333</b> is provided between the resist film processing block <b>11</b> and the inspection block <b>33</b> for shielding an atmosphere, and a partition wall <b>334</b> is provided between the inspection block <b>33</b> and the development processing block <b>12</b> for shielding an atmosphere. The partition wall <b>333</b> has substrate platforms PASS<b>23</b> and PASS<b>24</b> provided in close proximity one above the other for receiving and transferring the substrates W between the resist film processing block <b>11</b> and the inspection block <b>33</b>. The upper substrate platform PASS<b>23</b> is used in transporting the substrates W from the resist film processing block <b>11</b> to the inspection block <b>33</b>, and the lower substrate platform PASS<b>24</b> is used in transporting the substrates W from the inspection block <b>33</b> to the resist film processing block <b>11</b>.</p>
+<p id="p-0243" num="0242">The partition wall <b>334</b> has substrate platforms PASS<b>25</b> and PASS<b>26</b> provided in close proximity one above the other for receiving and transferring the substrates W between the inspection block <b>33</b> and the development processing block <b>12</b>. The upper substrate platform PASS<b>25</b> is used in transporting the substrates W from the inspection block <b>33</b> to the development processing block <b>12</b>, and the lower substrate platform PASS<b>26</b> is used in transporting the substrates W from the development processing block <b>12</b> to the inspection block <b>33</b>.</p>
+<p id="p-0244" num="0243">In the inspection block <b>33</b>, the bevel portion inspection unit EE inspects a bevel portion of the substrate W before or after exposure processing. The line width inspection unit FE<b>2</b> inspects the line width of a pattern formed on the substrate W by development processing. The overlay inspection unit FE<b>3</b> inspects the overlay precision of each of layers composing the pattern formed on the substrate W by the development processing.</p>
+<p id="p-0245" num="0244">Note that each of the inspection blocks <b>32</b> and <b>33</b> respectively shown in <figref idref="DRAWINGS">FIGS. 17 and 18</figref> may be further provided with other inspection units for making macro inspection or the like of the substrates W.</p>
+<heading id="h-0010" level="1">(E) FIFTH EMBODIMENT</heading>
+<p id="p-0246" num="0245">As to a substrate processing apparatus <b>500</b> according to a fifth embodiment, the difference from the substrate processing apparatus <b>500</b> according to the first embodiment will be then described. In the fifth embodiment, an end portion of a substrate W is inspected in coating units BARC, RES, and COV and a development processing unit DEV.</p>
+<p id="p-0247" num="0246">(E-1) End Portion of Substrate</p>
+<p id="p-0248" num="0247">The definition of an end portion of a substrate W is shown herein. <figref idref="DRAWINGS">FIG. 19</figref> is a diagram schematically showing the end portion of the substrate W.</p>
+<p id="p-0249" num="0248">As described above, the substrate W has a flat top surface and back surface, and has a bevel portion R including an upper bevel region A, a lower bevel region C, and an end surface region B on its outer peripheral portion.</p>
+<p id="p-0250" num="0249">An anti-reflection film F<b>1</b>, a resist film F<b>2</b>, and a resist cover film F<b>3</b> are formed in this order on the top surface of the substrate W. A region where each of the films F<b>1</b>, F<b>2</b>, and F<b>3</b> is to be formed is previously determined. In an example shown in <figref idref="DRAWINGS">FIG. 19</figref>, each of the films F<b>1</b>, F<b>2</b>, and F<b>3</b> is formed in a region, excluding a peripheral region D, on the top surface of the substrate W.</p>
+<p id="p-0251" num="0250">In the present embodiment, the end portion of the substrate W refers to the bevel portion R of the substrate W and a region on the top surface thereof where none of the films F<b>1</b>, F<b>2</b>, and F<b>3</b> are formed. In the example shown in <figref idref="DRAWINGS">FIG. 19</figref>, the bevel portion R and the peripheral region D are referred to as the end portion of the substrate W.</p>
+<p id="p-0252" num="0251">Note that each of the films F<b>1</b>, F<b>2</b>, and F<b>3</b> may be also formed in the upper bevel region A in the bevel portion R. In the case, a region of the upper bevel region A where none of the films F<b>1</b>, F<b>2</b>, and F<b>3</b> are formed, the end surface region B, and the lower bevel region C, are referred to as the end portion of the substrate W.</p>
+<p id="p-0253" num="0252">(E-2) Coating Unit</p>
+<p id="p-0254" num="0253">The details of the coating units BARC, RES, and COV in the fifth embodiment will be described. The respective configurations of the coating units BARC, RES, and COV are approximately equal to one another.</p>
+<p id="p-0255" num="0254">(E-2-1) Coating Unit BARC</p>
+<p id="p-0256" num="0255">(E-2-1-1) Configuration</p>
+<p id="p-0257" num="0256"><figref idref="DRAWINGS">FIG. 20</figref> is a plan view showing the configuration of the coating unit BARC. As shown in <figref idref="DRAWINGS">FIG. 20</figref>, the coating unit BARC includes a rotation processor <b>801</b>, a plurality of (three in this example) coating liquid supply nozzles <b>810</b>, a plurality of (three in this example) stripping liquid supply nozzles <b>811</b>, a nozzle gripper <b>820</b>, gripper moving mechanisms <b>834</b> and <b>837</b>, a waiting portion <b>850</b>, and an end portion inspector <b>860</b>.</p>
+<p id="p-0258" num="0257">The rotation processor <b>801</b> includes a spin chuck <b>803</b> for rotating a substrate W with the substrate W held in a horizontal attitude by suction, and a hollow cup <b>802</b>, surrounding the spin chuck <b>803</b>, for preventing an organic solvent or a processing liquid scattered from the substrate W from being diffused outward.</p>
+<p id="p-0259" num="0258">A back rinse nozzle (not shown) for discharging a rinse liquid (e.g., pure water) toward a lower surface of the substrate W held in the spin chuck <b>803</b> is provided in the vicinity of the spin chuck <b>803</b>. An edge rinse nozzle <b>804</b> is movably provided above the spin chuck <b>803</b>. The edge rinse nozzle <b>804</b> discharges a rinse liquid (e.g., pure water) to a peripheral portion of the substrate W held by the spin chuck <b>803</b>.</p>
+<p id="p-0260" num="0259">In awaiting time period, each of the coating liquid supply nozzles <b>810</b> and each of the stripping liquid supply nozzles <b>811</b> are inserted into the waiting portion <b>850</b>. A coating liquid for an anti-reflection film is supplied to each of the coating liquid supply nozzles <b>810</b> from a coating liquid storage (not shown) through a processing liquid pipe (not shown). A stripping liquid for an anti-reflection film is supplied to each of the stripping liquid supply nozzles <b>811</b> from a stripping liquid storage (not shown) through a processing liquid pipe (not shown).</p>
+<p id="p-0261" num="0260">Note that the types of coating liquids respectively supplied to the plurality of (three in this example) coating liquid supply nozzles <b>810</b> differ from one another. The coating liquid supplied to the substrate W is suitably selected in accordance with previously set processing conditions, as described later.</p>
+<p id="p-0262" num="0261">Each of the coating liquid supply nozzles <b>810</b> is provided with a gripper <b>810</b><i>a </i>projecting upward. Each of the stripping liquid supply nozzles <b>811</b> is provided with a gripper <b>811</b><i>a </i>projecting upward.</p>
+<p id="p-0263" num="0262">The nozzle gripper <b>820</b> includes a pair of holding arms <b>821</b> for holding the respective grippers <b>810</b><i>a </i>and <b>811</b><i>a </i>in the coating liquid supply nozzle <b>810</b> and the stripping liquid supply nozzle <b>811</b>. The holding arms <b>821</b> move in the direction nearer to each other or in the direction away from each other by a driving mechanism (not shown).</p>
+<p id="p-0264" num="0263">The nozzle gripper <b>820</b> is attached to the gripper moving mechanism <b>834</b>. The gripper moving mechanism <b>834</b> causes the nozzle gripper <b>820</b> to move in the X direction and the Z direction. The gripper moving mechanism <b>834</b> has its one end engaged with a rotating screw <b>838</b> in the gripper moving mechanism <b>837</b>. The rotating screw <b>838</b> is rotated by a motor (not shown). The rotation of the rotating screw <b>838</b> causes the gripper moving mechanism <b>834</b> to horizontally move in the Y direction along a guide <b>839</b>. This causes the nozzle gripper <b>820</b> to move in the Y direction.</p>
+<p id="p-0265" num="0264">The end portion inspector <b>860</b> has an inspection head <b>863</b>. The inspection head <b>863</b> is attached to a front end of a rotating arm <b>865</b> rotated by a motor <b>864</b>. The inspection head <b>863</b> irradiates laser light onto an end portion of the substrate W held in the spin chuck <b>803</b>, and detects its scattered light to inspect the state of the end portion of the substrate W. The results of the inspection of the end portion of the substrate W by the inspection head <b>863</b> are given to the main controller <b>30</b> shown in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0266" num="0265">(E-2-1-2) Operation</p>
+<p id="p-0267" num="0266">The operation of the coating unit BARC having the above-mentioned configuration will be then described using the drawings. The operation of the coating unit BARC is controlled by the main controller <b>30</b> shown in <figref idref="DRAWINGS">FIG. 1</figref>. <figref idref="DRAWINGS">FIG. 21</figref> is a schematic flow chart showing a control operation of the main controller <b>30</b>.</p>
+<p id="p-0268" num="0267">As shown in <figref idref="DRAWINGS">FIG. 21</figref>, the main controller <b>30</b> selects a coating liquid supplied to the substrate W in accordance with predetermined processing conditions, and selects the corresponding coating liquid supply nozzle <b>810</b> (step S<b>1</b>).</p>
+<p id="p-0269" num="0268">When the coating liquid supply nozzle <b>810</b> is selected, the gripper moving mechanisms <b>834</b> and <b>837</b> respectively cause the nozzle gripper <b>820</b> to come closer to the gripper <b>810</b><i>a </i>in the coating liquid supply nozzle <b>810</b> selected with the pair of holding arms <b>821</b> opened.</p>
+<p id="p-0270" num="0269">The gripper <b>810</b><i>a </i>in the coating liquid supply nozzle <b>810</b> is held between the holding arms <b>821</b>. Furthermore, the held coating liquid supply nozzle <b>810</b> is lifted upward, and the gripper moving mechanisms <b>834</b> and <b>837</b> move the coating liquid supply nozzle <b>810</b> to a predetermined position above the center of the substrate W.</p>
+<p id="p-0271" num="0270">Then, the main controller <b>30</b> discharges a coating liquid from the coating liquid supply nozzle <b>810</b> onto the substrate W while causing the spin chuck <b>803</b> to rotate the substrate W, to apply the coating liquid onto the substrate W (step S<b>2</b>). At this time, a rinse liquid is discharged toward a lower surface of the substrate W from a back rinse nozzle (not shown) positioned below the substrate W. This can prevent the coating liquid from adhering to the lower substrate of the substrate W. When the discharge of the coating liquid is terminated, the coating liquid supply nozzle <b>810</b> is returned to a predetermined position of the waiting portion <b>850</b> shown in <figref idref="DRAWINGS">FIG. 20</figref>.</p>
+<p id="p-0272" num="0271">Then, the main controller <b>30</b> moves the edge rinse nozzle <b>804</b> to the vicinity of a peripheral portion of the substrate W, and discharges the rinse liquid toward the peripheral portion of the substrate W from the edge rinse nozzle <b>804</b> (step S<b>3</b>). This causes the coating liquid that adheres to the peripheral portion of the substrate W to be removed by dissolving. After a predetermined time period has elapsed, the discharge of the rinse liquid from the edge rinse nozzle <b>804</b> is stopped, to move the edge rinse nozzle <b>804</b> outward from the substrate W.</p>
+<p id="p-0273" num="0272">Then, the main controller <b>30</b> causes the motor <b>864</b> to move the inspection head <b>30</b> to the vicinity of the end portion of the substrate W. The inspection head <b>863</b> inspects the state of the end portion of the substrate W with the rotation of the substrate W maintained (step S<b>4</b>).</p>
+<p id="p-0274" num="0273">Then, the main controller <b>30</b> determines whether or not the coating liquid adheres to the end portion of the substrate W on the basis of the results of the inspection by the inspection head <b>863</b> (step S<b>5</b>). That is, it is determined whether or not the coating liquid adheres to a portion where an anti-reflection film should not be formed.</p>
+<p id="p-0275" num="0274">Specifically, when the intensity of the scattered light of the laser light detected by the inspection head <b>863</b> is within a predetermined range, it is determined that the coating liquid does not adhere to the end portion of the substrate W. On the other hand, when the intensity of the scattered light is outside the predetermined range, it is determined that the coating liquid adheres to the end portion of the substrate W.</p>
+<p id="p-0276" num="0275">When the coating liquid does not adhere to the end portion of the substrate W, the main controller <b>30</b> stops the rotation of the substrate W by the spin chuck <b>803</b>, to cause the first central robot CR<b>1</b> (<figref idref="DRAWINGS">FIG. 1</figref>) to carry the substrate W out of the coating unit BARC (step S<b>6</b>).</p>
+<p id="p-0277" num="0276">When the coating liquid adheres to the end portion of the substrate W, the main controller <b>30</b> causes the nozzle gripper <b>820</b> to move any one of the stripping liquid supply nozzles <b>811</b> to a predetermined position above the center of the substrate W. The main controller <b>30</b> discharges the stripping liquid onto the substrate W from the stripping liquid supply nozzle <b>811</b> with the rotation of the substrate W maintained (step S<b>7</b>). This causes the coating liquid applied on the substrate W to be removed.</p>
+<p id="p-0278" num="0277">Thereafter, the main controller <b>30</b> scatters the coating liquid and the stripping liquid on the substrate W by increasing the rotational speed of the substrate W, and applies the coating liquid on the substrate W again upon returning to the step S<b>2</b>.</p>
+<p id="p-0279" num="0278">After the coating unit BARC thus applies the coating liquid for the anti-reflection film on the substrate W, the inspection head <b>863</b> inspects the state of the end portion of the substrate W. When the coating liquid adheres to the end portion of the substrate W as a result of the inspection, the coating liquid on the substrate W is removed once, and a coating liquid is applied on the substrate W anew. This allows an anti-reflection film to be formed in a suitable region on the substrate W while keeping the end portion of the substrate W clean.</p>
+<p id="p-0280" num="0279">Note that it is difficult to remove the anti-reflection film from the substrate W after the anti-reflection film on the substrate W is subjected to heat treatment in the thermal processing groups <b>100</b>, <b>101</b>, <b>110</b> and <b>111</b> for anti-reflection film and resist film (<figref idref="DRAWINGS">FIG. 1</figref>). In the present embodiment, the above-mentioned processing is performed before the anti-reflection film is subjected to heat treatment. This allows the anti-reflection film to be reliably removed. Therefore, the end portion of the substrate W can be reliably kept clean.</p>
+<p id="p-0281" num="0280">(E-2-2) Coating Unit RES</p>
+<p id="p-0282" num="0281">The coating unit RES has the same configuration as the coating unit BARC except that a coating liquid for a resist film is used in place of the coating liquid for the anti-reflection film and a stripping liquid for a resist film is used in place of the stripping liquid for the anti-reflection film.</p>
+<p id="p-0283" num="0282">In the coating unit RES, a substrate W is subjected to the same processing as that in the coating unit BARC. Specifically, the coating liquid for the resist film is first applied on the substrate W having an anti-reflection film formed thereon. Then, an inspection head <b>863</b> (see <figref idref="DRAWINGS">FIG. 20</figref>) inspects the state of an end portion of the substrate W. Unless the coating liquid for the resist film adheres to the end portion of the substrate W as a result of the inspection, the substrate W is carried out of the coating unit RES.</p>
+<p id="p-0284" num="0283">On the other hand, if the coating liquid for the resist film adheres to the end portion of the substrate W, the stripping liquid for the resist film is supplied onto the substrate W. In this case, the state of the anti-reflection film on the substrate W is maintained, so that only the coating liquid for the resist film is removed. Thereafter, the coating liquid for the resist film is applied anew on the substrate W, and the inspection head <b>863</b> inspects the end portion of the substrate W again.</p>
+<p id="p-0285" num="0284">This allows the resist film to be formed in a suitable region on the substrate W while keeping the end portion of the substrate W clean.</p>
+<p id="p-0286" num="0285">(E-2-3) Coating Unit COV</p>
+<p id="p-0287" num="0286">The coating unit COV has the same configuration as the coating unit BARC except that a coating liquid for a resist cover film is used in place of the coating liquid for the anti-reflection film and a stripping liquid for a resist cover film is used in place of the stripping liquid for the anti-reflection film.</p>
+<p id="p-0288" num="0287">In the coating unit COV, a substrate W is subjected to the same processing as that in the coating unit BARC. Specifically, the coating liquid for the resist cover film is first applied on the substrate W having an anti-reflection film and a resist film formed thereon. Then, an inspection head <b>863</b> (see <figref idref="DRAWINGS">FIG. 20</figref>) inspects the state of an end portion of the substrate W. Unless the coating liquid for the resist cover film adheres to the end portion of the substrate W as a result of the inspection, the substrate W is carried out of the coating unit COV.</p>
+<p id="p-0289" num="0288">On the other hand, if the coating liquid for the resist cover film adheres to the end portion of the substrate W, the stripping liquid for the resist cover film is supplied onto the substrate W. In this case, the respective states of the anti-reflection film and the resist film on the substrate W are maintained, so that only the coating liquid for the resist cover film is removed. Thereafter, the coating liquid for the resist cover film is applied anew on the substrate W, and the inspection head <b>863</b> inspects the end portion of the substrate W again.</p>
+<p id="p-0290" num="0289">This allows the resist cover film to be formed in a suitable region on the substrate W while keeping the end portion of the substrate W clean.</p>
+<p id="p-0291" num="0290">(E-3) Development Processing Unit DEV</p>
+<p id="p-0292" num="0291">The details of the development processing unit DEV will be then described. <figref idref="DRAWINGS">FIG. 22</figref> is a plan view showing the configuration of the development processing unit DEV, and <figref idref="DRAWINGS">FIG. 23</figref> is a cross-sectional view taken along a line Q-Q of the development processing unit DEV shown in <figref idref="DRAWINGS">FIG. 22</figref>.</p>
+<p id="p-0293" num="0292">As shown in <figref idref="DRAWINGS">FIGS. 22 and 23</figref>, the development processing unit DEV includes a spin chuck <b>901</b> for holding a substrate W in a horizontal attitude by suction. The spin chuck <b>901</b> is secured to a front end of a rotating shaft <b>903</b> in a motor <b>902</b> (<figref idref="DRAWINGS">FIG. 23</figref>), and is rotatable around its vertical axis. A circular inner cup <b>904</b> is movable up and down so as to surround the substrate W around the spin chuck <b>901</b>. A square outer cup <b>905</b> is provided around the inner cup <b>904</b>.</p>
+<p id="p-0294" num="0293">Waiting pods <b>906</b> and <b>907</b> are respectively arranged on both sides of the outer cup <b>905</b>, and a guide rail <b>908</b> is disposed on the outer side of one surface of the outer cup <b>905</b>. Furthermore, a nozzle arm <b>909</b> is provided so as to be movable in a scanning direction A and a direction opposite thereto along the guide rail <b>908</b> by an arm driver <b>910</b>. A rinse liquid discharge nozzle <b>912</b> for cleaning that discharges pure water as a rinse liquid for cleaning is provided so as to be rotatable in a direction indicated by an arrow RI on the outer side of the other surface of the outer cup <b>905</b>.</p>
+<p id="p-0295" num="0294">Furthermore, an inspection head <b>920</b> is arranged on the outer side of the other surface of the outer cup <b>905</b>. The inspection head <b>920</b> is attached to a front end of a rotating arm <b>922</b> rotated by a motor <b>921</b>. The inspection head <b>920</b> has the same configuration as the inspection head <b>863</b> shown in <figref idref="DRAWINGS">FIG. 20</figref>, and irradiates laser light onto an end portion of the substrate W held in the spin chuck <b>901</b> and detects its scattered light to inspect the state of the end portion of the substrate W.</p>
+<p id="p-0296" num="0295">A development liquid discharge nozzle <b>911</b> having a slit-shaped discharge port <b>915</b> (see <figref idref="DRAWINGS">FIG. 23</figref>) at its lower end is attached to the nozzle arm <b>909</b> perpendicularly to the guide rail <b>908</b>. A development liquid supplying system (not shown) supplies a development liquid to the development liquid discharge nozzle <b>911</b>.</p>
+<p id="p-0297" num="0296">When the substrate W is subjected to development processing, the development liquid discharge nozzle <b>911</b> moves to a position within the outer cup <b>905</b> from the position of the waiting pod <b>906</b>. The development liquid discharge nozzle <b>911</b> passes above the substrate W in a stationary state while discharging the development liquid. This causes the development liquid to be held on the whole surface of the substrate W so that the development processing progresses. The development liquid discharge nozzle <b>911</b> moves to a position of the waiting pod <b>907</b>, and then returns to the position of the waiting pod <b>906</b>.</p>
+<p id="p-0298" num="0297">After an elapse of a predetermined time period, the rinse liquid is discharged onto the substrate W from the rinse liquid discharge nozzle <b>912</b>. This causes the development processing on the substrate W to be stopped. Note that the development liquid discharge nozzle <b>911</b> that has returned to the position of the waiting pod <b>906</b> may move above the substrate W while discharging the rinse liquid to stop the development processing on the substrate W.</p>
+<p id="p-0299" num="0298">Thereafter, the substrate W is rotated at high speed, so that the development liquid and the rinse liquid on the substrate W are scattered, to dry the substrate W. This causes the development processing for the substrate W to be terminated. After the termination of the development processing, the inspection head <b>920</b> moves to the vicinity of the end portion of the substrate W. The inspection head <b>920</b> inspects the state of the end portion of the substrate W with the substrate W rotated. The results of the inspection by the inspection head <b>920</b> are given to the main controller shown in <figref idref="DRAWINGS">FIG. 1</figref>. Thereafter, the substrate W is carried out of the development processing unit DEV.</p>
+<p id="p-0300" num="0299">As described above, the substrate W carried out of the development processing unit DEV is stored in the carrier C by the indexer robot IR (<figref idref="DRAWINGS">FIG. 1</figref>) in the indexer block <b>9</b> (<figref idref="DRAWINGS">FIG. 1</figref>).</p>
+<p id="p-0301" num="0300">In the present embodiment, the main controller <b>30</b> (<figref idref="DRAWINGS">FIG. 1</figref>) controls the indexer robot IR on the basis of the results of the inspection by the inspection head <b>920</b> in the development processing unit DEV, so that the substrate W whose end portion is determined to be contaminated and the substrate W whose end portion is determined that it is not contaminated are respectively stored within the separate carriers C.</p>
+<p id="p-0302" num="0301">(E-4) Effect of Fifth Embodiment</p>
+<p id="p-0303" num="0302">In the fifth embodiment, the coating units BARC, RES, and COV respectively coat the substrate W with an anti-reflection film, a resist film, and a resist cover film, and the inspection head <b>863</b> then inspects the state of the end portion of the substrate W. The substrate W is subjected to predetermined processing in accordance with the results of the inspection, to prevent the substrate W from being fed to the subsequent process from the coating units BARC, RES, and COV with the end portion of the substrate W contaminated.</p>
+<p id="p-0304" num="0303">Therefore, the substrate W can be carried into the exposure device <b>16</b> with the end portion thereof kept clean. This can prevent contamination in the exposure device <b>16</b> due to contamination of the end portion of the substrate W. As a result, a defective dimension and a defective shape of an exposure pattern can be prevented.</p>
+<p id="p-0305" num="0304">Furthermore, in each of the coating units, the end portion of the substrate W can be subjected to coating processing in a clean state. Therefore, each of the films can be satisfactorily formed.</p>
+<p id="p-0306" num="0305">In the development processing block DEV, the inspection head <b>920</b> inspects the state of the end portion of the substrate W after development processing. The substrate W whose end portion is determined to be contaminated and the substrate whose end portion is determined that it is not contaminated by the inspection are respectively stored in the separate carriers C. This can prevent the substrate W whose end portion is contaminated from being fed as it is to the subsequent processing process from the substrate processing apparatus <b>500</b>.</p>
+<p id="p-0307" num="0306">(E-5) Modification</p>
+<p id="p-0308" num="0307">(E-5-1)</p>
+<p id="p-0309" num="0308">In the coating units BARC, RES, and COV in the above-mentioned embodiment, when the coating liquid for the anti-reflection film, the resist film, or the resist cover film adheres to the end portion of the substrate W, the whole coating liquid on the substrate W is removed. However, the present invention is not limited to the same. For example, only the coating liquid that adheres to the end portion of the substrate W may be removed.</p>
+<p id="p-0310" num="0309">Specifically, only the coating liquid that adheres to the end portion of the substrate W can be removed with the coating liquid applied to a suitable region on the substrate W left as it is by supplying the stripping liquid to only the end portion of the substrate W from the stripping liquid supply nozzle <b>811</b>. Furthermore, the coating liquid that adheres to the end portion of the substrate W can be also removed by supplying the rinse liquid to the end portion of the substrate W again from the edge rinse nozzle <b>804</b>.</p>
+<p id="p-0311" num="0310">(E-5-2)</p>
+<p id="p-0312" num="0311">A method of removing a coating liquid may be selected depending on the degree of adhesion of the coating liquid to the end portion of the substrate W. For example, as a result of the inspection by the inspection head <b>863</b>, the whole coating liquid on the substrate W is removed by the stripping liquid supply nozzle <b>811</b> when the coating liquid significantly adheres to the end portion of the substrate W, and only the coating liquid that adheres to the end portion of the substrate W is removed by the stripping liquid supply nozzle <b>811</b> or the edge rinse nozzle <b>804</b> when the coating liquid slightly adheres to the end portion of the substrate W.</p>
+<p id="p-0313" num="0312">Note that the stripping liquid supply nozzle <b>811</b> for removing the whole coating liquid on the substrate W and the stripping liquid supply nozzle <b>811</b> for removing only the coating liquid that adheres to the end portion of the substrate W may be separately provided to have different configurations in this case.</p>
+<p id="p-0314" num="0313">For example, the diameter of a discharge port of the stripping liquid supply nozzle <b>811</b> for removing only the coating liquid that adheres to the end portion of the substrate W is set below the diameter of a discharge port of the stripping liquid supply nozzle <b>811</b> for removing the whole coating liquid on the substrate W. In this case, when the whole coating liquid on the substrate is removed, the stripping liquid can be efficiently supplied to the whole surface of the substrate W. On the other hand, when only the coating liquid that adheres to the end portion of the substrate W is removed, the stripping liquid can be supplied to only the end portion of the substrate W more accurately.</p>
+<p id="p-0315" num="0314">(E-5-3)</p>
+<p id="p-0316" num="0315">In each of the coating units BARC, RES, and COV, a plurality of types of coating liquids are used. A plurality of types of stripping liquids may be used so as to respectively correspond to the plurality of types of coating liquids. Specifically, a plurality of types of stripping liquids that differ from one another are respectively supplied to the plurality of stripping liquid supply nozzles <b>811</b>. When the coating liquid on the substrate W is removed, the stripping liquid that can effectively remove the coating liquid is selected. In this case, the coating liquid on the substrate W can be removed reliably and efficiently.</p>
+<p id="p-0317" num="0316">(E-5-4)</p>
+<p id="p-0318" num="0317">As respective modifications of the coating units BARC, RES, and COV, the coating unit BARC will be described as an example using <figref idref="DRAWINGS">FIG. 24</figref>. <figref idref="DRAWINGS">FIG. 24</figref> is a plan view showing the modification of the coating unit BARC. The difference between the coating unit BARC shown in <figref idref="DRAWINGS">FIG. 24</figref> and the coating unit BARC shown in <figref idref="DRAWINGS">FIG. 20</figref> will be described.</p>
+<p id="p-0319" num="0318">The coating unit BARC shown in <figref idref="DRAWINGS">FIG. 24</figref> is provided with a cleaning brush <b>870</b> for cleaning an end portion of a substrate W. The cleaning brush <b>870</b> is held by a holding arm <b>871</b>, and the holding arm <b>871</b> is driven by a driving mechanism (not shown). This causes the cleaning brush <b>870</b> to move in the direction nearer to or away from the end portion of the substrate W held in a spin chuck <b>803</b>.</p>
+<p id="p-0320" num="0319">In the coating unit BARC, when a coating liquid adheres to the end portion of the substrate W as a result of inspection by an inspection head <b>863</b>, the cleaning brush <b>870</b> cleans the end portion of the substrate W. This allows the coating liquid that adheres to the end portion of the substrate W to be removed with the coating liquid applied to a suitable region on the substrate W maintained as it is.</p>
+<p id="p-0321" num="0320">Even when the cleaning brush <b>870</b> is provided in the coating units RES and COV, the same function and effect can be obtained.</p>
+<p id="p-0322" num="0321">Note that the bevel cleaners <b>530</b>, <b>560</b>, and <b>570</b> shown in <figref idref="DRAWINGS">FIGS. 5</figref>, <b>11</b>, <b>12</b>, and <b>13</b> may be also respectively provided in the coating units BARC, RES, and COV.</p>
+<p id="p-0323" num="0322">(E-5-5)</p>
+<p id="p-0324" num="0323">In the fifth embodiment, when it is determined as a result of the inspection by the inspection head <b>863</b> that the coating liquid adheres to the end portion of the substrate W in the coating units BARC, RES, and COV, only the coating liquid applied within the common coating unit is removed. In the coating units RES and COV, however, all the films formed on the substrate W may be removed. In this case, the substrate W is returned to the coating unit BARC from the coating units RES or COV, and films are formed anew, beginning with an anti-reflection film, on the substrate W.</p>
+<p id="p-0325" num="0324">(E-5-6)</p>
+<p id="p-0326" num="0325">Although in the fifth embodiment, each of the coating units BARC, RES, and COV is provided with the inspection head <b>863</b>, only one or two types of the coating units BARC, RES, and COV may be provided with the inspection head <b>863</b>, provided that the end portion of the substrate W can be kept clean.</p>
+<p id="p-0327" num="0326">(E-5-7)</p>
+<p id="p-0328" num="0327">The removal unit REM may be provided with the same inspection device as the inspection heads <b>865</b> and <b>920</b>. In this case, the state of the end portion of the substrate W is inspected after the substrate W is subjected to resist cover film removal processing, and the substrate W whose end portion is determined to be contaminated is subjected to resist cover film removal processing again.</p>
+<p id="p-0329" num="0328">This prevents the substrate W from being fed to the subsequent process with a residue of the resist cover film adhering to the end portion thereof. Therefore, the development processing in the development processing unit DEV can be satisfactorily performed.</p>
+<heading id="h-0011" level="1">(F) ANOTHER EMBODIMENT</heading>
+<p id="p-0330" num="0329">A bevel portion inspection unit EE may be provided within an anti-reflection film processing block <b>10</b>, a resist film processing block <b>11</b>, a development processing block <b>12</b>, a resist cover film processing block <b>13</b>, or a resist cover film removal block <b>14</b>.</p>
+<p id="p-0331" num="0330">First and second cleaning/drying processing units SD<b>1</b> and SD<b>2</b> are not limited to an interface block <b>15</b>. For example, they may be provided in another processing block such as the resist cover film removal block <b>14</b>.</p>
+<p id="p-0332" num="0331">Another inspection unit such as a film thickness inspection unit FF<b>1</b> may be provided with the function of a bevel portion inspection unit EE.</p>
+<p id="p-0333" num="0332">The respective numbers of bevel portion inspection units EE, first cleaning/drying processing units SD<b>1</b>, drying processing units SD<b>2</b>, coating units BARC, RES, and COV, development processing units DEV, removal units REM, heating units FP, cooling units CP, placement/cooling units P-CP, film thickness inspection units FE<b>1</b>, line width inspection units FE<b>2</b>, and overlay inspection units FE<b>3</b> are suitably changed depending on the processing speed of each of the processing blocks.</p>
+<heading id="h-0012" level="1">(G) CORRESPONDENCES BETWEEN CONSTITUENT ELEMENTS IN THE CLAIMS AND PARTS IN EMBODIMENTS</heading>
+<p id="p-0334" num="0333">In the following paragraphs, non-limiting examples of correspondences between various elements recited in the claims below and those described above with respect to various preferred embodiments of the present invention are explained.</p>
+<p id="p-0335" num="0334">In the embodiments described above, the indexer block <b>9</b>, the anti-reflection film processing block <b>10</b>, the resist film processing block <b>11</b>, the development processing block <b>12</b>, the resist cover film processing block <b>13</b>, the resist cover film removal block <b>14</b>, the bevel portion inspection block <b>31</b>, and the inspection blocks <b>32</b> and <b>33</b> are examples of a processing section, the interface block <b>15</b> is an example of an interface, the main controller <b>30</b> is an example of a controller, and the bevel portion inspection unit EE is an example of a bevel portion inspection device.</p>
+<p id="p-0336" num="0335">The first cleaning/drying processing unit SD<b>1</b> is an example of a cleaning processing unit, the bevel cleaner <b>530</b> is an example of a bevel portion cleaning mechanism, the alarm buzzer or the alarm lamp is an example of an alarm generation device, the coating units BARC, RES, and COV are examples of a film formation unit, the carrier C is an example of a storing container, and the indexer robot IR is an example of a transport device.</p>
+<p id="p-0337" num="0336">The coating unit BARC, RES, and COV, the development processing unit DEV, and the removal unit REM are examples of a processing unit, the inspection head <b>863</b> and <b>920</b> are examples of an end portion inspection device, the coating units BARC, RES, and COV are examples of a film formation processing unit, the coating liquid supply nozzle <b>810</b> is an example of a processing liquid supplier, the stripping liquid supply nozzle <b>811</b> and the edge rinse nozzle <b>804</b> are examples of a processing liquid remover.</p>
+<p id="p-0338" num="0337">Furthermore, the coating unit RES is an example of a photosensitive film formation unit, the coating unit BARC is an example of an anti-reflection film formation unit, and the coating unit COV is an example of a protective film formation unit.</p>
+<p id="p-0339" num="0338">As each of various elements recited in the claims, various other elements having configurations or functions described in the claims can be also used.</p>
+<p id="p-0340" num="0339">While preferred embodiments of the present invention have been described above, it is to be understood that variations and modifications will be apparent to those skilled in the art without departing the scope and spirit of the present invention. The scope of the present invention, therefore, is to be determined solely by the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A substrate processing apparatus disposed adjacent to an exposure device, the substrate processing apparatus comprising:
+<claim-text>a processing section for subjecting a substrate to processing;</claim-text>
+<claim-text>an interface provided adjacent to one end of the processing section for receiving and transferring the substrate between the processing section and the exposure device; and</claim-text>
+<claim-text>a controller that controls the respective operations of the processing section and the interface,</claim-text>
+<claim-text>wherein at least one of the processing section or the interface includes a bevel portion inspection device that inspects the state of a bevel portion of the substrate to determine whether or not the bevel portion of the substrate is contaminated; and</claim-text>
+<claim-text>the controller performs a first control operation when the bevel portion inspection device determines that the bevel portion of the substrate is contaminated and performs a second control operation when the bevel portion inspection device determines that the bevel portion of the substrate is not contaminated.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The substrate processing apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein:
+<claim-text>the bevel portion inspection device inspects the bevel portion of the substrate before exposure processing by the exposure device; and</claim-text>
+<claim-text>the controller controls the interface such that the substrate is not transported to the exposure device as the first control operation when the bevel portion inspection device determines that the bevel portion of the substrate is contaminated before the exposure processing.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The substrate processing apparatus according to <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein:
+<claim-text>at least one of the processing section or the interface includes a cleaning processing unit that subjects the substrate to cleaning processing before the exposure processing by the exposure device;</claim-text>
+<claim-text>the bevel portion inspection device inspects the bevel portion of the substrate after the cleaning processing by the cleaning processing unit; and</claim-text>
+<claim-text>the controller controls at least one of the processing section or the interface such that the substrate is not transported to said exposure device as the first control operation when the bevel portion inspection device determines that the bevel portion of the substrate is contaminated after the cleaning processing.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The substrate processing apparatus according to <claim-ref idref="CLM-00003">claim 3</claim-ref> wherein the controller controls at least one of the processing section or the interface such that the substrate is subjected to the cleaning processing by said cleaning processing unit again as the first control operation when the bevel portion inspection device determines that the bevel portion of the substrate is contaminated.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The substrate processing apparatus according to <claim-ref idref="CLM-00003">claim 3</claim-ref> wherein the cleaning processing unit includes a bevel portion cleaning mechanism for cleaning the bevel portion of the substrate.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The substrate processing apparatus according to <claim-ref idref="CLM-00002">claim 2</claim-ref> further comprising:
+<claim-text>an alarm generation device that generates an alarm in accordance with the control operation of the controller;</claim-text>
+<claim-text>wherein the bevel portion inspection device inspects the bevel portion of the substrate after exposure processing by the exposure device; and</claim-text>
+<claim-text>the controller controls the alarm generation device so as to generate the alarm as the first control operation when the bevel portion inspection device determines that the bevel portion of the substrate is contaminated after the exposure processing.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The substrate processing apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein:
+<claim-text>the processing section includes a film formation unit that subjects the substrate to film formation processing before exposure processing by the exposure device;</claim-text>
+<claim-text>the bevel portion inspection device inspects the bevel portion of the substrate before film formation processing by the film formation unit; and</claim-text>
+<claim-text>the controller controls the processing section such that the substrate is not subjected to the film formation processing by the film formation unit as the first control operation when the bevel portion inspection device determines that the bevel portion of the substrate is contaminated before the film formation processing.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The substrate processing apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising:
+<claim-text>a transport device that transports the substrate between the processing section and a plurality of storage containers in accordance with the control operation of the controller,</claim-text>
+<claim-text>wherein the processing section includes a development processing unit that subjects the substrate to development processing after exposure processing by the exposure device;</claim-text>
+<claim-text>wherein the bevel portion inspection device inspects the bevel portion of the substrate after development processing by the development processing unit; and</claim-text>
+<claim-text>the controller controls the transport device such that the substrate is stored in one of the plurality of storage containers as the first control operation when the bevel portion inspection device determines that the bevel portion of the substrate is contaminated after development processing, while controlling said transport device such that the substrate is stored in another one of the plurality of storage containers as the second control operation when the bevel portion inspection device determines that the bevel portion is not contaminated.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A substrate processing apparatus disposed adjacent to an exposure device, the substrate processing apparatus comprising:
+<claim-text>a processing section having a processing unit that subjects a substrate to processing;</claim-text>
+<claim-text>an interface disposed adjacent to one end of the processing section for receiving and transferring the substrate between the processing section and the exposure device; and</claim-text>
+<claim-text>a controller that controls the respective operations of the processing section and the interface,</claim-text>
+<claim-text>wherein the processing unit has an end portion inspection device that inspects the end portion of the substrate after the substrate is subjected to predetermined processing; and</claim-text>
+<claim-text>the controller determines whether or not the end portion of the substrate is in a good state based on results of the inspection by the end portion inspection device, to perform a first control operation when the end portion of the substrate is in the good state, while performing a second control operation when the end portion of the substrate is not in a good state.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The substrate processing apparatus according to <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein:
+<claim-text>the processing unit includes a film formation processing unit that subjects the substrate to film formation processing before exposure processing by the exposure device,</claim-text>
+<claim-text>the film formation processing unit including:
+<claim-text>a processing liquid supplier that dispenses a processing liquid onto the substrate for film formation processing, and</claim-text>
+<claim-text>a processing liquid remover that removes the processing liquid dispensed onto the substrate by the processing liquid supplier, and</claim-text>
+</claim-text>
+<claim-text>the end portion inspection device inspects the end portion of the substrate after the processing liquid supplier dispenses the processing liquid onto the substrate in the film formation processing unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The substrate processing apparatus according to <claim-ref idref="CLM-00010">claim 10</claim-ref> wherein the controller uses results of the inspection by the end portion inspection device in the film formation processing unit to determine when the processing liquid does not adhere to the end portion of the substrate and when the processing liquid adheres to the end portion of the substrate and performs the second control operation to control the processing liquid supplier and the processing liquid remover so as to remove the processing liquid supplied onto the substrate and supply the processing liquid onto the substrate again when the processing liquid adheres to the end portion of the substrate.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The substrate processing apparatus according to <claim-ref idref="CLM-00010">claim 10</claim-ref> wherein the controller uses the results of the inspection by the end portion inspection device in the film formation processing unit to determine when the processing liquid does not adhere to the end portion of the substrate and when the processing liquid adheres to the end portion of the substrate and performs the second control operation to control the processing liquid remover so as to remove the processing liquid that adheres to the end portion of the substrate as when the processing liquid adheres to the end portion of the substrate.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The substrate processing apparatus according to <claim-ref idref="CLM-00010">claim 10</claim-ref> wherein the film formation processing unit includes a photosensitive film formation unit that forms a photosensitive film on the substrate.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The substrate processing apparatus according to <claim-ref idref="CLM-00013">claim 13</claim-ref> wherein the film formation processing unit further includes an anti-reflection film formation unit that forms an anti-reflection film on the substrate before the photosensitive film formation unit forms the photosensitive film.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The substrate processing apparatus according to <claim-ref idref="CLM-00013">claim 13</claim-ref> wherein the film formation processing unit further includes a protective film formation unit that forms a protective film on the substrate for protecting the photosensitive film formed by the photosensitive film formation unit.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The substrate processing apparatus according to <claim-ref idref="CLM-00009">claim 9</claim-ref> further comprising:
+<claim-text>a transport device that transports the substrate between the processing section and a plurality of storage containers in accordance with the control operation of the controller,</claim-text>
+<claim-text>wherein the processing unit includes a development processing unit that subjects the substrate after exposure processing by the exposure device to development processing; and</claim-text>
+<claim-text>the end portion inspection device inspects the end portion of the substrate after development processing by the development processing unit; and</claim-text>
+<claim-text>the controller uses results of the inspection by the end portion inspection device after development processing to determine whether or not the end portion of the substrate is in the good state and performs the first control operation to control the transport device such that the substrate is stored in one of the plurality of storage containers when the end portion of the substrate is in the good state, and performs the second control operation to control the transport device such that the substrate is stored in another one of the plurality of storage containers when the end portion of the substrate is not in the good state. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

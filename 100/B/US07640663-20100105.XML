@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640663-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640663</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10542537</doc-number>
+<date>20040123</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2003-016616</doc-number>
+<date>20030124</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>782</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>23</class>
+<subclass>P</subclass>
+<main-group>15</main-group>
+<subgroup>16</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 2989662</main-classification>
+<further-classification> 298966</further-classification>
+<further-classification> 55487</further-classification>
+<further-classification>228  51</further-classification>
+<further-classification>2282341</further-classification>
+</classification-national>
+<invention-title id="d0e71">Filter member producing method</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2271662</doc-number>
+<kind>A</kind>
+<name>Rubissow</name>
+<date>19420200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3920170</doc-number>
+<kind>A</kind>
+<name>Colburn et al.</name>
+<date>19751100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>228  51</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5308370</doc-number>
+<kind>A</kind>
+<name>Kraft et al.</name>
+<date>19940500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 55487</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>DE</country>
+<doc-number>2720278</doc-number>
+<kind>A1</kind>
+<date>19781100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>JP</country>
+<doc-number>01-293112</doc-number>
+<date>19891100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>JP</country>
+<doc-number>05-253423</doc-number>
+<date>19931000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>JP</country>
+<doc-number>06-055991</doc-number>
+<date>19940300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>JP</country>
+<doc-number>09-226507</doc-number>
+<date>19970900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>JP</country>
+<doc-number>11-348712</doc-number>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>JP</country>
+<doc-number>2002-536152</doc-number>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>JP</country>
+<doc-number>2001-29717</doc-number>
+<date>20010200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>JP</country>
+<doc-number>2001-171472</doc-number>
+<date>20010600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>JP</country>
+<doc-number>2002-306914</doc-number>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2004/000634</doc-number>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2004/064979</doc-number>
+<kind>A1</kind>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00016">
+<othercit>Supplementary European Search Report under Article 157(2)(a) issued on Mar. 21, 2007, for Application No. 04704770.9-1213 PCT/JP2004/000634.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00017">
+<othercit>Japan Powder Metallurgy Association, &#x201c;General Remarks on Powder Metallurgy, Sintering Mechanism,&#x201d; Nikkan Kogyo Shinbunsha, Mar. 25, 1964, p. 138-141.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>10</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 2989662</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2282341</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>228  51</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>280741</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 55487</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>3</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060112559</doc-number>
+<kind>A1</kind>
+<date>20060601</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hirata</last-name>
+<first-name>Yuichi</first-name>
+<address>
+<city>Nagoya</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Suzuki</last-name>
+<first-name>Hironobu</first-name>
+<address>
+<city>Nagoya</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Carstens &#x26; Cahoon LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Chuo Hatsujo Kabushiki Kaisha</orgname>
+<role>03</role>
+<address>
+<city>Nagoya-shi, Aichi-ken</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Chang</last-name>
+<first-name>Rick K</first-name>
+<department>3726</department>
+</primary-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2004/000634</doc-number>
+<kind>00</kind>
+<date>20040123</date>
+</document-id>
+<us-371c124-date>
+<date>20050718</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2004/064979</doc-number>
+<kind>A </kind>
+<date>20040805</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method for fabricating a filtering member in which overlapping portions of a wire are bonded together in a layered manner through thermal treatment for forming a mesh is disclosed. In accordance with the method, a contact surface pressure between portions of the wire to be bonded together is maintained as equal to or higher than a predetermined level set depending on a thermal treatment condition. In this state, the thermal treatment is conducted such that a bonding portion of the wire has a strength equal to or greater than 4N.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="81.03mm" wi="237.91mm" file="US07640663-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="230.29mm" wi="145.54mm" file="US07640663-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="184.91mm" wi="164.08mm" orientation="landscape" file="US07640663-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="248.50mm" wi="168.32mm" orientation="landscape" file="US07640663-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention relates to fabrication methods for a filtering member in which a wire arranged in a layered manner is bonded integrally for forming a mesh, such as a coil type filter, which is, for example, a filter used in an airbag inflator.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Conventionally, a vehicle is provided with an airbag device, which inflates a bag by quickly supplying gas when a rapid deceleration occurs due to, for example, a car crash. The airbag device includes an inflator for quickly supplying gas when the device is activated and a bag inflated by the gas from the inflator for protecting passengers. The inflator incorporates an igniter, a gas generating agent burned in an explosive-like manner by the heat generated by the igniter, and a filter. The filter collects and cools solid or liquid residue contained in hot gas generated through combustion of the gas generating agent. The filter is configured normally by a coil type filter, which is formed by winding a circular wire or a deformed wire, such as a square wire, formed of metal (hereinafter, referred to as &#x201c;a wire&#x201d;) in a layered manner for defining a meshed cylindrical body. When gas or liquid passes through the mesh defined by the wire, the substance is cooled and filtered by the coil type filter such that a residue is recovered.</p>
+<p id="p-0004" num="0003">After winding the wire of this type of filter, overlapping portions of the wire are bonded together by, normally, thermal treatment (sintering). In this manner, the filtration performance of the filter is maintained by preventing the mesh from being deformed due to expansion of the wire or an impact caused by the gas passing through the mesh.</p>
+<p id="p-0005" num="0004">Particularly, a filter serving as a filtering member for an airbag is exposed to extremely hot gas. It is thus necessary to employ a bonding method that ensures a relatively high bonding strength. Therefore, for improving the bonding strength, it has been proposed that the sintering be conducted at a higher temperature, or for a prolonged time, or in a modified atmosphere (see Japanese Laid-Open Patent Publication No. 2001-171472).</p>
+<p id="p-0006" num="0005">However, in accordance with the fabrication method for a filter for an airbag inflator described in the aforementioned publication, it is necessary to modify the corresponding equipment for obtaining a higher sintering temperature or changing the sintering atmosphere. Such modification requires a relatively large cost, thus increasing the manufacturing cost. Further, the prolonged processing time decreases productivity.</p>
+<p id="p-0007" num="0006">Accordingly, in order to solve the aforementioned problems of the prior art, it is an objective of the present invention to provide a fabrication method for a filtering member by which the bonding strength of a wire forming a mesh is improved with relatively low cost and relatively high efficiency.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">In order to solve the aforementioned problem, an embodiment of the present invention provides a method for fabricating a filtering member in which overlapping portions of a wire are bonded together in a layered manner through thermal treatment for forming a mesh. In accordance with the method, a contact surface pressure between portions of the wire to be bonded together is maintained as equal to or higher than a predetermined level set depending on a thermal treatment condition. In this state, the thermal treatment is conducted such that a bonding portion of the wire has a strength equal to or greater than 4 N (4 Newtons).</p>
+<p id="p-0009" num="0008">It is desirable that, when a thermal treatment temperature and a thermal treatment time are specified as the thermal treatment condition, the thermal treatment is performed such that the following inequality is satisfied:
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>4<i>&#x2266;C</i>1&#xd7; exp(&#x2212;<i>C</i>2<i>/T</i>)&#xd7;(<i>t/T</i>)<sup>0.4</sup><i>&#xd7;P&#xd7;b</i><sup>2</sup><i>&#xd7;n </i><?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0010" num="0009">T: thermal treatment temperature, t: thermal treatment time, P: contact surface pressure, b: lateral contact dimension between contact portions of the wire, n: number of bonding portions of the wire;</p>
+<p id="p-0011" num="0010">C1, C2 are coefficients; C1=4,105, C2=9,000.</p>
+<p id="p-0012" num="0011">It is desirable that the filtering member be a coil type filter in which the wire is wound in a layered manner for forming a mesh and that the contact surface pressure be reliably produced by tension applied to the wire during winding of the wire.</p>
+<p id="p-0013" num="0012">It is desirable that a winding end of the wire be fixed while maintaining the tension applied to the wire during winding of the wire in a state acting on the wire. It is also desirable that the contact surface pressure be adjusted by changing the tension applied to the wire during winding of the wire.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 1</figref> is a cross-sectional view showing an inflator;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 2(</figref><i>a</i>) is a perspective view showing a filter;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 2(</figref><i>b</i>) is an enlarged view showing a portion of the filter;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 3</figref> is a graph showing variation of the pressure generated in a chamber as time elapses; and</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 4</figref> is a graph showing contact surface pressure versus bonding strength between bonding portions of a wire.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0019" num="0018">A fabrication method for an airbag inflator filter (a filtering member) incorporated in an inflator of an airbag device according to one embodiment of the present invention will now be described with reference to <figref idref="DRAWINGS">FIGS. 1 to 4</figref>.</p>
+<p id="p-0020" num="0019">As shown in <figref idref="DRAWINGS">FIG. 1</figref>, in the illustrated embodiment, a detonator <b>11</b> and a burnable igniter <b>12</b> are installed in a middle portion of an inflator <b>10</b> of the airbag device. The detonator <b>11</b> is activated in response to an activation signal from a sensor (not shown). A chamber portion <b>13</b> is defined around the outer circumference of the detonator <b>11</b> and that of the igniter <b>12</b>. The chamber portion <b>13</b> receives the heat generated through activation of the detonator <b>11</b> and resulting combustion of the igniter <b>12</b>. A gas generating agent <b>14</b> is installed in the chamber portion <b>13</b>. The gas generating agent <b>14</b> generates a relatively large amount of gas when burned in an explosion-like manner by the heat generated through the activation of the detonator <b>11</b> and the combustion of the igniter <b>12</b>. The generated gas is then supplied to a bag (not shown) of the airbag device.</p>
+<p id="p-0021" num="0020">A filter <b>15</b> is arranged in the inflator <b>10</b> and encompasses the chamber portion <b>13</b>. The filter <b>15</b> functions as a cooling member for cooling the hot gas generated through combustion of the gas generating agent <b>14</b> and supplying the gas and as a filtering member for recovering solid residue contained in the gas.</p>
+<p id="p-0022" num="0021">With reference to <figref idref="DRAWINGS">FIGS. 2(</figref><i>a</i>) and <b>2</b>(<i>b</i>), in order to fabricate the filter <b>15</b>, a circular wire or a deformed wire, such as a square wire, formed of metal (hereinafter, referred to as &#x201c;a wire&#x201d;) <b>16</b> is wound around a cylindrical bobbin (not shown) for defining a mesh. The bobbin is then removed such that the filter <b>15</b> is shaped like a hollow cylinder. In the filter <b>15</b> of the illustrated embodiment, a wire material formed mainly of iron (having a cross-sectional area of 0.2 mm<sup>2</sup>) is employed as the wire <b>16</b>. The wire <b>16</b> is wound around the outer circumferential surface of the bobbin for 500 cycles, thus defining a mesh. The filter <b>15</b> has a hollow cylindrical shape with an outer diameter of &#x3c6;60 mm and an inner diameter of &#x3c6;50 mm.</p>
+<p id="p-0023" num="0022">Accordingly, when a relatively large amount of hot gas passes through the gaps of the mesh formed by the wire <b>16</b>, the filter <b>15</b> is allowed to cool the gas and recover solid residue contained in the gas. Further, in the illustrated embodiment, the winding pitch of the wire <b>16</b> is defined as a pitch C, the angle between the crossing portions of the wire <b>16</b> is defined as a crossing angle &#x3b8;, the dimension of the wire <b>16</b> in the bobbin axial direction is defined as a winding dimension L, and the crossing portions of the wire <b>16</b> are referred to as a contact portion S, referring to <figref idref="DRAWINGS">FIGS. 2(</figref><i>a</i>) and <b>2</b>(<i>b</i>).</p>
+<p id="p-0024" num="0023">The fabrication method for the filter <b>15</b> will be explained in detail as follows. First, the wire <b>16</b> is wound around the outer circumferential surface of the bobbin in a crisscross manner, with a predetermined level of tension applied to the wire <b>16</b>, such that a mesh is formed by the wire <b>16</b>. The wire <b>16</b> may be wound around the bobbin by moving the wire <b>16</b> in the axial direction of the bobbin or moving the shaft of the bobbin in the bobbin's axial direction. Regarding the filter <b>15</b>, the pitch C, the winding dimension L, the crossing angle &#x3b8; of the wire <b>16</b> are obtained through computer simulation. The filter <b>15</b> is thus fabricated in accordance with the optimal values of these parameters. In this manner, the mesh pattern or the winding density are set as desired, such that various types of meshes may be formed depending on different requirements for the filtering function.</p>
+<p id="p-0025" num="0024">When winding of the wire <b>16</b> is completed, a winding end <b>17</b> of the wire <b>16</b> is joined (bonded) with an adjacent winding portion through welding or the like, with the tension continuously applied to the wire <b>16</b>. The bobbin is then removed from the wire <b>16</b>, thus producing an unfinished, hollow cylindrical filter that has yet to be thermally treated. Subsequently, for bonding the contact portions S of the wire <b>16</b>, the wire <b>16</b> is thermally treated and sintered, such that a coil type filter <b>15</b> shaped as shown in <figref idref="DRAWINGS">FIG. 2(</figref><i>a</i>) is completed.</p>
+<p id="p-0026" num="0025">If the filter <b>15</b> is used as a filtering member for an airbag, the filter <b>15</b> is exposed to extremely hot gas (at approximately 2,200 degrees Celsius). It is thus necessary to bond the contact portions S together with a relatively high bonding strength. Accordingly, for meeting such necessity, certain conditions are set in fabrication of the filter <b>15</b> in accordance with the illustrated embodiment. These conditions will be explained as follows.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 3</figref> is a graph representing the pressure variation in the chamber portion <b>13</b> in the inflator <b>10</b> as time elapses when the airbag is actuated. The graph of <figref idref="DRAWINGS">FIG. 3</figref> indicates that the pressure in the chamber portion <b>13</b> reaches a maximum level, approximately 4 MPa, immediately after actuation of the airbag. Since the filter <b>15</b> is arranged in the chamber portion <b>13</b>, the bonding strength of the contact portions S of the filter <b>15</b> must be sufficiently high for tolerating the pressure of approximately 4 MPa.</p>
+<p id="p-0028" num="0027">By the following equation (1), a tension &#x3c3; applied to a single section of a wire of a coil type filter formed by winding a wire such as a metal line around the outer circumferential surface of a cylindrical bobbin, like the filter <b>15</b>, is determined:
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>&#x3c3;=&#x3b3;<sub>2</sub><sup>2</sup><i>P</i>1/(&#x3b3;<sub>1</sub><sup>2</sup>&#x2212;&#x3b3;<sub>2</sub><sup>2</sup>)&#xd7;(&#x3b3;<sub>1</sub><sup>2</sup>/&#x3b3;<sup>2</sup>+1)&#xd7;<i>Z</i>&#x2003;&#x2003;(1)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0029" num="0028">In this equation, &#x3c3; represents the tension applied to the single wire section, P<b>1</b> represents the interior pressure acting on the filter, &#x3b3;<sub>1 </sub>is the outer diameter of the filter, &#x3b3;<sub>2 </sub>is the inner diameter of the filter, &#x3b3; is the radius of the filter (&#x3b3;<sub>2</sub>&#x2266;&#x3b3;&#x2266;&#x3b3;<sub>1</sub>), and Z represents the cross-sectional area of the wire.</p>
+<p id="p-0030" num="0029">It can be considered that the equation (1) represents the tension applied to a single section of the wire <b>16</b> when the gas generating agent <b>14</b> is burned. Thus, by applying the values representing the specification of the filter <b>15</b> (the wire cross-sectional area: 0.2 mm<sup>2</sup>, the number of winding cycles: 500, the outer diameter: (&#x3c6;60, the inner diameter: (&#x3c6;50) to the equation (1), a value &#x3c3; substantially equal to 4 N is obtained. It is thus understood that a load of about 4 N acts on the single section of the wire <b>16</b> of the filter <b>15</b> as the tension, when the airbag is actuated.</p>
+<p id="p-0031" num="0030">Therefore, in order to prevent the bonding of the different sections of the wire <b>16</b> from loosening when the airbag is actuated, the bonding strength must be sufficiently high for producing resistance against a load of about 4 N. In other words, it is required that sintering be performed while the contact surface pressure of each of the contact portions S is maintained as equal to or higher than a predetermined level corresponding to sintering conditions, such that the bonding strength of the bonding portions of the wire <b>16</b>, which defines the mesh, is equal to or higher than 4 N.</p>
+<p id="p-0032" num="0031">As is broadly known, sintering of a metal line, which corresponds to the wire <b>16</b>, is brought about by diffusion of atoms configuring the metal line toward a bonding point. The following equation (2) representing sintering through internal diffusion is thus selected:
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>x</i><sup>5</sup><i>/a</i><sup>2</sup>=10<i>&#x3b3;VD</i><sub>v</sub><i>t/RT</i>&#x2003;&#x2003;(2)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0033" num="0032">In this equation, x represents the radius of a substantially circular contact surface formed through sintering of the metal line or a half of the lateral dimension of a strip-like contact surface if the contact surface obtained through sintering is developed in a strip-like shape, a represents the radius of the metal line, &#x3b3; represents the surface tension of the metal line, V represents the volume of 1 mol of the metal line, D<sub>V </sub>represents the diffusion coefficient in sintering, t represents the sintering time, R represents the gas constant (1.987 cal/degree), and T represents the sintering temperature (the absolute temperature). The equation (2) was obtained with reference to pages 138 to 141 of &#x201c;General Remarks on Powder Metallurgy&#x2022;Sintering Mechanism&#x201d; (published by Nikkan Kogyo Shinbunsha, Mar. 25, 1964).</p>
+<p id="p-0034" num="0033">Further, by conducting tests, the following equation (3) related to the bonding strength F, the sintering temperature T, the sintering time t, the contact surface pressure P between the bonded sections of the wire <b>16</b>, the lateral contact dimension between the contact portions S of the wire <b>16</b>, and the number n of the bonding portions of the wire <b>16</b> was obtained:
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>F=C</i>1 exp (&#x2212;<i>C</i>2<i>/T</i>)&#xd7;(<i>t/T</i>)<sup>0.4</sup><i>&#xd7;P&#xd7;b</i><sup>2</sup><i>&#xd7;n</i>&#x2003;&#x2003;(3)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0035" num="0034">In this equation, C1 and C2 each represent a coefficient and satisfy the following: C1=4105, C2=9000.</p>
+<p id="p-0036" num="0035">The coefficients C1, C2 are determined based on the assumption that the squared value of x (the radius of the contact surface and the like) of the equation (2) corresponds to the bonding area (or the bonding strength) brought about through sintering of the contact portions S of the filter <b>15</b>, in accordance with the graph of <figref idref="DRAWINGS">FIG. 4</figref> representing the relationship between the bonding strength between the bonding portions of the wire <b>16</b> and the contact surface pressure between the bonding portions of the wire <b>16</b>.</p>
+<p id="p-0037" num="0036">The graph of <figref idref="DRAWINGS">FIG. 4</figref> shows the results of the test that has been conducted for determining the relationship between the contact surface pressure and the bonding strength between the bonding portions of the wire <b>16</b>, representing the relationship between the bonding strength between the bonding portions of the wire <b>16</b> and the contact surface pressure between the bonding portions of the wire <b>16</b> in accordance with sintering conditions (temperature&#xd7;time) when the number n of the bonding portion of the wire <b>16</b> corresponds to one. More specifically, in the graph, the relationship between the bonding strength between the bonding portions of the wire <b>16</b> and the contact surface pressure between the bonding portions of the wire <b>16</b> in accordance with a first sintering condition (1,100 degrees Celsius&#xd7;30 minutes) is represented by the solid line (a) and such relationship in accordance with a second sintering condition (1,100 degrees Celsius&#xd7;10 minutes) is represented by the solid line (b). Further, the relationship between the bonding strength between the bonding portions of the wire <b>16</b> and the contact surface pressure between the bonding portions of the wire <b>16</b> in accordance with a third sintering condition (1,000 degrees Celsius&#xd7;30 minutes) is represented by the solid line (c) and such relationship in accordance with a fourth sintering condition (1,000 degrees Celsius&#xd7;10 minutes) is represented by the solid line (d).</p>
+<p id="p-0038" num="0037">Since the bonding strength F between the bonding portions of the wire <b>16</b> of the filter <b>15</b> must be equal to or higher than 4 N for reaching a sufficient level, the filter <b>15</b> should be fabricated such that the condition represented by the following equation (4), which is obtained from the test equation (3), is satisfied:
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>4<i>&#x2266;C</i>1&#xd7; exp(&#x2212;<i>C</i>2<i>/T</i>)&#xd7;(<i>t/T</i>)<sup>0.4</sup><i>&#xd7;P&#xd7;b</i><sup>2</sup><i>&#xd7;n</i>&#x2003;&#x2003;(4)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0039" num="0038">Regarding the equation (4), T, t, P, b, n, C1, and C2 are defined in the same manner as those of the equation (3).</p>
+<p id="p-0040" num="0039">Based on the equation (4) and <figref idref="DRAWINGS">FIG. 4</figref>, the following is understood. That is, in the case of the first sintering condition (1,100 degrees Celsius&#xd7;30 minutes) of <figref idref="DRAWINGS">FIG. 4</figref>, a filter <b>15</b> having a bonding strength F equal to or higher than 4 N is obtained by setting the contact surface pressure to 0.25 N/mm<sup>2 </sup>or higher. If the contact surface pressure is set to 0.39 N/mm<sup>2 </sup>or higher, a filter <b>15</b> having a bonding strength F equal to or higher than 4 N can be obtained while improving productivity, as in the case of the second sintering condition (1,100 degrees Celsius&#xd7;10 minutes). Likewise, if the contact surface pressure is set to 0.39 N/mm<sup>2 </sup>or higher, a filter <b>15</b> having a bonding strength F equal to or higher than 4 N can be obtained at a sintering temperature lower than that of the first sintering condition, as in the case of the third sintering condition (1,000 degrees Celsius&#xd7;30 minutes).</p>
+<p id="p-0041" num="0040">Further, if the contact surface pressure is set to 0.62 N/mm<sup>2 </sup>or higher, a filter <b>15</b> having a bonding strength F equal to or higher than 4 N can be obtained at a relatively low sintering temperature with improved productivity, as in the case of the fourth sintering condition (1,000 degrees Celsius&#xd7;10 minutes).</p>
+<p id="p-0042" num="0041">Accordingly, in a filter <b>15</b> in which the overlapping portions (the contact portions S) of the wire <b>16</b> are bonded together through sintering in a layered manner for defining a mesh, it is indicated that the level of the surface pressure (the contact surface pressure) between the bonding portions of the wire <b>16</b>, as well as the sintering conditions including the sintering temperature, is an important factor for determining the bonding strength. For applying the contact surface pressure to each of the contact portions S, a tapered jig may be inserted into the hollow shaft portion of the filter <b>15</b> when sintering is performed such that the crossing portions of the wire <b>16</b> are held in contact as pressed together. However, in a coil type filter formed by winding the wire <b>16</b> around a bobbin, such as the filter <b>15</b> of the illustrated embodiment, the contact surface pressure can be produced by the tension applied to the wire <b>16</b> during winding. The contact surface pressure is thus ensured relatively easily.</p>
+<p id="p-0043" num="0042">The following equation (5) represents the relationship between the contact surface pressure between the bonding portions of the wire <b>16</b> and the tension in the case of the illustrated embodiment.
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>P</i>=&#x3c3;/(<i>r&#xd7;b</i>)&#x2003;&#x2003;(5)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0044" num="0043">In the equation (5), P represents the contact surface pressure (N/mm<sup>2</sup>) between the wire bonding portions, &#x3c3; represents the tension (N) acting on a single section of the wire <b>16</b>, r represents the winding radius (mm) of the wire <b>16</b>, and b represents the lateral contact dimension (mm) between the bonding portions of the wire <b>16</b>.</p>
+<p id="p-0045" num="0044">As is understood from the equation (5), if a coil type filter <b>15</b> is fabricated with tension applied to the wire <b>16</b>, the tension applied to the wire <b>16</b> during winding is a factor related to the contact surface pressure of the contact portions S. In other words, as the tension &#x3c3; applied during winding becomes larger, the contact surface pressure P becomes higher. In contrast, as the tension &#x3c3; applied during winding becomes smaller, the contact surface pressure P becomes lower. For example, if it is required that the contact surface pressure between the bonding portions of the wire <b>16</b> is set to 0.62 N/mm<sup>2 </sup>or higher, the tension &#x3c3; obtained by the equation (5) is 9.61 N when the lateral contact dimension b is 0.5 mm and the winding radius r is 31 mm. However, since the actual process temperature is extremely high, the tension &#x3c3; as a whole cannot act as the contact surface pressure. Also, the actual number n of the bonding portions of the wire <b>16</b> cannot be one. With these conditions considered, it is known that the actually obtained effect corresponds to at least 60% of the computed value. Thus, by setting the tension a applied to the wire <b>16</b> during winding to 16 N or larger, the contact surface pressure at each of the contact portions S of the wire <b>16</b> can be set to 0.62 N/mm<sup>2 </sup>or higher.</p>
+<p id="p-0046" num="0045">Further, if the tension applied to the wire <b>16</b> during winding of the wire <b>16</b> is changed in accordance with the equation (5) when the filter <b>15</b> is fabricated as a filtering member, it is indicated that the contact surface pressure, which is an important factor for determining the bonding strength, is adjusted. The filter <b>15</b> having a different bonding strength is thus obtained. Also, such contact surface pressure caused in correspondence with the tension applied to the wire <b>16</b> during winding is maintained by fixing the winding end <b>17</b> of the wire <b>16</b> to a different portion of the filter <b>15</b> (for example, an intermediate section of the wire <b>16</b>) through welding or swaging, with the tension applied to the wire <b>16</b> during winding maintained in a non-released state.</p>
+<p id="p-0047" num="0046">The illustrated embodiment has the following advantages.</p>
+<p id="p-0048" num="0047">(1) In the illustrated embodiment, for setting the bonding strength of the bonding portions of the wire <b>16</b>, which defines a mesh, to 4 N or greater, sintering is performed with the contact surface pressure between the bonding portions of the wire <b>16</b>, or at each of the contact portions S, maintained as equal to or higher than a predetermined level set depending on the sintering conditions. Thus, regardless of the relatively high pressure and high temperature caused by actuation of the airbag, the bonding portions of the wire <b>16</b> at the contact portions S are maintained without loosening. Accordingly, a relatively high bonding strength is ensured in the filter <b>15</b> with relatively low cost and improved efficiency.</p>
+<p id="p-0049" num="0048">(2) In the fabrication method of the filter <b>15</b> of the illustrated embodiment, regarding the sintering process, the relationship among numerals including the sintering temperature, the sintering time, the contact surface pressure between the bonding portions of the wire <b>16</b>, the lateral contact dimension between the bonding portions of the wire <b>16</b>, and the number of the bonding portions of the wire <b>16</b> is set such that the condition of the predetermined equation (4) is satisfied. In other words, in order to set the bonding strength between the bonding portions of the wire <b>16</b> to a value equal to or higher than a certain value (4 N), the filter <b>15</b> is fabricated in such a manner as to satisfy the condition represented by the equation (4), which represents the relationship among the sintering temperature and sintering time of the filter <b>15</b>, the contact surface pressure between the bonding portions of the wire <b>16</b>, the lateral contact dimension between the bonding portions of the wire <b>16</b>, and the number of the bonding portions of the wire <b>16</b>. Accordingly, the filter <b>15</b> is configured to reliably tolerate the gas pressure produced by actuation of the airbag. Further, by optimizing the various conditions (T: sintering temperature, t: sintering time, P: contact surface pressure between the wire bonding portions, b: lateral contact dimension between the wire bonding portions, and n: number of the wire bonding portions), the process conditions that are suitable for the performance of production equipment and capable of maximally improving productivity can be selected for fabricating the filter <b>15</b>.</p>
+<p id="p-0050" num="0049">(3) In the illustrated embodiment, tension is applied to the wire <b>16</b> when the wire <b>16</b> is wound. A sufficient contact surface pressure is thus ensured at each of the contact portions S at which the corresponding sections of the wire <b>16</b> cross each other, when the filter <b>15</b> is fabricated. That is, in fabrication of the filter <b>15</b>, the necessary contact surface pressure, which is an important factor for determining the bonding strength between the bonding portions of the wire <b>16</b>, is obtained easily and reliably.</p>
+<p id="p-0051" num="0050">(4) In the illustrated embodiment, the winding end <b>17</b> of the wire <b>16</b> is fixed (bonded) through welding or the like with the tension maintained as applied to the wire <b>16</b>, in fabrication of the filter <b>15</b>. Such fabrication is thus completed with the contact surface pressure maintained at a required sufficient level during sintering.</p>
+<p id="p-0052" num="0051">(5) When a filter <b>15</b> is fabricated as the filtering member in the illustrated embodiment, the tension applied to the wire <b>16</b> during winding is changed in correspondence with the predetermined equation (5), such that the contact surface pressure is adjusted. It is thus possible to easily optimize the contact surface pressure, which is varied in accordance with changes in the sintering conditions.</p>
+<p id="p-0053" num="0052">The illustrated embodiment may be modified as follows.</p>
+<p id="p-0054" num="0053">In the illustrated embodiment, a line formed mainly of iron (having a cross-sectional area of 0.2 mm<sup>2</sup>) is employed as the wire <b>16</b>. The wire <b>16</b> is wound around the bobbin for 500 cycles for forming a hollow cylindrical coil type filter <b>15</b> with an outer diameter of &#x3c6;60 and an inner diameter of &#x3c6;50. However, the material or the dimensions of the filter <b>15</b> may be selected as needed in accordance with the shape or the dimensions of the inflator <b>10</b>, in which the filter <b>15</b> is installed.</p>
+<p id="p-0055" num="0054">In the filter <b>15</b> of the illustrated embodiment, the mesh is formed by winding the wire <b>16</b>, the metal square or circular line, around the shaft of the bobbin. However, the mesh of the filter <b>15</b> may be formed in different suitable manners modified from that of the embodiment. For example, the filter <b>15</b> may include a knitted mesh such as a stockinet type mesh. Alternatively, the mesh of the filter <b>15</b> may be formed by winding a flat-woven mesh in an overlapping manner.</p>
+<p id="p-0056" num="0055">In the illustrated embodiment, the contact surface pressure acting on each of the contact portions S between the bonded portions of the wire <b>16</b> of the filter <b>15</b> is produced by the tension applied to the wire <b>16</b> during winding of the wire <b>16</b>. However, such contact surface pressure may be generated using a tapered jig or the like, when sintering is conducted.</p>
+<p id="p-0057" num="0056">In the illustrated embodiment, the overlapping portions of the wire <b>16</b>, which are arranged in a layered manner, are bonded together though sintering. However, bonding of the wire <b>16</b> may be brought about by different suitable methods other than the sintering. For example, the overlapping portions of the wire <b>16</b> may be bonded together through high-frequency induction heating.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method for fabricating a filtering member in which, after winding a wire, overlapping portions of the wire are bonded together in a layered manner through sintering for forming a mesh, the method comprising:
+<claim-text>applying a contact surface pressure between portions of the wire to be bonded together; and</claim-text>
+<claim-text>maintaining the contact surface pressure as equal to or higher than a predetermined level that is set in accordance with a sintering condition, and conducting the sintering in this state, such that each bonding portion of the wire in a final product has a bonding strength equal to or greater than 4 N, wherein the sintering condition is determined in accordance with contact surface pressure lateral contact dimension between contact portions of the wire, and number of bonding portions of the wire.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein, when a thermal treatment temperature and a thermal treatment time are specified as the sintering condition, the thermal treatment is performed such that the following inequality is satisfied:
+<claim-text>
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>4 <i>&#x2266;C</i>1&#xd7;exp(&#x2212;<i>C</i>2/<i>T</i>)&#xd7;(<i>t/T</i>)<sup>0.4</sup><i>&#xd7;P&#xd7;b</i><sup>2</sup><i>&#xd7;n </i><?in-line-formulae description="In-line Formulae" end="tail"?>
+</claim-text>
+</claim-text>
+<claim-text>in which:
+<claim-text>T: thermal treatment temperature, t: thermal treatment time, P: the contact surface pressure, b: the lateral contact dimension between contact portions of the wire, n: the number of bonding portions of the wire, and</claim-text>
+<claim-text>wherein C1 and C2 are coefficients, with C1=4,105, and C2=9,000.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the filtering member is a coil type filter in which the wire is wound in a layered manner for forming a mesh, and the contact surface pressure is produced by tension applied to the wire during winding of the wire.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein a winding end of the wire is fixed while the tension is applied to the wire during winding of the wire.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the contact surface pressure is adjusted by changing the tension applied to the wire during winding of the wire.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A method for fabricating a filter for an airbag inflator in which, after winding a metal wire, overlapping portions of the metal wire are bonded together in a layered manner through sintering for forming a mesh, the method comprising:
+<claim-text>applying a contact surface pressure between portions of the wire to be bonded together; and</claim-text>
+<claim-text>maintaining the contact pressure as equal to or higher than a predetermined level that is set in accordance with a sintering condition, and conducting the sintering in this state, such that each bonding portion of the wire in a final product has a bonding strength equal to or greater than 4 N, wherein the sintering condition is determined in accordance with contact surface pressure lateral contact dimension between contact portions of the wire, and number of bonding portions of the wire.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein, when a thermal treatment temperature and a thermal treatment time are specified as the sintering condition, the sintering is performed such that the following inequality is satisfied:
+<claim-text>
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>4<i>&#x2266;C</i>1&#xd7;exp(&#x2212;<i>C</i>2/<i>T</i>)&#xd7;(<i>t/T</i>)<sup>0.4</sup><i>&#xd7;P&#xd7;b</i><sup>2</sup><i>&#xd7;n </i><?in-line-formulae description="In-line Formulae" end="tail"?>
+</claim-text>
+</claim-text>
+<claim-text>in which:
+<claim-text>T: thermal treatment temperature, t: thermal treatment time, P: contact surface pressure, b: lateral contact dimension between contact portions of the wire, n: number of bonding portions of the wire, and</claim-text>
+<claim-text>C1 and C2 are coefficients, with C1=4,105, and C2=9,000.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the filter is a coil type filter in which the wire is wound in a layered manner for forming a mesh, and the contact surface pressure is produced by tension applied to the wire during winding of the wire.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein a winding end of the wire is fixed while the tension is applied to the wire during winding of the wire.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the contact surface pressure is adjusted by changing the tension applied to the wire during winding of the wire. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

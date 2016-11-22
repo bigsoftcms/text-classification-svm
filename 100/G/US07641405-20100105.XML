@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641405-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641405</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12031677</doc-number>
+<date>20080214</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2007-034200</doc-number>
+<date>20070215</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>03</class>
+<subclass>D</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>03</class>
+<subclass>B</subclass>
+<main-group>27</main-group>
+<subgroup>32</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>396611</main-classification>
+<further-classification>355 27</further-classification>
+<further-classification>134902</further-classification>
+</classification-national>
+<invention-title id="d0e61">Substrate processing apparatus with integrated top and edge cleaning unit</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>6874515</doc-number>
+<kind>B2</kind>
+<name>Ishihara et al.</name>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6893171</doc-number>
+<kind>B2</kind>
+<name>Fukutomi et al.</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2006/0039431</doc-number>
+<kind>A1</kind>
+<name>Sekiguchi et al.</name>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2006/0045722</doc-number>
+<kind>A1</kind>
+<name>Hashimoto</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2006/0108665</doc-number>
+<kind>A1</kind>
+<name>Kurokawa et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2006/0147202</doc-number>
+<kind>A1</kind>
+<name>Yasuda et al.</name>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2006/0291855</doc-number>
+<kind>A1</kind>
+<name>Shigemori et al.</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2007/0177869</doc-number>
+<kind>A1</kind>
+<name>Yamamoto et al.</name>
+<date>20070800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2007/0190437</doc-number>
+<kind>A1</kind>
+<name>Kaneyama</name>
+<date>20070800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>JP</country>
+<doc-number>2000-223460</doc-number>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>JP</country>
+<doc-number>2003-324139</doc-number>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>JP</country>
+<doc-number>2005-294520</doc-number>
+<date>20051000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>JP</country>
+<doc-number>2006-012880</doc-number>
+<date>20060100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>JP</country>
+<doc-number>2006-032691</doc-number>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>JP</country>
+<doc-number>2006-80403</doc-number>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>JP</country>
+<doc-number>2006-80404</doc-number>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>JP</country>
+<doc-number>2006-147911</doc-number>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>JP</country>
+<doc-number>2007-214365</doc-number>
+<date>20070800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>JP</country>
+<doc-number>2007-235089</doc-number>
+<date>20070900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>KR</country>
+<doc-number>2006-0063684</doc-number>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>WO</country>
+<doc-number>WO 99/49504</doc-number>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2006/027900</doc-number>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2006/028173</doc-number>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00024">
+<othercit>English Translation of JP 2006-080403 (dated Mar. 23, 2006).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00025">
+<othercit>English Translation of JP 2006-080404 (dated Mar. 23, 2006).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00026">
+<othercit>Office Action of Korean Patent Application No. 10-2008-0013076, dated Aug. 21, 2009, 4 pages total.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>10</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>396611</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>355 27</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>134902</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>25</number-of-drawing-sheets>
+<number-of-figures>25</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080198342</doc-number>
+<kind>A1</kind>
+<date>20080821</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Fukutomi</last-name>
+<first-name>Yoshiteru</first-name>
+<address>
+<city>Kyoto</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Townsend and Townsend and Crew LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Sokudo Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Kyoto</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Mathews</last-name>
+<first-name>Alan A</first-name>
+<department>2851</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A substrate processing apparatus arranged adjacent to an exposure device includes a processing section that subjects a substrate to processing and an interface provided adjacent to one end of the processing section configured to transfer and receive the substrate between the processing section and the exposure device. The processing section includes a photosensitive film formation unit configured to form a photosensitive film composed of a photosensitive material on the substrate that has not been subjected to exposure processing by the exposure device, a top surface and edge cleaning unit configured to clean a top surface and an edge of the substrate, and a development unit configured to subject the substrate to development processing after the exposure processing by the exposure device.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="142.58mm" wi="135.30mm" file="US07641405-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="257.98mm" wi="159.26mm" orientation="landscape" file="US07641405-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="248.07mm" wi="159.77mm" orientation="landscape" file="US07641405-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="252.31mm" wi="158.50mm" orientation="landscape" file="US07641405-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="159.77mm" wi="136.31mm" file="US07641405-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="96.27mm" wi="114.22mm" file="US07641405-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="193.12mm" wi="95.17mm" file="US07641405-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="176.87mm" wi="137.75mm" file="US07641405-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="171.70mm" wi="133.01mm" file="US07641405-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="255.10mm" wi="164.59mm" orientation="landscape" file="US07641405-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="253.24mm" wi="159.94mm" orientation="landscape" file="US07641405-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="251.38mm" wi="160.02mm" orientation="landscape" file="US07641405-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="249.60mm" wi="157.14mm" orientation="landscape" file="US07641405-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="251.63mm" wi="156.38mm" orientation="landscape" file="US07641405-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="249.43mm" wi="157.23mm" orientation="landscape" file="US07641405-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="156.89mm" wi="111.93mm" file="US07641405-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="155.19mm" wi="157.90mm" file="US07641405-20100105-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="141.39mm" wi="124.46mm" file="US07641405-20100105-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="186.77mm" wi="125.05mm" file="US07641405-20100105-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="192.87mm" wi="129.62mm" file="US07641405-20100105-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="209.38mm" wi="161.04mm" orientation="landscape" file="US07641405-20100105-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="194.99mm" wi="155.79mm" orientation="landscape" file="US07641405-20100105-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="193.12mm" wi="155.36mm" orientation="landscape" file="US07641405-20100105-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="189.57mm" wi="157.48mm" orientation="landscape" file="US07641405-20100105-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="192.02mm" wi="157.31mm" orientation="landscape" file="US07641405-20100105-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="197.87mm" wi="153.50mm" orientation="landscape" file="US07641405-20100105-D00025.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCES TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority to Japanese Patent Application 2007-034200, filed Feb. 15, 2007. The disclosure of JP 2007-034200 is hereby incorporated by reference in its entirety for all purposes.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates to a substrate processing apparatus that subjects substrates to processing. Substrate processing apparatuses are used to subject various types of substrates such as semiconductor substrates, substrates for liquid crystal displays, plasma displays, optical disks, magnetic disks, magneto-optical disks, and photomasks, and other substrates to various types of processing.</p>
+<p id="p-0004" num="0003">Such a substrate processing apparatus generally subjects a single substrate to a plurality of different types of processing successively (see, for example, JP 2003-3234139). The substrate processing apparatus as described in JP 2003-324139 A includes an indexer block, an anti-reflection film processing block, a resist film processing block, a development processing block, and an interface block. An exposure device is arranged adjacent to the interface block as an external device separate from the substrate processing apparatus.</p>
+<p id="p-0005" num="0004">In the above-mentioned substrate processing apparatus, a substrate carried out of the indexer block is transported to the exposure device through the interface block after being subjected to anti-reflection film formation and resist film coating processing in the anti-reflection film processing block and the resist film processing block. After a resist film on the substrate is subjected to exposure processing in the exposure device, the substrate is transported to the development processing block through the interface block. After the resist film on the substrate is subjected to development processing to form a resist pattern thereon in the development processing block, the substrate is transported to the indexer block.</p>
+<p id="p-0006" num="0005">With recent increases in density and integration of devices, making finer resist patterns has become an important problem. Conventional exposure devices have generally performed exposure processing by reduction-projecting reticle patterns on substrates through projection lenses. With such conventional exposure devices, however, the line widths of exposure patterns are determined by the wavelengths of light sources of the exposure devices. Therefore, making finer resist patterns have had limitations.</p>
+<p id="p-0007" num="0006">Therefore, a liquid immersion method is suggested as a projection exposure method allowing for finer exposure patterns (see, for example, WO99/49504 pamphlet). In a projection exposure device according to the WO99/49504 pamphlet, an area between a projection optical system and a substrate is filled with a liquid, resulting in a shorter wavelength of exposure light on a top surface of the substrate. This allows for finer exposure patterns.</p>
+<p id="p-0008" num="0007">In the projection exposure device according to the above-mentioned WO99/49504 pamphlet, however, exposure processing is performed with the substrate and the liquid brought into contact with each other. Therefore, a part of a component of a resist applied on the substrate is eluted in the liquid. The component of the resist eluted in the liquid contaminates a lens of the exposure device.</p>
+<p id="p-0009" num="0008">On the other hand, although the substrate is subjected to various types of film formation processing before the exposure processing, an edge of the substrate may, in some cases, be contaminated in the process of the film formation processing. When the substrate is subjected to the exposure processing with the edge of the substrate thus contaminated, the lens of the exposure device may be contaminated, resulting in a defective dimension and a defective shape of an exposure pattern.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">An object of the present invention is to provide a substrate processing apparatus in which contamination in an exposure device is sufficiently prevented with throughput in substrate processing inhibited from being reduced and that can be miniaturized.</p>
+<p id="p-0011" num="0010">According to an aspect of the present invention, a substrate processing apparatus that is arranged adjacent to an exposure device includes a processing section that subjects a substrate to processing, and an interface provided adjacent to one end of the processing section for transferring and receiving the substrate between the processing section and the exposure device. The processing section includes a photosensitive film formation unit that forms a photosensitive film composed of a photosensitive material on the substrate that has not been subjected to exposure processing by the exposure device, a top surface and edge cleaning unit that cleans a top surface and an edge of the substrate, and a development unit that subjects the substrate after the exposure processing by the exposure device to development processing.</p>
+<p id="p-0012" num="0011">In the substrate processing apparatus, the processing section subjects the substrate to the processing. The substrate that has been subjected to the processing is transferred to the interface. The interface carries the substrate that has been transferred from the processing section into the exposure device. Thus, the exposure device subjects the substrate to the exposure processing. The substrate that has been subjected to the exposure processing is carried out of the exposure device, and is transferred to the interface. The substrate that has been transferred from the exposure device is carried into the processing section.</p>
+<p id="p-0013" num="0012">Here, in the processing section, the photosensitive film is formed on the substrate before the exposure processing by the exposure device, and the substrate after the exposure processing by the exposure device is subjected to the development processing.</p>
+<p id="p-0014" num="0013">In the processing section, the top surface and edge cleaning unit cleans the top surface and the edge of the substrate. Therefore, the top surface and the edge of the substrate before the exposure processing by the exposure device are cleaned, which can prevent contamination in the exposure device due to contamination on the top surface and the edge of the substrate before the exposure processing and can prevent a defective dimension and a defective shape of an exposure pattern. Furthermore, the necessity of individually cleaning the top surface and the edge of the substrate is eliminated in some embodiments, which inhibits throughput in substrate processing from being reduced.</p>
+<p id="p-0015" num="0014">Furthermore, the surface cleaning processing unit that cleans the top surface of the substrate and the edge cleaning processing unit that cleans the edge of the substrate need not be individually provided. This allows the substrate processing apparatus to be miniaturized.</p>
+<p id="p-0016" num="0015">The top surface and edge cleaning unit may clean the top surface and the edge of the substrate after the formation of the photosensitive film by the photosensitive film formation unit and before the exposure processing by the exposure device. In this case, the top surface and the edge of the substrate carried into the exposure device are previously cleaned, which can reliably prevent contamination in the exposure device and can prevent a defective dimension and a defective shape of an exposure pattern.</p>
+<p id="p-0017" num="0016">Furthermore, a component of a photosensitive material can be previously eluted by cleaning the substrate on which the photosensitive film has been formed. This allows the exposure processing to be accurately performed by means of a liquid immersion method in the exposure device.</p>
+<p id="p-0018" num="0017">In an embodiment, the top surface and edge cleaning unit may simultaneously clean the top surface and the edge of the substrate. In this case, the top surface and the edge of the substrate are simultaneously cleaned, which allows throughput in substrate processing can be sufficiently improved.</p>
+<p id="p-0019" num="0018">The processing section may further include an anti-reflection film formation unit that forms an anti-reflection film on the substrate before the formation of the photosensitive film by the photosensitive film formation unit. In this case, the anti-reflection film is formed on the substrate on which the photosensitive film has not been formed. This allows standing waves and halation generated during the exposure processing to be reduced.</p>
+<p id="p-0020" num="0019">The processing section may further include a protective film formation unit that forms a protective film for protecting the photosensitive film after the formation of the photosensitive film by the photosensitive film formation unit and before the exposure processing by the exposure device. In this case, the protective film is formed on the substrate before the exposure processing on which the photosensitive film has been formed. Thus, a component of the photosensitive film is prevented from being eluted in a liquid even if the exposure device performs the exposure processing with the substrate and the liquid brought into contact with each other. This can prevent contamination in the exposure device to be reliably prevented, which can sufficiently prevent processing defects in the substrate.</p>
+<p id="p-0021" num="0020">The processing section may include a protective film removal unit that removes the protective film after the exposure processing by the exposure device and before the development processing by the development unit. In this case, the protective film is removed from the substrate after the exposure processing and before the development processing. This causes the development processing to be reliably performed by the development unit.</p>
+<p id="p-0022" num="0021">The processing section may further include a reversing unit that reverses one surface and the other surface of the substrate and a back surface cleaning unit that cleans a back surface of the substrate reversed by the reversing unit. In this case, the reversing unit in the processing section can reverse the one surface and the other surface of the substrate before the exposure processing such that the back surface of the substrate whose top surface is directed upward is directed upward. The back surface cleaning unit can clean the reversed back surface of the substrate. This prevents contamination in the exposure device due to a contaminant that adheres to the back surface of the substrate. Therefore, the substrate can be subjected to the exposure processing with high accuracy, which can sufficiently prevent processing defects in the substrate.</p>
+<p id="p-0023" num="0022">The processing section may include a first processing unit including the photosensitive film formation unit and a first transport unit that transports the substrate, a second processing unit including the top surface and edge cleaning unit and a second transport unit that transports the substrate, and a third processing unit including the development unit and a third transport unit that transports the substrate, and the second processing unit may be arranged adjacent to the interface.</p>
+<p id="p-0024" num="0023">In this case, in the first processing unit, the photosensitive film formation unit forms the photosensitive film on the substrate, and the first transport unit transports the substrate before or after the formation of the photosensitive film. Furthermore, in the second processing unit, the top surface and edge cleaning unit cleans the top surface and the edge of the substrate, and the second transport unit transports the substrate before or after the cleaning. Here, the substrate transported by the second transport unit is transferred to the interface adjacent to the processing section.</p>
+<p id="p-0025" num="0024">Thus, the substrate the top surface and the edge of which have been cleaned is quickly carried into the exposure device through the interface, which prevents the substrate after the cleaning processing from being contaminated again. Therefore, contamination in the exposure device can be reliably prevented.</p>
+<p id="p-0026" num="0025">The substrate after the exposure processing is carried into the processing section through the interface, and is transported by the second transport unit in the second processing unit.</p>
+<p id="p-0027" num="0026">In the third processing unit, the development unit subjects the substrate to the development processing, and the third transport unit transports the substrate before or after the development processing.</p>
+<p id="p-0028" num="0027">The interface may include a cleaning/drying unit that cleans and dries the substrate after the exposure processing by the exposure device and an interface unit that transports the substrate. In this case, in the interface, the interface unit transports the substrate. Furthermore, the cleaning/drying unit subjects the substrate before the exposure processing to the cleaning processing. Even if dirt in an atmosphere adheres, after the exposure processing, to the substrate to which a liquid has adhered during the exposure processing, therefore, the attachment can removed.</p>
+<p id="p-0029" num="0028">Furthermore, the cleaning/drying unit subjects the substrate after the exposure processing to the drying processing, which can prevent the dirt in the atmosphere from adhering to the substrate after the exposure processing. Additionally, the liquid that has adhered to the substrate during the exposure processing is prevented from dropping in the processing section, which can prevent operational troubles such as abnormalities in an electric system of the substrate processing apparatus. These results can sufficiently prevent processing defects in the substrate.</p>
+<p id="p-0030" num="0029">In another embodiment of the present invention, a substrate processing apparatus includes an indexer block, an anti-reflection film processing block, a resist film processing block, a resist cover film processing block, a development processing block, a resist cover film removal block, a cleaning/drying processing block, and an interface block. The blocks are provided side by side in the foregoing order. An exposure device is arranged adjacent to the interface block. The exposure device subjects a substrate to exposure processing by means of a liquid immersion method. The cleaning/drying processing block has a cleaning/drying processing group. The cleaning/drying processing group is provided with a top surface and edge cleaning/drying unit that cleans a top surface and an edge of the substrate.</p>
+<p id="p-0031" num="0030">Other features, aspects, elements, characteristics, and advantages of the present invention will become more apparent from the following detailed description of preferred embodiments of the present invention when taken in conjunction with the accompanying reference to the attached drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 1</figref> is a plan view of a substrate processing apparatus according to a first embodiment;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 2</figref> is a side view on one side of the substrate processing apparatus shown in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 3</figref> is a side view on the other side of the substrate processing apparatus shown in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 4</figref> is a diagram for explaining the configuration of a top surface and edge cleaning/drying unit;</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic view for explaining an edge of a substrate;</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 6</figref> is a diagram for explaining the configuration of an edge cleaning device in the top surface and edge cleaning/drying unit shown in <figref idref="DRAWINGS">FIG. 4</figref>;</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 7</figref> is a diagram for explaining another example of the configuration of the top surface and edge cleaning/drying unit;</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 8</figref> is a diagram for explaining still another example of the configuration of the top surface and edge cleaning/drying unit;</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 9</figref> is a plan view of a substrate processing apparatus according to a second embodiment;</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 10</figref> is a side view on one side of the substrate processing apparatus shown in <figref idref="DRAWINGS">FIG. 9</figref>;</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 11</figref> is a side view on the other side of the substrate processing apparatus shown in <figref idref="DRAWINGS">FIG. 9</figref>;</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 12</figref> is a plan view of a substrate processing apparatus according to a third embodiment;</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 13</figref> is a side view on one side of the substrate processing apparatus shown in <figref idref="DRAWINGS">FIG. 12</figref>;</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 14</figref> is a side view on the other side of the substrate processing apparatus shown in <figref idref="DRAWINGS">FIG. 12</figref>;</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 15</figref> is a diagram for explaining the configuration of a back surface cleaning unit;</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 16</figref> is a perspective view showing the appearance of a substrate reversing device provided in a reversing unit;</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 17</figref> is a perspective view showing the appearance of a part of the substrate reversing device;</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. 18</figref> is a schematic view showing the operations of the substrate reversing device shown in <figref idref="DRAWINGS">FIG. 16</figref>;</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. 19</figref> is a schematic view showing the operations of the substrate reversing device shown in <figref idref="DRAWINGS">FIG. 16</figref>;</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 20</figref> is a plan view of a substrate processing apparatus according to a fourth embodiment;</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. 21</figref> is a side view on one side of the substrate processing apparatus shown in <figref idref="DRAWINGS">FIG. 20</figref>;</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. 22</figref> is a side view on the other side of the substrate processing apparatus shown in <figref idref="DRAWINGS">FIG. 20</figref>;</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. 23</figref> is a plan view of a substrate processing apparatus according to a fifth embodiment;</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. 24</figref> is a side view on one side of the substrate processing apparatus shown in <figref idref="DRAWINGS">FIG. 23</figref>; and</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. 25</figref> is a side view on the other side of the substrate processing apparatus shown in <figref idref="DRAWINGS">FIG. 23</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF SPECIFIC EMBODIMENTS</heading>
+<p id="p-0057" num="0056">A substrate processing apparatus according to an embodiment of the present invention will be described with reference to the drawings. In the following description, a substrate refers to a semiconductor substrate, a substrate for a liquid crystal display, a substrate for a plasma display, a glass substrate for a photomask, a substrate for an optical disk, a substrate for a magnetic disk, a substrate for a magneto-optical disk, a substrate for a photomask, or the like.</p>
+<p id="p-0058" num="0057">In the following description, a surface, on which various patterns such as a circuit pattern are formed, of the substrate is referred to as a top surface, and a surface on the opposite side thereto is referred to as a back surface. Furthermore, a surface, directed downward, of the substrate is referred to as a lower surface, and a surface, directed upward, of the substrate is referred to as an upper surface.</p>
+<p id="p-0059" num="0058">Furthermore, the following drawings are accompanied by arrows that respectively indicate X, Y, and Z directions perpendicular to one another for clarity of a positional relationship. The X and Y directions are perpendicular to each other within a horizontal plane, and the Z direction corresponds to a vertical direction. In each of the directions, the direction of the arrow is defined as a + (positive) direction, and the opposite direction is defined as a &#x2212; (negative) direction. A rotation direction centered around the Z direction is defined as a &#x3b8; direction.</p>
+<heading id="h-0006" level="1">&#x3c;1&#x3e; First Embodiment</heading>
+<p id="p-0060" num="0059">A substrate processing apparatus according to a first embodiment of the present invention will be now described with reference to the drawings.</p>
+<p id="p-0061" num="0060">(1) Configuration of Substrate Processing Apparatus</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIG. 1</figref> is a plan view of a substrate processing apparatus <b>500</b> according to the first embodiment. As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the substrate processing apparatus <b>500</b> includes an indexer block <b>9</b>, an anti-reflection film processing block <b>10</b>, a resist film processing block <b>11</b>, a resist cover film processing block <b>12</b>, a development processing block <b>13</b>, a resist cover film removal block <b>14</b>, a cleaning/drying processing block <b>15</b>, and an interface block <b>16</b>. In the substrate processing apparatus <b>500</b>, the blocks are provided side by side in the foregoing order.</p>
+<p id="p-0063" num="0062">An exposure device <b>17</b> is arranged adjacent to the interface block <b>16</b> in the substrate processing apparatus <b>500</b>. The exposure device <b>17</b> subjects a substrate W to exposure processing by means of a liquid immersion method.</p>
+<p id="p-0064" num="0063">The indexer block <b>9</b> includes a main controller (controller) <b>91</b> for controlling the operation of each of the blocks, a plurality of carrier platforms <b>92</b>, and an indexer robot IR. The indexer robot IR has hands IRH<b>1</b> and IRH<b>2</b> provided one above the other for receiving and transferring the substrates W.</p>
+<p id="p-0065" num="0064">The anti-reflection film processing block <b>10</b> includes thermal processing groups <b>100</b> and <b>101</b> for anti-reflection film, a coating processing group <b>30</b> for anti-reflection film, and a second central robot CR<b>2</b>. The coating processing group <b>30</b> is provided opposite to the thermal processing groups <b>100</b> and <b>101</b> with the second central robot CR<b>2</b> interposed therebetween. The second central robot CR<b>2</b> has hands CRH<b>1</b> and CRH<b>2</b> provided one above the other for receiving and transferring the substrates W.</p>
+<p id="p-0066" num="0065">A partition wall <b>20</b> is provided between the indexer block <b>9</b> and the anti-reflection film processing block <b>10</b> for shielding an atmosphere. The partition wall <b>20</b> has substrate platforms PASS<b>1</b> and PASS<b>2</b> provided in close proximity one above the other for receiving and transferring the substrates W between the indexer block <b>9</b> and the anti-reflection film processing block <b>10</b>. The upper substrate platform PASS<b>1</b> is used in transporting the substrates W from the indexer block <b>9</b> to the anti-reflection film processing block <b>10</b>, and the lower substrate platform PASS<b>2</b> is used in transporting the substrates W from the anti-reflection film processing block <b>10</b> to the indexer block <b>9</b>.</p>
+<p id="p-0067" num="0066">Each of the substrate platforms PASS<b>1</b> and PASS<b>2</b> is provided with an optical sensor (not shown) for detecting the presence or absence of the substrate W. This allows determination to be made whether or not the substrate W is placed on the substrate platform PASS<b>1</b> or PASS<b>2</b>. In addition, each of the substrate platforms PASS<b>1</b> and PASS<b>2</b> has a plurality of support pins secured thereto. Note that each of substrate platforms PASS<b>3</b> to PASS<b>16</b> described later is similarly provided with an optical sensor and support pins.</p>
+<p id="p-0068" num="0067">The resist film processing block <b>11</b> includes thermal processing groups <b>110</b> and <b>111</b> for resist film, a coating processing group <b>40</b> for resist film, and a third central robot CR<b>3</b>. The coating processing group <b>40</b> is provided opposite to the thermal processing groups <b>110</b> and <b>111</b> with the third central robot CR<b>3</b> interposed therebetween. The third central robot CR<b>3</b> has hands CRH<b>3</b> and CRH<b>4</b> provided one above the other for receiving and transferring the substrates W.</p>
+<p id="p-0069" num="0068">A partition wall <b>21</b> is provided between the anti-reflection film processing block <b>10</b> and the resist film processing block <b>11</b> for shielding an atmosphere. The partition wall <b>21</b> has substrate platforms PASS<b>3</b> and PASS<b>4</b> provided in close proximity one above the other for receiving and transferring the substrates W between the anti-reflection film processing block <b>10</b> and the resist film processing block <b>11</b>. The upper substrate platform PASS<b>3</b> is used in transporting the substrates W from the anti-reflection film processing block <b>10</b> to the resist film processing block <b>11</b>, and the lower substrate platform PASS<b>4</b> is used in transporting the substrates W from the resist film processing block <b>11</b> to the anti-reflection film processing block <b>10</b>.</p>
+<p id="p-0070" num="0069">The resist cover film processing block <b>12</b> includes thermal processing groups <b>120</b> and <b>121</b> for resist cover film, a coating processing group <b>50</b> for resist cover film, and a fourth central robot CR<b>4</b>. The coating processing group <b>50</b> is provided opposite to the thermal processing groups <b>120</b> and <b>121</b> with the fourth central robot CR<b>4</b> interposed therebetween. The fourth central robot CR<b>4</b> has hands CRH<b>5</b> and CRH<b>6</b> provided one above the other for receiving and transferring the substrates W.</p>
+<p id="p-0071" num="0070">A partition wall <b>22</b> is provided between the resist film processing block <b>11</b> and the resist cover film processing block <b>12</b> for shielding an atmosphere. The partition wall <b>22</b> has substrate platforms PASS<b>5</b> and PASS<b>6</b> provided in close proximity one above the other for receiving and transferring the substrates W between the resist film processing block <b>11</b> and the resist cover film processing block <b>12</b>. The upper substrate platform PASS<b>5</b> is used in transporting the substrates W from the resist film processing block <b>11</b> to the resist cover film processing block <b>12</b>, and the lower substrate platform PASS<b>6</b> is used in transporting the substrates W from the resist cover film processing block <b>12</b> to the resist film processing block <b>11</b>.</p>
+<p id="p-0072" num="0071">The development processing block <b>13</b> includes development processing groups <b>60</b><i>a </i>and <b>60</b><i>b </i>and a fifth central robot CR<b>5</b>. The development processing groups <b>60</b><i>a </i>and <b>60</b><i>b </i>are provided opposite to each other with the fifth central robot CR<b>5</b> interposed therebetween. The fifth central robot CR<b>5</b> has hands CRH<b>7</b> and CRH<b>8</b> provided one above the other for receiving and transferring the substrates W.</p>
+<p id="p-0073" num="0072">A partition wall <b>23</b> is provided between the resist cover film processing block <b>12</b> and the development processing block <b>13</b> for shielding an atmosphere. The partition wall <b>23</b> has substrate platforms PASS<b>7</b> and PASS<b>8</b> provided in close proximity one above the other for receiving and transferring the substrates W between the resist cover film processing block <b>12</b> and the development processing block <b>13</b>. The upper substrate platform PASS<b>7</b> is used in transporting the substrates W from the resist cover film processing block <b>12</b> to the development processing block <b>13</b>, and the lower substrate platform PASS<b>8</b> is used in transporting the substrates W from the development processing block <b>13</b> to the resist cover film processing block <b>12</b>.</p>
+<p id="p-0074" num="0073">The resist cover film removal block <b>14</b> includes removal processing groups <b>70</b><i>a </i>and <b>70</b><i>b </i>for resist cover film and a sixth central robot CR<b>6</b>. The removal processing groups <b>70</b><i>a </i>and <b>70</b><i>b </i>are provided opposite to each other with the sixth central robot CR<b>6</b> interposed therebetween. The sixth central robot CR<b>6</b> has hands CRH<b>9</b> and CRH<b>10</b> provided one above the other for receiving and transferring the substrates W.</p>
+<p id="p-0075" num="0074">A partition wall <b>24</b> is provided between the development processing block <b>13</b> and the resist cover film removal block <b>14</b> for shielding an atmosphere. The partition wall <b>24</b> has substrate platforms PASS<b>9</b> and PASS<b>10</b> provided in close proximity one above the other for receiving and transferring the substrates W between the development processing block <b>13</b> and the resist cover film removal block <b>14</b>. The upper substrate platform PASS<b>9</b> is used in transporting the substrates W from the development processing block <b>13</b> to the resist cover film removal block <b>14</b>, and the lower substrate platform PASS<b>10</b> is used in transporting the substrates W from the resist cover film removal block <b>14</b> to the development processing block <b>13</b>.</p>
+<p id="p-0076" num="0075">The cleaning/drying processing block <b>15</b> includes thermal processing groups <b>150</b> and <b>151</b> for post-exposure bake, a cleaning/drying processing group <b>80</b>, and a seventh central robot CR<b>7</b>. The thermal processing group <b>151</b> is adjacent to the interface block <b>16</b>, and includes substrate platforms PASS<b>13</b> and PASS<b>14</b>, as described later. The cleaning/drying processing group <b>80</b> is provided opposite to the thermal processing groups <b>150</b> and <b>151</b> with the seventh central robot CR<b>7</b> interposed therebetween. The seventh central robot CR<b>7</b> has hands CRH<b>11</b> and CRH<b>12</b> provided one above the other for receiving and transferring the substrates W.</p>
+<p id="p-0077" num="0076">A partition wall <b>25</b> is provided between the resist cover film removal block <b>14</b> and the cleaning/drying processing block <b>15</b> for shielding an atmosphere. The partition wall <b>25</b> has substrate platforms PASS<b>11</b> and PASS<b>12</b> provided in close proximity one above the other for receiving and transferring the substrates W between the resist cover film removal block <b>14</b> and the cleaning/drying processing block <b>15</b>. The upper substrate platform PASS<b>11</b> is used in transporting the substrates W from the resist cover film removal block <b>14</b> to the cleaning/drying processing block <b>15</b>, and the lower substrate platform PASS<b>12</b> is used in transporting the substrates W from the cleaning/drying processing block <b>15</b> to the resist cover film removal block <b>14</b>.</p>
+<p id="p-0078" num="0077">In the interface block <b>16</b>, an eighth center robot CR<b>8</b>, an edge exposure unit EEW, an interface transporting mechanism IFR, and a post-exposure cleaning/drying processing group <b>95</b> are arranged in this order along the +X direction. Substrate platforms PASS<b>15</b> and PASS<b>16</b>, a sending buffer <b>16</b>, and a return buffer RBF, described later, are provided below the edge exposure unit <b>95</b>. The eighth central robot CR<b>8</b> has hands CRH<b>13</b> and CRH<b>14</b> provided one above the other for receiving and transferring the substrates W, and the interface transporting mechanism IFR has hands H<b>1</b> and H<b>2</b> provided one above the other for receiving and transferring the substrates W.</p>
+<p id="p-0079" num="0078"><figref idref="DRAWINGS">FIG. 2</figref> is a side view on one side of the substrate processing apparatus <b>500</b> shown in <figref idref="DRAWINGS">FIG. 1</figref>. The coating processing group <b>30</b> (see <figref idref="DRAWINGS">FIG. 1</figref>) in the anti-reflection film processing block <b>10</b> has a vertical stack of three coating units BARC. Each of the coating units BARC includes a spin chuck <b>31</b> for rotating the substrate W with the substrate W held in a horizontal attitude by suction, and a supply nozzle <b>32</b> for supplying a coating liquid for an anti-reflection film to the substrate W held on the spin chuck <b>31</b>.</p>
+<p id="p-0080" num="0079">The coating processing group <b>40</b> (see <figref idref="DRAWINGS">FIG. 1</figref>) in the resist film processing block <b>11</b> has a vertical stack of three coating units RES. Each of the coating units RES includes a spin chuck <b>41</b> for rotating the substrate W with the substrate W held in a horizontal attitude by suction, and a supply nozzle <b>42</b> for supplying a coating liquid for a resist film to the substrate W held on the spin chuck <b>41</b>.</p>
+<p id="p-0081" num="0080">The coating processing group <b>50</b> (see <figref idref="DRAWINGS">FIG. 1</figref>) in the resist cover film processing block <b>12</b> has a vertical stack of three coating units COV. Each of the coating units COV includes a spin chuck <b>61</b> for rotating the substrate W with the substrate W held in a horizontal attitude by suction, and a supply nozzle <b>52</b> for supplying a coating liquid for a resist cover film to the substrate W held on the spin chuck <b>51</b>. Materials having a low affinity for resists and water (materials having low reactivity to resists and water) can be used as the coating liquid for the resist cover film. An example of the coating liquid is fluororesin. Each of the coating units COV forms a resist cover film on the resist film formed on the substrate W by applying the coating liquid onto the substrate W while rotating the substrate W.</p>
+<p id="p-0082" num="0081">The development processing group <b>60</b><i>b </i>(see <figref idref="DRAWINGS">FIG. 1</figref>) in the development processing block <b>13</b> has a vertical stack of four development processing units DEV. Each of the development processing units DEV includes a spin chuck <b>61</b> for rotating the substrate W with the substrate W held in a horizontal attitude by suction, and a supply nozzle <b>62</b> for supplying a development liquid to the substrate W held on the spin chuck <b>51</b>.</p>
+<p id="p-0083" num="0082">The removal processing group <b>70</b><i>b </i>(see <figref idref="DRAWINGS">FIG. 1</figref>) in the resist cover film removal block <b>14</b> has a vertical stack of three removal units REM. Each of the removal units REM includes a spin chuck <b>71</b> for rotating the substrate W with the substrate W held in a horizontal attitude by suction, and a supply nozzle <b>72</b> for supplying a stripping liquid (e.g. fluororesin) to the substrate W held on the spin chuck <b>71</b>. Each of the removal units REM removes the resist cover film formed on the substrate W by applying the stripping liquid onto the substrate W while rotating the substrate W.</p>
+<p id="p-0084" num="0083">Note that a method of removing the resist cover film in the removal units REM is not limited to the above-mentioned example. For example, the resist cover film may be removed by supplying the stripping liquid onto the substrate W while moving a slit nozzle above the substrate W.</p>
+<p id="p-0085" num="0084">The cleaning/drying processing group <b>80</b> (see <figref idref="DRAWINGS">FIG. 1</figref>) in the cleaning/drying processing block <b>15</b> has a vertical stack of four top surface and edge cleaning/drying units SD. The details of the top surface and edge cleaning/drying unit SD will be described later.</p>
+<p id="p-0086" num="0085">The post-exposure cleaning/drying processing group <b>95</b> in the interface block <b>16</b> has a vertical stack of three post-exposure cleaning/drying units DRY. Each of the post-exposure cleaning/drying units DRY includes a spin chuck <b>91</b> for rotating the substrate W with the substrate W held in a horizontal attitude by suction, and a nozzle <b>92</b> for supplying a processing liquid for cleaning (a cleaning liquid and a rinse liquid) to the substrate W held on the spin chuck <b>91</b>.</p>
+<p id="p-0087" num="0086"><figref idref="DRAWINGS">FIG. 3</figref> is a side view on the other side of the substrate processing apparatus <b>500</b> shown in <figref idref="DRAWINGS">FIG. 1</figref>. In the anti-reflection film processing block <b>10</b>, the thermal processing group <b>100</b> has a vertical stack of two heating units (hot plates) HP and four cooling units (cooling plates) CP, and the thermal processing group <b>101</b> has a vertical stack of six heating units HP. Furthermore, each of the thermal processing groups <b>100</b> and <b>101</b> has a local controller LC for controlling the respective temperatures of the heating unit HP and the cooling unit CP arranged in its uppermost part.</p>
+<p id="p-0088" num="0087">In the resist film processing block <b>11</b>, the thermal processing group <b>110</b> has a vertical stack of four heating units HP and four cooling units CP, and the thermal processing group <b>111</b> has a vertical stack of six heating units HP. Furthermore, each of the thermal processing groups <b>110</b> and <b>111</b> also has a local controller LC for controlling the respective temperatures of the heating unit HP and the cooling unit CP arranged in its uppermost part.</p>
+<p id="p-0089" num="0088">In the resist cover film processing block <b>12</b>, the thermal processing group <b>120</b> has a vertical stack of two heating units HP and two cooling units CP, and the thermal processing group <b>121</b> has a vertical stack of six heating units HP and two cooling units CP. Furthermore, each of the thermal processing groups <b>120</b> and <b>121</b> has a local controller LC for controlling the respective temperatures of the heating unit HP and the cooling unit CP arranged in its uppermost part.</p>
+<p id="p-0090" num="0089">The development processing group <b>60</b><i>a </i>in the development processing block <b>13</b> has a vertical stack of four development processing units DEV.</p>
+<p id="p-0091" num="0090">The removal processing group <b>70</b><i>a </i>in the resist cover film removal block <b>14</b> has a vertical stack of three removal units REM.</p>
+<p id="p-0092" num="0091">In the cleaning/drying processing block <b>15</b>, the thermal processing group <b>150</b> has a vertical stack of four cooling units CP, and the thermal processing group <b>151</b> has a vertical stack of six heating units HP and substrate platforms PASS<b>13</b> and PASS<b>14</b>. Furthermore, each of the thermal processing groups <b>150</b> and <b>151</b> has a local controller LC for controlling the respective temperatures of the heating unit HP and the cooling unit CP arranged in its uppermost part.</p>
+<p id="p-0093" num="0092">The interface block <b>16</b> has a vertical stack of two edge exposure units EEW, substrate platforms PASS<b>15</b> and PASS<b>16</b>, a sending buffer unit SBF, and a return buffer unit RBF arranged in its substantially central part (see <figref idref="DRAWINGS">FIG. 1</figref>). Each of the edge exposure units EEW includes a spin chuck (not shown) for rotating the substrate W with the substrate W held in a horizontal attitude by suction, and a light irradiator (not shown) for exposing a peripheral portion of the substrate W held on the spin chuck.</p>
+<p id="p-0094" num="0093">Note that the respective numbers of coating units BARC, RES, and COV, top surface and edge cleaning/drying units SD, removal units REM, post-exposure cleaning/drying units DRY, edge exposure units EEW, heating units HP, and cooling units CP may be changed, as needed, depending on the processing speed of each of the blocks <b>10</b> to <b>16</b>.</p>
+<p id="p-0095" num="0094">(2) Operations of Substrate Processing Apparatus</p>
+<p id="p-0096" num="0095">The operations of the substrate processing apparatus <b>500</b> according to the first embodiment will be then described with reference to <figref idref="DRAWINGS">FIGS. 1 to 3</figref>.</p>
+<p id="p-0097" num="0096">Carriers C that each store a plurality of substrates W in multiple stages are respectively placed on the carrier platforms <b>92</b> in the indexer block <b>9</b>. The indexer robot IR takes out the unprocessed substrate W that is stored in the carrier C using the upper hand IRH<b>1</b>. Thereafter, the indexer robot IR rotates in the &#xb1;&#x3b8; direction while moving in the &#xb1;X direction, to place the unprocessed substrate W on the substrate platform PASS<b>1</b>.</p>
+<p id="p-0098" num="0097">Although FOUPs (Front Opening Unified Pods) are adopted as the carriers C in the present embodiment, the present invention is not limited to the same. For example, SMIF (Standard Mechanical Inter Face) pods, or OCs (Open Cassettes) that expose the stored substrates W to outside air may be used.</p>
+<p id="p-0099" num="0098">Furthermore, although linear-type transport robots that move their hands forward or backward by linearly sliding them to the substrate W are respectively used as the indexer robot IR, the second to eighth central robots CR<b>2</b> to CR<b>8</b>, and the interface transporting mechanism IFR, the present invention is not limited to the same. For example, multi-joint type transport robots that linearly move their hands forward and backward by moving their joints may be used.</p>
+<p id="p-0100" num="0099">The substrate W placed on the substrate platform PASS<b>1</b> is received by the second central robot CR<b>2</b> in the anti-reflection film processing block <b>10</b>. The second central robot CR<b>2</b> carries the substrate W into the coating processing group <b>30</b>. In the coating processing group <b>30</b>, the coating unit BARC forms a coating of an anti-reflection film on the substrate W in order to reduce standing waves and halation generated during the exposure processing.</p>
+<p id="p-0101" num="0100">Thereafter, the second central robot CR<b>2</b> then takes out the substrate W that has been subjected to the coating processing from the coating processing group <b>30</b>, and carries the substrate W into the thermal processing group <b>100</b> or <b>101</b>. Then, the second central robot CR<b>2</b> takes out the thermally processed substrate W from the thermal processing group <b>100</b> or <b>101</b>, and places the substrate W on the substrate platform PASS<b>3</b>.</p>
+<p id="p-0102" num="0101">The substrate W placed on the substrate platform PASS<b>3</b> is received by the third central robot CR<b>3</b> in the resist film processing block <b>11</b>. The third central robot CR<b>3</b> carries the substrate W into the coating processing group <b>40</b>. In the coating processing group <b>40</b>, the coating unit RES forms a coating of a resist film on the anti-reflection film.</p>
+<p id="p-0103" num="0102">Thereafter, the third central robot CR<b>3</b> takes out the substrate W that has been subjected to the coating processing from the coating processing group <b>40</b>, and carries the substrate W into the thermal processing group <b>110</b> or <b>111</b>. Then, the third central robot CR<b>3</b> takes out the thermally processed substrate W from the thermal processing group <b>110</b> or <b>111</b>, and places the substrate W on the substrate platform PASS<b>5</b>.</p>
+<p id="p-0104" num="0103">The substrate W placed on the substrate platform PASS<b>5</b> is received by the fourth central robot CR<b>4</b> in the resist cover film processing block <b>12</b>. The fourth central robot CR<b>4</b> carries the substrate W into the coating processing group <b>50</b>. In the coating processing group <b>50</b>, the coating unit COV forms a coating of a resist cover film on the resist film.</p>
+<p id="p-0105" num="0104">Thereafter, the fourth central robot CR<b>4</b> takes out the substrate W that has been subjected to the coating processing from the coating processing group <b>50</b>, and carries the substrate W into the thermal processing group <b>120</b>. Then, the fourth central robot CR<b>4</b> takes out the thermally processed substrate W from the thermal processing group <b>120</b>, and places the substrate W on the substrate platform PASS<b>7</b>.</p>
+<p id="p-0106" num="0105">The substrate W placed on the substrate platform PASS<b>7</b> is received by the fifth central robot CR<b>5</b> in the development processing block <b>13</b>. The fifth central robot CR<b>5</b> places the substrate W on the substrate platform PASS<b>9</b>.</p>
+<p id="p-0107" num="0106">The substrate W placed on the substrate platform PASS<b>9</b> is received by the sixth central robot CR<b>6</b> in the resist cover film removal block <b>14</b>. The sixth central robot CR<b>6</b> places the substrate W on the substrate platform PASS<b>11</b>.</p>
+<p id="p-0108" num="0107">The substrate W placed on the substrate platform PASS<b>11</b> is received by the seventh central robot CR<b>7</b> in the cleaning/drying processing block <b>15</b>. The seventh central robot CR<b>7</b> carries the substrate W into the top surface and edge cleaning/drying unit SD in the cleaning/drying processing group <b>80</b>. The top surface and edge cleaning/drying processing unit SD subjects the substrate W that has been carried thereinto to top surface and edge cleaning processing, described more fully later. This causes a top surface and an edge of the substrate W before exposure processing by the exposure device <b>17</b> to be kept clean.</p>
+<p id="p-0109" num="0108">Then, the seventh central robot CR<b>7</b> takes out the substrate W that has been subjected to the top surface and edge cleaning processing from the top surface and edge cleaning/drying unit SD, and places the substrate W on the substrate platform PASS<b>13</b>.</p>
+<p id="p-0110" num="0109">The substrate W placed on the substrate platform PASS<b>13</b> is received by the eighth central robot CR<b>8</b> in the interface block <b>16</b>. The eighth central robot CR<b>8</b> carries the substrate W into the edge exposure unit EEW. The edge exposure unit EEW subjects the peripheral portion of the substrate W to edge exposure processing. Then, the eighth central robot CR<b>8</b> takes out the substrate W that has been subjected to the edge exposure processing from the edge exposure unit EEW, and places the substrate W on the substrate platform PASS<b>15</b>.</p>
+<p id="p-0111" num="0110">The substrate W placed on the substrate platform PASS<b>15</b> is carried into a substrate carry-in section <b>17</b><i>a </i>(see <figref idref="DRAWINGS">FIG. 1</figref>) in the exposure device <b>17</b> by the interface transporting mechanism IFR. Note that when the exposure device <b>17</b> cannot receive the substrate W, the substrate W is temporarily stored in the sending buffer unit SBF.</p>
+<p id="p-0112" num="0111">After the exposure device <b>17</b> subjects the substrate W to the exposure processing, the interface transporting mechanism IFR takes out the substrate W from a substrate carry-out section <b>17</b><i>b </i>(see <figref idref="DRAWINGS">FIG. 1</figref>) in the exposure device <b>17</b>, and carries the substrate W into the post-exposure cleaning/drying processing group <b>95</b>.</p>
+<p id="p-0113" num="0112">As described in the foregoing, in the post-exposure cleaning/drying unit DRY in the post-exposure cleaning/drying processing group <b>95</b>, a processing liquid (a cleaning liquid and a rinse liquid) is supplied from the nozzle <b>92</b> to the top surface of the substrate W that rotates in a horizontal attitude by the spin chuck <b>91</b> (see <figref idref="DRAWINGS">FIG. 2</figref>). This causes the top surface of the substrate W to be cleaned. Thereafter, the supply of the processing liquid from the nozzle <b>92</b> to the substrate W is stopped, which causes the cleaning liquid that adheres to the substrate W to be scattered while causing the top surface of the substrate W to be dried (scattering drying).</p>
+<p id="p-0114" num="0113">Note that the post-exposure cleaning/drying unit DRY may be provided with a gas spray nozzle that sprays inert gas on the top surface of the substrate W. In this case, the inert gas is sprayed on the substrate W from the gas spray nozzle while the substrate W is being subjected to the scattering drying or after a liquid layer of the rinse liquid is formed on the top surface of the substrate W, which causes the top surface of the substrate W to be reliably dried.</p>
+<p id="p-0115" num="0114">In the post-exposure cleaning/drying processing group <b>95</b>, the substrate W after the exposure processing is thus subjected to the cleaning and drying processing. Thereafter, the interface transporting mechanism IFR takes out the substrate W from the post-exposure cleaning/drying processing group <b>95</b>, and places the substrate W on the substrate platform PASS<b>16</b>. When the cleaning and drying processing cannot be temporarily performed in the post-exposure cleaning/drying processing group <b>95</b> due to a failure or the like, the substrate W after the exposure processing can be temporarily stored in the return buffer unit RBF in the interface block <b>16</b>.</p>
+<p id="p-0116" num="0115">The substrate W placed on the substrate platform PASS<b>16</b> is received by the eighth central robot CR<b>8</b> in the interface block <b>16</b>. The eighth central robot CR<b>8</b> carries the substrate W into the thermal processing group <b>151</b> in the cleaning/drying processing block <b>15</b>.</p>
+<p id="p-0117" num="0116">In the thermal processing group <b>151</b>, the substrate W is subjected to post-exposure bake (PEB). Thereafter, the eighth central robot CR<b>8</b> takes out the substrate W from the thermal processing group <b>151</b>, and places the substrate W on the substrate platform PASS<b>14</b>. Although the thermal processing group <b>151</b> subjects the substrate W to the post-exposure bake in the present embodiment, the thermal processing group <b>150</b> may subject the substrate W to post-exposure bake.</p>
+<p id="p-0118" num="0117">The substrate W placed on the substrate platform PASS<b>14</b> is received by the seventh central robot CR<b>7</b> in the cleaning/drying processing block <b>15</b>. The seventh central robot CR<b>7</b> places the substrate W on the substrate platform PASS<b>12</b>. The substrate W placed on the substrate platform PASS<b>12</b> is received by the sixth central robot CR<b>6</b> in the resist cover film removal block <b>14</b>. The sixth central robot CR<b>6</b> carries the substrate W into the resist cover film removal processing group <b>70</b><i>a </i>or <b>70</b><i>b</i>. In the resist cover film removal processing group <b>70</b><i>a </i>or <b>70</b><i>b</i>, the removal unit REM removes the resist cover film on the substrate W.</p>
+<p id="p-0119" num="0118">Thereafter, the sixth central robot CR<b>6</b> takes out the substrate W that has been subjected to the removal processing from the resist cover film removal processing group <b>70</b><i>a </i>or <b>70</b><i>b</i>, and places the substrate W on the substrate platform PASS<b>10</b>.</p>
+<p id="p-0120" num="0119">The substrate W placed on the substrate platform PASS<b>10</b> is received by the fifth central robot CR<b>5</b> in the development processing block <b>13</b>. The fifth central robot CR<b>5</b> carries the substrate W into the development processing group <b>60</b><i>a </i>or <b>60</b><i>b</i>. In the development processing group <b>60</b><i>a </i>or <b>60</b><i>b</i>, the development processing unit DEW subjects the substrate W to development processing. Thereafter, the fifth central robot CR<b>5</b> takes out the substrate W that has been subjected to the development processing from the development processing group <b>60</b><i>a </i>or <b>60</b><i>b</i>, and places the substrate W on the substrate platform PASS<b>8</b>.</p>
+<p id="p-0121" num="0120">The substrate W placed on the substrate platform PASS<b>8</b> is received by the fourth central robot CR<b>4</b> in the resist cover film processing block <b>12</b>. The fourth center robot CR<b>4</b> carries the substrate W into the thermal processing group <b>121</b>. In the thermal processing group <b>121</b>, the substrate W after the development processing is subjected to thermal processing. The fourth central robot CR<b>4</b> takes out the thermally processed substrate W from the thermal processing group <b>121</b>, and places the substrate W on the substrate platform PASS<b>6</b>.</p>
+<p id="p-0122" num="0121">The substrate W placed on the substrate platform PASS<b>6</b> is received by the third central robot CR<b>3</b> in the resist film processing block <b>11</b>. The third central robot CR<b>3</b> places the substrate W on the substrate platform PASS<b>4</b>. The substrate W placed on the substrate platform PASS<b>4</b> is received by the second central robot CR<b>2</b> in the anti-reflection film processing block <b>10</b>. The second central robot CR<b>2</b> places the substrate W on the substrate platform PASS<b>2</b>. The substrate W placed on the substrate platform PASS<b>2</b> is stored in the carrier C by the indexer robot IR in the indexer block <b>9</b>.</p>
+<p id="p-0123" num="0122">(3) As to Top Surface and Edge Cleaning/Drying Unit</p>
+<p id="p-0124" num="0123">The top surface and edge cleaning/drying unit SD will be herein described in detail with reference to the drawings. Note that the operation of each of constituent elements in the top surface and edge cleaning/drying unit SD, described below, is controlled by the main controller (controller) <b>91</b> shown in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0125" num="0124">(3-a) Configuration of Top Surface and Edge Cleaning/Drying Unit</p>
+<p id="p-0126" num="0125"><figref idref="DRAWINGS">FIG. 4</figref> is a diagram for explaining the configuration of the top surface and edge cleaning/drying unit SD. In the top surface and edge cleaning/drying unit SD, the top surface and the edge of the substrate W are cleaned (top surface and edge cleaning processing).</p>
+<p id="p-0127" num="0126">As shown in <figref idref="DRAWINGS">FIG. 4</figref>, the top surface and edge cleaning/drying unit SD includes a spin chuck <b>201</b> for rotating the substrate W about a vertical rotation axis passing through the center of the substrate W while horizontally holding the substrate W. The spin chuck <b>201</b> is secured to an upper end of a rotation shaft <b>203</b> that is rotated by a chuck rotation driving mechanism <b>204</b>. A suction path (not shown) is formed in the spin chuck <b>201</b>. Air inside the suction path is exhausted with the substrate W placed on the spin chuck <b>201</b>, to adsorb a lower surface of the substrate W on the spin chuck <b>201</b> under vacuum, so that the substrate W can be held in a horizontal attitude.</p>
+<p id="p-0128" num="0127">A motor <b>250</b> is provided beside the spin chuck <b>201</b>. A rotation shaft <b>251</b> is connected to the motor <b>250</b>. An arm <b>252</b> is connected to the rotation shaft <b>251</b> so as to extend in the horizontal direction, and its tip is provided with a top surface cleaning nozzle <b>260</b>. The motor <b>250</b> causes the rotation shaft <b>251</b> to rotate while causing the arm <b>252</b> to swing. This allows the top surface cleaning nozzle <b>260</b> to move between an upper position and an outer position of the substrate W held by the spin chuck <b>201</b>.</p>
+<p id="p-0129" num="0128">A supply pipe <b>270</b> for cleaning processing is provided so as to pass through the motor <b>250</b>, the rotation shaft <b>251</b>, and the arm <b>252</b>. The supply pipe <b>270</b> is connected to a cleaning liquid supply source R<b>1</b> and a rinse liquid supply source R<b>2</b> through a valve Va and a valve Vb, respectively. By controlling the opening and closing of the valves Va and Vb, it is possible to select a processing liquid supplied to the supply pipe <b>270</b> and adjust the supply amount thereof. In the configuration shown in <figref idref="DRAWINGS">FIG. 4</figref>, a cleaning liquid can be supplied to the supply pipe <b>270</b> by opening the valve Va, and a rinse liquid can be supplied to the supply pipe <b>270</b> by opening the valve Vb. By thus controlling the opening and closing of the valves Va and Vb, it is possible to supply the cleaning liquid or the rinse liquid to the top surface of the substrate W through the supply pipe <b>270</b> and the top surface cleaning nozzle <b>260</b>. This allows the top surface of the substrate W to be cleaned.</p>
+<p id="p-0130" num="0129">An example of the cleaning liquid is any one of a predetermined resist solvent, a fluorine-based medical liquid, an ammonia/hydrogen peroxide mixture, and a liquid used for the liquid immersion method in the exposure device <b>17</b>. Another example of the cleaning liquid can be also any one of pure water, a pure water solution containing a complex (ionized), carbonic water, hydrogen water, electrolytic ionic water, HFE (hydrofluoroether), hydrofluoric acid, sulfuric acid, and a sulfuric acid/hydrogen peroxide mixture. An example of the rinse liquid is any one of pure water, carbonated water, hydrogen water, electrolytic ionic water, and HFE.</p>
+<p id="p-0131" num="0130">Furthermore, an edge cleaning device moving mechanism <b>230</b> is provided beside the spin chuck <b>201</b> and in an upper part of the top surface and edge cleaning/drying unit SD. A stick-shaped supporting member <b>220</b> extending downward is attached to the edge cleaning device moving mechanism <b>230</b>. The supporting member <b>220</b> moves in the vertical direction and the horizontal direction by the edge cleaning device moving mechanism <b>230</b>.</p>
+<p id="p-0132" num="0131">An edge cleaning device <b>210</b> having a substantially cylindrical shape is attached to a lower end of the supporting member <b>220</b> so as to extend in the horizontal direction. This causes the edge cleaning device <b>210</b>, together with the supporting member <b>220</b>, to move by the edge cleaning device moving mechanism <b>230</b>. This allows one end of the edge cleaning device <b>210</b> to be opposite to the edge R of the substrate W held in the spin chuck <b>201</b>. In the following description, the one end, which is opposite to the edge R of the substrate W, of the edge cleaning device <b>210</b> is taken as a front surface.</p>
+<p id="p-0133" num="0132">The definition of the edge R of the substrate W will be herein described while referring to the following drawings. <figref idref="DRAWINGS">FIG. 5</figref> is a schematic view for explaining the edge R of the substrate W. As shown in <figref idref="DRAWINGS">FIG. 5</figref>, an anti-reflection film and a resist film (both are not illustrated) and a resist cover film, described above, are formed on the substrate W.</p>
+<p id="p-0134" num="0133">The substrate W has an end surface. The end surface is as schematically illustrated in <figref idref="DRAWINGS">FIG. 5</figref>. The end surface is generally referred to as a bevel portion. A region inwardly spaced a distance d apart from an end of the top surface of the substrate W on which the resist cover film is formed is generally referred to as a peripheral portion. In the present embodiment, the bevel portion and the peripheral portion are generically referred to as an edge R. Note that the distance d is 2 to 3 mm, for example. Furthermore, the edge R need not include the peripheral portion. In this case, the top surface and edge cleaning/drying unit SD cleans only the bevel portion at the edge R of the substrate W. Generally, the resist cover film may not be formed so as to cover the peripheral portion on the substrate W in many cases. That is, one or both of the anti-reflection film and the resist film formed in the peripheral portion on the substrate W is/are exposed.</p>
+<p id="p-0135" num="0134">Returning to <figref idref="DRAWINGS">FIG. 4</figref>, the edge cleaning device <b>210</b> moves to a position in the vicinity of the edge R of the substrate W on the spin chuck <b>201</b> by the edge cleaning device moving mechanism <b>230</b> during the top surface and edge cleaning processing, while waiting outside the spin chuck <b>201</b> in a time period during which the top surface and edge cleaning processing is not performed. The edge cleaning device <b>210</b> has a space in its inner part (a cleaning chamber <b>211</b>, described later). A cleaning liquid supply pipe <b>241</b> and an exhaust pipe <b>244</b> are connected to the edge cleaning device <b>210</b>. The cleaning liquid supply pipe <b>241</b> is connected to a cleaning liquid supply system (not shown) through a valve <b>242</b>. By opening the valve <b>242</b>, the cleaning liquid is supplied to the inner space of the edge cleaning device <b>210</b> through the cleaning liquid supply pipe <b>241</b>.</p>
+<p id="p-0136" num="0135">Furthermore, the exhaust pipe <b>244</b> is connected to an exhaust unit <b>245</b>. The exhaust unit <b>245</b> sucks in an atmosphere in the inner space of the edge cleaning device <b>210</b>, and exhausts the air through the exhaust pipe <b>244</b>.</p>
+<p id="p-0137" num="0136">The details of the edge cleaning device <b>210</b> will be herein described. <figref idref="DRAWINGS">FIG. 6</figref> is a diagram for explaining the configuration of the edge cleaning device <b>210</b> in the top surface and edge cleaning/drying unit SD shown in <figref idref="DRAWINGS">FIG. 4</figref>. <figref idref="DRAWINGS">FIG. 6</figref> (<i>a</i>) is a vertical sectional view of the edge cleaning device <b>210</b>, and <figref idref="DRAWINGS">FIG. 6</figref> (<i>b</i>) is a front view of the edge cleaning device <b>210</b>. As shown in <figref idref="DRAWINGS">FIG. 6</figref> (<i>a</i>), a cleaning chamber <b>211</b> is formed inside a substantially cylindrical housing <b>210</b><i>a </i>in the edge cleaning device <b>210</b>. Furthermore, as shown in <figref idref="DRAWINGS">FIGS. 6</figref> (<i>a</i>) and <b>6</b> (<i>b</i>), an opening <b>212</b> for causing the cleaning chamber <b>211</b> and the outside of the housing <b>210</b><i>a </i>to communicate with each other is formed on the side of a front surface of the housing <b>210</b><i>a</i>. The opening <b>212</b> has an upper surface and a lower surface in a circular arc shape such that the vertical width thereof is gradually enlarged sideward on both sides from the center thereof. During the top surface and edge cleaning processing of the substrate W, the edge R of the substrate W held by suction on the spin chuck <b>201</b> is inserted into the opening <b>212</b>.</p>
+<p id="p-0138" num="0137">A brush <b>213</b> having a substantially cylindrical shape is arranged so as to extend in the vertical direction within the cleaning chamber <b>211</b>. The brush <b>213</b> is attached to a rotation shaft <b>214</b> extending in the vertical direction. An upper end and a lower end of the rotation shaft <b>214</b> are respectively attached to rotation bearings formed at the top and the bottom of the cleaning chamber <b>211</b>. This causes the brush <b>213</b> to be rotatably supported by the cleaning chamber <b>211</b> and the rotation shaft <b>214</b>. During the top surface and edge cleaning processing of the substrate W, the edge R of the rotating substrate W and the brush <b>213</b> come into contact with each other. This causes the edge R of the substrate W to be cleaned with the brush <b>213</b>.</p>
+<p id="p-0139" num="0138">Here, in the top surface and edge cleaning/drying unit SD shown in <figref idref="DRAWINGS">FIG. 4</figref>, the rotation shaft <b>214</b> having the brush <b>213</b> attached thereto is arranged so as to be substantially parallel to the rotation shaft <b>203</b> having the spin chuck <b>201</b> secured thereto. This causes the brush <b>213</b> to rotate with the brush <b>213</b> brought into reliable contact with the edge R of the rotating substrate W.</p>
+<p id="p-0140" num="0139">The cleaning liquid supply pipe <b>241</b> and the exhaust pipe <b>244</b>, described above, are connected to the top of the edge cleaning device <b>210</b>. The cleaning liquid supply pipe <b>241</b> is connected to cleaning liquid supply paths <b>241</b><i>a </i>and <b>241</b><i>b </i>formed within the housing <b>210</b><i>a</i>. As shown in <figref idref="DRAWINGS">FIG. 6</figref> (<i>a</i>), the cleaning liquid supply path <b>241</b><i>a </i>extends to an inner surface in an upper part of the cleaning chamber <b>211</b> from the outside of the housing <b>210</b><i>a</i>. The cleaning liquid supply path <b>241</b><i>b </i>extends to an inner surface in a lower part of the cleaning chamber <b>211</b> from the outside of the housing <b>210</b><i>a</i>. <figref idref="DRAWINGS">FIG. 6</figref> (<i>a</i>) illustrates only a part of the cleaning liquid supply pipe <b>241</b><i>b. </i></p>
+<p id="p-0141" num="0140">Such a configuration causes the cleaning liquid supplied to the edge cleaning device <b>210</b> to be sprayed in the vertical direction toward the edge R of the substrate W that comes into contact with the brush <b>213</b> within the cleaning chamber <b>211</b> during the top surface and edge cleaning processing of the substrate W. This causes the edge R of the substrate W to be efficiently cleaned. The exhaust pipe <b>244</b> is inserted into the cleaning chamber <b>211</b> through a hole provided at the top of the housing <b>210</b><i>a</i>. This causes an atmosphere in the cleaning chamber <b>211</b> to be sucked in by the exhaust unit <b>245</b> shown in <figref idref="DRAWINGS">FIG. 4</figref> and exhausted through the exhaust pipe <b>244</b>, as described above. In the cleaning chamber <b>211</b>, the exhaust unit <b>245</b> thus exhausts the atmosphere inside thereof, so that the volatilized cleaning liquid and a mist of the cleaning liquid are efficiently exhausted.</p>
+<p id="p-0142" num="0141">In the foregoing, an example of the cleaning liquid sprayed on the edge R of the substrate W is any one of a predetermined resist solvent, a fluorine-based medical liquid, an ammonia/hydrogen peroxide mixture, and a liquid used for the liquid immersion method in the exposure device <b>17</b>. Another example of the cleaning liquid can be also any one of pure water, a pure water solution containing a complex (ionized), carbonic water, hydrogen water, electrolytic ionic water, HFE (hydrofluoroether), hydrofluoric acid, sulfuric acid, and a sulfuric acid/hydrogen peroxide mixture, similarly to the example of the cleaning liquid for cleaning the top surface of the substrate W.</p>
+<p id="p-0143" num="0142">When the edge R of the substrate W is cleaned with the brush <b>213</b>, as described above, the brush <b>213</b> is brought into direct contact with the edge R of the substrate W, so that a contaminant at the edge R of the substrate W can be physically stripped. This allows the contaminant that has firmly adhered to the edge R to be more reliably removed.</p>
+<p id="p-0144" num="0143">(3-b) Operations of Top Surface and Edge Cleaning/Drying Unit</p>
+<p id="p-0145" num="0144">The processing operations of the top surface and edge cleaning/drying processing unit SD having the above-mentioned configuration will be described. When the substrate W is carried into the top surface and edge cleaning/drying unit SD, the seventh central robot CR<b>7</b> shown in <figref idref="DRAWINGS">FIG. 1</figref> places the substrate W on the spin chuck <b>201</b>. The substrate W placed on the spin chuck <b>201</b> is held by suction on the spin chuck <b>201</b>. Then, the top surface cleaning nozzle <b>260</b> moves to above the center of the substrate W while the edge cleaning device <b>210</b> moves to a position in the vicinity of the edge R of the substrate W on the spin chuck <b>201</b>. The rotation shaft <b>203</b> rotates so that the substrate W rotates.</p>
+<p id="p-0146" num="0145">In this case, the cleaning liquid is discharged to the top surface of the substrate W from the top surface cleaning nozzle <b>260</b>. This causes the top surface of the substrate W to be cleaned. At the same time, the cleaning liquid is supplied to the edge cleaning device <b>210</b>. This causes the edge R of the substrate W to be cleaned. After an elapse of a predetermined time period, the top surface cleaning nozzle <b>260</b> discharges the rinse liquid to the top surface of the substrate W in place of the cleaning liquid. This causes the cleaning liquid supplied onto the substrate W to be cleaned away. At this time, the supply of the cleaning liquid to the edge cleaning device <b>210</b> is stopped. Thus, the rinse liquid discharged to the top surface of the substrate W flows into the edge R of the substrate W, so that the cleaning liquid that adheres to the edge R of the substrate W is cleaned away.</p>
+<p id="p-0147" num="0146">Furthermore, after an elapse of a predetermined time period, the top surface cleaning nozzle <b>260</b> stops to discharge the rinse liquid to the substrate W, to move outward apart from the substrate W held by the spin chuck <b>201</b>. The edge cleaning device <b>210</b> also moves outward apart from the substrate W. The number of revolutions of the rotation shaft <b>203</b> increases. This causes a great centrifugal force to act on the rinse liquid remaining on the substrate W. Thus, the liquid that adheres to the top surface and the edge R of the substrate W is scattered, so that the substrate W is dried.</p>
+<p id="p-0148" num="0147">Note that in the cleaning/drying processing group <b>80</b>, a component of the resist cover film on the substrate W is eluted in the cleaning liquid during the above-mentioned top surface and edge cleaning processing. This can prevent the component of the resist cover film that has been eluted in the cleaning liquid from remaining on the substrate W. Note that the component of the resist cover film may be eluted in pure water with the pure water poured onto the substrate W and held thereon for a certain time period, for example.</p>
+<p id="p-0149" num="0148">The cleaning liquid and the rinse liquid may be supplied onto the substrate W by means of a soft spray method using a two-fluid nozzle that discharges a fluid mixture of a gas and a liquid. When the two-fluid nozzle is used as the top surface cleaning nozzle <b>260</b> shown in <figref idref="DRAWINGS">FIG. 4</figref>, the two-fluid nozzle that sprays the fluid mixture is moved so as to pass through the center of the rotating substrate W from the outside of the substrate W. This allows the fluid mixture including the cleaning liquid or the rinse liquid to be efficiently sprayed over the whole surface of the substrate W. When the two-fluid nozzle is thus used, inert gas such as nitrogen gas (N<sub>2</sub>), argon gas, or helium gas must be supplied to the top surface cleaning nozzle <b>260</b>, as indicated by a dotted line in <figref idref="DRAWINGS">FIG. 4</figref>.</p>
+<p id="p-0150" num="0149">(3-c) Another Example of Configuration of Top Surface and Edge Cleaning/Drying Unit</p>
+<p id="p-0151" num="0150">The top surface and edge cleaning/drying unit SD may have the following configuration. <figref idref="DRAWINGS">FIG. 7</figref> is a diagram for explaining another example of the configuration of the top surface and edge cleaning/drying unit SD. The difference between the top surface and edge cleaning/drying unit SD shown in <figref idref="DRAWINGS">FIG. 7</figref> and the top surface and edge cleaning/drying unit SD shown in <figref idref="DRAWINGS">FIG. 4</figref> will be described.</p>
+<p id="p-0152" num="0151">As shown in <figref idref="DRAWINGS">FIG. 7</figref>, in the top surface and edge cleaning/drying unit SD in this example, a two-fluid nozzle <b>310</b> is provided as a constituent element for cleaning an edge R of a substrate W in place of the edge cleaning device <b>210</b> shown in <figref idref="DRAWINGS">FIG. 4</figref>. Specifically, a motor <b>301</b> is provided outside a spin chuck <b>201</b>. A rotation shaft <b>302</b> is connected to the motor <b>301</b>. An arm <b>303</b> is connected to the rotation shaft <b>302</b> so as to extend in the horizontal direction, and the two-fluid nozzle <b>310</b> is provided at the tip of the arm <b>303</b>. The two-fluid nozzle <b>310</b> discharges a fluid mixture of a gas and a liquid.</p>
+<p id="p-0153" num="0152">Note that at the tip of the arm <b>303</b>, the two-fluid nozzle <b>310</b> is attached thereto so as to be inclined to the top surface of the substrate W held by the spin chuck <b>201</b>. When top surface and edge cleaning processing of the substrate W is started, the motor <b>301</b> causes the rotation shaft <b>302</b> to rotate while causing the arm <b>303</b> to swing. This causes the two-fluid nozzle <b>310</b> to move to above the edge R of the substrate W held by the spin chuck <b>201</b>. As a result, a discharge section <b>310</b><i>a </i>of the fluid mixture in the two-fluid nozzle <b>310</b> is opposite to the edge R of the substrate W.</p>
+<p id="p-0154" num="0153">A cleaning liquid supply pipe <b>331</b> is provided so as to pass through the motor <b>301</b>, the rotation shaft <b>302</b>, and the arm <b>303</b>. The cleaning liquid supply pipe <b>331</b> has its one end connected to the two-fluid nozzle <b>310</b> and the other end connected to a cleaning liquid supply system (not shown) through a valve <b>332</b>. A cleaning liquid is supplied to the two-fluid nozzle <b>310</b> through the cleaning liquid supply pipe <b>331</b> by opening the valve <b>332</b>. One end of a gas supply pipe <b>341</b>, together with the cleaning liquid supply pipe <b>331</b>, is connected to the two-fluid nozzle <b>310</b>. The other end of the gas supply pipe <b>341</b> is connected to a gas supply system (not shown) through a valve <b>342</b>. A gas is supplied to the two-fluid nozzle <b>310</b> by opening the valve <b>342</b>. An example of the gas supplied to the two-fluid nozzle <b>310</b> is inert gas such as nitrogen gas (N<sub>2</sub>), argon gas, or helium gas.</p>
+<p id="p-0155" num="0154">When the substrate W is subjected to the top surface and edge cleaning processing, the cleaning liquid and the gas are supplied to the two-fluid nozzle <b>310</b>. This causes the cleaning liquid and a rinse liquid to be discharged from the top surface cleaning nozzle <b>260</b> to the top surface of the substrate W while causing the fluid mixture to be discharged from the two-fluid nozzle <b>310</b> to the edge R of the rotating substrate W. Thus, a high cleaning effect can be obtained by using the fluid mixture. This causes the edge R of the substrate W to be satisfactorily cleaned. The fluid mixture of the gas and the liquid is discharged to the edge R of the substrate W, so that the edge R of the substrate W is cleaned in non-contact, which prevents the edge R of the substrate W from being damaged during the cleaning. Furthermore, it is also possible to easily control the cleaning conditions of the edge R of the substrate W by controlling the discharge pressure of the fluid mixture and the ratio of the gas and the liquid in the fluid mixture. Furthermore, the two-fluid nozzle <b>310</b> allows the uniform fluid mixture to be discharged to the edge R of the substrate W, which prevents the edge R from being non-uniform in cleaning.</p>
+<p id="p-0156" num="0155">(3-d) Still Another Example of Configuration of Edge Cleaning Unit</p>
+<p id="p-0157" num="0156">The top surface and edge cleaning/drying unit SD may have the following configuration. <figref idref="DRAWINGS">FIG. 8</figref> is a diagram for explaining still another example of the configuration of the top surface and edge cleaning/drying unit SD. The difference between the top surface and edge cleaning/drying unit SD shown in <figref idref="DRAWINGS">FIG. 8</figref> and the top surface and edge cleaning/drying unit SD shown in <figref idref="DRAWINGS">FIG. 7</figref> will be described. As shown in <figref idref="DRAWINGS">FIG. 8</figref>, in the top surface and edge cleaning/drying unit SD in this example, a ultrasonic nozzle <b>410</b> is provided in place of the two-fluid nozzle <b>310</b> at the tip of an arm <b>303</b>. In this example, the ultrasonic nozzle <b>410</b> is also attached to the tip of the arm <b>303</b> so as to be inclined to a top surface of a substrate W held by a spin chuck <b>201</b>.</p>
+<p id="p-0158" num="0157">A cleaning liquid supply pipe <b>331</b> is connected to the ultrasonic nozzle <b>410</b>. Therefore, a cleaning liquid is supplied to the ultrasonic nozzle <b>410</b> through the cleaning liquid supply pipe <b>331</b> by opening a valve <b>332</b>, as in the example shown in <figref idref="DRAWINGS">FIG. 7</figref>. A high-frequency vibrator <b>411</b> is contained in the ultrasonic nozzle <b>410</b>. The high-frequency vibrator <b>411</b> is electrically connected to a high-frequency generator <b>420</b>. When the substrate W is subjected to edge cleaning processing, pure water is discharged toward an edge R of the substrate W from the ultrasonic nozzle <b>410</b>. Here, when the pure water is discharged from the ultrasonic nozzle <b>410</b>, a high-frequency current is supplied to the high-frequency vibrator <b>411</b> from the high-frequency generator <b>420</b>. Thus, the high-frequency vibrator <b>411</b> is ultrasonically vibrated, to apply a high-frequency output corresponding to the value of the high-frequency current to the pure water passing through the ultrasonic nozzle <b>410</b>. As a result, the pure water in a ultrasonically vibrated state is discharged to the edge R of the substrate W, to clean the edge R of the substrate W.</p>
+<p id="p-0159" num="0158">(4) Effects of First Embodiment</p>
+<p id="p-0160" num="0159">(4-a) First Effect of Top Surface and Edge Cleaning Processing</p>
+<p id="p-0161" num="0160">In the substrate processing apparatus <b>500</b> according to the first embodiment, the top surface and edge cleaning/drying unit SD in the cleaning/drying processing group <b>80</b> subjects the substrate W before the exposure processing to the top surface and edge cleaning processing. This causes the top surface and the edge R of the substrate W carried into the exposure device <b>17</b> to be kept clean. As a result, contamination in the exposure device <b>17</b> due to contamination on the top surface and the edge R of the substrate W before the exposure processing can be sufficiently prevented, which sufficiently prevents a defective dimension and a defective shape of an exposure pattern.</p>
+<p id="p-0162" num="0161">(4-b) Second Effect of Top Surface and Edge Cleaning Processing</p>
+<p id="p-0163" num="0162">In the substrate processing apparatus <b>500</b> according to the first embodiment, the top surface and the edge R of the substrate W can be concurrently or simultaneously cleaned in the top surface and edge cleaning/drying unit SD, as described above. This eliminates the necessity of individually cleaning the top surface and the edge R of the substrate W before the exposure processing, which inhibits throughput in substrate processing from being reduced.</p>
+<p id="p-0164" num="0163">The top surface cleaning unit that cleans the top surface of the substrate W and the edge cleaning unit that cleans the edge R of the substrate W need not be individually provided. This causes the cleaning/drying processing block <b>15</b> to be miniaturized. Furthermore, throughput in substrate processing can be also further improved by increasing the number of top surface and edge cleaning/drying units SD provided within the cleaning/drying processing block <b>15</b>. Another processing unit can be also provided within the cleaning/drying processing group <b>80</b> in the cleaning/drying processing block <b>15</b>.</p>
+<p id="p-0165" num="0164">(4-c) Effects of Development Processing Block</p>
+<p id="p-0166" num="0165">Generally in the substrate processing apparatus having a plurality of blocks provided side by side therein, a development processing block that subjects the substrate W to development processing is provided with a development processing group for subjecting the substrate W to the development processing and a thermal processing group for subjecting the substrate after the development processing to thermal processing. Furthermore, when the development processing block is provided with a central robot that transports the substrate, the development processing group and the thermal processing group for development are generally provided so as to be opposite to each other with the central robot interposed therebetween.</p>
+<p id="p-0167" num="0166">On the other hand, in the development processing block <b>13</b> in the substrate processing apparatus <b>500</b> according to the first embodiment, the development processing groups <b>60</b><i>a </i>and <b>60</b><i>b </i>are provided opposite to each other with the fifth central robot CR<b>5</b> interposed therebetween. That is, in the development processing block <b>13</b>, the development processing group <b>60</b><i>a </i>is provided at a position of the thermal processing group for development to be generally provided. Thus, the development processing block <b>13</b> includes a larger number of (eight) development processing units DEV, as compared with those in the conventional substrate processing apparatus.</p>
+<p id="p-0168" num="0167">Even when a time period required for the development processing is lengthened, therefore, the large number of development processing units DEV can subject a large number of substrates W to development processing, which allows throughput in substrate processing of the whole substrate processing apparatus to be sufficiently improved.</p>
+<p id="p-0169" num="0168">(5) Others</p>
+<p id="p-0170" num="0169">In order to previously elude or deposit a component of a film on the substrate W, it is preferable that a liquid (an immersion liquid) used for the liquid immersion method in the exposure device <b>17</b> is used as the cleaning liquid used in the above-mentioned top surface and edge cleaning processing. Examples of the immersion liquid include pure water, glycerol with a high refractive index, a liquid mixture of fine particles with a high refractive index (e.g., aluminum oxide) and pure water, and an organic liquid. Other examples of the immersion liquid include a pure water solution containing a complex (ionized), carbonic water, hydrogen water, electrolytic ionic water, HFE (hydrofluoroether), hydrofluoric acid, sulfuric acid, and a sulfuric acid/hydrogen peroxide mixture.</p>
+<p id="p-0171" num="0170">In the present embodiment, before the exposure device <b>17</b> subjects the substrate W to the exposure processing, the resist cover film is formed on the resist film in the resist cover film processing block <b>12</b>. In this case, even if the substrate W is brought into contact with the liquid in the exposure device <b>17</b>, the resist cover film prevents the resist film from coming into contact with the liquid, which prevents a component of the resist from being eluted in the liquid.</p>
+<heading id="h-0007" level="1">&#x3c;2&#x3e; Second Embodiment</heading>
+<p id="p-0172" num="0171">The difference between a substrate processing apparatus according to a second embodiment of the present invention and the substrate processing apparatus <b>500</b> according to the first embodiment will be now described.</p>
+<p id="p-0173" num="0172">(1) Configuration of Substrate Processing Apparatus</p>
+<p id="p-0174" num="0173"><figref idref="DRAWINGS">FIG. 9</figref> is a plan view of a substrate processing apparatus <b>500</b> according to a second embodiment, <figref idref="DRAWINGS">FIG. 10</figref> is a side view on one side of the substrate processing apparatus <b>500</b> shown in <figref idref="DRAWINGS">FIG. 9</figref>, and <figref idref="DRAWINGS">FIG. 11</figref> is a side view on the other side of the substrate processing apparatus <b>500</b> shown in <figref idref="DRAWINGS">FIG. 9</figref>. As shown in <figref idref="DRAWINGS">FIGS. 9 to 11</figref>, the substrate processing apparatus <b>500</b> according to the present embodiment differs from the substrate processing apparatus <b>500</b> according to the first embodiment in the configuration of a resist cover film processing block <b>12</b>.</p>
+<p id="p-0175" num="0174">The resist cover film processing block <b>12</b> includes thermal processing groups <b>120</b> and <b>122</b> for resist cover film, a coating processing group <b>50</b> for resist cover film, and a fourth central robot CR<b>4</b>. The coating processing group <b>50</b> is provided opposite to the thermal processing groups <b>120</b> and <b>122</b> with the fourth central robot CR<b>4</b> interposed therebetween. As shown in <figref idref="DRAWINGS">FIG. 11</figref>, the thermal processing group <b>122</b> has a vertical stack of two heating units HP and two cooling units CP.</p>
+<p id="p-0176" num="0175">The substrate processing apparatus <b>500</b> according to the present embodiment differs from the substrate processing apparatus <b>500</b> according to the first embodiment in the configuration of a development processing block <b>13</b>. The development processing block <b>13</b> includes development processing groups <b>60</b><i>c </i>and <b>60</b><i>d</i>, thermal processing groups <b>130</b> and <b>131</b> for development, and a fifth central robot CR<b>5</b>. Here, as shown in <figref idref="DRAWINGS">FIG. 11</figref>, the development processing group <b>60</b><i>c </i>is stacked on the thermal processing groups <b>130</b> and <b>131</b>. Thus, in the development processing block <b>13</b>, the development processing group <b>60</b><i>d </i>is provided opposite to the development processing group <b>60</b><i>c </i>and the thermal processing groups <b>130</b> and <b>131</b> with the fifth central robot CR<b>5</b> interposed therebetween.</p>
+<p id="p-0177" num="0176">As shown in <figref idref="DRAWINGS">FIG. 10</figref>, the development processing group <b>60</b><i>d </i>has a vertical stack of five development processing units DEV. As shown in <figref idref="DRAWINGS">FIG. 11</figref>, the development processing group <b>60</b><i>c </i>has a vertical stack of two development processing units DEV. Each of the thermal processing groups <b>130</b> and <b>131</b> has a vertical stack of two heating units HP and two cooling units CP. Each of the thermal processing groups <b>130</b> and <b>131</b> also has a local controller LC for controlling the respective temperatures of the heating unit HP and the cooling unit CP arranged in its uppermost part.</p>
+<p id="p-0178" num="0177">(2) Operations of Substrate Processing Apparatus</p>
+<p id="p-0179" num="0178">By the above-mentioned configuration, the substrate processing apparatus <b>500</b> according to the present embodiment performs operations different from those in the first embodiment. First, in the second embodiment, carriers C are also respectively placed on carrier platforms <b>92</b> in an indexer block <b>9</b>. An unprocessed substrate W that is stored in the carrier C is received by an indexer robot IR, and is placed on a substrate platform PASS<b>5</b> by being transported in the same manner as that in the first embodiment.</p>
+<p id="p-0180" num="0179">The substrate W placed on the substrate platform PASS<b>5</b> is received by a fourth central robot CR<b>4</b> in the resist cover film processing block <b>12</b>. The fourth central robot CR<b>4</b> carries the substrate W into the coating processing group <b>50</b>. This causes a coating of a resist cover film to be formed on a resist film. Thereafter, the fourth central robot CR<b>4</b> then takes out the substrate W that has been subjected to coating processing from the coating processing group <b>50</b>, and carries the substrate W into the thermal processing group <b>120</b> or <b>122</b>. The fourth central robot CR<b>4</b> then takes out the thermally processed substrate W from the thermal processing group <b>120</b> or <b>122</b>, and places the substrate W on a substrate platform PASS<b>7</b>.</p>
+<p id="p-0181" num="0180">The substrate W placed on the substrate platform PASS<b>7</b> is received by the fifth central robot CR<b>5</b> in the development processing block <b>13</b>, and is transported to an exposure device <b>17</b> in the same manner as that in the first embodiment. The substrate W after exposure processing by the exposure device <b>17</b> is taken out by an interface transporting mechanism IFR, and is placed on a substrate platform PASS<b>10</b> by being transported in the same manner as that in the first embodiment. The substrate W placed on the substrate platform PASS<b>10</b> is received by the fifth central robot CR<b>5</b> in the development processing block <b>13</b>. The fifth central robot CR<b>5</b> carries the substrate W into the development processing group <b>60</b><i>c </i>or <b>60</b><i>d</i>. In the development processing groups <b>60</b><i>c </i>or <b>60</b><i>d</i>, the development processing unit DEW subjects the substrate W to development processing. Thereafter, the fifth central robot CR<b>5</b> takes out the substrate W that has been subjected to the development processing from the development processing group <b>60</b><i>c </i>or <b>60</b><i>d</i>, and carries the substrate W into the thermal processing group <b>130</b> or <b>131</b>. The fifth central robot CR<b>5</b> then takes out the thermally processed substrate W from the thermal processing group <b>130</b> or <b>131</b>, and places the substrate W on a substrate platform PASS<b>8</b>.</p>
+<p id="p-0182" num="0181">The substrate W placed on the substrate platform PASS<b>8</b> is received by the fourth central robot CR<b>4</b> in the resist cover film processing block <b>12</b>. The fourth central robot CR<b>4</b> places the substrate W on a substrate platform PASS<b>6</b>. The substrate W placed on the substrate platform PASS<b>6</b> is transported to the indexer block <b>9</b> and stored in the carrier C in the same manner as that in the first embodiment.</p>
+<p id="p-0183" num="0182">(3) Effects of Second Embodiment</p>
+<p id="p-0184" num="0183">Generally in the substrate processing apparatus having a plurality of blocks provided side by side therein, the development processing block in which the substrate W is subjected to development processing is provided with a development processing group that subjects the substrate W to the development processing and a thermal processing group for subjecting the substrate W after the development processing to thermal processing.</p>
+<p id="p-0185" num="0184">Furthermore, when the development processing block is provided with a central robot that transports the substrate W, the development processing group and the thermal processing group for development are generally provided so as to be opposite to each other with the central robot interposed therebetween. On the other hand, in the development processing block <b>13</b> in the substrate processing apparatus <b>500</b> according to the second embodiment, the development processing groups <b>60</b><i>a </i>and <b>60</b><i>b </i>are provided opposite to each other with the fifth central robot CR<b>5</b> interposed therebetween. Thus, the development processing block <b>13</b> includes a larger number of (seven in this example) development processing units DEV, as compared with those in the conventional substrate processing apparatus.</p>
+<p id="p-0186" num="0185">Even when a time period required for the development processing is lengthened, therefore, the large number of development processing units DEV can subject a large number of substrates W to development processing, which allows throughput in substrate processing of the whole substrate processing apparatus to be sufficiently improved. In addition, in the present embodiment, the development processing block <b>13</b> includes the thermal processing groups <b>130</b> and <b>131</b> together with the development processing groups <b>60</b><i>c </i>and <b>60</b><i>d</i>, so that the substrate W after the development processing can be quickly subjected to thermal processing.</p>
+<heading id="h-0008" level="1">&#x3c;3&#x3e; Third Embodiment</heading>
+<p id="p-0187" num="0186">The difference between a substrate processing apparatus according to a third embodiment of the present invention and the substrate processing apparatus <b>500</b> according to the first embodiment will be now described.</p>
+<p id="p-0188" num="0187">(1) Configuration of Substrate Processing Apparatus</p>
+<p id="p-0189" num="0188"><figref idref="DRAWINGS">FIG. 12</figref> is a plan view of a substrate processing apparatus according to a third embodiment, <figref idref="DRAWINGS">FIG. 13</figref> is a side view on one side of the substrate processing apparatus <b>500</b> shown in <figref idref="DRAWINGS">FIG. 12</figref>, and <figref idref="DRAWINGS">FIG. 14</figref> is a side view on the other side of the substrate processing apparatus <b>500</b> shown in <figref idref="DRAWINGS">FIG. 12</figref>. As shown in <figref idref="DRAWINGS">FIGS. 12 to 14</figref>, the substrate processing apparatus <b>500</b> according to the present embodiment differs from the substrate processing apparatus <b>500</b> according to the first embodiment in the configuration of a cleaning/drying processing block <b>15</b>.</p>
+<p id="p-0190" num="0189">The cleaning/drying processing block <b>15</b> includes a substrate reversing group <b>150</b><i>a</i>, thermal processing groups <b>150</b> and <b>150</b> for post-exposure bake, a first cleaning/drying processing group <b>80</b><i>a</i>, a second cleaning/drying processing group <b>80</b><i>b</i>, and a seventh central robot CR<b>7</b>. The first cleaning/drying processing group <b>80</b><i>a </i>and the second cleaning/drying processing group <b>80</b><i>b </i>are vertically stacked in this order. The first and second cleaning/drying processing groups <b>80</b><i>a </i>and <b>80</b><i>b </i>are provided opposite to the substrate reversing group <b>150</b><i>a </i>and the thermal processing groups <b>150</b> and <b>151</b> with the seventh central robot CR<b>7</b> interposed therebetween.</p>
+<p id="p-0191" num="0190">As shown in <figref idref="DRAWINGS">FIG. 13</figref>, the first cleaning/drying processing group <b>80</b><i>a </i>has a vertical stack of two back surface cleaning unit SDRs, and the second cleaning/drying processing group <b>80</b><i>b </i>has a vertical stack of two top surface and edge cleaning/drying units SDs. Here, the back surface cleaning unit SDR is used for cleaning a back surface of a substrate W. The substrate W is carried into the back surface cleaning unit SDR with the back surface thereof directed upward. The details of the back surface cleaning unit SDR will be described later.</p>
+<p id="p-0192" num="0191">As shown in <figref idref="DRAWINGS">FIG. 14</figref>, in the cleaning/drying processing block <b>15</b>, the thermal processing group <b>151</b> is provided adjacent to an interface block <b>16</b>. The thermal processing group <b>151</b> has a vertical stack of six heating units HP and substrate platforms PASS<b>13</b> and PASS<b>14</b>. The thermal processing group <b>151</b> has a local controller LC arranged at its uppermost part. The substrate reversing group <b>150</b><i>a </i>and the thermal processing group <b>150</b><i>b </i>are vertically stacked in this order adjacent to the thermal processing group <b>151</b>.</p>
+<p id="p-0193" num="0192">The substrate reversing group <b>150</b><i>a </i>has a vertical stack of two reversing units RT. The thermal processing group <b>150</b><i>b </i>has a vertical stack of four cooling units CP. Furthermore, the substrate reversing group <b>150</b><i>a </i>has a local controller LC for controlling the operation of the reversing unit RT and the temperature of the cooling unit CP in the thermal processing group <b>150</b><i>b</i>, described later, arranged in its uppermost part. Here, the reversing unit RT is used for reversing one surface (top surface) and the other surface (back surface) of the substrate W. When the top surface of the substrate W is directed upward, for example, the reversing unit RT reverses the substrate W such that the back surface thereof is directed upward. The details of the reversing unit RT will be described later.</p>
+<p id="p-0194" num="0193">(2) Operations of Substrate Processing Apparatus</p>
+<p id="p-0195" num="0194">By the above-mentioned configuration, operations different from those in the first embodiment are performed in the substrate processing apparatus <b>500</b> according to the present embodiment. First, in the third embodiment, carriers C are also respectively placed on carrier platforms <b>92</b> in an indexer block <b>9</b>. Here, in the present embodiment, a plurality of substrates W that are stored in each of the carriers C are held with their top surfaces directed upward. The unprocessed substrate W that is stored in the carrier C is received by an indexer robot IR, and is placed on a substrate platform PASS<b>11</b> by being transported in the same manner as that in the first embodiment.</p>
+<p id="p-0196" num="0195">The substrate W placed on the substrate platform PASS<b>11</b> is received by the seventh central robot CR<b>7</b> in the cleaning/drying processing block <b>15</b>. The seventh central robot CR<b>7</b> carries the substrate W into the top surface and edge cleaning/drying unit SD in the second cleaning/drying processing group <b>80</b><i>b</i>. In the top surface and edge cleaning/drying processing unit SD, the substrate W is subjected to top surface and edge cleaning processing, as in the first embodiment. This causes the top surface and an edge of the substrate W before exposure processing by an exposure device <b>17</b> to be kept clean. Thereafter, the seventh central robot CR<b>7</b> takes out the substrate W that has been subjected to the top surface and edge cleaning processing from the top surface and edge cleaning/drying unit SD, and carries the substrate W into the reversing unit RT in the substrate reversing group <b>150</b><i>a. </i></p>
+<p id="p-0197" num="0196">The reversing unit RT reverses one surface and the other surface of the substrate W, as described above. That is, the reversing unit RT reverses the substrate W whose top surface is directed upward such that the back surface thereof is directed upward. Subsequently, the seventh central robot CR<b>7</b> takes out the substrate W whose back surface is directed upward from the reversing unit RT, and carries the substrate W into the back surface cleaning unit SDR in the first cleaning/drying processing group <b>80</b><i>a</i>. The back surface cleaning unit SDR cleans the back surface of the substrate W, as described above.</p>
+<p id="p-0198" num="0197">Then, the seventh central robot CR<b>7</b> takes out the substrate W whose back surface has been cleaned from the back surface cleaning unit SDR, and carries the substrate W into the reversing unit RT in the substrate reversing group <b>150</b><i>a</i>. Therefore, the reversing unit RT reverses the substrate W whose back surface is directed upward such that the top surface thereof is directed upward. The seventh central robot CR<b>7</b> takes out the substrate W whose top surface is directed upward from the reversing unit RT, and places the substrate W on the substrate platform PASS<b>13</b>. The substrate W placed on the substrate platform PASS<b>13</b> is transported to the exposure device <b>17</b> in the same manner as that in the first embodiment. Thus, the exposure device <b>17</b> subjects the substrate W to exposure processing. The substrate W after the exposure processing is carried into the indexer block <b>9</b> and stored in the carrier C in the same manner as that in the first embodiment.</p>
+<p id="p-0199" num="0198">(3) As to the Back Surface Cleaning Unit</p>
+<p id="p-0200" num="0199">The back surface cleaning unit SDR will be herein described in detail with reference to the drawings. Note that the operation of each of constituent elements in the back surface cleaning unit SDR, described below, is controlled by the main controller (controller) <b>91</b> shown in <figref idref="DRAWINGS">FIG. 12</figref>.</p>
+<p id="p-0201" num="0200">(3-a) Configuration of Back Surface Cleaning Unit</p>
+<p id="p-0202" num="0201"><figref idref="DRAWINGS">FIG. 15</figref> is a diagram for explaining the configuration of the back surface cleaning unit SDR. The back surface cleaning unit SDR cleans a back surface of a substrate W (back surface cleaning processing). As shown in <figref idref="DRAWINGS">FIG. 15</figref>, the back surface cleaning unit SDR includes a mechanical spin chuck <b>201</b>R for rotating the substrate W about a vertical axis passing through the center of the substrate W while horizontally holding the substrate W. The spin chuck <b>201</b>R holds an outer peripheral portion of the substrate W. The spin chuck <b>201</b>R is secured to an upper end of a rotation shaft <b>203</b> that is rotated by a chuck rotation driving mechanism <b>204</b>.</p>
+<p id="p-0203" num="0202">As described in the foregoing, the substrate W is carried into the back surface cleaning unit SDR with the back surface thereof directed upward. Therefore, the substrate W is held by the spin chuck <b>201</b>R with the back surface thereof directed upward. At the time of the back surface cleaning processing, the substrate W is rotated while maintaining a horizontal attitude with a peripheral portion on its lower surface and the outer peripheral portion held by a spin holding pin PIN on the spin chuck <b>201</b>R.</p>
+<p id="p-0204" num="0203">A motor <b>250</b> is provided outside the spin chuck <b>201</b>R, as in the top surface and edge cleaning/drying unit SD. A rotation shaft <b>251</b> is connected to the motor <b>250</b>. An arm <b>252</b> is connected to the rotation shaft <b>251</b> so as to extend in the horizontal direction, and its tip is provided with a back surface cleaning nozzle <b>260</b>R. The motor <b>250</b> causes the rotation shaft <b>251</b> to rotate while causing the arm <b>252</b> to swing. This allows the back surface cleaning nozzle <b>260</b>R to move between an upper position and an outer position of the substrate W held by the spin chuck <b>201</b>R. A supply pipe <b>270</b> for cleaning processing is provided so as to pass through the motor <b>250</b>, the rotation shaft <b>251</b>, and the arm <b>252</b>. The supply pipe <b>270</b> is connected to a cleaning liquid supply source R<b>1</b> and a rinse liquid supply source R<b>2</b> through a valve Va and a valve Vb, respectively, as in the top surface and edge cleaning/drying unit SD. By controlling the opening and closing of the valves Va and Vb, it is possible to supply a cleaning liquid or a rinse liquid to the back surface of the substrate W through the supply pipe <b>270</b> and the back surface cleaning nozzle <b>260</b>R. This allows the back surface of the substrate W to be cleaned.</p>
+<p id="p-0205" num="0204">(3-b) Operations of Back Surface Cleaning Unit</p>
+<p id="p-0206" num="0205">When the substrate W is carried into the back surface cleaning unit SD, the seventh central robot CR<b>7</b> shown in <figref idref="DRAWINGS">FIG. 12</figref> places the substrate W on the spin chuck <b>201</b>R. The substrate W placed on the spin chuck <b>201</b>R is held by the spin chuck <b>201</b>R. The back surface cleaning nozzle <b>260</b> then moves to above the center of the substrate W. The rotation shaft <b>203</b> rotates so that the substrate W rotates. In this state, the cleaning liquid is discharged to the back surface of the substrate W from the back surface cleaning nozzle <b>260</b>R. This causes the back surface of the substrate W to be cleaned.</p>
+<p id="p-0207" num="0206">After an elapse of a predetermined time period, the back surface cleaning nozzle <b>260</b>R discharges the rinse liquid to the back surface of the substrate W in place of the cleaning liquid. This causes the cleaning liquid supplied onto the substrate W to be cleaned away. Furthermore, after an elapse of a predetermined time period, the back surface cleaning nozzle <b>260</b>R moves outward apart from the substrate W held by the spin chuck <b>201</b>R after stopping to discharge the rinse liquid to the substrate W.</p>
+<p id="p-0208" num="0207">The number of revolutions of the rotation shaft <b>203</b> increases. This causes a great centrifugal force to act on the rinse liquid remaining on the substrate W. Thus, a liquid that adheres to the back surface and the edge of the substrate W is scattered, so that the substrate W is dried. In the back surface cleaning unit SDR, the cleaning liquid and the rinse liquid may be also supplied onto the substrate W by means of a soft spray method using a two-fluid nozzle that discharges a fluid mixture of a gas and a liquid. When the two-fluid nozzle is used, inert gas such as nitrogen gas (N<sub>2</sub>), argon gas, or helium gas must be supplied, as indicated by a dotted line in <figref idref="DRAWINGS">FIG. 15</figref>, to the back surface cleaning nozzle <b>260</b>R.</p>
+<p id="p-0209" num="0208">(4) As to the Reversing Unit</p>
+<p id="p-0210" num="0209">The reversing unit RT will be herein described in detail with reference to the drawings. Note that the operation of each of constituent elements in the reversing unit RT, described below, is controlled by the main controller (controller) <b>91</b> shown in <figref idref="DRAWINGS">FIG. 12</figref>.</p>
+<p id="p-0211" num="0210">(4-a) Configuration of Reversing Unit</p>
+<p id="p-0212" num="0211"><figref idref="DRAWINGS">FIG. 16</figref> is a perspective view showing the appearance of a substrate reversing device <b>7</b> provided in the reversing unit RT, and <figref idref="DRAWINGS">FIG. 17</figref> is a perspective view showing the appearance of a part of the substrate reversing device <b>7</b>. As shown in <figref idref="DRAWINGS">FIGS. 16 and 17</figref>, the substrate reversing device <b>7</b> includes a first supporting member <b>771</b>, a second supporting member <b>772</b>, a plurality of substrate support pins <b>773</b><i>a </i>and <b>773</b><i>b</i>, a first movable member <b>774</b>, a second movable member <b>775</b>, a fixed plate <b>776</b>, a rink mechanism <b>777</b>, and a rotating mechanism <b>778</b>.</p>
+<p id="p-0213" num="0212">As shown in <figref idref="DRAWINGS">FIG. 17</figref>, the second supporting member <b>772</b> is composed of six stick-shaped members radially extending. Each of the six stick-shaped members has the substrate support pin <b>773</b><i>b </i>provided at its tip. Similarly, as shown in <figref idref="DRAWINGS">FIG. 16</figref>, the first supporting member <b>771</b> is also composed of six stick-shaped members radially extending. Each of the six stick-shaped members has the substrate support pin <b>773</b><i>a </i>provided at its tip.</p>
+<p id="p-0214" num="0213">Although in the present embodiment, each of the first and second supporting members <b>771</b> and <b>772</b> is composed of six stick-shaped members, the present invention is not limited to the same. Each of the first and second supporting members <b>771</b> and <b>772</b> may be composed of stick-shaped members in any other number or members in any other shape. For example, the first and second supporting members <b>771</b> and <b>772</b> may be respectively formed in other shapes such as disk shapes or polygonal shapes having outer peripheries along the plurality of first and second substrate support pins <b>773</b><i>a </i>and <b>773</b><i>b</i>. The first movable member <b>774</b> has a U shape. The first supporting member <b>771</b> is fixed to one end of the first movable member <b>774</b>. The other end of the first movable member <b>774</b> is connected to the link mechanism <b>777</b>. Similarly, the second movable member <b>775</b> has a U shape. The second supporting member <b>772</b> is fixed to one end of the second movable member <b>775</b>. The other end of the second movable member <b>775</b> is connected to the link mechanism <b>777</b>. The link mechanism <b>777</b> is attached to a rotation axis of the rotating mechanism <b>778</b>. The link mechanism <b>777</b> and the rotating mechanism <b>778</b> are attached to the fixed plate <b>776</b>.</p>
+<p id="p-0215" num="0214">The link mechanism <b>777</b> shown in <figref idref="DRAWINGS">FIG. 16</figref> contains an air cylinder or the like, which allows the first movable member <b>774</b> and the second movable member <b>775</b> to move to a relatively spaced state and a closely-spaced state. Furthermore, the rotating mechanism <b>778</b> shown in <figref idref="DRAWINGS">FIG. 16</figref> contains a motor or the like, which allows the first movable member <b>774</b> and the second movable member <b>775</b> to rotate through an angle of 180 degrees, for example, about a horizontal axis through the link mechanism <b>777</b>.</p>
+<p id="p-0216" num="0215">(4-b) Operations of the Reversing Unit</p>
+<p id="p-0217" num="0216"><figref idref="DRAWINGS">FIGS. 18 and 19</figref> are schematic views showing the operations of the substrate reversing device <b>7</b> shown in <figref idref="DRAWINGS">FIG. 16</figref>. First, as shown in <figref idref="DRAWINGS">FIG. 18(</figref><i>a</i>), the seventh central robot CR<b>7</b> shown in <figref idref="DRAWINGS">FIG. 12</figref> carries the substrate W into the substrate reversing device <b>7</b>. In this case, the action of the link mechanism <b>777</b> causes the first movable member <b>774</b> and the second movable member <b>775</b> to be held in a vertically spaced state.</p>
+<p id="p-0218" num="0217">The hands CRH<b>1</b> and CRH<b>12</b> of the seventh central robot CR<b>7</b> transfer the substrate W onto the plurality of substrate support pins <b>773</b> in the second supporting member <b>772</b>. After the substrate W is transferred, the hands CRH<b>11</b> and CRH<b>12</b> of the seventh central robot CR<b>7</b> exit from the substrate reversing device <b>7</b>. Then, as shown in <figref idref="DRAWINGS">FIG. 18</figref> (<i>b</i>), the action of the link mechanism <b>777</b> causes the first movable member <b>774</b> and the second movable member <b>775</b> to move to a vertically closely-spaced state.</p>
+<p id="p-0219" num="0218">Subsequently, as shown in <figref idref="DRAWINGS">FIG. 19</figref> (<i>c</i>), the action of the rotating mechanism <b>778</b> causes the first movable member <b>774</b> and the second movable member <b>775</b> to rotate through an angle of 180 degrees in a direction indicated by an arrow &#x3b8;<b>7</b> about a horizontal axis. In this case, the substrate W, together with the first movable member <b>774</b> and the second movable member <b>775</b>, rotates through an angle of 180 degrees while being held by the plurality of substrate support pins <b>773</b><i>a </i>and <b>773</b><i>b </i>respectively provided in the first supporting member <b>771</b> and the second supporting member <b>772</b>. Finally, the action of the link mechanism <b>777</b> causes the first movable member <b>774</b> and the second movable member <b>775</b> to move to a vertically spaced state. The hands CRH<b>11</b> and CRH<b>12</b> of the seventh central robot CR<b>7</b> enter the substrate reversing device <b>7</b>, and exit therefrom with the substrate W held, as shown in <figref idref="DRAWINGS">FIG. 19</figref> (<i>d</i>).</p>
+<p id="p-0220" num="0219">(5) Effects of Third Embodiment</p>
+<p id="p-0221" num="0220">In the substrate processing apparatus <b>500</b> according to the third embodiment, the substrate W before the exposure processing is subjected to the top surface and edge cleaning processing by the top surface and edge cleaning/drying unit SD in the second cleaning/drying processing group <b>80</b><i>b</i>, and is subjected to the back surface cleaning processing by the back surface cleaning unit SDR in the first cleaning/drying processing group <b>80</b><i>a</i>. Thus, the top surface, the back surface, and the edge of the substrate W before the exposure processing by the exposure device <b>17</b> are cleaned. This causes the top surface, the back surface, and the edge of the substrate W carried into the exposure device <b>17</b> to be kept clean. As a result, contamination in the exposure device <b>17</b> due to contamination on the top surface, the back surface, and the edge of the substrate W before the exposure processing can be further sufficiently prevented, which can more sufficiently prevent a defective dimension and a defective shape of an exposure pattern.</p>
+<p id="p-0222" num="0221">Although the back surface of the substrate W is held by suction on the spin chuck <b>201</b> (<figref idref="DRAWINGS">FIG. 4</figref>) during the top surface and edge cleaning processing, the back surface cleaning processing is quickly performed after the top surface and edge cleaning processing. Therefore, suction marks on the back surface of the substrate W are easily removed.</p>
+<heading id="h-0009" level="1">&#x3c;4&#x3e; Fourth Embodiment</heading>
+<p id="p-0223" num="0222">The difference between a substrate processing apparatus according to a fourth embodiment of the present invention and the substrate processing apparatus <b>500</b> according to the first embodiment will be now described.</p>
+<p id="p-0224" num="0223">(1) Configuration of Substrate Processing Apparatus</p>
+<p id="p-0225" num="0224"><figref idref="DRAWINGS">FIG. 20</figref> is a plan view of a substrate processing apparatus <b>500</b> according to a fourth embodiment, <figref idref="DRAWINGS">FIG. 21</figref> is a side view on one side of the substrate processing apparatus <b>500</b> shown in <figref idref="DRAWINGS">FIG. 20</figref>, and <figref idref="DRAWINGS">FIG. 22</figref> is a side view on the other side of the substrate processing apparatus <b>500</b> shown in <figref idref="DRAWINGS">FIG. 20</figref>. The substrate processing apparatus <b>500</b> according to the present embodiment is not provided with the anti-reflection film processing block <b>10</b>, the resist cover film processing block <b>12</b>, the resist cover film removal block <b>14</b>, and the cleaning/drying processing block <b>15</b> shown in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0226" num="0225">The substrate processing apparatus <b>500</b> includes an indexer block <b>9</b>, a resist film processing block <b>11</b>, a cleaning/drying processing block <b>18</b>, a development processing block <b>13</b>, and an interface block <b>16</b>. In the substrate processing apparatus <b>500</b>, the blocks <b>9</b>, <b>11</b>, <b>18</b>, <b>13</b>, and <b>16</b> are provided side by side in the foregoing order. The configurations of the indexer block <b>9</b> and the resist film processing block <b>11</b> are substantially the same as the configurations of the indexer block <b>9</b> and the resist film processing block <b>11</b> in the first embodiment, respectively. Note that in the resist film processing block <b>11</b> in the present embodiment, a coating processing group <b>40</b> for resist film has a vertical stack of four coating units RES (see <figref idref="DRAWINGS">FIG. 21</figref>).</p>
+<p id="p-0227" num="0226">As shown in <figref idref="DRAWINGS">FIG. 20</figref>, the cleaning/drying processing block <b>18</b> includes a first cleaning/drying processing group <b>181</b>, a second cleaning/drying processing group <b>182</b>, and a ninth central robot CR<b>9</b>. The first cleaning/drying processing group <b>181</b> is provided opposite to the second cleaning/drying processing group <b>182</b> with the ninth central robot CR<b>9</b> interposed therebetween. The ninth central robot CR<b>9</b> has hands CRH<b>2</b> and CRH<b>22</b> provided one above the other for receiving and transferring substrates W.</p>
+<p id="p-0228" num="0227">As shown in <figref idref="DRAWINGS">FIGS. 21 and 22</figref>, the first cleaning/drying processing group <b>181</b> has a vertical stack of four back surface cleaning units SDR, and the second cleaning/drying processing group <b>182</b> has a vertical stack of four top surface and edge cleaning/drying units SD. The configuration of the top surface and edge cleaning/drying unit SD is the same as the configuration of the top surface and edge cleaning/drying unit SD shown in <figref idref="DRAWINGS">FIG. 4</figref> used in the first embodiment, and the configuration of the back surface cleaning unit SDR is the same as the configuration of the back surface cleaning unit SDR shown in <figref idref="DRAWINGS">FIG. 15</figref> used in the third embodiment.</p>
+<p id="p-0229" num="0228">Returning to <figref idref="DRAWINGS">FIG. 20</figref>, a partition wall <b>22</b> is provided between the resist film processing block <b>11</b> and the cleaning/drying processing block <b>18</b> for shielding an atmosphere. The partition wall <b>22</b> has substrate platforms PASS<b>5</b> and PASS<b>6</b> provided in close proximity one above the other for receiving and transferring the substrates W between the resist film processing block <b>11</b> and the cleaning/drying processing block <b>18</b>.</p>
+<p id="p-0230" num="0229">The upper substrate platform PASS<b>5</b> is used in transferring the substrates W from the resist film processing block <b>11</b> to the cleaning/drying processing block <b>18</b>, and the lower substrate platform PASS<b>6</b> is used in transferring the substrates W from the cleaning/drying processing block <b>18</b> to the resist film processing block <b>11</b>. The development processing block <b>13</b> includes a development processing group <b>60</b>, thermal processing groups <b>132</b> and <b>133</b>, and a fifth central robot CR<b>5</b>. The development processing group <b>60</b> is provided opposite to the thermal processing groups <b>132</b> and <b>133</b> with the fifth central robot CR<b>5</b> interposed therebetween. Two partition walls <b>23</b><i>a </i>and <b>23</b><i>b </i>are provided between the cleaning/drying processing block <b>18</b> and the development processing block <b>13</b> for shielding an atmosphere. Each of the partition walls <b>23</b><i>a </i>and <b>23</b><i>b </i>has substrate platforms PASS<b>7</b> and PASS<b>18</b> provided in close proximity one above the other for receiving and transferring the substrates W between the development processing block <b>13</b> and the cleaning/drying processing block <b>18</b>.</p>
+<p id="p-0231" num="0230">The upper substrate platform PASS<b>7</b> is used in transferring the substrates W from the cleaning/drying processing block <b>18</b> to the development processing block <b>13</b>, and the lower substrate platform PASS<b>8</b> is used in transferring the substrates W from the development processing block <b>13</b> to the cleaning/drying processing block <b>18</b>. Furthermore, reversing units RT are respectively stacked above the substrate platform PASS<b>7</b> and below the substrate platform PASS<b>8</b>. The configuration of the two reversing units RT is the same as that of the reversing units RT described in the third embodiment.</p>
+<p id="p-0232" num="0231">As shown in <figref idref="DRAWINGS">FIGS. 21 and 22</figref>, the development processing group <b>60</b> has a vertical stack of four development processing units DEV. The thermal processing group <b>132</b> has a vertical stack of four heating units HP and four cooling units CP, and the thermal processing group <b>133</b> has a vertical stack of six heating units HP and substrate platforms PASS<b>13</b> and PASS<b>14</b>. Furthermore, each of the thermal processing groups <b>132</b> and <b>133</b> has a local controller LC for controlling the respective temperatures of the heating unit HP and the cooling unit CP arranged in its uppermost part. The configuration of the interface block <b>16</b> is the same as the configuration of the interface block <b>16</b> in the first embodiment except that the post-exposure cleaning/drying processing group <b>95</b> is not provided. As indicated by a dotted line in <figref idref="DRAWINGS">FIG. 20</figref>, the interface block <b>16</b> may be provided with a post-exposure cleaning/drying processing group <b>95</b>, as in the first embodiment.</p>
+<p id="p-0233" num="0232">(2) Operations of Substrate Processing Apparatus</p>
+<p id="p-0234" num="0233">(2-a) First Example of Operations</p>
+<p id="p-0235" num="0234">By the above-mentioned configuration, operations different from those in the first embodiment are performed in the substrate processing apparatus <b>500</b> according to the present embodiment. First, in the fourth embodiment, carriers C are also respectively placed on carrier platforms <b>92</b> in the indexer block <b>9</b>. As in the third embodiment, a plurality of substrates W that are stored in each of the carriers C are held with their top surfaces directed upward. The unprocessed substrate W that is stored in the carrier C is received by an indexer robot IR, and is placed on the substrate platform PASS<b>5</b> by being transported in the same manner as that in the first embodiment.</p>
+<p id="p-0236" num="0235">The substrate W placed on the substrate platform PASS<b>5</b> is received by the ninth central robot CR<b>9</b> in the cleaning/drying processing block <b>18</b>. The ninth central robot CR<b>9</b> carries the substrate W into the top surface and edge cleaning/drying unit SD in the second cleaning/drying processing group <b>182</b>. Thus, the substrate W is subjected to top surface and edge cleaning processing, which causes a top surface and an edge of the substrate W before exposure processing by an exposure device <b>17</b> to be kept clean. Thereafter, the ninth central robot CR<b>9</b> takes out the substrate W that has been subjected to top surface and edge cleaning processing from the top surface and edge cleaning/drying unit SD, and carries the substrate W into the reversing units RT stacked above and below the substrate platforms PASS<b>7</b> and PASS<b>8</b>. This causes the substrate W whose top surface is directed upward to be reversed such that a back surface thereof is directed upward by the reversing units RT.</p>
+<p id="p-0237" num="0236">Subsequently, the ninth central robot CR<b>9</b> takes out the substrate W whose back surface is directed upward from the reversing unit RT, and carries the substrate W into the back surface cleaning unit SDR in the first cleaning/drying processing group <b>181</b>. Thus, the substrate W is subjected to back surface cleaning processing, which causes the back surface of the substrate W before exposure processing by the exposure device <b>17</b> to be kept clean.</p>
+<p id="p-0238" num="0237">Then, the ninth central robot CR<b>9</b> takes out the substrate W whose back surface has been cleaned from the back surface cleaning unit SDR, and carries the substrate W into the reversing unit RT again. This causes the substrate W whose back surface is directed upward is reversed such that the top surface thereof is directed upward by the reversing units RT. The ninth central robot CR<b>9</b> takes out the substrate W whose top surface is directed upward from the reversing unit RT, and places the substrate W on the substrate platform PASS<b>7</b>.</p>
+<p id="p-0239" num="0238">The substrate W placed on the substrate platform PASS<b>7</b> is received by the fifth central robot CR<b>5</b>. The fifth central robot CR<b>5</b> places the substrate W on the substrate platform PASS<b>13</b> in the thermal processing group <b>133</b>. The substrate W placed on the substrate platform PASS<b>13</b> is received by an eighth central robot CR<b>8</b> in the interface block <b>16</b>. The substrate W is transported to the exposure device <b>17</b> in the same manner as that in the first embodiment. The substrate W after the exposure processing is placed on a substrate platform PASS<b>16</b> in the same manner as that in the first embodiment except that it is not carried into the post-exposure cleaning/drying processing group <b>95</b>, and is received by the eighth central robot CR<b>8</b>. The eighth central robot CR<b>8</b> carries the received substrate W into the thermal processing group <b>133</b> in the development processing block <b>13</b>. In the thermal processing group <b>133</b>, the substrate W is subjected to post-exposure bake (PEB). Thereafter, the eighth central robot CR<b>8</b> takes out the substrate W from the thermal processing group <b>133</b>, and places the substrate W on the substrate platform PASS<b>14</b>. When the interface block <b>16</b> is provided with the post-exposure cleaning/drying processing group <b>95</b>, the post-exposure cleaning/drying processing group <b>95</b> subjects the substrate W after the exposure processing to cleaning and drying processing.</p>
+<p id="p-0240" num="0239">The substrate W placed on the substrate platform PASS<b>14</b> is received by the fifth central robot CR<b>5</b> in the development processing block <b>13</b>. The fifth central robot CR<b>5</b> carries the substrate W into the development processing group <b>60</b>. Thus, the substrate W is subjected to development processing. Thereafter, the fifth central robot CR<b>5</b> takes out the substrate W after the development processing from the development processing group <b>60</b>, and carries the substrate W into the thermal processing group <b>132</b>.</p>
+<p id="p-0241" num="0240">In the thermal processing group <b>132</b>, the substrate W after the development processing is subjected to thermal processing. The fifth central robot CR<b>5</b> takes out the thermally processed substrate W from the thermal processing group <b>132</b>, and places the substrate W on the substrate platform PASS<b>8</b>. The substrate W placed on the substrate platform PASS<b>8</b> is transported by the ninth central robot CR<b>9</b>, a third central robot CR<b>3</b>, and the indexer robot IR, and is stored in the carrier C.</p>
+<p id="p-0242" num="0241">(2-b) Second Example of Operations</p>
+<p id="p-0243" num="0242">In the present embodiment, the first and second cleaning/drying processing groups <b>181</b> and <b>182</b> in the cleaning/drying processing block <b>18</b> may further clean the substrate W after exposure processing and after development processing.</p>
+<p id="p-0244" num="0243">In this case, the ninth central robot CR<b>9</b> in the cleaning/drying processing block <b>18</b> transports, when it receives the substrate W after exposure processing and after development processing from the substrate platform PASS<b>8</b>, the substrate W among the first cleaning/drying processing group <b>181</b>, the second cleaning/drying processing group <b>182</b>, and the reversing unit RT. This causes the whole surface of the substrate W after the development processing to be cleaned. Thereafter, the ninth central robot CR<b>9</b> places the substrate W on the substrate platform PASS<b>6</b>.</p>
+<p id="p-0245" num="0244">(3) Effects of Fourth Embodiment</p>
+<p id="p-0246" num="0245">As described in the foregoing, the plurality of top surface and edge cleaning/drying units SD and the plurality of back surface cleaning units SDR are provided so as to be opposite to each other with the ninth central robot CR<b>9</b> interposed therebetween in the cleaning/drying processing group <b>18</b>. Furthermore, the two reversing units RT are respectively stacked above and below the substrate platforms PASS<b>7</b> and PASS<b>8</b> arranged in the cleaning/drying processing group <b>18</b>. Thus, in the cleaning/drying processing group <b>18</b>, the top surface and edge cleaning/drying units SD, the back surface cleaning units SDR, and the reversing unit RT are provided so as to surround the ninth central robot CR<b>9</b>.</p>
+<p id="p-0247" num="0246">Thus, the transport distance of the substrate among the units SD, SDR, and RT becomes shorter, as compared with that in a case where the plurality of blocks are respectively provided with the top surface and edge cleaning/drying units SD, the back surface cleaning units SDR, and the reversing units RT. Therefore, a time period required to transport the substrate W among the units SD, SDR, and RT by the ninth central robot CR<b>9</b> is shortened. As a result, throughput in substrate processing of the whole substrate processing apparatus can be sufficiently improved.</p>
+<heading id="h-0010" level="1">&#x3c;5&#x3e; Fifth Embodiment</heading>
+<p id="p-0248" num="0247">The difference between a substrate processing apparatus according to a fifth embodiment of the present invention and the substrate processing apparatus <b>500</b> according to the fourth embodiment will be now described.</p>
+<p id="p-0249" num="0248">(1) Configuration of Substrate Processing Apparatus</p>
+<p id="p-0250" num="0249"><figref idref="DRAWINGS">FIG. 23</figref> is a plan view of a substrate processing apparatus <b>500</b> according to a fifth embodiment, <figref idref="DRAWINGS">FIG. 24</figref> is a side view on one side of the substrate processing apparatus <b>500</b> shown in <figref idref="DRAWINGS">FIG. 23</figref>, and <figref idref="DRAWINGS">FIG. 25</figref> is a side view on the other side of the substrate processing apparatus <b>500</b> shown in <figref idref="DRAWINGS">FIG. 23</figref>. In the substrate processing apparatus <b>500</b> according to the present embodiment, the configuration of a cleaning/drying processing block <b>18</b> differs from the substrate processing apparatus <b>18</b> according to the fourth embodiment.</p>
+<p id="p-0251" num="0250">The cleaning/drying processing block <b>18</b> includes a substrate reversing group <b>183</b>, a first cleaning/drying processing group <b>80</b><i>a</i>, a second cleaning/drying processing group <b>80</b><i>b</i>, and a ninth central robot CR<b>9</b>. The first cleaning/drying processing group <b>80</b><i>a </i>and the second cleaning/drying processing group <b>80</b><i>b </i>are vertically stacked in this order. The first and second cleaning/drying processing groups <b>80</b><i>a </i>and <b>80</b><i>b </i>are provided opposite to the substrate reversing group <b>183</b> with the ninth central robot CR<b>9</b> interposed therebetween.</p>
+<p id="p-0252" num="0251">As shown in <figref idref="DRAWINGS">FIG. 24</figref>, the first cleaning/drying processing group <b>80</b><i>a </i>and the second cleaning/drying processing group <b>80</b><i>b </i>are vertically stacked in this order. The first cleaning/drying processing group <b>80</b><i>a </i>has a vertical stack of two back surface cleaning units SDR, and the second cleaning/drying processing group <b>80</b><i>b </i>has a vertical stack of two top surface and edge cleaning/drying units SD. As shown in <figref idref="DRAWINGS">FIG. 25</figref>, the substrate reversing group <b>183</b> has a vertical stack of two reversing units RV.</p>
+<p id="p-0253" num="0252">(2) Operations of Substrate Processing Apparatus</p>
+<p id="p-0254" num="0253">The operations of the substrate processing apparatus <b>500</b> according to the fifth embodiment will be described.</p>
+<p id="p-0255" num="0254">In the present embodiment, an unprocessed substrate W that is stored in a carrier C is transported by an indexer robot IR and a third central robot CR<b>3</b>, and is placed on a substrate platform PASS<b>5</b>, as in the fourth embodiment. The substrate W placed on the substrate platform PASS<b>5</b> is received by the ninth central robot CR<b>9</b> in the cleaning/drying processing block <b>18</b>. The ninth central robot CR<b>9</b> carries the substrate W into the top surface and edge cleaning/drying unit SD in the second cleaning/drying processing group <b>80</b><i>b</i>. Thus, the substrate W is subjected to top surface and edge cleaning processing, which causes a top surface and an edge of the substrate W before exposure processing by an exposure device <b>17</b> to be kept clean.</p>
+<p id="p-0256" num="0255">Thereafter, the ninth central robot CR<b>9</b> takes out the substrate W that has been subjected to the top surface and edge cleaning processing from the top surface and edge cleaning/drying unit SD, and carries the substrate W into the reversing unit RT in the substrate reversing group <b>183</b>. This causes the substrate W whose top surface is directed upward is reversed such that a back surface thereof is directed upward by the reversing unit RT. Subsequently, the ninth central robot CR<b>9</b> takes out the substrate W whose back surface is directed upward from the reversing unit RT, and carries the substrate W into the back surface cleaning unit SDR in the first cleaning/drying processing group <b>80</b><i>a</i>. Thus, the substrate W is subjected to back surface cleaning processing, which causes the back surface of the substrate W before exposure processing by the exposure device <b>17</b> to be kept clean.</p>
+<p id="p-0257" num="0256">Then, the ninth central robot CR<b>9</b> takes out the substrate W whose back surface has been cleaned from the back surface cleaning unit SDR, and carries the substrate W into the reversing unit RT again. This causes the substrate W whose back surface is directed upward to be reversed such that the top surface thereof is directed upward by the reversing unit RT. The ninth central robot CR<b>9</b> takes out the substrate W whose top surface is directed upward from the reversing unit RT, and places the substrate W on the substrate platform PASS<b>7</b>.</p>
+<p id="p-0258" num="0257">The substrate W placed on the substrate platform PASS<b>7</b> is transported to the exposure device <b>17</b>, where the substrate W is subjected to exposure processing, as in the fourth embodiment. Thereafter, the substrate W is transported to the indexer block <b>9</b>, as in the fourth embodiment.</p>
+<p id="p-0259" num="0258">(3) Effects of Fifth Embodiment</p>
+<p id="p-0260" num="0259">As described in the foregoing, in the substrate processing apparatus <b>500</b>, the top surface and edge cleaning/drying unit SD and the back surface cleaning unit SDR are arranged opposite to the reversing unit RT with the ninth central robot CR<b>9</b> interposed therebetween within the cleaning/drying processing block <b>18</b>.</p>
+<p id="p-0261" num="0260">Thus, the transport distance of the substrate W among the units SD, SDR, and RT is shorter, as compared with that in a case where the top surface and edge cleaning/drying unit SD, the back surface cleaning unit SDR, and the reversing unit RT are provided over a plurality of blocks. Therefore, a time period required to transport the substrate W among the units SD, SDR, and RT by the ninth central robot CR<b>9</b> is shortened. As a result, throughput in substrate processing of the whole substrate processing apparatus can be sufficiently improved.</p>
+<heading id="h-0011" level="1">&#x3c;6&#x3e; Another Embodiment and Effects Thereof</heading>
+<p id="p-0262" num="0261">(1) As to the Resist Cover Film</p>
+<p id="p-0263" num="0262">In each of the substrate processing apparatuses <b>500</b> according to the first to third embodiments, the resist cover film processing block <b>12</b> and the resist cover film removal block <b>14</b> need not be provided in the substrate processing apparatus <b>500</b>, provided that a component of a resist is not eluted in a liquid used in the exposure device <b>17</b> even if the resist film formed on the top surface of the substrate W and the liquid are brought into contact with each other. In this case, by removing each of the blocks <b>12</b> and <b>14</b>, the miniaturization of the substrate processing apparatus <b>500</b> and the reduction of a foot print are realized, and throughput in substrate processing is further improved.</p>
+<p id="p-0264" num="0263">(2) Another Example of Arrangement</p>
+<p id="p-0265" num="0264">Although in the first to third embodiments, the resist cover film removal block <b>14</b> includes the two resist cover film removal processing groups <b>70</b><i>a </i>and <b>70</b><i>b</i>, the resist cover film removal block <b>14</b> may include a thermal processing group that subjects the substrate W to thermal processing in place of one of the two resist cover film removal processing groups <b>70</b><i>a </i>and <b>70</b><i>b</i>. In this case, the plurality of substrates W are efficiently subjected to thermal processing, so that throughput in substrate processing is improved.</p>
+<p id="p-0266" num="0265">(3) As to the Exposure Device</p>
+<p id="p-0267" num="0266">In each of the above-mentioned embodiments, the exposure device <b>17</b> may subject the substrate W to the exposure processing without using the liquid immersion method. In this case, the object of the present invention can be also achieved by providing the substrate processing apparatus <b>500</b> with a top surface and edge cleaning/drying unit SD.</p>
+<heading id="h-0012" level="1">&#x3c;7&#x3e; Correspondences Between Elements in the Claims and Parts in Embodiments</heading>
+<p id="p-0268" num="0267">In the following paragraphs, non-limiting examples of correspondences between various elements recited in the claims below and those described above with respect to various preferred embodiments of the present invention are explained.</p>
+<p id="p-0269" num="0268">In the embodiments described above, the anti-reflection film processing block <b>10</b>, the resist film processing block <b>11</b>, the resist cover film processing block <b>12</b>, the development processing block <b>13</b>, the resist cover film removal block <b>14</b>, and the cleaning/drying processing blocks <b>15</b> and <b>18</b> are examples of a processing section, and the interface block <b>16</b> is an example of an interface unit. The resist film is an example of a photosensitive film, the coating unit RES is an example of a photosensitive film formation unit, the top surface and edge cleaning/drying unit SD is an example of a top surface and edge cleaning unit, the development processing unit DEV is an example of a development unit, and the coating unit BARC is an example of an anti-reflection film formation unit.</p>
+<p id="p-0270" num="0269">Furthermore, the resist cover film is an example of a protective film, the coating unit COV is an example of a protective film formation unit, the removal unit REM is an example of a protective film removal unit, the third central robot CR<b>3</b> is an example of a first transport unit, the resist film processing block <b>11</b> is an example of a first processing unit, the seventh and ninth central robots CR<b>7</b> and CR<b>9</b> are examples of a second transport unit, and the cleaning/drying processing blocks <b>15</b> and <b>18</b> are examples of a second processing unit.</p>
+<p id="p-0271" num="0270">The fifth central robot CR<b>5</b> is an example of a third transport unit, the development processing block <b>13</b> is an example of a third processing unit, the post-exposure cleaning/drying processing group <b>95</b> is an example of a cleaning/drying unit, and the eighth central robot CR<b>8</b> and the interface transporting mechanism IFR are examples of an interface unit.</p>
+<p id="p-0272" num="0271">As the elements recited in the claims, various other elements having the structure or function recited in the claims may be employed. While preferred embodiments of the present invention have been described above, it is to be understood that variations and modifications will be apparent to those skilled in the art without departing the scope and spirit of the present invention. The scope of the present invention, therefore, is to be determined solely by the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A substrate processing apparatus that is arranged adjacent to an exposure device, the substrate processing apparatus comprising:
+<claim-text>a processing section that subjects a substrate to processing; and</claim-text>
+<claim-text>an interface provided adjacent to one end of the processing section configured to transfer and receive the substrate between the processing section and the exposure device, wherein the processing section includes:
+<claim-text>a photosensitive film formation unit configured to form a photosensitive film composed of a photosensitive material on the substrate that has not been subjected to exposure processing by the exposure device;</claim-text>
+<claim-text>a top surface and edge cleaning unit configured to clean a top surface and an edge of the substrate; and</claim-text>
+<claim-text>a development unit configured to subject the substrate to development processing after the exposure processing by the exposure device, wherein</claim-text>
+</claim-text>
+<claim-text>the top surface and edge cleaning unit includes a brush configured to be brought into contact with the edge of the substrate to clean the edge of the substrate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The substrate processing apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the top surface and edge cleaning unit is configured to clean the top surface and the edge of the substrate after the formation of the photosensitive film by the photosensitive film formation unit and before the exposure processing by the exposure device.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The substrate processing apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the top surface and edge cleaning unit is configured to clean the top surface and the edge of the substrate concurrently.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The substrate processing apparatus of <claim-ref idref="CLM-00003">claim 3</claim-ref> wherein the top surface and edge cleaning unit is configured to clean the top surface and the edge of the substrate simultaneously.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The substrate processing apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the processing section further includes an anti-reflection film formation unit that is configured to form an anti-reflection film on the substrate before the formation of the photosensitive film by the photosensitive film formation unit.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The substrate processing apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the processing section further includes a protective film formation unit that is configured to form a protective film for protecting the photosensitive film after the formation of the photosensitive film by the photosensitive film formation unit and before the exposure processing by the exposure device.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The substrate processing apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the processing section further includes a protective film removal unit that is configured to remove a protective film after the exposure processing by the exposure device and before the development processing by the development unit.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The substrate processing apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the processing section further includes a reversing unit that is configured to reverse one surface and the other surface of the substrate and a back surface cleaning unit that cleans a back surface of the substrate reversed by the reversing unit.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The substrate processing apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the processing section further includes:
+<claim-text>a first processing unit comprising the photosensitive film formation unit and a first transport unit that transports the substrate;</claim-text>
+<claim-text>a second processing unit comprising the top surface and edge cleaning unit and a second transport unit that transports the substrate, wherein the second processing unit is arranged adjacent to the interface; and</claim-text>
+<claim-text>a third processing unit comprising the development unit and a third transport unit that transports the substrate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The substrate processing apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the interface comprises a cleaning/drying unit that is configured to clean and dry the substrate after the exposure processing by the exposure device and an interface unit that transports the substrate. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

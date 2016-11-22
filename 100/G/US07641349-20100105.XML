@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641349-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641349</doc-number>
+<kind>B1</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12284585</doc-number>
+<date>20080922</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>02</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>08</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>359845</main-classification>
+</classification-national>
+<invention-title id="d0e43">Systems and methods for collector mirror temperature control using direct contact heat transfer</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5091244</doc-number>
+<kind>A</kind>
+<name>Bionard</name>
+<date>19920200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>428216</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5265143</doc-number>
+<kind>A</kind>
+<name>Early et al.</name>
+<date>19931100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>378 84</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5356662</doc-number>
+<kind>A</kind>
+<name>Early et al.</name>
+<date>19941000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>427140</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5698113</doc-number>
+<kind>A</kind>
+<name>Baker et al.</name>
+<date>19971200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>216 72</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5737137</doc-number>
+<kind>A</kind>
+<name>Cohen et al.</name>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>359859</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6359678</doc-number>
+<kind>B1</kind>
+<name>Ota</name>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>355 53</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>6549551</doc-number>
+<kind>B2</kind>
+<name>Ness et al.</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>372 3807</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>6567450</doc-number>
+<kind>B2</kind>
+<name>Myers et al.</name>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>372 55</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6625191</doc-number>
+<kind>B2</kind>
+<name>Knowles et al.</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>372 55</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6634760</doc-number>
+<kind>B2</kind>
+<name>Folta et al.</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>359883</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6822251</doc-number>
+<kind>B1</kind>
+<name>Arenbert et al.</name>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>250504 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>7081992</doc-number>
+<kind>B2</kind>
+<name>Tichenor et al.</name>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>359359</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>7098994</doc-number>
+<kind>B2</kind>
+<name>Moors et al.</name>
+<date>20060800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>355 71</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>7164144</doc-number>
+<kind>B2</kind>
+<name>Partlo et al.</name>
+<date>20070100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>250504 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>7193228</doc-number>
+<kind>B2</kind>
+<name>Bowering et al.</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>250504 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>7196342</doc-number>
+<kind>B2</kind>
+<name>Ershov et al.</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>250504 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>7217940</doc-number>
+<kind>B2</kind>
+<name>Partlo et al.</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>250504 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>7329876</doc-number>
+<kind>B2</kind>
+<name>Schuermann et al.</name>
+<date>20080200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>250372</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>7349063</doc-number>
+<kind>B2</kind>
+<name>Miyajima</name>
+<date>20080300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>355 30</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>7372056</doc-number>
+<kind>B2</kind>
+<name>Bykanov et al.</name>
+<date>20080500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>250504 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>7388220</doc-number>
+<kind>B2</kind>
+<name>Fomenkov et al.</name>
+<date>20080600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>250504 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>7405416</doc-number>
+<kind>B2</kind>
+<name>Alogts et al.</name>
+<date>20080700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>2504931</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>7439530</doc-number>
+<kind>B2</kind>
+<name>Ershov et al.</name>
+<date>20081000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>250504 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>7465946</doc-number>
+<kind>B2</kind>
+<name>Bowering et al.</name>
+<date>20081200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>250504 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>7491954</doc-number>
+<kind>B2</kind>
+<name>Bykanov et al.</name>
+<date>20090200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>250504 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>2003/0146391</doc-number>
+<kind>A1</kind>
+<name>Kleinschmidt et al.</name>
+<date>20030800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>250372</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>2005/0105066</doc-number>
+<kind>A1</kind>
+<name>Franken</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>355 30</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>2006/0028627</doc-number>
+<kind>A1</kind>
+<name>Box</name>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>355 30</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>2006/0219957</doc-number>
+<kind>A1</kind>
+<name>Ershov et al.</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>250504 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>2006/0255298</doc-number>
+<kind>A1</kind>
+<name>Bykanov et al.</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>250504 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>2007/0187627</doc-number>
+<kind>A1</kind>
+<name>Ershov et al.</name>
+<date>20070800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>250504 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>2008/0004871</doc-number>
+<kind>A1</kind>
+<name>Arslan et al.</name>
+<date>20080100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>2008/0043321</doc-number>
+<kind>A1</kind>
+<name>Bowering et al.</name>
+<date>20080200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>359359</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>2009/0014668</doc-number>
+<kind>A1</kind>
+<name>Vaschenko</name>
+<date>20090100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>240504 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>CA</country>
+<doc-number>2591530</doc-number>
+<date>20051200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>JP</country>
+<doc-number>2007134166</doc-number>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>JP</country>
+<doc-number>2007200671</doc-number>
+<date>20070800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>WO</country>
+<doc-number>02003/007312</doc-number>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>WO</country>
+<doc-number>02005/091076</doc-number>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00040">
+<othercit>U.S. Appl. No. 12/004,871, filed Dec. 20, 2007, Bowering et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00041">
+<othercit>U.S. Appl. No. 12/221,313, filed Jul. 31, 2008, Chavez et al.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00042">
+<othercit>Bico, J., et al., &#x201c;Rough wetting&#x201d;, Europhys. Lett. 55 (2), pp. 214-220 (2001).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00043">
+<othercit>Early, K., et al.; &#x201c;Repair of soft-x-ray optical elements by stripping and redeposition of Mo/Si reflective coatings&#x201d;; J. Vac. Scl. Technol. B 11(6), pp. 2926-2929; Nov/Dec 1993.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00044">
+<othercit>Elton, N.J.; &#x201c;An introduction to roughness and refractive index&#x201d;; Surfoptic Ltd.; Materials Charactersation By Light Scattering and Reflectometry; pp. 1-7; 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00045">
+<othercit>Krumrey, M., et al.; &#x201c;Repair of high performance multilayer coatings&#x201d;; SPIE vol. 1547 Multilayer Optics for Advanced X-Ray Applications 1991.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00046">
+<othercit>Mirkarimi, P., et al.,: &#x201c;Recovery of multilayer-coated Zerodur and ULE optics for extreme-ultraviolet lithography by recoating, reactive-ion etching, and wet chemical processes&#x201d;; Applied Optics; vol. 40, No. 1; Jan. 2001.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00047">
+<othercit>Korde, R., et al., &#x201c;EUV Photodiodes with Directly Deposited Uranium Filter&#x201d;; presented at EUVL Symposium, San Diego, Nov. 2005.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00048">
+<othercit>Lazar, G., et al., &#x201c;Infrared Absorption Properties of Amorphous Carbon Films,&#x201d; J. of Optoelectronics and Advanced Materials, vol. 7, No. 2, Apr. 2005, pp. 647-652.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00049">
+<othercit>Salmassi, F., et al., &#x201c;EUV Binary Phase Gratings: Fabrication and Application to Diffractive Optics&#x201d;; Lawrence Berkeley National Laboratory, University of California; Paper LBNL'56785-Journal 2005.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00050">
+<othercit>Stover, J., &#x201c;Interpreting Light Scatter Measurements&#x201d;; Schmitt Measurement Systems, Inc.; Apr. 1994.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00051">
+<othercit>Sundaram, K., et al.,; &#x201c;Wet etching studies of silicon nitride thin films deposited by electron cyclotron resonance (ECR) plasma enhanced chemical vapor deposition&#x201d;; Microelectronic Engineering 70, pp. 109-114, (2003).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00052">
+<othercit>Wang, Y., et al., &#x201c;Investigation of a Novel Flat Heat Pipe&#x201d;, Journal of Heat Transfer, vol. 127; pp. 165-170 (2005).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>20</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>359845</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>359846</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>359848</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>10</number-of-figures>
+</figures>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Chrobak</last-name>
+<first-name>Christopher P.</first-name>
+<address>
+<city>San Diego</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Fomenkov</last-name>
+<first-name>Igor V.</first-name>
+<address>
+<city>San Diego</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Hillman</last-name>
+<first-name>Matthew K.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Cymer, Inc.</orgname>
+<role>02</role>
+<address>
+<city>San Diego</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Cherry</last-name>
+<first-name>Euncha P</first-name>
+<department>2872</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">As disclosed herein, a device may comprise an optic disposed in a near vacuum environment, the optic formed with a surface portion; a temperature controlled member formed with a surface portion conforming to the optic surface portion; and a liquid interposed between the optic surface portion and the member surface portion to conduct heat therebetween.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="207.09mm" wi="146.05mm" file="US07641349-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="235.29mm" wi="162.98mm" file="US07641349-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="247.65mm" wi="154.94mm" file="US07641349-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="211.84mm" wi="175.68mm" file="US07641349-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="246.63mm" wi="169.67mm" file="US07641349-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">The present application is related to U.S. patent application Ser. No. 12/221,313 filed on Jul. 31, 2008, entitled SYSTEMS AND METHODS FOR HEATING AN EUV COLLECTOR MIRROR; U.S. patent application Ser. No. 12/004,871 filed on Dec. 20, 2007, entitled EUV LIGHT SOURCE COMPONENTS AND METHODS FOR PRODUCING, USING AND REFURBISHING SAME; and U.S. Pat. No. 7,388,220 filed on Jul. 27, 2004, entitled EUV LIGHT SOURCE; the entire contents of each of which are hereby incorporated by reference herein.</p>
+<heading id="h-0002" level="1">FIELD</heading>
+<p id="p-0003" num="0002">The present application relates to extreme ultraviolet (&#x201c;EUV&#x201d;) light sources providing EUV light from a plasma created from a material and collected and directed to a focus for utilization outside of the EUV light source chamber, e.g., for semiconductor integrated circuit manufacturing photolithography e.g., at wavelengths of around 50 nm and below.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">EUV light, e.g., electromagnetic radiation in the EUV spectrum (i.e. having wavelengths of about 5-100 nm), may be useful in photolithography processes to produce extremely small features, e.g., sub-32 nm features, in semiconductor substrates, such as silicon wafers.</p>
+<p id="p-0005" num="0004">Methods to produce EUV light include, but are not necessarily limited to, converting a material into a plasma state that has one or more elements, e.g., xenon, lithium or tin, indium, antimony, tellurium, aluminum, etc., with one or more emission line(s) in the EUV spectrum. In one such method, often termed laser produced plasma (&#x201c;LPP&#x201d;), a plasma can be produced by irradiating a target material, such as a droplet, stream, or cluster of material having the line-emitting element, with a laser beam. Another method involves disposing the line-emitting element between two electrodes. In this method, often termed discharge produced plasma (&#x201c;DPP&#x201d;), a plasma can be produced by creating an electrical discharge between the electrodes.</p>
+<p id="p-0006" num="0005">For these processes, the plasma is typically produced in a sealed vessel, e.g., chamber that has been evacuated to produce a near vacuum environment, and monitored using various types of metrology equipment. A typical EUV light source may also include one or more EUV mirrors that are positioned in the near vacuum environment distanced from the plasma site, and oriented to direct EUV light emitted from the plasma to an EUV light source output location. In general, these EUV mirrors may be either grazing incidence-type mirrors, or near-normal incidence type mirrors. e.g., a substrate covered with a multi-layer coating such as Mo/Si. By way of example, for an LPP setup, the mirror may be in the form of a truncated prolate spheroid having a circular cross-section normal to a line passing through its foci, and having elliptical cross-sections in planes that include the line passing through the foci. In some cases, the mirror may be formed with an aperture to allow the laser light to pass through and reach the irradiation site. With this arrangement, the irradiation site may be positioned at or near a first focus of the prolate spheroid, and the light source output may be positioned at, near or downstream of the second focus.</p>
+<p id="p-0007" num="0006">Several factors may be considered when selecting a substrate material for an EUV mirror. These can include temperature stability, vacuum compatibility, chemical stability, manufacturability, including the ability of the material to be easily shaped and polished, thermal mass, as well as material availability and cost. With these factors in mind, substrate candidates can include silicon (single crystal and polycrystalline) and silicon carbide. Typically, these mirrors are designed to operate within a preselected temperature range. Exposure of the mirror to temperatures outside the temperature range can include undesirable shape changes due to thermal expansion/contraction and/or a reduction in the efficiency of the multi-layer coating due to interlayer diffusion, etc.</p>
+<p id="p-0008" num="0007">In addition to generating EUV radiation, these plasma processes described above may also generate undesirable by-products, so-called debris, in the plasma chamber which can include high energy ions and/or atoms, target material vapor and/or clumps/micro-droplets of the target material. These plasma formation by-products can potentially damage and/or reduce the operational efficiency of the various plasma chamber optical elements including, but not limited to, the mirrors described above, the surfaces of metrology detectors, windows used to image the plasma formation process, and the input window allowing the laser to enter the plasma chamber. The debris may be damaging to the optical elements in a number of ways, including coating them with materials which reduce light transmission, penetrating into them and, e.g., damaging structural integrity and/or optical properties, e.g., the ability of a mirror to reflect light at such short wavelengths, corroding, roughening or eroding them and/or diffusing into them.</p>
+<p id="p-0009" num="0008">Accessing contaminated or damaged optical elements in the plasma chamber for the purpose of cleaning or replacing the elements can be expensive, labor intensive and time-consuming. In particular, these systems typically require a rather complicated and time-consuming purging and vacuum pump-down of the plasma chamber prior to a re-start after the plasma chamber has been opened. This lengthy process can adversely affect production schedules and decrease the overall efficiency of light sources for which it is typically desirable to operate with little or no downtime.</p>
+<p id="p-0010" num="0009">For some target materials, e.g., tin, it may be desirable to introduce an etchant, e.g., Cl<sub>2</sub>, Br<sub>2</sub>, HBr, HI, HCl, H<sub>2</sub>, CF<sub>3</sub>, CH<sub>4</sub>, H radicals, some other halogen-containing compound, or combinations thereof, into the plasma chamber to etch material, e.g., debris that has deposited on the optical elements. This etchant may be present during light source operation, during periods of non-operation, or both. To increase the efficacy of these etchants, it may be desirable to heat and/or cool the mirror to maintain the affected surfaces within a preselected temperature range to initiate reaction and/or increase the chemical reaction rate of the etchant and/or to maintain the etching rate at a certain level. For other target materials, e.g., lithium, it may be desirable to heat the affected surfaces where lithium debris has deposited to a temperature sufficient vaporize at least a portion of the deposited material, e.g., a temperature in the range of about 400 to 550 degrees C. to vaporize Li from the surface, with or without the use of an etchant.</p>
+<p id="p-0011" num="0010">Depending on the light source configuration, the above-described heating/cooling may be applied during EUV light source operation (i.e., while a plasma is being generated) and/or during startup, e.g., until the optic receives sufficient heat from another source such as the plasma and/or during periods of EUV light source downtime, e.g. to assist in offline optic cleaning.</p>
+<p id="p-0012" num="0011">With the above in mind, applicants disclose systems and methods for collector mirror temperature control using direct contact heat transfer.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0013" num="0012">In a first aspect, a device may comprise an optic disposed in a near vacuum environment, the optic formed with a surface portion; a temperature controlled member formed with a surface portion conforming to the optic surface portion; and a liquid interposed between the optic surface portion and the member surface portion to conduct heat therebetween.</p>
+<p id="p-0014" num="0013">In one embodiment, at least one of the member surface portion and the optic surface portion may be formed with a solid texture to promote spontaneous invasion of the liquid by interfacial surface tension.</p>
+<p id="p-0015" num="0014">In one implementation, the liquid may be a metal which comprises an element selected from the group of elements consisting of mercury, gallium, tin and indium.</p>
+<p id="p-0016" num="0015">In one arrangement, a structure formed with a plurality of through-holes may be interposed between the member surface portion and the optic surface portion to retain the liquid between the surfaces by interfacial surface tension, and in a particular arrangement, the structure may be a mesh.</p>
+<p id="p-0017" num="0016">In one design, the optic may be a mirror having a substrate and a surface portion covered with a multi-layer reflective coating.</p>
+<p id="p-0018" num="0017">In one setup, the mirror substrate may be made of a material selected from the group of materials consisting of silicon and silicon carbide.</p>
+<p id="p-0019" num="0018">In a particular construction of this aspect, the temperature controlled member may comprise a conductive block formed with at least one passageway for flowing a heat exchange fluid.</p>
+<p id="p-0020" num="0019">In one case, the temperature controlled member may comprise a conductive block coupled to at least one resistive heater.</p>
+<p id="p-0021" num="0020">In another aspect, a device may comprise an optic, a temperature controlled member; and a non-sealing means for maintaining a liquid metal between the optic and the member to conduct heat therebetween.</p>
+<p id="p-0022" num="0021">In one embodiment of this aspect, the optic may be located in an environment maintained below atmospheric pressure.</p>
+<p id="p-0023" num="0022">In one implementation of this aspect, the non-sealing means may comprise a surface texture formed on at least one of the temperature controlled member and the optic.</p>
+<p id="p-0024" num="0023">In one arrangement of this aspect, the non-sealing means may comprise a structure formed with a plurality of through-holes, the structure interposed between the member and the optic.</p>
+<p id="p-0025" num="0024">In one design of this aspect, the optic may comprise a substrate made of a material comprising silicon.</p>
+<p id="p-0026" num="0025">In one setup of this aspect, the temperature controlled member may comprise a conductive block formed with at least one passageway for flowing a heat exchange fluid therethrough.</p>
+<p id="p-0027" num="0026">In a particular construction of this aspect, the temperature controlled member may comprise a conductive block coupled to at least one resistive heater.</p>
+<p id="p-0028" num="0027">In another aspect, a method may comprise the steps/acts of disposing an optic in a near vacuum environment, the optic formed with a surface portion; providing a temperature controlled member formed with a surface portion conforming to the optic surface portion; and interposing a liquid material between the optic surface portion and the member surface portion to conduct heat therebetween.</p>
+<p id="p-0029" num="0028">In one implementation of this aspect, the interposing step/act may comprise the sub-steps/sub-acts of solidifying the material on at least one of the member surface portion and the optic surface portion; juxtaposing the member surface portion with the optic surface portion; and heating the material to liquefy the material.</p>
+<p id="p-0030" num="0029">In a particular implementation of this aspect, at least one of the member surface portion and the optic surface portion may be formed with a solid texture to promote spontaneous invasion of the liquid by interfacial surface tension.</p>
+<p id="p-0031" num="0030">In one implementation of this aspect, the method may method may further comprise the steps/acts of providing a structure formed with a plurality of through-holes; and positioning the structure between the member surface portion and the optic surface portion to retain the liquid between the surfaces by interfacial surface tension.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 1</figref> shows a simplified schematic view of a laser-produced plasma EUV light source according to an aspect of the present disclosure;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 2</figref> shows a sectional, partially schematic view of a system for controlling the temperature of an optic;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 3</figref> shows an exploded, sectional, partially schematic view of a system for controlling the temperature of an optic;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 4</figref> shows a sectional view an embodiment of a temperature controlled member formed with one or more passageways operable connected to a system for flowing a heat exchange fluid through the passageway(s);</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 5</figref> shows a sectional view another embodiment of a temperature controlled member that is couple to a resistive heating system having one or more resistive elements connected via wires to an electrical current source sub-system;</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 6</figref> shows one example of a surface texture that may be used to increase wetting between the surface and the liquid material;</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 7</figref> shows a sectional view of another system for controlling the temperature of an optic <b>30</b>, which may include a temperature controlled member, a thermally conductive material, and a structure formed with a plurality of through-holes;</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 8</figref> shows an example of a structure for use in the embodiment of <figref idref="DRAWINGS">FIG. 7</figref>, formed as a fine mesh having a plurality of hexagonal openings;</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 9</figref> shows a sectional view of a member that can be used to introduce a conductive liquid material between the surface of a temperature controlled member and the surface of the optic after the member and optic have been brought together in contact/near contact; and</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 10</figref> shows a front view of the member shown in <figref idref="DRAWINGS">FIG. 9</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0042" num="0041">With initial reference to <figref idref="DRAWINGS">FIG. 1</figref>, there is shown a schematic view of an EUV light source, e.g., a laser-produced-plasma, EUV light source <b>20</b> according to one aspect of an embodiment. As shown in <figref idref="DRAWINGS">FIG. 1</figref>, and described in further detail below, the light source <b>20</b> may include a system <b>22</b> for generating a train of light pulses and delivering the light pulses into a chamber <b>26</b>. For the light source <b>20</b>, each light pulse may travel along a beam path from the system <b>22</b>, and into the chamber <b>26</b> to illuminate a respective target droplet at an irradiation region <b>28</b>.</p>
+<p id="p-0043" num="0042">Suitable lasers for use as the system device <b>22</b> shown in <figref idref="DRAWINGS">FIG. 1</figref> may include a pulsed laser device, e.g., a pulsed gas discharge CO<sub>2 </sub>laser device producing radiation at 9.3 &#x3bc;m or 10.6 &#x3bc;m, e.g., with DC or RF excitation, operating at relatively high power, e.g., 10 kW or higher, and high pulse repetition rate, e.g., 50 kHz or more. In one particular implementation, the laser may be an axial-flow, RF-pumped CO<sub>2 </sub>having a MOPA configuration with multiple stages of amplification and having a seed pulse that is initiated by a Q-switched Master Oscillator (MO) with low energy and high repetition rate, e.g., capable of 100 kHz operation. From the MO, the laser pulse may then be amplified, shaped, steered and/or focused before entering the LPP chamber. Continuously pumped CO<sub>2 </sub>amplifiers may be used for the system <b>22</b>. For example, a suitable CO<sub>2 </sub>laser device having an oscillator and three amplifiers (O-PA1-PA2-PA3 configuration) is disclosed in U.S. patent application Ser. No. 11/174,299 filed on Jun. 29, 2005, and entitled, LPP EUV LIGHT SOURCE DRIVE LASER SYSTEM, the entire contents of which are hereby incorporated by reference herein. Alternatively, the laser may be configured as a so-called &#x201c;self-targeting&#x201d; laser system in which the droplet serves as one mirror of the optical cavity. In some &#x201c;self-targeting&#x201d; arrangements, a master oscillator may not be required. Self-targeting laser systems are disclosed and claimed in U.S. patent application Ser. No. 11/580,414 filed on Oct. 13, 2006, entitled, DRIVE LASER DELIVERY SYSTEMS FOR EUV LIGHT SOURCE, the entire contents of which are incorporated by reference herein.</p>
+<p id="p-0044" num="0043">Depending on the application, other types of lasers may also be suitable, e.g., an excimer or molecular fluorine laser operating at high power and high pulse repetition rate. Examples include, a solid state laser, e.g., having a rod, fiber or disk-shaped active media, a MOPA configured excimer laser system, e.g., as shown in U.S. Pat. Nos. 6,625,191, 6,549,551, and 6,567,450, an excimer laser having one or more chambers, e.g., an oscillator chamber and one or more amplifying chambers (with the amplifying chambers in parallel or in series), a master oscillator/power oscillator (MOPO) arrangement, a power oscillator/power amplifier (POPA) arrangement, or a solid state laser that seeds one or more excimer or molecular fluorine amplifier or oscillator chambers, may be suitable. Other designs are possible.</p>
+<p id="p-0045" num="0044">As further shown in <figref idref="DRAWINGS">FIG. 1</figref>, the EUV light source <b>20</b> may also include a target material delivery system <b>24</b>, e.g., delivering droplets of a target material into the interior of a chamber <b>26</b> to the irradiation region <b>28</b>, where the droplets will interact with one or more light pulses, e.g., zero, one, or more pre-pulses and thereafter one or more main pulses, to ultimately produce a plasma and generate an EUV emission. The target material may include, but is not necessarily limited to, a material that includes tin, lithium, xenon or combinations thereof. The EUV emitting element, e.g., tin, lithium, xenon, etc., may be in the form of liquid droplets and/or solid particles contained within liquid droplets. For example, the element tin may be used as pure tin, as a tin compound, e.g., SnBr<sub>4</sub>, SnBr<sub>2</sub>, SnH<sub>4</sub>, as a tin alloy, e.g., tin-gallium alloys, tin-indium alloys, tin-indium-gallium alloys, or a combination thereof. Depending on the material used, the target material may be presented to the irradiation region at various temperatures including room temperature or near room temperature (e.g., tin alloys, SnBr<sub>4</sub>), at an elevated temperature, (e.g., pure tin) or at temperatures below room temperature, (e.g., SnH<sub>4</sub>), and in some cases, can be relatively volatile, e.g., SnBr<sub>4</sub>. More details concerning the use of these materials in an LPP EUV source is provided in U.S. patent application Ser. No. 11/406,216, filed on Apr. 17, 2006, entitled ALTERNATIVE FUELS FOR EUV LIGHT SOURCE, the contents of which are hereby incorporated by reference herein.</p>
+<p id="p-0046" num="0045">Continuing with <figref idref="DRAWINGS">FIG. 1</figref>, the EUV light source <b>20</b> may also include an optic <b>30</b>, e.g., a near-normal incidence collector mirror having a reflective surface in the form of a prolate spheroid (i.e., an ellipse rotated about its major axis). For example, the optic <b>30</b> may include a substrate made of silicon (single crystal or polycrystalline) or silicon carbide having a surface covered with a graded multi-layer coating with alternating layers of Molybdenum and Silicon, and in some cases one or more high temperature diffusion barrier layers, smoothing layers, capping layers and/or etch stop layers.</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 1</figref> shows that the optic <b>30</b> may be formed with an aperture to allow the light pulses generated by the system <b>22</b> to pass through and reach the irradiation region. As shown, the optic <b>30</b> may have an EUV reflective surface having the shape of a truncated prolate spheroid which has a first focus within or near the irradiation region <b>28</b>, and a second focus at a so-called intermediate region <b>40</b>, where the EUV light may be output from the EUV light source <b>20</b>, and input to a device utilizing EUV light, e.g., an integrated circuit lithography tool (not shown). It is to be appreciated that other optics may be used in place of the prolate spheroid mirror for collecting and directing light to an intermediate location for subsequent delivery to a device utilizing EUV light, for example the optic may be in the form of a truncated paraboloid, or may be configured to deliver a beam having a ring-shaped cross-section to an intermediate location, see e.g., U.S. patent application Ser. No. 11/505,177 filed on Aug. 16, 2006, entitled EUV OPTICS, the contents of which are hereby incorporated by reference.</p>
+<p id="p-0048" num="0047">Continuing with reference to <figref idref="DRAWINGS">FIG. 1</figref>, the EUV light source <b>20</b> may also include an EUV controller <b>60</b>, which may also include a firing control system <b>65</b> for triggering one or more lamps and/or laser devices in the system <b>22</b> to thereby generate light pulses for delivery into the chamber <b>26</b>. The EUV light source <b>20</b> may also include a droplet position detection system which may include one or more droplet imagers <b>70</b>, that provide an output indicative of the position of one or more droplets, e.g., relative to the irradiation region. The imager(s) <b>70</b> may provide this output to a droplet position detection feedback system <b>62</b>, which can, e.g., compute a droplet position and/or trajectory, from which a droplet position error can be computed, e.g., on a droplet-by-droplet basis, or on average. The droplet error may then be provided as an input to the controller <b>60</b>, which can, for example, provide a position, direction and/or timing correction signal to the system <b>22</b> to control a source timing circuit and/or to control a beam position and shaping system, e.g., to change the location and/or focal power of the light pulses being delivered to the irradiation region in the chamber <b>26</b>.</p>
+<p id="p-0049" num="0048">The EUV light source <b>20</b> may include one or more EUV metrology instruments for measuring various properties of the EUV light generated by the source <b>20</b>. These properties may include, for example, intensity (e.g., total intensity or intensity within a particular spectral band), spectral bandwidth, polarization, beam position, pointing, etc.</p>
+<p id="p-0050" num="0049">As further shown in <figref idref="DRAWINGS">FIG. 1</figref>, the EUV light source <b>20</b> may include a droplet control system <b>90</b>, operable in response to a signal, which in some implementations may include the droplet error described above, or some quantity derived therefrom the controller <b>60</b>, to e.g., modify the release point of the target material from a droplet source <b>92</b> and/or modify droplet formation timing, to correct for errors in the droplets arriving at the desired irradiation region, and/or synchronize the generation of droplets with the pulsed laser system <b>22</b>.</p>
+<p id="p-0051" num="0050">More details regarding various droplet dispenser configurations and their relative advantages may be found in U.S. patent application Ser. No. 11/827,803 filed on Jul. 13, 2007, entitled LASER PRODUCED PLASMA EUV LIGHT SOURCE HAVING A DROPLET STREAM PRODUCED USING A MODULATED DISTURBANCE WAVE; U.S. patent application Ser. No. 11/358,988 filed on Feb. 21, 2006, entitled LASER PRODUCED PLASMA EUV LIGHT SOURCE WITH PRE-PULSE; U.S. patent application Ser. No. 11/067,124 filed on Feb. 25, 2005, entitled METHOD AND APPARATUS FOR EUV PLASMA SOURCE TARGET DELIVERY; and U.S. patent application Ser. No. 11/174,443 filed on Jun. 29, 2005, entitled LPP EUV PLASMA SOURCE MATERIAL TARGET DELIVERY SYSTEM; the contents of each of which are hereby incorporated by reference.</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. 1</figref> also shows that the light source <b>20</b> may include a vacuum system <b>100</b>, e.g. including a vacuum pump, regulator, controller, etc., for evacuating the chamber <b>26</b> and maintaining the chamber at near vacuum, e.g., having a number density equivalent to a pressure less than about 1 torr at room temperature. Also, for some implementations, the light source <b>20</b> may include a gas system <b>102</b>, e.g., including pressurized gas and/or gas pump, regulator, controller, etc., for introducing an etchant and/or ion slowing buffer gas into the chamber <b>26</b>. For example, the etchant may be provided to clean or assist in cleaning debris from optics such as the optic <b>30</b> and may include Cl<sub>2</sub>, Br<sub>2</sub>, HBr, HI, HCl, H<sub>2</sub>, CF<sub>3</sub>, CH<sub>4</sub>, H radicals, some other halogen-containing compound, or a combination thereof. Ion slowing buffer gas may include, but are not necessarily limited to, hydrogen, helium, argon or combinations thereof. For the light source <b>20</b>, the etchant may be introduced into the chamber and/or present in the chamber <b>26</b> during operation (i.e., while the light source is generating EUV light) and/or during offline maintenance periods. It is to be appreciated that although small amounts of these gases may be introduced into the chamber, the overall chamber pressure may still be at near vacuum. <figref idref="DRAWINGS">FIG. 1</figref> also schematically shows that the light source <b>20</b> may include a system <b>104</b> for controlling the temperature of the optic <b>30</b>, while the optic <b>30</b> is in the chamber <b>28</b>, e.g., in a near vacuum environment.</p>
+<p id="p-0053" num="0052">In more detail, <figref idref="DRAWINGS">FIGS. 2 and 3</figref> illustrate that the system for controlling the temperature of the optic <b>30</b> may include a temperature controlled member <b>200</b> and a thermally conductive material <b>202</b>. As shown, the optic <b>30</b> may be formed with a surface <b>204</b>, e.g., the surface opposite the reflective surface <b>206</b>, and the member <b>200</b> may be formed with a surface <b>208</b> conforming to the surface <b>204</b>. With this arrangement, the surface <b>204</b> and surface <b>208</b> may fit together relatively closely.</p>
+<p id="p-0054" num="0053">During operation heat transfer between the optic <b>30</b> and member <b>200</b>, it is anticipated that the conduction material <b>202</b> that is interposed between the optic <b>30</b> and member <b>200</b> will be in a liquid state, and thus, will provide an efficient conductive path between the optic <b>30</b> and member <b>200</b>. Initially, the material <b>202</b> may be provided as a solid which is then melted to form a liquid, e.g., due to heat from the optic <b>30</b> (which may be heated by the plasma), the member <b>200</b>, both, or some other heat source. For example, the material <b>202</b> may be initially provided as a solid film or foil, as shown in <figref idref="DRAWINGS">FIG. 3</figref>, or may be deposited on one or both of the surfaces <b>204</b>, <b>208</b>, for example using a vacuum deposition process. Alternatively, the material <b>200</b> may be initially provided as a liquid and then coated on one or both of the surfaces <b>204</b>, <b>208</b>.</p>
+<p id="p-0055" num="0054">In some cases, a flux may be used to wet the liquid metal on one or both of the surfaces <b>204</b>, <b>208</b>. For example, the member <b>200</b> may be assembled, heated, and wetted with liquid material <b>202</b> externally (i.e., outside the chamber <b>26</b>), baked in an auxiliary chamber to remove any residual flux used, and then cooled to freeze the material <b>202</b>. With the material <b>202</b> frozen, the member <b>200</b> may be installed in chamber <b>26</b>, placed in contact with the optic <b>30</b> and then re-heated to melt the liquid metal. A slight contact pressure between the member <b>200</b> and optic <b>30</b> may be applied.</p>
+<p id="p-0056" num="0055">As shown in <figref idref="DRAWINGS">FIG. 2</figref>, the liquid material <b>202</b> may not necessarily be sealed between the member <b>200</b> and optic <b>30</b>. Instead, the thermally conductive liquid material <b>202</b> may be held in place by interfacial surface tension. The composition of the particular liquid material will, typically, be made in light of the desired operational temperature of the optic <b>30</b> and the evaporation rate of the liquid material (since it may be exposed to near vacuum). Examples of suitable materials for the conductive liquid may include metals such as mercury, gallium, tin and indium.</p>
+<p id="p-0057" num="0056">In general, a layer of material <b>202</b> thick enough to compensate for imperfect matching of mating surface contours may be used. In some cases, material <b>202</b> that is thick enough to allow stress-free thermal contact with unequal thermal expansion coefficients of collector mirror and heat exchanger may be used. In some cases, it may be desirable for the liquid material <b>202</b> to have relatively low wetting on one of the surfaces <b>204</b>, <b>208</b> allow for stress-free separation of the member <b>200</b> from the optic <b>30</b>.</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. 4</figref> shows an embodiment of a temperature controlled member (generally designated <b>200</b>&#x2032;), which includes a thermally conductive block <b>300</b>, e.g., made of copper or aluminum, formed with one or more passageways <b>302</b> operable connected to a system <b>304</b>, for flowing a heat exchange fluid, e.g., water, through the passageway(s) <b>302</b>. For the member <b>200</b>&#x2032;, the system <b>304</b> may include one or more of the following; fluid pump(s), regulator(s), heat exchanger(s) to add or remove heat from the fluid, temperature sensor(s), control system(s), etc. Depending on the particular application, the temperature controlled member <b>200</b>&#x2032; may be used to heat an optic, cool an optic, or both. For example, heating may be required prior to steady state conditions, followed by cooling.</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. 5</figref> shows another embodiment of a temperature controlled member (generally designated <b>200</b>&#x2033;) which includes a thermally conductive block <b>300</b>&#x2032;, e.g. made of copper or aluminum, that is coupled to a resistive heating system having one or more resistive elements <b>400</b><i>a,b </i>that may be positioned on or in the block <b>300</b>&#x2032; and connected via wires to an electrical current source sub-system <b>402</b>. For the member <b>200</b>&#x2033;, the sub-system <b>402</b> may include one or more of the following; current source(s); signal generator(s), temperature sensor(s), control system(s), etc. Depending on the particular application, the temperature controlled member <b>200</b>&#x2032; may be used to heat an optic, cool an optic, or both. For example, heating may be required prior to steady state conditions, followed by cooling.</p>
+<p id="p-0060" num="0059">The resistive element(s) may be in the form of wire, filament, ribbon, foils, sheets, etc., and depending on the environment, e.g., the use of one or more etchants, the level of vacuum, etc., and the resistive material used, may be either bare or coated with a protective coating. Suitable resistive materials may include, but are not necessarily limited to molybdenum, tungsten or titanium. Suitable protective coatings for the resistive materials may include, but are not necessarily limited to silicon nitride, boron nitride and carbon. Each of the resistive elements <b>400</b><i>a,b </i>may be connected to a common current source or a plurality of independently operable current sources, a multi-channel current source may be employed, with each current source/channel passing current through one or more of the resistive elements. For the device, each current source may provide a continuous DC current or a signal generator may be employed to produce a more complicated waveform, e.g., AC, pulsed, square wave, etc.</p>
+<p id="p-0061" num="0060">As indicated above with reference to <figref idref="DRAWINGS">FIGS. 2 and 3</figref>, the liquid material <b>202</b> may not necessarily be sealed between the member <b>200</b> and optic <b>30</b>. Instead, this added complexity (i.e., sealing) may be avoided by holding the thermally conductive liquid material <b>202</b> in place between the surfaces <b>204</b>, <b>208</b> by interfacial surface tension. To this end, one, or in some cases both of the surfaces <b>204</b>, <b>208</b> may be formed with a texture to wick the molten metal by capillary forces. <figref idref="DRAWINGS">FIG. 6</figref> shows one example of a fine texture that may be employed to increase wetting between the surface and the liquid material <b>202</b>. For example, a texture having feature sizes on the order of about 500 &#x3bc;m may be used, and may be formed on the surface by machining, e.g., cutting, grinding or sanding, or stamping. In some cases, it may be desirable to texturize one of the surfaces <b>204</b>, <b>208</b> while leaving the other one smooth. For example, the member <b>200</b> may be made of metal and texturized while the optic <b>30</b> may have a substrate made of silicon or silicon carbide substrate polished to a relatively smooth surface. This may facilitate separation of the member <b>200</b> and optic <b>30</b>.</p>
+<p id="p-0062" num="0061">In one arrangement, the back surface of the mirror intended for contact with the fluid may be textured and coated with a material to promote wetting by the heat transfer liquid. In some cases, the textured heater block surface can either be made of or coated with a material to promote wetting by the heat transfer fluid. Possible materials include copper (Cu), silver (Ag), or gold (Au).</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIG. 7</figref> illustrates another system for controlling the temperature of an optic <b>30</b>, which may include a temperature controlled member <b>200</b> (and which may include, e.g., passageways for flowing a heat exchange fluid (see <figref idref="DRAWINGS">FIG. 4</figref>) and/or resistive elements (see FIG. <b>5</b>)), a thermally conductive material <b>202</b> and a structure <b>500</b> formed with a plurality of through-holes <b>502</b> (see <figref idref="DRAWINGS">FIG. 8</figref>). As shown in <figref idref="DRAWINGS">FIG. 7</figref>, the structure <b>500</b> may be interposed between the surface <b>204</b> and surface <b>208</b> to retain the liquid material <b>202</b> between the surfaces by interfacial surface tension. With this arrangement, the liquid material <b>202</b> may not necessarily be sealed between the member <b>200</b> and optic <b>30</b>. <figref idref="DRAWINGS">FIG. 8</figref> shows that the structure <b>500</b> may be a fine mesh formed with a plurality of hexagonal openings. Other structures which promote wicking may be used, e.g., a porous film, mesh with circular openings, etc. For the system shown in <figref idref="DRAWINGS">FIG. 7</figref>, the surfaces <b>204</b>, <b>208</b> may be smooth or texturized.</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIGS. 9 and 10</figref> show an example of a member <b>200</b>&#x2032;&#x2033; that can be used to introduce liquid material <b>202</b> between the surface <b>208</b> and the surface <b>204</b> of the optic <b>30</b> (see <figref idref="DRAWINGS">FIG. 3</figref>) after the member <b>200</b>&#x2032;&#x2033; and optic <b>30</b> have been brought together in contact/near contact. As shown, the member <b>200</b>&#x2032;&#x2033; may be formed with a plurality of ports (of which ports <b>600</b><i>a </i>and <b>600</b><i>b </i>have been labeled). With this arrangement, the member <b>200</b>&#x2032;&#x2033; can be installed in EUV chamber <b>26</b> dry (i.e., without any liquid material <b>202</b> on surface <b>208</b>&#x2032;. Next, an etchant such as Cl<sub>2</sub>, Br<sub>2</sub>, HBr, HI, HCl, H<sub>2</sub>, CF<sub>3</sub>, CH<sub>4</sub>, H radicals, some other halogen-containing compound, or combinations thereof, may be introduced into the plasma chamber to clean the surface <b>208</b>&#x2032; (which may be textured) of the member <b>200</b>&#x2032;&#x2033; and enhance wetting. Once cleaned, a controlled volume of liquid material <b>202</b> can be pumped in the direction of arrow <b>602</b> and through ports <b>600</b><i>a,b</i>, and into the gap between the member <b>200</b>&#x2032;&#x2033; and optic <b>30</b>. Member <b>200</b>&#x2032;&#x2033; may include, passageways for flowing a heat exchange fluid (see <figref idref="DRAWINGS">FIG. 4</figref>) and/or resistive elements (see <figref idref="DRAWINGS">FIG. 5</figref>) for temperature control. A structure <b>500</b> such as the mesh shown in <figref idref="DRAWINGS">FIGS. 7 and 8</figref> may be used with the member <b>200</b>&#x2032;&#x2033;.</p>
+<p id="p-0065" num="0064">The arrangements described above may be used to heat or cool the optic through and maintain the optic within a specific temperature range. For example, when tin or a material including tin is used as a target material for generating a plasma and an etchant is employed, such as a halogen based etchant, the reflective surface of the optic may be maintained at temperature in the range of 150-400&#xb0; C. to initiate reaction and/or increase the chemical reaction rate of the etchant and/or to maintain the etching rate at a certain level. For some etchants, such as hydrogen radicals, the reflective surface of the optic may be maintained at temperature in the range of 20-60&#xb0; C. to initiate reaction and/or increase the chemical reaction rate. On the other hand, when Lithium is used as a target material for generating a plasma, the reflective surface of the optic may be maintained at temperature greater than about 400&#xb0; C. to vaporize deposited Lithium.</p>
+<p id="p-0066" num="0065">While the particular embodiment(s) described and illustrated in this Patent Application in the detail required to satisfy 35 U.S.C. &#xa7;112, are fully capable of attaining one or more of the above-described purposes for, problems to be solved by, or any other reasons for or objects of the embodiment(s) above-described, it is to be understood by those skilled in the art, that the above-described embodiment(s) are merely exemplary, illustrative and representative of the subject matter which is broadly contemplated by the present application. Reference to an element in the following Claims in the singular, is not intended to mean, nor shall it mean in interpreting such Claim element &#x201c;one and only one&#x201d; unless explicitly so stated, but rather &#x201c;one or more&#x201d;. All structural and functional equivalents to any of the elements of the above-described embodiment(s) that are known or later come to be known to those of ordinary skill in the art, are expressly incorporated herein by reference and are intended to be encompassed by the present Claims. Any term used in the Specification and/or in the Claims and expressly given a meaning in the Specification and/or Claims in the present Application shall have that meaning, regardless of any dictionary or other commonly used meaning for such a term. It is not intended or necessary for a device or method discussed in the Specification as an embodiment to address or solve each and every problem discussed in this Application, for it to be encompassed by the present Claims. No element, component, or method step in the present disclosure is intended to be dedicated to the public regardless of whether the element, component, or method step is explicitly recited in the Claims. No claim element in the appended Claims is to be construed under the provisions of 35 U.S.C. &#xa7;112, sixth paragraph, unless the element is expressly recited using the phrase &#x201c;means for&#x201d; or, in the case of a method claim, the element is recited as a &#x201c;step&#x201d; instead of an &#x201c;act&#x201d;.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I/We claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A device, comprising:
+<claim-text>an optic disposed in a near vacuum environment, said optic formed with a surface portion;</claim-text>
+<claim-text>a temperature controlled member formed with a surface portion conforming to said optic surface portion; and</claim-text>
+<claim-text>a liquid interposed between said optic surface portion and said member surface portion to conduct heat therebetween.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein at least one of said member surface portion and said optic surface portion is formed with a solid texture to promote spontaneous invasion of the liquid by interfacial surface tension.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said liquid is a metal comprises an element selected from the group of elements consisting of mercury, gallium, tin and indium.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a structure formed with a plurality of through-holes, the structure interposed between said member surface portion and said optic surface portion to retain said liquid between said surfaces by interfacial surface tension.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A device as recited in <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein said structure comprises a mesh.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said optic is a mirror having a substrate and a surface portion covered with a multi-layer reflective coating.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A device as recited in <claim-ref idref="CLM-00006">claim 6</claim-ref> wherein said mirror substrate is made of a material selected from the group of materials consisting of silicon and silicon carbide.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said temperature controlled member comprises a conductive block formed with at least one passageway for flowing a heat exchange fluid therethrough.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said temperature controlled member comprises a conductive block coupled to at least one resistive heater.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A device, comprising:
+<claim-text>an optic,</claim-text>
+<claim-text>a temperature controlled member; and</claim-text>
+<claim-text>a non-sealing means for maintaining a liquid metal between said optic and said member to conduct heat therebetween.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A device as recited in <claim-ref idref="CLM-00010">claim 10</claim-ref> wherein said optic is located in an environment maintained at below atmospheric pressure.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. A device as recited in <claim-ref idref="CLM-00010">claim 10</claim-ref> wherein said non-sealing means comprises a surface texture formed on at least one of said temperature controlled member and said optic.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A device as recited in <claim-ref idref="CLM-00010">claim 10</claim-ref> wherein said non-sealing means comprises a structure formed with a plurality of through-holes, the structure interposed between said member and said optic.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. A device as recited in <claim-ref idref="CLM-00010">claim 10</claim-ref> wherein said optic comprises a substrate made of a material comprising silicon.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. A device as recited in <claim-ref idref="CLM-00010">claim 10</claim-ref> wherein said temperature controlled member comprises a conductive block formed with at least one passageway for flowing a heat exchange fluid.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. A device as recited in <claim-ref idref="CLM-00010">claim 10</claim-ref> wherein said temperature controlled member comprises a conductive block coupled to at least one resistive heater.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. A method comprising the steps of:
+<claim-text>disposing an optic in a near vacuum environment, said optic formed with a surface portion;</claim-text>
+<claim-text>providing a temperature controlled member formed with a surface portion conforming to said optic surface portion; and</claim-text>
+<claim-text>interposing a liquid material between said optic surface portion and said member surface portion to conduct heat therebetween.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. A method as recited in <claim-ref idref="CLM-00017">claim 17</claim-ref> wherein said interposing step comprises the sub-steps of:
+<claim-text>solidifying the material on at least one of said member surface portion and said optic surface portion;</claim-text>
+<claim-text>juxtaposing said member surface portion with said optic surface portion; and</claim-text>
+<claim-text>heating said material to liquefy said material.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. A method as recited in <claim-ref idref="CLM-00017">claim 17</claim-ref> wherein at least one of said member surface portion and said optic surface portion is formed with a solid texture to promote spontaneous invasion of the liquid by interfacial surface tension.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. A method as recited in <claim-ref idref="CLM-00017">claim 17</claim-ref> further comprising the steps of:
+<claim-text>providing a structure formed with a plurality of through-holes; and</claim-text>
+<claim-text>positioning the structure between said member surface portion and said optic surface portion to retain said liquid between said surfaces by interfacial surface tension. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

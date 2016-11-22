@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640803-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640803</doc-number>
+<kind>B1</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10982044</doc-number>
+<date>20041105</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>86</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>P</subclass>
+<main-group>9</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 7350404</main-classification>
+<further-classification> 7350414</further-classification>
+</classification-national>
+<invention-title id="d0e53">Micro-electromechanical system inertial sensor</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5359893</doc-number>
+<kind>A</kind>
+<name>Dunn</name>
+<date>19941100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 7350412</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5894090</doc-number>
+<kind>A</kind>
+<name>Tang et al.</name>
+<date>19990400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6062082</doc-number>
+<kind>A</kind>
+<name>Guenther et al.</name>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 7350412</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6105427</doc-number>
+<kind>A</kind>
+<name>Stewart et al.</name>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6308569</doc-number>
+<kind>B1</kind>
+<name>Stewart</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6360601</doc-number>
+<kind>B1</kind>
+<name>Challoner et al.</name>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>6367786</doc-number>
+<kind>B1</kind>
+<name>Gutierrez et al.</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>6467349</doc-number>
+<kind>B1</kind>
+<name>Andersson et al.</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 7350414</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6487907</doc-number>
+<kind>B1</kind>
+<name>Tang et al.</name>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6539801</doc-number>
+<kind>B1</kind>
+<name>Gutierrez et al.</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6595056</doc-number>
+<kind>B2</kind>
+<name>Stewart</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6651500</doc-number>
+<kind>B2</kind>
+<name>Stewart et al.</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>6675630</doc-number>
+<kind>B2</kind>
+<name>Challoner et al.</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>6758093</doc-number>
+<kind>B2</kind>
+<name>Tang et al.</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>6761068</doc-number>
+<kind>B1</kind>
+<name>Schmid</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 7350414</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6914635</doc-number>
+<kind>B2</kind>
+<name>Ostergard</name>
+<date>20050700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>GB</country>
+<doc-number>2198231</doc-number>
+<kind>A</kind>
+<date>19880600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>WO</country>
+<doc-number>WO 00/19169</doc-number>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00019">
+<othercit>Akihiro Koga et al.; &#x201c;Electrostatic Linear Microactuator Mechanism for Focusing a CCD Camera&#x201d;: Journal of Lightwave Technology, vol. 17, No. 1; p. 43-47; Jan. 1999.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>28</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 7350404</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 7350412</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 7350414</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>12</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60574677</doc-number>
+<kind>00</kind>
+<date>20040526</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Gutierrez</last-name>
+<first-name>Roman C.</first-name>
+<address>
+<city>La Crescenta</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Tang</last-name>
+<first-name>Tony K.</first-name>
+<address>
+<city>Glendale</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Haynes and Boone, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Siimpel Corporation</orgname>
+<role>02</role>
+<address>
+<city>Arcadia</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Chapman</last-name>
+<first-name>John E</first-name>
+<department>2856</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A micro-machined MEMS resonator gyroscope and accelerometer is fabricated from an epilayer semiconductor wafer to incorporate a substantially planar, H-shaped resonator mass suspended from a support plate by two opposed elongated springs that couple to the relatively short crossbar member of the H. The masses are harmonically oscillated relative to the support plate and a baseplate portion, and two orthogonal modes of the structure corresponding to the two nearly degenerate fundamental torsional modes thereof are used for sensing angular rate about one axis, and linear acceleration along two axes, of the sensor. The H-shaped mass advantageously incorporates a relatively high length-to-width aspect ratio, and in one embodiment, the springs may advantageously incorporate either a square cross-section, such that the structure can be tuned to substantially match the fundamental frequencies of the two resonance modes of the structure by removing, e.g., by an etching process, a small amount of material from the upper surfaces of the springs.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="73.32mm" wi="116.16mm" file="US07640803-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="228.01mm" wi="131.74mm" file="US07640803-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="211.24mm" wi="134.96mm" file="US07640803-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="238.84mm" wi="147.91mm" file="US07640803-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="246.63mm" wi="160.53mm" file="US07640803-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="245.96mm" wi="157.40mm" file="US07640803-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims benefit of U.S. Provisional Application No. 60/574,677, filed May 26, 2004.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">This invention relates to micro-electromechanical system (&#x201c;MEMS&#x201d;) devices that sense inertial rotation and acceleration, commonly referred to as gyroscopes and accelerometers. More specifically, the invention relates to MEMS resonant gyroscopes and accelerometers.</p>
+<p id="p-0005" num="0004">2. Related Art</p>
+<p id="p-0006" num="0005">Precision micro-electromechanical accelerometers and gyroscopes have wide application in the field of inertial navigation and guidance. Such sensors are manufactured using sophisticated semiconductor manufacturing, or &#x201c;micromachining,&#x201d; techniques, and typically incorporate at least one planar mass, typically of silicon, pendulously mounted adjacent to at least one planar structure, also typically of silicon, so as to define an electrical capacitance between the mass and structure. Movement of the mass relative to the structure in response to inertial forces imposed on the sensor, e.g., in response to an acceleration of the sensor along an &#x201c;axis of sensitivity&#x201d; thereof, results in a change in the capacitance that is a direct measure of the sensor's acceleration.</p>
+<p id="p-0007" num="0006">In addition to such &#x201c;direct&#x201d; measurements of linear accelerations, such sensors can also be used advantageously within an inertial system to &#x201c;indirectly&#x201d; measure rotational velocity, or angular rates, about an axis of sensitivity of the sensor, through use of the well known Coriolis principle. Thus, a body moving with a given velocity &#x3bd; relative to a coordinate system that is rotating with an angular velocity {dot over (&#x3b8;)} will experience a Coriolis acceleration &#x3b1; that is equal to the vector cross-product 2{dot over (&#x3b8;)}X &#x3bd;, which is directed normal to the path of rotation of the body, and which acts to deflect the relative velocity &#x3bd; of the body in the direction of the angular velocity {dot over (&#x3b8;)} of the system. Hence, if a rotational relative velocity, or more practically for the planar types of structures found in MEMS gyroscopes, a vibratory, sinusoidally varying relative velocity &#x3bd;=V sin &#x3c9;t, i.e., &#x201c;dither&#x201d;, is imparted to the mass of the sensor, then the capacitance between the mass and the adjacent structure will likewise vary sinusoidally in response thereto. If an angular velocity {dot over (&#x3b8;)} is then imparted to the sensor, it will experience a Coriolis acceleration given by the relationship &#x3b1;=2{dot over (&#x3b8;)}X V sin &#x3c9;t, in which the Coriolis acceleration &#x3b1; may be seen as the modulation of the sinusoidally varying capacitance signal of the sensor with a signal that is a function of the angular rotation {dot over (&#x3b8;)} of the sensor, and from which the desired angular rate {dot over (&#x3b8;)} of the sensor may therefore be extracted using well known demodulation techniques.</p>
+<p id="p-0008" num="0007">Examples of such prior art MEMS inertial sensors and &#x201c;microgyroscopes&#x201d; may be found in the patent literature, e.g., in U.S. Pat. Nos. 6,758,093 to T. K. Tang et al.; 6,675,630 to A. D. Challoner et al.; 6,651,500 to R. E. Stewart et al.; 6,595,056 to R. E. Stewart; 6,539,801 to R. C. Gutierrez et al.; 6,487,907 to T. K. Tang et al.; 6,367,786 to R. C. Gutierrez et al.; 6,360,601 to A. D. Challoner et al.; and, 5,894,090 to T. K. Tang et al.</p>
+<p id="p-0009" num="0008">One measure of the accuracy of a MEMS inertial sensor is the stability over time of the capacitance between the moving masses and fixed structures, i.e., its &#x201c;bias stability.&#x201d; Prior art MEMS resonant gyroscopes designed to achieve a bias stability of at least 10 degrees per hour typically use symmetrical resonating structures, such as rings. In a symmetrical resonating structure, there are two &#x201c;nearly degenerate&#x201d; modes that couple very efficiently in response to inertial rotation. However, due to the small sensing area available for capacitive sensing, MEMS gyroscopes that use ring structures typically exhibit high angle random walk, or rotation-rate white noise. In addition, due to the crystalline structure of silicon, there is a dependence of spring constant with orientation. This breaks the symmetry of the structure and adversely affects the drift performance of MEMS gyroscopes that use ring structures. Some of the limitations of ring structures have been overcome by using other structural shapes, such as a &#x201c;cloverleaf&#x201d; gyroscope with an underlying post. However, these devices are not substantially planar in configuration, and consequently, are more difficult to manufacture and package.</p>
+<p id="p-0010" num="0009">Additionally, for any symmetrical structure, the resonant motion of the structure about its axis of symmetry can be described as a linear combination of two orthogonal modes of rotation or oscillation. The resonant motions involve resilient flexing by different portions of the structure. As a practical matter, the symmetry of a symmetrical structure can never be really perfect, and accordingly, to achieve an accurate sensor, expensive, high-precision machining of the structure is required to approach true symmetry as closely as possible.</p>
+<p id="p-0011" num="0010">Accordingly, there is a long-felt but as yet unsatisfied need in the industry for a highly accurate, substantially planar MEMS resonant gyroscope that is simple in construction, avoids expensive, high-precision machining, and is therefore easy and inexpensive to manufacture and assemble.</p>
+<heading id="h-0003" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0012" num="0011">In accordance with the present invention, a MEMS gyroscope is provided in which the same spring is commonly shared by both resonant motions of the resonator, but in which the spring extends in opposite directions. This arrangement results in the mechanical factors that affect the spring constant being made common to both resonant motions of the resonator, thereby resulting in a high-precision degenerate resonator structure that is substantially easier to manufacture than prior art resonator structures.</p>
+<p id="p-0013" num="0012">In one advantageous embodiment, the resonator gyroscope and accelerometer of the present invention comprises a substantially planar, H-shaped resonator mass that is suspended for relative movement from a support plate by two opposed springs, or &#x201c;flexures&#x201d; that couple to opposite sides of the relatively short crossbar member of the H. The two orthogonal modes of the structure that are used for sensing rotation correspond to the nearly degenerate fundamental torsional modes. The H-shaped mass is made to incorporate a relatively high length-to-width aspect ratio, i.e., one resembling an elongated planar prism, to thereby improve the Coriolis force coupling between the two torsional modes thereof.</p>
+<p id="p-0014" num="0013">The &#x201c;frequency split,&#x201d; i.e., the frequency mismatch of the two fundamental modes, of this embodiment is given by the difference between the inertia I and the spring constant k of the two modes:</p>
+<p id="p-0015" num="0014">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+<mrow>
+  <mfrac>
+    <mrow>
+      <mi>&#x394;</mi>
+      <mo>&#x2062;</mo>
+      <mstyle>
+        <mspace width="0.3em" height="0.3ex"/>
+      </mstyle>
+      <mo>&#x2062;</mo>
+      <mi>f</mi>
+    </mrow>
+    <mi>f</mi>
+  </mfrac>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mn>2</mn>
+    </mfrac>
+    <mo>&#x2062;</mo>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mfrac>
+            <mrow>
+              <mi>&#x394;</mi>
+              <mo>&#x2062;</mo>
+              <mstyle>
+                <mspace width="0.3em" height="0.3ex"/>
+              </mstyle>
+              <mo>&#x2062;</mo>
+              <mi>k</mi>
+            </mrow>
+            <mi>k</mi>
+          </mfrac>
+          <mo>-</mo>
+          <mfrac>
+            <mrow>
+              <mi>&#x394;</mi>
+              <mo>&#x2062;</mo>
+              <mstyle>
+                <mspace width="0.3em" height="0.3ex"/>
+              </mstyle>
+              <mo>&#x2062;</mo>
+              <mi>I</mi>
+            </mrow>
+            <mi>I</mi>
+          </mfrac>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>.</mo>
+    </mrow>
+  </mrow>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0016" num="0015">Since the H-shaped mass closely resembles a rectangular prism, the mismatch in frequency due to inertia mismatch may be approximated by:</p>
+<p id="p-0017" num="0016">
+<maths id="MATH-US-00002" num="00002">
+<math overflow="scroll">
+<mrow>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mi>&#x394;</mi>
+        <mo>&#x2062;</mo>
+        <mstyle>
+          <mspace width="0.3em" height="0.3ex"/>
+        </mstyle>
+        <mo>&#x2062;</mo>
+        <mi>f</mi>
+      </mrow>
+      <mi>f</mi>
+    </mfrac>
+    <mo>&#x2248;</mo>
+    <mfrac>
+      <mrow>
+        <msup>
+          <mi>h</mi>
+          <mn>2</mn>
+        </msup>
+        <mo>-</mo>
+        <msup>
+          <mi>w</mi>
+          <mn>2</mn>
+        </msup>
+      </mrow>
+      <mrow>
+        <mn>2</mn>
+        <mo>&#x2062;</mo>
+        <msup>
+          <mi>L</mi>
+          <mn>2</mn>
+        </msup>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mo>,</mo>
+</mrow>
+</math>
+</maths>
+<br/>
+where h is the height, w is the width, and L is the length of the mass, and f is the resonant frequency for the torsional mode. Using, for example, h=20 microns, w=110 microns, L=5 mm, and f=9 kHz, the frequency split can be calculated to be only about 2.1 Hz. This means that, although the mass is not perfectly symmetrical, the frequency split resulting from the asymmetry of the mass is nevertheless very small, thus illustrating an important feature of the invention, viz., the provision of a gyroscope with a resonating mass that is not perfectly symmetrical, but one that has a very small inertial asymmetry.
+</p>
+<p id="p-0018" num="0017">If the springs supporting the mass are made to incorporate a square cross-section with dimension a, the frequency split due to asymmetry in the spring cross-section of &#x394;a can be approximated by:</p>
+<p id="p-0019" num="0018">
+<maths id="MATH-US-00003" num="00003">
+<math overflow="scroll">
+<mrow>
+  <mfrac>
+    <mrow>
+      <mi>&#x394;</mi>
+      <mo>&#x2062;</mo>
+      <mstyle>
+        <mspace width="0.3em" height="0.3ex"/>
+      </mstyle>
+      <mo>&#x2062;</mo>
+      <mi>f</mi>
+    </mrow>
+    <mi>f</mi>
+  </mfrac>
+  <mo>&#x2248;</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mi>&#x394;</mi>
+        <mo>&#x2062;</mo>
+        <mstyle>
+          <mspace width="0.3em" height="0.3ex"/>
+        </mstyle>
+        <mo>&#x2062;</mo>
+        <mi>a</mi>
+      </mrow>
+      <mi>a</mi>
+    </mfrac>
+    <mo>.</mo>
+  </mrow>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0020" num="0019">In one advantageous embodiment of the present invention, the frequency mismatch is reduced or virtually eliminated by simply etching the upper surface of the springs in the vertical direction, using an anisotropic process such as reactive ion etching, to reduce their vertical thickness, or height. This process enables a close matching of the two resonance modes of the structure to be achieved by etching only a few hundred nanometers from the upper surface of the springs. In one possible embodiment of a device &#x201c;tuning&#x201d; method, the resonance frequencies are measured first, and the amount of etching required is then determined, based on the measured frequency split. In a variation of this embodiment, the springs are purposefully fabricated a few hundred nanometers too thick, or tall, so that they will always require some trimming, assuming &#x201c;worst case&#x201d; etch and epilayer thickness errors.</p>
+<p id="p-0021" num="0020">As a result of the foregoing procedure, the present invention provides a MEMS resonator gyroscope that is &#x201c;close-to-degenerate,&#x201d; and that can be made &#x201c;nearly degenerate&#x201d; with a simple, inexpensive, controlled unidirectional etch of the upper surface of the springs. If the springs supporting the mass are made to incorporate a rectangular cross-section with dimensions a, b, and the resonance modes use bending and torsion of said springs, the frequency split due to asymmetry in the spring cross-section of &#x394;a, &#x394;b can be ignored, given that a&#x3e;b. In this case, the frequency mismatch is determined by the errors in the length of the spring and can be approximated by:</p>
+<p id="p-0022" num="0021">
+<maths id="MATH-US-00004" num="00004">
+<math overflow="scroll">
+<mrow>
+  <mfrac>
+    <mrow>
+      <mi>&#x394;</mi>
+      <mo>&#x2062;</mo>
+      <mstyle>
+        <mspace width="0.3em" height="0.3ex"/>
+      </mstyle>
+      <mo>&#x2062;</mo>
+      <mi>f</mi>
+    </mrow>
+    <mi>f</mi>
+  </mfrac>
+  <mo>&#x2248;</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mi>&#x394;</mi>
+        <mo>&#x2062;</mo>
+        <mstyle>
+          <mspace width="0.3em" height="0.3ex"/>
+        </mstyle>
+        <mo>&#x2062;</mo>
+        <mi>L</mi>
+      </mrow>
+      <mi>L</mi>
+    </mfrac>
+    <mo>.</mo>
+  </mrow>
+</mrow>
+</math>
+</maths>
+<br/>
+As a result of the foregoing design, the present invention provides a MEMS resonator gyroscope that is &#x201c;nearly degenerate,&#x201d; even in the presence of errors in the cross-section of the springs.
+</p>
+<p id="p-0023" num="0022">A better understanding of the above and many other features and advantages of the invention will become readily apparent from a consideration of its detailed description below, particularly if such consideration is made in conjunction with the several views of the appended drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE SEVERAL VIEWS OF THE DRAWINGS</heading>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 1</figref> is a top plan view of an inertial sensor in accordance with an exemplary embodiment of the present invention, with an upper baseplate, or cover portion thereof removed to reveal an underlying resonator portion thereof;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 2</figref> is a top plan view of the exemplary inertial sensor, with the upper baseplate and resonator portion removed to reveal a lower cover of the baseplate portion thereof;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 3</figref> is a top plan view of the resonator portion of the exemplary sensor, showing the angular displacement of the resonator about a Z axis passing through the centroid of the resonator and perpendicular to X-Y plane thereof during one mode of oscillatory motion thereof;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 4</figref> is a cross-sectional elevation view of the sensor, showing the angular displacement of the resonator about the Y axis thereof as a result of a Coriolis acceleration acting thereon during an angular rotation of the sensor about the X axis thereof;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic and functional block diagram of an inertial sensor system in accordance with an exemplary embodiment of the present invention;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 6</figref> is a top plan view of the resonator portion of another exemplary embodiment of an inertial sensor in accordance with the present invention;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 7</figref> is a top plan view of the resonator portion of another exemplary embodiment of an inertial sensor in accordance with the present invention;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 8</figref> is a schematic and functional block diagram of an inertial sensor system in accordance with another exemplary embodiment of the present invention;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 9</figref> is a top plan view of the resonator portion of another exemplary embodiment of an inertial sensor in accordance with the present invention;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 10</figref> is a cross-sectional view of a spring of the resonator of <figref idref="DRAWINGS">FIG. 9</figref>, as taken along the section lines <b>10</b>-<b>10</b> therein;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 11</figref> is a top plan view of the resonator portion of another exemplary embodiment of an inertial sensor in accordance with the present invention; and,</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 12</figref> is a cross-sectional view of a spring of the resonator of <figref idref="DRAWINGS">FIG. 11</figref>, as taken along the section lines <b>12</b>-<b>12</b> therein.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0036" num="0035">An exemplary embodiment of a MEMS inertial sensor <b>9</b> in accordance with the present invention includes two major portions: A resonator portion <b>10</b>, comprising a movable, symmetrical planar mass <b>12</b>, and a fixed baseplate portion <b>11</b>. As illustrated in <figref idref="DRAWINGS">FIG. 3</figref>, the movable mass <b>12</b>, sometimes referred to as a &#x201c;proof mass,&#x201d; is flexibly suspended from a planar support frame <b>56</b> by one or more opposed &#x201c;flexures,&#x201d; or springs <b>46</b>, and the resonator and support frame, in turn, are sandwiched between generally planar lower and upper cover portions <b>58</b> and <b>68</b>, respectively, of the baseplate portion <b>11</b> by a pair of spacer rings or frames <b>57</b> and <b>67</b>, respectively, as illustrated in the cross-sectional elevation view of the sensor of <figref idref="DRAWINGS">FIG. 4</figref>.</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIGS. 1 and 3</figref> are top plan views of the resonator portion <b>10</b> of an inertial sensor <b>9</b> according to a first exemplary embodiment of the present invention. In this particular embodiment, a substantially planar, H-shaped mass <b>12</b> is flexibly coupled to the support frame <b>56</b> by two opposed, resilient, linear springs <b>46</b>, which couple to the cross-bar of the H on opposite sides thereof, as illustrated in the figures. The mass has arm portions <b>14</b> that respectively extend laterally well beyond the locations at which the springs <b>46</b> couple to the mass <b>12</b>. The resonator portion <b>10</b>, including the mass, the support frame and the springs, is advantageously fabricated as a single integral piece from an epilayer semiconductor wafer, such a Silicon-on-Insulator (&#x201c;SOI&#x201d;) wafer. Such a wafer is composed of a silicon epilayer that is, for example, 20 microns thick, disposed on a silicon dioxide epilayer that is, for example, 2 microns thick, which in turn, is disposed on a silicon &#x201c;handle&#x201d; layer, or substrate, that is, for example, 400 microns thick.</p>
+<p id="p-0038" num="0037">The mass <b>12</b> and springs <b>46</b> of the resonator <b>10</b> are preferably integrally etched from the epilayer so that they are, for example, 20 microns thick, and are then separated from the wafer. Four excitation/sensor electrodes <b>51</b><i>a</i>-<i>d </i>(see <figref idref="DRAWINGS">FIG. 1</figref>) are also etched from the epilayer, and are electrically insulated from the support frame <b>56</b> by the dielectric silicon dioxide epilayer underlying them. By electrically coupling the support frame <b>56</b> to ground, the mass <b>12</b> and springs <b>46</b>, which are electrically coupled to the frame <b>56</b>, are thereby also grounded. Thus, when a voltage is applied to an &#x201c;excitation&#x201d; electrode of the resonator, e.g., electrode <b>51</b><i>a</i>, an electrostatic attractive force is generated between the electrode <b>51</b><i>a </i>and the mass <b>12</b>, and therefore results in an angular displacement of the mass <b>12</b> relative to the frame <b>56</b>, as illustrated in the plan view of the resonator of <figref idref="DRAWINGS">FIG. 3</figref>, i.e., the mass will rotate clockwise or anticlockwise about a Z axis (see <figref idref="DRAWINGS">FIG. 4</figref>) passing through its centroid and perpendicular to the plane of the mass containing a pair of mutually orthogonal axes, X and Y, as illustrated in the figures.</p>
+<p id="p-0039" num="0038">As will also be apparent, if a voltage is applied to a second excitation electrode on an opposite side or end of the mass <b>12</b>, e.g., electrode <b>51</b><i>b </i>or <b>51</b><i>c</i>, the electrostatic torque acting on the mass <b>12</b> will be doubled, resulting in an even greater angular displacement of the mass. Further, it may be noted that if appropriately phased voltages that vary harmonically, e.g., sinusoidally, are applied to the driving electrodes, the mass <b>12</b> will oscillate, or &#x201c;dither,&#x201d; in the X-Y plane and about the Z axis between two opposite angular positions of maximum amplitude, as described in more detail below.</p>
+<p id="p-0040" num="0039">The movement of the mass <b>12</b> causes the electrical capacitance between the mass and the support frame <b>56</b> adjacent to a pair of &#x201c;sensor&#x201d; electrodes, e.g., <b>51</b><i>b </i>and <b>51</b><i>d </i>located on opposite sides or ends of the mass to vary responsively. If a fixed voltage is coupled to one or both of these electrodes, electrical charge wilt then flow into or out of the electrode(s) to maintain a constant relative voltage on the respective capacitor(s) defined therebetween. This current can be measured using a charge or transimpedance amplifier to determine the motion of the mass <b>12</b> relative to the support frame <b>56</b>, and hence, relative to the baseplate portion <b>11</b> of the sensor <b>9</b>. Additionally, the respective outputs of a pair of opposite sensor electrodes, e.g., <b>51</b><i>c </i>and <b>51</b><i>d</i>, or <b>51</b><i>b </i>and <b>51</b><i>d</i>, may be electrically subtracted from each other, or &#x201c;differenced,&#x201d; resulting in a so-called &#x201c;differential-capacitor&#x201d; type of sensor in which small, transient or common mode errors in the sensor electrode outputs serve to cancel each other out, thereby resulting in more accurate inertial system measurements.</p>
+<p id="p-0041" num="0040">As above, additional electronics can be used to excite the mass <b>12</b> into a resonance mode by the application of appropriately phased alternating voltages to the excitation electrodes, e.g., electrodes <b>51</b><i>a </i>and <b>51</b><i>b</i>. Electrical contacts, e.g., solder bumps <b>77</b><i>a</i>-<i>d </i>(see <figref idref="DRAWINGS">FIG. 1</figref>), may be disposed on the electrodes <b>51</b><i>a</i>-<i>d </i>to form the basis for an electrical interconnection of the resonator <b>10</b> with the baseplate portion <b>11</b>. As illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, the lower cover <b>58</b> of the baseplate portion of the sensor <b>9</b> incorporates four electrodes <b>52</b><i>a</i>-<i>d</i>, which are electrically insulated from the underlying baseplate cover <b>58</b> by the thin, silicon dioxide epilayer described above. A lower ring frame, or spacer <b>57</b> is built onto the upper surface of the lower cover of the baseplate portion <b>11</b> to provide a space between the resonator <b>10</b> and the baseplate electrodes <b>52</b><i>a</i>-<i>d</i>. As illustrated in the cross-sectional elevation view of <figref idref="DRAWINGS">FIG. 4</figref>, an upper spacer or ring frame <b>67</b> is also provided on the lower surface of the upper cover <b>68</b> of the baseplate portion to provide a space above the resonator.</p>
+<p id="p-0042" num="0041">The baseplate electrodes <b>52</b><i>a</i>-<i>d </i>function in a manner similar to those of the resonator excitation/sensor electrodes <b>51</b><i>a</i>-<i>d </i>to excite and/or sense the motion of the resonator mass <b>12</b>. The baseplate electrodes <b>52</b><i>a</i>-<i>d </i>are coupled to filled, electrical &#x201c;vias&#x201d; <b>78</b><i>a</i>-<i>d </i>that pass through but are electrically insulated from the baseplate lower cover <b>58</b> to its lower surface. These vias are filled with, e.g., a metal, to enable a hermetic seal of the resonator within a low-pressure environment to be achieved that effects ensures a minimal damping on the motion of the resonator mass <b>12</b>. Additional vias <b>79</b><i>a</i>-<b>79</b><i>d </i>are provided to electrically couple to the resonator electrodes <b>51</b><i>a</i>-<b>51</b><i>d</i>. In one possible embodiment, the upper and lower covers <b>58</b> and <b>68</b> of the baseplate portion <b>11</b> are both manufactured using silicon micromachining by etching the vias <b>78</b><i>a</i>-<b>78</b><i>d </i>and <b>79</b><i>a</i>-<b>79</b><i>d</i>, etching the spacers <b>57</b> and <b>59</b>, oxidizing the silicon, depositing metal, filling in the vias by electroplating, and patterning the metal to form the electrodes <b>52</b><i>a</i>-<i>d</i>. The lower and upper spacers <b>57</b> and <b>58</b> may be, for example, 1 micron high each, and may be made by oxidizing the wafer, patterning the spacer using photoresist, and selectively etching the oxide. In one advantageous embodiment, the respective upper and lower surfaces of the two spacers may be covered with metal and solder to enable a metal-to-metal seal to be formed with the resonator support frame <b>56</b> and thereby form a hermetically sealed enclosure about the resonator. In one possible embodiment, a &#x201c;getter&#x201d; of a known type may be placed inside the hermetic enclosure to ensure that a low pressure or vacuum environment is maintained within the enclosed space for the life of the sensor <b>9</b>.</p>
+<p id="p-0043" num="0042">In the plan view of <figref idref="DRAWINGS">FIG. 3</figref>, the pendulous mass <b>12</b> of the resonator portion <b>11</b> is shown at one point in its resonant motion, illustrating the torsional mode that is excited using one or more of the excitation electrodes <b>51</b><i>a</i>-<i>d</i>. As described above, in this mode of excitation, the mass <b>12</b> oscillates in the X-Y plane and about the Z axis (see <figref idref="DRAWINGS">FIG. 4</figref>) extending through its centroid. An exemplary amplitude of motion of the mass is between about 1 and 20 microns, and is limited by the gap between the mass <b>12</b> and the support frame <b>56</b> below the electrodes <b>51</b><i>a</i>-<i>d</i>. In general, it is desirable to have a relatively large amplitude of motion of the mass to increase the sensitivity of the inertial sensor to rotation, or angular rate, in response to the Coriolis force acting thereon, in the following manner.</p>
+<p id="p-0044" num="0043">During a rotational motion of the sensor about an axis parallel to the long axis of the mass <b>12</b>, i.e., about the X-axis of <figref idref="DRAWINGS">FIG. 3</figref>, the oscillatory motion of the mass <b>12</b> couples into the oscillatory motion of the mass shown in the cross-sectional elevation view of <figref idref="DRAWINGS">FIG. 4</figref>, i.e., the mass <b>12</b> continues to oscillate, or dither, about the Z-axis through its centroid, but the X-Y plane of the mass, and hence, the Z-axis, are rotated through an angular displacement relative to the horizontal, as illustrated in <figref idref="DRAWINGS">FIG. 4</figref>. This coupling is the result of the Coriolis force described above, which acts on the oscillating mass <b>12</b> during a rotational movement of the sensor about the X-axis to deflect the relative velocity of the mass in the direction of the angular motion of the sensor about the X-axis.</p>
+<p id="p-0045" num="0044">Since the oscillatory motion of the mass is such that there are minimal forces impressed on the resonator, the oscillatory motion shown in <figref idref="DRAWINGS">FIG. 3</figref> couples into the oscillatory motion shown in <figref idref="DRAWINGS">FIG. 4</figref> to maintain a constant motion in inertial coordinates. The angular rate of the sensor <b>9</b> about the X-axis is then measured by determining the amplitude of the displacement of the oscillating mass <b>12</b> shown in <figref idref="DRAWINGS">FIG. 4</figref>. As discussed above, the resonator portion <b>10</b> is typically electrically grounded. If a voltage is applied to one or more of the sense electrodes <b>52</b><i>a</i>-<i>d </i>of the lower cover (<figref idref="DRAWINGS">FIG. 2</figref>), as the resonator mass <b>12</b> oscillates, current flows into and out of the capacitor formed by the electrode <b>52</b><i>a </i>and the resonator <b>12</b>. This current can then be sensed using an amplifier to determine the amplitude of the motion.</p>
+<p id="p-0046" num="0045">The description of the inertial sensor <b>9</b> above contemplates a so-called &#x201c;open loop&#x201d; sensor operation, i.e., one in which the demodulated output of the sensor is immediately taken as the measure of the inertial forces acting on the resonator, without regard to the changes in the sensitivity of the sensor that may be caused by the operation of such inertial forces. However, it is possible, and in some cases more desirable from the standpoint of accuracy, to confect a &#x201c;closed loop&#x201d; inertial system, in which the differential changes in the capacitance are fed back to the sensor in the form of electrostatic field forces that drive the resonator mass of the sensor in such a way as to restore and maintain the mass in its original un-reacted state, and in which the measure of the forces necessary to restore the central plate to such condition and to maintain it there is then taken as the measure of the inertial forces acting on the sensor.</p>
+<p id="p-0047" num="0046">Such a &#x201c;closed loop&#x201d; inertial sensor system <b>80</b> incorporating an inertial sensor <b>9</b> of the type described above is illustrated in the schematic and functional block diagram of <figref idref="DRAWINGS">FIG. 5</figref>. The circuit of the closed loop system includes an automatic gain control (&#x201c;AGC&#x201d;) driver circuit <b>81</b> that connects to two resonator excitation electrodes disposed at opposite sides or ends of the resonant mass <b>12</b>, e.g., electrodes <b>51</b><i>a </i>and <b>51</b><i>b </i>of <figref idref="DRAWINGS">FIG. 1</figref>. The AGC circuit functions to maintain a constant direction and amplitude of motion of the resonator mass <b>12</b>, regardless of the inertial forces acting thereon. To achieve this end, two sensor electrodes disposed at opposite sides or ends of the mass, e.g., electrodes <b>51</b><i>c </i>and <b>51</b><i>d</i>, are connected to charge amplifiers <b>82</b> that detect the sinusoidal signal generated by the oscillatory motion of the resonator mass in the X-Y plane, as above. The difference between these two signals is taken, as above, to eliminate any common mode signals that may result from electrical coupling into the input of the charge amplifiers, or from unwanted resonator motion. The resulting sinusoidal signal is then fed back into the AGC driver circuit <b>81</b>, which measures the amplitude of the difference signal. If the amplitude of the signal is lower than the &#x201c;set point,&#x201d; the AGC circuit increases the amplification of the sinusoidal signal and provides that signal to the electrodes <b>51</b><i>a </i>and <b>51</b><i>b</i>. If the amplitude of the signal is higher than the set point, the AGC reduces the amplification of the sinusoidal signal and provides the reduced signal to the excitation electrodes <b>51</b><i>a </i>and <b>51</b><i>b. </i></p>
+<p id="p-0048" num="0047">As a result of this variable amplification, the AGC circuit <b>81</b> functions to maintain the amplitude of the sinusoidal signal substantially equal to the initial set point. Further, the AGC circuit also ensures that the sinusoidal motion of the resonator mass <b>12</b> is maintained precisely at its resonance frequency, since the gain of the AGC loop is proportional to the mechanical gain of the resonator, and this is substantially higher at the resonance frequency. The remaining portion of the circuit of the system <b>80</b> is dedicated to demodulator circuitry <b>84</b>, for extracting angular rate information from the output signals, and closed loop, angular rate sense circuitry, as described above.</p>
+<p id="p-0049" num="0048">Regarding the latter circuitry, two sense electrodes <b>52</b><i>c </i>and <b>52</b><i>d </i>on the lower cover <b>57</b> of the base plate portion <b>11</b> (see <figref idref="DRAWINGS">FIG. 2</figref>) are coupled to charge amplifiers <b>86</b> that detect the sinusoidal signal created by the out-of-plane oscillatory motion of the resonator mass <b>12</b> in response to a Coriolis force acting upon it, as described above. The difference between these two signals is also taken to eliminate any common mode signals that may result from electrical coupling into the input of the charge amplifiers or from unwanted resonator motion. This sinusoidal signal is fed back into a closed-loop, high gain amplifier <b>88</b> that provides signals to the electrodes <b>52</b><i>a </i>and <b>52</b><i>b</i>. If the gain of the closed-loop amplifier is sufficiently high, the motion of the resonator out of its initial plane will thereby be made close to zero. The amplitude of the signal fed to the electrodes <b>52</b><i>a </i>and <b>52</b><i>b </i>then becomes an indication of the force required to keep the resonator mass <b>12</b> from moving out-of-plane. For this reason, closed-loop control systems of this type are often referred to as &#x201c;force-rebalance&#x201d; systems. As illustrated in the figure, the sense signal is fed into one input of the demodulator <b>84</b>, and the drive signal is fed into the second input of the demodulator. The demodulator multiplies the two sinusoidal signals, and puts out a voltage that is proportional to the amplitude of the sense signal, since the drive signal is kept constant by the AGC circuitry <b>80</b>, as above. And, since the Coriolis force is linearly proportional to rotation rate, this output is also linearly proportional to the rate of rotation, or angular rate, of the sensor about the X axis.</p>
+<p id="p-0050" num="0049">In the inertial sensor <b>9</b> of the present invention, there are many possible alternative embodiments of the resonator <b>10</b> that are related to the basic resonator configuration described above. Two such embodiments are shown in <figref idref="DRAWINGS">FIGS. 6 and 7</figref>, respectively. In <figref idref="DRAWINGS">FIG. 6</figref>, upright, interleaved, arcuate &#x201c;comb drives&#x201d; <b>90</b> are used in place of the planar electrodes <b>51</b><i>a</i>-<i>d </i>of the first embodiment illustrated in <figref idref="DRAWINGS">FIG. 1</figref>. One side of each set of the comb drives may be formed integrally with the H-shaped mass <b>12</b>, and one side may be formed, e.g., by micromachining, integrally with the lower cover portion <b>57</b> of the baseplate portion <b>11</b>, as described above. These comb drives enable a larger amplitude drive signal to be applied to the pendulous mass <b>12</b>. Although shown greatly exaggerated in size in the figure, these comb drives may nevertheless affect the inertia in the two resonant motion directions (i.e., both in-plane and out-of-plane), and this effect should be taken into account in the design, to ensure the drive and sense resonance frequencies do not differ too greatly.</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 7</figref> illustrates a resonator <b>10</b> having a pair of counterbalanced masses <b>12</b><i>a </i>and <b>12</b><i>b</i>. This configuration can be used to increase the &#x201c;Q factor&#x201d; of the resonator, i.e., the sharpness of its response curve, since there is much less interaction of such an arrangement with elements in the surrounding environment. In this embodiment of the resonator, the two masses <b>12</b><i>a </i>and <b>12</b><i>b </i>are each suspended from the support frame <b>56</b> by a respective pair of opposed springs <b>46</b><i>a </i>and <b>46</b><i>b</i>. Each of the springs in the respective pairs may be joined directly to the support frame <b>56</b>, or may be coupled to it through more elaborate spring structures. As shown in the figure, during drive resonant motion, the two masses <b>12</b><i>a </i>and <b>12</b><i>b </i>oscillate 180 degrees out of phase, such that the respective angular momenta of the two masses are exactly counterbalanced. This arrangement reduces the interaction of the masses with elements in their immediate surroundings and thereby decreases the mechanical losses of the system. In the sense direction, the two masses also oscillate out of phase with each other, which also reduces mechanical loss. This increases the mechanical Q factor of the resonator, thereby improving the performance of the gyroscope. In this counterbalanced embodiment, four electrodes <b>51</b><i>a</i>-<i>d </i>are used, as above, to excite and sense the in-plane motion of the resonator. The sensor electrodes <b>52</b><i>a</i>-<i>d </i>can be arranged as shown in <figref idref="DRAWINGS">FIG. 2</figref>, which effectively doubles the sensing area.</p>
+<p id="p-0052" num="0051">In addition to indirectly sensing rotation, or angular rate, applied to the sensor <b>9</b> through the Coriolis effect, as above, the inertial sensors <b>9</b> of this invention may also be used to directly sense linear acceleration applied to the sensor along either one or two sensitive axes thereof. A schematic and functional block diagram of an inertial system <b>100</b> incorporating electronics capable of sensing both angular rate and linear acceleration applied to the sensor is shown in <figref idref="DRAWINGS">FIG. 8</figref>, wherein the same or similar features to those of <figref idref="DRAWINGS">FIG. 5</figref> are numbered similarly.</p>
+<p id="p-0053" num="0052">In addition to the electronics described above in connection with the inertial system <b>80</b> of <figref idref="DRAWINGS">FIG. 5</figref>, open-loop demodulators <b>92</b> and <b>94</b> are also included for outputting signals proportional to the linear accelerations experienced along the Z and Y axes of the sensor, respectively. However, those of skill in the art will readily appreciate that these additional open-loop demodulators may be made closed-loop by providing feedback to the excitation electrodes, as described above in connection with <figref idref="DRAWINGS">FIG. 5</figref>. As illustrated in the figure, additional charge amplifiers are also provided to the electrodes <b>51</b><i>b </i>and <b>52</b><i>a</i>. To sense the acceleration along the Y axis (in-plane), the output from electrode <b>51</b><i>b </i>is summed with the output from opposing electrode <b>51</b><i>d</i>. As the mass <b>12</b> oscillates along the drive resonance, signals will be measured from these two electrodes. If the mass <b>12</b> is centered with respect to these two electrodes, summing their signals will substantially cancel them, since the two signals will be equal and 180 degrees out of phase. However, if the mass is displaced from its centered position by an acceleration along the Y axis, the two signals will no longer be equal and their sum will therefore yield a sinusoidal signal at the drive frequency. This sinusoidal signal is demodulated with the drive signal to yield a voltage proportional to the linear acceleration along the Y axis. To sense acceleration along the Z-axis (i.e., out of plane), the output from electrode <b>52</b><i>a </i>is summed with the output from electrode <b>52</b><i>c</i>, as illustrated in <figref idref="DRAWINGS">FIG. 8</figref>. The drive motion will create a residual signal in both of these electrodes due to the change in overlap between the mass <b>12</b> and the sense electrodes <b>52</b><i>a </i>and <b>52</b><i>c</i>. As the gap between the mass <b>12</b> and the electrodes <b>52</b><i>a </i>and <b>52</b><i>c </i>is changed by a linear acceleration along the Z axis, the amplitude of this residual signal will also change proportionally.</p>
+<p id="p-0054" num="0053">As illustrated in the enlarged partial plan view of an exemplary pendulous mass <b>12</b> of the present invention of <figref idref="DRAWINGS">FIG. 9</figref>, it may be observed that the each of the resonator <b>10</b> embodiments described above incorporate one or more planar, substantially H-shaped pendulous masses <b>12</b> that are suspended from a support plate <b>56</b> by two springs <b>46</b> that extend in opposite directions and respectively couple between the relatively short crossbar of the H and the adjacent support plate <b>56</b>. The two orthogonal modes of the structure that are used for sensing rotation correspond to the &#x201c;nearly degenerate&#x201d; fundamental torsional modes of the resonator. The H-shaped masses thus incorporate a relatively high length-to-width aspect ratio, i.e., one resembling an elongated, rectangular planar prism, which configuration serves to increase the Coriolis-force-coupling between the two torsional modes of the resonator.</p>
+<p id="p-0055" num="0054">The &#x201c;frequency split&#x201d; &#x394;f/f of these resonators <b>10</b>, i.e., the frequency mismatch between the two fundamental modes of resonances of their masses <b>12</b>, is given by the difference between the inertia I and the spring constant k of the two resonator modes:</p>
+<p id="p-0056" num="0055">
+<maths id="MATH-US-00005" num="00005">
+<math overflow="scroll">
+<mrow>
+  <mfrac>
+    <mrow>
+      <mi>&#x394;</mi>
+      <mo>&#x2062;</mo>
+      <mstyle>
+        <mspace width="0.3em" height="0.3ex"/>
+      </mstyle>
+      <mo>&#x2062;</mo>
+      <mi>f</mi>
+    </mrow>
+    <mi>f</mi>
+  </mfrac>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mn>2</mn>
+    </mfrac>
+    <mo>&#x2062;</mo>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mfrac>
+            <mrow>
+              <mi>&#x394;</mi>
+              <mo>&#x2062;</mo>
+              <mstyle>
+                <mspace width="0.3em" height="0.3ex"/>
+              </mstyle>
+              <mo>&#x2062;</mo>
+              <mi>k</mi>
+            </mrow>
+            <mi>k</mi>
+          </mfrac>
+          <mo>-</mo>
+          <mfrac>
+            <mrow>
+              <mi>&#x394;</mi>
+              <mo>&#x2062;</mo>
+              <mstyle>
+                <mspace width="0.3em" height="0.3ex"/>
+              </mstyle>
+              <mo>&#x2062;</mo>
+              <mi>I</mi>
+            </mrow>
+            <mi>I</mi>
+          </mfrac>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>.</mo>
+    </mrow>
+  </mrow>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0057" num="0056">Further, since the H-shaped masses <b>12</b> closely resemble rectangular prisms, the mismatch in frequency due to any inertia mismatch can be approximated by the relation:</p>
+<p id="p-0058" num="0057">
+<maths id="MATH-US-00006" num="00006">
+<math overflow="scroll">
+<mrow>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mi>&#x394;</mi>
+        <mo>&#x2062;</mo>
+        <mstyle>
+          <mspace width="0.3em" height="0.3ex"/>
+        </mstyle>
+        <mo>&#x2062;</mo>
+        <mi>f</mi>
+      </mrow>
+      <mi>f</mi>
+    </mfrac>
+    <mo>&#x2248;</mo>
+    <mfrac>
+      <mrow>
+        <msup>
+          <mi>h</mi>
+          <mn>2</mn>
+        </msup>
+        <mo>-</mo>
+        <msup>
+          <mi>w</mi>
+          <mn>2</mn>
+        </msup>
+      </mrow>
+      <mrow>
+        <mn>2</mn>
+        <mo>&#x2062;</mo>
+        <msup>
+          <mi>L</mi>
+          <mn>2</mn>
+        </msup>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mo>,</mo>
+</mrow>
+</math>
+</maths>
+<br/>
+where h is the height, w is the width, and L is the length of the mass, and where f is the resonant frequency of the torsional mode. For example, if h=20 microns, w=110 microns, L 5 mm, and f=9 kHz, the frequency split is only about 2.1 Hz. This means that, although the mass is not perfectly symmetrical, the frequency split resulting from the asymmetry of the mass is nevertheless very small, thus illustrating one important feature of this invention, viz., the provision of a gyroscope with a resonating mass that, while not perfectly symmetrical, has a very small inertial asymmetry.
+</p>
+<p id="p-0059" num="0058">Of further importance, if the springs <b>46</b> supporting the respective masses <b>12</b> are made to incorporate a square cross-section having a common dimension a, i.e., their cross-sectional horizontal thickness, or width, is made substantially the same as their cross-sectional vertical thickness, or height, as illustrated in the cross-sectional detail view of <figref idref="DRAWINGS">FIG. 10</figref>, it will be seen that the frequency split due to any asymmetry in the spring cross-section of &#x394;a is given approximately by:</p>
+<p id="p-0060" num="0059">
+<maths id="MATH-US-00007" num="00007">
+<math overflow="scroll">
+<mrow>
+  <mfrac>
+    <mrow>
+      <mi>&#x394;</mi>
+      <mo>&#x2062;</mo>
+      <mstyle>
+        <mspace width="0.3em" height="0.3ex"/>
+      </mstyle>
+      <mo>&#x2062;</mo>
+      <mi>f</mi>
+    </mrow>
+    <mi>f</mi>
+  </mfrac>
+  <mo>&#x2248;</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mi>&#x394;</mi>
+        <mo>&#x2062;</mo>
+        <mstyle>
+          <mspace width="0.3em" height="0.3ex"/>
+        </mstyle>
+        <mo>&#x2062;</mo>
+        <mi>a</mi>
+      </mrow>
+      <mi>a</mi>
+    </mfrac>
+    <mo>.</mo>
+  </mrow>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0061" num="0060">As a practical matter, some differences will typically exist between the cross-sectional height and width of the springs due to normal manufacturing tolerances and imperfections, and these dimensional differences in the springs will lead to unwanted frequency mismatches. For example, using a=20 microns, &#x394;a=0.2 microns, and f=9 kHz, the resulting frequency split will be approximately 90 Hz. Since this frequency split is undesirably large, it is desirable to provide a simple, inexpensive method for &#x201c;tuning&#x201d; the springs <b>46</b> to reduce the frequency mismatch. The above relationship suggests one such procedure, viz., adding or removing small amounts of material from one more of the four exterior surfaces of the springs to reduce &#x394;a to as small a value as possible.</p>
+<p id="p-0062" num="0061">In particular, it has been discovered that the frequency mismatch &#x394;f/f can be corrected, i.e., reduced to an acceptable value, easily and inexpensively by the following resonator &#x201c;tuning&#x201d; procedure: 1) Measuring the difference between the vertical height and horizontal width of the springs <b>46</b> using either metrology or resonance testing; 2) computing the amount of material that needs to be removed from the upper surface of the springs to make the frequencies of the two resonant modes substantially equal; 3) etching that amount of material from the upper surface of the springs (i.e., reducing their vertical thickness, or height); and, 4) if necessary, repeating the preceding steps until the frequency mismatch is reduced to the level desired. In one advantageous embodiment of this method, the etching step is effected by a reactive ion etching of the entire upper surface of the springs. This process is inherently compatible with wafer scale manufacturing techniques, and due to its directionality or &#x201c;anisotropy,&#x201d; reactive ion etching is capable of precisely reducing the height of the springs by a very small, controlled amount, e.g., by a few hundred angstroms, while leaving their width substantially unchanged. In one advantageous variation of the method, the respective vertical thicknesses of the springs <b>46</b> are purposefully fabricated a few hundred nanometers too thick, so that they always require some &#x201c;trimming,&#x201d; assuming worst case etch and epilayer thickness errors.</p>
+<p id="p-0063" num="0062">As a result of this simple procedure, typical manufacturing errors can be easily corrected as long as the vertical thickness of the springs is slightly larger than their horizontal width. This resonator &#x201c;tuning&#x201d; procedure thus provides one of the important advantages of the present invention, namely, a simple, relatively inexpensive process for the manufacture of low-cost, high performance gyroscopes.</p>
+<p id="p-0064" num="0063">An exemplary embodiment of a resonator <b>10</b> in accordance with another aspect of the present invention is illustrated in the plan view of <figref idref="DRAWINGS">FIG. 11</figref>. In this embodiment, the relatively large length-to-width aspect ratio of the pendulous mass <b>12</b> described above is retained, so that the relatively small frequency split &#x394;f/f inherent in such a configuration, as discussed above, is also retained. However, unlike the embodiment of <figref idref="DRAWINGS">FIG. 9</figref>, in the embodiment of <figref idref="DRAWINGS">FIG. 11</figref>, the springs <b>46</b> do not couple to the mass along its long axis, but instead, along the short axis thereof. In addition, the springs <b>46</b> do not have a square cross-section, and in particular, the cross-sectional width of the springs a has been adjusted to be much smaller than the cross-sectional height b, as illustrated in the cross-sectional view of the spring of <figref idref="DRAWINGS">FIG. 12</figref>. In such a configuration, the equations for the spring stiffness k<sub>i </sub>then become, for the X, Y and Z coordinate system illustrated in <figref idref="DRAWINGS">FIGS. 11 and 12</figref>:</p>
+<p id="p-0065" num="0064">For rotation about the Z axis:</p>
+<p id="p-0066" num="0065">
+<maths id="MATH-US-00008" num="00008">
+<math overflow="scroll">
+<mrow>
+  <mrow>
+    <msub>
+      <mi>k</mi>
+      <mi>Z</mi>
+    </msub>
+    <mo>&#x221d;</mo>
+    <mfrac>
+      <mrow>
+        <msup>
+          <mi>a</mi>
+          <mn>3</mn>
+        </msup>
+        <mo>&#x2062;</mo>
+        <msup>
+          <mi>bW</mi>
+          <mn>2</mn>
+        </msup>
+      </mrow>
+      <msup>
+        <mi>L</mi>
+        <mn>3</mn>
+      </msup>
+    </mfrac>
+  </mrow>
+  <mo>,</mo>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0067" num="0066">and for rotation about the Y axis:</p>
+<p id="p-0068" num="0067">
+<maths id="MATH-US-00009" num="00009">
+<math overflow="scroll">
+<mrow>
+  <mrow>
+    <msub>
+      <mi>k</mi>
+      <mi>Y</mi>
+    </msub>
+    <mo>&#x221d;</mo>
+    <mfrac>
+      <mrow>
+        <msup>
+          <mi>a</mi>
+          <mn>3</mn>
+        </msup>
+        <mo>&#x2062;</mo>
+        <mi>b</mi>
+      </mrow>
+      <mi>L</mi>
+    </mfrac>
+  </mrow>
+  <mo>,</mo>
+</mrow>
+</math>
+</maths>
+<br/>
+where a is the cross-sectional width of the springs, b is the cross-sectional height of the springs, L is the length of the springs, and W is the width of the crossbar of the mass at the location at which the two springs couple to it, as illustrated in <figref idref="DRAWINGS">FIGS. 11 and 12</figref>.
+</p>
+<p id="p-0069" num="0068">It may be seen from the above that, since the dependence on a and b are the same for the X and Y stiffnesses of the two springs, any manufacturing errors in these dimensions will not substantially affect the frequency split, and moreover, errors in the length of the springs affect the frequency difference in accordance with the following approximation:</p>
+<p id="p-0070" num="0069">
+<maths id="MATH-US-00010" num="00010">
+<math overflow="scroll">
+<mrow>
+  <mfrac>
+    <mrow>
+      <mi>&#x394;</mi>
+      <mo>&#x2062;</mo>
+      <mstyle>
+        <mspace width="0.3em" height="0.3ex"/>
+      </mstyle>
+      <mo>&#x2062;</mo>
+      <mi>f</mi>
+    </mrow>
+    <mi>f</mi>
+  </mfrac>
+  <mo>&#x2248;</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mi>&#x394;</mi>
+        <mo>&#x2062;</mo>
+        <mstyle>
+          <mspace width="0.3em" height="0.3ex"/>
+        </mstyle>
+        <mo>&#x2062;</mo>
+        <mi>L</mi>
+      </mrow>
+      <mi>L</mi>
+    </mfrac>
+    <mo>.</mo>
+  </mrow>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0071" num="0070">Thus, since the length L of the respective springs <b>46</b> is much larger than their width a, while the errors in their width are approximately the same as the errors in their length L, this embodiment of the resonator <b>10</b> results in a frequency mismatch that is inherently at least an order of magnitude smaller than that of the embodiment illustrated in <figref idref="DRAWINGS">FIG. 9</figref> above, without need for any &#x201c;tuning&#x201d; of the resonator. Additionally, if any reduction in the frequency mismatch should be desired, this can be effected in a tuning procedure similar to that described above in connection with the embodiment of <figref idref="DRAWINGS">FIG. 9</figref>, in which the respective lengths of the two springs, rather than their height, is adjusted by, e.g., using a reactive ion etching process as above, etching a small relief <b>60</b> through the support plate <b>56</b> on both sides of an outer end of one or both springs to lengthen them slightly, as illustrated in <figref idref="DRAWINGS">FIG. 11</figref>.</p>
+<p id="p-0072" num="0071">As will now be evident to those of skill in this art, many modifications, substitutions and variations can be made in and to the materials, components, configurations and methods of implementation of MEMS inertial sensor <b>9</b> of the present invention without departing from its spirit and scope. Accordingly, the scope of the present invention should not be limited to the particular embodiments illustrated and described herein, as they are merely exemplary in nature, but rather, should be fully commensurate with that of the claims appended hereafter and their functional equivalents.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US07640803-20100105-M00001.NB">
+<img id="EMI-M00001" he="6.69mm" wi="76.20mm" file="US07640803-20100105-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00002" nb-file="US07640803-20100105-M00002.NB">
+<img id="EMI-M00002" he="7.45mm" wi="76.20mm" file="US07640803-20100105-M00002.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00003" nb-file="US07640803-20100105-M00003.NB">
+<img id="EMI-M00003" he="6.69mm" wi="76.20mm" file="US07640803-20100105-M00003.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00004" nb-file="US07640803-20100105-M00004.NB">
+<img id="EMI-M00004" he="6.69mm" wi="76.20mm" file="US07640803-20100105-M00004.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00005" nb-file="US07640803-20100105-M00005.NB">
+<img id="EMI-M00005" he="6.69mm" wi="76.20mm" file="US07640803-20100105-M00005.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00006" nb-file="US07640803-20100105-M00006.NB">
+<img id="EMI-M00006" he="7.45mm" wi="76.20mm" file="US07640803-20100105-M00006.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00007" nb-file="US07640803-20100105-M00007.NB">
+<img id="EMI-M00007" he="6.69mm" wi="76.20mm" file="US07640803-20100105-M00007.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00008" nb-file="US07640803-20100105-M00008.NB">
+<img id="EMI-M00008" he="6.69mm" wi="76.20mm" file="US07640803-20100105-M00008.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00009" nb-file="US07640803-20100105-M00009.NB">
+<img id="EMI-M00009" he="6.69mm" wi="76.20mm" file="US07640803-20100105-M00009.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00010" nb-file="US07640803-20100105-M00010.NB">
+<img id="EMI-M00010" he="6.69mm" wi="76.20mm" file="US07640803-20100105-M00010.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An inertial sensor, comprising:
+<claim-text>a planar, H-shaped mass suspended by a pair of elongated springs disposed on opposite sides thereof so as to define a spring-mass system;</claim-text>
+<claim-text>means for exciting the sensor in a first torsional resonance mode and at a constant amplitude of motion; and,</claim-text>
+<claim-text>means for monitoring the rotational motion of the inertial sensor in a second torsional mode and for measuring the rate of rotation of the sensor therein, wherein:</claim-text>
+<claim-text>the springs have substantially identical rectangular cross-sections, sides perpendicular to the plane of the mass and upper and lower surfaces parallel to the plane of the mass, the springs being coplanar with the mass and coaxial with a rotation sensing axis of the sensor passing through the center of mass of the mass,</claim-text>
+<claim-text>the spring-mass system has a first torsional resonance about a drive axis of the sensor disposed perpendicular to the plane of the mass and extending through the center of mass thereof that is a function of the cross-sectional width of the springs, and a second torsional resonance about a third axis of the sensor passing through the center of mass of the mass and disposed perpendicular to the rotation sensing and drive axes of the sensor that is a function of the cross-sectional height of the springs,</claim-text>
+<claim-text>the respective frequencies of the first and second torsional resonances are substantially equal to each other,</claim-text>
+<claim-text>the monitoring and measuring means uses the motion of the inertial sensor in the first torsional mode to determine the average position of the mass and thereby measure acceleration of the sensor, and,</claim-text>
+<claim-text>the sensor is operable to measure the rate of rotation of the sensor about the rotation sensing axis and a linear acceleration of the sensor along at least one of the drive and the third axes.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The inertial sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the mass has three unique axes of symmetry.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The inertial sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the springs have a substantially square cross-section.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The inertial sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the height of the cross-section of the springs is greater than the width thereof.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The inertial sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the springs contact the mass along an axis of symmetry of the mass.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A method for tuning the inertial sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, comprising adjusting the cross-sectional height of the springs such that the respective frequencies of the two torsional resonances are substantially equal to each other.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein adjusting the cross-sectional height of the springs comprises etching a surface of the springs.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the etching comprises reactive ion etching.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein adjusting the cross-sectional height of the springs comprises selectively etching only a portion of the springs.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A method for tuning the inertial sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, comprising adjusting the length of at least one of the springs such that the respective frequencies of the two torsional resonances are substantially equal to each other.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the length of the at least one spring is adjusted by an etching process.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The inertial sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the inertial sensor comprises silicon and is at least partially made by a micromachining process.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The inertial sensor of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein at least the springs are made using deep reactive ion etching of a silicon epilayer.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The inertial sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the mass is suspended above a base plate for sensing and controlling the motion of the mass.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The inertial sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising electrodes disposed on sides of the mass for sensing and controlling the motion of said mass.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The inertial sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the mass is housed in a hermetically sealed enclosure.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The inertial sensor of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the hermetically sealed enclosure is made at least in part by sealing the mass between a base plate and a substrate that is integral with said mass.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The inertial sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the exciting means comprises an automatic gain control.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The inertial sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a closed-loop control operable to substantially null the motion of the mass in the second torsional mode.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The inertial sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a demodulator operable to determine the amplitude of a signal corresponding to the rate of rotational motion of the sensor in the second torsional mode.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The inertial sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the mass is elongated along the rotation sensing axis.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. An inertial sensor, comprising:
+<claim-text>two planar, H-shaped masses, each suspended in a common plane by an associated pair of springs disposed on opposite sides thereof so as to define two adjacent spring-mass systems,</claim-text>
+<claim-text>the springs of each pair of springs having substantially identical rectangular cross-sections, sides perpendicular to the plane of the associated mass and upper and lower surfaces parallel to the plane of the associated mass, the springs being respectively coplanar with the associated mass, coaxial with a rotation sensing axis of the sensor passing through the center of mass of the associated mass, and parallel to the axis of the other pair of springs, wherein:</claim-text>
+<claim-text>each of the spring-mass systems has a first torsional resonance about a drive axis of the associated mass perpendicular to the plane of the mass and extending through the center of mass thereof that is a function of the width of its associated pair of springs, a second torsional resonance about a third axis of the sensor passing through the center of mass of the mass and disposed perpendicular to the rotation sensing and drive axes thereof that is a function of the height of its associated pair of springs, and first and second torsional momenta respectively associated with the first and second resonances thereof;</claim-text>
+<claim-text>the first and second torsional momenta of the two spring-mass systems are respectively substantially equal to each other; and,</claim-text>
+<claim-text>the respective frequencies of the first and second resonances of the two spring-mass systems are substantially equal to each other; and,</claim-text>
+<claim-text>means for driving each of the two spring mass systems harmonically such that they oscillate about their respective drive axes 180 degrees out of phase with each other.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The inertial sensor of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein each of the masses is elongated along its respective rotation sensing axis.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. An inertial sensor, comprising:
+<claim-text>a planar, H-shaped prism-shaped planar mass suspended by a pair of elongated, coplanar, coaxial springs and defining a spring-mass system,</claim-text>
+<claim-text>the mass having a length, a width and a thickness as measured in a set of three mutually orthogonal reference axes,</claim-text>
+<claim-text>the spring-mass system exhibiting first and second torsional resonances about respective ones of a pair of orthogonal axes disposed perpendicular to a rotation sensing axis of the sensor coaxial with the springs when acted upon by a harmonically varying force,</claim-text>
+<claim-text>a first one of the axes comprising a drive axis of the sensor disposed perpendicular to the plane of the mass and extending through the center of mass thereof,</claim-text>
+<claim-text>a second one of the axes lying in the plane of the mass and being disposed perpendicular to the axis of the springs, wherein</claim-text>
+<claim-text>the length of the mass is at least about 45 times greater than the width thereof, and at least about 250 times greater than the thickness thereof, and</claim-text>
+<claim-text>the respective frequencies of the first and second torsional resonances are substantially equal to each other.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The inertial sensor of <claim-ref idref="CLM-00024">claim 24</claim-ref>, wherein the respective frequencies of the first and second torsional resonances differ from each other by less than 10 Hz.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. The inertial sensor of <claim-ref idref="CLM-00024">claim 24</claim-ref>, wherein the mass is elongated along the second axis.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text>27. An inertial sensor, comprising a planar elongated mass suspended by a pair of coplanar springs disposed on opposite sides thereof so as to define a spring-mass system, wherein:
+<claim-text>each of the springs has a substantially square cross-section, a length greater than its cross-sectional dimensions and is connected to the mass along the elongated axis thereof;</claim-text>
+<claim-text>the spring-mass system has a first torsional resonance used for driving the mass in oscillation about a drive axis perpendicular to the plane of the mass and a second torsional resonance for sensing an oscillation of the mass about an axis perpendicular to the springs; and,</claim-text>
+<claim-text>the respective frequencies of the first and second torsional resonances differ from each other by an insubstantial amount that is substantially a function of the respective cross-sectional dimensions of the springs.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text>28. An inertial sensor, comprising:
+<claim-text>a generally planar support frame having a central opening therein; and,</claim-text>
+<claim-text>an elongated planar mass suspended coplanar with the support frame within the central opening thereof by a pair of elongated coplanar springs, the springs being respectively connected by respective inner ends to opposite sides of the mass and by respective outer ends to adjacent edges of the support frame so as to define a spring-mass system, wherein:</claim-text>
+<claim-text>each of the springs has a rectangular cross-section, the height of the cross-section being greater than the width thereof;</claim-text>
+<claim-text>each of the springs has a length greater than either of the cross-sectional dimensions of the spring and connects to the mass in a direction perpendicular to the elongated axis of the mass;</claim-text>
+<claim-text>the spring-mass system has a first torsional resonance used for driving the mass in oscillation about a drive axis perpendicular to the plane of the mass, and a second torsional resonance for sensing oscillation of the mass about an axis parallel to the springs;</claim-text>
+<claim-text>the respective frequencies of the first and second torsional resonances differ from each other by an amount that is a function of the respective lengths of the two springs, and</claim-text>
+<claim-text>the support frame includes a small relief on both sides of the outer end of at least one of the springs so as to make the respective lengths of the springs substantially equal to each other. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

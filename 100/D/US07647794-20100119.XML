@@ -1,0 +1,2276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07647794-20100119.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20100104" date-publ="20100119">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07647794</doc-number>
+<kind>B2</kind>
+<date>20100119</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11907717</doc-number>
+<date>20071016</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>D</section>
+<class>06</class>
+<subclass>F</subclass>
+<main-group>33</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100119</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 68 1223</main-classification>
+<further-classification> 68 1201</further-classification>
+<further-classification> 68 1212</further-classification>
+<further-classification> 68 1216</further-classification>
+<further-classification> 68 1219</further-classification>
+<further-classification> 68 1222</further-classification>
+</classification-national>
+<invention-title id="d0e43">Washing machine using steam and method for controlling the same</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1487907</doc-number>
+<kind>A</kind>
+<name>Yates</name>
+<date>19240300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>1501746</doc-number>
+<kind>A</kind>
+<name>Carter</name>
+<date>19240700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>1536230</doc-number>
+<kind>A</kind>
+<name>McCue</name>
+<date>19250500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>1570552</doc-number>
+<kind>A</kind>
+<name>Bowerbank</name>
+<date>19260100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>1646299</doc-number>
+<kind>A</kind>
+<name>Leo</name>
+<date>19271000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>1755101</doc-number>
+<kind>A</kind>
+<name>Fording et al.</name>
+<date>19300400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>1755746</doc-number>
+<kind>A</kind>
+<name>Clark et al.</name>
+<date>19300400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>1852179</doc-number>
+<kind>A</kind>
+<name>McDonald</name>
+<date>19320400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>1947752</doc-number>
+<kind>A</kind>
+<name>Benesh</name>
+<date>19340200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2277291</doc-number>
+<kind>A</kind>
+<name>Blair</name>
+<date>19420300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2355882</doc-number>
+<kind>A</kind>
+<name>Malsbary et al.</name>
+<date>19440800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>2404450</doc-number>
+<kind>A</kind>
+<name>Meyer</name>
+<date>19460700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>2431246</doc-number>
+<kind>A</kind>
+<name>Hallanan</name>
+<date>19471100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>2516282</doc-number>
+<kind>A</kind>
+<name>Wuktib</name>
+<date>19500700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>2547098</doc-number>
+<kind>A</kind>
+<name>Pasco</name>
+<date>19511100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>2574098</doc-number>
+<kind>A</kind>
+<name>Fraraccio</name>
+<date>19511100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>2574900</doc-number>
+<kind>A</kind>
+<name>Williams et al.</name>
+<date>19511100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>2585608</doc-number>
+<kind>A</kind>
+<name>Wieghart</name>
+<date>19520200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>2648305</doc-number>
+<kind>A</kind>
+<name>Appleman</name>
+<date>19530800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>2664094</doc-number>
+<kind>A</kind>
+<name>Spragins</name>
+<date>19531200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>2861838</doc-number>
+<kind>A</kind>
+<name>Williams et al.</name>
+<date>19581100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>2880300</doc-number>
+<kind>A</kind>
+<name>Reimers et al.</name>
+<date>19590300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>2925223</doc-number>
+<kind>A</kind>
+<name>Reddick et al.</name>
+<date>19600200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>3025381</doc-number>
+<kind>A</kind>
+<name>Pickering</name>
+<date>19620300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>3102796</doc-number>
+<kind>A</kind>
+<name>Erickson</name>
+<date>19630900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>3203013</doc-number>
+<kind>A</kind>
+<name>Alvin</name>
+<date>19650800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>3347066</doc-number>
+<kind>A</kind>
+<name>Klausner</name>
+<date>19671000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>3402576</doc-number>
+<kind>A</kind>
+<name>Krupsky</name>
+<date>19680900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>3410986</doc-number>
+<kind>A</kind>
+<name>Groom</name>
+<date>19681100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>3443406</doc-number>
+<kind>A</kind>
+<name>Hornback et al.</name>
+<date>19690500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>3473175</doc-number>
+<kind>A</kind>
+<name>Sieber</name>
+<date>19691000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>3583181</doc-number>
+<kind>A</kind>
+<name>Brillet</name>
+<date>19710600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>3611456</doc-number>
+<kind>A</kind>
+<name>Hildebrandt</name>
+<date>19711000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>3615822</doc-number>
+<kind>A</kind>
+<name>Molinari</name>
+<date>19711000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>3660013</doc-number>
+<kind>A</kind>
+<name>Payet et al.</name>
+<date>19720500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>3672188</doc-number>
+<kind>A</kind>
+<name>Geschka et al.</name>
+<date>19720600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>3705602</doc-number>
+<kind>A</kind>
+<name>Nordin et al.</name>
+<date>19721200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>3730682</doc-number>
+<kind>A</kind>
+<name>Brubaker et al.</name>
+<date>19730500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>3732628</doc-number>
+<kind>A</kind>
+<name>Blevens et al.</name>
+<date>19730500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>3776471</doc-number>
+<kind>A</kind>
+<name>Meyer et al.</name>
+<date>19731200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>3890987</doc-number>
+<kind>A</kind>
+<name>Marcussen, et al.</name>
+<date>19750600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>3935719</doc-number>
+<kind>A</kind>
+<name>Henderson</name>
+<date>19760200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>4108601</doc-number>
+<kind>A</kind>
+<name>Wolff</name>
+<date>19780800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>4187138</doc-number>
+<kind>A</kind>
+<name>Thwaites et al.</name>
+<date>19800200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>4204339</doc-number>
+<kind>A</kind>
+<name>Muller</name>
+<date>19800500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>4287407</doc-number>
+<kind>A</kind>
+<name>Treiber et al.</name>
+<date>19810900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>4311160</doc-number>
+<kind>A</kind>
+<name>Charland</name>
+<date>19820100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00048">
+<document-id>
+<country>US</country>
+<doc-number>4354364</doc-number>
+<kind>A</kind>
+<name>Holder et al.</name>
+<date>19821000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00049">
+<document-id>
+<country>US</country>
+<doc-number>4414037</doc-number>
+<kind>A</kind>
+<name>Friedheim</name>
+<date>19831100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00050">
+<document-id>
+<country>US</country>
+<doc-number>4471792</doc-number>
+<kind>A</kind>
+<name>Koblenzer</name>
+<date>19840900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00051">
+<document-id>
+<country>US</country>
+<doc-number>4527343</doc-number>
+<kind>A</kind>
+<name>Danneberg</name>
+<date>19850700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00052">
+<document-id>
+<country>US</country>
+<doc-number>4582025</doc-number>
+<kind>A</kind>
+<name>Grasso</name>
+<date>19860400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00053">
+<document-id>
+<country>US</country>
+<doc-number>4643775</doc-number>
+<kind>A</kind>
+<name>Reba et al.</name>
+<date>19870200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00054">
+<document-id>
+<country>US</country>
+<doc-number>4941333</doc-number>
+<kind>A</kind>
+<name>Blessing</name>
+<date>19900700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00055">
+<document-id>
+<country>US</country>
+<doc-number>5130078</doc-number>
+<kind>A</kind>
+<name>Dillman</name>
+<date>19920700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00056">
+<document-id>
+<country>US</country>
+<doc-number>5161394</doc-number>
+<kind>A</kind>
+<name>Felzer et al.</name>
+<date>19921100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00057">
+<document-id>
+<country>US</country>
+<doc-number>5180438</doc-number>
+<kind>A</kind>
+<name>Hockh et al.</name>
+<date>19930100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00058">
+<document-id>
+<country>US</country>
+<doc-number>5180483</doc-number>
+<kind>A</kind>
+<name>Braams et al.</name>
+<date>19930100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00059">
+<document-id>
+<country>US</country>
+<doc-number>5219371</doc-number>
+<kind>A</kind>
+<name>Shim et al.</name>
+<date>19930600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00060">
+<document-id>
+<country>US</country>
+<doc-number>5255840</doc-number>
+<kind>A</kind>
+<name>Nowotarski</name>
+<date>19931000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00061">
+<document-id>
+<country>US</country>
+<doc-number>5313811</doc-number>
+<kind>A</kind>
+<name>Wasinger et al.</name>
+<date>19940500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00062">
+<document-id>
+<country>US</country>
+<doc-number>5349767</doc-number>
+<kind>A</kind>
+<name>Foo</name>
+<date>19940900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00063">
+<document-id>
+<country>US</country>
+<doc-number>5361322</doc-number>
+<kind>A</kind>
+<name>Glucksman et al.</name>
+<date>19941100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00064">
+<document-id>
+<country>US</country>
+<doc-number>5368008</doc-number>
+<kind>A</kind>
+<name>Oslin</name>
+<date>19941100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00065">
+<document-id>
+<country>US</country>
+<doc-number>5390385</doc-number>
+<kind>A</kind>
+<name>Beldham</name>
+<date>19950200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00066">
+<document-id>
+<country>US</country>
+<doc-number>5392738</doc-number>
+<kind>A</kind>
+<name>Tsutsumi et al.</name>
+<date>19950200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00067">
+<document-id>
+<country>US</country>
+<doc-number>5425255</doc-number>
+<kind>A</kind>
+<name>Pick</name>
+<date>19950600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00068">
+<document-id>
+<country>US</country>
+<doc-number>5439655</doc-number>
+<kind>A</kind>
+<name>Fedegari</name>
+<date>19950800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00069">
+<document-id>
+<country>US</country>
+<doc-number>5491857</doc-number>
+<kind>A</kind>
+<name>Love et al.</name>
+<date>19960200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00070">
+<document-id>
+<country>US</country>
+<doc-number>5561880</doc-number>
+<kind>A</kind>
+<name>Allen et al.</name>
+<date>19961000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00071">
+<document-id>
+<country>US</country>
+<doc-number>5723847</doc-number>
+<kind>A</kind>
+<name>Boldt</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00072">
+<document-id>
+<country>US</country>
+<doc-number>5827329</doc-number>
+<kind>A</kind>
+<name>Champeau</name>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00073">
+<document-id>
+<country>US</country>
+<doc-number>5953939</doc-number>
+<kind>A</kind>
+<name>Guerrero-Parra et al.</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00074">
+<document-id>
+<country>US</country>
+<doc-number>5962288</doc-number>
+<kind>A</kind>
+<name>Aksenov et al.</name>
+<date>19991000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00075">
+<document-id>
+<country>US</country>
+<doc-number>5989203</doc-number>
+<kind>A</kind>
+<name>Wang et al.</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00076">
+<document-id>
+<country>US</country>
+<doc-number>6006398</doc-number>
+<kind>A</kind>
+<name>Larson et al.</name>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00077">
+<document-id>
+<country>US</country>
+<doc-number>6161306</doc-number>
+<kind>A</kind>
+<name>Clodic et al.</name>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00078">
+<document-id>
+<country>US</country>
+<doc-number>6213614</doc-number>
+<kind>B1</kind>
+<name>Gjerde</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00079">
+<document-id>
+<country>US</country>
+<doc-number>6299076</doc-number>
+<kind>B1</kind>
+<name>Sloan et al.</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00080">
+<document-id>
+<country>US</country>
+<doc-number>6311527</doc-number>
+<kind>B1</kind>
+<name>Monteiro et al.</name>
+<date>20011100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00081">
+<document-id>
+<country>US</country>
+<doc-number>6397874</doc-number>
+<kind>B1</kind>
+<name>Featheringill et al.</name>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00082">
+<document-id>
+<country>US</country>
+<doc-number>6477868</doc-number>
+<kind>B2</kind>
+<name>Chang et al.</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00083">
+<document-id>
+<country>US</country>
+<doc-number>6585781</doc-number>
+<kind>B1</kind>
+<name>Roseen</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00084">
+<document-id>
+<country>US</country>
+<doc-number>6622529</doc-number>
+<kind>B1</kind>
+<name>Crane</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00085">
+<document-id>
+<country>US</country>
+<doc-number>6691536</doc-number>
+<kind>B2</kind>
+<name>Severns et al.</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00086">
+<document-id>
+<country>US</country>
+<doc-number>6811811</doc-number>
+<kind>B2</kind>
+<name>France et al.</name>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00087">
+<document-id>
+<country>US</country>
+<doc-number>6854300</doc-number>
+<kind>B2</kind>
+<name>Monteiro et al.</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00088">
+<document-id>
+<country>US</country>
+<doc-number>6889399</doc-number>
+<kind>B2</kind>
+<name>Steiner et al.</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00089">
+<document-id>
+<country>US</country>
+<doc-number>6898951</doc-number>
+<kind>B2</kind>
+<name>Severns et al.</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00090">
+<document-id>
+<country>US</country>
+<doc-number>7021087</doc-number>
+<kind>B2</kind>
+<name>France et al.</name>
+<date>20060400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00091">
+<document-id>
+<country>US</country>
+<doc-number>7275400</doc-number>
+<kind>B2</kind>
+<name>Severns et al.</name>
+<date>20071000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00092">
+<document-id>
+<country>US</country>
+<doc-number>2003/0061841</doc-number>
+<kind>A1</kind>
+<name>Nakamura et al.</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00093">
+<document-id>
+<country>US</country>
+<doc-number>2003/0184597</doc-number>
+<kind>A1</kind>
+<name>Jo et al.</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>345810</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00094">
+<document-id>
+<country>US</country>
+<doc-number>2004/0163184</doc-number>
+<kind>A1</kind>
+<name>Waldron et al.</name>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00095">
+<document-id>
+<country>US</country>
+<doc-number>2004/0187527</doc-number>
+<kind>A1</kind>
+<name>Kim et al.</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 68  5 C</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00096">
+<document-id>
+<country>US</country>
+<doc-number>2004/0187529</doc-number>
+<kind>A1</kind>
+<name>Kim et al.</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00097">
+<document-id>
+<country>US</country>
+<doc-number>2004/0261824</doc-number>
+<kind>A1</kind>
+<name>Eiermann</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00098">
+<document-id>
+<country>US</country>
+<doc-number>2005/0034248</doc-number>
+<kind>A1</kind>
+<name>Oh et al.</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  81493</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00099">
+<document-id>
+<country>US</country>
+<doc-number>2005/0144734</doc-number>
+<kind>A1</kind>
+<name>Yang et al.</name>
+<date>20050700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00100">
+<document-id>
+<country>CN</country>
+<doc-number>2154278</doc-number>
+<kind>Y</kind>
+<date>19940100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00101">
+<document-id>
+<country>CN</country>
+<doc-number>1444676</doc-number>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00102">
+<document-id>
+<country>CN</country>
+<doc-number>1702225</doc-number>
+<kind>A</kind>
+<date>20051100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00103">
+<document-id>
+<country>DE</country>
+<doc-number>483793</doc-number>
+<date>19291000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00104">
+<document-id>
+<country>DE</country>
+<doc-number>604415</doc-number>
+<date>19341000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00105">
+<document-id>
+<country>DE</country>
+<doc-number>19546967</doc-number>
+<date>19970600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00106">
+<document-id>
+<country>DE</country>
+<doc-number>197 43 508</doc-number>
+<kind>A1</kind>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00107">
+<document-id>
+<country>EP</country>
+<doc-number>0299343</doc-number>
+<date>19890100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00108">
+<document-id>
+<country>EP</country>
+<doc-number>0365500</doc-number>
+<date>19900400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00109">
+<document-id>
+<country>EP</country>
+<doc-number>0816550</doc-number>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00110">
+<document-id>
+<country>EP</country>
+<doc-number>1 087 051</doc-number>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00111">
+<document-id>
+<country>EP</country>
+<doc-number>1 275 767</doc-number>
+<kind>A1</kind>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00112">
+<document-id>
+<country>EP</country>
+<doc-number>1275767</doc-number>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00113">
+<document-id>
+<country>EP</country>
+<doc-number>1 441 059</doc-number>
+<kind>A1</kind>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00114">
+<document-id>
+<country>EP</country>
+<doc-number>1489217</doc-number>
+<kind>A1</kind>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00115">
+<document-id>
+<country>EP</country>
+<doc-number>1 507 031</doc-number>
+<kind>A1</kind>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00116">
+<document-id>
+<country>EP</country>
+<doc-number>1 507 038</doc-number>
+<kind>A1</kind>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00117">
+<document-id>
+<country>EP</country>
+<doc-number>1507032</doc-number>
+<kind>A1</kind>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00118">
+<document-id>
+<country>EP</country>
+<doc-number>1 600 545</doc-number>
+<date>20051100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00119">
+<document-id>
+<country>GB</country>
+<doc-number>21286</doc-number>
+<date>18980600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00120">
+<document-id>
+<country>GB</country>
+<doc-number>10423</doc-number>
+<date>19091100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00121">
+<document-id>
+<country>GB</country>
+<doc-number>21024</doc-number>
+<date>19100200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00122">
+<document-id>
+<country>GB</country>
+<doc-number>799788</doc-number>
+<date>19580800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00123">
+<document-id>
+<country>GB</country>
+<doc-number>1222227</doc-number>
+<date>19710200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00124">
+<document-id>
+<country>GB</country>
+<doc-number>1 519 356</doc-number>
+<date>19780700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00125">
+<document-id>
+<country>GB</country>
+<doc-number>2348213</doc-number>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00126">
+<document-id>
+<country>GB</country>
+<doc-number>2 366 809</doc-number>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00127">
+<document-id>
+<country>GB</country>
+<doc-number>2366809</doc-number>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00128">
+<document-id>
+<country>JP</country>
+<doc-number>59-108592</doc-number>
+<date>19840600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00129">
+<document-id>
+<country>JP</country>
+<doc-number>61-128995</doc-number>
+<date>19860600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00130">
+<document-id>
+<country>JP</country>
+<doc-number>63-166182</doc-number>
+<date>19881000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00131">
+<document-id>
+<country>JP</country>
+<doc-number>02-198595</doc-number>
+<date>19900800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00132">
+<document-id>
+<country>JP</country>
+<doc-number>239894</doc-number>
+<date>19900900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00133">
+<document-id>
+<country>JP</country>
+<doc-number>04-158896</doc-number>
+<date>19920100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00134">
+<document-id>
+<country>JP</country>
+<doc-number>5-23493</doc-number>
+<date>19930200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00135">
+<document-id>
+<country>JP</country>
+<doc-number>10-235088</doc-number>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00136">
+<document-id>
+<country>JP</country>
+<doc-number>11-115033</doc-number>
+<date>19990400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00137">
+<document-id>
+<country>JP</country>
+<doc-number>1999-226290</doc-number>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00138">
+<document-id>
+<country>JP</country>
+<doc-number>2000-176192</doc-number>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00139">
+<document-id>
+<country>JP</country>
+<doc-number>2000-325692</doc-number>
+<date>20001100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00140">
+<document-id>
+<country>JP</country>
+<doc-number>2002-181306</doc-number>
+<kind>A</kind>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00141">
+<document-id>
+<country>JP</country>
+<doc-number>2003-019382</doc-number>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00142">
+<document-id>
+<country>JP</country>
+<doc-number>2003-3775</doc-number>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00143">
+<document-id>
+<country>JP</country>
+<doc-number>2003093775</doc-number>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00144">
+<document-id>
+<country>JP</country>
+<doc-number>2003311084</doc-number>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00145">
+<document-id>
+<country>KR</country>
+<doc-number>93-19820</doc-number>
+<date>19930900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00146">
+<document-id>
+<country>KR</country>
+<doc-number>10-1996-14251</doc-number>
+<date>19961000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00147">
+<document-id>
+<country>KR</country>
+<doc-number>10-1997-0070295</doc-number>
+<kind>A</kind>
+<date>19971100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00148">
+<document-id>
+<country>KR</country>
+<doc-number>10-1998-26340</doc-number>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00149">
+<document-id>
+<country>KR</country>
+<doc-number>10-0172877</doc-number>
+<kind>B1</kind>
+<date>19990500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00150">
+<document-id>
+<country>KR</country>
+<doc-number>10-2002-57119</doc-number>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00151">
+<document-id>
+<country>KR</country>
+<doc-number>10-2003-20940</doc-number>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00152">
+<document-id>
+<country>KR</country>
+<doc-number>2003-043011</doc-number>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00153">
+<document-id>
+<country>KR</country>
+<doc-number>10-2004-0088884</doc-number>
+<kind>A</kind>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00154">
+<document-id>
+<country>KR</country>
+<doc-number>10-2005-0015758</doc-number>
+<kind>A</kind>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00155">
+<document-id>
+<country>KR</country>
+<doc-number>10-2005-0017489</doc-number>
+<kind>A</kind>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00156">
+<document-id>
+<country>KR</country>
+<doc-number>10-2005-0017490</doc-number>
+<kind>A</kind>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00157">
+<document-id>
+<country>KR</country>
+<doc-number>10-2005-0042127</doc-number>
+<kind>A</kind>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00158">
+<document-id>
+<country>KR</country>
+<doc-number>10-2005-0045968</doc-number>
+<kind>A</kind>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00159">
+<document-id>
+<country>SU</country>
+<doc-number>1669724</doc-number>
+<date>19910800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00160">
+<document-id>
+<country>WO</country>
+<doc-number>WO-97/15709</doc-number>
+<kind>A1</kind>
+<date>19970500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00161">
+<document-id>
+<country>WO</country>
+<doc-number>WO 97/20493</doc-number>
+<date>19970600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00162">
+<document-id>
+<country>WO</country>
+<doc-number>WO 03-012185</doc-number>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00163">
+<document-id>
+<country>WO</country>
+<doc-number>WO 03055373</doc-number>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>28</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 68 1201</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 68 1212</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 68 1216</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 68 1219</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 68 1222</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 68 1223</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11628192</doc-number>
+<kind>00</kind>
+<date>20071003</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11907717</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080115292</doc-number>
+<kind>A1</kind>
+<date>20080522</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Park</last-name>
+<first-name>Seog Kyu</first-name>
+<address>
+<city>Changwon-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ahn</last-name>
+<first-name>In Geun</first-name>
+<address>
+<city>Changwon-shi</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>McKenna Long &#x26; Aldridge LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>LG Electronics Inc.</orgname>
+<role>03</role>
+<address>
+<city>Seoul</city>
+<country>KR</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Barr</last-name>
+<first-name>Michael</first-name>
+<department>1792</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Heckert</last-name>
+<first-name>Jason</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A washing machine using steam and a method for controlling the same is disclosed. The washing machine with a steam generator (<b>100</b>) selectively supplying steam into a drum (<b>30</b>) according to the present invention includes a course select part (<b>420</b>) for a user to select a wash course, a steam select part (<b>430</b>) for a user to select whether steam washing is operated and a controller (<b>440</b>) for controlling the steam generator (<b>100</b>) based on a wash course selected from the course select part (<b>420</b>) (an inputted wash course) and a signal selected from the steam select part (<b>430</b>). The present invention has an advantageous effect that convenience is improved for a user to use the washing machine using steam as well as washing performance is improved, because disadvantages due to malfunctions of a steam generator are prevented.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="212.09mm" wi="146.81mm" file="US07647794-20100119-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="153.25mm" wi="137.84mm" file="US07647794-20100119-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="146.81mm" wi="117.01mm" file="US07647794-20100119-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="166.96mm" wi="162.14mm" file="US07647794-20100119-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="207.86mm" wi="120.99mm" orientation="landscape" file="US07647794-20100119-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="219.54mm" wi="147.32mm" file="US07647794-20100119-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">This application is a divisional of application Ser. No. 11/628,192, filed Oct. 3, 2007, which claims the benefit of PCT/KR2006/000890, filed on Mar. 13, 2006, and claims priority to Korean Patent Application Nos. 10-2005-0021796, 10-2005-0021797 each filed on Mar. 16, 2005, and 10-2005-0035031, 10-2005-0035044 each filed on Apr. 27, 2005, all of which hereby incorporated herein by reference in their entireties.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0003" num="0002">In general, a washing machine is classified into a pulsator type, a drum type and an agitator type washing machine.</p>
+<p id="p-0004" num="0003">Referring to <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, a drum type washing machine will be described as an embodiment of a conventional washing machine.</p>
+<p id="p-0005" num="0004">The drum type washing machine includes a body <b>10</b>, an outer tub <b>20</b> mounted within the body <b>10</b>, a drum <b>30</b> rotatably mounted within the outer tub <b>20</b>, a driving unit for driving the drum <b>30</b>. An opening <b>11</b> is formed in front of the body <b>10</b> for loading/unloading the laundry, and a door <b>40</b> is coupled to the opening <b>11</b> for opening/closing the opening <b>11</b>.</p>
+<p id="p-0006" num="0005">A damper <b>21</b> is provided between the outer tub <b>20</b> and the body <b>10</b>. A heater <b>60</b> is provided within the outer tub <b>20</b>, such that it is possible to control a wash water temperature. The drum <b>30</b> is rotatably mounted within the outer tub <b>20</b> and a plurality of through holes <b>31</b> is formed on a circumferential surface of the drum for drawing/discharging wash water.</p>
+<p id="p-0007" num="0006">The driving unit includes a motor <b>71</b> to drive the drum <b>30</b>, a belt <b>72</b> connected with the motor to transmit the driving force of motor <b>71</b> to the drum <b>30</b>. Alternatively, the driving unit may employ a motor directly connected to the drum <b>30</b>.</p>
+<p id="p-0008" num="0007">In the conventional drum type washing machine, commonly, the laundry and detergent is mixedly supplied within the drum <b>30</b>. Hence, washing cycles including a wash, a rinse and a spin step according to a control signal of a controller (not shown) are automatically performed. Each of the wash, the rinse and the spin step could be operated individually.</p>
+<p id="p-0009" num="0008">Recently, a washing machine using steam has been under development for improving washing performance as well as economizing in wash water and energy.</p>
+<p id="p-0010" num="0009">Commonly, the washing machine using steam has been supplied new components such as a steam generator.</p>
+<heading id="h-0003" level="1">DISCLOSURE OF INVENTION</heading>
+<heading id="h-0004" level="1">Technical Problem</heading>
+<p id="p-0011" num="0010">An object of the present invention is to provide a washing machine using steam which has improved convenience.</p>
+<p id="p-0012" num="0011">Another object of the present invention is to provide a washing machine using steam which has improved washing performance.</p>
+<heading id="h-0005" level="1">Technical Solution</heading>
+<p id="p-0013" num="0012">To achieve these objects and other advantages and in accordance with the purpose of the invention, as embodied and broadly described herein, a washing machine with a steam generator selectively supplying steam into a drum includes: a course select part for a user to select a wash course; a steam select part for a user to select whether steam washing is operated; and a controller for controlling the steam generator based on a wash course selected at the course select part (an inputted wash course) and a signal selected from the steam select part.</p>
+<p id="p-0014" num="0013">The controller receives a signal from the steam select part in case that the inputted wash course is a predetermined wash course using steam (a steam wash course). Also, a signal from the steam select part is transmitted to the controller in case that the inputted wash course is the steam wash course.</p>
+<p id="p-0015" num="0014">Meanwhile, a steam wash select displayer is further provided for notifying that the steam select part is selectable in case that the inputted wash course is the steam wash course. Preferably, the steam wash select displayer includes a lamp.</p>
+<p id="p-0016" num="0015">The wash course inputted from the course select part may include at least one of a laundry kind course, a standard course, a sanitary course, a tub/drum wash course and freshen up course. Preferably, the steam wash course includes at least one of the standard course, the tub/drum wash course and the freshen up course.</p>
+<p id="p-0017" num="0016">Furthermore, a water supply valve is provided for controlling water supply into the steam generator, and is controlled by the controller once steam washing is selected through the steam select part. Also, a switch is provided for controlling power supply into a heater of the steam generator, and is controlled by the controller in case that steam washing is selected from the steam select part.</p>
+<p id="p-0018" num="0017">Meanwhile, a steam wash displayer is also provided for displaying that washing using steam is under operation in case that a steam wash course is selected at the course select part and steam washing is selected at the steam select part. The steam wash displayer is a lamp selectively turning on/off.</p>
+<p id="p-0019" num="0018">In a further aspect of the present invention, a steam adjust part is further provided for selecting various factors for steam generation. The steam adjust part is at least one of the steam select part and another steam adjust button.</p>
+<p id="p-0020" num="0019">Still further, at least one of an economical steam, a turbo steam and a small steam may be selected at the steam adjust part. Also, preferably the steam generator is operated until the temperature of drum reaches a preset temperature in case that a steam wash with a relatively large amount of steam is selected, and the steam generator is operated for a preset time period in case that a steam wash with a relatively small amount of steam is selected.</p>
+<p id="p-0021" num="0020">Meanwhile, the course select part includes a rotation knob and the course select part includes a touch panel.</p>
+<p id="p-0022" num="0021">In a further aspect of the present invention, an option select part is provided for selecting particular control of each wash course. The option select part comprises a adjust button for controlling particular options of the steam generation.</p>
+<p id="p-0023" num="0022">In a further aspect of the present invention, a steam wash select part is provided for notifying that the steam select part is selectable. The steam wash select part comprises a lamp selectively turning on/off.</p>
+<p id="p-0024" num="0023">In a further aspect of the present invention, an indicator is provided for alerting a user which wash course among the course select part is used as the steam wash course.</p>
+<p id="p-0025" num="0024">In another aspect of the present invention, provided herein is a washing machine with a steam generator selectively supplying steam into a drum including: a course select part having a selected wash course inputted therein; a controller for selectively operating the steam generator after judging whether the wash course inputted in the course select part can perform steam washing and whether a steam wash is selected in case that the inputted wash course can perform steam washing.</p>
+<p id="p-0026" num="0025">In a further aspect of the present invention, provided herein is a washing machine with a steam generator selectively supplying steam into a drum including: a course select part for a user to select a wash course; a controller to operate a corresponding wash course according to a wash course inputted from the course select part (an inputted wash course); and an indicator for alerting a user which wash course is a wash course using steam (a steam wash course). The indicator is at least one of a lamp selectively turning on/off and a print part where letters are printed.</p>
+<p id="p-0027" num="0026">In a further aspect of the present invention, provided herein is a method for controlling a washing machine with a steam generator selectively supplying steam into a drum comprising a step of controlling the steam generator based on a wash course selected by a user (an inputted wash course) and a steam wash command selected by a user (a steam select signal). Preferably, the steam wash signal is ignored by the controller once the inputted wash course is not a predetermined steam wash course. The steam wash signal is not transmitted to the controller once the inputted wash course is not a predetermined steam wash course.</p>
+<p id="p-0028" num="0027">Also, preferably, a step of alerting a user that the steam wash course may be selected once the inputted wash course is a predetermined steam course is included.</p>
+<p id="p-0029" num="0028">In a further aspect of the present invention, provided herein is a method for controlling a washing machine with a steam generator selectively supplying steam into a drum comprising steps of inputting a selected wash course; and alerting a user whether a steam wash course is selectable if the inputted wash course is a pre-determined wash course capable of using steam (a steam wash course). Here, a step of receiving a steam wash command made by a user only in case that the inputted wash course is one of the steam wash courses is further included. Also, preferably, a step of notifying a user that a steam wash is not a selectable, when a steam wash command is inputted in case that the inputted wash course is not a steam wash course is further included.</p>
+<heading id="h-0006" level="1">ADVANTAGEOUS EFFECTS</heading>
+<p id="p-0030" num="0029">A washing machine using steam and a method for controlling the same according to the present invention has an advantageous effect that convenience is improved for a user to use the washing machine using steam as well as washing performance is improved, because disadvantages due to malfunctions of a steam generator are prevented.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0007" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0031" num="0030">The accompanying drawings, which are included to provide a further understanding of the invention, illustrate embodiments of the invention and together with the description serve to explain the principle of the invention.</p>
+<p id="p-0032" num="0031">In the drawings:</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIGS. 1 and 2</figref> are sectional views illustrating a related art drum type washing machine.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 3</figref> is a diagram schematically illustrating an embodiment of a washing machine according to the present invention.</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 4</figref> is a diagram illustrating an example of a control assembly of the washing machine according to the present invention.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 5</figref> is a flow chart illustrating a method for controlling the embodiment of the washing machine according to the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0008" level="1">BEST MODE FOR CARRYING OUT THE INVENTION</heading>
+<p id="p-0037" num="0036">Reference will now be made in detail to the preferred embodiments of the present invention, examples of which are illustrated in the accompanying drawings.</p>
+<p id="p-0038" num="0037">Referring to <figref idref="DRAWINGS">FIG. 3</figref>, a preferred embodiment of a washing machine according to the present invention will be described. Especially, since the present invention relates to a washing machine using steam, a schematic configuration of the present invention will be described, focusing a steam generator.</p>
+<p id="p-0039" num="0038">A washing machine according to the present invention includes a steam generator <b>100</b>, a water supply path <b>200</b>, a steam path <b>500</b> and a control assembly <b>400</b>.</p>
+<p id="p-0040" num="0039">The steam generator <b>100</b> supplies steam into a drum <b>30</b>. Thus, it is preferable that an outlet of the steam generator <b>100</b> is in communication with the drum <b>30</b>.</p>
+<p id="p-0041" num="0040">The steam generator <b>100</b> has a heater <b>110</b> for heating water, and the heater <b>110</b> may be a coil heater, a sheath heater or an induction heater.</p>
+<p id="p-0042" num="0041">The water supply path <b>200</b> is connected with the steam generator <b>100</b> and a tub (a drum). The water supply path <b>200</b> is connected with a water source such as a faucet. Water supply valves <b>310</b> and <b>320</b> are provided each on the water supply path <b>200</b> for selectively opening/closing the water supply path <b>200</b>. At least one of the water supply valves <b>310</b> and <b>320</b> controls to supply wash water into the steam generator <b>100</b>.</p>
+<p id="p-0043" num="0042">Meanwhile, the steam path <b>500</b> is connected with the steam generator <b>100</b> and supplies steam generated in the steam generator <b>100</b> into the drum <b>30</b>. That is, a first end of the steam generator <b>100</b> is connected with the steam generator <b>100</b>, and a second end thereof is connectedly in communication with the drum <b>30</b>.</p>
+<p id="p-0044" num="0043">The control assembly <b>400</b> controls operations of each component in the washing machine, and includes an option select part <b>410</b>, a course select part <b>420</b>, a steam select part <b>430</b> and a controller <b>440</b>.</p>
+<p id="p-0045" num="0044">Referring to <figref idref="DRAWINGS">FIG. 4</figref>, the control assembly <b>400</b> will be described.</p>
+<p id="p-0046" num="0045">The course select part <b>420</b> is for a user to select a course among several courses. The course select part <b>420</b> could include a dial structure, such as a rotation knob <b>421</b> for supplying a selected signal after sensing whether a course is selected through rotation. That is, preferably a course is selected based on the rotation angle and the rotation direction of the rotation knob <b>421</b>. The course select part <b>420</b> may be a touch panel.</p>
+<p id="p-0047" num="0046">The Courses provided by the course select part <b>420</b> could include a kind of fabric course such as wool, synthetic and beddings, a standard course, a freshen-up (refresh) course, a tub/drum wash course and a sanitary course. The freshen-up (refresh) course is for mainly removing wrinkles from the laundry by using steam. A method for performing the freshen up course may be achieved in several ways and the detailed explanation is omitted. The tub/drum clean course is for sterilizing and washing the tub/drum by supplying steam without water within the drum. The courses are not limited as shown in <figref idref="DRAWINGS">FIG. 4</figref>, and alternatively may be varied according to a washing machine. For example, another wash course according to a condition of spoiled laundry may be further included.</p>
+<p id="p-0048" num="0047">Preferably, when steam is supplied into the drum, the drum is tumbled. The tumbling means that the drum is rotated at a lower speed such that the laundry is not attached to an inner wall of the drum by centrifugal force. That is, the rotation speed for the tumbling is more than 1 G (acceleration of gravity). The drum could be rotated in a clockwise/counter-clockwise direction. On the other hand, it is preferable to alternatively rotate the drum at a high speed of more than 1 G and tumble the drum during the general washing courses.</p>
+<p id="p-0049" num="0048">The option select part <b>410</b> is for operating details of each wash course, and includes a plurality of buttons supplying selected signals to the controller <b>440</b> after sensing whether a user pushes buttons. For example, each button of the option select part <b>410</b> may include at least one of buttons such as a wash button <b>411</b> for selecting a wash course, a rinse button <b>41</b> for selecting numbers of rinsing, a speed button <b>413</b> for selecting rotation speed of the drum, a water temperature button <b>414</b>, dry button <b>415</b>. Preferably, a steam adjust button <b>416</b> is provided for adjusting the various options (factors) of steam generation. The steam adjust button <b>416</b> may be considered as a kind of an option select part.</p>
+<p id="p-0050" num="0049">Although not seen in the option select part <b>410</b>, a lamp turns on/off in case that a course, in which steam could be used, is selected by operation of the course select part <b>420</b>. Alternatively, instead of buttons, and the term of &#x3c;button&#x3e; is used just for convenience sake in this specification.</p>
+<p id="p-0051" num="0050">Meanwhile, the steam select part <b>430</b> is for selecting the operation of the steam generator <b>100</b>. The steam select part <b>430</b> may transmit the selected signal to the controller <b>440</b> after sensing whether the user pushes the option select part, or it may transmit the selected signal to the controller <b>440</b> after sensing where a user dials the course select part <b>420</b>. Alternatively, the steam select part <b>430</b> may transmit the selected signal to the controller <b>440</b> after sensing whether a user pushes the option select part and sensing where a user dials the course select part <b>420</b>.</p>
+<p id="p-0052" num="0051">The steam select part <b>430</b> may have kinds of buttons so that a user may select to operate the steam generator <b>100</b>. The corresponding selected signals are generated from the course select part <b>420</b> when each wash course is selected. The selected signals are sensed by a sense part (not shown) and transmitted to the controller <b>440</b>. Here, the sense part may be an A/D converter or an input/output interface so as to sense exactly which wash course is selected. Furthermore, the sense part may be connected with the steam select part <b>430</b> or the controller <b>440</b>. The controlling system for sensing and transmitting the selected signals may be achieved in many ways and could be known to the skilled in the art, thereby the specific description thereof being omitted.</p>
+<p id="p-0053" num="0052">According to the present invention, the controller <b>440</b> controls the steam generator based on both a wash course inputted (selected) from the course select part <b>420</b> by the user (hereinafter, an inputted wash course) and a steam usage command inputted (selected) from the steam select part <b>430</b> by a user (hereinafter, a steam select signal). That is why the operation of steam generator <b>100</b> is not necessary in all kinds of wash courses. For example, it is not needed to use steam in wool and sheet/pillow washing courses, because the wool and sheets/pillows are sensitive to heat. Further, if steam is contacted to those kinds of fabrics, the fabrics may be damaged. Accordingly, preferably to prevent a user from being confused, the steam generator is not operated when performing a course where the operation of the steam generator is not necessary although the user selects the steam select part <b>430</b>.</p>
+<p id="p-0054" num="0053">Thus, according to the present invention, the controller <b>440</b> controls the steam generator <b>100</b> to generate steam, only in case that the inputted wash course is a pre-determined wash course as a wash course using steam (hereinafter, a steam wash course).</p>
+<p id="p-0055" num="0054">The feature of this embodiment described above may be embodied in various ways. For example, the steam select signal is transmitted to the controller <b>440</b>, only in case that the inputted wash course is the steam wash course. Alternatively, even a steam select signal is transmitted to the controller <b>440</b> regardless of whether the inputted wash course is a steam wash course, and the steam select signal may be ignored in case that the inputted wash course is not the steam wash course.</p>
+<p id="p-0056" num="0055">Next, for the sake of precise description, it will be embodied below that the input signal selected at the steam select part <b>430</b> is transmitted to the controller <b>440</b> only in case that an inputted wash course is a steam wash course.</p>
+<p id="p-0057" num="0056">According to the present invention, the steam select part <b>430</b> is in accordance with the each wash course selected in the course select part <b>420</b>, which means that the controller <b>440</b> is selectively connected to the steam select part <b>430</b>.</p>
+<p id="p-0058" num="0057">Here, the expression &#x3c;selectively be operated&#x3e; may mean that the mechanical operation of steam select part <b>430</b> is selectively performed and also may mean that the signal transmission between the steam select part <b>430</b> and the controller <b>440</b> is selectively performed regardless of the mechanical operation of the steam select part <b>430</b>. in latter case, signal transmission between the controller <b>440</b> and the steam select part <b>430</b> is activated, in case that an inputted wash course can perform steam washing. Whereas, signal transmission between the controller <b>440</b> and the steam select part <b>430</b> is shut off, in case that an inputted wash course cannot perform steam washing.</p>
+<p id="p-0059" num="0058">The controller <b>440</b> is programmed to operate only when the two conditions are satisfied. The two conditions are the one where an inputted wash course is a steam wash course capable of using a steam course selected by dialing the course select part, and the other where the steam select part is selected.</p>
+<p id="p-0060" num="0059">As mentioned above, the steam select part <b>430</b> is selectively operated based on the selection of the wash select part <b>420</b>, and alternatively the steam select part <b>430</b> may be selectively operated based on the selection of the option select part <b>410</b>.</p>
+<p id="p-0061" num="0060">Another embodiment according to the present invention will be described as follows.</p>
+<p id="p-0062" num="0061">The control assembly <b>400</b> includes a steam wash select displayer <b>450</b> to alert a user that it is possible to select whether he/she may select the steam select part <b>340</b>.</p>
+<p id="p-0063" num="0062">Preferably, the steam wash select displayer <b>450</b> uses a lamp selectively turning on/off.</p>
+<p id="p-0064" num="0063">The operation of steam wash select displayer <b>450</b> is activated with the control of the controller <b>440</b> in case that an inputted wash course is a steam wash course. At that time, a steam wash course may be at least one of the courses such as a standard, a freshen-up and a drum/tub wash course.</p>
+<p id="p-0065" num="0064">The controller <b>440</b> of the control assembly <b>400</b> controls the operations of heater <b>110</b> as well as of each water supply valve <b>310</b> and <b>320</b> based on signals received from the steam select part <b>430</b>. Alternatively, as described above, the controller <b>440</b> can read an inputted wash course selected by the course select part <b>420</b>, and also controls the steam wash select displayer <b>450</b> to be activated in case that the read wash course is a pre-determined steam wash course. Although the steam select part <b>430</b> is selected, the steam generator <b>100</b> is controlled not to be operated in case that an inputted wash course is a course where it is impossible to control the steam generator <b>100</b> as predetermined.</p>
+<p id="p-0066" num="0065">Preferably, a steam adjust part is further provided to select at least one of a steam starting time, an amount of steam, degree of steam injection and steam generation time. Of course, when several factors of steam generation are adjusted, washing performance using steam may be differentiated, but a power-saving function may be satisfied.</p>
+<p id="p-0067" num="0066">The steam adjust part may use the steam select part <b>430</b>. Preferably, an auxiliary steam adjust unit is provided and may be a steam adjust button <b>416</b>. The steam adjust button <b>416</b> may be a kind of an option select part <b>410</b>.</p>
+<p id="p-0068" num="0067">It is possible in the steam adjust part to adjust various kinds of factors, preferably, an amount of steam. For example, at It one of an economical steam, a speed steam, a turbo steam and a small steam is selected in the steam adjust part. Also, once a steam operation which needs a relatively large amount of steam, for example, an economical steam and a turbo steam is selected, it is preferred to drive the steam generator until the drum temperature reaches a preset temperature. Also, once a steam operation which needs a relatively small amount of steam is selected, it is preferred to operate the steam generator for a preset time period. It is possible to use a heater for heating wash water as a heater for heating the drum. Alternatively, other heaters may be used</p>
+<p id="p-0069" num="0068">Another embodiment of the present invention will be described as follows.</p>
+<p id="p-0070" num="0069">Preferably, an indicator <b>422</b> is further provided in the course select part <b>420</b> to alert a user which wash course is a steam wash course. Thus, a user may not be confused, because he/she can recognize a steam wash course in advance.</p>
+<p id="p-0071" num="0070">The indicator <b>422</b> may use a LCD, a LED and a lamp. It is simple to notify the user by using the term &#x3c;STEAM&#x3e; provided on the control assembly, as shown in <figref idref="DRAWINGS">FIG. 4</figref>. Preferably, the letters &#x3c;STEAM&#x3e; is printed on the surface of the control assembly.</p>
+<p id="p-0072" num="0071">A steam wash displayer <b>460</b> is provided in the control assembly <b>400</b> for notifying the user that steam washing is performed. Here, the steam wash displayer <b>460</b> may be a LCD and a LID, but preferably a lamp turning on/off during the steam washing.</p>
+<p id="p-0073" num="0072">Referring to <figref idref="DRAWINGS">FIGS. 3 to 5</figref>, a process for controlling the embodiment of the washing machine according to the present invention will be described.</p>
+<p id="p-0074" num="0073">First, the washing machine is operated by the buttons and rotation knob operated by the user, and these kinds of operations could be checked by the controller <b>440</b> (S<b>110</b>).</p>
+<p id="p-0075" num="0074">Once a wash course is selected in a course select part <b>420</b> operated by the user, the controller <b>440</b> checks which wash course is selected (S<b>120</b>).</p>
+<p id="p-0076" num="0075">It is determined whether the selected (inputted) wash course can control a steam generator <b>100</b>, that is, one of steam wash courses is selected. (S<b>130</b>). That is performed by comparing the inputted wash course with steam wash courses determined and stored in the controller <b>440</b>.</p>
+<p id="p-0077" num="0076">If the inputted wash course is a steam wash course, the controller <b>440</b> turns on a steam wash select displayer <b>450</b>, for example, a lamp to alert a user that the steam select part is selectable. Thus, a user can select whether he/she uses steam (S<b>140</b>). Together with that, signal transmission is activated between the controller <b>440</b> and the steam select part <b>430</b>. Alternatively, as described before, it may be always possible to transmit signals between the controller <b>440</b> and the steam select part <b>430</b>, and the selection of steam select part <b>430</b> may be ignored by the controller <b>440</b> in case that the inputted wash course is not a steam wash course.</p>
+<p id="p-0078" num="0077">On the other hand, in case that the inputted wash course is not a steam wash course, a lamp <b>450</b> does not turn on and a user is not requested to select the steam select part <b>430</b> (S<b>180</b>). Nevertheless, a user may select the steam select part <b>430</b>. However, according to the present invention, a signal that the steam select part is selected by the user is substantially not considered when the inputted wash course is not a steam wash course. Here, preferably, a user is alerted that selecting the steam select part <b>430</b> is not appropriate. For example, an error message is displayed or a beep sounds (or a voice message).</p>
+<p id="p-0079" num="0078">The controller <b>440</b> checks whether a user selects the steam select part <b>430</b> (S<b>150</b>). In case that the user has selected the steam select part <b>430</b>, steam is supplied to a drum to perform a selected wash course with steam according to the predetermined algorithm (S <b>160</b>).</p>
+<p id="p-0080" num="0079">For example, if a user selects both a standard course and the steam select part, the controller <b>440</b> controls the washing machine based on the algorithm for the standard course and the steam generation. The controller <b>440</b> controls a drum (not shown), water supply valves <b>310</b> and <b>320</b> and a heater <b>110</b> of a steam generator <b>100</b> for performing the corresponding course. At that time, it is preferable that the water supply valve <b>320</b> is a solenoid valve, and the switch is a contact switch selectively contacted with a power end by the controller <b>440</b>. More specifically, once a steam wash signal is inputted through the steam select part <b>430</b>, the water supply valve <b>320</b> is controlled to supply a predetermined amount of water into the steam generator <b>100</b> by the controller <b>440</b> through a water supply path <b>200</b>. Also, the switch is controlled to supply power to the heater <b>110</b> of the steam generator <b>100</b> by the controller <b>440</b>. Here, a water level sensor is provided within the steam generator <b>100</b> for measuring a level of water supplied thereto. Thus, once the supplied water level reaches a predetermined water level, power is supplied to the heater <b>110</b>. Alternatively, once the water supply valve <b>320</b> is opened to supply water into the steam generator <b>100</b> for the predetermined time period, power may be controlled to be automatically supplied to the heater <b>110</b> by the controller <b>440</b>.</p>
+<p id="p-0081" num="0080">Meanwhile, when the steam wash course runs, a steam wash displayer <b>460</b> provided in the control assembly <b>400</b> is turned on to alert a user that steam washing is running.</p>
+<p id="p-0082" num="0081">In case that the user has not selected the steam select part <b>430</b>, the wash course runs based on predetermined basic algorithms, that is, as the steam generator <b>100</b> is not controlled. At that time, the steam wash displayer <b>460</b> of the control assembly <b>400</b> is not turned on to alert the user that steam washing is not running.</p>
+<p id="p-0083" num="0082">Once the wash course is completed, the controller <b>440</b> gets ready to check whether a user selects a new wash course after completing the control.</p>
+<p id="p-0084" num="0083">Meanwhile, the control assembly <b>400</b> of the washing machine according to the present invention may not be limited to its structure and operation process of the embodiment described above. That is, the steam select part <b>430</b> may be one or more buttons which can be controlled by various manual operations such as selecting a steam supply start/stop time, a steam supply amount, a steam supply time. Of course, it is preferred that the various factors can be selected in case that the wash course selected by the user is one of the predetermined steam wash courses.</p>
+<p id="p-0085" num="0084">The method for controlling the washing machine according to the present invention may not be performed only through the process described above.</p>
+<p id="p-0086" num="0085">For example, one of wash courses is selected by a user and it is judged whether the selected wash course is a wash course using steam. Hence, in case that the selected wash course can use steam, the steam select part is activated to induce the selection. After that, in case that the steam select part is selected by a user, steam washing may be performed. That is, it is directly judged whether the selected wash course can use steam without comparing the selected wash course with a preset course to perform steam washing. Of course, preferably a standard course is performed although a user selects the steam select part, once it is judged that the selected wash course is not a course using steam.</p>
+<p id="p-0087" num="0086">Although the embodiments are described by embodying a washing machine, the present invention is not limited thereto. For example, the present invention may be applied to a dyer having a steam generator.</p>
+<p id="p-0088" num="0087">It will be apparent to those skilled in the art that various modifications and variations can be made in the present invention without departing from the spirit or scope of the invention. Thus, it is intended that the present invention cover the modifications and variations of this invention provided they come within the scope of the appended claims and their equivalents.</p>
+<heading id="h-0009" level="1">INDUSTRIAL APPLICABILITY</heading>
+<p id="p-0089" num="0088">The present invention provides a method for controlling a washing machine having a steam generator and the method for the washing machine, in which a wash course using steam is operated only in case of a selected wash course is one of the steam courses using steam. Therefore, the present invention has an industrial applicability that various disadvantages resulting from malfunctions of the steam generator may be prevented.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A laundry machine comprising:
+<claim-text>a control assembly;</claim-text>
+<claim-text>a course selector allowing a user to select a course that uses steam from a plurality of courses;</claim-text>
+<claim-text>a steam generator to generate steam;</claim-text>
+<claim-text>a water control device to control water entering the steam generator;</claim-text>
+<claim-text>a steam adjuster, disposed on the control assembly separate from the course selector, the steam adjuster configured to adjust steam in the selected course by sending a signal that indicates that steam is to be adjusted from a predetermined amount of steam to be generated for the selected course, the adjusted amount of steam associated with an amount of steam desired by the user in the selected course; and</claim-text>
+<claim-text>a controller configured to control the steam generator to generate the steam in the selected course that is different from the predetermined amount of steam for the selected course based on the signal sent from the steam adjuster, and the controller further configured to control the water control device such that the water control device allows water to flow to the steam generator while the steam generator generates steam.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The laundry machine according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller controls adjustment of at least one of a steam starting time, an amount of steam, a degree of steam injection, and a steam generation time.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The laundry machine according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the steam adjuster includes an input device.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The laundry machine according to <claim-ref idref="CLM-00003">claim 3</claim-ref> wherein the input device is located at the control assembly.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The laundry machine according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the input device allows a user to select at least one of an economical steam, a speedy steam, a turbo steam, and a small amount of steam.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The laundry machine according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a steam generator to generate steam, wherein the controller controls the steam generator to generate steam until a tub or drum reaches a predetermined temperature.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The laundry machine according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a steam generator to generate steam, wherein the controller controls the steam generator to generate steam for a predetermined amount of time.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The laundry machine according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the steam adjuster is operable during one of a standard course, a tub/drum wash course, a sanitary course, and a freshen-up course.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The laundry machine of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a first indicator at the control assembly that indicates that the steam adjuster is operable when a selected course is a steam course.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The laundry machine according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the steam adjuster is not operable during at least one wash course selectable via the course selector.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The laundry machine according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the control assembly is disposed on an outer surface of the laundry machine to be accessible to the user.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The laundry machine according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a second indicator to indicate to the user the at least one factor associated with steam that is adjusted via the steam adjuster.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A laundry machine comprising:
+<claim-text>a control assembly;</claim-text>
+<claim-text>a course selector to allow a user to select a course from a plurality of courses;</claim-text>
+<claim-text>a steam generator to generate steam;</claim-text>
+<claim-text>a water control device to control water entering the steam generator;</claim-text>
+<claim-text>a steam adjuster, disposed on the control assembly separate from the course selector, the steam adjuster configured to adjust steam in the selected course by sending a signal that indicates that steam is to be adjusted from a predetermined amount of steam to be generated for the selected course, the adjusted amount of steam associated with an amount of steam desired by the user in the selected course; and</claim-text>
+<claim-text>an indicator to indicate to the user the at least one factor associated with steam that is adjusted via the steam adjuster;</claim-text>
+<claim-text>a controller configured to control the steam generator to generate the steam in the selected course that is different from the predetermined amount of steam for the selected course based on the signal sent from the steam adjuster, and the controller further configured to control the water control device such that the water control device allows water to flow to the steam generator while the steam generator generates steam.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The laundry machine according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the controller controls adjustment of at least one of a steam starting time, an amount of steam, a degree of steam injection, and a steam generation time.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The laundry machine according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the steam adjuster allows a user to select at least one of an economical steam, a speedy steam, a turbo steam, and a small amount of steam.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The laundry machine according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, further comprising a steam generator to generate steam, wherein the controller controls the steam generator until a tub or drum reaches a predetermined temperature.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The laundry machine according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, further comprising a steam generator to generate steam, wherein the controller controls the steam generator to generate steam for a predetermined amount of time.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The laundry machine according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the steam adjuster is operable during one of a standard course, a tub/drum wash course, a sanitary course, and a freshen-up course.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The laundry machine according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the steam adjuster is not operable during at least one wash course selectable via the course selector.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The laundry machine according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the course selector is a dial.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The laundry machine according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the steam adjuster is a push button.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. A laundry machine comprising:
+<claim-text>a cabinet having a tub or drum configured to wash laundry therein, and a steam generator configured to supply steam to the laundry disposed in the tub or drum;</claim-text>
+<claim-text>a control assembly disposed on an outer surface providing a control interface for a user;</claim-text>
+<claim-text>a course selector disposed on the control assembly and allowing the user to select a course from a plurality of courses, the course selector comprising a dial;</claim-text>
+<claim-text>a steam generator to generate steam;</claim-text>
+<claim-text>a water control device to control water entering the steam generator;</claim-text>
+<claim-text>a steam adjuster, disposed on the control assembly, separate from the course selector, the steam adjuster configured to adjust steam in the selected course by sending a signal that indicates that steam is to be adjusted from a predetermined amount of steam to be generated for the selected course, the adjusted amount of steam associated with an amount of steam desired by the user in the selected course, the steam adjuster including:
+<claim-text>a push button; and</claim-text>
+<claim-text>an indicator to indicate to the user the amount of steam that has been chosen via the push button; and</claim-text>
+</claim-text>
+<claim-text>a controller configured to control the steam generator to generate the steam in the selected course based on the signal sent by the steam adjuster, and the controller further configured to control the water control device such that the water control device allows water to flow to the steam generator while the steam generator generates steam.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The laundry machine according to <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the controller controls adjustment of at least one of a steam starting time, an amount of steam, a degree of steam injection, and a steam generation time.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The laundry machine according to <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the steam adjuster allows a user to select at least one of an economical steam, a speedy steam, a turbo steam, and a small amount of steam.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The laundry machine according to <claim-ref idref="CLM-00022">claim 22</claim-ref>, further comprising a steam generator to generate steam, wherein the controller controls the steam generator until a tub or drum reaches a predetermined temperature based on the input by the user.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. The laundry machine according to <claim-ref idref="CLM-00022">claim 22</claim-ref>, further comprising a steam generator to generate steam, wherein the controller controls the steam generator to generate steam for a predetermined amount of time based on the input by the user.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text>27. The laundry machine according to <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the steam adjuster is operable during one of a standard course, a tub/drum wash course, a sanitary course, and a freshen-up course.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text>28. The laundry machine according to <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the steam adjuster is not operable during at least one wash course selectable via the course selector. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

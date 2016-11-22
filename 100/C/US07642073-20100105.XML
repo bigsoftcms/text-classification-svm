@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07642073-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07642073</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11786054</doc-number>
+<date>20070409</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>12</class>
+<subclass>P</subclass>
+<main-group>13</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>435128</main-classification>
+<further-classification>435190</further-classification>
+<further-classification>435280</further-classification>
+</classification-national>
+<invention-title id="d0e43">Method for reductive amination of a ketone using a mutated enzyme</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4518692</doc-number>
+<kind>A</kind>
+<name>Rozzell</name>
+<date>19850500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4710467</doc-number>
+<kind>A</kind>
+<name>Wood et al.</name>
+<date>19871200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4745059</doc-number>
+<kind>A</kind>
+<name>Voelskow et al.</name>
+<date>19880500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5106740</doc-number>
+<kind>A</kind>
+<name>Bader et al.</name>
+<date>19920400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5300437</doc-number>
+<kind>A</kind>
+<name>Stirling et al.</name>
+<date>19940400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>435280</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5316943</doc-number>
+<kind>A</kind>
+<name>Kidman et al.</name>
+<date>19940500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5605793</doc-number>
+<kind>A</kind>
+<name>Stemmer</name>
+<date>19970200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5753470</doc-number>
+<kind>A</kind>
+<name>Then et al.</name>
+<date>19980500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5798234</doc-number>
+<kind>A</kind>
+<name>Engel et al.</name>
+<date>19980800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5801006</doc-number>
+<kind>A</kind>
+<name>Kaufman</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5811238</doc-number>
+<kind>A</kind>
+<name>Stemmer et al.</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5830721</doc-number>
+<kind>A</kind>
+<name>Stemmer et al.</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5837458</doc-number>
+<kind>A</kind>
+<name>Minshull et al.</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5854035</doc-number>
+<kind>A</kind>
+<name>Stoyan et al.</name>
+<date>19981200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5916786</doc-number>
+<kind>A</kind>
+<name>Rozzell, Jr.</name>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>435155</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5942644</doc-number>
+<kind>A</kind>
+<name>Rozzell, Jr.</name>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>564201</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5958672</doc-number>
+<kind>A</kind>
+<name>Short</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5958715</doc-number>
+<kind>A</kind>
+<name>Muller</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5965408</doc-number>
+<kind>A</kind>
+<name>Short</name>
+<date>19991000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6001574</doc-number>
+<kind>A</kind>
+<name>Short et al.</name>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6030779</doc-number>
+<kind>A</kind>
+<name>Short</name>
+<date>20000200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>6054267</doc-number>
+<kind>A</kind>
+<name>Short</name>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>6117679</doc-number>
+<kind>A</kind>
+<name>Stemmer</name>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>6207862</doc-number>
+<kind>B1</kind>
+<name>Rozzell, Jr.</name>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>564150</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>6255092</doc-number>
+<kind>B1</kind>
+<name>Kojima et al.</name>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>6365380</doc-number>
+<kind>B2</kind>
+<name>Liu et al.</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>6413750</doc-number>
+<kind>B1</kind>
+<name>Hummel et al.</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>435190</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>6727083</doc-number>
+<kind>B2</kind>
+<name>Takashima et al.</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>7202070</doc-number>
+<kind>B2</kind>
+<name>Rozzell, Jr.</name>
+<date>20070400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>435191</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>2002/0192786</doc-number>
+<kind>A1</kind>
+<name>Yamada et al.</name>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>2003/0138930</doc-number>
+<kind>A1</kind>
+<name>Yan et al.</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>WO</country>
+<doc-number>WO 00/28007</doc-number>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00033">
+<othercit>Kambourakis, S. et al. Ketoreductases in the Synthesis of Valuable Chiral Intermediates. Tetrahedron vol. 60, No. 3, 663-669, 2004.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00034">
+<othercit>Mansson M. et al. Immobilized Active Coenzymes. Methods in Enzymology 136:3-9, 1987.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00035">
+<othercit>May O. et al. Inverting Enantioselectivity by Directed Evolution of Hydantoinase for Improved Production of L-Methionine. Nature Biotechnology 18:317-320, Mar. 2000.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00036">
+<othercit>Jones, J.B. and Takemura, T. Enzymes in Organic Synthesis. Part 30. Can. J. Chem. 62, 77-80, 1984.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00037">
+<othercit>Lemiere, G.L. Alcohol Dehydrogenase Catalysed Oxireduction Reactions in Organic Chemistry, 19-34, D. Reidel Publishing Company, 1986.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00038">
+<othercit>May, O. et al. Inverting Enantioselectivity By Directed Evolution of Hydantoinase for Improved Production of L-Methionine. Nat. Biotech. 18, 317-320, 2000. (On Order).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00039">
+<othercit>Mansson et al. Immobilized Active Coenzymes. Methods in Enzymology, 136, 3-45, 1987.(On Order).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00040">
+<othercit>Nagata, S. et al. Gene Cloning and Sequence Determination of Leucine Dehydrogenase from Bacillus stearothermophilus . . . , Biochemistry, 27, 9056-9062, 1988.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00041">
+<othercit>Reddy, G. L., et al. Solid Phase Synthesis of Signal Sequence Fragments . . . Tetrahedron Letters, 26, No. 35, 4257-4260, 1985.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00042">
+<othercit>Snaked, Z. and G.M. Whitesides. Enzyme-Catalyzed Organic Synthesis: NADH Regeneration . . . ,J. Am. Chem. Soc., 102, 7104-7105, 1980.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00043">
+<othercit>Yamada, H. et al. A novel NADPH-dependent Aldehyde Reductase . . . , FEMS Microbiology Letters, 70, 45-48, 1990.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>3</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>435128</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>435190</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>435280</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>10039952</doc-number>
+<kind>00</kind>
+<date>20011024</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7202070</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11786054</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>09702421</doc-number>
+<kind>00</kind>
+<date>20001031</date>
+</document-id>
+<parent-status>ABANDONED</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>10039952</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60288378</doc-number>
+<kind>00</kind>
+<date>20010503</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080076162</doc-number>
+<kind>A1</kind>
+<date>20080327</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Rozzell, Jr.</last-name>
+<first-name>J. David</first-name>
+<address>
+<city>Burbank</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Christie, Parker &#x26; Hale, LLP.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Codexis, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Redwood City</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Gitomer</last-name>
+<first-name>Ralph</first-name>
+<department>1657</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Methods for chemically transforming compounds using a mutated enzyme are provided, and more particularly a method for the production of an amine from a target ketone. The methods comprise creating a mutated enzyme that catalyzes the reductive amination of the target ketone under conditions sufficient to permit the formation of the desired amine to thereby produce the amine.</p>
+</abstract>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATION(S)</heading>
+<p id="p-0002" num="0001">This application is a continuation of U.S. patent application Ser. No. 10/039,952, filed Oct. 24, 2001 now U.S. Pat. No. 7,202,070, which is a continuation-in-part of U.S. application Ser. No. 09/702,421, filed Oct. 31, 2000 now abandoned, and claims the benefit of U.S. Provisional Application No. 60/288,378, filed May 3, 2001, the entire disclosures of which are incorporated herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Enzymes are proteins that are capable of catalyzing chemical transformations. Enzymes position a substrate or substrates in an optimal configuration and stabilize the transition state in the reaction pathway, thereby determining which of several potential chemical transformations actually occurs. Enzymes can be highly specific, both in terms of the reaction that occurs and in their choice of substrate. Enzymes often accelerate reactions by factors of more than a million. Because of their specificity and catalytic power, enzymes are increasingly being used for industrial applications.</p>
+<p id="p-0004" num="0003">One family of enzymes that is especially useful for industrial applications is the family of oxidoreductase enzymes. Oxidoreductases catalyze redox reactions, such as the reduction of aldehydes and ketones to alcohols, the reductive amination of ketones, aldehydes, and ketoacids to amines and amino acids, the reduction of disulfides to thiols, the reduction of alkenes to alkanes and the like. These reactions are normally reversible, and frequently the same enzymes catalyze the corresponding oxidation reactions. For example, alcohol dehydrogenases and carbonyl reductases catalyze both the reduction of aldehydes and ketones to alcohols and the oxidation of alcohols to aldehydes and ketones. Amino acid dehydrogenases catalyze the oxidation of amino acids to 2-ketoacids and the reductive amination of 2-ketoacids in the presence of ammonium salts to amino acids. Similarly, disulfide reductases catalyze the oxidation of thiols to disulfides or mixed disulfides. Reduction and oxidation reactions are collectively referred to herein as &#x201c;redox reactions.&#x201d;</p>
+<p id="p-0005" num="0004">Some oxidoreductases can be used to produce fine and specialty chemicals, and are especially useful for producing chiral intermediates in the pharmaceutical and agricultural industries. Oxidoreductases, like many other enzymes, require other molecules, such as cofactors and cosubstrates, for optimal activity. For example, mixed function oxidases use nicotinamide cofactors as part of the complex catalysis of a hydroxylation reaction for the production of chiral alcohols.</p>
+<p id="p-0006" num="0005">Although a number of different enzymes are known, the development of new applications for enzymes such as oxidoreductases requires an expanded search for new enzymes that catalyze specific reactions of interest. For example, amino acid dehydrogenases that reductively aminate certain 2-ketoacids to naturally occurring L-amino acids are known, but no suitable amino acid dehydrogenase has been identified for the production of many non-naturally occurring amino acids. The enzyme catalyzed reductive amination of ketones that are not 2-ketoacids is comparatively quite rare. Similarly, the stereoselective reduction of ketones catalyzed by alcohol dehydrogenases, ketoreductases and carbonyl reductases is known for certain ketones, but enzymes are not available for catalyzing this reaction with many desired target ketones. Transaminases are known that catalyze the transamination of many 2-ketoacids to alpha-amino acids, but certain target 2-ketoacids, particularly those corresponding to non-naturally occurring amino acids, are transaminated poorly, if at all.</p>
+<p id="p-0007" num="0006">There are several known methods to generate potential enzymes that catalyze specific reactions of interest. For example, diverse populations of enzymes can be found in microorganisms harvested from different environments. These microorganisms can be cultured, and their DNA extracted, amplified by PCR, and cloned into a host for expression of the enzymes. Alternatively, various molecular biology techniques, such as mutagenesis, shuffling, molecular breeding, and gene reassembly, can be used to create vast numbers of mutant versions of an enzyme encoded by a known gene. Examples of gene shuffling and molecular breeding are described in U.S. Pat. No. 5,605,793; U.S. Pat. No. 5,811,238; U.S. Pat. No. 5,830,721; U.S. Pat. No. 5,837,458; U.S. Pat. No. 5,965,408; U.S. Pat. No. 5,958,672; U.S. Pat. No. 6,001,574; and U.S. Pat. No. 6,117,679, all incorporated herein by reference. Examples of methods for constructing large numbers of mutants are described in U.S. Pat. No. 6,001,574; U.S. Pat. No. 6,030,779; and U.S. Pat. No. 6,054,267, also incorporated herein by reference.</p>
+<p id="p-0008" num="0007">Once potential enzymes that may be able to catalyze specific reactions of interest have been generated, the enzymes are tested for activity on the desired substrate, or target compound. Because many enzymes such as oxidoreductases require nicotinamide cofactors for optimal activity, detection of the oxidation or reduction of the cofactor can be used as a signal of enzyme activity.</p>
+<p id="p-0009" num="0008">Currently, the most common method of detecting enzymes using nicotinamide cofactors involves the direct measurement of the cofactor. For example, as a carbonyl reductase reduces a carbonyl group, the concomitant oxidation of reduced nicotinamide, i.e., the conversion of a reduced form of nicotinamide adenine dinucleotide (NADH) to nicotinamide adenine dinucleotide (NAD+) or the conversion of a reduced form of nicotinamide adenine dinucleotide phosphate (NADPH) to nicotinamide adenine dinucleotide phosphate (NADP+) can be detected using the absorbance of the reduced form of the cofactor. This reaction of the cofactor can be monitored in a solution by observing the decrease in the absorbance of the solution at 340 nm using a spectrophotometer. Alternatively, during the carbonyl reductase-catalyzed oxidation of an alcohol to the corresponding aldehyde or ketone, NAD+ is converted to NADH or NADP+ is converted to NADPH. The reduction of the cofactor can be detected by monitoring the increase in absorbance at 340 nm, corresponding to the increase in concentration of reduced nicotinamide cofactor. Similarly, fluorescence measurements of nicotinamide cofactors can be performed as well. Additionally, the change in concentration of oxidized or reduced nicotinamide cofactor can be used to detect other enzymes catalyzing cofactor-requiring reactions of interest.</p>
+<p id="p-0010" num="0009">Detection of enzymatic activity is often performed on many enzyme sources for a particular reaction of interest in a process called screening. Often when screening, and particularly when carrying out high throughput screening, mixtures of cells or cell lysates containing suspended insoluble material are used as potential sources for new enzymes because clarification of the crude mixtures is operationally difficult. The difficulty in using such crude mixtures for routine screening for nicotinamide cofactor-using enzymes is that the reaction mixtures contain suspended solid material in the form of cells or cell debris. This insoluble material impedes the transmission of light through the solution and causes high background readings in the absorbance measurements of the cofactors. The crude mixtures also contain various cellular metabolites and biochemicals that absorb at 340 nm, further compromising the accuracy of the measurements. These issues are even more problematic when using high throughput screening methods due to the small volumes used in high density array formats such as microtiter plates or chips. Similarly, if fluorescence measurements are carried out, detecting the emission of fluorescence is also impeded by the presence of insoluble material.</p>
+<p id="p-0011" num="0010">As an alternative, the products of the desired enzymatic reaction can be detected directly by chromatographic techniques. This method requires sampling each individual reaction followed by chromatographic separation of the reaction products, which may include alcohols, carbonyl compounds, and the like. Such a procedure is complex and time-consuming and is impractical for high throughput screening assays when many enzyme sources are tested for the desired enzymatic activity.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0012" num="0011">The present invention provides novel methods for chemically transforming compounds using a mutated enzyme. In one embodiment, the invention is directed to a method for the production of an amino acid from a target 2-ketoacid. The method comprises creating a mutated enzyme that catalyzes the reductive amination or transamination of the target 2-ketoacid; and providing the mutated enzyme in a reaction mixture comprising the target 2-ketoacid under conditions sufficient to permit the formation of the amino acid to thereby produce the amino acid.</p>
+<p id="p-0013" num="0012">In another embodiment, the invention is directed to a method for the production of an amine from a target ketone. The method comprises creating a mutated enzyme that catalyzes the reductive amination or transamination of the target ketone; and providing the mutated enzyme in a reaction mixture comprising the target ketone under conditions sufficient to permit the formation of the amine to thereby produce the amine.</p>
+<p id="p-0014" num="0013">In yet another embodiment, the invention is directed to a method for the production of an alcohol from a target ketone. The method comprises creating a mutated enzyme that catalyzes the reduction of the target ketone; and providing the mutated enzyme in a reaction mixture comprising the target ketone under conditions sufficient to permit the formation of the alcohol to thereby produce the alcohol.</p>
+<p id="p-0015" num="0014">In the above embodiments, the mutated enzyme may be created by providing an existing enzyme and mutating the existing enzyme to produce the mutated enzyme. The activity of the mutated enzyme on the target 2-ketoacid or ketone is determined by contacting the mutated enzyme with a composition comprising the target 2-ketoacid or ketone and thereafter determining whether there is a change in the pH of the composition. Thereafter, it is determined whether the mutated enzyme has more activity than the existing enzyme on the target 2-ketoacid or ketone. The existing enzyme and/or mutated enzyme can be present in a composition containing whole cells, cell extracts, cell lysates, mixtures containing insoluble cells, particulates, cellular debris, or the like. Other compounds in the composition that also absorb light at 340 nm do not interfere with the detection of enzymatic activity using the method of the present invention because the pH change can be determined, for example, by observing a color change at a different wavelength. Further, the wavelength of the color change can be selected by using an appropriate pH indicator.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0016" num="0015">The present invention is directed to methods for chemically transforming compounds using a mutated enzyme. In particularly preferred embodiments, the invention is directed to a method for the production of an amino acid from a target 2-ketoacid, the production of an amine from a target ketone and the production of an alcohol from a target ketone. The inventive method comprises creating a mutated enzyme that catalyzes the reductive amination or transamination of the target 2-ketoacid or ketone or the reduction of the target ketone and providing the mutated enzyme in a reaction mixture comprising the target 2-ketoacid or ketone under conditions sufficient to permit the formation of the desired amino acid, amine or alcohol to thereby produce the amino acid, amine or alcohol.</p>
+<p id="p-0017" num="0016">As used herein, the terms &#x201c;mutated&#x201d; and &#x201c;mutating&#x201d; refer broadly to any of a variety of molecular biology techniques, such as mutagenesis, shuffling, molecular breeding, and gene reassembly, that can be used to create vast numbers of mutant versions of an enzyme encoded by a known gene. The activity of the mutated enzyme on the target compound is determined by contacting the mutated enzyme with a composition comprising the target compound and thereafter determining whether there is a change in the pH of the composition. Thereafter it is determined whether the mutated enzyme has more activity than the existing enzyme on the target compound.</p>
+<p id="p-0018" num="0017">By determining in which reactions the pH indicator undergoes a color change, enzymes with the desired enzymatic activity can be detected easily, even in a high throughput format, enabling the more facile discovery of new enzymes, particularly oxidoreductases that catalyze useful redox reactions.</p>
+<p id="p-0019" num="0018">Non-limiting examples of sources of material that can be screened to obtain the existing enzyme include microorganisms, such as bacteria and yeast, which naturally express oxidoreductases, and genetically modified microorganisms, which express wild-type, modified or mutated oxidoreductases. Examples of useful materials to be screened include cell lysates, mixtures of cells, cell extracts, environmental samples and isolates, and the like. The material may be provided as a solution, a suspension, a dried mixture, a solid, or the like. As a solution or suspension, the composition to be screened may be prepared and stored as a solution or as a suspension in liquid form. The composition may be maintained at room temperature, at refrigerator temperatures, or frozen. As a solid or dried mixture, the composition may be prepared by lyophilization or evaporation of a liquid composition. Alternatively, the solid composition may be prepared by mixing solid ingredients such as a cofactor, a pH indicator, and a target compound. When a solid composition is used in the practice of the present invention, the solid composition is normally redissolved or resuspended prior to use by the addition of water or water containing buffer.</p>
+<p id="p-0020" num="0019">As used herein, &#x201c;target compound&#x201d; refers to a substance that is desired to be acted upon by an enzyme as a substrate. Typical target compounds include aldehydes, ketones, disulfides, thiols, ketoacids, amines, amino acids, alcohols, alkenes, alkanes, and the like. In connection with the inventive methods, the term &#x201c;target compound&#x201d; does not include enzyme substrates that undergo a hydrolytic transformation that results in the creation or removal of an acidic or basic functionality, such as a carboxylic acid group. Target compounds are often chiral and/or transformed into chiral compounds by enzymes, and enrichment in single stereoisomers can occur.</p>
+<p id="p-0021" num="0020">As used herein, the term &#x201c;pH indicator&#x201d; means any material or substance that changes its properties in response to a change in pH. Preferred changes in properties include a change in optical properties, such as a color change. Examples of pH indicators useful in the practice of the present invention include, but are not limited to, cresol red, m-cresol purple, bromothymol blue, bromophenol red, bromophenol blue, phenol red, and phenolphthalein. The pH indicator can be selected independently for each screen to determine the pH range or match a desired pH range for the enzyme to be detected. For example, m-cresol purple is yellow at a pH of about 7.4 and purple at a pH of about 9.0. Cresol red is yellow at a pH of about 7.2 and red at a pH of about 8.8. Bromothymol blue is yellow at a pH of about 6.0 and red at a pH of about 7.6. Bromophenol red is yellow at a pH of about 5.2 and red at a pH of about 6.8. Bromophenol blue is yellow at a pH of about 3.0 and blue at a pH of about 4.6. Phenol red is yellow at a pH of about 6.8 and red at a pH of about 8.2. Phenolphthalein is colorless at a pH of about 8.0 and pink at a pH of about 9.8. Other pH indicators can be selected depending on the desired pH range for the reaction and the desired color change.</p>
+<p id="p-0022" num="0021">The conditions of the determination step can be adjusted to favor the detection or screening of an enzyme with a desired pH optimum by adjusting the pH of the reaction mixture used in the screen. For example, when an amino acid dehydrogenase that functions at pH 6 is sought, the reagent composition used for the screen can be buffered at a pH of 6 using a buffer that has its optimum buffering capacity near pH 6, and a pH indicator can be selected that changes color within the range of pH 5 to 7. Similarly, when an alcohol dehydrogenase that catalyzes the oxidation of a target alcohol at pH 9 is sought, the reagent composition used for the screen can be buffered at a pH of 9 using a buffer that has its optimum buffering capacity near pH 9, and a pH indicator can be selected that changes color within the range of pH 8 to 10. Typically, the pH indicator is selected such that it exhibits a color change in response to a change in pH within a range of about 1 to 1.5 pH units on either side of the desired pH for the reaction.</p>
+<p id="p-0023" num="0022">If a buffer is used, the concentration of the buffer is preferably adjusted in order to maintain a desired initial pH for the screening reaction mixture and to reduce or eliminate small changes in pH not caused by the desired redox reaction. However, the concentration of the buffer should not be so high as to impede the change of pH that occurs as the reaction catalyzed by the oxidoreductase proceeds. The buffer may be any substance that helps maintain the desired initial pH of the solution. Examples include potassium phosphate, sodium phosphate, potassium borate, sodium borate, sodium acetate, potassium acetate, sodium bicarbonate, potassium bicarbonate, sodium carbonate, potassium carbonate, TRIS, PIPES, HEPES, MOPS, TEA, CHES, and the like. A listing of some useful biological buffers along with the pH ranges at which they are most effective as buffers can be found in the Catalog of Biochemicals and Reagents for Life Science Research; Sigma Chemical: St, Louis, 1998; p 1871. Often, desirable buffer concentrations must be determined experimentally. However, typical buffer concentrations using the method of the present invention are from about 0.01 mM to about 20 mM, and preferably from about 0.05 mM to about 5 mM.</p>
+<p id="p-0024" num="0023">The above-described method can be used to determine activity of any enzyme that causes a pH change when it catalyzes the reaction of a target compound, and preferably is used to determine activity of oxidoreductases. As used herein, &#x201c;oxidoreductase&#x201d; refers to an enzyme capable of performing an oxidation reaction or reduction reaction. Nonlimiting examples of oxidoreductases include a reductase, an oxidase, a dehydrogenase, a ketoreductase, an alcohol dehydrogenase, a carbonyl reductase, an aldehyde dehydrogenase, an amino acid dehydrogenase, an amine oxidase, a disulfide reductase, an enoate reductase, and a mixed function oxidase. A listing of such enzymes can be found in Enzyme Nomenclature; Webb, E. C., Ed. Academic: Orlando 1984; pp 20-141, the disclosure of which is incorporated herein by reference.</p>
+<p id="p-0025" num="0024">Often enzymes, and particularly oxidoreductases, require cofactors or cosubstrates for optimal activity. As used herein, the term &#x201c;cofactor&#x201d; means any molecule that participates in a chemical transformation of the target compound, including cofactors and cosubstrates. Nonlimiting examples of cofactors include nicotinamide cofactors, flavins, and derivatives and analogs thereof.</p>
+<p id="p-0026" num="0025">As used herein, &#x201c;nicotinamide cofactor&#x201d; refers to any type of the oxidized and reduced forms of nicotinamide adenine dinucleotide (NAD+ and NADH, respectively) and the oxidized and reduced forms of nicotinamide adenine dinucleotide phosphate (NADP+ and NADPH, respectively) and derivatives and analogs thereof. With regard to a nicotinamide cofactor, the term &#x201c;derivative&#x201d; means any compound containing a pyridine structural element, including nicotinamides that have been chemically modified by attachment to soluble or insoluble polymeric materials. Some examples of derivatives of nicotinamide cofactors are described in U.S. Pat. No. 5,106,740, and Mansson and Mosbach Methods in Enzymology (1987) 136, 3-45, the disclosures of which are incorporated herein by reference. The term &#x201c;analogs,&#x201d; as used herein, refers to materials that undergo a formal hydride transfer in a redox reaction similar to that undergone by nicotinamide cofactors. Examples of analogs of nicotinamide cofactors useful in the practice of the present invention include compounds described in U.S. Pat. No. 5,801,006, the disclosure of which is incorporated herein by reference. Other suitable cofactors, as defined herein, can be used in the practice of the invention, as would be recognized by those skilled in the art.</p>
+<p id="p-0027" num="0026">In the practice of the invention, the nicotinamide cofactors can be used in equimolar quantities relative to the target ketone, alcohol, amine or amino acid, or the cofactors may be recycled, if desired. Numerous methods for the recycling of nicotinamide cofactors are well-known in the art, and any of these methods may be used in the practice of the present invention. Some of the methods for recycling nicotinamide cofactors are described in G. L. Lemiere, et al., Tetrahedron Letters, 26, 4257 (1985); in &#x201c;Enzymes as Catalysts for Organic Synthesis,&#x201d; pp. 19-34, M. Schneider, Ed., Reidel Dordecht, 1986; in Z. Shaked and G. M. Whitesides, J. Am. Chem. Soc. 102, 7104-5 (1980); and J. B. Jones and T. Takamura, Can. J. Chem. 62, 77 (1984); the disclosures of which are incorporated herein by reference. In the use of these recycling methods, an amount of about 0.0001 mole to about 0.05 mole of nicotinamide cofactor is used per mole of ketone to be reduced or reductively aminated, per mole of 2-ketoacid to be reductively aminated, or per mole of alcohol or amine or amino acid to be oxidized, providing a recycle number for the cofactor of from about 20 to about 10,000.</p>
+<p id="p-0028" num="0027">As an example of an oxidoreductase-catalyzed transformation, the reaction for the reduction of a ketone to a chiral alcohol is shown in Scheme 1.</p>
+<p id="p-0029" num="0028"><chemistry id="CHEM-US-00001" num="00001">
+<img id="EMI-C00001" he="15.49mm" wi="75.10mm" file="US07642073-20100105-C00001.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0030" num="0029">In the above scheme, and the schemes set forth below, A and B are independently selected from hydrogen, alkyl, substituted alkyl, aryl, substituted aryl, heterocyclic, and the like. As shown in the balanced equation in Scheme 1, one proton is consumed in the reaction for each molecule of nicotinamide cofactor oxidized and each molecule of alcohol formed. As the reaction progresses, the consumption of protons causes the pH of the reaction mixture to rise. By including a suitable pH indicator in the reaction mixture, the presence of an alcohol dehydrogenase is indicated by a change in color of the reaction mixture. Although positive reactions can be detected spectrophotometrically, if desired, the use of a colorimetric pH indicator has the added advantage that the presence of oxidoreductase enzymes can be detected visually and without expensive instrumentation.</p>
+<p id="p-0031" num="0030">Because of the reversibility of most reactions catalyzed by oxidoreductases, an oxidation reaction can also be used for screening and detection. For example, an alcohol dehydrogenase or carbonyl reductase catalyzes the oxidation of an alcohol to form an oxidized carbonyl compound, shown in Scheme 2.</p>
+<p id="p-0032" num="0031"><chemistry id="CHEM-US-00002" num="00002">
+<img id="EMI-C00002" he="15.49mm" wi="73.58mm" file="US07642073-20100105-C00002.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0033" num="0032">Thus, the presence of an oxidoreductase catalyzing this reaction can be detected using a reaction mixture containing an oxidized nicotinamide cofactor, an alcohol, and a pH indicator. In this case, the pH of the reaction mixture will decrease as the reaction progresses, and the decrease in pH is detected by the change in color of the pH indicator.</p>
+<p id="p-0034" num="0033">As used herein, the term &#x201c;carbonyl compound&#x201d; means any chemical compound that has incorporated into it a functional group consisting of a carbon-oxygen double bond. The terms &#x201c;carbonyl reductase&#x201d;, &#x201c;ketoreductase&#x201d;, and &#x201c;alcohol dehydrogenase&#x201d; mean any enzyme that can catalyze the chemical reduction of a carbonyl group in the presence of a nicotinamide cofactor.</p>
+<p id="p-0035" num="0034">With oxidoreductases that produce amines and amino acids by reductive amination, ammonia or ammonium ion is also a reactant. Thus, when screening for an amine or amino acid dehydrogenase using the method of the present invention, ammonia or a salt of ammonium ion is also included with a pH indicator, a reduced nicotinamide cofactor, and a ketone or ketoacid to be reductively aminated. The reaction is shown in Scheme 3.</p>
+<p id="p-0036" num="0035"><chemistry id="CHEM-US-00003" num="00003">
+<img id="EMI-C00003" he="24.72mm" wi="75.78mm" file="US07642073-20100105-C00003.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0037" num="0036">For detection of an amine or amino acid dehydrogenase that can oxidize an amine or amino acid to the corresponding ketone or ketoacid using then method of the present invention, the reaction mixture for detection contains a pH indicator, an oxidized nicotinamide cofactor, and an amine or amino acid to be oxidized. The reaction for the oxidation of an amine or amino acid using an amine or amino acid dehydrogenase is depicted in Scheme 4</p>
+<p id="p-0038" num="0037"><chemistry id="CHEM-US-00004" num="00004">
+<img id="EMI-C00004" he="23.79mm" wi="75.78mm" file="US07642073-20100105-C00004.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+</chemistry>
+</p>
+<p id="p-0039" num="0038">The above-described method can be used to detect enzymes using a second reaction that can be coupled to the enzyme-catalyzed reaction to be screened. For example, in screening for an aminotransferase that catalyzes the transamination of a ketone or ketoacid with L-aspartic acid as the donor, the reaction products are an amine or amino acid and oxaloacetate. In a second reaction, the oxaloacetate can be decarboxylated to pyruvate, with the consumption of a proton. Thus, aminotransferase activity can be detected by detecting an increase in the pH of the reaction mixture because the decarboxylation of oxaloacetate is coupled to the transamination reaction to be screened.</p>
+<p id="p-0040" num="0039">This method is particularly useful for screening for enzymes to perform specific chemical transformations of target compounds that are intermediates in chemical syntheses. Thus, after an enzyme has been determined to have activity for a particular target compound, it can be used to convert that target compound to a useful chemical intermediate, as described above. Useful chemical intermediates include alcohols, amines, alpha-amino acids, beta-amino acids, gamma-amino acids, aldehydes, ketones, carboxylic acids, esters, amides, and the like.</p>
+<p id="p-0041" num="0040">As discussed above, enzymes often require cofactors or cosubstrates for optimal activity. Accordingly, when converting a target compound, preferably a cofactor is present with the enzyme. Suitable cofactors are set forth above.</p>
+<p id="p-0042" num="0041">In the pharmaceutical industry, it is often desirable to chemically transform target compounds into one stereoisomer to the substantial exclusion of another. More specifically, it is desirable to obtain these compounds in more than about 90% enantiomeric excess (ee), preferably in about 95% ee, and still more preferably in about 98% ee, because of the considerable difficulty and the tremendous waste of material in separating enantiomeric products from a racemic mixture. Because enzymes can perform chemical transformations exclusively forming one enantiomeric product and often are easier to use and more cost-effective than performing an asymmetric synthesis, new enzymes that can act upon target compounds are sought after, such as a carbonyl reductase that produces of a single stereoisomer of a alcohol in 98% ee.</p>
+<p id="p-0043" num="0042">In a particularly preferred embodiment, the target compound is a ketone that is not a ketoacid, and the target compound is converted to an amine, preferably a chiral amine, in the presence of an amine dehydrogenase. Preferably the above-described screening method is used to first determine enzymatically-active amino acid dehydrogenases. Further screening is then performed on the enzymatically-active amino acid dehydrogenases, again, in accordance with the procedures described above, to identify enzymatically-active amine dehydrogenases. The thus identified enzymatically-active amine dehydrogenase is then provided in a solution together with a ketone, ammonia and reduced nicotinamide cofactor to synthesize an amine.</p>
+<p id="p-0044" num="0043">The invention is now further described by the following examples, which are given here for illustrative purposes only and are not intended to limit the scope of the invention.</p>
+<heading id="h-0005" level="1">EXAMPLES</heading>
+<heading id="h-0006" level="1">Example 1</heading>
+<heading id="h-0007" level="1">General procedure for detection of an enzyme that reduces the target compound ethyl-4-chloro-3-ketobutyrate</heading>
+<p id="p-0045" num="0044">A gene encoding the alcohol dehydrogenase YPR1 (described by Nakamura, K., et al., Bioscience, Biotechnology and Biochemistry, (1997) 61, 375-377), is subjected to mutagenesis by error-prone PCR according to the method of May, O., et al., (Nature Biotechnology, (2000) 18, 317-320). The error-prone PCR is performed in a 100 <sub>C</sub>L reaction mixture containing 0.25 ng of plasmid DNA as a template dissolved in PCR buffer (10 mM TRIS, 1.5 mM MgCl2, 50 mM KCl, pH 8.3), and also containing 0.2 mM of each dNTP, 50 pmol of each primer and 2.5 units of Taq polymerase (Roche Diagnostics, Indianapolis, Ind.). Conditions for carrying out the PCR are as follows: 2 minutes at 94 <sub>C</sub>C; 30 cycles of 30 sec 94 <sub>C</sub>C, 30 sec 55 <sub>C</sub>C; 2 minutes at 72 <sub>C</sub>C. The PCR product is double digested with Nco I and Bgl II and subcloned into pBAD/HisA vector (Invitrogen, Carlsbad, Calif.) which has been digested with the same restriction enzymes. The resulting YPR1 mutant library is transformed into the <i>E. coli </i>host strain LMG194 (Invitrogen, Carlsbad, Calif.) and plated on LB agar supplied with 100 &#x3bc;g/mL ampicillin. Individual transformants are inoculated into 96-well microtiter plates (hereafter referred to as master plates) containing 0.2 mL LB Broth with 100 &#x3bc;g/mL ampicillin, and growth is allowed to take place for 8 to 16 hours at 37 <sub>C</sub>C with shaking at 200 rpm. Each well in each master plate is then re-inoculated by a replica plating technique into a new second stage 96-well plate pre-loaded with the same growth media plus 2 g/L of arabinose, and growth is allowed to continue for 5-10 hours at 37 <sub>C</sub>C with shaking at 200 rpm. The second stage plates are then centrifuged at 14,000 rpm for 20 minutes, and the supernatant is decanted. The cell pellet in each well is washed with 200 <sub>C</sub>L of water. The washed cell pellet is suspended in 30 <sub>C</sub>L of B-Per Bacterial Protein Extraction Reagent (Pierce Chemical Co., Rockford, Ill.), hereinafter &#x201c;B-Per.&#x201d; After mixing, the suspension of cells in B-Per reagent is allowed to stand for 10 minutes at room temperature, and a reaction solution having the following composition is then added to each well in the plate:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0045">7.5 &#x3bc;L of a pH 6.5 solution containing 8 &#x3bc;g/mL of NADPH</li>
+    <li id="ul0001-0002" num="0046">7.5 &#x3bc;L of a pH 6.5 50% DMSO solution containing 0.25 M ethyl-4-chloro-3-ketobutyrate</li>
+    <li id="ul0001-0003" num="0047">155 &#x3bc;L of 1 mM potassium phosphate buffer, pH 6.5</li>
+    <li id="ul0001-0004" num="0048">1.5 &#x3bc;L of a 4 &#x3bc;g/mL solution of cresol red indicator</li>
+    <li id="ul0001-0005" num="0049">Wells containing an alcohol dehydrogenase that catalyzes the reduction of the target compound ethyl-4-chloro-3-ketobutyrate can be identified easily as their color changes from an initial yellow to an orange or red color. These wells are correlated to the original wells in the master plates to obtain the original clones of mutant alcohol dehydrogenase that catalyzes the desired reduction reaction.</li>
+</ul>
+</p>
+<heading id="h-0008" level="1">Example 2</heading>
+<heading id="h-0009" level="1">Detection of an enzyme that reduces the target compound ethyl-3-phenyl-3-ketopropionate</heading>
+<p id="p-0046" num="0050">The procedure of Example 1 is repeated, replacing the ethyl-4-chloro-3-ketobutyrate with ethyl-3-phenyl-3-ketopropionate, thereby identifying at least one mutant alcohol dehydrogenase that catalyzes the desired reduction reaction.</p>
+<heading id="h-0010" level="1">Example 3</heading>
+<heading id="h-0011" level="1">Detection of an enzyme that reduces the target compound ethyl-indan-2-one-1-carboxylate</heading>
+<p id="p-0047" num="0051">The procedure of Example 1 is repeated, replacing the ethyl-4-chloro-3-ketobutyrate with ethyl-indan-2-one-1-carboxylate, thereby identifying at least one mutant alcohol dehydrogenase that catalyzes the desired reduction reaction.</p>
+<heading id="h-0012" level="1">Example 4</heading>
+<heading id="h-0013" level="1">Detection of an enzyme that reduces the target compound ethyl-4-phenyl-4-ketobutyrate</heading>
+<p id="p-0048" num="0052">The procedure of Example 1 is repeated, replacing the ethyl-4-chloro-3-ketobutyrate with ethyl-4-phenyl-4-ketobutyrate, thereby identifying at least one mutant alcohol dehydrogenase that catalyzes the desired reduction reaction.</p>
+<heading id="h-0014" level="1">Example 5</heading>
+<heading id="h-0015" level="1">Detection of an enzyme that reduces the target compound ethyl-3-phenyl-3-ketopropionate</heading>
+<p id="p-0049" num="0053">The procedure of Example 1 is repeated, replacing the reaction solution with a reaction solution of the following composition:
+<ul id="ul0002" list-style="none">
+    <li id="ul0002-0001" num="0054">7.5 &#x3bc;L of a pH 6.5 solution containing 8 &#x3bc;g/mL of NADPH</li>
+    <li id="ul0002-0002" num="0055">7.5 &#x3bc;L of pH 6.5 DMSO solution containing 0.25 M ethyl-3-phenyl-3-ketopropionate</li>
+    <li id="ul0002-0003" num="0056">155 &#x3bc;L of a 1 mM potassium phosphate buffer, pH 7.0</li>
+    <li id="ul0002-0004" num="0057">1.5 &#x3bc;L of a 4 &#x3bc;g/mL solution of a cresol red indicator</li>
+    <li id="ul0002-0005" num="0058">Wells containing an alcohol dehydrogenase that reduces ethyl-3-phenyl-3-ketopropionate can be identified easily as the color changes from an initial yellow to a red color. At least one mutant alcohol dehydrogenase that catalyzes the desired reduction reaction is identified.</li>
+</ul>
+</p>
+<heading id="h-0016" level="1">Example 6</heading>
+<heading id="h-0017" level="1">Detection of an enzyme that reduces the target compound ethyl-indan-2-one-1-carboxylate</heading>
+<p id="p-0050" num="0059">The procedure of Example 5 is repeated, replacing the ethyl-3-phenyl-3-ketopropionate with ethyl-indan-2-one-1-carboxylate, thereby identifying at least one mutant alcohol dehydrogenase that catalyzes the desired reduction reaction.</p>
+<heading id="h-0018" level="1">Example 7</heading>
+<heading id="h-0019" level="1">Detection of an enzyme that reduces the target compound ethyl-4-phenyl-4-ketobutyrate</heading>
+<p id="p-0051" num="0060">The procedure of Example 5 is repeated, replacing the ethyl-3-phenyl-3-ketopropionate with ethyl-4-phenyl-4-ketobutyrate, thereby identifying at least one mutant alcohol dehydrogenase that catalyzes the desired reduction reaction.</p>
+<heading id="h-0020" level="1">Example 8</heading>
+<heading id="h-0021" level="1">Detection of an enzyme that reduces the target compound ethyl-cyclohexanone-2-carboxylate</heading>
+<p id="p-0052" num="0061">The procedure of Example 5 is repeated, replacing the ethyl-3-phenyl-3-ketoproponiate with ethyl-cyclohexanone-2-carboxylate, thereby identifying at least one mutant alcohol dehydrogenase that catalyzes the desired reduction reaction.</p>
+<heading id="h-0022" level="1">Example 9</heading>
+<heading id="h-0023" level="1">Detection of an enzyme that reduces the target compound ethyl-2-ethyl-3-ketobutyrate</heading>
+<p id="p-0053" num="0062">The procedure of Example 1 is repeated, replacing the reaction solution with a reaction solution of the following composition:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0063">7.5 &#x3bc;L of a pH 6.5 solution containing 8 &#x3bc;g/mL of NADPH</li>
+    <li id="ul0003-0002" num="0064">7.5 &#x3bc;L of a pH 6.5 50% DMSO solution containing 0.25 M ethyl-2-ethyl-3-ketobutyrate</li>
+    <li id="ul0003-0003" num="0065">155 &#x3bc;L of a 2 mM potassium phosphate buffer, pH 6.5</li>
+    <li id="ul0003-0004" num="0066">1.5 &#x3bc;L of a 4 &#x3bc;g/mL solution of bromothymol blue indicator</li>
+    <li id="ul0003-0005" num="0067">Wells containing an alcohol dehydrogenase that reduces ethyl-2-ethyl-3-ketobutyrate can be identified easily as the color changes from an initial yellow to a blue color.</li>
+</ul>
+</p>
+<heading id="h-0024" level="1">Example 10</heading>
+<heading id="h-0025" level="1">Detection of an enzyme that reduces the target compound ethyl-2-allyl-3-ketobutyrate</heading>
+<p id="p-0054" num="0068">The procedure of Example 9 is repeated, replacing the ethyl-2-ethyl-3-ketobutyrate with ethyl-2-allyl-3-ketobutyrate, thereby identifying at least one mutant alcohol dehydrogenase that catalyzes the desired reduction reaction.</p>
+<heading id="h-0026" level="1">Example 11</heading>
+<heading id="h-0027" level="1">Detection of an enzyme that reduces the target compound ethyl-2-phenyl-3-ketobutyrate</heading>
+<p id="p-0055" num="0069">The procedure of Example 9 is repeated, replacing the ethyl-2-ethyl-3-ketobutyrate with ethyl-2-phenyl-3-ketobutyrate, thereby identifying at least one mutant alcohol dehydrogenase that catalyzes the desired reduction reaction.</p>
+<heading id="h-0028" level="1">Example 12</heading>
+<heading id="h-0029" level="1">Detection of an enzyme that reduces the target compound ethyl-2-benzyl-3-ketobutyrate</heading>
+<p id="p-0056" num="0070">The procedure of Example 9 is repeated, replacing the ethyl-2-ethyl-3-ketobutyrate with ethyl-2-benzyl-3-ketobutyrate, thereby identifying at least one mutant alcohol dehydrogenase that catalyzes the desired reduction reaction.</p>
+<heading id="h-0030" level="1">Example 13</heading>
+<heading id="h-0031" level="1">Detection of an Enzyme that Oxidizes a Target Compound Alcohol</heading>
+<p id="p-0057" num="0071">A gene encoding the alcohol dehydrogenase Alr1 (Yamada, et al., FEMS Microbiology Letters, (1990) 70, 45-48) is subjected to mutagenesis by error-prone PCR according to the method of May et al. The error-prone PCR is performed in a 100 <sub>C</sub>L reaction mixture containing 0.25 ng of plasmid DNA as template dissolved in PCR buffer containing 0.2 mM of each dNTP, 50 pmol of each primer and 2.5 units of Taq polymerase. Conditions for carrying out the PCR are as follows: 2 minutes at 94 <sub>C</sub>C; 30 cycles of 30 sec 94 <sub>C</sub>C, 30 sec 55 <sub>C</sub>C; 2 minutes at 72 <sub>C</sub>C. The PCR product is double digested with Nco I and Bgl II and subcloned into pBAD/HisA vector which has been digested with the same restriction enzymes. The resulting Alr1 mutant library is transformed into an <i>E. coli </i>host strain LMG194 and plated on LB agar supplied with 100 &#x3bc;g/mL ampicillin. Individual transformants are inoculated into master plates containing 0.2 mL LB Broth with 100 &#x3bc;g/mL ampicillin, and growth is allowed to take place for 8-16 hours at 37 <sub>C</sub>C with shaking at 200 rpm. Each well in each master plate is then re-inoculated by a replica plating technique into a new second stage 96-well plate pre-loaded with the same growth media plus 2 g/L of arabinose, and growth is allowed to continue for 5 to 10 hours at 37 <sub>C</sub>C with shaking at 200 rpm. The second stage plates are then centrifuged at 14,000 rpm for 20 minutes, and the supernatant is decanted. The cell pellet in each well is washed with 200 <sub>C</sub>L of water. The washed cell pellet is suspended in 30 <sub>C</sub>L of B-Per. After mixing, the suspension of cells in B-Per reagent is allowed to stand for 10 minutes at room temperature, and a solution having the following composition is then added to each well in the plate:
+<ul id="ul0004" list-style="none">
+    <li id="ul0004-0001" num="0072">7.5 &#x3bc;L of a pH 8.0 solution containing 20 &#x3bc;g/ml of NADP+</li>
+    <li id="ul0004-0002" num="0073">7.5 &#x3bc;L of a pH 8.0 50% DMSO solution containing 0.25 M (2R,3S)-ethyl-2-ethyl-3-hydroxybutyrate</li>
+    <li id="ul0004-0003" num="0074">155 &#x3bc;L of 2 mM potassium phosphate buffer, pH 8.0</li>
+    <li id="ul0004-0004" num="0075">1.5 &#x3bc;L of a 4 &#x3bc;g/ml solution of bromothymol blue indicator
+<br/>
+Wells in which the color changes from an initial blue to a yellow color contain mutant alcohol dehydrogenases that catalyze the oxidation of the target alcohol (2R,3S)-ethyl-2-ethyl-3-hydroxybutyrate. These wells are correlated to the original wells in the master plates to obtain the original clones of mutant alcohol dehydrogenases catalyzing the desired oxidation reaction.
+</li>
+</ul>
+</p>
+<heading id="h-0032" level="1">Example 14</heading>
+<heading id="h-0033" level="1">General procedure for detection of an enzyme that reductively aminates the target compound 3,3-dimethyl-2-ketobutyrate</heading>
+<p id="p-0058" num="0076">A gene encoding leucine dehydrogenase from <i>B. stearothermophilus </i>(Nagata, et al. Biochemistry (1998) 27, 9056) is subjected to mutagenesis by error-prone PCR according to the method of May et al. The error-prone PCR is performed in a 100 <sub>C</sub>L reaction mixture containing 0.25 ng of plasmid DNA as template dissolved in PCR buffer also containing 0.2 mM of each dNTP, 50 pmol of each primer and 2.5 units of Taq polymerase. Conditions for carrying out the PCR are as follows: 2 minutes at 94 <sub>C</sub>C; 30 cycles of 30 sec 94 <sub>C</sub>C, 30 sec 55 <sub>C</sub>C; 2 minutes at 72 <sub>C</sub>C. The PCR product is double digested with Nco I and Bgl II and subcloned into pBAD/HisA vector which has been digested with the same restriction enzymes. The resulting leucine dehydrogenase mutant library is transformed into an <i>E. coli </i>host strain LMG194 and plated on LB agar supplied with 100 &#x3bc;g/mL ampicillin. Individual transformants are inoculated into master plates containing 0.2 mL LB Broth with 100 &#x3bc;g/mL ampicillin, and growth is allowed to take place for 8 to 16 hours at 37 <sub>C</sub>C with shaking at 200 rpm. Each well in each master plate is then re-inoculated by a replica plating technique into a new second stage 96-well plate pre-loaded with the same growth media plus 2 g/L of arabinose, and growth is allowed to continue for 5-10 hours at 37 <sub>C</sub>C with shaking at 200 rpm. The second stage plates are then centrifuged at 14,000 rpm for 20 minutes, and the supernatant is decanted. The cell pellet in each well is washed with 200 <sub>C</sub>L of water. The washed cell pellet is suspended in 30 <sub>C</sub>L of B-Per After mixing, the suspension of cells in B-Per reagent is allowed to stand for 10 minutes at room temperature, and a solution having the following composition is then added to each well in the plate:
+<ul id="ul0005" list-style="none">
+    <li id="ul0005-0001" num="0077">7.5 &#x3bc;L of a pH 6.5 solution containing 8 &#x3bc;g/mL of NADH</li>
+    <li id="ul0005-0002" num="0078">7.5 &#x3bc;L of a pH 6.5 50% DMSO solution containing 0.25 M 3,3-dimethyl-2-ketobutyrate</li>
+    <li id="ul0005-0003" num="0079">155 &#x3bc;L of 1 mM potassium phosphate buffer, pH 6.5, containing 100 mM ammonium chloride</li>
+    <li id="ul0005-0004" num="0080">1.5 &#x3bc;L of a 4 &#x3bc;g/mL solution of cresol red indicator
+<br/>
+Wells in which the color changes from an initial yellow to an orange or red color contain leucine dehydrogenase that catalyzes the reductive amination of the target 2-ketoacid 3,3-dimethyl-2-ketobutyrate. These wells are correlated to the original wells in the master plates to obtain the original clones of mutant leucine dehydrogenase that catalyzes the desired reductive amination reaction.
+</li>
+</ul>
+</p>
+<heading id="h-0034" level="1">Example 15</heading>
+<heading id="h-0035" level="1">Detection of an enzyme that reductively aminates the target compound 4-(methylphosphinyl)-2-ketobutyrate</heading>
+<p id="p-0059" num="0081">The procedure of Example 14 is repeated, replacing 3,3-dimethyl-2-ketobutyrate with 4-(methylphosphinyl)-2-ketobutyrate, thereby identifying at least one mutant dehydrogenase that catalyzes the desired reductive amination reaction.</p>
+<heading id="h-0036" level="1">Example 16</heading>
+<heading id="h-0037" level="1">Detection of an enzyme that reductively aminates the target compound 3-(2-naphthyl)pyruvate</heading>
+<p id="p-0060" num="0082">The procedure of Example 14 is repeated, replacing 3,3-dimethyl-2-ketobutyrate with 3-(2-naphthyl)pyruvate, thereby identifying at least one mutant dehydrogenase that catalyzes the desired reductive amination reaction.</p>
+<heading id="h-0038" level="1">Example 17</heading>
+<heading id="h-0039" level="1">Detection of an enzyme that reductively aminates the target compounds 3-(1-naphthyl)pyruvate</heading>
+<p id="p-0061" num="0083">The procedure of Example 14 is repeated, replacing the 3,3-dimethyl-2-ketobutyrate with 3-(1-naphthyl)pyruvate, thereby identifying at least one mutant dehydrogenase that catalyzes the desired reductive amination reaction.</p>
+<heading id="h-0040" level="1">Example 18</heading>
+<heading id="h-0041" level="1">Detection of an enzyme that reductively aminates the target compound 4-phenyl-2-ketobutyrate</heading>
+<p id="p-0062" num="0084">The procedure of Example 14 is repeated, replacing 3,3-dimethyl-2-ketobutyrate with 4-phenyl-2-ketobutyrate, thereby identifying at least one mutant dehydrogenase that catalyzes the desired reductive amination reaction.</p>
+<heading id="h-0042" level="1">Example 19</heading>
+<heading id="h-0043" level="1">Detection of an enzyme that reductively aminates the target compound 4,4-dimethyl-2-ketopentanoate</heading>
+<p id="p-0063" num="0085">The procedure of Example 14 is repeated replacing the 3,3-dimethyl-2-ketobutyrate with 4,4-dimethyl-2-ketopentanoate, thereby identifying at least one mutant dehydrogenase that catalyzes the desired reduction reaction.</p>
+<heading id="h-0044" level="1">Example 20</heading>
+<heading id="h-0045" level="1">Detection of an enzyme that oxidizes the target compound L-tert-leucine</heading>
+<p id="p-0064" num="0086">A gene encoding the leucine dehydrogenase from <i>B. stearothermophilus </i>is subjected to mutagenesis by error-prone PCR according to the method of May et al. The error-prone PCR is performed in a 100 <sub>C</sub>L reaction mixture containing 0.25 ng of plasmid DNA as template dissolved in PCR buffer (10 mM TRIS, 1.5 mM MgCl2, 50 mM KCl, pH 8.3), and also containing 0.2 mM of each dNTP, 50 pmol of each primer and 2.5 units of Taq polymerase. Conditions for carrying out the PCR are as follows: 2 minutes at 94 <sub>C</sub>C; 30 cycles of 30 sec 94 <sub>C</sub>C, 30 sec 55 <sub>C</sub>C; 2 minutes at 72 <sub>C</sub>C. The PCR product is double digested with Nco I and Bgl II and subcloned into pBAD/HisA vector which has been digested with the same restriction enzymes. The resulting leucine dehydrogenase mutant library is transformed into an <i>E. coli </i>host strain LMG194 and plated on LB agar supplied with 100 &#x3bc;g/mL ampicillin. Individual transformants are inoculated into 96-well master plates containing 0.2 mL LB Broth with 100 &#x3bc;g/mL ampicillin, and growth is allowed to take place for 8-16 hours at 37 <sub>C</sub>C with shaking at 200 rpm. Each well in each master plate is then re-inoculated by a replica plating technique into a new second stage 96-well plate pre-loaded with the same growth media plus 2 g/L of arabinose, and growth is allowed to continue for 5-10 hours at 37 <sub>C</sub>C with shaking at 200 rpm. The second stage plates are then centrifuged at 14,000 rpm for 20 minutes, and the supernatant is decanted. The cell pellet in each well is washed with 200 <sub>C</sub>L of water. The washed cell pellet is suspended in 30 <sub>C</sub>L of B-Per. After mixing, the suspension of cells in B-Per reagent is allowed to stand for 10 minutes at room temperature, and a solution having the following composition is then added to each well in the plate:
+<ul id="ul0006" list-style="none">
+    <li id="ul0006-0001" num="0087">7.5 &#x3bc;L of a pH 8.0 solution containing 20 &#x3bc;g/ml of NAD+</li>
+    <li id="ul0006-0002" num="0088">7.5 &#x3bc;L of a pH 8.0 50% DMSO solution containing 0.25 M L-tert-leucine (S-3,3-dimethyl-2-aminobutyrate)</li>
+    <li id="ul0006-0003" num="0089">155 &#x3bc;L of 2 mM potassium phosphate buffer, pH 8.0, containing 100 mM ammonium chloride</li>
+    <li id="ul0006-0004" num="0090">1.5 &#x3bc;L of a 4 &#x3bc;g/ml solution of bromothymol blue indicator
+<br/>
+Wells in which the color changes from an initial blue to a yellow color contain mutant leucine dehydrogenases that catalyze the oxidation of the target amino acid. These wells are correlated to the original wells in the master plates to obtain the original clones of mutant leucine dehydrogenases catalyzing the desired oxidation reaction.
+</li>
+</ul>
+</p>
+<heading id="h-0046" level="1">Example 21</heading>
+<heading id="h-0047" level="1">Detection of an enzyme that oxidizes the target compound S-phosphinothricin</heading>
+<p id="p-0065" num="0091">The procedure of Example 20 is repeated replacing the L-tert-leucine with S-phosphinothricin, thereby identifying at least one mutant alcohol dehydrogenase that catalyzes the desired oxidation reaction.</p>
+<heading id="h-0048" level="1">Example 22</heading>
+<heading id="h-0049" level="1">Detection of an enzyme that oxidizes the target compound S-(2-naphthyl) alanine</heading>
+<p id="p-0066" num="0092">The procedure of Example 20 is repeated, replacing the L-tert-leucine with S-(2-naphthyl)alanine, thereby identifying at least one mutant alcohol dehydrogenase that catalyzes the desired oxidation reaction.</p>
+<heading id="h-0050" level="1">Example 23</heading>
+<heading id="h-0051" level="1">Detection of an enzyme that oxidizes the target compound D-tert-leucine</heading>
+<p id="p-0067" num="0093">The procedure of Example 20 is repeated, replacing the L-tert-leucine with D-tert-leucine, thereby identifying at least one mutant alcohol dehydrogenase that catalyzes the desired oxidation reaction.</p>
+<heading id="h-0052" level="1">Example 24</heading>
+<heading id="h-0053" level="1">Detection of an enzyme that oxidizes the target compound S-4-phenyl-2-aminobutyrate</heading>
+<p id="p-0068" num="0094">The procedure of Example 20 is repeated, replacing L-tert-leucine with S-4-phenyl-2-aminobutyrate, thereby identifying at least one mutant alcohol dehydrogenase that catalyzes the desired oxidation reaction.</p>
+<heading id="h-0054" level="1">Example 25</heading>
+<heading id="h-0055" level="1">Detection of an enzyme that oxidizes the target compound D-tyrosine</heading>
+<p id="p-0069" num="0095">The procedure of Example 20 is repeated, replacing the L-tert-leucine with D-tyrosine, thereby identifying at lest one mutant alcohol dehydrogenase that catalyzes the desired oxidation reaction.</p>
+<heading id="h-0056" level="1">Example 26</heading>
+<heading id="h-0057" level="1">General Procedure for Detection of an Enzyme Mutant that Reductively Aminates the Target Compound Acetophenone</heading>
+<p id="p-0070" num="0096">A gene encoding leucine dehydrogenase from <i>B. stearothermophilus </i>is subjected to mutagenesis by error-prone PCR according to the method of May, et al. The error-prone PCR is performed in a 100 <sub>C</sub>L reaction mixture containing 0.25 ng of plasmid DNA as template dissolved in PCR buffer containing 0.2 mM of each dNTP, 50 pmol of each primer and 2.5 units of Taq polymerase. Conditions for carrying out the PCR are as follows: 2 minutes at 94 <sub>C</sub>C; 30 cycles of 30 sec 94 <sub>C</sub>C, 30 sec 55 <sub>C</sub>C; 2 minutes at 72 <sub>C</sub>C. The PCR product is double digested with Nco I and Bgl II and subcloned into pBAD/HisA vector which has been digested with the same restriction enzymes. The resulting leucine dehydrogenase mutant library is transformed into an <i>E. coli </i>host strain LMG194 and plated on LB agar supplied with 100 &#x3bc;g/mL ampicillin. Individual transformants are inoculated into master plates containing 0.2 mL LB Broth with 100 &#x3bc;g/mL ampicillin, and growth is allowed to take place for 8-16 hours at 37 <sub>C</sub>C with shaking at 200 rpm. Each well in each master plate is then re-inoculated by a replica plating technique into a new second stage 96-well plate pre-loaded with the same growth media plus 2 g/L of arabinose, and growth is allowed to continue for 5-10 hours at 37 <sub>C</sub>C with shaking at 200 rpm. The second stage plates are then centrifuged at 14,000 rpm for 20 minutes, and the supernatant is decanted. The cell pellet in each well is washed with 200 <sub>C</sub>L of water. The washed cell pellet is suspended in 30 <sub>C</sub>L of B-Per. After mixing, the suspension of cells in B-Per reagent is allowed to stand for 10 minutes at room temperature, and a solution having the following composition is then added to each well in the plate:
+<ul id="ul0007" list-style="none">
+    <li id="ul0007-0001" num="0097">7.5 &#x3bc;L of a pH 6.5 solution containing 8 &#x3bc;g/mL of NADH</li>
+    <li id="ul0007-0002" num="0098">7.5 &#x3bc;L of a pH 6.5 50% DMSO solution containing 0.25 M acetophenone</li>
+    <li id="ul0007-0003" num="0099">155 &#x3bc;L of 1 mM potassium phosphate buffer, pH 6.5, containing 100 mM ammonium chloride</li>
+    <li id="ul0007-0004" num="0100">1.5 &#x3bc;L of a 4 &#x3bc;g/mL solution of cresol red indicator
+<br/>
+Wells in which the color change from an initial yellow to an orange or red color contain leucine dehydrogenases that catalyzes the reductive amination of the target ketone acetophenone. These wells are correlated to the original wells in the master plates to obtain the original clones of mutant leucine dehydrogenase that catalyzes the desired reductive amination reaction.
+</li>
+</ul>
+</p>
+<heading id="h-0058" level="1">Example 27</heading>
+<heading id="h-0059" level="1">Detection of an enzyme that oxidizes the target compound S-1-phenylethylamine</heading>
+<p id="p-0071" num="0101">A gene encoding the leucine dehydrogenase from <i>B. stearothermophilus </i>is subjected to mutagenesis by error-prone PCR according to the method of May, et al. The error-prone PCR is performed in a 100 <sub>C</sub>L reaction mixture containing 0.25 ng of plasmid DNA as template dissolved in PCR buffer containing 0.2 mM of each dNTP, 50 pmol of each primer and 2.5 units of Taq polymerase. Conditions for carrying out the PCR are as follows: 2 minutes at 94 <sub>C</sub>C; 30 cycles of 30 sec 94 <sub>C</sub>C, 30 sec 55 <sub>C</sub>C; 2 minutes at 72 <sub>C</sub>C. The PCR product is double digested with Nco I and Bgl II and subcloned into pBAD/HisA vector which has been digested with the same restriction enzymes. The resulting leucine dehydrogenase mutant library is transformed into an <i>E. coli </i>host strain LMG194 and plated on LB agar supplied with 100 &#x3bc;g/mL ampicillin. Individual transformants are inoculated into master plates containing 0.2 mL LB Broth with 100 &#x3bc;g/mL ampicillin, and growth is allowed to take place for 8-16 hours at 37 <sub>C</sub>C with shaking at 200 rpm. Each well in each master plate is then re-inoculated by a replica plating technique into a new second stage plate pre-loaded with the same growth media plus 2 g/L of arabinose, and growth is allowed to continue for 5 to 10 hours at 37 <sub>C</sub>C with shaking at 200 rpm. The second stage plates are then centrifuged at 14,000 rpm for 20 minutes, and the supernatant is decanted. The cell pellet in each well is washed with 200 <sub>C</sub>L of water. The washed cell pellet is suspended in 30 <sub>C</sub>L of B-Per Bacterial Protein Extraction Reagent. After mixing, the suspension of cells in B-Per reagent is allowed to stand for 10 minutes at room temperature, and a solution having the following composition is then added to each well in the plate:
+<ul id="ul0008" list-style="none">
+    <li id="ul0008-0001" num="0102">7.5 &#x3bc;L of a pH 8.0 solution containing 20 &#x3bc;g/mL of NAD+</li>
+    <li id="ul0008-0002" num="0103">7.5 &#x3bc;L of a pH 8.0 50% DMSO solution containing 0.25 M S-1-phenylethylamine</li>
+    <li id="ul0008-0003" num="0104">155 &#x3bc;L of 2 mM potassium phosphate buffer, pH 8.0, containing 100 mM ammonium chloride</li>
+    <li id="ul0008-0004" num="0105">1.5 &#x3bc;L of a 4 &#x3bc;g/mL solution of bromothymol blue indicator
+<br/>
+Wells in which the color changes from blue initially to yellow contain mutant leucine dehydrogenase that catalyze the oxidation of the target amine. These wells are correlated to the original wells in the master plates to obtain the original clones of mutant leucine dehydrogenases catalyzing the desired oxidation reaction.
+</li>
+</ul>
+</p>
+<heading id="h-0060" level="1">Example 28</heading>
+<heading id="h-0061" level="1">Detection of an enzyme that oxidizes the target compound R-1-phenylethylamine</heading>
+<p id="p-0072" num="0106">A gene encoding the leucine dehydrogenase from <i>B. stearothermophilus </i>is subjected to mutagenesis by error-prone PCR according to the method of May, et al. The error-prone PCR is performed in a 100 <sub>C</sub>L reaction mixture containing 0.25 ng of plasmid DNA as template dissolved in PCR buffer containing 0.2 mM of each dNTP, 50 pmol of each primer and 2.5 units of Taq polymerase. Conditions for carrying out the PCR are as follows: 2 minutes at 94 <sub>C</sub>C; 30 cycles of 30 sec 94 <sub>C</sub>C, 30 sec 55 <sub>C</sub>C; 2 minutes at 72 <sub>C</sub>C. The PCR product is double digested with Nco I and Bgl II and subcloned into pBAD/HisA vector which has been digested with the same restriction enzymes. The resulting leucine dehydrogenase mutant library is transformed into an <i>E. coli </i>host strain LMG194 and plated on LB agar supplied with 100 &#x3bc;g/mL ampicillin. Individual transformants are inoculated into master plates containing 0.2 mL LB Broth with 100 &#x3bc;g/mL ampicillin, and growth is allowed to take place for 8-16 hours at 37 <sub>C</sub>C with shaking at 200 rpm. Each well in each master plate is then re-inoculated by a replica plating technique into a new second stage plate pre-loaded with the same growth media plus 2 g/L of arabinose, and growth is allowed to continue for 5-10 hours at 37 <sub>C</sub>C with shaking at 200 rpm. The second stage plates are then centrifuged at 14,000 rpm for 20 minutes, and the supernatant is decanted. The cell pellet in each well is washed with 200 <sub>C</sub>L of water. The washed cell pellet is suspended in 30 <sub>C</sub>L of B-Per. After mixing, the suspension of cells in B-Per reagent is allowed to stand for 10 minutes at room temperature, and a solution having the following composition is then added to each well in the plate:
+<ul id="ul0009" list-style="none">
+    <li id="ul0009-0001" num="0107">7.5 &#x3bc;L of a pH 8.0 solution containing 20 &#x3bc;g/mL of NAD+</li>
+    <li id="ul0009-0002" num="0108">7.5 &#x3bc;L of a pH 8.0 50% DMSO solution containing 0.25 M R-1-phenylethylamine</li>
+    <li id="ul0009-0003" num="0109">155 &#x3bc;L of 2 mM potassium phosphate buffer, pH 8.0, containing 100 mM ammonium chloride</li>
+    <li id="ul0009-0004" num="0110">1.5 &#x3bc;L of a 4 &#x3bc;g/mL solution of bromothymol blue indicator
+<br/>
+Wells in which the color changes from blue initially to yellow contain mutant leucine dehydrogenase that catalyze the oxidation of the target amine. These wells are correlated to the original wells in the master plates to obtain the original clones of mutant leucine dehydrogenases catalyzing the desired oxidation reaction.
+</li>
+</ul>
+</p>
+<heading id="h-0062" level="1">Example 29</heading>
+<heading id="h-0063" level="1">Production of 1-phenylethylamine by the reductive amination of acetophenone</heading>
+<p id="p-0073" num="0111">One hundred units of an amine dehydrogenase generated by mutagenesis and screening of leucine dehydrogenase as described in any one of Examples 26 to 28 above is incubated at 45&#xb0; C. in 100 milliliters of a solution maintained at pH 6.5 containing potassium phosphate (1 millimole), NADH (0.01 millimole), ammonium formate (25 millimoles), and formate dehydrogenase from <i>Candida boidinii </i>(100 units). Acetophenone (10 millimoles) is added slowly over one hour with stirring, and the reaction is allowed to proceed for an additional 4 hours. After basification of the reaction mixture to pH 12 and extraction with methyl t-butyl ether, analysis of the reaction products is carried out by gas chromatography to determine the yield of 1-phenylethylamine. Chiral analysis is carried out by chiral gas chromatography using a ChiraDex CB column (Advanced Separation Technology, Whippany, N.J. USA).</p>
+<heading id="h-0064" level="1">Example 30</heading>
+<heading id="h-0065" level="1">Production of R-1-phenylethylamine by the reductive amination of acetophenone</heading>
+<p id="p-0074" num="0112">The method of Example 29 is carried out except that the amine dehydrogenase is an R-1-phenylethylamine dehydrogenase and the product is R-1-phenylethylamine.</p>
+<heading id="h-0066" level="1">Example 31</heading>
+<heading id="h-0067" level="1">Production of S-1-phenylethylamine by the reductive amination of acetophenone</heading>
+<p id="p-0075" num="0113">The method of Example 29 is carried out except that the amine dehydrogenase is an S-1-phenylethylamine dehydrogenase and the product is S-1-phenylethylamine.</p>
+<heading id="h-0068" level="1">Example 32</heading>
+<heading id="h-0069" level="1">Production of R-1-(p-chlorophenyl)ethylamine by the reductive amination of p-chloroacetophenone</heading>
+<p id="p-0076" num="0114">The method of Example 30 is carried out except that acetophenone is replaced by p-chloroacetophenone and the product is R-1-(p-chlorophenyl)ethylamine.</p>
+<heading id="h-0070" level="1">Example 33</heading>
+<heading id="h-0071" level="1">Production of S-1-(p-chlorophenyl)ethylamine by the reductive amination of p-chloroacetophenone</heading>
+<p id="p-0077" num="0115">The method of Example 31 is carried out except that acetophenone is replaced by p-chloroacetophenone and the product is S-1-(p-chlorophenyl)ethylamine.</p>
+<heading id="h-0072" level="1">Example 34</heading>
+<heading id="h-0073" level="1">Production of R-1-(m-bromophenyl)ethylamine by the reductive amination of m-bromoacetophenone</heading>
+<p id="p-0078" num="0116">The method of Example 30 is carried out except that acetophenone is replaced by m-bromoacetophenone and the product is R-1-(m-bromophenyl)ethylamine.</p>
+<heading id="h-0074" level="1">Example 35</heading>
+<heading id="h-0075" level="1">Production of S-1-(m-bromophenyl)ethylamine by the reductive amination of m-bromoacetophenone</heading>
+<p id="p-0079" num="0117">The method of Example 31 is carried out except that acetophenone is replaced by m-bromoacetophenone and the product is S-1-(m-bromophenyl)ethylamine.</p>
+<heading id="h-0076" level="1">Example 36</heading>
+<heading id="h-0077" level="1">Production of 1-phenylethanol by the reduction of acetophenone</heading>
+<p id="p-0080" num="0118">One hundred units of an alcohol dehydrogenase, generated by mutagenesis and screening of the alr1 gene as described in Example 13 above, is incubated at 45EC in 100 milliliters of a solution maintained at pH 6.5 containing potassium phosphate (1 millimole), NADPH (0.01 millimole), sodium formate (25 millimoles), and a NADP-utilizing formate dehydrogenase P3 (obtained from Juelich Fine Chemcials, Juelich, Germany; catalog number 25.10; 100 units). Acetophenone (10 millimoles) is added slowly over one hour with stirring, and the reaction is allowed to proceed for an additional 4 hours. The reaction mixture is extracted with methyl t-butyl ether, and analysis of the reaction products is carried out by gas chromatography to determine the yield of 1-phenylethanol. Chiral analysis is carried out by chiral gas chromatography using a ChiraDex CB column (Advanced Separation Technology, Whippany, N.J. USA).</p>
+<heading id="h-0078" level="1">Example 37</heading>
+<heading id="h-0079" level="1">Production of R-1-phenylethanol by the reduction of acetophenone</heading>
+<p id="p-0081" num="0119">The method of Example 36 is carried out except that the alcohol dehydrogenase is determined to be an R-1-phenylethanol dehydrogenase and the product is R-1-phenylethanol.</p>
+<heading id="h-0080" level="1">Example 38</heading>
+<heading id="h-0081" level="1">Production of S-1-phenylethanol by the reduction of acetophenone</heading>
+<p id="p-0082" num="0120">The method of Example 36 is carried out except that the alcohol dehydrogenase is determined to be an S-1-phenylethanol dehydrogenase and the product is S-1-phenylethanol,</p>
+<heading id="h-0082" level="1">Example 39</heading>
+<heading id="h-0083" level="1">Production of R-1-(p-chlorophenyl)ethanol by the reduction of p-chloroacetophenone</heading>
+<p id="p-0083" num="0121">The method of Example 36 is carried out except that acetophenone is replaced by p-chloroacetophenone, the alcohol dehydrogenase is determined to be an R-1-(p-chlorophenyl)ethanol dehydrogenase and the product is R-1-(p-chlorophenyl)ethanol.</p>
+<heading id="h-0084" level="1">Example 40</heading>
+<heading id="h-0085" level="1">Production of S-1-(p-chlorophenyl)ethanol by the reduction of p-chloroacetophenone</heading>
+<p id="p-0084" num="0122">The method of Example 36 is carried out except that acetophenone is replaced by p-chloroacetophenone, the alcohol dehydrogenase is determined to be an S-1-(p-chlorophenyl)ethanol dehydrogenase and the product is S-1-(p-chlorophenyl)ethanol.</p>
+<heading id="h-0086" level="1">Example 41</heading>
+<heading id="h-0087" level="1">Production of R-1-(m-bromophenyl)ethanol by the reduction of m-bromoacetophenone</heading>
+<p id="p-0085" num="0123">The method of Example 36 is carried out except that acetophenone is replaced by m-bromoacetophenone, the alcohol dehydrogenase is determined to be an R-1-(m-bromophenyl)ethanol dehydrogenase, and the product is R-1-(m-bromophenyl)ethanol.</p>
+<heading id="h-0088" level="1">Example 42</heading>
+<heading id="h-0089" level="1">Production of S-1-(m-bromophenyl)ethanol by the reduction of m-bromoacetophenone</heading>
+<p id="p-0086" num="0124">The method of Example 36 is carried out except that acetophenone is replaced by m-bromoacetophenone, the alcohol dehydrogenase is determined to be an S-1-(m-bromophenyl)ethanol dehydrogenase, and the product is S-1-(m-bromophenyl)ethanol.</p>
+<p id="p-0087" num="0125">The preceding description has been presented with reference to presently preferred embodiments of the invention. Workers skilled in the art and technology to which this invention pertains will appreciate that alterations and changes in the described methods and kits may be practiced without meaningfully departing from the spirit and scope of this invention. Accordingly, the foregoing description should not be read as pertaining only to the precise methods and kits described, but rather should be read consistent with and as support to the following claims, which are to have their fullest and fair scope.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-chemistry idref="CHEM-US-00001" cdx-file="US07642073-20100105-C00001.CDX" mol-file="US07642073-20100105-C00001.MOL"/>
+<us-chemistry idref="CHEM-US-00002" cdx-file="US07642073-20100105-C00002.CDX" mol-file="US07642073-20100105-C00002.MOL"/>
+<us-chemistry idref="CHEM-US-00003" cdx-file="US07642073-20100105-C00003.CDX" mol-file="US07642073-20100105-C00003.MOL"/>
+<us-chemistry idref="CHEM-US-00004" cdx-file="US07642073-20100105-C00004.CDX" mol-file="US07642073-20100105-C00004.MOL"/>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method of producing a chiral amine in enantiomeric excess from a target ketone, comprising:
+<claim-text>screening mutated amine dehydrogenases for conversion of a target ketone to a chiral amine to identify a mutated amine dehydrogenase with activity for producing an enantiomeric excess of the chiral amine; and</claim-text>
+<claim-text>contacting the identified amine dehydrogenase with the target ketone under conditions sufficient for producing an enantiomeric excess of the chiral amine, wherein the target ketone is not a 2-ketoacid.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> in which the target ketone is contacted with the identified amine dehydrogenase in the presence of a NAD(P)H cofactor recycling system.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the amine dehydrogenase is an amino acid dehydrogenase. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640835-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640835</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11975985</doc-number>
+<date>20071022</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>26</class>
+<subclass>D</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>23</class>
+<subclass>D</subclass>
+<main-group>45</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>N</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 83 13</main-classification>
+<further-classification> 83 58</further-classification>
+<further-classification> 83 621</further-classification>
+<further-classification> 83DIG 1</further-classification>
+<further-classification> 83490</further-classification>
+<further-classification> 834712</further-classification>
+<further-classification> 834771</further-classification>
+</classification-national>
+<invention-title id="d0e43">Apparatus and method for detecting dangerous conditions in power equipment</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1551900</doc-number>
+<kind>A</kind>
+<name>Morrow</name>
+<date>19250900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2554124</doc-number>
+<kind>A</kind>
+<name>Salmont</name>
+<date>19510500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3785230</doc-number>
+<kind>A</kind>
+<name>Lokey</name>
+<date>19740100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 30388</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3829850</doc-number>
+<kind>A</kind>
+<name>Guetersloh</name>
+<date>19740800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3858095</doc-number>
+<kind>A</kind>
+<name>Friemann et al.</name>
+<date>19741200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>192129 A</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3953770</doc-number>
+<kind>A</kind>
+<name>Hayashi</name>
+<date>19760400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4048886</doc-number>
+<kind>A</kind>
+<name>Zettler</name>
+<date>19770900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4117752</doc-number>
+<kind>A</kind>
+<name>Yoneda</name>
+<date>19781000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4190000</doc-number>
+<kind>A</kind>
+<name>Shaull et al.</name>
+<date>19800200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4453112</doc-number>
+<kind>A</kind>
+<name>Sauer et al.</name>
+<date>19840600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4589047</doc-number>
+<kind>A</kind>
+<name>Gaus et al.</name>
+<date>19860500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4792965</doc-number>
+<kind>A</kind>
+<name>Morgan</name>
+<date>19881200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4965909</doc-number>
+<kind>A</kind>
+<name>McCullough et al.</name>
+<date>19901000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5081406</doc-number>
+<kind>A</kind>
+<name>Hughes et al.</name>
+<date>19920100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5198702</doc-number>
+<kind>A</kind>
+<name>McCullough et al.</name>
+<date>19930300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5231359</doc-number>
+<kind>A</kind>
+<name>Masuda et al.</name>
+<date>19930700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>324675</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5272946</doc-number>
+<kind>A</kind>
+<name>McCullough et al.</name>
+<date>19931200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5341133</doc-number>
+<kind>A</kind>
+<name>Savoy et al.</name>
+<date>19940800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5602734</doc-number>
+<kind>A</kind>
+<name>Kithil</name>
+<date>19970200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>5730165</doc-number>
+<kind>A</kind>
+<name>Philipp</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>5880954</doc-number>
+<kind>A</kind>
+<name>Thomson et al.</name>
+<date>19990300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>5921367</doc-number>
+<kind>A</kind>
+<name>Kashioka et al.</name>
+<date>19990700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>5942975</doc-number>
+<kind>A</kind>
+<name>Sorensen</name>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>6064629</doc-number>
+<kind>A</kind>
+<name>Stringer et al.</name>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>6095092</doc-number>
+<kind>A</kind>
+<name>Chou</name>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>6150826</doc-number>
+<kind>A</kind>
+<name>Hokodate et al.</name>
+<date>20001100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>6257061</doc-number>
+<kind>B1</kind>
+<name>Nonoyama et al.</name>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>6366099</doc-number>
+<kind>B1</kind>
+<name>Reddi</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>6376939</doc-number>
+<kind>B1</kind>
+<name>Suzuki et al.</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>6492802</doc-number>
+<kind>B1</kind>
+<name>Bielski</name>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>6757602</doc-number>
+<kind>B2</kind>
+<name>Breed et al.</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>7173537</doc-number>
+<kind>B2</kind>
+<name>Voigtlaender</name>
+<date>20070200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>7284467</doc-number>
+<kind>B2</kind>
+<name>Gass et al.</name>
+<date>20071000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 83 58</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>7421932</doc-number>
+<kind>B1</kind>
+<name>Heinzmann et al.</name>
+<date>20080900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>2004/0123709</doc-number>
+<kind>A1</kind>
+<name>Metzger, Jr.</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 83 761</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>DE</country>
+<doc-number>76186</doc-number>
+<date>19210800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>DE</country>
+<doc-number>2800403</doc-number>
+<date>19790700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>DE</country>
+<doc-number>4235161</doc-number>
+<date>19930500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>DE</country>
+<doc-number>4326313</doc-number>
+<date>19950200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>DE</country>
+<doc-number>19609771</doc-number>
+<date>19980600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>EP</country>
+<doc-number>0362937</doc-number>
+<date>19900400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>FR</country>
+<doc-number>2556643</doc-number>
+<date>19850600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>FR</country>
+<doc-number>2570017</doc-number>
+<date>19860300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>GB</country>
+<doc-number>1132708</doc-number>
+<date>19681100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00045">
+<othercit>Gordon Engineering Corp., Product Catalog, pgs. cover, 1, 3 and back, Brookfield, Connecticut, US, Oct. 1997.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00046">
+<othercit>Analog Devices, Inc., 3-Axis Capacitive Sensor&#x2014;Preliminary Technical Data AD7103, pp. 1-40,&#xa9; 1998.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00047">
+<othercit><i>Microelectronic Circuits</i>, Sedra et al., pp. 995-997, 1998.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00048">
+<othercit>U.S. Appl. No. 60/157,340, filed Oct. 1, 1999, entitled &#x201c;Fast-Acting Safety Stop.&#x201d;</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00049">
+<othercit>U.S. Appl. No. 60/182,866, filed Feb. 16, 2000, entitled &#x201c;Fast-Acting Safety Stop.&#x201d;</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00050">
+<othercit>IWF 2000 Challengers Award Official Entry Form, submitted Apr. 26, 2000, 6 pages plus CD (the portions of U.S. patent applications referenced in the form are from U.S. Appl. No. 60/157,340, filed Oct. 1, 1999 and U.S. Appl.No. 60/182,866, filed Feb. 16, 2000).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00051">
+<othercit><i>Young Inventor: Teen's Device Earns Her Trip to Science Fair, The Arizona Republic</i>, May 5, 2006.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00052">
+<othercit>Operator Injury Mitigation Using Electronic Sensing and Mechanical Braking and Decoupling Devices in Handheld Circular Saws, Erin F. Eppard, date unknown.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00053">
+<othercit><i>You Should Have Invented It</i>, French television show DVD/video, date unknown.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>5</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 83 621</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 83DIG 1</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 83 58</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 834713</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 834771</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 83490</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 83589</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 833971</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 834772</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 83297</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 83644</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>320166</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>320562</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>320658</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>320663</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>320665-668</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>320675</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>320686</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>320688</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>320698</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>361181</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>361281</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>361286</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>361179</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>12</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>09929221</doc-number>
+<kind>00</kind>
+<date>20010813</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7284467</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11975985</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60255056</doc-number>
+<kind>00</kind>
+<date>20001211</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60255057</doc-number>
+<kind>00</kind>
+<date>20001212</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60255058</doc-number>
+<kind>00</kind>
+<date>20001214</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60255059</doc-number>
+<kind>00</kind>
+<date>20001214</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60255089</doc-number>
+<kind>00</kind>
+<date>20001212</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60255094</doc-number>
+<kind>00</kind>
+<date>20001212</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60255169</doc-number>
+<kind>00</kind>
+<date>20001213</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60255170</doc-number>
+<kind>00</kind>
+<date>20001213</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60255200</doc-number>
+<kind>00</kind>
+<date>20001211</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60255201</doc-number>
+<kind>00</kind>
+<date>20001213</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60255206</doc-number>
+<kind>00</kind>
+<date>20001213</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60255210</doc-number>
+<kind>00</kind>
+<date>20001213</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60225211</doc-number>
+<kind>00</kind>
+<date>20000814</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60255212</doc-number>
+<kind>00</kind>
+<date>20001212</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080041204</doc-number>
+<kind>A1</kind>
+<date>20080221</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Gass</last-name>
+<first-name>Stephen F.</first-name>
+<address>
+<city>Wilsonville</city>
+<state>OR</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>SD3, LLC</orgname>
+<role>02</role>
+<address>
+<city>Tualatin</city>
+<state>OR</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Alie</last-name>
+<first-name>Ghassem</first-name>
+<department>3724</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Woodworking machines are disclosed having electrically conductive cutting tools adapted to cut workpieces. The machines include a contact detection system capacitively coupled to the cutting tool, and adapted to detect contact between a person and the cutting tool. The machines also include a reaction system configured to cause one or more predetermined actions to take place upon detection of contact between a person and the cutting tool by the contact detection system.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="97.79mm" wi="138.85mm" file="US07640835-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="236.39mm" wi="170.18mm" orientation="landscape" file="US07640835-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="183.81mm" wi="132.16mm" orientation="landscape" file="US07640835-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="237.83mm" wi="154.69mm" file="US07640835-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="219.29mm" wi="152.57mm" file="US07640835-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="225.64mm" wi="168.83mm" file="US07640835-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="224.79mm" wi="165.02mm" file="US07640835-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="211.67mm" wi="153.50mm" file="US07640835-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation of U.S. patent application Ser. No. 09/929,221, filed Aug. 13, 2001, issuing as U.S. Pat. No. 7,284,467 on Oct. 23, 2007, which in turn claims the benefit of and priority from the following U.S. Provisional Patent Applications: 60/255,056 filed Dec. 11, 2000, 60/255,057 filed Dec. 12, 2000, 60/255,058 filed Dec. 14, 2000, 60/255,059 filed Dec. 14, 2000, 60/255,089 filed Dec. 12, 2000, 60/255,094 filed Dec. 12, 2000, 60/255,169 filed Dec. 13, 2000, 60/255,170 filed Dec. 13, 2000, 60/255,200 filed Dec. 11, 2000, 60/255,201 filed Dec. 13, 2000, 60/255,206 filed Dec. 13, 2000, 60/255,210 filed Dec. 13, 2000, 60/225,211filed Aug. 14, 2000, and 60/255,212filed Dec. 12, 2000.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">FIELD</heading>
+<p id="p-0003" num="0002">The present invention relates to safety systems, and more particularly to a high-speed safety system for use on power equipment.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">Beginning with the industrial revolution and continuing to the present, mechanized equipment has allowed workers to produce goods with greater speed and less effort than possible with manually-powered tools. Unfortunately, the power and high operating speeds of mechanized equipment creates a risk for those operating such machinery. Each year thousands of people are maimed or killed by accidents involving power equipment.</p>
+<p id="p-0005" num="0004">As might be expected, many systems have been developed to minimize the risk of injury when using power equipment. Probably the most common safety feature is a guard that physically blocks an operator from making contact with dangerous components of machinery, such as belts, shafts or blades. In many cases, guards are effective to reduce the risk of injury, however, there are many instances where the nature of the operations to be performed precludes using a guard that completely blocks access to hazardous machine parts.</p>
+<p id="p-0006" num="0005">Various systems have been proposed to prevent accidental injury where guards cannot effectively be employed. For instance, U.S. Pat. Nos. 3,953,770, 4,075,961, 4,470,046, 4,532,501 and 5,212,621, the disclosures of which are incorporated herein by reference, disclose radio-frequency safety systems which utilize radio-frequency signals to detect the presence of a user's hand in a dangerous area of the machine and thereupon prevent or interrupt operation of the machine.</p>
+<p id="p-0007" num="0006">U.S. Pat. Nos. 4,959,909, 5,025,175, 5,122,091, 5,198,702, 5,201,684, 5,272,946, and 5,510,685 disclose safety systems for use with meat-skinning equipment, and are incorporated herein by reference. These systems interrupt or reverse power to the motor, or disengage a clutch, upon contact with a user's hand by any dangerous portion of the machine. Typically, contact between the user and the machine is detected by monitoring for electrical contact between a fine wire mesh in a glove worn by the user and some metal component in the dangerous area of the machine. Although such systems are suitable for use with meat skinning machines, they are relatively slow to stop the motion of the cutting element because they rely on the operation of solenoids or must overcome the inertia of the motor. However, because these systems operate at relatively low speeds, the blade does not need to be stopped rapidly to prevent serious injury to the user.</p>
+<p id="p-0008" num="0007">U.S. Pat. Nos. 3,785,230 and 4,026,177, the disclosures of which are herein incorporated by reference, disclose a safety system for use on circular saws to stop the blade when a user's hand approaches the blade. The system uses the blade as an antenna in an electromagnetic proximity detector to detect the approach of a user's hand prior to actual contact with the blade. Upon detection of a user's hand, the system engages a brake using a standard solenoid. Unfortunately, such a system is prone to false triggers and is relatively slow acting because of the solenoid.</p>
+<p id="p-0009" num="0008">U.S. Pat. No. 4,117,752, which is herein incorporated by reference, discloses a similar braking system for use with a band saw, where the brake is triggered by actual contact between the user's hand and the blade. However, the system described for detecting blade contact does not appear to be functional to accurately and reliably detect contact. Furthermore, the system relies on standard electromagnetic brakes operating off of line voltage to stop the blade and pulleys of the band saw. It is believed that such brakes would take 50 ms-1 s to stop the blade. Therefore, the system is too slow to stop the blade quickly enough to avoid serious injury.</p>
+<p id="p-0010" num="0009">None of these existing systems have operated with sufficient speed and/or reliability to prevent serious injury with many types of commonly used power tools. Although proximity-type sensors can be used with some equipment to increase the time available to stop the moving pieces, in many cases the user's hands must be brought into relatively close proximity to the cutting element in the normal course of operation. For example, many types of woodworking equipment require that the user's hands pass relatively close to the cutting tools. As a result, existing proximity-type sensors, which are relatively imprecise, have not proven effective with this type of equipment.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic block diagram of a machine with a fast-acting safety system according to the present invention.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic diagram of an exemplary safety system in the context of a machine having a circular blade.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 3</figref> is a schematic side elevation of an exemplary embodiment according to the present invention, showing the electrical isolation of the blade from the arbor and the mounting of the charge plates to capacitively couple to the blade. Indicated in dash lines are a bracket for mounting the charge plates, spacers between the charge plates and blade, and a brush contact mounted on the arbor block.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 4</figref> is a magnified cross-sectional view take generally along the line <b>4</b>-<b>4</b> in <figref idref="DRAWINGS">FIG. 3</figref>. For clarity, the mounting bracket indicated in <figref idref="DRAWINGS">FIG. 3</figref> is not shown.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic cross-sectional view of another exemplary embodiment according to the present invention in which the arbor is electrically insulated from the arbor block and the charge plates are capacitively coupled to the arbor.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 6</figref> is a top plan view showing the isolation of, and capacitive coupling to, an arbor on a contractor style table saw in accordance with another embodiment of the present invention.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 7</figref> is a cross-sectional view of the embodiment of <figref idref="DRAWINGS">FIG. 6</figref> taken generally along the central elongate axis of the arbor and viewing away from the arbor block.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 8</figref> is a top plan view showing an alternative assembly for coupling the charge plates to the arbor of a contractor style table saw in accordance with the present invention.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 9</figref> is a cross-sectional view taken generally along the line <b>9</b>-<b>9</b> in <figref idref="DRAWINGS">FIG. 8</figref>.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 10</figref> is a schematic side elevation of a further embodiment according to the present invention in the context of a band saw.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 11</figref> is a magnified cross-sectional view taken generally along the line <b>11</b>-<b>11</b> in <figref idref="DRAWINGS">FIG. 10</figref>.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 12</figref> is a side elevation of another embodiment according to the present invention in which contact with a guard is detected in the context of a radial arm saw.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0023" num="0022">A machine according to the present invention is shown schematically in <figref idref="DRAWINGS">FIG. 1</figref> and indicated generally at <b>10</b>. Machine <b>10</b> may be any of a variety of different machines adapted for cutting workpieces, such as wood, including a table saw, miter saw (chop saw), radial arm saw, circular saw, band saw, jointer, planer, etc. Machine <b>10</b> includes an operative structure <b>12</b> having a cutting tool <b>14</b> and a motor assembly <b>16</b> adapted to drive the cutting tool. Machine <b>10</b> also includes a safety system <b>18</b> configured to minimize the potential of a serious injury to a person using machine <b>10</b>. Safety system <b>18</b> is adapted to detect the occurrence of one or more dangerous conditions during use of machine <b>10</b>. If such a dangerous condition is detected, safety system <b>18</b> is adapted to engage operative structure <b>12</b> to limit any injury to the user caused by the dangerous condition.</p>
+<p id="p-0024" num="0023">Machine <b>10</b> also includes a suitable power source <b>20</b> to provide power to operative structure <b>12</b> and safety system <b>18</b>. Power source <b>20</b> may be an external power source such as line current, or an internal power source such as a battery. Alternatively, power source <b>20</b> may include a combination of both external and internal power sources. Furthermore, power source <b>20</b> may include two or more separate power sources, each adapted to power different portions of machine <b>10</b>.</p>
+<p id="p-0025" num="0024">It will be appreciated that operative structure <b>12</b> may take any one of many different forms, depending on the type of machine <b>10</b>. For example, operative structure <b>12</b> may include a stationary housing configured to support motor assembly <b>16</b> in driving engagement with cutting tool <b>14</b>. Alternatively, operative structure <b>12</b> may include a movable structure configured to carry cutting tool <b>14</b> between multiple operating positions. As a further alternative, operative structure <b>12</b> may include one or more transport mechanisms adapted to convey a workpiece toward and/or away from cutting tool <b>14</b>.</p>
+<p id="p-0026" num="0025">Motor assembly <b>16</b> includes one or more motors adapted to drive cutting tool <b>14</b>. The motors may be either directly or indirectly coupled to the cutting tool, and may also be adapted to drive workpiece transport mechanisms. Cutting tool <b>14</b> typically includes one or more blades or other suitable cutting implements that are adapted to cut or remove portions from the workpieces. The particular form of cutting tool <b>14</b> will vary depending upon the various embodiments of machine <b>10</b>. For example, in table saws, miter saws, circular saws and radial arm saws, cutting tool <b>14</b> will typically include one or more circular rotating blades having a plurality of teeth disposed along the perimetrical edge of the blade. For a jointer or planer, the cutting tool typically includes a plurality of radially spaced-apart blades. For a band saw, the cutting tool includes an elongate, circuitous tooth-edged band.</p>
+<p id="p-0027" num="0026">Safety system <b>18</b> includes a detection subsystem <b>22</b>, a reaction subsystem <b>24</b> and a control subsystem <b>26</b>. Control subsystem <b>26</b> may be adapted to receive inputs from a variety of sources including detection subsystem <b>22</b>, reaction subsystem <b>24</b>, operative structure <b>12</b> and motor assembly <b>16</b>. The control subsystem may also include one or more sensors adapted to monitor selected parameters of machine <b>10</b>. In addition, control subsystem <b>26</b> typically includes one or more instruments operable by a user to control the machine. The control subsystem is configured to control machine <b>10</b> in response to the inputs it receives.</p>
+<p id="p-0028" num="0027">Detection subsystem <b>22</b> is configured to detect one or more dangerous, or triggering, conditions during use of machine <b>10</b>. For example, the detection subsystem may be configured to detect that a portion of the user's body is dangerously close to, or in contact with, a portion of cutting tool <b>14</b>. As another example, the detection subsystem may be configured to detect the rapid movement of a workpiece due to kickback by the cutting tool, as is described in U.S. Provisional Patent Application Ser. No. 60/182,866, the disclosure of which is herein incorporated by reference. In some embodiments, detection subsystem <b>22</b> may inform control subsystem <b>26</b> of the dangerous condition, which then activates reaction subsystem <b>24</b>. In other embodiments, the detection subsystem may be adapted to activate the reaction subsystem directly.</p>
+<p id="p-0029" num="0028">Once activated in response to a dangerous condition, reaction subsystem <b>24</b> is configured to engage operative structure <b>12</b> quickly to prevent serious injury to the user. It will be appreciated that the particular action to be taken by reaction subsystem <b>24</b> will vary depending on the type of machine <b>10</b> and/or the dangerous condition that is detected. For example, reaction subsystem <b>24</b> may be configured to do one or more of the following: stop the movement of cutting tool <b>14</b>, disconnect motor assembly <b>16</b> from power source <b>20</b>, place a barrier between the cutting tool and the user, or retract the cutting tool from its operating position, etc. The reaction subsystem may be configured to take a combination of steps to protect the user from serious injury. Placement of a barrier between the cutting tool and teeth is described in more detail in U.S. Provisional Patent Application Ser. No. 60/225,206, entitled &#x201c;Cutting Tool Safety System,&#x201d; filed Aug. 14, 2000 by SD3, LLC, the disclosure of which is herein incorporated by reference. Retraction of the cutting tool from its operating position is described in more detail in U.S. Provisional Patent Application Ser. No. 60/225,089, entitled &#x201c;Retraction System For Use In Power Equipment,&#x201d; filed Aug. 14, 2000 by SD3, LLC, the disclosure of which is herein incorporated by reference.</p>
+<p id="p-0030" num="0029">The configuration of reaction subsystem <b>24</b> typically will vary depending on which action(s) are taken. In the exemplary embodiment depicted in <figref idref="DRAWINGS">FIG. 1</figref>, reaction subsystem <b>24</b> is configured to stop the movement of cutting tool <b>14</b> and includes a brake mechanism <b>28</b>, a biasing mechanism <b>30</b>, a restraining mechanism <b>32</b>, and a release mechanism <b>34</b>. Brake mechanism <b>28</b> is adapted to engage operative structure <b>12</b> under the urging of biasing mechanism <b>30</b>. During normal operation of machine <b>10</b>, restraining mechanism <b>32</b> holds the brake mechanism out of engagement with the operative structure. However, upon receipt of an activation signal by reaction subsystem <b>24</b>, the brake mechanism is released from the restraining mechanism by release mechanism <b>34</b>, whereupon, the brake mechanism quickly engages at least a portion of the operative structure to bring the cutting tool to a stop.</p>
+<p id="p-0031" num="0030">It will be appreciated by those of skill in the art that the exemplary embodiment depicted in <figref idref="DRAWINGS">FIG. 1</figref> and described above may be implemented in a variety of ways depending on the type and configuration of operative structure <b>12</b>. Turning attention to <figref idref="DRAWINGS">FIG. 2</figref>, one example of the many possible implementations of safety system <b>18</b> is shown. System <b>18</b> is configured to engage an operative structure having a cutting tool in the form of a circular blade <b>40</b> mounted on a rotating shaft or arbor <b>42</b>. Blade <b>40</b> includes a plurality of cutting teeth (not shown) disposed around the outer edge of the blade. As described in more detail below, braking mechanism <b>28</b> is adapted to engage the teeth of blade <b>40</b> and stop the rotation of the blade. U.S. Provisional Patent Application Ser. No. 60/225,210, entitled &#x201c;Translation Stop For Use In Power Equipment,&#x201d; filed Aug. 14, 2000 by SD3, LLC, the disclosure of which is herein incorporated by reference, describes other systems for stopping the movement of the cutting tool. U.S. Provisional Patent Application Ser. No. 60/225,058, entitled &#x201c;Table Saw With Improved Safety System,&#x201d; filed Aug. 14, 2000 by SD3, LLC, and U.S. Provisional Patent Application Ser. No. 60/225,057, entitled &#x201c;Miter Saw With Improved Safety System,&#x201d; filed Aug. 14, 2000 by SD3, LLC, the disclosures of which are herein incorporated by reference, describe safety system <b>18</b> in the context of particular types of machines <b>10</b>.</p>
+<p id="p-0032" num="0031">In the exemplary implementation, detection subsystem <b>22</b> is adapted to detect the dangerous condition of the user coming into contact with blade <b>40</b>. The detection subsystem includes a sensor assembly, such as contact detection plates <b>44</b> and <b>46</b>, configured to detect any contact between the user's body and the blade. The detection subsystem is adapted to transmit a signal to control subsystem <b>26</b> when contact between the user and the blade is detected. Various exemplary embodiments and implementations of detection subsystem <b>22</b> are described in more detail in U.S. Provisional Patent Application Ser. No. 60/225,200, entitled &#x201c;Contact Detection System For Power Equipment,&#x201d; filed Aug. 14, 2000 by SD3, LLC, the disclosure of which is herein incorporated by reference.</p>
+<p id="p-0033" num="0032">Control subsystem <b>26</b> includes one or more instruments <b>48</b> that are operable by a user to control the motion of blade <b>40</b>. Instruments <b>48</b> may include start/stop switches, speed controls, direction controls, etc. Control subsystem <b>26</b> also includes a logic controller <b>50</b> connected to receive the user's inputs via instruments <b>48</b>. Logic controller <b>50</b> is also connected to receive a contact detection signal from detection subsystem <b>22</b>. Further, the logic controller may be configured to receive inputs from other sources (not shown) such as blade motion sensors, workpiece sensors, etc. In any event, the logic controller is configured to control operative structure <b>12</b> in response to the user's inputs through instruments <b>48</b>. However, upon receipt of a contact detection signal from detection subsystem <b>22</b>, the logic controller overrides the control inputs from the user and activates reaction subsystem <b>24</b> to stop the motion of the blade. Various exemplary embodiments and implementations of control subsystem <b>26</b> are described in more detail in U.S. Provisional Patent Application Ser. No. 60/225,059, entitled &#x201c;Logic Control For Fast Acting Safety System,&#x201d; filed Aug. 14, 2000 by SD3, LLC, and U.S. Provisional Patent Application Ser. No. 60/225,094, entitled &#x201c;Motion Detecting System For Use In Safety System For Power Equipment,&#x201d; filed Aug. 14, 2000 by SD3, LLC, the disclosures of which are herein incorporated by reference.</p>
+<p id="p-0034" num="0033">In the exemplary implementation, brake mechanism <b>28</b> includes a pawl <b>60</b> mounted adjacent the edge of blade <b>40</b> and selectively moveable to engage and grip the teeth of the blade. Pawl <b>60</b> may be constructed of any suitable material adapted to engage and stop the blade. As one example, the pawl may be constructed of a relatively high strength thermoplastic material such as polycarbonate, ultrahigh molecular weight polyethylene (UHMW) or Acrylonitrile Butadiene Styrene (ABS), etc., or a metal such as aluminum, etc. It will be appreciated that the construction of pawl <b>60</b> will vary depending on the configuration of blade <b>40</b>. In any event, the pawl is urged into the blade by a biasing mechanism in the form of a spring <b>66</b>. In the illustrative embodiment shown in <figref idref="DRAWINGS">FIG. 2</figref>, pawl <b>60</b> is pivoted into the teeth of blade <b>40</b>. It should be understood that sliding or rotary movement of pawl <b>60</b> may also be used. The spring is adapted to urge pawl <b>60</b> into the teeth of the blade with sufficient force to grip the blade and quickly bring it to a stop.</p>
+<p id="p-0035" num="0034">The pawl is held away from the edge of the blade by a restraining mechanism in the form of a fusible member <b>70</b>. The fusible member is constructed of a suitable material adapted to restrain the pawl against the bias of spring <b>66</b>, and also adapted to melt under a determined electrical current density. Examples of suitable materials for fusible member <b>70</b> include NiChrome wire, stainless steel wire, etc. The fusible member is connected between the pawl and a contact mount <b>72</b>. Preferably fusible member <b>70</b> holds the pawl relatively close to the edge of the blade to reduce the distance the pawl must travel to engage the blade. Positioning the pawl relatively close to the edge of the blade reduces the time required for the pawl to engage and stop the blade. Typically, the pawl is held approximately 1/32-inch to &#xbc;-inch from the edge of the blade by fusible member <b>70</b>, however other pawl-to-blade spacings may also be used within the scope of the invention.</p>
+<p id="p-0036" num="0035">Pawl <b>60</b> is released from its unactuated, or cocked, position to engage blade <b>40</b> by a release mechanism in the form of a firing subsystem <b>76</b>. The firing subsystem is coupled to contact mount <b>72</b>, and is configured to melt fusible member <b>70</b> by passing a surge of electrical current through the fusible member. Firing subsystem <b>76</b> is coupled to logic controller <b>50</b> and activated by a signal from the logic controller. When the logic controller receives a contact detection signal from detection subsystem <b>22</b>, the logic controller sends an activation signal to firing subsystem <b>76</b>, which melts fusible member <b>70</b>, thereby releasing the pawl to stop the blade. Various exemplary embodiments and implementations of reaction subsystem <b>24</b> are described in more detail in U.S. Provisional Patent Application Ser. No. 60/225,056, entitled &#x201c;Firing Subsystem For Use In Fast Acting Safety System,&#x201d; filed Aug. 14, 2000 by SD3, LLC, U.S. Provisional Patent Application Ser. No. 60/225,170, entitled &#x201c;Spring-Biased Brake Mechanism for Power Equipment,&#x201d; filed Aug. 14, 2000 by SD3, LLC, and U.S. Provisional Patent Application Ser. No. 60/225,169, entitled &#x201c;Brake Mechanism For Power Equipment,&#x201d; filed Aug. 14, 2000 by SD3, LLC, the disclosures of which are herein incorporated by reference.</p>
+<p id="p-0037" num="0036">It will be appreciated that activation of the brake mechanism will require the replacement of one or more portions of safety system <b>18</b>. For example, pawl <b>60</b> and fusible member <b>70</b> typically must be replaced before the safety system is ready to be used again. Thus, it may be desirable to construct one or more portions of safety system <b>18</b> in a cartridge that can be easily replaced. For example, in the exemplary implementation depicted in <figref idref="DRAWINGS">FIG. 2</figref>, safety system <b>18</b> includes a replaceable cartridge <b>80</b> having a housing <b>82</b>. Pawl <b>60</b>, spring <b>66</b>, fusible member <b>70</b> and contact mount <b>72</b> are all mounted within housing <b>82</b>. Alternatively, other portions of safety system <b>18</b> may be mounted within the housing. In any event, after the reaction system has been activated, the safety system can be reset by replacing cartridge <b>80</b>. The portions of safety system <b>18</b> not mounted within the cartridge may be replaced separately or reused as appropriate. Various exemplary embodiments and implementations of a safety system using a replaceable cartridge are described in more detail in U.S. Provisional Patent Application Ser. No. 60/225,201, entitled &#x201c;Replaceable Brake Mechanism For Power Equipment,&#x201d; filed Aug. 14, 2000 by SD3, LLC, and U.S. Provisional Patent Application Ser. No. 60/225,212, entitled &#x201c;Brake Positioning System,&#x201d; filed Aug. 14, 2000 by SD3, LLC, the disclosures of which are herein incorporated by reference.</p>
+<p id="p-0038" num="0037">While one particular implementation of safety system <b>18</b> has been described, it will be appreciated that many variations and modifications are possible within the scope of the invention. Many such variations and modifications are described in U.S. Provisional Patent Application Ser. Nos. 60/182,866 and 60/157,340, the disclosures of which are herein incorporated by reference.</p>
+<p id="p-0039" num="0038">As mentioned above, contact detection plates <b>44</b> and <b>46</b> are used to detect contact between the user's body and cutting tool <b>14</b>. It will be appreciated that detection subsystem <b>22</b> may employ any one or more of a wide variety of methods for detecting contact between the blade and a user's body. In view of the relatively high response speed of electronic signals and circuits, one suitable method includes using electrical circuitry to detect an electronic connection between a user and the cutting tool. It has been found that the capacitance of a user's body, as measured through dry contact with a portion of the user's body, is approximately 25-200 picofarads. The measured contact capacitance tends to increase with increasing body size and with increased coupling between the user's body and an electrical ground.</p>
+<p id="p-0040" num="0039">As a result of the inherent capacitance of a user's body, when the user touches cutting tool <b>14</b>, the capacitance of the user's body is electrically coupled to the inherent capacitance of the cutting tool, thereby creating an effective capacitance that is larger than the inherent capacitance of the cutting tool alone. Thus, detection subsystem <b>22</b> may be electrically coupled to measure the capacitance of the cutting tool, so that any substantial change in the measured capacitance would indicate contact between the user's body and the cutting tool.</p>
+<p id="p-0041" num="0040">The exemplary implementation depicted in <figref idref="DRAWINGS">FIG. 2</figref> illustrates a detection subsystem <b>22</b> that is configured to detect contact between a user and the cutting tool through a capacitive coupling between the blade and plates <b>44</b>, <b>46</b>. Detection system <b>22</b> includes suitable electrical circuitry (e.g., such as described in U.S. Provisional Patent Application Ser. No. 60/225,200, entitled Contact Detection System for Power Equipment, filed Aug. 14, 2000, by SD3, LLC) to transmit an input signal to plate <b>44</b>, and to detect the input signal through plate <b>46</b>. Plate <b>44</b> is mounted close to, but spaced-apart from, blade <b>40</b>. Plate <b>44</b> is capacitively coupled to the saw blade by virtue of its size and placement parallel to and spaced-apart from the saw blade. Plate <b>46</b> is also mounted close to, but spaced-apart from, the saw blade to establish a second capacitive coupling. It is within the scope of the present invention that the number, size and placement of charge plates may vary.</p>
+<p id="p-0042" num="0041">The effect of this arrangement is to form two capacitors in series through the blade, creating a capacitive shunt at the junction between the capacitors. Plates <b>44</b> and <b>46</b> function as charge plates of the capacitors. The input signal is capacitively coupled from charge plate <b>44</b> onto blade <b>40</b>, and then capacitively coupled from the blade to charge plate <b>46</b>. Any change in the capacitance of the blade changes the signal coupled to charge plate <b>46</b>.</p>
+<p id="p-0043" num="0042">When a user touches blade <b>40</b>, the capacitance of the user's body creates a capacitive load on the blade. As a result, the size of the capacitive shunt between the charge plates and the blade is increased, thereby reducing the charge that reaches plate <b>46</b>. Thus, the magnitude of the input signal passed through the blade to plate <b>46</b> decreases when a user touches the blade. Detection subsystem <b>22</b> is configured to detect this change in the input signal and transmit a contact detection signal to logic controller <b>50</b>.</p>
+<p id="p-0044" num="0043">In some cases, there may be a significant amount of resistance at the contact point of the user's dry skin and the blade. This resistance may reduce the capacitive coupling of the user's body to the blade. However, when the teeth on the blade penetrate the outer layer of the user's skin, the moisture inherent in the internal tissue of skin will tend to decrease the resistance of the skin/blade contact, thereby establishing a solid electrical connection. The sensitivity of detection subsystem <b>22</b> can be adjusted as desired to recognize even slight changes in the input signal.</p>
+<p id="p-0045" num="0044">Generally speaking, the spacing of the charge plates from the blade is not critical, and may vary depending on the charge plate area and the desired capacitive coupling with the blade. However, it may be desirable to separate the plates from the blade by a distance selected to reduce the effect of deflections in the blade on the capacitance between the blade and the plates. For instance, if the blade is displaced 1/32 of an inch toward one of the plates by loads created during cutting operations, the capacitance to that plate is increased. Since the capacitance is proportional to the area of the plate divided by the spacing, a relatively large spacing reduces the relative effect of a given blade displacement. Distances in the range of approximately 1/32 inch and approximately &#xbd; inch have proven effective, although values outside this range could be used under appropriate circumstances.</p>
+<p id="p-0046" num="0045">It will be appreciated that the charge plates may be positioned at any point adjacent one or both sides and/or the perimeter of the blade. In the exemplary embodiment, the plates are disposed relatively close to the center of the blade. Since the deflection of the blade typically is at a minimum near the arbor upon which it is mounted, placing the charge plates close to the arbor has the advantage of minimizing the effect of blade deflection on the capacitive coupling between the plates and the blade. In various alternative embodiments, the outer edges of at least one of the charge plates is radially spaced within 50%, 40%, 30%, 20% or 10% of the blade's radius from the center of the blade.</p>
+<p id="p-0047" num="0046">The charge plates may be mounted within machine <b>10</b> in any suitable fashion known to those of skill in the art. For example, in the exemplary embodiment depicted in <figref idref="DRAWINGS">FIG. 3</figref>, operative structure <b>12</b> includes a pivotal arbor block <b>250</b> adapted to support arbor <b>42</b>. The charge plates are mounted on a support member <b>251</b> (shown in dashed lines in <figref idref="DRAWINGS">FIG. 3</figref>), which is attached to arbor block <b>250</b>. As a result, charge plates <b>44</b> and <b>46</b> pivot with the arbor block, thereby maintaining their position adjacent the blade. Alternatively, the charge plates may be mounted in a stationary configuration.</p>
+<p id="p-0048" num="0047">In an alternative embodiment, at least one of the charge plates may include one or more insulating spacers <b>252</b> mounted on the side of the charge plate adjacent the blade, such as shown in <figref idref="DRAWINGS">FIGS. 3 and 4</figref>. Spacers <b>252</b> act as physical barriers to prevent the blade from deflecting too close to the charge plate. This may be especially useful when the distances between the charge plates and the blade are relatively small. The spacers may be constructed of any suitable electrically insulating material, including ceramic, glass, plastic, etc. In the exemplary embodiment depicted in <figref idref="DRAWINGS">FIGS. 3 and 4</figref>, spacers <b>252</b> cover only a small portion of the area between the charge plates and the blade. As a result, the spacers have relatively little effect on the capacitance between the blade and the plate. Alternatively, the spacers may cover a substantially larger portion, or even all of the space between the charge plates and the blade. In this latter case, the spacer will function, at least partially, as the dielectric between the conductive surfaces of the charge plates and the blade. Thus, the capacitance between the blade and the charge plates will depend on the dielectric constant of the spacer.</p>
+<p id="p-0049" num="0048">In addition to the one or more spacers mounted between the charge plates and the blade, opposing spacers (not shown) may be mounted on the side of the blade opposite the charge plates to prevent the blade from deflecting too far from the charge plates. Alternatively, one charge plate may be mounted on the opposite side of the blade from the other charge plate. Further, the spacers may be designed to slide on the surface of the blade as it moves. Additionally, if the charge plates are mounted to move into and away from the side of the blade, and resiliently biased toward the blade, the charge plates and spaces will move with any deflections of the blade, thereby maintaining contact between the spacers and blade even when the blade is deflected. An advantage of this arrangement is the close spacing that can be established and maintained, thereby reducing the size of the plates and maintaining a constant capacitance between the charge plate and blade.</p>
+<p id="p-0050" num="0049">It will be appreciated that the size of charge plates <b>44</b> and <b>46</b> may also vary. Typical plate areas are between 1 and 10 square inches, although many different sizes may be used, including sizes outside of this typical range. In the exemplary embodiment, the charge plate sizes are selected, in conjunction with charge plate spacing and dielectric material, to provide a charge plate-to-blade capacitance that is comparable (e.g., within an order of magnitude) with the capacitance of the human body. This configuration serves to improve the signal-to-noise ratio of the input signal detected by charge plate <b>46</b>. Furthermore, charge plate <b>44</b> may be a different size than charge plate <b>46</b> and/or be spaced closer or farther apart from the blade to provide different capacitances. For example, it may be desirable to size drive charge plate <b>44</b> larger than sense charge plate <b>46</b> to increase the coupling of the drive charge plate.</p>
+<p id="p-0051" num="0050">An example of a suitable charge plate material is copper-plated printed circuit board, which is relatively rigid, flat and thin. Other examples include any relatively electrically conductive material such as gold, aluminum, copper, steel, etc. The charge plates may take any shape suitable for the particular clearances of machine <b>10</b>. Where there are large grounded metal structures near the blade, a larger driving charge plate <b>44</b> can be used to partially shield the blade from capacitive coupling to the grounded structure. Although the larger plate also will have increased capacitive coupling to the grounded structure, this does not interfere with the operation of detection subsystem <b>22</b> because the detection subsystem is capable of driving much larger capacitance loads than are created under these circumstances.</p>
+<p id="p-0052" num="0051">It will be appreciated by those of skill in the art that blade <b>40</b> should be insulated from electrical ground to allow the input signal to be capacitively coupled from charge plate <b>44</b> to charge plate <b>46</b>. In the exemplary embodiment depicted in <figref idref="DRAWINGS">FIGS. 3 and 4</figref>, blade <b>40</b> is electrically isolated from arbor <b>42</b> on which it rides, thus insulating the blade from ground and the remaining structure of the machine. There are a variety of suitable arrangements for providing electrical insulation between the blade and the arbor, which may vary depending on the particular configuration of machine <b>10</b>. For example, in the case of a &#x215d;-inch arbor shaft <b>42</b>, blade <b>40</b> can be formed with a one-inch diameter hole into which a 3/16-inch thick cylindrical plastic bushing <b>253</b> is fitted, such as shown in <figref idref="DRAWINGS">FIGS. 3 and 4</figref>. Insulating washers <b>254</b> are disposed on either side of the blade to isolate the blade from the arbor flange <b>255</b> and arbor washer <b>256</b>. The insulating washers should be thick enough that only negligible capacitance is created between the blade and the grounded arbor flange and washer. A typical thickness is approximately &#x215b;-inch, although 1/32-inch or less may be suitable depending on other factors. In addition, it is possible to construct some or all of the arbor components from non-conductive materials, such as ceramic, to reduce or eliminate the need for electrical isolation from the arbor.</p>
+<p id="p-0053" num="0052">An arbor nut <b>257</b> holds the entire blade assembly on arbor <b>42</b>. Friction established by tightening the arbor nut allows torque from the arbor to be transmitted to the saw blade. It is preferable, although not essential, that the blade be able to slip slightly on the arbor in the event of a sudden stop by the brake to reduce the mass that must be stopped and decrease the chance of damage to the blade, arbor, and/or other components in the drive system of the saw. Furthermore, it may be desirable to construct the bushing from a material that is soft enough to deform when the blade is stopped suddenly. For example, depending on the type of braking system used, a substantial radial impact load may be transmitted to the arbor when the brake is actuated. A deformable bushing can be used to absorb some of this impact and reduce the chance of damage to the arbor. In addition, proper positioning of the brake in combination with a deformable bushing may be employed to cause the blade to move away from the user upon activation of the brake, as is discussed U.S. Provisional Application Ser. No. 60/225,089, entitled Retraction System for Use in Power Equipment, filed Aug. 14, 2000, by SD3, LLC.</p>
+<p id="p-0054" num="0053">It will be appreciated that the blade insulation assembly described above does not require special saw blades such as are described in U.S. Pat. No. 4,026,177. Indeed, arbor <b>42</b> may be sized to fit within a plastic bushing <b>253</b> received within a standard saw blade <b>40</b> having a &#x215d;-inch diameter hole. Thus, an operator may use any standard blade on machine <b>10</b>.</p>
+<p id="p-0055" num="0054">As an alternative to insulating the blade from the arbor, the arbor and/or part of its supporting framework may be electrically isolated from ground. One benefit of this embodiment is that if the blade is electrically connected to the arbor, then the arbor itself can be used to capacitively couple the input signal from charge plate <b>44</b> to charge plate <b>46</b>. As a result, the charge plates are unlikely to interfere with installation and removal of the blade, and thus unlikely to be damaged or removed by a user. While the particular implementation of this alternative embodiment will vary with the configuration of the cutting tool, one exemplary implementation is depicted in <figref idref="DRAWINGS">FIG. 5</figref>.</p>
+<p id="p-0056" num="0055">As shown, blade <b>40</b> is mounted directly onto arbor <b>42</b>. As in <figref idref="DRAWINGS">FIG. 4</figref>, the blade is secured to the arbor by arbor flange <b>255</b>, arbor washer <b>256</b> and arbor nut <b>257</b>. The arbor is supported for rotational movement relative to an arbor block <b>250</b> by one or more bearings <b>258</b> mounted in the arbor block and spaced along the elongate axis of the arbor. However, bearings <b>258</b> do not contact the arbor directly. Instead, electrically insulating sleeves <b>259</b> are disposed between the arbor and the bearings. Arbor block <b>250</b> is movable to allow the blade to be raised and lowered, as well as to be inclined for angled cuts. A motor (not shown) drives the arbor through a belt <b>260</b> that loops over a pulley <b>261</b> on the end of the arbor opposite the blade. The belt typically is non-conducting and thus does not electrically couple the arbor to ground.</p>
+<p id="p-0057" num="0056">Sleeves <b>259</b> may be constructed of any suitable material that is relatively durable and non-conductive, including plastic, ceramic, etc. The sleeves may be configured to fit over a constant-diameter arbor as shown, or the arbor may be notched to receive the sleeves so that the outer diameter of the sleeves are flush with the outer diameter of the arbor. Furthermore, it will be appreciated that there are many other arrangements for electrically insulating the arbor. As just a few examples, sleeves <b>259</b> may be disposed between bearings <b>258</b> and arbor block <b>250</b>, or at least portions of the bearings may be constructed of non-conductive materials. For example, ceramic bearings may be used. Alternatively, larger portions of the arbor assembly may be isolated from the rest of the saw.</p>
+<p id="p-0058" num="0057">In any event, charging plates <b>44</b> and <b>46</b> are disposed alongside, but slightly spaced from, the arbor. The charging plates typically are shaped and arranged relative to the arbor to ensure adequate capacitive coupling. For example, the charging plates may be trough-shaped to conform to the cylindrical shape of the arbor, as illustrated in <figref idref="DRAWINGS">FIG. 5</figref>. Alternatively, the plates may be in the form of a ring or tube to completely surround axially-spaced portions of the arbor. The charging plates typically are supported on arbor block <b>250</b>, such as by mounts <b>262</b> extending from the frame. This arrangement ensures that the charging plates will move in tandem with the arbor when the position or angle of the blade is adjusted. The mounts usually will be configured to electrically insulate the charging plates from the frame. The charge plates can be positioned very close to the arbor because it does not deflect during use like the blade, thereby allowing smaller charge plates to be utilized.</p>
+<p id="p-0059" num="0058">Turning attention to <figref idref="DRAWINGS">FIGS. 6 and 7</figref>, an alternative arrangement for capacitively coupling charge plates <b>44</b> and <b>46</b> to arbor <b>40</b> is shown. This arrangement has proven suitable for use with contractor style table saws which are available from a variety of manufacturers. Arbor block <b>250</b> includes two spaced-apart, and generally parallel support members <b>263</b> adapted to receive bearings <b>258</b> within central recesses <b>264</b>. Electrically-insulating bushings <b>265</b> are disposed in the bearings and adapted to receive arbor <b>42</b>. Each bushing <b>265</b> includes an outer lip or flange <b>266</b> which abuts the outer edges of the bearing. The bushings may be constructed of ERTYLITE&#x2122; (PET-P), or any other electrically-insulating material adapted to support the arbor within the bearings.</p>
+<p id="p-0060" num="0059">Arbor flange <b>255</b> is integrally formed with arbor <b>42</b> and abuts against the flange of one of bushings <b>265</b>. The opposite end of arbor <b>42</b> is threaded to receive one or more locking nuts <b>267</b>, which tighten against the flange of the other bushing <b>265</b> to retain arbor <b>42</b> within bearings <b>258</b>. Pulley <b>261</b> is mounted on the arbor adjacent locking nuts <b>267</b>.</p>
+<p id="p-0061" num="0060">As shown in <figref idref="DRAWINGS">FIG. 7</figref>, bushings <b>265</b> completely insulate the arbor from the bearings and the arbor block. Alternatively, the bushings could be configured to fit between bearings <b>258</b> and support members <b>263</b>. In any event, the arbor remains securely and symmetrically positioned to rotate freely within the bearings.</p>
+<p id="p-0062" num="0061">Charge plates <b>44</b> and <b>46</b> take the form of electrically-conductive tubes having inner diameters larger that the diameter of arbor <b>42</b>. Tubes <b>44</b>, <b>46</b> may be constructed of any suitable material such as brass tube, copper pipe, etc. It will be appreciated that the size of charge tubes <b>44</b> and <b>46</b> may be selected to provide a desired capacitance with the arbor. Indeed, the size of the charge tubes may be different to provide different capacitances. For example, in the embodiment depicted in <figref idref="DRAWINGS">FIGS. 6 and 7</figref>, charge tube <b>44</b> is longer than charge tube <b>46</b>, thereby providing a higher capacitance between charge tube <b>44</b> and the arbor, than between charge tube <b>46</b> and the arbor. Alternatively, or additionally, the inside diameters of the charge tubes may be different to provide different capacitances due to different arbor-to-charge plate spacings.</p>
+<p id="p-0063" num="0062">Charge tubes <b>44</b> and <b>46</b> are received in an electrically-insulating support housing or tube <b>268</b>, having an inner diameter adapted to receive charge tubes <b>44</b> and <b>46</b>. Insulating tube <b>268</b> may be formed of any suitable electrically-insulating material such as polycarbonate, nylon, PVC, etc. The insulating tube serves to prevent the charge tubes from being grounded by the arbor block, bearings, etc. Insulating tube <b>268</b> is positioned around arbor <b>42</b> and received into inner apertures <b>269</b> in support members <b>263</b>. Inner apertures <b>269</b> are axially collinear with arbor <b>42</b>. Thus, where charge tubes <b>44</b> and <b>46</b> are centrally positioned within the insulating tube, the inner diameters of the charge tubes are automatically positioned by the insulating tube to be axially collinear or symmetrical with the arbor.</p>
+<p id="p-0064" num="0063">It will be appreciated that while the charge tubes and insulating tube in the exemplary embodiment are cylindrical, other shapes may also be used. For example, insulating tube <b>268</b> may have a rectangular outer cross-section while maintaining its circular inner cross-section. Likewise, charge tubes <b>44</b> and <b>46</b> may have any suitable outer cross-sectional shape to match the inner shape of the insulating tube. In any event, mounting the charge tubes to support members <b>263</b> ensures that the support tubes maintain the correct position about the arbor regardless of the movement of arbor block <b>250</b>.</p>
+<p id="p-0065" num="0064">In addition to electrically insulating and automatically positioning the charge tubes, insulating tube <b>268</b> also serves to enclose and protect the charge tubes from damage and debris. In the exemplary embodiment, insulating tube <b>268</b> defines a hole <b>270</b> positioned between charge tube <b>44</b> and charge tube <b>46</b> to allow electrical cables (not shown) to be soldered or otherwise connected to the charge tubes to carry the signals to and from the detection circuitry of detector subsystem <b>22</b>. Alternatively, two holes may be used, each positioned over one of the charge tubes.</p>
+<p id="p-0066" num="0065">Since the charge tubes should not come into contact with each other, the fit between the charge tubes and insulating tube is typically tight enough to frictionally prevent movement of the charge tubes along the axis of the insulating tube. Alternatively, a bump or ring may be formed or positioned on the inner diameter of the insulating tube between the charge tubes to prevent the charge tubes from coming into contact. As a further alternative, hole <b>270</b> may be used to apply a caulk, glue, epoxy, or similar material between the charge tubes and insulating tube to prevent the charge tubes from moving. As another alternative, one or more set-screws may be threaded through the insulating tube to bear against the charge tubes.</p>
+<p id="p-0067" num="0066">Turning attention now to <figref idref="DRAWINGS">FIGS. 8 and 9</figref>, an alternative embodiment of the insulating tube and charge tubes for use with a contractor style saw is depicted. Insulating tube <b>268</b> includes a hollow bore with outwardly beveled ends to receive charge tubes <b>44</b> and <b>46</b>. Each charge tube has an inner narrowed rim portion <b>271</b> to which an electrical cable (not shown) may be attached (e.g., by solder, etc.). The narrowness of rims <b>271</b> allow the cables to be attached before the charge tubes are inserted into the insulating tube. Typically, the cables are fed through hole <b>270</b>.</p>
+<p id="p-0068" num="0067">Insulating tube <b>268</b> also includes a recessed region <b>272</b> adapted to receive a Hall Effect or similar sensor assembly <b>1000</b> for detecting blade/arbor rotation. Sensor <b>1000</b> is described in more detail in U.S. Provisional Patent Application Ser. No. 60/225,094, entitled Motion Detection System for Use in Safety System for Power Equipment, filed Aug. 14, 2000, by SD3, LLC. The sensor is aligned over a hole <b>273</b> in charge tube <b>44</b> to sense the passage of a magnet disposed on the arbor (not shown). Alternatively, the sensor may be aligned over a hole <b>273</b> in charge plate <b>46</b>. In some cases, such as where charge plates <b>44</b> and <b>46</b> are identical, it may be desirable to place hole <b>273</b> in both charge plates to reduce the number of different parts for manufacture.</p>
+<p id="p-0069" num="0068">While a few exemplary arrangements for capacitively coupling the charge plates to the arbor have been described, it will be understood that there are many suitable arrangements and that the invention is not limited to any particular one. For example, if there is insufficient room between the bearings for the charge plates, one or both of the charge plates may be positioned between the bearings and the pulley, or on the side of the pulley opposite the bearings.</p>
+<p id="p-0070" num="0069">It will appreciated that one or both of the charge plates may be capacitively coupled to other portions of operative structure <b>12</b> rather than blade <b>40</b> or arbor <b>42</b>. For example, charge plates <b>44</b> and <b>46</b> may be coupled to an arbor block <b>250</b> which is electrically insulated from the remainder of the operative structure and machine <b>10</b>. In such a configuration, the blade should be electrically coupled to the arbor block. Therefore, insulating bushings between the blade and arbor, or between the arbor and arbor block, should be omitted. As additional examples, the charge plates may be coupled to the bearings, pulley, etc.</p>
+<p id="p-0071" num="0070">It also will be appreciated that charge plates <b>44</b> and <b>46</b> may be capacitively coupled to other types of cutting tools, including those with a non-circular blade or cutter. For example, <figref idref="DRAWINGS">FIGS. 10 and 11</figref> depict an exemplary embodiment in which the charge plates are capacitively coupled to the blade of a band saw <b>275</b>. Typically, band saw <b>275</b> includes a main housing <b>276</b> enclosing a pair of vertically spaced-apart wheels <b>277</b>. The perimeter of each wheel <b>277</b> is coated or covered in a high-friction material such as rubber, etc. A relatively thin, continuous loop blade <b>40</b> tightly encircles both wheels. A workpiece is cut by passing it toward blade <b>40</b> in a cutting zone <b>278</b> between wheels <b>277</b>. An upper blade-guide assembly <b>279</b> and a lower blade-guide assembly <b>280</b> maintain the revolving blade in a stable path within cutting zone <b>278</b>. The workpiece is passed toward the blade on a table <b>281</b>, which forms the bottom of the cutting zone.</p>
+<p id="p-0072" num="0071">The blade should be electrically insulated from the main housing, which usually is grounded. Thus, blade-guide assemblies <b>279</b> and <b>280</b>, which may include ball-bearing guides and/or friction pads, etc., are constructed to electrically insulate the blade from the main housing. In addition, the high-friction coating on wheels <b>277</b> electrically insulates the blade from the wheels. Alternatively, the wheels may be constructed of electrically non-conductive material.</p>
+<p id="p-0073" num="0072">Charge plates <b>44</b> and <b>46</b> may be arranged in a variety of ways depending on the application and the space constraints within the main housing. Two possible arrangements are illustrated in <figref idref="DRAWINGS">FIG. 10</figref>. In the first arrangement, charge plates <b>44</b> and <b>46</b> are disposed closely adjacent the blade as it rides along one of the wheels <b>277</b>. The charge plates may be formed in an arc to match the perimeter of the wheel and maintain a constant spacing with the blade. This arrangement has the advantage of easily maintaining a constant blade-to-charge plate spacing since the blade is held in a constant path against the perimeter of the wheel. The charge plates may be connected to the main housing via a non-conductive mount to maintain electrical insulation from the housing.</p>
+<p id="p-0074" num="0073">Another of the many possible arrangements for the charge plates includes a charge plate block <b>282</b> which is configured to extend along the blade as it travels between wheels <b>277</b>. As can best be seen in the detail view of <figref idref="DRAWINGS">FIG. 11</figref>, the charge plate block includes charge plates <b>44</b> and <b>46</b>. In the depicted implementation, the charge plate block has a substantially C-shaped cross-section sized to fit around the sides and back edge (i.e., non-toothed edge) of the blade. The charge plate block is mounted on main housing <b>276</b> and resiliently biased, such as by one or more springs <b>283</b>, toward the moving blade. Since blade <b>40</b> may tend to move or deflect slightly in its path, springs <b>283</b> ensure that the charge plate block is able to move along with blade. Charge plate block <b>282</b> typically is made of a durable, electrically non-conductive material such as ceramic, plastic, etc. Charge plates <b>44</b> and <b>46</b> are disposed on or within the charge plate block. Although the charge plates are illustrated as being disposed on opposite sides of blade <b>40</b>, the charge plates may alternatively be on the same side of the blade. The self-aligning configuration of the charge plate block ensures that the blade-to-charge plate spacing is substantially constant despite the motion of the blade.</p>
+<p id="p-0075" num="0074">In addition to band saws, the charge plates may be capacitively coupled to machines such as jointers, planers, etc., which have cylindrical cutter heads. The cutter heads typically are mounted to rotate about an arbor. Thus, charge plates <b>44</b> and <b>46</b> may be capacitively coupled to the arbor as described above, or to a flat end of the cutter head, etc.</p>
+<p id="p-0076" num="0075">While one exemplary system and method for detecting contact between the user's body and the blade is described herein, many other systems and methods are available and within the scope of the invention. For example, the detection system may sense the resistance of the human body upon contact between the user's body and the blade. As shown in <figref idref="DRAWINGS">FIG. 3</figref>, the sensor assembly of detection subsystem <b>22</b> may include a brush contact <b>284</b> or similar sensor to make direct electrical contact with the blade. Brush contact <b>284</b> may be mounted, for example, on arbor block <b>250</b>. Typically, the blade and brush contact are electrically isolated from the arbor block. Alternatively, the brush contact may be configured to directly couple to the arbor or another portion of operative structure <b>12</b> as described above in connection with charge plates <b>44</b> and <b>46</b>. In any event, contact between the user's body and blade would function as a switch to form a conductive path detectable by suitable circuitry in detection subsystem <b>22</b> and/or control subsystem <b>26</b>. As a further alternative, brush contact <b>284</b> may be used to detect a capacitive rather than conductive load upon the blade. As a further alternative, the detection subsystem sensor assembly may be configured to detect contact by optical, magnetic, or other non-electrical means.</p>
+<p id="p-0077" num="0076">As an alternative to detecting contact between the user and the blade, detection subsystem <b>22</b> may be configured to detect proximity of the user's body to the blade by detecting contact between the user's body and a guard adjacent the blade. If the guard is positioned so that the user's body must contact the guard before contacting the blade, then the blade may be stopped before the user comes into contact with the blade. It will be appreciated that this alternative detection subsystem may be implemented in a variety of different configurations and for any type of machine <b>10</b>. As one example, <figref idref="DRAWINGS">FIG. 12</figref> shows an exemplary embodiment for use on a radial arm saw <b>286</b>.</p>
+<p id="p-0078" num="0077">Typically, radial arm saw <b>286</b> includes a horizontal base <b>287</b>, a vertical support column <b>288</b> extending upward from base <b>287</b>, and a guide arm <b>289</b> which extends from column <b>288</b> vertically spaced above base <b>287</b>. A carriage <b>290</b> is slidably coupled to the underside of guide arm <b>289</b>. The bottom end of carriage <b>290</b> is connected to a saw housing <b>291</b> and motor assembly <b>16</b>, allowing blade <b>40</b> to be pulled across the base to cut workpieces (not shown) supported on the base. A guard member <b>292</b>, such as those known in the art, is positioned on at least one side of blade <b>40</b>. Guard member <b>292</b> is disposed relative to the blade so that any portion of the user's body approaching the blade will first strike against the guard member. Typically, guard member <b>292</b> is movably coupled to housing <b>291</b> to maintain its blade-shielding position as the blade passes over the workpiece.</p>
+<p id="p-0079" num="0078">The guard member is electrically insulated from housing <b>291</b> but electrically coupled to the detection subsystem (not shown). Thus, any contact between the user's body and the guard member is detected. The detection subsystem may be conductively coupled to the guard member by any suitable means (not shown) such as electrical cable, etc. Alternatively, the detection subsystem may be capacitively coupled to the guard member by one or more charge plates disposed adjacent the guard member such as described above.</p>
+<p id="p-0080" num="0079">As described above, the present invention provides a reliable, effective and fast-acting system for preventing serious injuries to operators of power cutting machinery. While a few specific embodiments of safety system <b>18</b> and machine <b>10</b> have been described above, those of skill in the art will appreciate that the present invention may be adapted in numerous ways for use in a wide variety of applications. Therefore, it will be understood that all such adaptations and applications are within the scope of the invention.</p>
+<p id="p-0081" num="0080">It is believed that the disclosure set forth above encompasses multiple distinct inventions with independent utility. While each of these inventions has been disclosed in its preferred form, the specific embodiments thereof as disclosed and illustrated herein are not to be considered in a limiting sense as numerous variations are possible. The subject matter of the inventions includes all novel and non-obvious combinations and subcombinations of the various elements, features, functions and/or properties disclosed herein. No single feature, function, element or property of the disclosed embodiments is essential to all of the disclosed inventions. Similarly, where the claims recite &#x201c;a&#x201d; or &#x201c;a first&#x201d; element or the equivalent thereof, such claims should be understood to include incorporation of one or more such elements, neither requiring nor excluding two or more such elements.</p>
+<p id="p-0082" num="0081">It is believed that the following claims particularly point out certain combinations and subcombinations that are directed to one of the disclosed inventions and are novel and non-obvious. Inventions embodied in other combinations and subcombinations of features, functions, elements and/or properties may be claimed through amendment of the present claims or presentation of new claims in this or a related application. Such amended or new claims, whether they are directed to a different invention or directed to the same invention, whether different, broader, narrower or equal in scope to the original claims, are also regarded as included within the subject matter of the inventions of the present disclosure.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method of detecting a dangerous condition between a person and a woodworking machine, where the woodworking machine includes a cutting tool electrically coupled to an arbor, and where the cutting tool and arbor are electrically isolated, the method comprising:
+<claim-text>imparting an electrical signal to the cutting tool through a capacitive coupling that includes two spaced-apart conductors, where at least a portion of the surface of the arbor is one of the conductors; and</claim-text>
+<claim-text>monitoring the electrical signal for changes indicative of the dangerous condition.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> where the dangerous condition is contact between the person and the cutting tool.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> where the dangerous condition is proximity between the person and the cutting tool.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> where one of the two spaced-apart conductors is a charge plate positioned adjacent the surface of the arbor, and where the limitation of imparting an electrical signal to the cutting tool comprises inducing an electrical charge on the arbor by imparting an electrical charge to the charge plate.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> where the limitation of monitoring the electrical signal for changes comprises using the electrical signal imparted to the cutting tool to induce an electrical charge on a sense electrode positioned adjacent the surface of the arbor, and analyzing the electrical charge on the sense electrode for predetermined characteristics. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

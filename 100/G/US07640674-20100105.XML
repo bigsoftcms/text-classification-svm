@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640674-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640674</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12115504</doc-number>
+<date>20080505</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>50</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>004</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>012</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 33502</main-classification>
+<further-classification> 33503</further-classification>
+<further-classification> 33559</further-classification>
+</classification-national>
+<invention-title id="d0e53">Systems and methods for calibrating a portable coordinate measurement machine</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4932136</doc-number>
+<kind>A</kind>
+<name>Schmitz et al.</name>
+<date>19900600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33502</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5084981</doc-number>
+<kind>A</kind>
+<name>McMurtry et al.</name>
+<date>19920200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5088337</doc-number>
+<kind>A</kind>
+<name>Bennett</name>
+<date>19920200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5148377</doc-number>
+<kind>A</kind>
+<name>McDonald</name>
+<date>19920900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5187874</doc-number>
+<kind>A</kind>
+<name>Takahashi et al.</name>
+<date>19930200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5189797</doc-number>
+<kind>A</kind>
+<name>Granger</name>
+<date>19930300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5345690</doc-number>
+<kind>A</kind>
+<name>McMurtry et al.</name>
+<date>19940900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33559</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5396712</doc-number>
+<kind>A</kind>
+<name>Herzog</name>
+<date>19950300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5408754</doc-number>
+<kind>A</kind>
+<name>Raab</name>
+<date>19950400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5412880</doc-number>
+<kind>A</kind>
+<name>Raab</name>
+<date>19950500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5505003</doc-number>
+<kind>A</kind>
+<name>Evans et al.</name>
+<date>19960400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5510977</doc-number>
+<kind>A</kind>
+<name>Raab</name>
+<date>19960400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5521847</doc-number>
+<kind>A</kind>
+<name>Ostrowski et al.</name>
+<date>19960500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5528505</doc-number>
+<kind>A</kind>
+<name>Granger et al.</name>
+<date>19960600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5611147</doc-number>
+<kind>A</kind>
+<name>Raab</name>
+<date>19970300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5615489</doc-number>
+<kind>A</kind>
+<name>Breyer et al.</name>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5757499</doc-number>
+<kind>A</kind>
+<name>Eaton</name>
+<date>19980500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5768792</doc-number>
+<kind>A</kind>
+<name>Raab</name>
+<date>19980600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33503</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5813128</doc-number>
+<kind>A</kind>
+<name>Bailey</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33502</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>5822450</doc-number>
+<kind>A</kind>
+<name>Arakawa et al.</name>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>5829148</doc-number>
+<kind>A</kind>
+<name>Eaton</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33503</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>5978748</doc-number>
+<kind>A</kind>
+<name>Raab</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>5991704</doc-number>
+<kind>A</kind>
+<name>Rekar et al.</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>6023850</doc-number>
+<kind>A</kind>
+<name>Trapet</name>
+<date>20000200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33502</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>6134506</doc-number>
+<kind>A</kind>
+<name>Rosenberg et al.</name>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>6161079</doc-number>
+<kind>A</kind>
+<name>Zink et al.</name>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>6219928</doc-number>
+<kind>B1</kind>
+<name>Raab et al.</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>6366831</doc-number>
+<kind>B1</kind>
+<name>Raab</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>6519860</doc-number>
+<kind>B1</kind>
+<name>Bieg et al.</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33503</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>6598306</doc-number>
+<kind>B2</kind>
+<name>Eaton</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>6611346</doc-number>
+<kind>B2</kind>
+<name>Granger</name>
+<date>20030800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>6611617</doc-number>
+<kind>B1</kind>
+<name>Crampton</name>
+<date>20030800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>6618496</doc-number>
+<kind>B1</kind>
+<name>Tassakos et al.</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>382154</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>6668466</doc-number>
+<kind>B1</kind>
+<name>Bieg et al.</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>6760977</doc-number>
+<kind>B2</kind>
+<name>Jordil et al.</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33558</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>6817108</doc-number>
+<kind>B2</kind>
+<name>Eaton</name>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>6892465</doc-number>
+<kind>B2</kind>
+<name>Raab et al.</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>6904691</doc-number>
+<kind>B2</kind>
+<name>Raab et al.</name>
+<date>20050600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>6925722</doc-number>
+<kind>B2</kind>
+<name>Raab et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>6931745</doc-number>
+<kind>B2</kind>
+<name>Granger</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>6952882</doc-number>
+<kind>B2</kind>
+<name>Raab et al.</name>
+<date>20051000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>6984236</doc-number>
+<kind>B2</kind>
+<name>Raab</name>
+<date>20060100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>6988322</doc-number>
+<kind>B2</kind>
+<name>Raab et al.</name>
+<date>20060100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>7003892</doc-number>
+<kind>B2</kind>
+<name>Eaton et al.</name>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>7017275</doc-number>
+<kind>B2</kind>
+<name>Raab et al.</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>7043847</doc-number>
+<kind>B2</kind>
+<name>Raab et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>7051450</doc-number>
+<kind>B2</kind>
+<name>Raab et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00048">
+<document-id>
+<country>US</country>
+<doc-number>7073271</doc-number>
+<kind>B2</kind>
+<name>Raab et al.</name>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00049">
+<document-id>
+<country>US</country>
+<doc-number>7152456</doc-number>
+<kind>B2</kind>
+<name>Eaton</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00050">
+<document-id>
+<country>US</country>
+<doc-number>7174651</doc-number>
+<kind>B2</kind>
+<name>Raab et al.</name>
+<date>20070200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00051">
+<document-id>
+<country>US</country>
+<doc-number>7246030</doc-number>
+<kind>B2</kind>
+<name>Raab et al.</name>
+<date>20070700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00052">
+<document-id>
+<country>US</country>
+<doc-number>7269910</doc-number>
+<kind>B2</kind>
+<name>Raab et al.</name>
+<date>20070900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00053">
+<document-id>
+<country>US</country>
+<doc-number>7296979</doc-number>
+<kind>B2</kind>
+<name>Raab et al.</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00054">
+<document-id>
+<country>US</country>
+<doc-number>7347000</doc-number>
+<kind>B2</kind>
+<name>Jordil et al.</name>
+<date>20080300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33561</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00055">
+<document-id>
+<country>US</country>
+<doc-number>7372581</doc-number>
+<kind>B2</kind>
+<name>Raab et al.</name>
+<date>20080500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00056">
+<document-id>
+<country>US</country>
+<doc-number>7395606</doc-number>
+<kind>B2</kind>
+<name>Crampton</name>
+<date>20080700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00057">
+<document-id>
+<country>US</country>
+<doc-number>2004/0083830</doc-number>
+<kind>A1</kind>
+<name>Nashiki et al.</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33503</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00058">
+<document-id>
+<country>US</country>
+<doc-number>2007/0063500</doc-number>
+<kind>A1</kind>
+<name>Eaton</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00059">
+<document-id>
+<country>DE</country>
+<doc-number>4345091</doc-number>
+<kind>A1</kind>
+<date>19950700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00060">
+<document-id>
+<country>DE</country>
+<doc-number>101 12 977</doc-number>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00061">
+<document-id>
+<country>EP</country>
+<doc-number>0522610</doc-number>
+<kind>A1</kind>
+<date>19920600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00062">
+<document-id>
+<country>FR</country>
+<doc-number>2740546</doc-number>
+<date>19980100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00063">
+<document-id>
+<country>GB</country>
+<doc-number>2274526</doc-number>
+<kind>A</kind>
+<date>19940700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00064">
+<document-id>
+<country>JP</country>
+<doc-number>404057690</doc-number>
+<date>19920200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00065">
+<document-id>
+<country>JP</country>
+<doc-number>04-032393</doc-number>
+<date>19920500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00066">
+<document-id>
+<country>JP</country>
+<doc-number>05-031685</doc-number>
+<date>19930200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00067">
+<document-id>
+<country>JP</country>
+<doc-number>2003-021133</doc-number>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00068">
+<document-id>
+<country>JP</country>
+<doc-number>2003/175484</doc-number>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00069">
+<document-id>
+<country>JP</country>
+<doc-number>2003275484</doc-number>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00070">
+<document-id>
+<country>JP</country>
+<doc-number>2006-214559</doc-number>
+<date>20060800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00071">
+<document-id>
+<country>WO</country>
+<doc-number>WO 98/08050</doc-number>
+<date>19980200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>20</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 33502</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 33503</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 33559</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 33560</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 33561</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>19</number-of-drawing-sheets>
+<number-of-figures>21</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090271996</doc-number>
+<kind>A1</kind>
+<date>20091105</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ferrari</last-name>
+<first-name>Paul</first-name>
+<address>
+<city>Carlsbad</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Eaton</last-name>
+<first-name>Homer</first-name>
+<address>
+<city>Carlsbad</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Knobbe, Martens, Olson &#x26; Bear LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Hexagon Metrology, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Norcross</city>
+<state>GA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Bennett</last-name>
+<first-name>G. Bradley</first-name>
+<department>2841</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An articulated arm portable coordinate measurement machine (PCMM) can be calibrated or recalibrated using a coordinate measurement machine (CMM). In one method for PCMM calibration, the CMM can be moved to one position, and the PCMM moved to a contact position where a probe head of the PCMM contacts a probe head of the PCMM. The PCMM and the CMM can be operatively coupled, for example, by a synchronizing cable such that position data from the PCMM and the CMM can be obtained at the contact position. The PCMM can be repositioned one or more times to obtain position data at multiple PCMM positions. The CMM can be repositioned as desired and additional contact position data sets obtained by subsequent positioning and repositioning of the PCMM. Various probe head types such as touch trigger probes, hard probes, and contact probes can be used in the calibration systems and methods.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="165.69mm" wi="199.64mm" file="US07640674-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="206.08mm" wi="171.20mm" orientation="landscape" file="US07640674-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="190.67mm" wi="167.47mm" orientation="landscape" file="US07640674-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="196.34mm" wi="173.99mm" orientation="landscape" file="US07640674-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="207.43mm" wi="167.05mm" orientation="landscape" file="US07640674-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="203.28mm" wi="166.03mm" orientation="landscape" file="US07640674-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="203.28mm" wi="162.81mm" orientation="landscape" file="US07640674-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="222.33mm" wi="155.36mm" orientation="landscape" file="US07640674-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="220.47mm" wi="164.68mm" orientation="landscape" file="US07640674-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="203.71mm" wi="157.73mm" orientation="landscape" file="US07640674-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="202.86mm" wi="161.88mm" orientation="landscape" file="US07640674-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="215.82mm" wi="158.67mm" file="US07640674-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="216.24mm" wi="184.49mm" file="US07640674-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="229.53mm" wi="186.18mm" file="US07640674-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="229.36mm" wi="173.91mm" file="US07640674-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="235.37mm" wi="185.67mm" file="US07640674-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="230.04mm" wi="185.93mm" file="US07640674-20100105-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="181.36mm" wi="153.08mm" file="US07640674-20100105-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="247.48mm" wi="167.39mm" file="US07640674-20100105-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="195.33mm" wi="165.10mm" orientation="landscape" file="US07640674-20100105-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">The present application relates to measurement machines, more specifically to articulated arm portable coordinate measurement machines.</p>
+<p id="p-0004" num="0003">2. Description of the Related Art</p>
+<p id="p-0005" num="0004">Portable coordinate measurement machines (PCMMs) such as articulated arm PCMMs can be used to perform a variety of measurement and coordinate acquisition tasks. In one common commercially-available PCMM, an articulated arm having three transfer members connected by articulating joints allows easy movement of a probe head about seven axes to take various measurements. For optimal precision and accuracy of the measurements generated by a PCMM, it must initially be calibrated to account for any manufacturing variations in the components of the PCMM itself.</p>
+<p id="p-0006" num="0005">Previously, a portable coordinate measurement machine would be calibrated by using the PCMM to measure one or more length artifacts such as bars of precisely known dimensions. By using a PCMM to measure lengths of a length artifact having precisely known dimensions, position data obtained by the PCMM could be analyzed, and a PCMM processor and or position measuring device such as an analog or digital encoder calibrated to reflect the known measurements of the length artifact.</p>
+<p id="p-0007" num="0006">While the previous calibration process typically resulted in acceptable calibration results, it did have shortcomings. The prior PCMM calibration process can be expensive as the precision-manufactured length artifacts are difficult and costly to produce. This previous calibration process was also time consuming as the PCMM would need to be manually manipulated between various positions with respect to the length artifacts. The prior PCMM calibration process was also somewhat limited as only a relatively small number of position readings were typically taken. Also this process can be subject to some variation as even the precision-manufactured length artifacts are subject to some degree of length variation due to thermal expansion.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">As described in further detail herein, systems and methods are disclosed overcoming the shortcomings of the prior art and having certain advantages. In light of the prior methods discussed above, there is a need for a relatively fast, reliable, inexpensive method of calibrating a PCMM.</p>
+<p id="p-0009" num="0008">In some embodiments, a method for calibrating a portable coordinate measurement machine having a probe is provided. The method comprises providing a coordinate measurement machine, positioning the coordinate measurement machine in a first calibration position; positioning the portable coordinate measurement machine in a first position; positioning the coordinate measurement machine in a second calibration position; and positioning the portable coordinate measurement machine in a second position. The coordinate measurement machine has a measurement probe. With the portable coordinate measurement machine in the first position, the probe contacts the measurement probe of the coordinate measurement machine in the first calibration position. With the portable coordinate measurement machine in the second position, the probe contacts the measurement probe of the coordinate measurement machine in the second calibration position.</p>
+<p id="p-0010" num="0009">In other embodiments, a system for calibrating a portable coordinate measurement machine is provided. The system comprises a coordinate measurement machine, a portable coordinate measurement machine, and a control unit operatively coupled to the coordinate measurement machine and the portable coordinate measurement machine.</p>
+<p id="p-0011" num="0010">In other embodiments, a contact probe for a coordinate measurement machine is provided. The contact probe comprises a plate, a first spherical portion extending from the plate, a second spherical portion extending from the plate, and a third spherical portion extending from the plate. The first, second, and third spherical portions are positioned to form a seat on the plate. The first, second, and third spherical portions are electrically coupled to one another such that simultaneous contact of the first, second, and third spherical portions completes a segment of an electrical circuit.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0012" num="0011">Further objects, features and advantages of the invention will become apparent from the following detailed description taken in conjunction with the accompanying figures showing illustrative embodiments of the invention, in which:</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic perspective view of a system for calibrating a PCMM in a first position;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic perspective view of the system of <figref idref="DRAWINGS">FIG. 1</figref> in a second position;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 3</figref> is a schematic perspective view of the system of <figref idref="DRAWINGS">FIG. 1</figref> in a third position;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4</figref> is a schematic perspective view of the system of <figref idref="DRAWINGS">FIG. 1</figref> in a fourth position;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic perspective view of the system of <figref idref="DRAWINGS">FIG. 1</figref> in a fifth position;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 6</figref> is a schematic perspective view of the system of <figref idref="DRAWINGS">FIG. 1</figref> in a sixth position;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 7A</figref> is a schematic perspective view of the system of <figref idref="DRAWINGS">FIG. 1</figref> in a first verification position;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 7B</figref> is a schematic perspective view of the system of <figref idref="DRAWINGS">FIG. 1</figref> in a second verification position;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 8A</figref> is a schematic perspective view of the system of <figref idref="DRAWINGS">FIG. 1</figref> in a third verification position;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 8B</figref> is a schematic perspective view of the system of <figref idref="DRAWINGS">FIG. 1</figref> in a fourth verification position;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 9A</figref> is a schematic illustration of one configuration of probes for the system of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 9B</figref> is a schematic illustration of a electrical connection for the probe configuration of <figref idref="DRAWINGS">FIG. 9A</figref>;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 10A</figref> is a schematic illustration of one configuration of probes for the system of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 10B</figref> is a schematic illustration of an electrical connection for the probe configuration of <figref idref="DRAWINGS">FIG. 10A</figref>;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 11A</figref> is a schematic illustration of one configuration of probes for the system of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 11B</figref> is a schematic illustration of an electrical connection for the probe configuration of <figref idref="DRAWINGS">FIG. 11A</figref>;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 12A</figref> is a schematic illustration of one configuration of probes for the system of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 12B</figref> is a schematic illustration of an electrical connection for the probe configuration of <figref idref="DRAWINGS">FIG. 12A</figref>;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 13</figref> is a perspective view of a contact probe for use in the system of <figref idref="DRAWINGS">FIG. 1</figref>; and</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 14</figref> is a schematic view of a switch circuit for the contact probe of <figref idref="DRAWINGS">FIG. 13</figref>;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 15</figref> is a PCMM having an articulating exoskeletal frame.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<heading id="h-0005" level="1">Systems for Calibrating or Certifying a Portable Coordinate Measurement Machine</heading>
+<p id="p-0034" num="0033">With reference to <figref idref="DRAWINGS">FIGS. 1-6</figref> a system for calibrating and/or certifying a portable coordinate measurement machine is illustrated. In various embodiments, the system can include a coordinate measurement machine (CMM) <b>10</b> and a portable coordinate measurement machine (PCMM) <b>40</b> operatively coupled to one another. In some embodiments, a synchronizing cable or sync cable <b>30</b> can be used to operatively couple the PCMM to the CMM.</p>
+<p id="h-0006" num="0000">Coordinate Measurement Machine (CMM)</p>
+<p id="p-0035" num="0034">With reference to <figref idref="DRAWINGS">FIGS. 1-6</figref>, a coordinate measurement machine <b>10</b> can include a worktable <b>12</b>, a portal <b>14</b>, a support <b>16</b>, a sleeve <b>18</b>, and a probe tip <b>20</b>. Desirably, the worktable <b>12</b> is a substantially level, planar surface, and in some embodiments can be a granite or slate surface. The portal <b>14</b> can include two uprights spanned by a support beam. The support <b>16</b> can be positioned on the support beam, and can support the sleeve <b>18</b>. The sleeve <b>18</b> can have a probe tip <b>20</b> positioned at an end thereof.</p>
+<p id="p-0036" num="0035">In some embodiments, the probe tip <b>20</b> of the CMM can be moved in one or more axes, such as manually or via electric, pneumatic, or hydraulic actuators to position the probe tip <b>20</b> in a desired position. In some embodiments, the CMM can have three axes, for example, the portal <b>14</b> can be translatable with respect to the worktable along a first axis, the support <b>16</b> can be translatable with respect to the support beam along a second axis, and the sleeve <b>18</b> can be translatable with respect to the support <b>16</b> along a third axis. Between the sleeve <b>18</b> and the probe tip <b>20</b> can be a probe head which is used to articulate the probe tip <b>20</b> relative to the sleeve <b>18</b>. In other embodiments, the order and orientation of the axes may vary, for example, in some embodiments the support may travel vertically and the sleeve horizontally. The CMM may also have a rotary axis that the portable CMM rotates about</p>
+<p id="p-0037" num="0036">In some embodiments, the CMM <b>10</b> can be operatively coupled to a processor <b>70</b> that can include a CMM controller configured to actuate the CMM to a desired position in a three-dimensional space reference frame. The position of the CMM in each axis can be determined by measuring transducers such as linear encoder, which may be of the type optical, magnetic, laser, or any other type of transducer which can provide absolute or relative position. The processor <b>70</b> can also be configured to determine a position of the probe tip within three dimensional space. For example, the position of the probe tip <b>20</b> can be measured with respect to an (x,y,z) coordinate system where x, y, and z represent orthogonal axes defining a three-dimensional space. As is known in the art, the position of each of the portal <b>14</b>, the support <b>16</b>, the sleeve <b>18</b> using a dedicated transducer. Each transducer can output a signal (e.g., an electrical signal), which can vary according to the movement of the corresponding member (i.e., the portal <b>14</b>, the support <b>16</b>, the sleeve <b>18</b>). The signal can be carried through wires or otherwise transmitted to the processor <b>70</b>. From there, the signal can be processed and/or transferred to a computer for determining the position of the probe tip <b>20</b> in space. Thus, the probe tip <b>20</b> of a CMM can be used to perform various measuring operations.</p>
+<p id="p-0038" num="0037">As further discussed in more detail below, various types of the probe tip <b>20</b> can be used in a CMM. For example, in some embodiments, the probe tip <b>20</b> of the CMM can be a touch trigger probe or other electronic switching probe, in other embodiments the probe tip <b>20</b> can comprise a hard probe.</p>
+<p id="p-0039" num="0038">The CMM <b>10</b> is schematically illustrated herein. However it is contemplated that in various embodiments, a variety of CMMs can be used in the systems and methods described herein. In some embodiments of the systems and methods described herein, a Brown &#x26; Sharpe&#xae; CMM, such as a CMM from the Brown &#x26; Sharpe&#xae; Global product line. In other embodiments, other CMMs can be used in the systems and methods disclosed herein.</p>
+<p id="h-0007" num="0000">Portable Coordinate Measurement Machine</p>
+<p id="p-0040" num="0039">With continued reference to <figref idref="DRAWINGS">FIGS. 1-6</figref>, a portable coordinate measurement machine (PCMM) <b>40</b> can be an articulated arm comprising a plurality of transfer members <b>44</b>, <b>46</b>, <b>48</b> connected by articulating joints <b>50</b>, <b>52</b>, <b>54</b> to allow the arm to be movably positioned in many different orientations. At one end, a transfer member is coupled to a base <b>42</b>. The base <b>42</b> can be positioned and secured on the worktable <b>12</b> of the CMM <b>10</b>. In some embodiments, the base <b>42</b> can be positioned on a rotatable table or elevatable surface on the worktable <b>12</b> of the CMM <b>10</b>. At an opposite end, the transfer member <b>48</b> is coupled to a probe head <b>56</b>. The base <b>42</b> can include a PCMM processor configured to calculate a position of the probe head <b>56</b> in space based on lengths of the transfer members <b>44</b>, <b>46</b>, <b>48</b> and relative positions of the articulating joints <b>50</b>, <b>52</b>, <b>54</b>.</p>
+<p id="p-0041" num="0040">In one embodiment, each articulating joint <b>50</b>, <b>52</b>, <b>54</b> provides for both swiveling and pivoting moment between adjacent transfer members <b>44</b>, <b>46</b>, <b>48</b>. With respect to each degree of movement, the position of each of the articulation members articulating joints <b>50</b>, <b>52</b>, <b>54</b> can be measured using a dedicated rotational transducers. As with the CMM <b>10</b>, Each transducer can output a signal (e.g., an electrical signal), which can vary according to the movement of the joint <b>50</b>, <b>52</b>, <b>54</b>. The signal can be carried through wires or otherwise transmitted to the base <b>42</b> of the PCMM <b>40</b>. From there, the signal can be processed and/or transferred to a computer for determining the position of the probe <b>56</b> in space. In some embodiments of PCMM <b>40</b>, the rotational transducer for each of the joints <b>50</b>, <b>52</b>, <b>54</b> can comprise an optical encoder.</p>
+<p id="p-0042" num="0041">As described in further detail below, various types of probe heads <b>56</b> can be used in systems and methods described herein. For example, in some embodiments, the probe head <b>56</b> of the PCMM can be a touch trigger probe or other electronic switching probe, in other embodiments the probe tip <b>20</b> can comprise a hard probe.</p>
+<p id="p-0043" num="0042">In some embodiments, the PCMM <b>40</b> can include articulating joints configured to allow infinite rotation of adjacent transfer members about an axis of rotation. In other embodiments, the PCMM can include one or more articulating joints configured to have stops defining limits of rotation of adjacent transfer members.</p>
+<p id="p-0044" num="0043">In the illustrated embodiment, the PCMM is illustrated schematically, although various PCMMs can be used in the systems and methods described herein. Various embodiments of PCMM are described in U.S. Pat. No. 5,829,148, entitled &#x201c;Spatial Measuring Device&#x201d;, U.S. patent application Ser. No. 11/943,463, filed Nov. 20, 2007, entitled &#x201c;Coordinate Measurement Device with Improved Joint&#x201d;, currently pending, U.S. patent application Ser. No. 11/963,531, filed Dec. 21, 2007, entitled &#x201c;Improved Joint Axis for Coordinate Measurement Machine,&#x201d; currently pending, U.S. patent application Ser. No. 11/775,081, filed Jul. 9, 2007, entitled &#x201c;Joint for Coordinate Measurement Device,&#x201d; currently pending, and U.S. patent application Ser. No. 11/864,392, filed Sep. 28, 2007, entitled &#x201c;Coordinate Measurement Machine,&#x201d; currently pending and can be used in the systems and methods described herein. This patent and these patent applications are hereby incorporated herein by reference in their entireties.</p>
+<p id="p-0045" num="0044">In the illustrated embodiments, the PCMM <b>40</b> comprises three transfer members <b>44</b>, <b>46</b>, <b>48</b> and articulating joints <b>50</b>, <b>52</b>, <b>54</b> allowing movement about seven axes of rotation. In other embodiments, a PCMM can include more or fewer than three transfer members such as, for example two or four transfer members. Likewise, in other embodiments, corresponding more or fewer articulating joints <b>50</b>, <b>52</b>, <b>54</b> can allow movement about more or fewer than seven axes of rotation. In some embodiments the PCMM can have three transfer members as illustrated, but can have articulating joints <b>50</b>, <b>52</b>, <b>54</b> allowing movement about fewer than seven axes of rotation, for example, six axes of rotation.</p>
+<p id="h-0008" num="0000">Operative Coupling of the PCMM and CMM</p>
+<p id="p-0046" num="0045">With reference to <figref idref="DRAWINGS">FIGS. 1-6</figref>, the PCMM <b>40</b> can be operatively coupled to the CMM <b>10</b> such as with a synchronizing cable or sync cable <b>30</b>. As described in further detail below, the sync cable <b>30</b> can be electrically coupled to the processor <b>70</b> and the CMM in one of several configurations to allow synchronization of probe head position data from the CMM and the PCMM.</p>
+<p id="p-0047" num="0046">While operative coupling between the CMM <b>10</b> and the PCMM <b>40</b> is illustrated as a wired connection over the sync cable <b>30</b>, in other embodiments, other cabling or wireless transmission protocols can be used to operatively couple the CMM <b>10</b> and the PCMM <b>40</b>.</p>
+<p id="h-0009" num="0000">Method for Calibrating a PCMM Using a CMM</p>
+<p id="p-0048" num="0047">With respect to <figref idref="DRAWINGS">FIGS. 1-6</figref> various embodiments of method for calibrating a PCMM are illustrated. In general, the CMM <b>10</b> can be positioned at one or more positions while the PCMM can be positioned such that the probe head <b>56</b> of the PCMM <b>40</b> contacts the probe tip <b>20</b> of the CMM <b>10</b>. In some embodiments, for each position of the CMM <b>10</b>, the PCMM <b>40</b> can be repositioned in multiple contact positions. For each contact position, position data from the CMM <b>10</b> and the PCMM <b>40</b> can be obtained by the processor <b>70</b>. With sufficient data collection, the PCMM <b>40</b> can be calibrated such that it accurately provides position data correlating to that generated by the CMM <b>10</b>.</p>
+<p id="p-0049" num="0048">With reference to <figref idref="DRAWINGS">FIG. 1</figref>, a first contact position between the CMM <b>10</b> and the PCMM <b>40</b> is illustrated. In the illustrated contact position, the probe tip <b>20</b> of the CMM <b>10</b> can be positioned at a first position (x<sub>1</sub>, y<sub>1</sub>, z<sub>1</sub>) and the probe head <b>56</b> of the PCMM <b>40</b> can moved into a first position such that it contacts the probe tip <b>20</b> of the CMM. Contact between the two probe heads <b>20</b>, <b>56</b> can trigger a synchronization signal to be sent over the sync cable <b>30</b> such that position data of the PCMM <b>40</b> and the CMM <b>10</b> is captured by the processor <b>70</b>. That is, when the synchronization signal is sent, both the PCMM <b>40</b> and the CMM <b>10</b> at substantially the same time record the position of their respective probe heads <b>20</b>, <b>56</b> by recording the position of the individual transducers and sending such data to the processor <b>70</b>.</p>
+<p id="p-0050" num="0049">With reference to <figref idref="DRAWINGS">FIG. 2</figref>, a second contact position between the CMM <b>10</b> and the PCMM <b>40</b> is illustrated. With the CMM <b>10</b> remaining in the first position (x<sub>1</sub>, y<sub>1</sub>, z<sub>1</sub>), the PCMM <b>40</b> can then be moved to a second position such that the probe head <b>56</b> of the PCMM <b>56</b> contacts the probe tip <b>20</b> of the CMM <b>10</b>. Desirably, at least one of the probe heads <b>56</b>, <b>20</b> is configured to allow contact at multiple orientations, for example, one or both of the probe heads <b>56</b>, <b>20</b> can include a substantially spherical contact section such that the probe head <b>56</b>, <b>20</b> can contact a surface to be measured at various orientations. Accordingly, the PCMM can be positioned with the transfer members <b>44</b>, <b>46</b>, <b>48</b> at different orientations in the second contact position than in the first contact position, thus allowing calibration of the transducers, such as analog or digital encoders, in each of the articulating joints <b>50</b>, <b>52</b>, <b>54</b>. Again, contact between the two probe heads <b>20</b>, <b>56</b> can trigger a synchronization signal to be sent over the sync cable <b>30</b> such that position data of the PCMM <b>40</b> and the CMM <b>10</b> is captured by the processor <b>70</b>.</p>
+<p id="p-0051" num="0050">With reference to <figref idref="DRAWINGS">FIG. 3</figref>, a third contact position between the CMM <b>10</b> and the PCMM <b>40</b> is illustrated. With the CMM <b>10</b> remaining in the first position (x<sub>1</sub>, y<sub>1</sub>, z<sub>1</sub>), the PCMM <b>40</b> can then be moved to a third position such that the probe head <b>56</b> of the PCMM <b>56</b> contacts the probe tip <b>20</b> of the CMM <b>10</b>. Desirably, the orientations of the transfer members <b>44</b>, <b>46</b>, <b>48</b> of the PCMM <b>10</b> is different in the third contact position than it is in the first or second contact positions. As noted above, desirably, one or both of the contact probes can include spherical surfaces allowing the probe heads <b>20</b>, <b>56</b> to contact one another at multiple orientations. Again, contact between the two probe heads <b>20</b>, <b>56</b> can trigger a synchronization signal to be sent over the sync cable <b>30</b> such that position data of the PCMM <b>40</b> and the CMM <b>10</b> is captured by the processor <b>70</b>.</p>
+<p id="p-0052" num="0051">As illustrated in <figref idref="DRAWINGS">FIGS. 1-3</figref>, with the CMM <b>10</b> in a first contact position (x<sub>1</sub>, y<sub>1</sub>, z<sub>1</sub>), the PCMM <b>40</b> is positioned into three distinct contact positions, and position data is collected regarding each of these contact positions. In other embodiments of this method, more or fewer than three contact positions can be made for each position of the CMM <b>10</b>, depending on the amount of position data it is desired to generate. For example, in some embodiments, the PCMM <b>40</b> can be placed in a single contact position for each position of the CMM <b>10</b>, while in other embodiments, the PCMM <b>40</b> can be repositioned into four, five, or more than five different contact positions for each position of the CMM <b>10</b>. In some embodiments, it can be desirable to reposition the PCMM <b>40</b> in at least 8 contact positions while the CMM <b>10</b> is in the first position (x<sub>1</sub>, y<sub>1</sub>, z<sub>1</sub>), thus resulting in a constellation of position data points which can be used to calibrate the PCMM <b>40</b>. Each data point in turn includes the data for each of the transducers in both of the CMM <b>10</b> and the PCMM <b>40</b>. With more position data from multiple contact points to process, it can be possible to calibrate the PCMM <b>40</b> more accurately. However, it can take additional time to reposition the PCMM <b>40</b> in multiple positions to obtain additional position data. Therefore, in some embodiments, a balance can be reached between a desire for the additional accuracy obtained from additional positioning and the additional time required to position the PCMM <b>40</b>.</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIGS. 4-6</figref> illustrate additional contact positions of the CMM <b>10</b> and PCMM <b>40</b>. In some embodiments of a PCMM calibration method, once a desired number of contact positions has been made between the CMM <b>10</b> in the first position (x<sub>1</sub>, y<sub>1</sub>, z<sub>1</sub>), the CMM <b>10</b> can be moved into a second position, (x<sub>2</sub>, y<sub>2</sub>, z<sub>2</sub>). In some embodiments, the CMM <b>10</b> can be moved with respect to only one or two axis such that one or two of x<sub>2</sub>, y<sub>2</sub>, or z<sub>2 </sub>can equal the corresponding axial component from the first position x<sub>1</sub>, y<sub>1</sub>, and z<sub>1</sub>. In other embodiments, the CMM <b>10</b> can be moved in all three axes when moved from the first position (x<sub>1</sub>, y<sub>1</sub>, z<sub>1</sub>) to the second position (x<sub>2</sub>, y<sub>2</sub>, z<sub>2</sub>) such that each of x<sub>2</sub>, y<sub>2</sub>, and z<sub>2 </sub>is different from the corresponding axial component x<sub>1</sub>, y<sub>1</sub>, and z<sub>1 </sub>in the first position.</p>
+<p id="p-0054" num="0053">With reference to <figref idref="DRAWINGS">FIG. 4</figref>, with the CMM <b>10</b> in the second position, (x<sub>2</sub>, y<sub>2</sub>, z<sub>2</sub>), the PCMM <b>40</b> can be moved into a fourth contact position such that the probe head <b>56</b> of the PCMM <b>56</b> contacts the probe tip <b>20</b> of the CMM <b>10</b>. Contact between the two probe heads <b>20</b>, <b>56</b> can trigger a synchronization signal to be sent over the sync cable <b>30</b> such that position data of the PCMM <b>40</b> and the CMM <b>10</b> is captured by the processor <b>70</b>.</p>
+<p id="p-0055" num="0054">With reference to <figref idref="DRAWINGS">FIG. 5</figref>, with the CMM <b>10</b> in the second position (x<sub>2</sub>, y<sub>2</sub>, z<sub>2</sub>), the PCMM <b>40</b> can be moved into a fifth contact position such that the probe head <b>56</b> of the PCMM <b>56</b> contacts the probe tip <b>20</b> of the CMM <b>10</b>. Contact between the two probe heads <b>20</b>, <b>56</b> can trigger a synchronization signal to be sent over the sync cable <b>30</b> such that position data of the PCMM <b>40</b> and the CMM <b>10</b> is captured by the processor <b>70</b>.</p>
+<p id="p-0056" num="0055">With reference to <figref idref="DRAWINGS">FIG. 6</figref>, with the CMM <b>10</b> in the second position (x<sub>2</sub>, y<sub>2</sub>, z<sub>2</sub>), the PCMM <b>40</b> can be moved into a sixth contact position such that the probe head <b>56</b> of the PCMM <b>56</b> contacts the probe tip <b>20</b> of the CMM <b>10</b>. Contact between the two probe heads <b>20</b>, <b>56</b> can trigger a synchronization signal to be sent over the sync cable <b>30</b> such that position data of the PCMM <b>40</b> and the CMM <b>10</b> is captured by the processor <b>70</b>.</p>
+<p id="p-0057" num="0056">While <figref idref="DRAWINGS">FIGS. 4-6</figref> illustrate three contact positions of the PCMM <b>40</b> with the CMM <b>10</b> in the second position (x<sub>2</sub>, y<sub>2</sub>, z<sub>2</sub>), in some embodiments, the PCMM <b>40</b> can be positioned and repositioned in more or fewer than three contact positions while the CMM <b>10</b> is in the second position (x<sub>2</sub>, y<sub>2</sub>, z<sub>2</sub>). In some embodiments, it can be desirable to reposition the PCMM <b>40</b> in at least 8 contact positions while the CMM <b>10</b> is in the second position (x<sub>2</sub>, y<sub>2</sub>, z<sub>2</sub>), thus resulting in a constellation of position data points which can be used to calibrate the PCMM <b>40</b>.</p>
+<p id="p-0058" num="0057">With reference to <figref idref="DRAWINGS">FIGS. 1-6</figref>, a method of calibrating a PCMM <b>40</b> using a CMM <b>10</b> is illustrated including two positions of the CMM <b>10</b> and three positions of the PCMM <b>40</b> for each position of the CMM <b>10</b>. Thus, the illustrated embodiment generates six data sets, each data set including position data of the CMM <b>10</b> and corresponding position data of the PCMM <b>40</b> at each of the contact positions. These data sets can be used to calibrate the PCMM <b>40</b> such that it can accurately be used to measure coordinates within a desired tolerance range. It is contemplated that the method described herein can be scaled to generate more or fewer data sets as may be desired to achieve a relatively small tolerance for subsequent measurements taken by the PCMM <b>40</b>. For example, in some embodiments, it can be desirable to position and reposition the CMM <b>10</b> and the PCMM <b>40</b> to generate at least 50 contact positions corresponding to 50 data sets. In other embodiments, it can be desirable to generate between 25 and 50 contact positions corresponding to 20-50 data sets.</p>
+<p id="p-0059" num="0058">Advantageously, the calibration method described herein can be used to generate a relatively high number of data sets. This high number of data sets can lead to greater accuracy in calibrating the PCMM. In the prior art methods in which length artifacts are used to generate a number of sets of position data, the number of data points to be obtained can be fairly limited. In contrast, in the method described herein, as the CMM <b>10</b> moves form the first position to the second position, the calibration method can use in addition to the distance between the first and second position also use the location of these points in space as measured by the CMM <b>10</b>. With this additional data, the calibration method can require fewer measurements to achieve the same level of accuracy and reliability. In this manner, the time used to calibrate the PCMM <b>40</b> can be decreased and/or the accuracy or reliability of the calibration can increase for the same or similar amount of data points.</p>
+<p id="p-0060" num="0059">For example, in a conventional method using the length artifacts to calibrate a PCMM, the total number of lengths which may be measured by the PCMM can be determined by the formula:</p>
+<p id="p-0061" num="0060">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+<mrow>
+  <mi>L</mi>
+  <mo>=</mo>
+  <mrow>
+    <mi>s</mi>
+    <mo>*</mo>
+    <mfrac>
+      <mrow>
+        <mi>n</mi>
+        <mo>!</mo>
+      </mrow>
+      <mrow>
+        <mrow>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mi>n</mi>
+              <mo>-</mo>
+              <mi>r</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mo>!</mo>
+        </mrow>
+        <mo>*</mo>
+        <mrow>
+          <mi>r</mi>
+          <mo>!</mo>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0062" num="0061">Where:</p>
+<p id="p-0063" num="0062">L is the total number of lengths;</p>
+<p id="p-0064" num="0063">s is the number of bar positions;</p>
+<p id="p-0065" num="0064">n is the number of points per bar that are measured; and</p>
+<p id="p-0066" num="0065">r is the number of points per length (typically 2).</p>
+<p id="p-0067" num="0066">Accordingly, for a bar having three measurable points (n=3) that is positioned in two positions (s=2), the total number of lengths which may be used to calibrate the PCMM is six lengths (L=6).</p>
+<p id="p-0068" num="0067">In contrast, using the calibration method described herein, the total number of lengths which may be measured by the PCMM can be determined by the formula:</p>
+<p id="p-0069" num="0068">
+<maths id="MATH-US-00002" num="00002">
+<math overflow="scroll">
+<mrow>
+  <mi>L</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>n</mi>
+      <mo>!</mo>
+    </mrow>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>n</mi>
+            <mo>-</mo>
+            <mi>r</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>!</mo>
+      </mrow>
+      <mo>*</mo>
+      <mrow>
+        <mi>r</mi>
+        <mo>!</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+</mrow>
+</math>
+</maths>
+</p>
+<p id="p-0070" num="0069">Where:</p>
+<p id="p-0071" num="0070">L is the total number of lengths;</p>
+<p id="p-0072" num="0071">n is the number of points (CMM positions) that are measured; and</p>
+<p id="p-0073" num="0072">r is the number of points per length (2).</p>
+<p id="p-0074" num="0073">For a calibration where 6 CMM points (n=6) is used, the total number of lengths which may be used to calibrate the PCMM is 15 lengths (L=15). Note that this 6 CMM point calibration roughly corresponds to the example described above using the conventional method worry about having three measurable points was positioned in two positions. Accordingly, the calibration method described herein allows additional data to be generated to calibrate the PCMM.</p>
+<p id="p-0075" num="0074">As the number of calibration points increases, so too does the amount of additional data generated by the method described herein. For example, for a calibration using a length artifact with 120 bar positions (s=120) and three points per bar position (n=3), 360 lengths (L=360) are generated to calibrate the PCMM. A corresponding calculation using the method described here and with a CMM positioned at 360 points (n=360) generates 64,620 lengths (L=64,620) to calibrate the PCMM.</p>
+<p id="p-0076" num="0075">Advantageously, the calibration method described herein can allow rapid calibration of a PCMM. As described above, the method described herein, when implemented with manual positioning and repositioning of the PCMM can generate more data sets of PCMM position data for a given period of time than the prior art methods.</p>
+<p id="p-0077" num="0076">Unlike prior art calibration techniques, the method described herein can also be implemented with an PCMM having an articulator to mechanically position the PCMM. Such articulated positioning of the PCMM arm can lead to additional time savings in the calibration method described herein. One example of an articulator for a PCMM is described in U.S. Pat. No. 7,152,456, entitled &#x201c;Automated Robotic Measuring System,&#x201d; which is hereby incorporated herein by reference in its entirety. For example, the PCMM can include a powered exoskeletal frame comprising an articulated support arm comprising a plurality of jointedly interconnected support arm segments moveable about a plurality of axes. <figref idref="DRAWINGS">FIG. 13</figref> illustrates one embodiment of an exoskeletal frame articulator.</p>
+<p id="h-0010" num="0000">Validation of Calibration Method</p>
+<p id="p-0078" num="0077">With reference to <figref idref="DRAWINGS">FIGS. 7A</figref>, <b>7</b>B, <b>8</b>A, and <b>8</b>B, in some embodiments, a method of calibrating a PCMM <b>40</b> can include validating the calibration with length artifacts. As used in the prior art calibration methods for a PCMM <b>40</b>, length artifacts are typically metal rods manufactured with tight tolerances to have precise dimensions. As noted above, in prior art methods, length artifacts, including metal rods of a predetermined length having spherical ends, can be used to calibrate a PCMM. Conventional artifacts for calibration and/or certification can include ball bars, step gauges, bars with comical seats, and gauge blocks. The precision of the dimensions required to be used for calibration of a PCMM, however, can make these length artifacts very expensive and difficult to manufacture. Additionally, even with precision manufacturing, the length artifacts can be subject to some variation in length due to thermal expansion depending on ambient conditions. However, when length artifacts are used as a validation of a calibration of a PCMM <b>40</b> by a CMM <b>10</b>, their dimensions need not be precisely manufactured. Likewise, length variations due to thermal expansion are not likely to introduce error into the calibration. Thus, length artifacts for validating a calibration method need not be as expensive or difficult to manufacture as those used in prior art methods of PCMM calibration.</p>
+<p id="p-0079" num="0078">With continued reference to <figref idref="DRAWINGS">FIGS. 7A</figref>, <b>7</b>B, <b>8</b>A, and <b>8</b>B, in some embodiments of a method of PCMM calibration, validation with a length artifact can include positioning a length artifact <b>64</b> on the worktable <b>12</b> of the CMM <b>10</b>, positioning the probe tip <b>20</b> CMM <b>10</b> at one end of the length artifact (<figref idref="DRAWINGS">FIG. 7A</figref>), obtaining position data from the CMM <b>10</b>, positioning the probe tip <b>20</b> of the CMM <b>10</b> at the opposite end of the length artifact <b>64</b> (<figref idref="DRAWINGS">FIG. 7B</figref>), and obtaining position data from the CMM <b>10</b>. In the illustrated embodiment of validation, the probe tip <b>20</b> of the CMM <b>10</b> can then be positioned away from the length artifact <b>64</b>. The PCMM <b>40</b> can then be positioned such that the probe head <b>56</b> of the PCMM <b>40</b> contacts one end of the length artifact <b>64</b> (<figref idref="DRAWINGS">FIG. 8A</figref>), and position data of the PCMM obtained. The PCMM <b>40</b> can then be repositioned such that the probe head <b>56</b> of the PCMM <b>40</b> contacts the opposite end of the length artifact <b>64</b> (<figref idref="DRAWINGS">FIG. 8B</figref>), and position data of the PCMM <b>40</b> obtained.</p>
+<p id="p-0080" num="0079">Once the validation sequence has been performed as discussed above with respect to <figref idref="DRAWINGS">FIGS. 7A</figref>, <b>7</b>B, <b>8</b>A, and <b>8</b>B, position data of the CMM <b>10</b> and the PCMM <b>40</b> can then be compared. In some embodiments of calibration method, the PCMM <b>40</b> can be positioned in more than one contact positions with each end of the length artifact <b>64</b>. In some embodiments, the processor <b>70</b> can be configured to quantify an error between the positions of the CMM <b>10</b> position and the PCMM <b>40</b> position. If an error identified between the positions of the CMM <b>10</b> and the PCMM <b>40</b> is greater than a predetermined error threshold, the PCMM <b>40</b> can be recalibrated by the CMM <b>10</b> according to the method described herein. If the error identified by the CMM <b>10</b> and the PCMM <b>40</b> is within a predetermined error threshold, the PCMM <b>40</b> can be considered calibrated.</p>
+<p id="h-0011" num="0000">Probe Head Configurations</p>
+<p id="p-0081" num="0080">With reference to <figref idref="DRAWINGS">FIGS. 9A</figref>, <b>10</b>A, <b>11</b>A, and <b>12</b>A, in various embodiments, different configurations of probe heads <b>20</b>, <b>56</b> can be used in the PCMM <b>40</b> calibration method described herein. Several possible configurations of probe heads <b>20</b>, <b>56</b> are illustrated, although it is contemplated that other, non-illustrated configurations can be used. As noted above, it can be desirable that at least one of the probe heads <b>20</b>, <b>56</b> include a profile, such as a spherical profile or a segment of a spherical profile, which allows the probe heads <b>20</b>, <b>56</b> to contact one another in multiple orientations.</p>
+<p id="p-0082" num="0081">With reference to <figref idref="DRAWINGS">FIG. 9A</figref>, in some embodiments, the probe tip <b>20</b> on the CMM <b>10</b> can comprise a touch trigger probe <b>82</b>, and the probe head <b>56</b> on the PCMM <b>40</b> can comprise a hard probe <b>84</b>. The touch trigger probe <b>82</b> can include an electric switch configured to signal the processor <b>70</b> when contact has been made, as further discussed below with reference to <figref idref="DRAWINGS">FIG. 9B</figref>. The hard probe <b>84</b> can be electrically passive. The hard probe <b>84</b> can include probe surface defined by a substantially spherical ball. Accordingly, the PCMM <b>40</b> can be repositioned into many orientations with respect to the CMM <b>10</b> which define contact positions as the touch trigger probe can contact different areas of the spherical ball in various contact positions. Various touch trigger probes and hard probes are readily available for use with PCMMs and CMMs and can be used in the PCMM calibration methods described herein.</p>
+<p id="p-0083" num="0082">As discussed above, when a contact position between the probe heads <b>20</b>, <b>56</b> is achieved, it is desirable to simultaneously obtain position data from both the CMM <b>10</b> and the PCMM <b>40</b>. The CMM <b>10</b> and PCMM <b>40</b> can be operatively coupled to achieve the desired synchronization of position data. <figref idref="DRAWINGS">FIG. 9B</figref> illustrates a possible connection between the CMM <b>10</b> and PCMM <b>40</b> with a configuration of probe heads <b>20</b>, <b>56</b> as illustrated in <figref idref="DRAWINGS">FIG. 9A</figref>.</p>
+<p id="p-0084" num="0083">With reference to <figref idref="DRAWINGS">FIG. 9B</figref>, the processor <b>70</b> can include a CMM controller <b>72</b> electrically coupled to a CMM probe controller <b>74</b>. The electric coupling is schematically illustrated as a wired connection <b>76</b>, however, it is contemplated that in some embodiments, the CMM controller <b>72</b> can be wirelessly coupled to the CMM probe controller <b>74</b>. In other embodiments, the CMM controller <b>72</b> and the CMM probe controller <b>74</b> can be integrated in a single integrated device. The touch trigger probe <b>82</b> is schematically illustrated as a switch having a wired connection <b>78</b> to the CMM probe controller <b>74</b>. Accordingly, when the touch trigger probe <b>82</b> contacts the hard probe <b>84</b> (<figref idref="DRAWINGS">FIG. 9A</figref>), a position signal is sent from the CMM <b>10</b> to the CMM probe controller <b>74</b>, which processes the signal and passes it along to the CMM controller <b>72</b> and the PCMM. The PCMM can be electrically coupled to the CMM between the CMM probe controller <b>74</b> and the CMM controller <b>72</b>. In the illustrated embodiment, this electrical coupling is illustrated as a sync cable <b>30</b> forming a wired connection between the CMM <b>40</b> and the wired connection <b>76</b> between the CMM probe controller <b>74</b> and the CMM controller <b>72</b>. Thus, in the illustrated configuration, when a contact position is made, a sync signal is sent over the sync cable <b>30</b> to the PCMM <b>40</b> to obtain position data.</p>
+<p id="p-0085" num="0084">With reference to <figref idref="DRAWINGS">FIG. 10A</figref>, another probe head configuration for use in the calibration systems and methods described herein is illustrated. As illustrated, the CMM <b>10</b> can have a probe tip <b>20</b> comprising a hard probe <b>84</b> substantially as described above with respect to <figref idref="DRAWINGS">FIG. 9A</figref>. The PCMM <b>40</b> can have a touch trigger <b>82</b> substantially as described above with respect to <figref idref="DRAWINGS">FIG. 9A</figref>. As described above, this configuration of probe heads can desirably allow multiple repositionings of the CMM and PCMM to generate a constellation of data sets for each position of the CMM.</p>
+<p id="p-0086" num="0085">With reference to <figref idref="DRAWINGS">FIG. 10B</figref>, a schematic illustration is provided of an electrical coupling of the PCMM to the CMM with the probe head configuration of <figref idref="DRAWINGS">FIG. 10A</figref>. As illustrated, the touch trigger probe <b>82</b> is schematically illustrated as a switch on the PCMM <b>40</b>. The PCMM is electrically coupled over the sync cable <b>30</b> to a wired connection <b>78</b> between the hard probe <b>84</b> on the CMM <b>10</b> and the CMM probe controller <b>74</b>. Accordingly, when contact between the touch trigger probe <b>82</b> and the hard probe <b>84</b> is made, a sync signal can be sent along the sync cable <b>30</b> to the CMM probe controller <b>74</b> to obtain position data from the CMM. Thus, once a contact position is reached, position data from both the CMM and PCMM is simultaneously obtained by the processor <b>70</b>. As discussed above with respect to other embodiments, it is contemplated that while wired connections are schematically illustrated herein, wireless connections, or other integration can be used in other embodiments to allow similar functionality.</p>
+<p id="p-0087" num="0086">With reference to <figref idref="DRAWINGS">FIG. 11A</figref>, another probe head configuration for use in the calibration systems and methods described herein is illustrated. As illustrated, the CMM <b>10</b> can have a probe tip <b>20</b> comprising a switched contact probe such as a three-ball kinematic mount probe <b>90</b> as described further below. The PCMM <b>40</b> can have a hard probe <b>84</b> substantially as described above with respect to <figref idref="DRAWINGS">FIG. 9A</figref>. As described above, this configuration of probe heads can desirably allow multiple repositionings of the CMM and PCMM to generate a constellation of data sets for each position of the CMM.</p>
+<p id="p-0088" num="0087">With reference to <figref idref="DRAWINGS">FIGS. 11A</figref>, <b>13</b>, and <b>14</b>, the three-ball kinematic mount probe <b>90</b> can comprise a base plate <b>92</b> and three contact balls <b>94</b>. The contact balls <b>94</b> can be at least partially seated in the base plate <b>92</b> such that only a spherical portion protrudes from the surface of the base plate <b>92</b>. In some embodiments, the contact balls <b>94</b> need not be completely spherical. Rather, portions of spherical balls can be used. The contact balls <b>94</b> can be arranged to form a seat in the base plate. In the illustrated embodiment, for example, the contact balls <b>94</b> are arranged as vertices of a substantially equilateral triangle, thus forming a seat in the base plate <b>92</b> defined by an interior of the triangle. A hard probe <b>84</b> can be positioned in the seat and simultaneously contact each of the three contact balls <b>94</b>. As further described below with reference to <figref idref="DRAWINGS">FIG. 14</figref>, contact of the hard probe with the three contact balls <b>94</b> simultaneously activates an electrical switch. Simultaneous contact of fewer than all three of the contact balls <b>94</b> does not activate the switch. Desirably, this arrangement allows for repeated kinematic mounting and contact with all three of the contact balls <b>94</b> at various orientations by a hard probe or other probe head attachment. While the contact probe is illustrated as having three contact balls <b>94</b> arranged in a triangular configuration on the base plate <b>92</b> to provide repeatable kinematic mounting with a hard probe, in other embodiments, more or fewer than three contact balls <b>94</b> can be used. Likewise, in other embodiments, contact balls can be arranged in other geometries on the base plate <b>92</b>.</p>
+<p id="p-0089" num="0088">With reference to <figref idref="DRAWINGS">FIG. 11B</figref>, a schematic illustration is provided of an electrical coupling of the PCMM to the CMM with the probe head configuration of Figure <b>11</b>A. The electric connections in this embodiment are substantially similar to those illustrated and described above with reference to the embodiment of <figref idref="DRAWINGS">FIG. 9B</figref>. As illustrated, the three-ball kinematic mount probe <b>90</b> is schematically illustrated as a switch on the CMM <b>10</b> that is electrically coupled over a wired connection <b>78</b> to the CMM probe controller <b>74</b>. As illustrated, the PCMM is electrically coupled over the sync cable <b>30</b> to a wired connection <b>76</b> between the CMM probe controller <b>74</b> and the CMM controller <b>72</b>. Accordingly, when contact between the contact probe <b>90</b> and the hard probe <b>84</b> is made, a sync signal can be sent along the sync cable <b>30</b> to the PCMM <b>40</b> to obtain position data from the PCMM <b>40</b>. Thus, once a contact position is reached, position data from both the CMM and PCMM is simultaneously obtained by the processor <b>70</b>. As discussed above with respect to other embodiments, it is contemplated that while wired connections are schematically illustrated herein, wireless connections, or other integration can be used in other embodiments to allow similar functionality.</p>
+<p id="p-0090" num="0089">With reference to <figref idref="DRAWINGS">FIG. 14</figref>, a schematic illustration of one embodiment of circuit to allow switching of the contact probe <b>90</b> as described above is provided. In the illustrated embodiment, each of the contact balls is electrically coupled to a switching circuit <b>100</b>. The switching circuit <b>100</b> has two output wires and outputs either a switch on or off signal, similar to a simple switch. While a particular arrangement of components is illustrated in the switching circuit <b>100</b>, it is contemplated that various other arrangements can be made to output an on or off signal. Furthermore, while the switching circuit is illustrated as wired to the contact probe <b>90</b>, in some embodiments, the switching circuit <b>100</b> can be integrated with the contact probe <b>90</b>. In still other embodiments, the switching circuit <b>100</b> can be integrated with the processor <b>70</b>.</p>
+<p id="p-0091" num="0090">With reference to <figref idref="DRAWINGS">FIG. 12A</figref>, another probe head configuration for use in the calibration systems and methods described herein is illustrated. As illustrated, the PCMM <b>40</b> can have a probe head <b>56</b> comprising a switched contact probe such as a three-ball kinematic mount probe <b>90</b> as described above. The CMM <b>10</b> can have a hard probe <b>84</b> substantially as described above with respect to <figref idref="DRAWINGS">FIG. 10A</figref>. As described above, this configuration of probe heads can desirably allow multiple repositionings of the CMM and PCMM to generate a constellation of data sets for each position of the CMM.</p>
+<p id="p-0092" num="0091">With reference to <figref idref="DRAWINGS">FIG. 12B</figref>, a schematic illustration is provided of an electrical coupling of the PCMM to the CMM with the probe head configuration of <figref idref="DRAWINGS">FIG. 12A</figref>. As illustrated, the contact probe <b>90</b> is schematically illustrated as a switch on the PCMM <b>40</b>. The PCMM is electrically coupled over the sync cable <b>30</b> to a wired connection <b>78</b> between the hard probe <b>84</b> on the CMM <b>10</b> and the CMM probe controller <b>74</b>. Accordingly, when contact between the contact probe <b>90</b> and the hard probe <b>84</b> is made, a sync signal can be sent along the sync cable <b>30</b> to the CMM probe controller <b>74</b> to obtain position data from the CMM. Thus, once a contact position is reached, position data from both the CMM and PCMM is simultaneously obtained by the processor <b>70</b>. As discussed above with respect to other embodiments, it is contemplated that while wired connections are schematically illustrated herein, wireless connections or other integration can be used in other embodiments to allow similar functionality.</p>
+<p id="p-0093" num="0092">The various devices, methods, procedures, and techniques described above provide a number of ways to carry out the invention. Of course, it is to be understood that not necessarily all objectives or advantages described may be achieved in accordance with any particular embodiment described herein. Also, although the invention has been disclosed in the context of certain embodiments and examples, it will be understood by those skilled in the art that the invention extends beyond the specifically disclosed embodiments to other alternative embodiments, combinations, sub-combinations and/or uses and obvious modifications and equivalents thereof. Accordingly, the invention is not intended to be limited by the specific disclosures of preferred embodiments herein.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US07640674-20100105-M00001.NB">
+<img id="EMI-M00001" he="6.35mm" wi="76.20mm" file="US07640674-20100105-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00002" nb-file="US07640674-20100105-M00002.NB">
+<img id="EMI-M00002" he="6.35mm" wi="76.20mm" file="US07640674-20100105-M00002.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method for calibrating a portable coordinate measurement machine having a probe comprising;
+<claim-text>providing a coordinate measurement machine having a measurement probe;</claim-text>
+<claim-text>positioning the coordinate measurement machine in a first calibration position;</claim-text>
+<claim-text>positioning the portable coordinate measurement machine in a first position such that the probe contacts the measurement probe of the coordinate measurement machine in the first calibration position;</claim-text>
+<claim-text>positioning the coordinate measurement machine in a second calibration position; and</claim-text>
+<claim-text>positioning the portable coordinate measurement machine in a second position such that the probe contacts the measurement probe of the coordinate measurement machine in the second calibration position.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising generating a signal when the probe of the portable coordinate measurement machine contacts the measurement probe of the coordinate measurement machine.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein one of the probe and the measurement probe comprises a touch trigger probe configured to generate the signal.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein one of the probe and the measurement probe comprises a contact probe comprising a plate having three spherical portions positioned thereon and defining a seat on the plate, the contact probe configured to generate a signal when contact is simultaneously made with all of the three spherical portions.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the probe comprises a passive probe and the measurement probe comprises a touch trigger probe.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the probe comprises a touch trigger probe and the measurement probe comprises a passive probe.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the probe comprises a contact probe comprising a plate having three spherical portions positioned thereon and defining a seat on the plate, the contact probe configured to generate a signal when contact is simultaneously made with all of the three spherical portions, and the measurement probe comprises a passive probe.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the probe comprises a passive probe and the measurement probe comprises a contact probe comprising a plate having three spherical portions positioned thereon and defining a seat on the plate, the contact probe configured to generate a signal when contact is simultaneously made with all of the three spherical portions.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising positioning the portable coordinate measurement machine in at least one supplemental position such that the probe contacts the measurement probe of the coordinate measurement machine in the first calibration position.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, further comprising positioning the portable coordinate measurement machine in at least one supplemental position such that the probe contacts the measurement probe of the coordinate measurement machine in the second calibration position.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the at least one supplemental position comprises three or more supplemental positions.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the probe of the portable coordinate measurement machine and the measurement probe of the coordinate measurement machine are positioned in at least fifty distinct positions of contact with one another.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>positioning the coordinate measurement machine in a third calibration position; and</claim-text>
+<claim-text>positioning the portable coordinate measurement machine in a third position such that the probe contacts the measurement probe of the coordinate measurement machine in the third calibration position.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. A system for calibrating a portable coordinate measurement machine comprising;
+<claim-text>a coordinate measurement machine;</claim-text>
+<claim-text>a portable coordinate measurement machine;</claim-text>
+<claim-text>a control unit operatively coupled to the coordinate measurement machine and the portable coordinate measurement machine.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The system of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the control unit comprises a coordinate measurement machine probe control module operatively coupled to a coordinate measurement machine controller, wherein the coordinate measurement machine comprises a touch trigger probe, and wherein the portable coordinate measurement machine is operatively coupled to the control unit between the coordinate measurement machine probe control module and the coordinate measurement machine controller.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The system of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the control unit comprises a coordinate measurement machine probe control module operatively coupled to a coordinate measurement machine controller, wherein the portable coordinate measurement machine comprises a touch trigger probe, and wherein the portable coordinate measurement machine is operatively coupled to the control unit between the coordinate measurement machine probe control module and a probe of the coordinate measurement machine.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The system of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the control unit comprises a coordinate measurement machine probe control module operatively coupled to a coordinate measurement machine controller, wherein the coordinate measurement machine comprises a contact probe, and wherein the portable coordinate measurement machine is operatively coupled to the control unit between the coordinate measurement machine probe control module operatively and the coordinate measurement machine controller.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The system of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the control unit comprises a coordinate measurement machine probe control module operatively coupled to a coordinate measurement machine controller, wherein the portable coordinate measurement machine comprises a contact probe, and wherein the portable coordinate measurement machine is operatively coupled to the control unit between the coordinate measurement machine probe control module and a probe of the coordinate measurement machine.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. A contact probe for a coordinate measurement machine comprising;
+<claim-text>a plate;</claim-text>
+<claim-text>a first spherical portion extending from the plate;</claim-text>
+<claim-text>a second spherical portion extending from the plate;</claim-text>
+<claim-text>a third spherical portion extending from the plate;</claim-text>
+<claim-text>wherein the first, second, and third spherical portions are positioned to form a seat on the plate; and</claim-text>
+<claim-text>wherein the first, second, and third spherical portions are electrically coupled to one another such that simultaneous contact of the first, second, and third spherical portions completes a segment of an electrical circuit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The contact probe of <claim-ref idref="CLM-00019">claim 19</claim-ref>, further comprising a switching circuit electrically coupling the first, second, and third spherical portions to one another. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

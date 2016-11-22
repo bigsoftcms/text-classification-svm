@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641124-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641124</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11479897</doc-number>
+<date>20060630</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>652</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>K</subclass>
+<main-group>19</main-group>
+<subgroup>06</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>235493</main-classification>
+<further-classification>235492</further-classification>
+<further-classification>235451</further-classification>
+</classification-national>
+<invention-title id="d0e53">Magnetic data recording device</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5180902</doc-number>
+<kind>A</kind>
+<name>Schick</name>
+<date>19930100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5317636</doc-number>
+<kind>A</kind>
+<name>Vizcaino</name>
+<date>19940500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5434398</doc-number>
+<kind>A</kind>
+<name>Goldberg</name>
+<date>19950700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5623552</doc-number>
+<kind>A</kind>
+<name>Lane</name>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5627355</doc-number>
+<kind>A</kind>
+<name>Rahman</name>
+<date>19970500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5818030</doc-number>
+<kind>A</kind>
+<name>Reyes</name>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5834747</doc-number>
+<kind>A</kind>
+<name>Cooper</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>6089451</doc-number>
+<kind>A</kind>
+<name>Krause</name>
+<date>20000700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6206293</doc-number>
+<kind>B1</kind>
+<name>Gutman</name>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6308890</doc-number>
+<kind>B1</kind>
+<name>Cooper</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6510983</doc-number>
+<kind>B2</kind>
+<name>Horowitz</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6592044</doc-number>
+<kind>B1</kind>
+<name>Wong</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>6636833</doc-number>
+<kind>B1</kind>
+<name>Flitcroft</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>6764005</doc-number>
+<kind>B2</kind>
+<name>Cooper</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>6853412</doc-number>
+<kind>B2</kind>
+<name>Stephenson</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6954133</doc-number>
+<kind>B2</kind>
+<name>McGregor</name>
+<date>20051000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>2002/0096570</doc-number>
+<kind>A1</kind>
+<name>Wong</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>2004/0123132</doc-number>
+<kind>A1</kind>
+<name>Montgomery</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>2004/0133787</doc-number>
+<kind>A1</kind>
+<name>Doughty</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>2005/0001711</doc-number>
+<kind>A1</kind>
+<name>Doughty</name>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>2005/0043997</doc-number>
+<kind>A1</kind>
+<name>Sahota</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>15</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>235493</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>235492</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>235449</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>235380</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>235451</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>13</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11404660</doc-number>
+<kind>00</kind>
+<date>20060414</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7543739</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11479897</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>10738376</doc-number>
+<kind>00</kind>
+<date>20031217</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7044394</doc-number>
+<kind>A </kind>
+<date>20060516</date>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11404660</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070241201</doc-number>
+<kind>A1</kind>
+<date>20071018</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Brown</last-name>
+<first-name>Kerry D.</first-name>
+<address>
+<city>Portola Valley</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Pariseau</last-name>
+<first-name>David K.</first-name>
+<address>
+<city>Los Altos</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Li</last-name>
+<first-name>Weidong</first-name>
+<address>
+<city>Mountain View</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Williams</last-name>
+<first-name>Edgar M.</first-name>
+<address>
+<city>Palo Alto</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="005" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Thompson</last-name>
+<first-name>Joyce</first-name>
+<address>
+<city>Menlo Park</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Main</last-name>
+<first-name>Richard B.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Qsecure, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Los Altos</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Labaze</last-name>
+<first-name>Edwyn</first-name>
+<department>2887</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A Q-Chip MEMS magnetic device comprises a thin-film electronic circuit for implantation in the Track-2 area of a magnetic stripe on the back of a credit card. The Q-Chip MEMS magnetic device periodically self-generates new sub-sets of magnetic data that are to be read in combination with other magnetic data that is permanently recorded in the surrounding surface of the magnetic stripe. A collocated battery and microcontroller provide operating power and new data for magnetic bit updates. A swipe sensor triggers such updates by sensing electrical contact with a legacy card reader. Several thin-film coils of wire are wound end-to-end around a common, flat, ferrous core. These are driven by the microcontroller. In one instance, such core comprises &#x201c;hard&#x201d; magnetic material with a coercivity of 200-300 Oersteds. Magnetic data written from the corresponding adjacent coils will persist for later readings by a legacy card reader. In another instance, the core comprises &#x201c;soft&#x201d; magnetic material with a coercivity of about one Oersted. A media stripe of &#x201c;hard&#x201d; magnetic film material overlays respective coils to receive magnetic data transfers. Magnetic data written from the corresponding adjacent coils will persist in the overlaying hard media for later readings by a legacy card reader. In a data input mode, the thin-film coils can be used as readers to provide updates and new programming to the microcontroller.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="96.86mm" wi="196.77mm" file="US07641124-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="236.90mm" wi="196.77mm" file="US07641124-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="228.09mm" wi="181.36mm" file="US07641124-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="248.92mm" wi="187.45mm" file="US07641124-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="210.40mm" wi="192.28mm" file="US07641124-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="222.17mm" wi="169.33mm" file="US07641124-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This Application is a continuation-in-part of U.S. patent application Ser. No. 11/404,660, filed Apr. 14, 2006 now U.S. Pat. No. 7,543,739, by two of the present inventors, Kerry D. BROWN and David K. PARISEAU, and titled AUTOMATED PAYMENT CARD FRAUD DETECTION AND LOCATION. Such patent application was, in turn, a continuation-in-part of U.S. application Ser. No. 10/738,376, filed Dec. 17 2003, now issued U.S. Pat. No. 7,044,394 B2, issued May 16, 2006, and both documents are incorporated herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates to magnetic data recording devices, and more particularly to thin-film micro electromechanical system (MEMS) electronic devices placed in magnetic stripes that provide for a dynamic part of an otherwise static data recording.</p>
+<p id="p-0005" num="0004">2. Description of Related Art</p>
+<p id="p-0006" num="0005">Magnetic data recordings have been an important medium for use in video, audio, and computer data storage. Tapes have been configured on reels, cassettes, and cartridges. Short segments of magnetic stripes on the backs of credit, payment, and identity cards are ubiquitous ways to make wallet cards machine readable and more secure. Such magnetic stripes on credit cards have enabled worldwide use in merchant point-of-sale (POS) terminals.</p>
+<p id="p-0007" num="0006">Jacob Wong describes a credit card (<b>11</b>) with a magnetic stripe (<b>12</b>) on the back, in U.S. Pat. No. 6,592,044, issued Jul. 15, 2003. Such patent is incorporated herein by reference. The card described by Wong is intended to be read by a standard POS card reader, and has the conventional three tracks of data (<b>13</b>-<b>15</b>) common to modern payment cards. A small encoder (<b>16</b>,<b>25</b>) is embedded in the magnetic stripe, e.g., a part of the middle track (<b>15</b>). The encoder provides for the generating of a data packet that &#x201c;can contain a personal coupon and an alias.&#x201d; Such personal coupon is produced by a collocated and embedded microprocessor (<b>16</b>) after a personal identification number (PIN) is input into the card. Wong explains that Track-1 was originally defined by the International Air Transport Association (IATA), and records seventy-nine alpha-numeric characters recorded at 210-bpi. Conventionally, it contains the cardholder's name, account, and discretionary data. Track-2 was originally defined by the American Banking Association (ABA), and this is the track that is read by ATMs and credit card readers. It records forty binary coded decimal (BCD) characters at 75-bpi. Wong's encoder is placed in one segment of this track and occupies less than all forty character positions. The ABA track specifications have been adopted by all the major banks in the world. Track-2 has data fields used to record the cardholder's account number, expiration date, possibly an encrypted PIN, and bank or card issuer discretionary data. Track-3 was used by ATM machines for withdrawal limits or history, and is still included for future definition and use, but it still as yet has not found any standardized widespread use. It provides for 107 BCD characters recorded at 210-bpi.</p>
+<p id="p-0008" num="0007">The problem that developed with conventional credit cards was that the data recorded on the magnetic stripe could be easily duplicated or &#x201c;skimmed&#x201d; off the card. The data collected was valid everywhere for every transaction until the victim detected and reported the theft. The better solution was to make each access number unique for each transaction, so that data from a skimmed card became instantly obsolete when the cardholder used it in a valid transaction. A card that does just this is described in U.S. patent application Ser. No. 11/404,660, filed Apr. 14, 2006, by the present inventor, Kerry Dennis BROWN, and titled AUTOMATED PAYMENT CARD FRAUD DETECTION AND LOCATION.</p>
+<p id="p-0009" num="0008">Implementing the electronics that can change all or parts of the magnetic recording on the magnetic stripe of a credit card is difficult and challenging. Everything must fit within a very thin flexible plastic card, and such must be compatible with all legacy card readers. Requiring special card readers will prevent all but limited acceptance. The generating and writing of the new magnetic data for the next transaction requires some kind of energy source, and flat thin batteries are the most practical. These batteries must provide a useful service life, e.g., at least two years in normal use. The per-card manufacturing costs also need to be low enough to make widespread deployment practical and affordable. Some of these costs might be absorbed by the savings gained by reducing skimming fraud, but in general the cards including these technologies need to be a few dollars per card in volume.</p>
+<p id="p-0010" num="0009">What is needed is a magnetic encoder or device that can be embedded in the Track-2 area of a magnetic stripe on a credit card. Such must be reliable and effective, and it must provide years of service life in this embodiment at only a few cents per unit. The prior art has not recognized that maintaining the magnetic data writing currents for more than a very brief period per use will drain the on-board batteries too quickly. New, improved batteries in the future are expected to live longer and have fewer materials issues.</p>
+<p id="p-0011" num="0010">Conventional devices and methods have not appreciated the problems in aligning the data bits from the encoder properly with the statically recorded bits in the rest of the magnetic stripe. Prior art devices do not address the changes in field amplitude matches that can occur with different card swiping speeds. They further have not provided or suggested solutions for the magnetic and mechanical discontinuities that can occur when a thin-film circuit is embedded in a magnetic stripe.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0012" num="0011">Briefly, a Q-Chip MEMS magnetic device embodiment of the present invention comprises a thin-film electronic circuit embedded in part of the Track-<b>2</b> area of a magnetic stripe on the back of a credit card. The Q-Chip MEMS magnetic device periodically self-generates new sub-sets of magnetic data that are read in combination with other permanently recorded magnetic data in the surrounding surface of the magnetic stripe. A collocated battery and microcontroller provide operating power and new data for magnetic bit updates. A swipe sensor triggers such updates by sensing electrical contact with a legacy card reader. Alternatively, the update may occur periodically based on time, or it may occur via some external stimuli such as the entering of a PIN number or the validation of some biometric parameter. Several thin-film coils of wire are wound end-to-end around a common, flat, ferrous core. These coils are individually driven by the microcontroller.</p>
+<p id="p-0013" num="0012">An advantage of the present invention is that a payment card is provided that is compatible with existing legacy payment card systems and infrastructure.</p>
+<p id="p-0014" num="0013">A further advantage of the present invention is that a payment card is provided that has a long service life.</p>
+<p id="p-0015" num="0014">A still further advantage of the present invention is that a magnetic device is provided that once embedded can blend its magnetic data with permanent recordings in a magnetic stripe.</p>
+<p id="p-0016" num="0015">Another advantage of the present invention is a payment card is provided that can dynamically generate a new account number each it is used, and by doing so, immediately authenticate itself to the transaction infrastructure.</p>
+<p id="p-0017" num="0016">Another advantage of the present invention is that a payment card is provided that is far more difficult to copy or skim compared to conventional magnetic stripe cards.</p>
+<p id="p-0018" num="0017">A further advantage is a magnetic device is provided that can maintain its magnetic data after updating without using battery power.</p>
+<p id="p-0019" num="0018">Another advantage is that swipe speed of the card within the reader will not result in a divergence of field strength between the static magnetic media, and the dynamic media on the Q-Chip.</p>
+<p id="p-0020" num="0019">The above and still further objects, features, and advantages of the present invention will become apparent upon consideration of the following detailed description of specific embodiments thereof, especially when taken in conjunction with the accompanying drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 1</figref> is a functional block diagram of a payment card system embodiment of the present invention;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 2</figref> is a perspective diagram of a payment card embodiment of the present invention;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 3</figref> is a perspective diagram of a Q-Chip MEMS magnetic device embodiment of the present invention that uses a hard magnetic core with individual coil windings;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIGS. 4A and 4B</figref> are longitudinal and lateral cross sectional diagrams of thin-film implementation of the Q-Chip MEMS magnetic device of <figref idref="DRAWINGS">FIG. 3</figref>;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 5</figref> is a perspective diagram of a Q-Chip MEMS magnetic device embodiment of the present invention that uses a soft magnetic core and a hard magnetic media with individual coil windings;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIGS. 6A and 6B</figref> are longitudinal and lateral cross sectional diagrams of thin-film implementation of the Q-Chip MEMS magnetic device of <figref idref="DRAWINGS">FIG. 5</figref>;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 7</figref> is a cross-sectional view of a credit card sliced through the longitudinal length of the magnetic stripe and the Q-chip inlaid into magnetic Track-2;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 8</figref> is a perspective view of the credit card of <figref idref="DRAWINGS">FIG. 7</figref> showing how the Q-chip is attached into the recess provided for it in Track-2, and how, for example, epoxy impregnated with magnetic material is used to provide a magnetically seamless joint; and</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 9</figref> is a perspective diagram showing a contact swipe sensor implemented as conductive foils over the top protective coating of a Q-Chip MEMS magnetic device;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 10</figref> is a perspective diagram of a Q-Chip MEMS magnetic device embodiment of the present invention that uses a hard magnetic core with tapped coil windings; and</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 11</figref> is a perspective diagram of a Q-Chip MEMS magnetic device embodiment of the present invention that uses a soft magnetic core and a hard magnetic media with tapped coil windings.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 1</figref> illustrates a QSECURE&#x2122; payment card system embodiment of the present invention, and is referred to herein by the general reference numeral <b>100</b>. System <b>100</b> greatly reduces the risks of fraud by credit card skimming or data mining from merchant cached data, and yet remains compatible with the vast installed base of magnetic payment card readers in the world.</p>
+<p id="p-0033" num="0032">The various embodiments possible all share a common core set of technologies. Every basic embodiment includes a card <b>102</b> in a credit-card format, a crypto-table or run-time cryptographic algorithm <b>104</b>, a microcontroller <b>106</b> to access the crypto-table or run the cryptographic algorithm, an on-board power source <b>108</b>, a data track <b>110</b> that is partially affected by the microcontroller according to crypto-table or locally derived values, a reader means <b>112</b> to communicate the data track information to a payment server <b>114</b>, and a host server <b>114</b> to authenticate the data track information. The dimensions, materials, magnetics, recordings, and data formats used by card <b>102</b> are dictated by industry &#x201c;ISO standards&#x201d; for bank payment cards. The other components described here must fit within these constraints. The merchant infrastructure and payment server represented in <figref idref="DRAWINGS">FIG. 1</figref> are typical, many other variations exist but still can benefit from embodiments of the present invention.</p>
+<p id="p-0034" num="0033">The crypto-table <b>104</b> can be used to store a set of values that have been cryptographically pre-computed by a card manufacture <b>116</b> and preloaded into a table. The values are accessed by the on-board microcontroller when the card <b>102</b> is swiped by a merchant <b>112</b>. These table values are such that a next valid value cannot be predicted from a presently valid value being used in a current transaction. The whole table of values is only valid for the particular card they are carried in, and compromising them will not assist a hacker in breaching any other card or account. An on-board crypto-engine would not have this particular advantage, but may be superior to a simple crypto-table in some applications.</p>
+<p id="p-0035" num="0034">The microcontroller (&#x3bc;C) <b>106</b> is awakened, e.g., by a swipe sensor, when the card is to be used. A next crypto-table value is accessed when needed. Swiping triggers the sending of a result to a Q-Chip MEMS magnetic device <b>118</b> in data track <b>110</b>. The Q-Chip MEMS magnetic device <b>118</b> appears, e.g., to a legacy card reader <b>120</b> as a portion of the whole magnetically recorded access number. But the part of the access number provided by the Q-Chip MEMS magnetic device <b>118</b> can be internally re-written for each transaction.</p>
+<p id="p-0036" num="0035">&#x201c;Hard&#x201d; magnetic materials, e.g., with coercivities high enough to support the magnetic data persistence needed to retain the magnetic data after being pulse-written, are included in the Q-Chip MEMS magnetic device <b>118</b>. The card readers must be able to read the data long after the initial writing, thereby conserving battery power. But if the coercivity of the hard magnetic materials is too high, then excessive currents in the writing coils will be needed to flip the magnetic bits. This higher currents, if feasible, can severely limit battery life. So a compromise is needed. Coercivities in the range of 50-600 Oe seem practical at this point in the development. Experimentation and practical experience in actual mass consumer use is needed to refine these parameters. Early experiments and prototypes indicate hard materials with 200-300 Oe is a promising range of compromise. In future, better batteries should allow higher value materials to be used, e.g., 400 Oe.</p>
+<p id="p-0037" num="0036">Card <b>100</b> does not have to execute an encryption process. The numbers can be stored in the table during manufacturing. These numbers can be encrypted using a seed connected with the user, or they may be chosen at random and then ordered. The essential idea is that the next valid number cannot be predicted from any numbers that were used before. The payment server <b>114</b> allows some mis-synchronization for what should be the next valid number, within a range of next valid numbers such as it already knows are associated with the particular card.</p>
+<p id="p-0038" num="0037">The means to communicate information read from the data track <b>110</b> to a host server <b>114</b> preferably relies on presently deployed legacy card readers <b>120</b> and automated teller machines (ATM's) <b>122</b> to forward a swipe data to host server <b>114</b> for authentication and payment. Each request is scanned by an access request program <b>124</b>. If acceptable so far, the payment request is forwarded to a fraud detection program <b>126</b>. Acceptable crypto-table values that were created during card manufacturing <b>116</b> are computed in the fraud detection program <b>126</b> in real-time use as they are presented so they do not need to be stored by the payment server <b>114</b>. An alert can be issued if the value was presented before and used without incident. If no fraud is detected, and payment authority is verified, a payment authorization program <b>130</b> sends an authorization code to the legacy card reader <b>120</b> or ATM <b>122</b>.</p>
+<p id="p-0039" num="0038">An add-on program for the host server <b>114</b> is provided with its own list of crypto-table values that were loaded into each card during manufacture, and checks these against what it receives in payment requests. The server limits each value to one use, and the location and time of each use are logged. The management of the valid-number window on the server can be set up such that unused numbers expire a fixed time after a later number is received.</p>
+<p id="p-0040" num="0039">A timer can be included in the card in alternative embodiments of the present invention. Such timer is activated on a trigger event, and prevents any other dynamic numbers from being generated until a pre-determined time has elapsed. If the timer times-out, a next transaction number is skipped and a new count is reset. This prevents copies of magstripe data from being accepted in a decision making process to authorize the transactions after a fixed period of time.</p>
+<p id="p-0041" num="0040">As shown in <figref idref="DRAWINGS">FIG. 2</figref>, a credit card <b>200</b> has a flexible circuit sandwiched between two outer plastic laminates. It functions and appears to be an ordinary credit card. A microcontroller (&#x3bc;C) <b>202</b> and crypto-table memory <b>203</b> are powered by a battery <b>204</b>. Alternatively, a photovoltaic cell, and/or piezoelectric strain generator can be used to provide operating power. Magnetic stripe <b>206</b> includes account access information to be presented during a transaction. A Q-Chip MEMS magnetic device <b>208</b> implements the programmable part <b>118</b> in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0042" num="0041">An electrical conductivity sensor is included within the Q-Chip <b>208</b> to detect when the card is being swiped in a legacy card reader, and when the microcontroller should be activated. The microcontroller is activated only long enough to write the new magnetic data, and the persistence of the magnetic material is relied upon to keep this data presentable for a card reader. In alternative embodiments, the embossed account numbers are replaced by a numeric display which is activated by a finger press on an included &#x201c;Q-button&#x201d;. In such a transaction the magnetic information on the card is not used, instead the card number, expiration date and the card validation/verification value (CVV, CVV2) can be used to effect a transaction. One method to prevent accidental button presses includes slotting the Q-button to fit a typical finger and requiring a minimum time before activation.</p>
+<p id="p-0043" num="0042">Payment card <b>200</b> resembles a typical payment or bank/ATM card, but may be a little thicker to accommodate the electronics sandwiched inside. The payment card industry has published standards (such as ISO/IEC-7810, ISO/IEC-7811(-1:6), and ISO/IEC-7813, available from American National Standards Institute NYC, NY), for all aspects of payment cards, and these regulate the card size, thickness, tolerance to flexing, positioning of account numbers and user information, magnetic recording formats on the magnetic stripe on the back, etc. Payment card <b>200</b> is compatible with these and other industry standards so as to allow rapid assimilation into the payment card system and its use by consumers.</p>
+<p id="p-0044" num="0043">Payment card <b>200</b> comprises three pre-lamination layers <b>212</b>, <b>214</b>, <b>216</b>, which are fused together. Other construction methods can be used, e.g., a solid cast material in which the electronics are embedded. The front layer <b>212</b> may include a digital user display for displaying a virtual personal account number (PAN). Some of the digits can be fixed and simply embossed and not electronically displayed. An alternative digital user display is used to display an expiration date. The middle layer <b>214</b> includes electronics for a virtual account number generator, a display controller, and a magnetic strip controller. The back layer <b>216</b> has a partially programmable magnetic stripe <b>206</b> and a printed card verification value (CVV, CVV<b>2</b>).</p>
+<p id="p-0045" num="0044">In order to personalize each card with user-specific data that may include the crypto-table, algorithm, unique keys, or similar after the basic hardware manufacturing is completed, there must some means to insert customized cryptographic information into each card in a post-manufacturing step. Very small needle probes could be inserted at the edge of the card to make contact with pads on a flex circuit to program the card. Or, these programming pads could be made electrically accessible from somewhere on the surface of the Q-Chip magnetic device. Another method comprises fixed electrical pads presented on the card surface.</p>
+<p id="p-0046" num="0045">Referring again to <figref idref="DRAWINGS">FIG. 2</figref>, a better approach is to provide an inductive or wireless coupling for a communication channel through the Q-Chip MEMS magnetic device back into the associated microcontroller. In the field, and in normal operation, a legacy card reader read head <b>220</b> is swiped <b>222</b> along the magnetic stripe <b>206</b> to gather the recorded card data. In personalization, a special program head <b>224</b> with a strong field strength is placed nearby to transmit a pulse and stream of data over an inductive or wireless interface <b>226</b>. The Q-Chip MEMS magnetic device <b>208</b> senses the programming mode, and allows the program head <b>224</b> to stream personalization data through the interface to appropriate memory locations in the card electronics, e.g., &#x3bc;C <b>202</b>. Once the programming and verification are completed, the interface <b>226</b> can be disabled so that this channel could not be used again.</p>
+<p id="p-0047" num="0046">The programmable magnetic stripe <b>206</b> can be like that described in U.S. patent application Ser. No. 10/738,376, filed Dec. 17, 2003, and titled PROGRAMMABLE MAGNETIC DATA STORAGE CARD; and also, U.S. patent application Ser. No. 10/800,821, filed Mar. 15, 2004, and titled THREE-LEGACY MODE PAYMENT CARD WITH PARAMETRIC AUTHENTICATION AND DATA INPUT ELEMENTS. Both are incorporated herein by reference.</p>
+<p id="p-0048" num="0047">The programmable magnetic stripe will typically have three tracks of data programming written on such by a magnetic card writer, e.g., by a card issuer. Parts of the magnetic stripe are subject to being reprogrammed from within the payment card itself. Such is advantageous if these parts comprise relatively low-coercivity magnetic materials chosen so that any magnetic recordings pressed upon them will dissipate and fade away after a predetermined time, e.g., a few minutes. This helps make sure any new account numbers internally generated and written to the magnetic stripe will only be used once and only in a valid transaction. After the recordings have faded away, the card can be used again, but only after a new account number is generated internally. The new account numbers will be unique to each transaction and merchant, so fraud detection is made possible at the issuing banks' payment processing servers.</p>
+<p id="p-0049" num="0048">The basic Q-Chip MEMS magnetic device <b>208</b> generally comprises several thin-film coils of wire are wound end-to-end around a common, flat, magnetic, possibly ferrous, core. These coils are individually driven by the microcontroller. In one instance, such core includes a so-called &#x201c;hard&#x201d; magnetic material with a coercivity of 50-600 Oe. The hard magnetic material can serve either as a core material wrapped by the conducting coils, or as the magnetic medium where magnetic data resides. Magnetic data written from corresponding adjacent coils wrapped around a &#x201c;soft&#x201d; core will persist on the hard medium about as long as data written directly on a &#x201c;hard&#x201d; core without a any overlaying medium.</p>
+<p id="p-0050" num="0049">If the wound core is made of a &#x201c;soft&#x201d; saturable magnetic material with a coercivity of about one Oersted, and a separate media stripe of &#x201c;hard&#x201d; magnetic film material overlays respective coils to receive magnetic data transfers from the coils and soft core, then such configuration is referred to herein as a soft magnetic core with hard medium, or simply &#x201c;soft core&#x201d;.</p>
+<p id="p-0051" num="0050">Magnetic data will persist for a long time in the overlaying hard media. A legacy card reader could read these recorded data months later, although it may be advantageous to extend or shortened this time for specific applications.</p>
+<p id="p-0052" num="0051">In a data input mode, thin-film coils with multiple taps can be used as readers to provide updates and new programming to the microcontroller. In this instance, the coil can receive information from specialized interface hardware that induces a changing magnetic field in the core, with such information then being converted to an electronic signal in the coil(s). This signal is then wave-shaped by the electromagnetic circuitry of the Q-chip and transferred to the microcontroller for digital interpretation and storage. Such a link can be used in manufacturing for programming the microcontroller, and may also be used in a payment environment for firmware updates, etc.</p>
+<p id="p-0053" num="0052">The implementation of payment card <b>200</b> is challenging in that all the electronics need to be very thin and low power. The digital displays must be flexible, and any embedded battery needs to be able to operate the electronics for at least one year of typical use. Conventional, albeit advanced technologies are presently available to fabricate payment card <b>200</b> as described. Therefore, a detailed description of those fabrication methods is not necessary here.</p>
+<p id="p-0054" num="0053">Some of the digits of the virtual account number in any display may be fixed. Such fixed numbers can be embossed or printed and not electronically represented. Similarly, some of the data related to the virtual account number and encoded to the magnetic stripe may also be fixed. The fixed bits can be recorded externally by a card writer, while the rest are electronically programmable from within. The fixed bits can represent the card type, and the bank number, e.g., the first 4-5 numbers of the personal account number. There can be some security benefits realized by not writing or displaying the virtual account numbers until they are actually going to be used.</p>
+<p id="p-0055" num="0054">In the past, the magnetic recordings laid down in the three tracks had some latitude in their exact placement on the magnetic stripe. However, payment card <b>200</b> will require that these recordings be properly aligned with the data being represented by the magnetic Q-Chip MEMS magnetic device <b>208</b> that sits inside under a window <b>210</b>. The mesh of the two magnetic data must be accurate to within one recorded bit, or else guard bit positions must be provided to accommodate slight misalignments. A specialized card writer is also required for this purpose that can read and store the original recordings, sense the location of the magnetic Q-Chip MEMS magnetic device <b>208</b>, and write the recordings back in their properly aligned positions.</p>
+<p id="p-0056" num="0055">There are two modes of use for payment card <b>200</b>, e.g., Card-Not-Present and Card-Present. More specially, Card-Not-Present is used for online Internet use where no card reader can be present, e.g., &#x201c;card not present&#x201d; transactions or mail-order/telephone-order by fax, mail, phone, email, instant messaging, etc. The user must manually read off to the merchant the virtual account number and the expiration date, e.g., over the telephone or entered into an order form on a website.</p>
+<p id="p-0057" num="0056">A new valid use-once account number may appear in user display, e.g., in response to some stimulus, like the pressing of a membrane switch button or sequence. Card-Present relates to point-of-sale (POS) use where a merchant card reader is present. The virtual account number and expiration date are machine-read by a magnetic card reader. A new valid use-once account number will appear in the data fields of magnetic stripe <b>118</b>, e.g., again in response to some stimulus like sensing the swiping of the card in the reader. The sending of the virtual account number to the user display and magnetic stripe <b>118</b> can be independent, or they can be coordinated in the case of a Card-Present POS transaction where the merchant is required to read off the last four account numbers and key them manually into the card reader.</p>
+<p id="p-0058" num="0057">A magnetic array is arranged on the back of the card <b>102</b> behind the magnetic stripe <b>118</b>. This presents what appears to be an ordinary magnetic stripe encoded with appropriate bank and user information for a conventional magnetic card reader. Such readers are ubiquitous throughout the world at point-of-sale terminals, and therefore it is very important not to require any changes to these readers in order to accommodate the proper use of payment card <b>200</b>.</p>
+<p id="p-0059" num="0058">An embedded power source is needed by payment card <b>200</b> that can last for the needed service life of a typical card, e.g., about eighteen months to four years. A chemical or MEMS battery or a piezoelectric generator and charger can be used. Such a piezoelectric generator converts incidental temperature excursions and mechanical flexing of the card into electrical power that can charge a storage capacitor or help maintain the battery. A piezoelectric crystal is arranged to receive mechanical energy from card flexing, geo-magnetic induced stress, thermally-induced stress, mechanically-induced stress, and/or keypad use. The charger converts the alternating current (AC) received into direct current (DC) and steps such up to a voltage that will charge the battery. Alternative embodiments can include embedded photovoltaic cells to power the card or charge its battery.</p>
+<p id="p-0060" num="0059">A conventional, &#x201c;legacy&#x201d;, merchant point-of-sale magnetic-stripe card reader <b>120</b> is used to read user account data recorded on a magnetic stripe <b>206</b> on the payment card <b>200</b>. Such is used by a merchant in a traditional way, the payment card <b>200</b> appears and functions like an ordinary debit, credit, loyalty, prepay, and similar cards with a magnetic stripe on the back.</p>
+<p id="p-0061" num="0060">User account data is recorded on the magnetic stripe <b>206</b> using industry-standard formats and encoding, for example, ISO/IEC-7810, ISO/IEC-7811(-1:6), and ISO/IEC-7813. These standards specify the physical characteristics of the cards, embossing, low-coercivity (e.g., 300-650 Oe) magnetic stripe media characteristics, location of embossed characters, location of data tracks 2-3, high-coercivity (e.g., 2500-4000 Oe) magnetic stripe media characteristics, and financial transaction cards. A typical Track-1, as defined by the International Air Transport Association (IATA), is seventy-nine alphanumeric characters recorded at 210-bits-per-inch (bpi) with 7-bit encoding. A typical Track-2, as defined by the American Bankers Association (ABA), is forty numeric characters at 75-bpi with 5-bit encoding, and Track-3 (ISO/IEC-4909) is typically one hundred and seven numeric characters at 210-bpi with 5-bit encoding. Each track has starting and ending sentinels, and a longitudinal redundancy check character (LRC). The Track-1 format includes user primary account information, user name, expiration date, service code, and discretionary data. These tracks conform to the ISO/IEC/IEC Standards 7810, 7811-1-6, and 7813, or other suitable formats.</p>
+<p id="p-0062" num="0061">The magnetic stripe <b>206</b> is located on the back surface of payment card <b>200</b>. A data generator, e.g., implemented with, microprocessor <b>202</b> and crypto-table <b>203</b>, receives its initial programming and personalization data from a data receptor. For example, such data receptor can be implemented with the Q-Chip coils themselves or a serial inductor placed under the magnetic stripe. This is then excited by a standard magnetic card writer. Additionally, the data may be installed at the card issuer, bank agency, or manufacturer by existing legacy methods. The data received is stored in non-volatile memory. Alternatively, a data receptor can be a radio frequency antenna and receiver, typical to ISO/IEC/IEC Specifications 24443 and 25693. The data generator may be part of a secure processor that can do cryptographic processing, similar to Europay-Mastercard-Visa (EMV) cryptoprocessors used in prior art &#x201c;smart cards&#x201d;.</p>
+<p id="p-0063" num="0062">Card-swipes generate detection sensing signals from one or a pair of detectors. These may be embedded at one or each end of magnetic stripe <b>206</b> and can sense the pressure and/or ohmic contact applied by a magnetic read head in a scanner. Alternatively, an electrical contact film over the magnetic stripe itself can be used as a switch to trigger the electronics.</p>
+<p id="p-0064" num="0063">Embodiments of the present invention combine parallel fixed-position write heads on one side of a thin, planar magnetic media, and a moving serial read head on the opposite side. Such operation resembles a parallel-in, serial-out shift register.</p>
+<p id="p-0065" num="0064">The legacy card reader <b>120</b> is a conventional commercial unit as are already typically deployed throughout the world, but especially in the United States. Such deployment in the United States is so deep and widespread that conversion to contact and contactless smartcard systems has been inhibited by merchant reluctance for more purchases, employee training, counter space, and other concerns.</p>
+<p id="p-0066" num="0065">Such is an important aspect of the present invention that the outward use of the payment card <b>200</b> not require any modification of the behavior of the user, nor require any special types of card readers. Such is a distinguishing characteristic and a principle reason that embodiments of the present invention are commercially successful. The card reader <b>120</b> has a magnetic-transducer read head that is manually translated along the length of data stripe.</p>
+<p id="p-0067" num="0066">The magnetic-transducer in the Q-Chip MEMS magnetic device <b>208</b> must be very thin and small, as they must fit within the relatively thin body of a plastic payment card, and be packed dense enough to conform to the standard recording bit densities in the respective tracks. Integrated combinations of micro-electro-mechanical (MEMS) systems, nanotechnology, and longitudinal and perpendicular ferromagnetics are therefore useful in implementations that use standard semiconductor and magnetic recording thin-film technologies.</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. 3</figref> represents a Q-Chip magnetic device <b>300</b> that uses a &#x201c;hard&#x201d; magnetic core/medium <b>302</b>. Here, the word &#x201c;hard&#x201d; is used to describe magnetic material that has a coercivity of 50-600 Oe. As such, magnetic data written by three representative coils <b>304</b>-<b>306</b> will persist as bit recordings <b>308</b>-<b>310</b>. Past experience with credit cards that used similar materials in their magnetic stripes indicated the data recordings can persist for years. A card reader, if passed sufficiently close to the &#x201c;hard&#x201d; magnetic core/medium <b>302</b> can read bit recordings <b>308</b>-<b>310</b>.</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIGS. 4A and 4B</figref> represent a thin-film Q-Chip magnetic device <b>400</b> similar to that of <figref idref="DRAWINGS">FIG. 3</figref>, with the hard magnetic core/medium. Such thin-film Q-Chip magnetic device <b>400</b> can be fabricated on a silicon substrate <b>402</b> by masking and depositing several layers. The total thickness of the finished device <b>400</b> is about 26-&#x3bc;m thick, and is shown in <figref idref="DRAWINGS">FIGS. 4A and 4B</figref> as dimension &#x201c;t<b>1</b>&#x201d;. A first layer (ins-<b>1</b>) <b>404</b> is an insulator of about 2 micrometers (&#x3bc;m) thick. The insulator may be a polymeric material such as BCB (bisbenzocyclobutene), photoresist, or other material. The metal for the windings of the coils, e.g., <b>304</b>-<b>306</b>, that wrap around the hard core <b>302</b>, is deposited in two metallization steps. A first metal layer (met-<b>1</b>) <b>406</b> of copper (Cu) or other conductor is deposited about 8-&#x3bc;m thick. This forms the bottoms of the individual coil windings. Then a second insulation layer (ins-<b>2</b>) <b>408</b> is deposited, without a mask, about 5-&#x3bc;m thick. A hard magnetic core (mag-<b>1</b>) of a ferromagnetic material is deposited about 1-&#x3bc;m thick. For the magnetic core the material may be an alloy of Cobalt or Iron or Nickel, a binary alloy of CoFe or CoNi, or a ternary alloy consisting of at least one of these ferromagnetic materials. Such will eventually wind up being 13-&#x3bc;m to 19-&#x3bc;m deep from the finished surface, as shown in <figref idref="DRAWINGS">FIGS. 4A and 4B</figref> as dimension &#x201c;t<b>2</b>&#x201d;. A third insulation layer (ins-<b>3</b>) <b>412</b> is deposited about 2-&#x3bc;m to 5-&#x3bc;m thick. A second metal layer (met-<b>2</b>) <b>414</b> of copper (Cu) or other conductor is deposited about 8-&#x3bc;m thick. This forms the tops of the individual coil windings, and these join with the bottoms formed in met-<b>1</b> layer <b>406</b>. A fourth insulation layer (ins-<b>4</b>) <b>416</b> is deposited about 2-&#x3bc;m to 5-&#x3bc;m thick, and requires no mask. A passivation overcoat (psvn-<b>1</b>) <b>418</b> of silicon nitride (SiN), silicon oxide (SiO<sub>2</sub>), diamond-like carbon (DLC), or other hard material completes the steps, and is, about 0.05-&#x3bc;m thick. In all, six masks are needed. A swipe sensor can be formed on top of these, e.g., using patterns of aluminum or other conductors to form the electrical contacts permitting the detection of the presence of the legacy reader head. detection of the presence of the legacy reader head.</p>
+<p id="p-0070" num="0069"><figref idref="DRAWINGS">FIG. 5</figref> represents a Q-Chip magnetic device <b>500</b> that uses a &#x201c;soft&#x201d; magnetic core <b>502</b>. Here, the word &#x201c;soft&#x201d; is used to a magnetic material that has a very low coercivity, e.g., one Oe. A hard magnetic media <b>503</b>, using material of about 50-600 Oe, is located just above. As such, magnetic data written by three representative coils <b>504</b>-<b>506</b> will persist as bit recordings <b>508</b>-<b>510</b>. Such data recordings should be able to persist for years. A card reader, if passed sufficiently close to the &#x201c;hard&#x201d; magnetic media <b>503</b> can read bit recordings <b>508</b>-<b>510</b> long after power has been removed from the coils.</p>
+<p id="p-0071" num="0070"><figref idref="DRAWINGS">FIGS. 6A and 6B</figref> represent a thin-film Q-Chip magnetic device <b>600</b> similar to that of <figref idref="DRAWINGS">FIG. 5</figref>. Such Q-Chip magnetic device <b>600</b> can be fabricated using semiconductor thin-film techniques on a silicon substrate <b>602</b> by masking and depositing several layers. Compared to Q-Chip magnetic device <b>400</b>, this device <b>600</b> will be more expensive to produce because its fabrication will require at least two more masks. And in operation, the energy efficiency may not be as good because magnetic data has to transfer from an energized core to the nearby media stripe. There may, however, be benefits that outweigh these added costs.</p>
+<p id="p-0072" num="0071">The total thickness of the finished device <b>600</b> is about 38-48 &#x3bc;m thick, and is shown in <figref idref="DRAWINGS">FIGS. 6A and 6B</figref> as dimension &#x201c;t<b>3</b>&#x201d;. A first layer (ins-<b>1</b>) <b>604</b> is an insulator of about 2 micrometers (&#x3bc;m) thick. The insulator may be a polymeric material such as BCB (bisbenzocyclobutene), photoresist, or other material. The insulator may be a polymeric material such as BCB (bisbenzocyclobutene), photoresist, or other material. The metal for the windings of the coils, e.g., <b>504</b>-<b>506</b>, that wrap around the hard core <b>502</b>, is deposited in two metallization steps. A first metal layer (met-<b>1</b>) <b>606</b> of copper (Cu) or other conductor is deposited about 8-&#x3bc;m thick. This forms the bottoms of the individual coil windings. Then a second insulation layer (ins-<b>2</b>) <b>608</b> is deposited, without a mask, about 5-&#x3bc;m thick. A magnetically soft magnetic core (mag-<b>1</b>) of nickel-iron (NiFe) or other soft ferromagnetic material is deposited about 6-18 &#x3bc;m thick. Such will eventually wind up being about 22-&#x3bc;m deep from the finished surface, as shown in <figref idref="DRAWINGS">FIGS. 6A and 6B</figref> as dimension &#x201c;t<b>4</b>&#x201d;. A third insulation layer (ins-<b>3</b>) <b>612</b> is deposited about 5-&#x3bc;m thick.) A second metal layer (met-<b>2</b>) <b>614</b> of copper (Cu) or other conductor is deposited about 8-&#x3bc;m thick. This forms the tops of the individual coil windings, and these join with the bottoms formed in met-<b>1</b> layer <b>606</b>. A fourth insulation layer (ins-<b>4</b>) <b>616</b> is deposited about 5-&#x3bc;m thick, and requires no mask. A hard magnetic medium layer (mag-<b>2</b>) <b>618</b> is deposited about 1-&#x3bc;m thick. For the magnetic medium the material may be an alloy of Cobalt or Iron or Nickel, a binary alloy of CoFe or CoNi, or a ternary alloy consisting of at least one of these ferromagnetic materials. A passivation overcoat (psvn-<b>1</b>) <b>620</b> of silicon nitride (SiN), silicon oxide (SiO<sub>2</sub>), diamond-like carbon (DLC), or other hard material completes the steps, and is about 0.05-&#x3bc;m thick. In all, eight masks are needed. A swipe sensor can be formed on top of these, e.g., using patterns of aluminum or other conductor to form the electrical contacts permitting the detection of the presence of the legacy reader head.</p>
+<p id="p-0073" num="0072">Each Q-Chip MEMS magnetic device retains the individual magnetic domain orientations of each coil after the power is turned off. This differs from prior art devices that rely on magnetic solenoids with power kept on the entire transaction time. The prior art method requires a lot of power, and has heating issues with the coils, etc. Matching the signal levels of these coils with the neighboring static magnetic media is very difficult. Large steps in the signal amplitudes can easily occur during card swiping.</p>
+<p id="p-0074" num="0073">Method embodiments of the present invention burst energy to coils which are magnetically coupled to a hard media, e.g., a hard core or a hard top media with a soft core. The data written to the magnetic hard media will persist for a long time, perhaps even years. The Lo-Coercivity ISO standard in the credit card industry is 300 Oe. It was used for decades before the media was migrated to the Hi-coercivity standard of about 2500-4000 Oe. It is important to note that the readback signal generated from both the Lo-Co standard and the Hi-Co standard is roughly the same, and material with coercivities from several hundred Oe to several thousand Oe may be envisioned as the hard magnetic media in the present device.</p>
+<p id="p-0075" num="0074">Using a &#x201c;hard&#x201d; media of 50-600 Oe will get the data persistence needed, and at reasonably low writing currents. Keeping the writing currents as low as possible is important to long battery life and low per-unit production costs. While magnetization must persist until the signal is read by a card reader, if the data is accidentally erased by a stray magnetic field, it only requires another trigger event to re-write data to the media.</p>
+<p id="p-0076" num="0075">Alternative embodiments of the present invention may benefit their users by providing for the inductive coupling of programming data into the card's microcontroller backwards through the Q-Chip MEMS magnetic device coils. In practical applications, such will probably need only to be a one-time event. For security reasons, micro-links could be fused to prevent further programming.</p>
+<p id="p-0077" num="0076">In general, legacy card readers exploit Faraday's law of electromagnetic induction using a coil wound on a magnetic core with a non-magnetic gap. The recording medium of the magnetic stripe is scanned past the reader gap to produce a readback signal proportional to the rate of change in magnetic flux with time. The signal is typically about 1-3 mV per inch/sec of card speed past the reader head.</p>
+<p id="p-0078" num="0077">In usual practice, &#x201c;permanent&#x201d; magnetic data is written on magnetic stripes by moving the cards past a magnetic writing head. Such is attached to a source of writing current whose polarity is switched when clocking and data transitions are required. The Q-Chip MEMS magnetic device requires no motion relative to the recording medium, and is fixed underneath it to write many bits in a sequence. The writing transducer array and medium are static, small, and thin enough to be packaged in a standard credit card. It replaces a selected portion of the original &#x201c;standard&#x201d; recording medium of that card. The writing array within the Q-Chip sits on top of an ASIC device which provides the driving electronics, the sequencing logic, and a charge pump to control the programming current despite battery voltage. The ASIC is connected to a battery-powered microcontroller through a simple serial-type interface (clock, data, reset) so that the microcontroller can retrieve the next desired data pattern, and energize the coils to produce new (encrypted) data bit patterns along the magnetic medium.</p>
+<p id="p-0079" num="0078">The writing field is sufficient to erase old data and create new information in a selected region of the recording track in the storage medium. The energy consumed by the microprocessor, logic network, and writing array is compatible with a useful life of 1000-2000 write/read cycles when connected to an internal battery of 2-8 volts and about 10-30 mA-hours of current capacity. The recording medium can be designed for archival storage, or as a medium in which the magnetization patterns are allowed to thermally decay with time and can no longer be read back. An intentional erase after reading of the data is possible by simply repeating the process by which data is written, using a data sequence that may be, for example, all zeroes, or else a meaningless sequence of data bits.</p>
+<p id="p-0080" num="0079">In general, Q-Chip MEMS magnetic device embodiments of the present invention use pulsed electric current flowing in solenoidal coils wound around a magnetic core. Depending on the direction of current flow, the core is locally magnetized in either a North-South or a South-North polarity. The external magnetic field of the core magnetizes the recording medium which retains the polarity of the magnetic field even after the field is removed.</p>
+<p id="p-0081" num="0080">In one technique, after each bit transition in a complete word is written, a next coil in the writing sequence is addressed, and so on until all of the required transitions are written to the recording medium. Using this sequential bit-by-bit writing process, the brief current pulses flowing through the individual coils keep the maximum current drain on the battery to very low values. Smaller, less expensive batteries can therefore be used to save on unit costs.</p>
+<p id="p-0082" num="0081">The top layer may be covered with a protective overcoat of a hard material such as diamond-like-carbon (DLC), silicon nitride, or silicon oxide. This is shown in <figref idref="DRAWINGS">FIGS. 4A and 4B</figref> as protective overcoat <b>418</b>, and in <figref idref="DRAWINGS">FIGS. 6A and 6B</figref> as protective overcoat <b>620</b>. Overcoating with a scratch-hard material assures that in actual use environments the cards <b>102</b> and <b>200</b> will meet ISO 7811-6 requirements for wear of the magnetic strip, resistance to chemical attack, and reliable performance at temperature and humidity extremes. Specific environmental conditions which the device and card must survive include a temperature range of &#x2212;35&#xb0; C. to +50&#xb0; C., and relative humidity between 5% and 95% RH. The diffusivity of moisture through the overcoat must be low enough that during the lifetime of the card, that moisture can not penetrate to corrode or oxidize the magnetic medium.</p>
+<p id="p-0083" num="0082">The magnetic media may be deposited on an underlayer of a non-magnetic material, e.g., chromium (Cr) or tantalum (Ta), to get the proper degree of adhesion to the substrate and the right crystallographic structure and orientation. This greatly influences the coercivity of the media and is a critical component of the device design.</p>
+<p id="p-0084" num="0083">Conventional credit card data encoding is so-called 2f(FM), or double-frequency self-clocking scheme. There are two magnetic elements in each data bit cell known as sub-intervals, and there are 5 bits/character of encoding on ABA Track #2, and 7 bits encoding/character in IATA Track #1. An all-ones series (11111) for a 5-bit numeric coded character set would therefore be encoded as 1111111111. An all-zeroes pattern (00000) records as 10101010101.</p>
+<p id="p-0085" num="0084">In a typical 40-bit Q-Chip MEMS magnetic device design, there are eighty magnetic coil elements, each for example with a length L. At recording densities of 75, 150, or 210-bits per inch, length L=170, 85, or 60.5-microns, and the total length of the entire array multiplies out to 13.6, 6.8, or 4.8 mm, respectively. At any chosen density, the coils must generate the required magnetic field to write the hard magnetic medium at a peak current that is compatible with the typical 2-8 volt battery voltage. Coil design depends very much on the circuit resistance and inductance. The required magnetic field dictates how much current is needed to generate this field, and such define the coil parameters and energy requirements.</p>
+<p id="p-0086" num="0085">The writing field (H<sub>w</sub>) is a function of the recording medium coercivity (H<sub>c</sub>). In many magnetic recording applications, H<sub>w </sub>is roughly 2-3 times H<sub>c</sub>. But with very narrow switching field distributions, S* greater than 0.9, where S*=1&#x2212;&#x394;H/H<sub>c</sub>, an H<sub>w</sub>/H<sub>c </sub>ratio of 1.5-2 is feasible. Sharper magnetic transitions correspond to narrow switching field distributions, thus both SFD and H<sub>c </sub>are design parameters.</p>
+<p id="p-0087" num="0086">In one design example, a target H<sub>c </sub>of 70-150 Oe, requiring an H<sub>w </sub>of roughly 100-300 Oe, 8 kA/m to 24 kA/m, allows the writing current to be kept compatible with a single battery voltage of 2-3 volts. The writing current can be estimated using Ampere's Law, H=&#x3b7;NI/L, where &#x3b7; is the writing efficiency (about 0.50), N is the number of coil turns, I is the current (in Amps), and L is the coil length (in meters). For the given range 8-24 kA/m of medium coercivity, the required current is I=HL/(&#x3b7;N)=(1.36 to 4.08)/N Amps, or 272-816 mA for N=5 turns, a writing efficiency &#x3b7;=0.50, and a coil length L=85-microns (150 bpi). To support the required current with a low voltage battery (2-V), the resistance (R=V/I) of the coil must be in the range of 2.45 to 7.35 ohms. The writing voltage is then pumped several times higher (6 to 8V) so the coil resistance is not such a limitation.</p>
+<p id="p-0088" num="0087">The coil thickness (T), the width of a turn (W<sub>c</sub>), the coil pitch (P), and width of the written track (W) are important geometrical variables for the coil design. Copper (Cu) is preferred for the coil material because it has lower resistivity (&#x3c1;=1.724 &#x3bc;&#x3a9;-cm) than aluminum (Al) (2.824 &#x3bc;&#x3a9;-cm), and gold (Au) (2.44 &#x3bc;&#x3a9;-cm), and it withstands oxidation better than silver (Ag).</p>
+<p id="p-0089" num="0088">Coil resistance R is calculated from the sheet resistance R<sub>S</sub>=&#x3c1;/T (ohms/square) of electro-plated Cu, multiplied by the number of squares for the coil N(2W/W<sub>c</sub>). That is, R=2NW&#x3c1;/(W<sub>c</sub>T) ohms. The ISO/IEC 7811 specifications require a reading track width W=1,500 &#x3bc;m (1.5 mm), so conductor width W<sub>c</sub>, thickness T, and pitch P must be chosen judiciously to keep resistance down to a useful level. We have selected W<sub>c</sub>=10-15 &#x3bc;m, T=8-12 &#x3bc;m, and P=17 &#x3bc;m with N=5 for a coil supporting L=85 &#x3bc;m (150-bpi design). A design for 75-bpi would have L=170 &#x3bc;m and N=10 turns. Nominal Cu coil resistances is approximately 2.6 and 5.2 ohms for N=5 and 10, respectively. These values are compatible with the earlier estimates given above for a two volt battery.</p>
+<p id="p-0090" num="0089">Without any magnetic core, the field generated above a flat solenoidal coil would be too weak to write magnetic data to the medium, e.g., hard media <b>503</b> in <figref idref="DRAWINGS">FIG. 5</figref>. The total field from the upper and lower coil layers is the vector sum of fields from currents flowing in opposite directions. An energized coil magnetizes an unsaturated magnetic core in proportion to the magnetizing field strength along the coil axis, and the core magnetization drops off with distance away from the ends of the coil. Variations in the level of core magnetization give rise to North and South magnetic poles within the volume and on the surface of the magnetic core. It is these poles within the core that are the source and sink of the magnetic field outside of the core. Gauss's Law for a magnetic medium says B=H+4&#x3c0;M and the divergence of M gives rise to the N (+) and S(&#x2212;) magnetic charge densities in the core.</p>
+<p id="p-0091" num="0090">A soft magnetic material with high permeability (&#x3bc;=4&#x3c0;M<sub>s</sub>/H<sub>K</sub>) in the range of 200-10,000 is preferred for the soft core. There are a number of compositions in the NiFe Permalloy series of alloys which are potentially good core candidates. Electroplated Ni<sub>x</sub>Fe<sub>1-x </sub>with x close to 45% is a good candidate owing to its high moment and high permeability. Electroplated Ni<sub>x</sub>Fe<sub>1-x </sub>with x close to 80% is a good choice because it has 4 &#x3c0;M<sub>a </sub>close to 10,000 Gauss, and H<sub>K </sub>in the range of 2-10 Oe, so 4 is in the range of 1000-5000. This material has very low coercivity, less than 5 Oe, a modest resistivity (&#x3c1;=20 &#x3bc;&#x3a9;-cm), and a low magnetostriction constant (&#x3bb;<sub>S</sub>=&#x2212;10<sup>&#x2212;7 </sup>to &#x2212;10<sup>&#x2212;6</sup>). Pair-ordering anisotropy is induced when a film is deposited in a magnetic field and such gives good control over the formation of magnetic domains for the material when it demagnetizes to a zero remanence state.</p>
+<p id="p-0092" num="0091">Electroplated NiFe films will normally have residual uniaxial tensile stresses directed along the long axis of the core, and stress anisotropy would compete with pair-ordering anisotropy if the magnetostriction constant is positive. For this reason, it is imperative that &#x3bb;<sub>S </sub>be negative, or near zero, such that the easy axis remains aligned in the proper direction. With positive &#x3bb;<sub>S </sub>and significant tensile stress, 10<sup>9 </sup>dynes/cm<sup>2 </sup>or more, the easy direction of magnetization would lie along the stress axis and the device would not write magnetic transitions in the storage medium.</p>
+<p id="p-0093" num="0092">Core saturation is avoided by plating thick films in the range of 6-8 &#x3bc;m. Eddy currents flow when abrupt changes in magnetizing field are applied, so very thick films should be avoided, e.g., 10 &#x3bc;m or more. However, high resistance soft magnetic films with high magnetization may overcome the eddy current problem.</p>
+<p id="p-0094" num="0093">The cores in embodiments of the present invention do not have a closed path structure, and it is possible that shape anisotropy can affect the device performance. Micro-fabrication processes are used to pattern the core and achieve the necessary anisotropy by adjusting shape anisotropy.</p>
+<p id="p-0095" num="0094">With a coil pitch of 17-microns/turn, and 0.51 ohms/turn (W<sub>c</sub>=T=10 &#x3bc;m, Cu resistivity &#x3c1;=1.726 &#x3bc;&#x3a9;-cm), the coil+core inductance scales as L=KN<sup>2 </sup>with K estimated roughly at 5 nH/turn<sup>2 </sup>for NiFe Permalloy core material. Table-I below indicates the approximate resistance and inductance to be expected for coils between 5 and 10 turns. Coil length along the core and the equivalent recording density (bpi=bits/inch) are also tabulated. The lowest resistance of course is expected with a one turn coil (N=1), but in such a case the inductance is also at its lowest point.</p>
+<p id="p-0096" num="0095">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE I</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Coil Properties</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>N</entry>
+<entry>R (ohms)</entry>
+<entry>L (nH)</entry>
+<entry>Length (&#x3bc;m)</entry>
+<entry>bpi</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="char" char="."/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="char" char="."/>
+<colspec colname="5" colwidth="49pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>5</entry>
+<entry>2.6</entry>
+<entry>125</entry>
+<entry>85</entry>
+<entry>150</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>3.1</entry>
+<entry>180</entry>
+<entry>102</entry>
+<entry>125</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>3.6</entry>
+<entry>245</entry>
+<entry>119</entry>
+<entry>107</entry>
+</row>
+<row>
+<entry>8</entry>
+<entry>4.1</entry>
+<entry>320</entry>
+<entry>136</entry>
+<entry>93</entry>
+</row>
+<row>
+<entry>9</entry>
+<entry>4.6</entry>
+<entry>405</entry>
+<entry>153</entry>
+<entry>83</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>5.1</entry>
+<entry>500</entry>
+<entry>170</entry>
+<entry>75</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0097" num="0096">A fixed-pitch, variable coil-turns approach supports a range of device designs and applications for the writing transducer. The excited transducer behaves as a series RLC circuit when attached electrically to an external charged capacitor (C) and switching transistors.</p>
+<p id="p-0098" num="0097">A 150-bpi design where the soft core is 6-microns thick, 6800-microns long (6.8 mm), and 1500-microns wide (1.5 mm) uses eighty solenoids, each five turns and 85 &#x3bc;m long. Preferably, a capacitor is slowly charged in about 100 &#x3bc;sec to the 2-volt battery voltage, then switched abruptly to the terminals of a selected coil e.g., through field-effect transistor (FET) switches. The discharge current rises quickly in about 100 nsec to a peak, and then decays slowly over 1 &#x3bc;sec as the capacitor completely discharges. The magnetic core magnetizes in the vicinity of the selected coil. There is an eddy current lag of roughly 50-nsec, and a peak writing field is reached in the plane of the magnetic recording medium. The current pulse shape depends on the circuit's series RLC circuit properties.</p>
+<p id="p-0099" num="0098">For a coil width of about 1500 &#x3bc;m, and a turn pitch of 17 &#x3bc;m, and if both top and bottom conductor layers are used to shift coil turns, then the skew angle will be &#x3b8;=0.5 arctan (17/1500)=0.0057=19.5&#x2032;, and is just less than the ISO standard of 20&#x2032;. If only the bottom conductor layer is used to shift the coil turns, and the top conductor lines are kept straight the effective skew angle will be further reduced.</p>
+<p id="p-0100" num="0099">The writing field is defined at the plane of the recording medium, about 20-&#x3bc;m above the top surface of the soft magnetic core, or at the plane of the hard core/medium. For a 10 &#x3bc;m thick soft NiFe core excited by one energized coil (at 333 mA peak current), a field of 16000 results given in units of amps/meter (79.6 amps/meter=1.0 Oe). Magnetic saturation occurs more readily for thin layers than for thick. Calculations comparing 4-&#x3bc;m with 10-&#x3bc;m thickness as a function of excitation current indicate the 4-&#x3bc;m soft core will saturate at about 200 mA for 75-bpi, and about 400 mA for 150 bpi. For this reason, thicker soft cores are preferred. For the hard core/medium design the medium is magnetized directly by the writing field of the coils, and the hard core/medium will be of the order of 1 to 2 &#x3bc;m.</p>
+<p id="p-0101" num="0100">The nominal soft core thickness for a preferred design is about 6-&#x3bc;m. Eddy current damping is exacerbated for NiFe cores much thicker than 6-&#x3bc;m. The effective magnetizing current waveforms I<sub>e</sub>(t,R,L,&#x3b2;) can be computed for various damping conditions. The damping parameter &#x3b2;=(&#x3c0;&#x3c1;10<sup>9</sup>)/(4&#x3bc;T<sup>2</sup>) (in radian/sec) is the inverse of the damping time constant (&#x3c4;=1/&#x3b2;), where &#x3c1; is the resistivity (ohm-cm), &#x3bc; is the permeability (cgs), and T is the film thickness (cm). A nominal soft core device, &#x3c1;=23 &#x3bc;&#x3a9;-cm, &#x3bc;=2500, and T=6&#xd7;10<sup>&#x2212;4 </sup>cm, has about 10% loss in effective writing field. For &#x3c1;=16 &#x3bc;&#x3a9;-cm, &#x3bc;=4000, and T=8&#xd7;10<sup>&#x2212;4 </sup>cm, there is about a 40% loss in effective writing field.</p>
+<p id="p-0102" num="0101">Information in a digital magnetic recording medium is stored in the form of polarity reversals, or transitions, in the direction of the remanent magnetic flux of the recorded medium. For archival storage, the relevant magnetic properties of the recording medium are the coercivity (H<sub>c </sub>in Oersteds), remanence (M<sub>r </sub>in emu/cm<sup>3</sup>), magnetic thickness (t in cm), and coercive squareness (S*, a dimensionless number). Low coercivity media can be written with low writing currents, but can suffer from unwanted erasures and demagnetizations. High coercivity media requires very high writing currents, and are not easily erased or demagnetized.</p>
+<p id="p-0103" num="0102">For Q-Card embodiments, H, is targeted between 50-600 Oe, favoring the lower end to conserve battery energy and thus extend the service life of the card.</p>
+<p id="p-0104" num="0103">The coercive squareness, S*, is a measure of the range (&#x394;H) of recording fields over which a medium switches (S*=1&#x2212;&#x394;H/H<sub>c</sub>), so &#x394;H should be small, and S* is close to 1.0, e.g., 0.7&#x3c;S*&#x3c;1.0.</p>
+<p id="p-0105" num="0104">The readback signal scales with the remanence-thickness product M<sub>r</sub>t (in emu/cm<sup>2</sup>) of the medium. Typical &#x201c;low coercivity&#x201d; media support the ISO/IEC 7811 specification for signal amplitude. These media have M<sub>r</sub>t in the range of 30-100 milli-emu/cm<sup>2</sup>, or memu/cm<sup>2</sup>. About 80 milli-emu/cm<sup>2 </sup>should be compatible with the majority of legacy card readers.</p>
+<p id="p-0106" num="0105">The hard media <b>503</b>, <figref idref="DRAWINGS">FIG. 5</figref>, or hard core/medium <b>302</b>, <figref idref="DRAWINGS">FIG. 3A</figref>, can be implemented with sputtered iron, sputtered cobalt, sputtered nickel, or alloys composed of these materials. These alloys may be binary or ternary, containing at least one ferromagnetic material and possibly containing additional materials such as Cr, Ta, Pt, or other nonmagnetic elements. Sputtering is the preferred deposition technique as it allows precise control of many deposition parameters. For example, the film properties will vary with angle of deposition, substrate temperature and surface conditions, deposition rate, gas phase composition, non-magnetic underlayer, and substrate bias. Sputtering process variations allow a wide range of control over the crystalline state of the deposited film, thereby influencing internal stress, crystallographic phase, magneto-crystalline anisotropy, and fimcoercivity.</p>
+<p id="p-0107" num="0106">One model for film growth assumes that the initial material deposited in the sputtering process is randomly oriented and consists of isolated grains or islands of magnetic material. These will switch more by magnetic domain rotation than by domain wall movement, and therefore will have an initially high value of coercivity. As the film thickness increases, the disorder of the initial layers transforms into a more ordered structure, and the film coercivity decreases. Subsequent increases in film thickness do not produce significant changes in coercivity, as the relative amount of material in the disordered state diminishes as a fraction of the whole.</p>
+<p id="p-0108" num="0107">The magnetic medium thickness should be greater than 0.1 um in order to reach an equilibrium or steady state crystallographic structure. Thicknesses of 0.1-1.0 &#x3bc;m seem preferable. The film easy axis should lie in the plane of the film, with the easy axis parallel to the long direction of the magnetic stripe. Alternatively, an isotropic magnetization in the plane of the film would also be acceptable.</p>
+<p id="p-0109" num="0108">Among the cobalt alloys, the CoFe alloy is especially suitable in terms of magnetization and controllability. Its H<sub>c </sub>can be adjusted by varying the fabrication conditions, as well as by adjusting the relative amounts of constituent Co and Fe. The M<sub>s </sub>can also be varied over a wide range by controlling composition. Certain CoFe compositions near the center of the binary phase diagram possess higher magnetic moments than is attributable to either Co or Fe individually, up to 2.45 Bohr Magnetons per atom, for example, whereas pure Fe has 2.22 and pure Co has 1.71 (Bozorth). The CoFe alloys also typically assume a cubic crystallographic structure (BCC or FCC), with a cubic family of magnetic easy axes. Another suitable alloy is CoNi, which has a lower saturation magnetization but which can typically provide a wider range of coercivities by variation in sputtering parameters. The lower magnetization of CoNi compared to CoFe can be compensated for by depositing a thicker film; for CoNi the medium will be of the order of 2 &#x3bc;m.</p>
+<p id="p-0110" num="0109">The magnetic media used in embodiments of the present invention can include an alloy of sputtered FeCo (30%-80% Co in Fe), with M<sub>r </sub>in the range of 1500 to 1900 emu/cm<sup>3 </sup>at a film thickness &#x201c;t&#x201d; of 0.50 micron to 0.67 micron. In conventional magnetic stripe cards and tapes, a variety of particulate recording media exist (oxides of Fe, Ba, or Cr) with M<sub>r </sub>on the order of 100 emu/cm<sup>3</sup>, and the media must be quite thick, e.g., 10 microns, in order to meet the signal requirements. The H<sub>c </sub>for these materials is in the range of 300-2400 Oe. Using conventional battery technology, sufficient writing fields for a medium with an H<sub>c </sub>of approximately 300 Oe are obtainable. Improvements in battery technology or pumping up the battery voltage will extend this coercivity range to the order of 600 Oe or more.</p>
+<p id="p-0111" num="0110">Typical storage media exhibit a thermal decay of the magnetic remanence. The decay rate is extremely sensitive to an energy barrier (&#x394;E) for thermally activated reversals in magnetic moment, and the decay time constant obeys an Arrhenius equation of the form &#x3c4;=&#x3c4;<sub>o</sub>exp(&#x394;E/kT), where &#x3c4;<sub>o </sub>is about one nsec (the reciprocal of the spin precession frequency in magnetic materials), k is Boltzmann's constant, and T is the absolute temperature (Kelvins). The energy barrier depends on the anisotropy (K in ergs/cc) that controls the medium coercivity and the volume (V in cc) of the crystallite (or particle) over which this anisotropy operates. That is, &#x394;E=KV. With magnetically independent particles, the super-paramagnetic limit is approached as V becomes very small, so the thermal decay problem must be handled.</p>
+<p id="p-0112" num="0111">The particle (crystallite) volume (V) is used to control the useful thermal decay life of stored data. An &#x201c;archival&#x201d; storage device should have a time constant better than 10 years (&#x394;E/kT=KV/kT about 40). Temporary storage (KV/kT&#x3c;40) has useful applications. The data stored in Q-chip media must remain useful long enough to allow the card to be swiped through a legacy card reader. This implies a time constant of a few seconds or more (KV/kT about 23), so the Q-chip medium can be designed with attention to the desired storage lifetime.</p>
+<p id="p-0113" num="0112">The magnetic data on credit cards is conventionally read by translating the stripe past an inductive read head gap at speeds in the range of 4-40 inches/second. The induced signal voltage is proportional to the speed, but will normally be in the range of 1-3 milli-volts (peak-to-peak), e.g., for a stripe speed of an inch per second in a legacy card reader with about 1500 turns, a gap length of twelve microns, and gap width of about 0.060 inch (1.5 mm).</p>
+<p id="p-0114" num="0113">The readback pulse amplitude and width are fundamental determinants of performance. The readback pulse can be described mathematically by the relation,
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>e</i>(<i>x</i>)=[8&#xb7;10<sup>&#x2212;8</sup><i>N&#x3b7;vWM</i><sub>r</sub><i>t</i>/(<i>d+a</i>)]&#xb7;[1+(2<i>x</i>/(<i>d+a</i>))<sup>2</sup>]<sup>&#x2212;1 </sup>(volt)<?in-line-formulae description="In-line Formulae" end="tail"?>
+<br/>
+where, x=a position coordinate (cm) for the head and medium;
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0114">N=number of turns of the head coil;</li>
+        <li id="ul0002-0002" num="0115">&#x3b7;=head efficiency (dimensionless);</li>
+        <li id="ul0002-0003" num="0116">v=speed (cm/sec);</li>
+        <li id="ul0002-0004" num="0117">W=track width (cm);</li>
+        <li id="ul0002-0005" num="0118">M<sub>r</sub>=remanence of medium (emu/cm<sup>3</sup>)</li>
+        <li id="ul0002-0006" num="0119">t=thickness of medium (cm);</li>
+        <li id="ul0002-0007" num="0120">d=spacing between gap and medium (cm); and</li>
+        <li id="ul0002-0008" num="0121">a=transition parameter (cm)(transition length=&#x3c0;a).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0115" num="0122">The pulse width, full width at half maximum, is PW<b>50</b>=2(d+a). Regardless of theoretical complexity, spacing (d) and transition parameter (a) always show up as the sum (d+a), so the implications for reading are that a broad written transition is equivalent to a large spacing between the head gap and medium, and the signal reduces in proportion to 1/(d+a). The transition parameter depends on the writing field, its gradient, the spacing (d), and it scales with the medium properties according to the relation a<sub>o</sub>=2M<sub>r</sub>t/H<sub>c </sub>with an additional dependence on the coercive squareness (S*) and switching field distribution.</p>
+<p id="p-0116" num="0123">Since the read signal scales with M<sub>r</sub>t of the medium, and a<sub>o </sub>scales with M<sub>r</sub>t/H<sub>c</sub>, the readback signal increases only when coercivity is increased in proportion to the medium M<sub>r</sub>t. Otherwise, recording demagnetization spreads out the written transitions (increases &#x2018;a&#x2019;) until the demagnetizing field of the transition is equal to the medium coercivity. Various trade-offs are involved in establishing a writing field that gives acceptable battery life, pushing Mr<sub>r</sub>t and H<sub>c </sub>as high as possible to reach a useful signal level, and a PW<b>50</b> that support the desired recording density. To tradeoff transition parameter versus coercivity with spacing &#x201c;d&#x201d; as a parameter, the writing field is held at H<sub>w </sub>about 2H<sub>c</sub>, so coercivities greater than about 200 Oe may not be practical. A useful range of 20&#x3c;a&#x3c;35-microns for spacings 2&#x3c;d&#x3c;10-microns exists for H<sub>c </sub>near 100 Oe. It is anticipated that future improvements in batteries will allow coercivities of several hundred to several thousand Oe to be feasible.</p>
+<p id="p-0117" num="0124">The transition parameter &#x201c;a&#x201d; can be considered as the magnetic writing field (H<sub>x</sub>) near or at a magnetic transition divided by the field gradient at that location. The parameter &#x201c;a&#x201d; can be made smaller by reducing the magnetic field, or by increasing the gradient. Field values were calculated for D=22 &#x3bc;m-6/2 &#x3bc;m=19 &#x3bc;m, the gradient of the field, and the transition parameter, along the x axis of a magnetic stripe. The maximum field, the maximum gradient, and the minimum value of &#x201c;a&#x201d; all occur at nearly the same point, namely, x=&#x2212;42.5 &#x3bc;m, or x=+42.5 &#x3bc;m. The minimum value of the transition parameter is approximately at 20 &#x3bc;m, corresponding to a write field of 125 Oe.</p>
+<p id="p-0118" num="0125">Such implies that a design value of a=20 &#x3bc;m is appropriate, and it further implies that a hard medium can be optimized with respect to the writing field obtained from the soft core and coils. Prior art magnetic recording systems try to optimize writing currents based on the medium. It's better to optimize the medium based on the writing fields obtainable.</p>
+<p id="p-0119" num="0126">Typical readback parameters are: N=1500, v=75 cm/sec, &#x3b7;=1.0, g=12.5 &#x3bc;m, W=0.15 cm, M<sub>r</sub>=1600 emu/cc, T=0.6 &#x3bc;m, d=2 &#x3bc;m, a=30 &#x3bc;m. At 150-bpi, the signal waveform for a 00001000 pattern with 2f(FM) is such that the isolated pulse (zero-to-peak) amplitude is 40-mV with PW<b>50</b>=65.8 &#x3bc;m, and at 150-bpi there is enough pulse overlap to reduce the signal to 72 mV (peak-to-peak). The zero-to-peak amplitude of the &#x201c;one&#x201d; bit is reduced to 28.6 mV.</p>
+<p id="p-0120" num="0127">For d=2 &#x3bc;m and a=20 &#x3bc;m, the isolated pulse improves to 57 mV (0-peak) and PW<b>50</b>=46.3 &#x3bc;m. For a 00001000 pattern at 150-bpi, the zero-to-peak amplitude of the &#x201c;one&#x201d; bit is reduced to 48.9 mV by interference with the adjacent clocking transitions. With reasonable control on spacing (d about 2 &#x3bc;m) and transition parameter (&#x201c;a&#x201d; about 20 to 30 &#x3bc;m), the estimated peak-to-peak signal is in the range of 2.4 to 3.7 mV per inch/second of speed.</p>
+<p id="p-0121" num="0128">There is a readback-signal loss with a soft magnetic core, e.g., keeper layer. While it is reasonable to consider the readback signal using traditional magnetic recording theory, in the current design the existence of a soft magnetic core below the magnetic medium adds more complexity. The soft Permalloy core, as a high-permeability material, will absorb or sap some of the flux from the transitions in the medium, reducing the readback signal.</p>
+<p id="p-0122" num="0129">Given the distance between a recording medium and a magnetic film core is D, and the distance of the medium from a read head is d, a soft magnetic film core, similar to a flux keeper, can be treated as a mirror by the method of images discussed by H. N. Bertram, <i>Theory of Magnetic Recording</i>, p. 31ff, Cambridge Univ. Press, Cambridge (1994).</p>
+<p id="p-0123" num="0130">If a soft core is magnetized by a recorded transition in a storage medium, the vertical component of magnetic field H<sub>yc </sub>at the distance D+d above it can be estimated by the transition's image, which is located D below the top surface of the core film. Thus, H<sub>yc </sub>can be approximated by,
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>H</i><sub>yc</sub>=&#x2212;4<i>M</i><sub>r</sub>&#x3b4;/(<i>D+D+d+a</i>) (Oersted).<?in-line-formulae description="In-line Formulae" end="tail"?>
+<br/>
+where, M<sub>r </sub>is the medium remanence (emu/cm<sup>3</sup>), &#x3b4; is its thickness, and &#x201c;a&#x201d; is the transition parameter which behaves as an increase in distance or spacing.
+</p>
+<p id="p-0124" num="0131">With a readback head at the distance &#x201c;d&#x201d; above a medium, and, without a keeper layer, the vertical field from a transition is,
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>H</i><sub>y0</sub>=4<i>M</i><sub>r</sub>&#x3b4;/(<i>d+a</i>) (Oersted).<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0125" num="0132">If the multiple magnetic images (or reflections) between the soft core (keeper) and the readback head poles are ignored, a first-order estimate of the signal field becomes,
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>H</i><sub>y</sub><i>=H</i><sub>y0</sub><i>+H</i><sub>yc</sub>=4<i>M</i><sub>r</sub>&#x3b4;/(<i>d+a</i>)&#x2212;4<i>M</i><sub>r</sub>&#x3b4;/(2<i>D+d+a</i>),<?in-line-formulae description="In-line Formulae" end="tail"?>
+<br/>
+or the field is decreased in the proportion of 1&#x2212;(d+a)/(2D+d+a).
+</p>
+<p id="p-0126" num="0133">At least one prototype embodiment of the present invention operated with d=1-2 &#x3bc;m, a=20-30 &#x3bc;m, and D=16-22 &#x3bc;m (microns) showed a signal decrease no greater than 50% of its un-imaged value. If the recording medium has a sufficiently high Mrt then such a decrease should be acceptable in conventional card readers.</p>
+<p id="p-0127" num="0134"><figref idref="DRAWINGS">FIG. 7</figref> represents a credit card embodiment of the present invention, and is referred to herein by the general reference numeral <b>700</b>. Credit card <b>700</b> includes a plastic substrate <b>702</b> that conforms to banking industry standards for credit, debit, and ATM cards. It further includes the familiar magnetic stripe <b>704</b> with three magnetic tracks, e.g., Track-2 <b>706</b>, Track-2 <b>707</b>, and Track-3 <b>708</b>. A rectangular recess <b>710</b> provides a place in which to cement-in a Q-Chip MEMS magnetic device <b>712</b> using a bedding of epoxy <b>714</b>. A bead of epoxy <b>716</b> with dispersed magnetic particles is used to seal the edges and provide for a near seamless magnetic joint. It is important that the finished height of the Q-chip <b>712</b> and the bead of epoxy <b>716</b> be flat and level, or planar, with the surrounding area of magnetic stripe <b>704</b>.</p>
+<p id="p-0128" num="0135"><figref idref="DRAWINGS">FIG. 8</figref> shows this in more detail. A credit card <b>800</b> comprises a substrate card <b>802</b> with a laminate <b>804</b> and a magnetic stripe <b>806</b>. A Q-Chip MEMS magnetic device <b>808</b> is set into a close-fitting recess <b>810</b>. It is attached by an epoxy bedding <b>812</b> and sealed along its perimeter by a bead <b>814</b>. Such bead <b>814</b> includes material that magnetically matches the magnetic stripe <b>806</b> to the Q-chip <b>808</b> to limit the magnetic discontinuities a legacy card reader would observe during a card swipe. The finished surfaces of the credit card <b>800</b> over the area of Q-Chip MEMS magnetic device <b>808</b> must be very flat, this planar flatness is represented in <figref idref="DRAWINGS">FIG. 8</figref> by dimensions d<b>1</b>=d<b>2</b>=d<b>3</b>.</p>
+<p id="p-0129" num="0136">On-board electronics are used to determine if the data in the Q-Chip MEMS magnetic device part of the magnetic stripe needs to be updated. The electronics drives each coil with a write pattern from coil-to-coil along the length. The coils' magnetic fields write the corresponding magnetic bits in the hard media or hard core, depending on model, e.g., device <b>300</b> or <b>500</b>. The magnetic data will persist, so the electric current in the coils can be very brief and removed immediately. It does not matter if the legacy card reader has not yet read the data.</p>
+<p id="p-0130" num="0137">In <figref idref="DRAWINGS">FIG. 9</figref>, a simple swipe sensor <b>900</b> can be integrated into the protective overcoat <b>902</b> of a Q-Chip MEMS magnetic device, e.g., <b>418</b> or <b>620</b> (<figref idref="DRAWINGS">FIGS. 4A-4B</figref> and <b>6</b>A-<b>6</b>B), as a two-part electrically conductive film <b>904</b> and <b>906</b> that makes contact when a read head bridges them. Alternatively, two zones of the protective overcoat layer can be doped to make those zones semi-conductive, e.g., 10-ohms to 100K-ohms. An isolation barrier running diagonally along the length of the device would help guarantee that the read head would provide the required bridging contact somewhere along its length. The swipe sensor overlayers <b>904</b> and <b>906</b> are connected to the internal electronics by posts or vias, and debounced and clamped to prevent electrostatic discharge (ESD) damage. Integrating the swipe sensors <b>900</b> directly onto the Q-Chip MEMS magnetic device <b>702</b>, <b>808</b>, eliminates the more expensive alternative of installing swipe sensors on the card itself.</p>
+<p id="p-0131" num="0138"><figref idref="DRAWINGS">FIGS. 10 and 11</figref> represent variations on the construction of devices <b>300</b> and <b>500</b>, in <figref idref="DRAWINGS">FIGS. 3 and 5</figref>, respectively. Here, instead of individual coil windings, a single tapped coiled is wound the whole length. E.g., coil <b>1002</b> with taps <b>1004</b>-<b>1007</b>, and coil <b>1102</b> with taps <b>1104</b>-<b>1107</b>.</p>
+<p id="p-0132" num="0139">In most application specific integrated circuit (ASIC) designs, the electronics are built-up on the substrate and pads are provided for the interconnect. Once the chip is complete, and diced, the chip is either wire-bonded to external circuitry, or solder bumps are added and the chip is flipped upside down and connected to the circuitry in that manner. Here, wire-bonding is cost prohibitive and difficult since the diameter of the wire exceeds or is near our MEMS feature sizes. Bumping is impossible since the chip cannot be flipped. The active area, on top of the chip needs to face away from the interconnect circuitry and toward the magnetic stripe. Various processes can be used to connect the electronics to underlying external circuitry through the backside of the wafer. Deep trench etching is one technique. The external pads are etched deep into the wafer. Once wafer processing is complete, the wafer is lapped from the backside to expose the pads. Then the wafer is bumped to provide interconnect paths. The chip is fastened using standard flip-chip techniques, except for the fact that the chip is not flipped.</p>
+<p id="p-0133" num="0140">Multiple parallel coils, of any of the designs presented, with identical parallel programming channels can be used in order to reduce the coil impedances for the same magnetics area, or increase the effective area without increasing coil impedance. This requires N times the number of drivers and parallel coils, and another charge pump. All of which draws more energy from the battery, which increase is roughly proportional to the increase in area.</p>
+<p id="p-0134" num="0141">Such technique may be useful to limit the number of stages in any charge pump or to increase the active area to better cover the entire track to allow for variances in read head positioning on the card reader install-base. The card reader read head is roughly half the width of the write track on the magnetic stripe. This allows for manufacturing tolerances between readers, and for small variations in card or head positioning during swipe transactions. The effective coil area of the Q-Chip magnetic device is roughly the width of the write track, in order to allow for these variances. But this increases the length of the windings accordingly, and increases the required voltage to maintain the desired current through the windings. The current has to be strong enough so the magnetic fields can reach the target field strengths that will magnetize the magnetic medium.</p>
+<p id="p-0135" num="0142">Multiple parallel windings would allow the stripe to be programmed using several parallel channels, thereby reducing the voltage requirement for any one channel. The current is, however, duplicated on adjacent channels, so that the energy required remains a function of the area being magnetized.</p>
+<p id="p-0136" num="0143">Also, multiple independent coils could be used to encode different data on different parallel tracks e.g., track-1 having one coil, track-2 another coil, etc. In such a scenario the Q-Chip would be large enough to span both tracks and each track would have a coil and a set of drivers that would be independent of each other (and ostensibly have different bit densities, thereby having different coil pitches and bit lengths). These coils would be treated completely independent programming channels and could operate synchronously or asynchronously to each other.</p>
+<p id="p-0137" num="0144">The internal impedance of traditional batteries is too high to discharge sufficiently large peak currents directly into the writing coils efficiently. Additionally the peak discharge currents we're considering by far exceed the maximum discharge currents of batteries that will fit our application. So, capacitors with very low internal source impedances are used as intermediaries to store the programming voltage and produce these peak programming currents. The capacitors are charged up using a battery discharge curve comfortably within the battery specification (say a few milliamps per second) until they reach the desired programming voltage and then this voltage is switched into the desired coil, in the direction desired in order to provide the domain orientation (magnetization) of that bit sub-interval. Then this process is repeated for all subsequent bit sub-intervals until the entire magnetic medium has been programmed.</p>
+<p id="p-0138" num="0145">As the batteries age, their ability to deliver energy diminishes. Temperature can also cause variations in the voltages and currents being delivered to the writing coils. The magnetic transition boundaries of the bits recorded in the Q-Chip magnetic device can therefore suffer from variations in field strength unless the programming voltage is reasonably constant for each bit sub-interval write cycle. Such variations can induce jitter of the bit transition boundaries between the Q-Chip device and the static magnetic stripe which can approach or exceed the ISO card transition jitter specs.</p>
+<p id="p-0139" num="0146">The solution is to keep the programming voltage reasonably constant despite the battery voltage and environmental conditions. If the programming capacitor(s) charge to a repeatable programming voltage the magnetic fields will be repeatable which will minimize this jitter at the Q-Chip/static-magnetic-stripe boundary.</p>
+<p id="p-0140" num="0147">There are other transition issues at the interfaces between the surrounding magnetic stripe, e.g., <b>806</b>, and the Q-Chip magnetic device <b>808</b>. Firstly, if the magnetic material on the static magnetic stripe <b>806</b> is boundary is written with a polarity opposite to the polarity to be written with the adjacent coil on the Q-Chip magnetic device <b>808</b>, then the opposing flux lines (from the adjacent static magnetic stripe) will degrade the induced write field of the adjacent Q-Chip coils enough that data cannot be effectively written to the Q-Chip magnetic medium adjacent to that end of the coil.</p>
+<p id="p-0141" num="0148">So, the coils on both ends of the Q-Chip magnetic device are manufactured to be only half a bit, or a sub-interval. These special coils only have a transition in length with the other half of that transition being encoded on the static magnetic stripe. These coils are then always energized in the same orientation as their adjacent static magnetic stripe half transition area. Since the orientation is the same these flux lines aid with the magnetization of this area of the Q-Chip magnetic medium instead of degrading it. These half-transition coils are not part of the dynamic portion of the coil and as stated are always energized with same polarity as their adjacent static magnetic stripe corresponding half transitions.</p>
+<p id="p-0142" num="0149">Secondly, manufacturing processes will create gaps between the Q-Chip and the static magnetic stripe. If this gap is filled with non-ferrous material that cannot be magnetized (plastic, epoxy, etc) then there will be a gap in the magnetic flux lines that may cause problems for some readers. The previously defined half-transition coils and half-transition magnetic stripe areas polarized in the same orientation can help bridge these non-magnetized areas and mitigate any such problem. Alternatively the filler or glue used could be formulated such as to include some ferrous material allowing it to be somewhat magnetized and to avoid any such gap in the magnetic field.</p>
+<p id="p-0143" num="0150">In some cases when the writing coils are placed directly adjacent with each other, there may be difficulties in writing or erasing the entire Q-Chip magnetic medium. Since the writing field is not square and there is some slope to the sides of this field there can be areas between coils where the medium doesn't see a field with a signal amplitude high enough to erase/write it.</p>
+<p id="p-0144" num="0151">There are alternatives to address these issues. One technique is to always write two adjacent coils at time. Both coils are written with the same polarity (the polarity of the trailing coil in whichever direction we're sequencing the coils). This creates a larger flux line that spans two coils in length and erases any information encoded between these coils. The trailing coil actually encodes or doesn't encode the current transition and the leading coil erases any old transition that may exist before the writing/trailing coil gets there. This technique requires two separate programming channels (which can be connected to alternate coils).</p>
+<p id="p-0145" num="0152">Another alternative is to have overlapping taps on a long contiguous coil, as described in <figref idref="DRAWINGS">FIG. 10</figref> and related text descriptions. In this scheme, the trailing side of the coil is used to write and the leading edge of the coil is used to erase (much as in the previous method). The coil field overlaps the actual bit sub-interval boundary on the leading side and is right on the bit sub-interval boundary on the trailing side. Therefore, we are erasing the inter-bit-transition space between the current sub-interval and the next sub-interval with each write and also writing the trailing transition (if one exists). This technique requires twice the number of taps and drivers in order to implement, though it can be done with a single programming channel.</p>
+<p id="p-0146" num="0153">Further levels of integration and cost reduction could be realized by integrating a microcontroller with the Q-Chip magnetic device. New battery technologies may allow a MEMS type battery to also be integrated into the Q-Chip magnetic device as well. The Q-Chip magnetic device might then be integrated directly into the magnetic stripe component itself, and affixed to the card in one step. Other technologies like contactless, etc could also feasibly be integrated.</p>
+<p id="p-0147" num="0154">An alternative substrate material to the silicon processing described herein is polymer and this will reduce cost and allow the entire stripe to be made dynamic and addressable.</p>
+<p id="p-0148" num="0155">Although particular embodiments of the present invention have been described and illustrated, such is not intended to limit the invention. Modifications and changes will no doubt become apparent to those skilled in the art, and such is intended that the invention only be limited by the scope of the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A magnetic data recording device, comprising:
+<claim-text>a programmable magnetic device for presenting programmable and persistent magnetic data readable by a legacy card reader,</claim-text>
+<claim-text>wherein, the programmable magnetic device is configured to be embedded in an opening in a magnetic stripe with a permanent magnetic data recording that is readable in combination with said programmable and persistent magnetic data by said legacy card reader;</claim-text>
+<claim-text>wherein, programmable and permanent magnetic data are collectable and interpretable together as a valid use once account number in a single track data information.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The magnetic data recording device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a plurality of writing coils collinearly wound around a common flat longitudinal magnetic core and providing a mechanism with which to record said programmable and persistent magnetic data.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The magnetic data recording device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a plurality of writing coils collinearly wound around a common flat longitudinal magnetic core and beneath a magnetic media and providing a mechanism with which to record said programmable and persistent magnetic data.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The magnetic data recording device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a plurality of writing coils collinearly wound around a common flat longitudinal magnetic core; and</claim-text>
+<claim-text>a microcontroller connected to provide changeable data to the plurality of writing coils for recording said programmable and persistent magnetic data.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The magnetic data recording device of <claim-ref idref="CLM-00004">claim 4</claim-ref>, further comprising:
+<claim-text>a swipe sensor disposed over the plurality of writing coils and providing for a trigger to the microcontroller to provide a timing for recording said programmable and persistent magnetic data.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The magnetic data recording device of <claim-ref idref="CLM-00004">claim 4</claim-ref>, further comprising:
+<claim-text>an inductor for communicating externally sourced card personalization data to the microcontroller.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The magnetic data recording device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a bead of magnetic material disposed in a joint between the electronic device and a magnetic stripe surrounding it, and for matching said magnetic stripe to the programmable magnetic device to limit any magnetic discontinuities a legacy card reader would observe during a card swipe.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The magnetic data recording device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a silicon substrate on which are disposed a plurality of writing coils, and set flush within a recess in a magnetic stripe surrounding it, and providing a mechanism with which to record said programmable and persistent magnetic data.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A magnetic device comprising:
+<claim-text>means providing for the reading of programmable and persistent magnetic data by a legacy card reader in combination with permanent magnetic data recordings in a surrounding magnetic stripe; and</claim-text>
+<claim-text>a capacitor to receive a slow charge from a battery and to deliver a fast discharge to each of the plurality of writing coils sufficient to record repeatable magnetic data for a later reading by said legacy card reader.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A thinfilm magnetic device, comprising:
+<claim-text>a substrate;</claim-text>
+<claim-text>a first insulation (ins-<b>1</b>) layer deposited on the substrate;</claim-text>
+<claim-text>a first metallization (met-<b>1</b>) layer deposited on the ins-<b>1</b> layer, and comprising copper (Cu), and forming a bottom half of a number of individual coil windings;</claim-text>
+<claim-text>a second insulation (ins-<b>2</b>) layer deposited on the met-<b>1</b> layer, and comprising an insulative material deposited, without a mask;</claim-text>
+<claim-text>a hard magnetic core (mag-<b>1</b>) of ferromagnetic alloy deposited about 1-&#x3bc;m thick over the ins-<b>2</b> layer;</claim-text>
+<claim-text>a third insulation (ins-<b>3</b>) layer deposited over the mag-<b>1</b> layer, and comprising an insulative material;</claim-text>
+<claim-text>a second metallization (met-<b>2</b>) layer deposited on the ins-<b>3</b> layer, and comprising copper (Cu), and forming a top half of said number of individual coil windings;</claim-text>
+<claim-text>a fourth insulation (ins-<b>4</b>) layer deposited over the mag-<b>1</b> layer, and comprising an insulative material; and</claim-text>
+<claim-text>a passivation overcoat (psvn-<b>1</b>) of relatively hard material deposited over the ins-<b>4</b> layer;</claim-text>
+<claim-text>wherein, the met-<b>1</b> and met-<b>2</b> layers form coil windings that encircle a magnetic core formed by the mag-<b>1</b> layer, and such provide for the writing of magnetic data readable by a legacy card reader shuttled along the surface of the psvn-<b>1</b> layer.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The thinfilm magnetic device of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein:
+<claim-text>the first insulation (ins-<b>1</b>) layer deposited on the substrate includes bisbenzocyclobutene (BCB) or photoresist about two micrometers (&#x3bc;m) thick;</claim-text>
+<claim-text>the first metallization (met-<b>1</b>) layer deposited on the ins-<b>1</b> layer comprises copper (Cu) about 8-&#x3bc;m thick;</claim-text>
+<claim-text>the second insulation (ins-<b>2</b>) layer deposited on the met-<b>1</b> layer comprises BCB or photoresist deposited about 5-&#x3bc;m thick;</claim-text>
+<claim-text>the hard magnetic core (mag-<b>1</b>) is a CoFe alloy deposited about 1-&#x3bc;m thick and has a coercivity of about 200-600 Oe;</claim-text>
+<claim-text>the third insulation (ins-<b>3</b>) layer deposited over the mag-<b>1</b> layer comprises BOB deposited about 2-&#x3bc;m to 5-&#x3bc;m thick;</claim-text>
+<claim-text>the second metallization (met-<b>2</b>) layer deposited on the ins-<b>3</b> layer comprises copper (Cu) about 8-&#x3bc;m thick;</claim-text>
+<claim-text>the fourth insulation (ins-<b>4</b>) layer deposited over the mag-<b>1</b> layer comprises BCB or photoresist deposited about 2-&#x3bc;m to 5-&#x3bc;m thick; and</claim-text>
+<claim-text>the passivation overcoat (psvn-<b>1</b>) comprises silicon nitride (SiN), silicon oxide, or diamondlike carbon (DLC) deposited over the ins-<b>4</b> layer about 0.05-<b>82</b> m thick.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The thin-film magnetic device of <claim-ref idref="CLM-00010">claim 10</claim-ref>, further comprising:
+<claim-text>a conductive overlay on the passivation overcoat (psvn-<b>1</b>) to complete an electrical circuit to sense when a read head passes over.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A thin-film magnetic device, comprising:
+<claim-text>a substrate;</claim-text>
+<claim-text>a first insulation (ins-<b>1</b>) layer deposited on the substrate;</claim-text>
+<claim-text>a first metallization (met-<b>1</b>) layer deposited on the ins-<b>1</b> layer, and comprising copper (Cu), and forming a bottom half of a number of individual coil windings;</claim-text>
+<claim-text>a second insulation (ins-<b>2</b>) layer deposited on the met-<b>1</b> layer, and comprising an insulative material deposited, without a mask;</claim-text>
+<claim-text>a soft magnetic core (mag-<b>1</b>) of deposited over the ins-<b>2</b> layer, and having a coercivity of about one Oe;</claim-text>
+<claim-text>a third insulation (ins-<b>3</b>) layer deposited over the mag-<b>1</b> layer;</claim-text>
+<claim-text>a second metallization (met-<b>2</b>) layer deposited on the ins-<b>3</b> layer, and comprising copper (Cu), and forming a top half of said number of individual coil windings;</claim-text>
+<claim-text>a fourth insulation (ins-<b>4</b>) layer deposited over the mag-<b>1</b> layer;</claim-text>
+<claim-text>a hard magnetic media (mag-<b>2</b>) of a ferromagnetic alloy deposited over the ins-<b>4</b> layer; and</claim-text>
+<claim-text>a passivation overcoat (psvn-<b>1</b>) deposited over the ins-<b>4</b> layer;</claim-text>
+<claim-text>wherein, the met-<b>1</b> and met-<b>2</b> layers form coil windings that encircle a magnetic core formed by the mag-<b>1</b> layer, and such provide for the writing of magnetic data to the mag-<b>2</b> layer which is readable by a legacy card reader when shuttled along the surface of the psvn-<b>1</b> layer.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The thin-film magnetic device of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein:
+<claim-text>the first insulation (ins-<b>1</b>) layer deposited on the substrate comprises bisbenzocyclobutene (BCB) or photoresist about two micrometers (&#x3bc;m) thick;</claim-text>
+<claim-text>the first metallization (met-<b>1</b>) layer deposited on the ins-<b>1</b> layer comprises copper (Cu) about 8-&#x3bc;m thick;</claim-text>
+<claim-text>the second insulation (ins-<b>2</b>) layer deposited on the met-<b>1</b> layer comprises BCB or photoresist deposited, without a mask, about 5-&#x3bc;m thick;</claim-text>
+<claim-text>the soft magnetic core (mag-<b>1</b>) of nickel-iron (NiFe) deposited about 6-&#x3bc;m thick over the ins-<b>2</b> layer, and having a coercivity of about one Oe;</claim-text>
+<claim-text>the third insulation (ins-<b>3</b>) layer deposited over the mag-<b>1</b> layer comprises BCB or photoresist deposited about 2-&#x3bc;m to 5-&#x3bc;m thick;</claim-text>
+<claim-text>the second metallization (met-<b>2</b>) layer deposited on the ins-<b>3</b> layer comprises copper (Cu) about 8-&#x3bc;m thick;</claim-text>
+<claim-text>the fourth insulation (ins-<b>4</b>) layer deposited over the mag-<b>1</b> layer comprises BCB or photoresist deposited about 2-&#x3bc;m to 5-&#x3bc;m thick;</claim-text>
+<claim-text>the hard magnetic media (mag-<b>2</b>) is CoFe or CoNi deposited about 1-&#x3bc;m thick over the ins-<b>4</b> layer, and has a coercivity of about 200-600 Oe; and</claim-text>
+<claim-text>the passivation overcoat (psvn-<b>1</b>) comprises silicon nitride (SiN), silicon oxide, or diamondlike carbon (DLC) deposited over the ins-<b>4</b> layer about 0.05-&#x3bc;m thick;</claim-text>
+<claim-text>wherein, the met-<b>1</b> and met-<b>2</b> layers form coil windings that encircle a magnetic core formed by the mag-<b>1</b> layer, and such provide for the writing of magnetic data to the mag-<b>2</b> layer which is readable by a legacy card reader when shuttled along the surface of the psvn-<b>1</b> layer.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The thinfilm magnetic device of <claim-ref idref="CLM-00014">claim 14</claim-ref>, lastly further comprising:
+<claim-text>a conductive overlay on the passivation overcoat (psvn-<b>1</b>) to complete an electrical circuit to sense when a read head passes over.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

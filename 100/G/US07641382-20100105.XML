@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641382-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641382</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11270563</doc-number>
+<date>20051110</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2000-131772</doc-number>
+<date>20000428</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>366</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>25</main-group>
+<subgroup>72</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>13</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>K</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>3</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>374  4</main-classification>
+<further-classification>374 45</further-classification>
+<further-classification>374 29</further-classification>
+<further-classification>374141</further-classification>
+<further-classification>374147</further-classification>
+<further-classification>374135</further-classification>
+<further-classification> 73 40</further-classification>
+<further-classification>432200</further-classification>
+</classification-national>
+<invention-title id="d0e71">Leak judgment method, and computer-readable recording medium with recorded leak-judgment-executable program</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3771313</doc-number>
+<kind>A</kind>
+<name>Kaiho</name>
+<date>19731100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60216</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4356825</doc-number>
+<kind>A</kind>
+<name>Veth</name>
+<date>19821100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>600301</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4357113</doc-number>
+<kind>A</kind>
+<name>Brooks</name>
+<date>19821100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>374  4</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4409817</doc-number>
+<kind>A</kind>
+<name>Edwards, Jr.</name>
+<date>19831000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73 407</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4602872</doc-number>
+<kind>A</kind>
+<name>Emery et al.</name>
+<date>19860700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>374152</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4862731</doc-number>
+<kind>A</kind>
+<name>Gates</name>
+<date>19890900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73 407</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4969749</doc-number>
+<kind>A</kind>
+<name>Hasselmann</name>
+<date>19901100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>374115</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5093571</doc-number>
+<kind>A</kind>
+<name>Inomata et al.</name>
+<date>19920300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>250288</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5127365</doc-number>
+<kind>A</kind>
+<name>Koyama et al.</name>
+<date>19920700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>118724</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5522957</doc-number>
+<kind>A</kind>
+<name>Weling et al.</name>
+<date>19960600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>1566261</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5632820</doc-number>
+<kind>A</kind>
+<name>Taniyama et al.</name>
+<date>19970500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>118724</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6113732</doc-number>
+<kind>A</kind>
+<name>Yoshida et al.</name>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>156345</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>6155289</doc-number>
+<kind>A</kind>
+<name>Carlsen et al.</name>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>137457</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>6217211</doc-number>
+<kind>B1</kind>
+<name>Hesky</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>374  4</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>6238488</doc-number>
+<kind>B1</kind>
+<name>Fujita et al.</name>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>134 18</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6273955</doc-number>
+<kind>B1</kind>
+<name>Yoshino et al.</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>118723</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>6286992</doc-number>
+<kind>B1</kind>
+<name>Kyrtsos</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>374 45</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6349589</doc-number>
+<kind>B1</kind>
+<name>Zhou</name>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73 40</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6354140</doc-number>
+<kind>B1</kind>
+<name>Farkas et al.</name>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73 405 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6440504</doc-number>
+<kind>B1</kind>
+<name>Akiyama</name>
+<date>20020800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>427569</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6485297</doc-number>
+<kind>B2</kind>
+<name>Nakamura</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>432242</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>6576061</doc-number>
+<kind>B1</kind>
+<name>Moriyama et al.</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>15634531</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>6660094</doc-number>
+<kind>B2</kind>
+<name>Otoshi et al.</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>118718</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>6880382</doc-number>
+<kind>B2</kind>
+<name>Liu et al.</name>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73 407</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>7001640</doc-number>
+<kind>B2</kind>
+<name>Otoshi et al.</name>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>4272481</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>7194893</doc-number>
+<kind>B2</kind>
+<name>Cook et al.</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73 405 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>2003/0037730</doc-number>
+<kind>A1</kind>
+<name>Yamasaki et al.</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>118715</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>2003/0207021</doc-number>
+<kind>A1</kind>
+<name>Izawa et al.</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>427  8</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>2005/0037500</doc-number>
+<kind>A1</kind>
+<name>Ciovacco et al.</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>436  3</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>2005/0086952</doc-number>
+<kind>A1</kind>
+<name>Nonaka et al.</name>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62129</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>2008/0160361</doc-number>
+<kind>A1</kind>
+<name>Ohara et al.</name>
+<date>20080700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>429 17</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>2009/0229348</doc-number>
+<kind>A1</kind>
+<name>Woo</name>
+<date>20090900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73 405 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>JP</country>
+<doc-number>08105812</doc-number>
+<kind>A</kind>
+<date>19960400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>JP</country>
+<doc-number>11-121598</doc-number>
+<date>19990400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>5</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>374 29</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374  4</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374  5</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374 43</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374 44</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374 45</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374 57</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374120- 21</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374141</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374143</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374147</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374137</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374110-112</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374148</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374 30</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>374135</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118715</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118728</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118 50</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118663</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118 61</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118666</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118667</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118719</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>15634529</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>15634533</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>15634534</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73 40</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73 405 R</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73 453</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73 454</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62129</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>432200</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>436  3</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>427  8</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>11</number-of-figures>
+</figures>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>09837459</doc-number>
+<kind>00</kind>
+<date>20010419</date>
+</document-id>
+<parent-status>ABANDONED</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11270563</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060068081</doc-number>
+<kind>A1</kind>
+<date>20060330</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Izawa</last-name>
+<first-name>Hiroshi</first-name>
+<address>
+<city>Kyotanabe</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Echizen</last-name>
+<first-name>Hiroshi</first-name>
+<address>
+<city>Nara</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ohtoshi</last-name>
+<first-name>Hirokazu</first-name>
+<address>
+<city>Nara</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Tanaka</last-name>
+<first-name>Masatoshi</first-name>
+<address>
+<city>Kyotanabe</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Fitzpatrick, Cella, Harper &#x26; Scinto</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Canon Kabushiki Kaisha</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Verbitsky</last-name>
+<first-name>Gail</first-name>
+<department>2855</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">In a deposited-film formation apparatus or process having the means or steps of evacuating the inside of an inside-evacuatable chamber through an evacuation piping by an evacuation means, feeding a material gas into the chamber while evacuating the inside of the chamber, and applying a high-frequency power to form a deposited film on a substrate disposed inside the chamber, a leak is detected on the basis of a measured value of a temperature sensor which detects the heat of reaction that is generated when the material gas fed into the chamber reacts with oxygen contained in air having entered from the outside, so as to be able to stop the material gas feeding.</p>
+<p id="p-0002" num="0000">In deposited-film formation apparatus or processes making use of spontaneously ignitable gases, the leak can quickly be detected when air enters the chamber because of any unexpected accident such as a break of piping.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="184.40mm" wi="134.28mm" file="US07641382-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="201.00mm" wi="134.54mm" file="US07641382-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="242.74mm" wi="150.45mm" file="US07641382-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="131.15mm" wi="154.26mm" file="US07641382-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="201.42mm" wi="134.62mm" file="US07641382-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="205.32mm" wi="138.26mm" file="US07641382-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="206.25mm" wi="126.92mm" orientation="landscape" file="US07641382-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="134.87mm" wi="163.49mm" file="US07641382-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0003" num="0001">This is a division of application Ser. No. 09/837,459, filed Apr. 19, 2001.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0002">1. Field of the Invention</p>
+<p id="p-0005" num="0003">This invention relates to a deposited-film formation apparatus, a deposited-film formation process, a vacuum system, a leak judgment method, and a computer-readable recording medium with a recorded program. More particularly, this invention relates to a deposited-film formation apparatus, a deposited-film formation process, a vacuum system, a leak judgment method, and a computer-readable recording medium with a recorded leak-judgment-executable program (a recording medium any information recorded in which is readable by a computer and in which a program capable of executing the judgment of a leak of air has been recorded) which apparatus, process, system, method and medium can perform detection of any inclusion of air from the outside.</p>
+<p id="p-0006" num="0004">2. Related Background Art</p>
+<p id="p-0007" num="0005">Various proposals are conventionally made on processes for making functional deposited films for solar cells such as amorphous silicon solar cells and electrophotographic photosensitive members. Such deposited films are commonly formed by means of a vacuum system, which decomposes material gases to form deposited films. In this vacuum system, entrance (or inclusion) (hereinafter often &#x201c;leak&#x201d;) of air from the outside must be prevented for the reasons as stated below.</p>
+<p id="p-0008" num="0006">One of the reasons is that the material gases which may spontaneously ignite upon self-decomposition with air are used as material gases used to form the deposited films. Hence, any air entering the vacuum system from the outside due to leak causes undesired decomposition inside a vacuum chamber of the vacuum system. The undesired decomposition is caused by self-decomposition with air. Therefore, the self-decomposition may preferably be suppressed during deposited film formation.</p>
+<p id="p-0009" num="0007">Incidentally, air having entered in a large quantity due to leak may cause explosion dangerously.</p>
+<p id="p-0010" num="0008">Another reason is that even slight leak of air (in particular, oxygen) in deposited films makes the resultant functional deposited films have greatly poor electrical properties. Hence, systems or apparatus for forming the deposited films must be provided with chambers and piping which are highly vacuum enough for the air not to enter from the outside. Also, the systems must periodically be checked so that the air do not enter from the outside.</p>
+<p id="p-0011" num="0009">As methods for detecting any leak to examine whether or not air has entered (leaked) the vacuum chamber or piping from the outside, the following methods are commonly used. Methods for detecting leaks are roughly grouped into a &#x201c;pressure method&#x201d; in which the structure to be examined is brought into a pressed condition and a &#x201c;vacuum method&#x201d; in which the structure to be examined is brought into a vacuum condition.</p>
+<p id="p-0012" num="0010">The pressure method includes a &#x201c;pressure and leaving method&#x201d; in which the inside of the structure to be examined is pressurized and any change in pressure after a certain time is measured with a pressure gauge, a &#x201c;pressure and foaming method&#x201d; in which the structure to be examined is coated with a foamable solution and any foams formed thereat are visually observed, and a &#x201c;halogen leak test method&#x201d; in which the structure to be examined is pressurized with a halogen gas and thereafter any gas leaking outside is detected with a halogen leak detector.</p>
+<p id="p-0013" num="0011">The vacuum method includes a &#x201c;vacuum and leaving method&#x201d; in which the inside of the structure to be examined is evacuated and any change in pressure after a certain time is measured with a vacuum gauge, a &#x201c;Geissler tube method&#x201d; in which after evacuation any change in color of discharge ascribable to a probe gas is visually observed, and a &#x201c;helium leak test method&#x201d; in which after evacuation the structure to be examined is sprayed with helium gas from the outside and any gas leaking inside is detected with a helium leak detector.</p>
+<p id="p-0014" num="0012">It is common to form deposited films in a state where air has been kept not entering the vacuum system while managing any of these methods. It is considered possible to form deposited films in a state free of any leak while judging the leak of air by such methods.</p>
+<p id="p-0015" num="0013">However, in such leak detection methods, the following problems may arise in the case of apparatus which make use of material gases in a large quantity and also are continuously operated for the purpose of mass production-of deposited films as in the case of an apparatus for forming solar cells comprised of amorphous silicon which are intended for electric power generation.</p>
+<p id="p-0016" num="0014">In the above leak detection methods, the apparatus must be tested in a condition different from a condition where the deposited films are being formed, e.g., the apparatus is made airtight and certain specific gases are flowed. For example, at the time of maintenance, a service person must make sure of any leak. However, even when good results are obtained on the check of leaks at a certain point of time, a leak may occur because of, e.g., looseness of flanges at a point of time where deposited films are again begun to be formed. A leak may also suddenly occur because of an earthquake or the like. Accordingly, under such situations, it is impossible to detect the leak when it occurs in the midst of formation of deposited films.</p>
+<p id="p-0017" num="0015">As another problem, when a deposited-film formation apparatus has a large scale, when it takes a long time to form deposited films or when material gases are used in a large quantity, the formation of deposited films may inevitably be continued as the air is kept included inside the apparatus, so that deposited films having a low quality may be produced in a large quantity. Also, the material gases used in a large quantity are spontaneously ignitable gases and, in some cases, some have a high toxicity. Hence, if the formation of deposited films is continued as the leak is left unrepaired, there is a danger of causing a fire or explosion as a result of the reaction of material gases with the air, or being exposed to gas leakage to become injured.</p>
+<p id="p-0018" num="0016">Under such circumstances, it is sought to make an improvement in order to form functional deposited films in a large quantity, safely and stably.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0019" num="0017">Taking account of such a subject, an object of the present invention is to provide a deposited-film formation apparatus, a deposited-film formation process, a vacuum system, a leak judgment method, and a computer-readable recording medium with a recorded leak-judgment-executable program which apparatus, process, system, method and medium can be made up at a low cost and also can perform detection of a leak in a high reliability, without being affected at all by any condition inside the apparatus even when a leak occurs in the apparatus during the formation of deposited films.</p>
+<p id="p-0020" num="0018">To achieve the above object, the present invention provides a deposited-film formation apparatus comprising an inside-evacuatable chamber, a gas feed piping for feeding a material gas into the chamber, an evacuation means for evacuating the inside of the chamber, a first evacuation piping which connects the chamber and the evacuation means, and a second evacuation piping for guiding evacuation through the evacuation means, wherein,</p>
+<p id="p-0021" num="0019">the deposited-film formation apparatus has a temperature sensor which detects the heat of reaction that is generated when the material gas fed into the chamber reacts with oxygen contained in air having entered from the outside of the deposited-film formation apparatus.</p>
+<p id="p-0022" num="0020">The present invention also provides a deposited-film formation process comprising the steps of evacuating the inside of an inside-evacuatable chamber through an evacuation piping by an evacuation means, feeding a material gas into the chamber while evacuating the inside of the chamber, and applying a high-frequency power to form a deposited film on a substrate disposed inside the chamber, wherein,</p>
+<p id="p-0023" num="0021">a leak is detected on the basis of a measured value of a temperature sensor which detects the heat of reaction that is generated when the material gas fed into the chamber reacts with oxygen contained in air having entered from the outside, so as to be able to stop the material gas feeding.</p>
+<p id="p-0024" num="0022">The present invention still also provides a deposited-film formation apparatus comprising a chamber, a gas feed piping for feeding a reactive material gas into the chamber, and an evacuation means and an evacuation piping by and through which the inside of the chamber is evacuated, wherein,</p>
+<p id="p-0025" num="0023">the deposited-film formation apparatus has at least one temperature sensor and a leak judgment means which judges the occurrence of a leak on the basis of a measured value of the temperature sensor.</p>
+<p id="p-0026" num="0024">The present invention further provides a vacuum system comprising a chamber, a gas feed means for feeding a gas into the chamber, and an evacuation means and an evacuation piping by and through which the inside of the chamber is evacuated, wherein,</p>
+<p id="p-0027" num="0025">the vacuum system has a temperature sensor which detects the heat of reaction that is generated when the material gas fed into the chamber reacts with oxygen contained in air having entered from the outside of the deposited-film formation apparatus.</p>
+<p id="p-0028" num="0026">The present invention still further provides a leak judgment method comprising the steps of feeding a reactive gas to the inside of a vacuum system having a chamber and an evacuation piping, measuring temperature of the vacuum system at a plurality of spots thereof, and judging the occurrence of a leak on the basis of a change with time of a plurality of measured values obtained by measuring the temperature.</p>
+<p id="p-0029" num="0027">The present invention still further provides a computer-readable recording medium having a recorded program which is able to execute judgment on the occurrence of a leak of a vacuum system having a chamber into which a reactive gas is to be fed and having an evacuation piping, wherein,</p>
+<p id="p-0030" num="0028">the recorded program is a program for executing the step of totaling a plurality of measured values obtained by measuring temperature of the vacuum system at a plurality of spots thereof, and the step of judging the occurrence of a leak on the basis of a change with time of the plurality of measured values.</p>
+<p id="p-0031" num="0029">In the present invention described above, the temperature sensor may preferably be provided on an outer wall surface of the chamber or at the evacuation piping. The temperature sensor may preferably be provided on the side downstream to the evacuation means. The first evacuation piping or the second evacuation piping has a piping connection part, and the temperature sensor may preferably be provided on the side downstream to the piping connection part. The deposited-film formation apparatus may preferably have a plurality of chambers and a means for moving a beltlike member continuously through the inside of the plurality of chambers in its lengthwise direction.</p>
+<p id="p-0032" num="0030">In the present invention, the leak may preferably be judged to have occurred when the plurality of measured values increase. The temperature of the vacuum system may preferably be measured at a plurality of spots thereof along the flow of gas in the vacuum system, and the leak may preferably be judged to have occurred when the plurality of measured values obtained by measuring the temperature increase along the flow of gas. An average value of the temperature of the evacuation piping may be found to regard it as a reference value, and the occurrence of a leak of the vacuum system may preferably be judged on the basis of a change with time with respect to the reference value of the plurality of measured values. A value greater than the reference value may be set as a warning value in advance, and the leak may preferably be judged to have occurred when the plurality of measured values become greater than the warning value.</p>
+<p id="p-0033" num="0031">A temperature detection means is employed as a means for detecting the entrance (inclusion) of air into the chamber or evacuation piping from the outside. Hence, the leak can be detected in a high precision in the deposited-film formation apparatus or deposited-film formation process making use of such reactive material gases having a spontaneous ignitability.</p>
+<p id="p-0034" num="0032">The leak can also quickly be detected, and hence the apparatus or system can promptly be brought into a safe state. For example, in case of the entrance (inclusion) of air into the chamber because of any unexpected accident such as a break of piping, the leak can quickly be detected. This enables safe and stable formation of deposited films in a large quantity.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0035" num="0033"><figref idref="DRAWINGS">FIGS. 1A and 1B</figref> illustrate an example of the construction of a deposited-film formation apparatus according to an embodiment and Example 1 of the present invention.</p>
+<p id="p-0036" num="0034"><figref idref="DRAWINGS">FIG. 2</figref> is a graph showing the relationship between piping temperature and deposition time lapsed, in Example 1.</p>
+<p id="p-0037" num="0035"><figref idref="DRAWINGS">FIG. 3</figref> illustrates an example of the construction commonly employed in a deposited-film formation apparatus.</p>
+<p id="p-0038" num="0036"><figref idref="DRAWINGS">FIG. 4</figref> is a graph showing the relationship between solar-cell initial conversion efficiency and batch number in a case where the deposition of films are repeated by a process of a comparative example, using the deposited-film formation apparatus shown in <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0039" num="0037"><figref idref="DRAWINGS">FIGS. 5A and 5B</figref> illustrate an example of the construction of a deposited-film formation apparatus of Example 2.</p>
+<p id="p-0040" num="0038"><figref idref="DRAWINGS">FIGS. 6A and 6B</figref> illustrate an example of the construction of a deposited-film formation apparatus of Example 3.</p>
+<p id="p-0041" num="0039"><figref idref="DRAWINGS">FIG. 7</figref> illustrates an example of the construction of a roll-to-roll type deposited-film formation apparatus of Example 4.</p>
+<p id="p-0042" num="0040"><figref idref="DRAWINGS">FIG. 8</figref> is a graph showing the relationship between beltlike-substrate position in lengthwise direction and conversion efficiency in Example 4.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0043" num="0041">To solve the problems discussed previously, the present inventors made various studies on methods by which any leak can be detected even in course of the formation of deposited films.</p>
+<p id="p-0044" num="0042">First, they took note of oxygen, one of atmospheric components, and made studies on how to detect oxygen.</p>
+<p id="p-0045" num="0043">Stated specifically, they made studies on the following three methods.
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0044">(1) A method of detecting the inclusion-of oxygen by means of an oxygen sensor.</li>
+    <li id="ul0001-0002" num="0045">(2) A method of detecting the inclusion of oxygen by means of a mass spectrometer.</li>
+    <li id="ul0001-0003" num="0046">(3) A method of detecting the heat of reaction of oxygen with gas by means of a temperature sensor.</li>
+</ul>
+</p>
+<p id="p-0046" num="0047">As a result, it has become clear that the methods (1) and (2) are difficult to use in view of durability, cost, reliability, safety and so forth.</p>
+<p id="p-0047" num="0048">In the method (1), the oxygen sensor has a good detection sensitivity to oxygen at about atmospheric pressure, but shows a greatly low sensitivity in a high vacuum.</p>
+<p id="p-0048" num="0049">In the method (2), the mass spectrometer itself is expensive. Also, it has a high detection sensitivity in a high vacuum, but has a difficulty in detection itself at about atmospheric pressure, showing little sensitivity.</p>
+<p id="p-0049" num="0050">In addition, in any of the methods (1) and (2), upon contact with a reactive gas such as monosilane or an acid gas the sensor itself may so greatly deteriorate as to cause trouble soon. Also, any contamination due to dust or the like may cause a lowering of its sensitivity or trouble of the sensor itself.</p>
+<p id="p-0050" num="0051">From the foregoing, it is concluded to be difficult for the methods (1) and (2) to detect oxygen in a condition where reactive gases such as spontaneously ignitable gases are used. Also, the methods (1) and (2) are not preferable from the viewpoint of durability and cost of machinery, leak detection sensitivity, reliability and long-term stability.</p>
+<p id="p-0051" num="0052">On the other hand, the method (3), in which a temperature sensor is used, is preferred in view of the following point: Temperature can be measured from the outside, too. Hence, when the temperature sensor is provided outside the apparatus, the temperature can be measured without being affected at all by any internal condition of the apparatus.</p>
+<p id="p-0052" num="0053">Also when the temperature is measured with the temperature sensor inside the apparatus, the pressure of a vacuum chamber may little affect measurement precision. Also, the measurement is little affected by the reactive gas such as monosilane or the acid gas and also by contamination due to dust or the like. Still also, there is an advantage of a relatively low cost.</p>
+<p id="p-0053" num="0054">Actually, air in a quantity that may adversely affect electrical characteristics was brought in the chamber in course of the formation of deposited films to try inspecting whether or not the inclusion of air was detectable with a temperature sensor provided on an evacuation pipe connected to the chamber. As a result, it was found that the temperature sensor was well usable as a detection means.</p>
+<p id="p-0054" num="0055">Based on these results, further detailed studies were made on the method (3) of detecting temperature rise by means of a temperature sensor. As a result, it was ascertained that the method proved to be inexpensive and also have a high reliability.</p>
+<p id="p-0055" num="0056">It is more effective for the temperature sensor to be provided on evacuation piping (piping through which the gas sent away from a vacuum pump is flowed) positioned downstream to a vacuum pump, than to be provided on piping positioned between the chamber and the vacuum pump. In conventional apparatus, what is done on the evacuation piping positioned downstream to the vacuum pump is only to detect a leak by the pressure method after the deposited-film formation apparatus is stopped operating. In this evacuation piping, however, highly reactive material gases such as silane and a fluorine gas are present, and also commonly the piping is greatly contaminated with oil mist and dust of by-products. Moreover, the piping is kept at a negative pressure by an exhaust gas treatment apparatus (a harm eliminator), but the inside of the piping is kept at a pressure of approximately from 50 to 80 kPa, which is close to atmospheric pressure. Accordingly, the detection of a leak by means of a temperature sensor that employs the above method (3) is particularly effective for the piping extending between the vacuum pump and the exhaust gas treatment apparatus.</p>
+<p id="p-0056" num="0057">Thus, the method (3) may be employed, i.e., the temperature sensor may be provided at the inside-evacuatable or vacuum-keepable chamber and the piping through which material gases are fed, at the pump and piping for evacuating the inside of the chamber, or at the chamber or the piping. This enables quick detection of a leak by monitoring temperature by means of the temperature sensor while the spontaneously ignitable material gases are kept used. Hence, the use of material gases and formation of deposited films can be stopped immediately after the leak has been detected. Accordingly, any lowering of characteristics of deposited films can be kept minimum and also any fire, explosion or exposure to gas leakage can be prevented. Also, the functional deposited films can be formed in a large quantity, safely and stably.</p>
+<p id="p-0057" num="0058">An embodiment of the present invention is described below in detail with reference to <figref idref="DRAWINGS">FIGS. 1A and 1B</figref>.</p>
+<p id="p-0058" num="0059"><figref idref="DRAWINGS">FIGS. 1A and 1B</figref> illustrate an example of the construction of a deposited-film formation apparatus according to the present invention. In <figref idref="DRAWINGS">FIGS. 1A and 1B</figref>, reference numeral <b>101</b> denotes a temperature sensor; <b>102</b>, first evacuation piping; <b>103</b>, downstream-side second evacuation piping; <b>104</b>, a flange joint as a piping connection part; <b>105</b>, deposited-film-forming chamber; <b>106</b>, a vacuum pump as the evacuation means; <b>107</b>, an exhaust gas treatment apparatus; <b>108</b>, a high-frequency power source; <b>110</b>, a gas introducing pipe; <b>111</b> to <b>114</b>, gas flow meters; <b>115</b> to <b>118</b>, valves; <b>119</b>, electrodes; and <b>120</b>, an aluminum tape. A thermocouple is used as the temperature sensor <b>101</b>. The temperature sensor <b>101</b> is attached to the outer surface of the piping <b>103</b> in good contact so that the temperature of the evacuation piping <b>103</b> extending from the vacuum pump <b>106</b> to the exhaust gas treatment apparatus can be measured.</p>
+<p id="p-0059" num="0060">Deposited films are formed by means of this apparatus in the procedure as described below.</p>
+<p id="p-0060" num="0061">First, the vacuum pump <b>106</b> is actuated to evacuate the inside of the chamber <b>105</b> to well remove any atmospheric components such as oxygen present in the chamber <b>105</b>.</p>
+<p id="p-0061" num="0062">Next, the valve <b>115</b> is opened to introduce into the chamber a dilute gas having been controlled at a desired flow rate through the gas flow meter <b>111</b>.</p>
+<p id="p-0062" num="0063">Then, the valves <b>116</b> and <b>117</b> are opened in the like procedure to introduce thereinto a material gas or gases and a doping gas. After the gas flow rates have become stable, a desired high-frequency power which can well decompose the material gas or gases is applied by the high-frequency power source <b>108</b> to cause plasma (not shown) to form a deposited film on a substrate (not shown). Here, any gas not decomposed by the high-frequency power is drawn out, as it is, to the vacuum pump <b>106</b> through the evacuation piping <b>102</b>. Then, the gas is compressed and drawn out through the vacuum pump <b>106</b>, which is thereafter led to the exhaust gas treatment apparatus <b>107</b>. In the exhaust gas treatment apparatus <b>107</b>, the gas is turned harmless and changed in quality into a stable state, which is then brought to disposal in a safe state. Thus, after the deposited film has come to have a desired film thickness, the high-frequency power source <b>108</b> is turned off to stop the formation of deposited film.</p>
+<p id="p-0063" num="0064">Where a deposited film having a different quality is superposingly formed, valves <b>115</b> to <b>118</b> are opened or closed in the same procedure as the above to introduce into the chamber a gas or gases suited for the next deposited film, and a desired high-frequency power is again applied to form the deposited film.</p>
+<p id="p-0064" num="0065">Where deposited films are further superposingly formed, the same procedure as the above may be repeated to form deposited films successively. Thereafter, the inside of the chamber <b>105</b> is well displaced with a purging gas (not shown), and then the vacuum pump <b>106</b> is stopped. On the substrate having the deposited films thus formed, for example a transparent conductive film is formed in the next step.</p>
+<p id="p-0065" num="0066">The deposited films are formed in the above procedure.</p>
+<p id="p-0066" num="0067">The material gases used to form the deposited films may contain at least one kind of gas reactive with atmosphere, such as spontaneously ignitable gas. Monosilane (SiH<sub>4</sub>) and disilane (Si<sub>2</sub>H<sub>6</sub>) are chief materials used when silicon films are formed, and are flowed at a high rate in the formation of deposited films and highly reactive with oxygen. Hence, monosilane (SiH<sub>4</sub>) and disilane (Si<sub>2</sub>H<sub>6</sub>) are particularly preferred when the leak is detected using the temperature sensor.</p>
+<p id="p-0067" num="0068">For example, where silicon films such as amorphous silicon films and microcrystalline silicon films are formed, monosilane (SiH<sub>4</sub>), disilane (Si<sub>2</sub>H<sub>6</sub>) or the like is used as the material gas. To such gas, an element containing nitrogen atoms, such as nitrogen (N<sub>2</sub>) and ammonia (NH<sub>3</sub>), oxygen (O<sub>2</sub>), carbon monoxide (CO), carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), monogermane (GeH<sub>4</sub>) or the like may also be added in order to change band gap width. A dopant gas such as diborane (B<sub>2</sub>H<sub>6</sub>), boron trifluoride (BF<sub>3</sub>) or phosphine (PH<sub>3</sub>) may also simultaneously be introduced into the chamber for the purpose of doping.</p>
+<p id="p-0068" num="0069">Also when silicon tetrafluoride (SiF<sub>4</sub>), disilicon hexafluoride (Si<sub>2</sub>F<sub>6</sub>) or the like, which is not spontaneously ignitable, is used as the material gas, a gas reactive with atmosphere (spontaneously ignitable gas) such as monogermane (GeH<sub>4</sub>) or phosphine (PH<sub>3</sub>) may be used as the dopant gas.</p>
+<p id="p-0069" num="0070">As the temperature sensor, a device which can effectively measure temperature of about room temperature is preferred. Also, a device which can well precisely measure temperature of about 0 to 150&#xb0; C. as exemplified by a thermocouple or a platinum resistance thermometer is more preferred. Depending on the part where the temperature is measured, a radiation type thermometer may also be used.</p>
+<p id="p-0070" num="0071">Where the thermocouple and a commonly available temperature indicator are used in combination, the temperature indicator shows an abrupt rise in temperature upon any disconnection of the thermocouple, and hence there is a possibility that this is mistaken for the temperature rise due to a leak. Accordingly, in the case where the thermocouple and a commonly available temperature indicator are used in combination, any abrupt change in temperature within 10 to 30 seconds from the beginning of temperature rise may preferably be judged to be the disconnection of the thermocouple.</p>
+<p id="p-0071" num="0072">A plurality of thermocouples may also preferably be provided at one monitoring spot so that any temperature rise detected by a plurality of or all of thermocouples may be judged to be a leak. Also, a temperature rise detected by a plurality of thermocouples provided continuously in the direction of gas flow may also be judged to be a leak.</p>
+<p id="p-0072" num="0073">These leaks may also be judged by software processing using a computer. For example, the occurrence of a leak may be judged using a program which can execute judgment of leaks or a computer-readable recording medium in which such a program has been recorded.</p>
+<p id="p-0073" num="0074">Thus, the deposited-film formation apparatus or vacuum system may also have the above computer as a leak judgment means which judges the occurrence of a leak on the basis of a measured value of the temperature sensor. It may also have a feed-gas feed control means which stops the feeding of material gases upon detection of a leak by the leak judgment means.</p>
+<p id="p-0074" num="0075">The occurrence of a leak may be judged, when done in a room, at 20&#xb0; C. to 50&#xb0; C. with respect to room temperature so as to prevent any miss-operation from being caused by any external disorder and also to ensure a good detection sensitivity.</p>
+<p id="p-0075" num="0076">The temperature sensor may further be attached in the interior of piping. Such a case is effective for preventing miss-operation and improving detection sensitivity.</p>
+<p id="p-0076" num="0077">The temperature sensor, or the temperature sensor and the piping, may also be lagged with a heat insulator or the like so that the leak detection sensitivity does not lower even when part of the piping is provided outdoors and surrounding temperature may change greatly because of sunlight, wind and rain, atmospheric temperature and so forth.</p>
+<p id="p-0077" num="0078">The temperature may also be monitored some frequently-or always so that an average value of piping temperature can be found, and this value may be used as a reference value so that any variation from the reference value may be monitored. This brings about an improvement in detection precision. Also, a certain value of variation from a preset reference value may be set as a warning value so that any temperature changes due to seasonal variations can be taken into account. This brings about a more improvement in detection precision.</p>
+<p id="p-0078" num="0079">The leak also tends to occur at piping connection flanges or at piping welded joints. Also, around the vacuum pump, the leak tends to occur because of any break of piping due to vibration or the like of the vacuum pump and because of any deterioration of O-rings due to oil mist. The temperature sensor may preferably be provided on the side downstream to such portions tending to cause a leak, bringing about an improvement in detection sensitivity. It may preferably be provided at a position about 5 to 20 cm downstream to the portion tending to cause a leak.</p>
+<p id="p-0079" num="0080">Examples and Comparative Example of the present invention are given below. The present invention is by no means limited by these.</p>
+<heading id="h-0006" level="1">EXAMPLE 1</heading>
+<p id="p-0080" num="0081"><figref idref="DRAWINGS">FIGS. 1A and 1B</figref> show an example of the deposited-film formation apparatus (vacuum system) (described previously) of the present invention. In Example 1, in the apparatus shown in <figref idref="DRAWINGS">FIGS. 1A and 1B</figref>, usable for mass production of amorphous silicon solar cells of n-i-p layer construction, a thermocouple <b>101</b> was fixed as the temperature sensor <b>101</b> to the outer wall of a pipe attached directly to the vacuum pump <b>106</b> of the evacuation piping <b>103</b> extending between the vacuum pump <b>106</b> and the exhaust gas treatment apparatus <b>107</b>. The temperature sensor (thermocouple) <b>101</b> was further covered with an aluminum tape <b>120</b> in order to more improve thermal contact. At the time of formation of an n-type layer, fed were 250 ml/min&#xb7;normal of monosilane (SiH<sub>4</sub>), 3,000 ml/min&#xb7;normal of hydrogen (H<sub>2</sub>) and 20 ml/min&#xb7;normal of phosphine (PH<sub>3</sub>); at the time of formation of an i-type layer, 100 ml/min&#xb7;normal of monosilane and 1,000 ml/min&#xb7;normal of hydrogen; and at the time of formation of a p-type layer, 50 ml/min&#xb7;normal of monosilane, 4,000 ml/min&#xb7;normal of hydrogen and 2 ml/min&#xb7;normal of boron trifluoride (BF<sub>3</sub>).</p>
+<p id="p-0081" num="0082">In Example 1, amorphous silicon films were deposited on stainless steel substrates (not shown) in the manner as in the above embodiment, monitoring temperature indication of a temperature indicator (not shown) connected to the thermocouple <b>101</b>. In this way the deposited-film formation apparatus was continuously operated on and on, whereupon, in a certain batch, the temperature the thermocouple <b>101</b> kept to measure which was attached to the piping <b>103</b> extending between the vacuum pump <b>106</b> and the exhaust gas treatment apparatus <b>107</b> rose to 50&#xb0; C. from 30&#xb0; C. as shown in <figref idref="DRAWINGS">FIG. 2</figref>, in course of the formation of deposited films. Incidentally, <figref idref="DRAWINGS">FIG. 2</figref> shows a change with deposition time lapsed, in the temperature the temperature sensor <b>101</b> indicates.</p>
+<p id="p-0082" num="0083">Accordingly, the formation of deposited films was immediately stopped to check the piping <b>103</b>. A leak was found to have occurred because of a crack caused by vibration of the vacuum pump <b>106</b> at the welded joint of the piping <b>103</b>.</p>
+<p id="p-0083" num="0084">The interior of the piping <b>103</b> was such that a by-product silicon oxide stood adhered only to the leaked portion and its vicinity, and hence it was immediately removable. Accordingly, the piping <b>103</b> having caused the leak was promptly exchanged. Also, all samples (deposited-film-formed substrates) were evaluated to find that samples on which deposited films were formed while the leak occurred showed faulty characteristics because of imperfect formation of deposited films, but samples obtained before the leak occurred did not show any lowering of characteristics.</p>
+<heading id="h-0007" level="1">COMPARATIVE EXAMPLE</heading>
+<p id="p-0084" num="0085"><figref idref="DRAWINGS">FIG. 3</figref> shows an example of a conventional deposited-film formation apparatus (vacuum system). In <figref idref="DRAWINGS">FIG. 3</figref>, the same members or components as those in <figref idref="DRAWINGS">FIGS. 1A and 1B</figref> are denoted by like reference numerals. Reference numeral <b>303</b> denotes evacuation piping.</p>
+<p id="p-0085" num="0086">In this Comparative Example, in the apparatus shown in <figref idref="DRAWINGS">FIG. 3</figref>, usable for mass production of amorphous silicon solar cells of n-i-p layer construction, any temperature sensor <b>101</b> was not provided. At the time of formation of an n-type layer, fed were 250 ml/min&#xb7;normal of monosilane (SiH<sub>4</sub>), 3,000 ml/min&#xb7;normal of hydrogen (H<sub>2</sub>) and 20 ml/min&#xb7;normal of phosphine (PH<sub>3</sub>); at the time of formation of an i-type layer, 100 ml/min&#xb7;normal of monosilane and 1,000 ml/min&#xb7;normal of hydrogen; and at the time of formation of a p-type layer, 50 ml/min&#xb7;normal of monosilane, 4,000 ml/min&#xb7;normal of hydrogen and 2 ml/min&#xb7;normal of boron trifluoride (BF<sub>3</sub>).</p>
+<p id="p-0086" num="0087">Comparative Example differs from Example 1 in that the piping temperature during the formation of deposited films was not monitored. Amorphous silicon films were deposited on stainless steel substrates in the manner as in the above embodiment. Deposited films formed by continuously operating the apparatus in this manner were evaluated as solar cells for each batch.</p>
+<p id="p-0087" num="0088"><figref idref="DRAWINGS">FIG. 4</figref> shows the relationship between batch number and initial conversion efficiency (relative value). As shown in <figref idref="DRAWINGS">FIG. 4</figref>, the conversion efficiency begins to lower at about batch number <b>23</b>, and the lowering of characteristics is remarkable at about batch number <b>27</b> and the subsequent batches, where about 50% of the whole is seen to have low characteristics, resulting in defectives.</p>
+<p id="p-0088" num="0089">For the investigation of the cause, the apparatus was stopped to make examination therefor. As a result of examination, a leak was found to have occurred at piping <b>303</b> connecting the vacuum pump <b>106</b> and the exhaust gas treatment apparatus <b>107</b> of the apparatus shown in <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0089" num="0090">In the interior of the piping <b>303</b>, silicon oxide which was a by-product of monosilane and oxygen had deposited and the silicon oxide had clogged the piping <b>303</b> by about 70% of its cross-sectional area. It took three days to remove this deposit. Also, with regard to unremovable portions, parts were replaced.</p>
+<heading id="h-0008" level="1">EXAMPLE 2</heading>
+<p id="p-0090" num="0091"><figref idref="DRAWINGS">FIGS. 5A and 5B</figref> show another example of the construction of a deposited-film formation apparatus. In <figref idref="DRAWINGS">FIGS. 5A and 5B</figref>, the same members or components as those in <figref idref="DRAWINGS">FIGS. 1A and 1B</figref> are denoted by like reference numerals. Reference numeral <b>501</b> denotes a thermocouple; <b>503</b>, evacuation piping; <b>504</b>, a flange joint; and <b>521</b>, a threaded joint.</p>
+<p id="p-0091" num="0092">In Example 2, the thermocouple <b>501</b> was fixed to evacuation piping <b>503</b> extending between the vacuum pump <b>106</b> and the exhaust gas treatment apparatus <b>107</b>, at its position on 15 cm downstream side of the flange joint <b>504</b> of the piping and via the threaded joint <b>521</b>. At the time of formation of an n-type layer, fed were 250 ml/min&#xb7;normal of monosilane (SiH<sub>4</sub>), 3,000 ml/min&#xb7;normal of hydrogen (H<sub>2</sub>) and 20 ml/min&#xb7;normal of phosphine (PH<sub>3</sub>); at the time of formation of an i-type layer, 100 ml/min&#xb7;normal of monosilane and 1,000 ml/min&#xb7;normal of hydrogen; and at the time of formation of a p-type layer, 50 ml/min&#xb7;normal of monosilane, 4,000 ml/min&#xb7;normal of hydrogen and 2 ml/min&#xb7;normal of boron trifluoride (BF<sub>3</sub>).</p>
+<p id="p-0092" num="0093">In Example 2, amorphous silicon films were deposited on stainless steel substrates (not shown) in the manner as in the above embodiment, monitoring temperature indication of a temperature indicator (not shown) connected to the thermocouple <b>501</b>. In this way the deposited-film formation apparatus was continuously operated on and on, whereupon the temperature the thermocouple <b>501</b> kept to measure which was attached to the piping <b>503</b> extending between the vacuum pump <b>106</b> and the exhaust gas treatment apparatus <b>107</b> rose to 93&#xb0; C. from 31&#xb0; C. in course of the formation of deposited films. The formation of deposited films was immediately stopped to check the piping <b>503</b>. As a result, a packing made of silicone rubber (not shown), inserted to the flange joint <b>504</b> of the piping, was found to have been corroded by an acid solution having stagnated in the piping <b>503</b>, and a leak had occurred at the corroded portion.</p>
+<p id="p-0093" num="0094">The interior of the piping <b>503</b> was such that a by-product silicon oxide stood adhered only to the leaked portion and its vicinity, and hence it was immediately removable. The packing was also promptly exchanged. Also, all samples were evaluated to find that samples on which deposited films were formed while the leak occurred showed faulty characteristics because of imperfect formation of deposited films, but samples obtained before the leak occurred did not show any lowering of characteristics.</p>
+<heading id="h-0009" level="1">EXAMPLE 3</heading>
+<p id="p-0094" num="0095">In Example 3 a deposited-film formation apparatus shown in <figref idref="DRAWINGS">FIGS. 6A and 6B</figref> was used. In <figref idref="DRAWINGS">FIGS. 6A and 6B</figref>, the same members or components as those in <figref idref="DRAWINGS">FIGS. 1A and 1B</figref> are denoted by like reference numerals. Reference numeral <b>601</b> denotes a thermocouple; <b>603</b>, evacuation piping; <b>622</b>, a sight glass window; and <b>623</b>, a heat insulator.</p>
+<p id="p-0095" num="0096">In the apparatus shown in <figref idref="DRAWINGS">FIGS. 6A and 6B</figref>, the main part of the apparatus and the exhaust gas treatment apparatus <b>107</b> are provided at a large distance, and part of the evacuation piping <b>603</b>; extending between the vacuum pump <b>106</b> and the exhaust gas treatment apparatus <b>107</b>, is installed outdoors. This evacuation piping <b>603</b> is provided at its part exposed to the outdoor, with the sight glass window <b>622</b> as another kind of piping connection part so that its interior can be observed. The thermocouple <b>601</b> is provided at a position on 10 cm downstream side of the sight glass window <b>622</b>. Also, the thermocouple <b>601</b> and its surrounding piping are kept covered with the heat insulator <b>623</b>.</p>
+<p id="p-0096" num="0097">Using this apparatus, at the time of formation of an n-type layer, fed were 250 ml/min&#xb7;normal of monosilane (SiH<sub>4</sub>), 3,000 ml/min&#xb7;normal of hydrogen (H<sub>2</sub>) and 20 ml/min&#xb7;normal of phosphine (PH<sub>3</sub>); at the time of formation of an i-type layer, 100 ml/min&#xb7;normal of monosilane and 1,000 ml/min&#xb7;normal of hydrogen; and at the time of formation of a p-type layer, 50 ml/min&#xb7;normal of monosilane, 4,000 ml/min&#xb7;normal of hydrogen and 2 ml/min&#xb7;normal of boron trifluoride (BF<sub>3</sub>).</p>
+<p id="p-0097" num="0098">In Example 3, amorphous silicon films were deposited on stainless steel substrates (not shown) in the manner as in the above embodiment, monitoring temperature indication of a temperature indicator (not shown) connected to the thermocouple <b>601</b>. In this way the deposited-film formation apparatus was continuously operated on and on, whereupon, in a certain batch, the temperature the thermocouple <b>601</b> kept to measure which was attached to the piping <b>603</b> extending between the vacuum pump <b>106</b> and the exhaust gas treatment apparatus <b>107</b> rose to 24&#xb0; C. from 10&#xb0; C. in course of the formation of deposited films.</p>
+<p id="p-0098" num="0099">Accordingly, the formation of deposited films was immediately stopped to check the piping <b>603</b>. A leak was found to have occurred because of a crack caused in the sight glass window <b>622</b> by any external factor.</p>
+<p id="p-0099" num="0100">The interior of the piping <b>603</b> was such that a by-product silicon oxide stood adhered only to the leaked portion and its vicinity, and hence it was immediately removable. Also, all samples were evaluated to find that samples on which deposited films were formed while the leak occurred showed faulty characteristics because of imperfect formation of deposited films, but samples obtained before the leak occurred did not show any lowering of characteristics.</p>
+<heading id="h-0010" level="1">EXAMPLE 4</heading>
+<p id="p-0100" num="0101"><figref idref="DRAWINGS">FIG. 7</figref> shows an example of a roll-to-roll type deposited-film formation apparatus (vacuum system) of the present invention. In Example 4, the apparatus shown in <figref idref="DRAWINGS">FIG. 7</figref>, usable for mass production of solar cells, was used to continuously form amorphous silicon solar cells of n-i-p/n-i-p/n-i-p triple layer construction.</p>
+<p id="p-0101" num="0102">In <figref idref="DRAWINGS">FIG. 7</figref>, reference numerals <b>701</b> to <b>709</b> denote thermocouples as temperature sensors; <b>711</b> to <b>719</b>, evacuation piping; <b>720</b>, main evacuation piping; <b>721</b> to <b>729</b>, flexible tubes made of stainless steel; <b>730</b>, a beltlike-substrate wind-off chamber; <b>741</b>, slit-type passages; <b>731</b> to <b>739</b>, deposited-film-forming chambers; <b>740</b>, a beltlike-substrate wind-up chamber; <b>742</b>, a beltlike-substrate; <b>751</b>, vacuum pumps; and <b>752</b>, an exhaust gas treatment apparatus. In this apparatus, the thermocouples <b>701</b> to <b>709</b> are each provided at the part where each of the evacuation piping <b>711</b> to <b>719</b> is connected to the main evacuation piping <b>720</b>.</p>
+<p id="p-0102" num="0103">A deposited-film formation process is described with reference to <figref idref="DRAWINGS">FIG. 7</figref>. First, the insides of all the chambers <b>730</b> to <b>740</b> are brought to atmospheric pressure, and the insides of the chambers <b>730</b> to <b>740</b> are cleaned, where the beltlike substrate <b>742</b> wound in a roll is set in the substrate wind-off chamber <b>730</b>. Then, the roll-type substrate <b>742</b> is set by passing it through a plurality of deposited-film-forming chambers <b>731</b> to <b>739</b> and the slit-type passages <b>741</b> up to the substrate wind-up chamber <b>740</b>. Thereafter, the insides of all the chambers <b>730</b> to <b>740</b> are evacuated by means of the vacuum pumps <b>751</b>.</p>
+<p id="p-0103" num="0104">In the deposited-film-forming chambers <b>731</b> to <b>739</b>, the chambers <b>731</b> to <b>739</b> were heated by means of heaters (not shown) to effect baking sufficiently. Thereafter, at the time of formation of n-type layers, fed from material gas feed piping were 250 ml/min&#xb7;normal of monosilane (SiH<sub>4</sub>), 3,000 ml/min&#xb7;normal of hydrogen (H<sub>2</sub>) and 20 ml/min&#xb7;normal of phosphine (PH<sub>3</sub>); at the time of formation of i-type layers, 100 ml/min&#xb7;normal of monosilane and 1,000 ml/min&#xb7;normal of hydrogen; and at the time of formation of p-type layers, 50 ml/min&#xb7;normal of monosilane, 4,000 ml/min&#xb7;normal of hydrogen and 2 ml/min&#xb7;normal of boron trifluoride (BF<sub>3</sub>).</p>
+<p id="p-0104" num="0105">The material gases were thus fed and high-frequency power suited for the deposited-film-forming chambers <b>731</b> to <b>739</b> was supplied to form amorphous silicon solar cells of the triple layer construction, on the beltlike substrate <b>742</b> moving at a constant speed.</p>
+<p id="p-0105" num="0106">In course of the formation of deposited films, the temperature measured with the thermocouple <b>705</b> rose to 78&#xb0; C. from 26&#xb0; C. One minute later, the thermocouple <b>704</b> showed a temperature rise to 66&#xb0; C. from 26&#xb0; C., and further one minute later, the thermocouple <b>703</b> a temperature rise to 51&#xb0; C. from 26&#xb0; C. From this phenomenon, a leak was judged to have occurred at any of the flexible tube <b>725</b>, the evacuation piping <b>715</b> and the main evacuation piping <b>720</b>.</p>
+<p id="p-0106" num="0107">Accordingly, the supply of high-frequency power, the feeding of material gases and the heaters which were heating the respective chambers were stopped, and, being kept evacuated, an inert gas helium (He) was continued to be fed through the respective chambers <b>730</b> to <b>740</b> to cool the deposited-film-forming chambers <b>731</b> to <b>739</b>. Thereafter, as a non-reactive purging gas, dry nitrogen was fed into the chambers <b>730</b> to <b>740</b> and the insides of the chambers <b>730</b> to <b>740</b> were returned to atmospheric pressure. After they were returned to atmospheric pressure, the substrate wind-up chamber <b>740</b> was opened to take out a film-deposited beltlike substrate halfway wound up in a roll. Then, the chambers <b>730</b> to <b>740</b> were again cleaned and a new beltlike substrate <b>742</b> wound in a roll was set in the substrate wind-off chamber <b>730</b> to continue film deposition under the like conditions.</p>
+<p id="p-0107" num="0108">On the film-deposited beltlike substrate (deposited-film-formed substrate) <b>742</b> wound up in a roll, transparent conductive films were further formed in subsequent steps to produce solar cells. Then, characteristics of the solar cells were evaluated.</p>
+<p id="p-0108" num="0109">Evaluation was made on photoelectric conversion efficiency, and changes in conversion efficiency with respect to the lengthwise direction of the beltlike substrate for one roll were measured. <figref idref="DRAWINGS">FIG. 8</figref> shows the relationship between beltlike-substrate position in lengthwise direction and conversion efficiency.</p>
+<p id="p-0109" num="0110">As shown in <figref idref="DRAWINGS">FIG. 8</figref>, no lowering of characteristics was seen in all samples wound up in the substrate wind-up chamber and on which all layers had been formed.</p>
+<p id="p-0110" num="0111">The flexible tube <b>725</b>, the evacuation piping <b>715</b> and the main evacuation piping <b>720</b> which were considered to have caused a leak were checked to find that the leak has occurred at the stainless-steel flexible tube <b>725</b>, provided on the evacuation piping <b>714</b> between the vacuum pump <b>751</b> and the main evacuation piping <b>720</b>. The leak was presumed to be caused by an acid solution having stagnated in the flexible tube <b>725</b> and evacuation piping <b>715</b> and having corroded the stainless-steel flexible tube to make it brittle to cause a crack because of the vibration of the vacuum pump <b>751</b>. The interior of the flexible tube <b>725</b> was such that a by-product silicon oxide stood adhered only to the leaked portion and its vicinity. Hence, the by-product was immediately removable and the tube was also promptly replaceable.</p>
+<p id="p-0111" num="0112">As described above, according to the present invention, the temperature sensor is provided on the chamber or at the evacuation piping, whereby any leak can be detected even when it occurs in the apparatus in course of the formation of deposited films.</p>
+<p id="p-0112" num="0113">Since also the leak is detected by the temperature sensor, the detection is not affected at all by any condition inside the apparatus. The apparatus can also be set up at a low cost. In addition, because of a high reliability of leak detection, the apparatus can promptly be brought into a safe state.</p>
+<p id="p-0113" num="0114">Thus, the present invention enables safe and stable formation of deposited films in a large quantity.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. Method of detecting the occurrence of a leak due to the entry of external air to the interior of a chamber or piping comprising the steps of:
+<claim-text>forming a deposited film from reactive gas in a deposited film-forming apparatus which includes a vacuum pump mounted in an evacuation piping and an exhaust gas treatment unit downstream of the vacuum pump;</claim-text>
+<claim-text>measuring temperature in the evacuation piping at a plurality of spots thereof employing a plurality of temperature sensors;</claim-text>
+<claim-text>measuring a plurality of temperature values from the temperature sensors; and</claim-text>
+<claim-text>detecting a leak of reactant gases based on a temperature change, detected by the temperature sensors, which is caused by reaction between oxygen entering the chamber or the piping and the reactive gas.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein an average value of the temperature of the evacuation piping is found by averaging the output of detected temperatures of the temperature sensors.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein a detected temperature value greater than the reference value, determined by the average value of piping temperatures, is preset as a warning value, and the leak is determined to be present when the plurality of measured temperature values become greater than the warning value.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the plurality of temperature sensors is provided in one measurement region, and the leak is determined when temperature increase is detected by at least two temperature sensors among the plurality of sensors provided in the one measurement region.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the plurality of temperature sensors is continuously provided in a direction of gas flow, and the leak is determined when temperature increase is detected by the plurality of temperature sensors continuously provided. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

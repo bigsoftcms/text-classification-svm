@@ -1,0 +1,3256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641126-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641126</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11675990</doc-number>
+<date>20070216</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>05</class>
+<subclass>D</subclass>
+<main-group>23</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>236 94</main-classification>
+</classification-national>
+<invention-title id="d0e43">Controller system user interface</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4079366</doc-number>
+<kind>A</kind>
+<name>Wong</name>
+<date>19780300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4174807</doc-number>
+<kind>A</kind>
+<name>Smith et al.</name>
+<date>19791100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4206872</doc-number>
+<kind>A</kind>
+<name>Levine</name>
+<date>19800600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4224615</doc-number>
+<kind>A</kind>
+<name>Penz</name>
+<date>19800900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4264034</doc-number>
+<kind>A</kind>
+<name>Hyltin et al.</name>
+<date>19810400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4296334</doc-number>
+<kind>A</kind>
+<name>Wong et al.</name>
+<date>19811000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4298946</doc-number>
+<kind>A</kind>
+<name>Hartsell et al.</name>
+<date>19811100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4308991</doc-number>
+<kind>A</kind>
+<name>Peinetti et al.</name>
+<date>19820100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4332352</doc-number>
+<kind>A</kind>
+<name>Jaeger</name>
+<date>19820600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4337822</doc-number>
+<kind>A</kind>
+<name>Hyltin et al.</name>
+<date>19820700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4337893</doc-number>
+<kind>A</kind>
+<name>Flanders et al.</name>
+<date>19820700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4373664</doc-number>
+<kind>A</kind>
+<name>Barker et al.</name>
+<date>19830200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4379483</doc-number>
+<kind>A</kind>
+<name>Farley</name>
+<date>19830400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>4382544</doc-number>
+<kind>A</kind>
+<name>Stewart</name>
+<date>19830500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>4386649</doc-number>
+<kind>A</kind>
+<name>Hines et al.</name>
+<date>19830600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>4388692</doc-number>
+<kind>A</kind>
+<name>Jones et al.</name>
+<date>19830600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>4431134</doc-number>
+<kind>A</kind>
+<name>Hendricks et al.</name>
+<date>19840200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>4442972</doc-number>
+<kind>A</kind>
+<name>Sahay et al.</name>
+<date>19840400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>4446913</doc-number>
+<kind>A</kind>
+<name>Krocker</name>
+<date>19840500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>4479604</doc-number>
+<kind>A</kind>
+<name>Didner</name>
+<date>19841000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>4506827</doc-number>
+<kind>A</kind>
+<name>Jamieson et al.</name>
+<date>19850300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>4556169</doc-number>
+<kind>A</kind>
+<name>Zervos</name>
+<date>19851200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>4606401</doc-number>
+<kind>A</kind>
+<name>Levine et al.</name>
+<date>19860800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>4621336</doc-number>
+<kind>A</kind>
+<name>Brown</name>
+<date>19861100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>4622544</doc-number>
+<kind>A</kind>
+<name>Bially et al.</name>
+<date>19861100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>4628201</doc-number>
+<kind>A</kind>
+<name>Schmitt</name>
+<date>19861200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>4646964</doc-number>
+<kind>A</kind>
+<name>Parker et al.</name>
+<date>19870300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>4717333</doc-number>
+<kind>A</kind>
+<name>Carignan</name>
+<date>19880100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>4725001</doc-number>
+<kind>A</kind>
+<name>Carney et al.</name>
+<date>19880200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>4783800</doc-number>
+<kind>A</kind>
+<name>Levine</name>
+<date>19881100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>4819714</doc-number>
+<kind>A</kind>
+<name>Otsuka et al.</name>
+<date>19890400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>165217</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>4837731</doc-number>
+<kind>A</kind>
+<name>Levine et al.</name>
+<date>19890600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>4881686</doc-number>
+<kind>A</kind>
+<name>Mehta</name>
+<date>19891100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>4918439</doc-number>
+<kind>A</kind>
+<name>Wozniak et al.</name>
+<date>19900400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>4948040</doc-number>
+<kind>A</kind>
+<name>Kobayashi et al.</name>
+<date>19900800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>4992779</doc-number>
+<kind>A</kind>
+<name>Sugino et al.</name>
+<date>19910200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>4997029</doc-number>
+<kind>A</kind>
+<name>Otsuka et al.</name>
+<date>19910300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>5005365</doc-number>
+<kind>A</kind>
+<name>Lynch</name>
+<date>19910400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>5012973</doc-number>
+<kind>A</kind>
+<name>Dick et al.</name>
+<date>19910500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>5038851</doc-number>
+<kind>A</kind>
+<name>Metha</name>
+<date>19910800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>5053752</doc-number>
+<kind>A</kind>
+<name>Epstein et al.</name>
+<date>19911000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>5065813</doc-number>
+<kind>A</kind>
+<name>Berkeley et al.</name>
+<date>19911100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>5086385</doc-number>
+<kind>A</kind>
+<name>Launey et al.</name>
+<date>19920200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>5088645</doc-number>
+<kind>A</kind>
+<name>Bell</name>
+<date>19920200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>5140310</doc-number>
+<kind>A</kind>
+<name>DeLuca et al.</name>
+<date>19920800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>5161606</doc-number>
+<kind>A</kind>
+<name>Berkeley et al.</name>
+<date>19921100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>5170935</doc-number>
+<kind>A</kind>
+<name>Federspiel et al.</name>
+<date>19921200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00048">
+<document-id>
+<country>US</country>
+<doc-number>5172565</doc-number>
+<kind>A</kind>
+<name>Wruck et al.</name>
+<date>19921200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00049">
+<document-id>
+<country>US</country>
+<doc-number>5181653</doc-number>
+<kind>A</kind>
+<name>Foster et al.</name>
+<date>19930100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00050">
+<document-id>
+<country>US</country>
+<doc-number>5230482</doc-number>
+<kind>A</kind>
+<name>Ratz et al.</name>
+<date>19930700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00051">
+<document-id>
+<country>US</country>
+<doc-number>5238184</doc-number>
+<kind>A</kind>
+<name>Adams</name>
+<date>19930800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00052">
+<document-id>
+<country>US</country>
+<doc-number>5251813</doc-number>
+<kind>A</kind>
+<name>Kniepkamp</name>
+<date>19931000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00053">
+<document-id>
+<country>US</country>
+<doc-number>5259445</doc-number>
+<kind>A</kind>
+<name>Pratt et al.</name>
+<date>19931100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00054">
+<document-id>
+<country>US</country>
+<doc-number>5329991</doc-number>
+<kind>A</kind>
+<name>Metha et al.</name>
+<date>19940700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00055">
+<document-id>
+<country>US</country>
+<doc-number>5348078</doc-number>
+<kind>A</kind>
+<name>Dushane et al.</name>
+<date>19940900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00056">
+<document-id>
+<country>US</country>
+<doc-number>5386577</doc-number>
+<kind>A</kind>
+<name>Zenda</name>
+<date>19950100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00057">
+<document-id>
+<country>US</country>
+<doc-number>5404934</doc-number>
+<kind>A</kind>
+<name>Carlson et al.</name>
+<date>19950400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00058">
+<document-id>
+<country>US</country>
+<doc-number>5412377</doc-number>
+<kind>A</kind>
+<name>Evans et al.</name>
+<date>19950500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00059">
+<document-id>
+<country>US</country>
+<doc-number>5454510</doc-number>
+<kind>A</kind>
+<name>Manson et al.</name>
+<date>19951000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>236 46 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00060">
+<document-id>
+<country>US</country>
+<doc-number>5461558</doc-number>
+<kind>A</kind>
+<name>Patsiokas et al.</name>
+<date>19951000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00061">
+<document-id>
+<country>US</country>
+<doc-number>5482209</doc-number>
+<kind>A</kind>
+<name>Cochran et al.</name>
+<date>19960100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00062">
+<document-id>
+<country>US</country>
+<doc-number>5526422</doc-number>
+<kind>A</kind>
+<name>Keen</name>
+<date>19960600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00063">
+<document-id>
+<country>US</country>
+<doc-number>5537106</doc-number>
+<kind>A</kind>
+<name>Mitcuhashi</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00064">
+<document-id>
+<country>US</country>
+<doc-number>5566879</doc-number>
+<kind>A</kind>
+<name>Longtin</name>
+<date>19961000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00065">
+<document-id>
+<country>US</country>
+<doc-number>5570837</doc-number>
+<kind>A</kind>
+<name>Brown et al.</name>
+<date>19961100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00066">
+<document-id>
+<country>US</country>
+<doc-number>5590831</doc-number>
+<kind>A</kind>
+<name>Manson et al.</name>
+<date>19970100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>236 51</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00067">
+<document-id>
+<country>US</country>
+<doc-number>5673850</doc-number>
+<kind>A</kind>
+<name>Uptegraph</name>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00068">
+<document-id>
+<country>US</country>
+<doc-number>5682206</doc-number>
+<kind>A</kind>
+<name>Wehmeyer et al.</name>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00069">
+<document-id>
+<country>US</country>
+<doc-number>5732691</doc-number>
+<kind>A</kind>
+<name>Maiello et al.</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00070">
+<document-id>
+<country>US</country>
+<doc-number>5782296</doc-number>
+<kind>A</kind>
+<name>Metha</name>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00071">
+<document-id>
+<country>US</country>
+<doc-number>5818428</doc-number>
+<kind>A</kind>
+<name>Eisenbrandt et al.</name>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00072">
+<document-id>
+<country>US</country>
+<doc-number>5873519</doc-number>
+<kind>A</kind>
+<name>Beilfuss</name>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00073">
+<document-id>
+<country>US</country>
+<doc-number>5886697</doc-number>
+<kind>A</kind>
+<name>Naughton et al.</name>
+<date>19990300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00074">
+<document-id>
+<country>US</country>
+<doc-number>5902183</doc-number>
+<kind>A</kind>
+<name>D'Souza</name>
+<date>19990500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00075">
+<document-id>
+<country>US</country>
+<doc-number>5915473</doc-number>
+<kind>A</kind>
+<name>Ganesh et al.</name>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00076">
+<document-id>
+<country>US</country>
+<doc-number>5937942</doc-number>
+<kind>A</kind>
+<name>Bias et al.</name>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00077">
+<document-id>
+<country>US</country>
+<doc-number>5947372</doc-number>
+<kind>A</kind>
+<name>Tiernan</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00078">
+<document-id>
+<country>US</country>
+<doc-number>5950709</doc-number>
+<kind>A</kind>
+<name>Krueger et al.</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00079">
+<document-id>
+<country>US</country>
+<doc-number>5983146</doc-number>
+<kind>A</kind>
+<name>Sarbach</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701 36</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00080">
+<document-id>
+<country>US</country>
+<doc-number>6020881</doc-number>
+<kind>A</kind>
+<name>Naughton et al.</name>
+<date>20000200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00081">
+<document-id>
+<country>US</country>
+<doc-number>6032867</doc-number>
+<kind>A</kind>
+<name>Dushane et al.</name>
+<date>20000300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00082">
+<document-id>
+<country>US</country>
+<doc-number>6059195</doc-number>
+<kind>A</kind>
+<name>Adams et al.</name>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00083">
+<document-id>
+<country>US</country>
+<doc-number>6081197</doc-number>
+<kind>A</kind>
+<name>Garrick et al.</name>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00084">
+<document-id>
+<country>US</country>
+<doc-number>6101824</doc-number>
+<kind>A</kind>
+<name>Meyer et al.</name>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00085">
+<document-id>
+<country>US</country>
+<doc-number>6104963</doc-number>
+<kind>A</kind>
+<name>Cebasek et al.</name>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00086">
+<document-id>
+<country>US</country>
+<doc-number>6119125</doc-number>
+<kind>A</kind>
+<name>Gloudeman et al.</name>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00087">
+<document-id>
+<country>US</country>
+<doc-number>6121875</doc-number>
+<kind>A</kind>
+<name>Hamm et al.</name>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00088">
+<document-id>
+<country>US</country>
+<doc-number>6140987</doc-number>
+<kind>A</kind>
+<name>Stein et al.</name>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00089">
+<document-id>
+<country>US</country>
+<doc-number>6141595</doc-number>
+<kind>A</kind>
+<name>Gloudeman et al.</name>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00090">
+<document-id>
+<country>US</country>
+<doc-number>6149065</doc-number>
+<kind>A</kind>
+<name>White et al.</name>
+<date>20001100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00091">
+<document-id>
+<country>US</country>
+<doc-number>6154681</doc-number>
+<kind>A</kind>
+<name>Drees et al.</name>
+<date>20001100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00092">
+<document-id>
+<country>US</country>
+<doc-number>6167316</doc-number>
+<kind>A</kind>
+<name>Gloudeman et al.</name>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00093">
+<document-id>
+<country>US</country>
+<doc-number>6192282</doc-number>
+<kind>B1</kind>
+<name>Smith et al.</name>
+<date>20010200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00094">
+<document-id>
+<country>US</country>
+<doc-number>6196467</doc-number>
+<kind>B1</kind>
+<name>Dushane et al.</name>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00095">
+<document-id>
+<country>US</country>
+<doc-number>6208331</doc-number>
+<kind>B1</kind>
+<name>Singh et al.</name>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00096">
+<document-id>
+<country>US</country>
+<doc-number>6213404</doc-number>
+<kind>B1</kind>
+<name>Dushane et al.</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>236 51</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00097">
+<document-id>
+<country>US</country>
+<doc-number>6216956</doc-number>
+<kind>B1</kind>
+<name>Ehlers et al.</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00098">
+<document-id>
+<country>US</country>
+<doc-number>6236326</doc-number>
+<kind>B1</kind>
+<name>Murphy</name>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00099">
+<document-id>
+<country>US</country>
+<doc-number>6285912</doc-number>
+<kind>B1</kind>
+<name>Ellison et al.</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00100">
+<document-id>
+<country>US</country>
+<doc-number>6290140</doc-number>
+<kind>B1</kind>
+<name>Pesko et al.</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00101">
+<document-id>
+<country>US</country>
+<doc-number>6315211</doc-number>
+<kind>B1</kind>
+<name>Sartain et al.</name>
+<date>20011100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00102">
+<document-id>
+<country>US</country>
+<doc-number>6318639</doc-number>
+<kind>B1</kind>
+<name>Toth</name>
+<date>20011100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00103">
+<document-id>
+<country>US</country>
+<doc-number>6323882</doc-number>
+<kind>B1</kind>
+<name>Jerome et al.</name>
+<date>20011100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00104">
+<document-id>
+<country>US</country>
+<doc-number>6330806</doc-number>
+<kind>B1</kind>
+<name>Beaverson et al.</name>
+<date>20011200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00105">
+<document-id>
+<country>US</country>
+<doc-number>6344861</doc-number>
+<kind>B1</kind>
+<name>Naughton et al.</name>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00106">
+<document-id>
+<country>US</country>
+<doc-number>6351693</doc-number>
+<kind>B1</kind>
+<name>Monie et al.</name>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00107">
+<document-id>
+<country>US</country>
+<doc-number>6398118</doc-number>
+<kind>B1</kind>
+<name>Rosen et al.</name>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00108">
+<document-id>
+<country>US</country>
+<doc-number>6453687</doc-number>
+<kind>B2</kind>
+<name>Sharood et al.</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00109">
+<document-id>
+<country>US</country>
+<doc-number>6466132</doc-number>
+<kind>B1</kind>
+<name>Caronna et al.</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00110">
+<document-id>
+<country>US</country>
+<doc-number>6478233</doc-number>
+<kind>B1</kind>
+<name>Shah</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00111">
+<document-id>
+<country>US</country>
+<doc-number>6502758</doc-number>
+<kind>B2</kind>
+<name>Cottrell</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>236 46 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00112">
+<document-id>
+<country>US</country>
+<doc-number>6518953</doc-number>
+<kind>B1</kind>
+<name>Armstrong</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00113">
+<document-id>
+<country>US</country>
+<doc-number>6518957</doc-number>
+<kind>B1</kind>
+<name>Lehtinen et al.</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00114">
+<document-id>
+<country>US</country>
+<doc-number>6546419</doc-number>
+<kind>B1</kind>
+<name>Humpleman et al.</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00115">
+<document-id>
+<country>US</country>
+<doc-number>6556899</doc-number>
+<kind>B1</kind>
+<name>Harvey et al.</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00116">
+<document-id>
+<country>US</country>
+<doc-number>6578770</doc-number>
+<kind>B1</kind>
+<name>Rosen</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00117">
+<document-id>
+<country>US</country>
+<doc-number>6580950</doc-number>
+<kind>B1</kind>
+<name>Johnson et al.</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00118">
+<document-id>
+<country>US</country>
+<doc-number>6581846</doc-number>
+<kind>B1</kind>
+<name>Rosen</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00119">
+<document-id>
+<country>US</country>
+<doc-number>6595430</doc-number>
+<kind>B1</kind>
+<name>Shah</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00120">
+<document-id>
+<country>US</country>
+<doc-number>6608560</doc-number>
+<kind>B2</kind>
+<name>Abrams</name>
+<date>20030800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00121">
+<document-id>
+<country>US</country>
+<doc-number>6619555</doc-number>
+<kind>B2</kind>
+<name>Rosen</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00122">
+<document-id>
+<country>US</country>
+<doc-number>6621507</doc-number>
+<kind>B1</kind>
+<name>Shah</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00123">
+<document-id>
+<country>US</country>
+<doc-number>6726112</doc-number>
+<kind>B1</kind>
+<name>Ho</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00124">
+<document-id>
+<country>US</country>
+<doc-number>6786421</doc-number>
+<kind>B2</kind>
+<name>Rosen</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00125">
+<document-id>
+<country>US</country>
+<doc-number>6789739</doc-number>
+<kind>B2</kind>
+<name>Rosen</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00126">
+<document-id>
+<country>US</country>
+<doc-number>6851621</doc-number>
+<kind>B1</kind>
+<name>Wacker et al.</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00127">
+<document-id>
+<country>US</country>
+<doc-number>6868293</doc-number>
+<kind>B1</kind>
+<name>Schurr et al.</name>
+<date>20050300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00128">
+<document-id>
+<country>US</country>
+<doc-number>7050026</doc-number>
+<kind>B1</kind>
+<name>Rosen</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00129">
+<document-id>
+<country>US</country>
+<doc-number>7152806</doc-number>
+<kind>B1</kind>
+<name>Rosen</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00130">
+<document-id>
+<country>US</country>
+<doc-number>7156318</doc-number>
+<kind>B1</kind>
+<name>Rosen</name>
+<date>20070100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00131">
+<document-id>
+<country>US</country>
+<doc-number>7274972</doc-number>
+<kind>B2</kind>
+<name>Amundson et al.</name>
+<date>20070900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00132">
+<document-id>
+<country>US</country>
+<doc-number>2001/0029585</doc-number>
+<kind>A1</kind>
+<name>Simon et al.</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00133">
+<document-id>
+<country>US</country>
+<doc-number>2001/0042684</doc-number>
+<kind>A1</kind>
+<name>Essalik et al.</name>
+<date>20011100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00134">
+<document-id>
+<country>US</country>
+<doc-number>2001/0052459</doc-number>
+<kind>A1</kind>
+<name>Essalik et al.</name>
+<date>20011200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00135">
+<document-id>
+<country>US</country>
+<doc-number>2002/0005435</doc-number>
+<kind>A1</kind>
+<name>Cottrell</name>
+<date>20020100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00136">
+<document-id>
+<country>US</country>
+<doc-number>2002/0011923</doc-number>
+<kind>A1</kind>
+<name>Cunningham et al.</name>
+<date>20020100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00137">
+<document-id>
+<country>US</country>
+<doc-number>2002/0022991</doc-number>
+<kind>A1</kind>
+<name>Sharood et al.</name>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00138">
+<document-id>
+<country>US</country>
+<doc-number>2002/0060701</doc-number>
+<kind>A1</kind>
+<name>Naughton et al.</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00139">
+<document-id>
+<country>US</country>
+<doc-number>2002/0092779</doc-number>
+<kind>A1</kind>
+<name>Essalik et al.</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00140">
+<document-id>
+<country>US</country>
+<doc-number>2002/0096572</doc-number>
+<kind>A1</kind>
+<name>Chene et al.</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00141">
+<document-id>
+<country>US</country>
+<doc-number>2002/0138184</doc-number>
+<kind>A1</kind>
+<name>Kipersztok et al.</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00142">
+<document-id>
+<country>US</country>
+<doc-number>2002/0173929</doc-number>
+<kind>A1</kind>
+<name>Seigel</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00143">
+<document-id>
+<country>US</country>
+<doc-number>2003/0000692</doc-number>
+<kind>A1</kind>
+<name>Okano et al.</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00144">
+<document-id>
+<country>US</country>
+<doc-number>2003/0014179</doc-number>
+<kind>A1</kind>
+<name>Szukala et al.</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00145">
+<document-id>
+<country>US</country>
+<doc-number>2003/0033156</doc-number>
+<kind>A1</kind>
+<name>McCall</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00146">
+<document-id>
+<country>US</country>
+<doc-number>2003/0033230</doc-number>
+<kind>A1</kind>
+<name>McCall</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00147">
+<document-id>
+<country>US</country>
+<doc-number>2003/0034897</doc-number>
+<kind>A1</kind>
+<name>Shamoon et al.</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00148">
+<document-id>
+<country>US</country>
+<doc-number>2003/0034898</doc-number>
+<kind>A1</kind>
+<name>Shamoon et al.</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00149">
+<document-id>
+<country>US</country>
+<doc-number>2003/0074489</doc-number>
+<kind>A1</kind>
+<name>Steger et al.</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00150">
+<document-id>
+<country>US</country>
+<doc-number>2003/0121652</doc-number>
+<kind>A1</kind>
+<name>Carey et al.</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00151">
+<document-id>
+<country>US</country>
+<doc-number>2003/0123224</doc-number>
+<kind>A1</kind>
+<name>LaCroix et al.</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00152">
+<document-id>
+<country>US</country>
+<doc-number>2003/0136135</doc-number>
+<kind>A1</kind>
+<name>Kim et al.</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00153">
+<document-id>
+<country>US</country>
+<doc-number>2003/0142121</doc-number>
+<kind>A1</kind>
+<name>Rosen</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00154">
+<document-id>
+<country>US</country>
+<doc-number>2003/0150926</doc-number>
+<kind>A1</kind>
+<name>Rosen</name>
+<date>20030800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00155">
+<document-id>
+<country>US</country>
+<doc-number>2003/0150927</doc-number>
+<kind>A1</kind>
+<name>Rosen</name>
+<date>20030800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00156">
+<document-id>
+<country>US</country>
+<doc-number>2004/0074978</doc-number>
+<kind>A1</kind>
+<name>Rosen</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00157">
+<document-id>
+<country>US</country>
+<doc-number>2004/0215778</doc-number>
+<kind>A1</kind>
+<name>Hesse et al.</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00158">
+<document-id>
+<country>US</country>
+<doc-number>2004/0262410</doc-number>
+<kind>A1</kind>
+<name>Hull</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00159">
+<document-id>
+<country>US</country>
+<doc-number>2005/0088315</doc-number>
+<kind>A1</kind>
+<name>Klein et al.</name>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>34082569</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00160">
+<document-id>
+<country>US</country>
+<doc-number>2005/0108091</doc-number>
+<kind>A1</kind>
+<name>Sotak et al.</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00161">
+<document-id>
+<country>US</country>
+<doc-number>2005/0116055</doc-number>
+<kind>A1</kind>
+<name>Alles</name>
+<date>20050600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00162">
+<document-id>
+<country>US</country>
+<doc-number>2006/0192021</doc-number>
+<kind>A1</kind>
+<name>Schultz et al.</name>
+<date>20060800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>236  1 C</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00163">
+<document-id>
+<country>US</country>
+<doc-number>2006/0219799</doc-number>
+<kind>A1</kind>
+<name>Schultz et al.</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00164">
+<document-id>
+<country>DE</country>
+<doc-number>33341176</doc-number>
+<date>19850400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00165">
+<document-id>
+<country>EP</country>
+<doc-number>0070414</doc-number>
+<date>19830100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00166">
+<document-id>
+<country>EP</country>
+<doc-number>0678204</doc-number>
+<date>20000300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00167">
+<document-id>
+<country>EP</country>
+<doc-number>0985994</doc-number>
+<date>20000300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00168">
+<document-id>
+<country>EP</country>
+<doc-number>1033641</doc-number>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00169">
+<document-id>
+<country>EP</country>
+<doc-number>1074009</doc-number>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00170">
+<document-id>
+<country>FR</country>
+<doc-number>2711230</doc-number>
+<date>19950400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00171">
+<document-id>
+<country>WO</country>
+<doc-number>WO 97/11448</doc-number>
+<date>19970300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00172">
+<document-id>
+<country>WO</country>
+<doc-number>WO 97/39392</doc-number>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00173">
+<document-id>
+<country>WO</country>
+<doc-number>WO 00/43870</doc-number>
+<date>20000700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00174">
+<document-id>
+<country>WO</country>
+<doc-number>WO 01/52515</doc-number>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00175">
+<document-id>
+<country>WO</country>
+<doc-number>WO 01/79952</doc-number>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00176">
+<othercit>&#x201c;A Full Range of Alternative User Interfaces For Building Occupants and Operators,&#x201d; http://www.automatedbuildings.com/news/jan00/articles/andover/andover.htm, 5 pages, dated Jan. 2000, printed Sep. 20, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00177">
+<othercit>&#x201c;CorAccess Systems/In Home,&#x201d; http://web.archive.org/web20011212084427/www.coraccess.com/home.html, 1 page, copyright 2001, printed Aug. 19, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00178">
+<othercit>&#x201c;HAI Company Background,&#x201d; http://www.homeauto.com/AboutHAI/abouthai<sub>&#x2014;</sub>main.htm, 2 pages, printed Aug. 19, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00179">
+<othercit>&#x201c;High-tech options take hold in new homes&#x2014;200-08-28&#x2014;Dallas Business Journal,&#x201d; http://bizjournals.com/dallas/stories/2000/08/28/focus4, 3 pages, dated Aug. 28, 2000, printed Aug. 19, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00180">
+<othercit>&#x201c;Home Toys Review&#x2014;TouchLinc&#x201d;, http://www.hometoys.com/htinews/aug99/reviews/touchlinc/touchlinc.htm, 3 pages, dated Aug. 1999, printed Aug. 20, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00181">
+<othercit>&#x201c;HTI News Release,&#x201d; http://www.hometoys.com/htinews/apr99/releases/ha101.htm, 3 pages, printed Apr. 1999.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00182">
+<othercit>&#x201c;Mark of Excellence Award Finalist Announced,&#x201d; http://64.233.167.104/search?Q=cache:ciOA2YtYaBIJ:www.hometoys.com/releases/mar. . ., 6 pages, Leopard Touchscreen on p. 2, dated prior to Mar. 4, 2000, printed Aug. 20, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00183">
+<othercit>&#x201c;Product Review&#x2014;Philips Pronto Remote Control,&#x201d; http://hometheaterhifi.com/volume<sub>&#x2014;</sub>6<sub>&#x2014;</sub>2/philipsprontoremotecontrol.html, 5 pages, dated May 1999, printed Aug. 20, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00184">
+<othercit>&#x201c;RC X10 Automation Forum: Control your Heating and Cooling System with Pronto(1/1),&#x201d; http://www.remotecentral.com/cgi-bin/mboard/rc-x10/thread.cgi?12, 2 pages, dated Apr. 23, 1999, printed Aug. 20, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00185">
+<othercit>&#x201c;Spotlight on integrated systems,&#x201d; Custom Builder, V8, N2, p. 66(6), Mar.-Apr. 1993.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00186">
+<othercit>&#x201c;Vantage Expands Controls For Audio/Video, HVAC and Security,&#x201d; http://www.hometoys.com/htinews/aug99/releases/vantage03.htm, 2 pages, dated Aug. 3, 1999, printed Aug. 20, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00187">
+<othercit>ADI, &#x201c;Leopard User Manual,&#x201d; 93 pages, 2001.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00188">
+<othercit>Adicon 2500, &#x201c;The Automator,&#x201d; 4 pages, Oct.-Dec. 2000.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00189">
+<othercit>ADT Security Services, &#x201c;iCenter Advanced User Interface 8142ADT,&#x201d; Installation and Setup Guide, 5 pages, May 2001; First Sale Feb. 2001.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00190">
+<othercit>Aprilaire Electronic Thermostats Models 8344, 8346, 8348, 8363, 8365, 8366 Operating Instructions, 8 pages, prior to filing date of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00191">
+<othercit>Aube Technologies, Electronic Thermostat for Heating System Model TH135-01, 5 pages, Aug. 14, 2001.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00192">
+<othercit>Aube Technologies, TH140-28 Electronic Programmable Thermostat, Installation Instructions and User Guide, pp. 1-4, Jan. 22, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00193">
+<othercit>AutomatedBuildings.com Article&#x2014;&#x201c;Thin Client&#x201d; Solutions, &#x201c;Pressure, Air Flow, Temperature, Humidity &#x26; Valves,&#x201d; Dwyer Instruments, Inc., 5 pages, printed Sep. 20, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00194">
+<othercit>Blake et al., &#x201c;Seng 310 Final Project Demo Program&#x201d; Illustration, 3 pages, Apr. 6, 2001.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00195">
+<othercit>Blake et al., &#x201c;Seng 310 Final Project&#x201d; Report, dated Apr. 6, 2001.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00196">
+<othercit>Braeburn Model 3000 Owner's Manual, pp. 1-13, 2001.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00197">
+<othercit>Braeburn Model 5000 Owners Manual, pp. 1-17, 2001.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00198">
+<othercit>BRK Electronics Maximum Protection Plus Ultimate Convenience Smoke Alarm, 24 pages, prior to filing date of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00199">
+<othercit>BRK First Alert, User's Manual, Smoke and Fire Alarms, pp. 1-7, Nov. 2002.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00200">
+<othercit>Business Wire, &#x201c;MicroTouch Specialty Products Group to Capitalize on Growing Market for Low-Cost Digital Matrix Touchscreens,&#x201d; p. 1174 (2 pages), Jan. 6, 1999.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00201">
+<othercit>Cardio Manual, available at http://www.secant.ca/En/Documentation/Cardio2&#xe9;-Manual.pdf, Cardio Home Automation Inc., 55 pages, printed Sep. 28, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00202">
+<othercit>Cardio, by Secant; http://www.hometoys.com/htinews/apr98/reviews/cardio.htm, &#x201c;HTINews Review,&#x201d; Feb. 1998, 5 pages, printed Sep. 14, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00203">
+<othercit>Carrier Microelectronic Programmable Thermostat Owner's Manual, pp. 1-24, May 1994.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00204">
+<othercit>Carrier TSTATCCRF01 Programmable Digital Thermostat, pp. 1-21, prior to filing date of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00205">
+<othercit>Carrier, &#x201c;Programmable Dual Fuel Thermostat,&#x201d; Installation, Start-Up &#x26; Operating Instructions, pp. 1-12, Oct. 1998.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00206">
+<othercit>Carrier, &#x201c;Programmable Thermostats,&#x201d; Installation, Start-Up &#x26; Operating Instructions, pp. 1-16, Sep. 1998.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00207">
+<othercit>Carrier, &#x201c;Standard Programmable Thermostat,&#x201d; Homeowner's Manual, pp. 1-8 pages, 1998.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00208">
+<othercit>Carrier, &#x201c;Thermidistat Control,&#x201d; Installation, Start-Up, and Operating Instructions, pp. 1-12, Aug. 1999.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00209">
+<othercit>Climatouch, User Manual, Climatouch CT03TSB Thermostat, Climatouch CT03TSHB Thermostat with Humidity Control, Outdoor UHF Temperature Transmitter 217S31, 19 pages, Printed Sep. 15, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00210">
+<othercit>CorAccess, &#x201c;Companion 6,&#x201d; User Guide, pp. 1-20, Jun. 17, 2002.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00211">
+<othercit>Danfoss RT51/51RF &#x26; RT52/52RF User Instructions, 2 pages, Jun. 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00212">
+<othercit>DeKoven et al., &#x201c;Designing Collaboration in Consumer Products,&#x201d; 2 pages, 2001.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00213">
+<othercit>DeKoven et al., &#x201c;Measuring Task Models in Designing Intelligent Products,&#x201d; pp. 188-189, 2002.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00214">
+<othercit>Domotique Secant Home Automation&#x2014;Web Page, available at http://www.secant.ca/En/Company/Default.asp, 1 page, printed Sep. 28, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00215">
+<othercit>Firex Smoke Alarm, Ionization Models AD, ADC Photoelectric Model Pad, 4 pages, prior to filing date of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00216">
+<othercit>Freudenthal et al., &#x201c;Communicating extensive smart home functionality to users of all ages: the design of a mixed-initiative multimodal thermostat-interface,&#x201d; pp. 34-39, Mar. 12-13, 2001.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00217">
+<othercit>Gentex Corporation, HD135, 135&#xb0; Fixed Temperature Heat Detector AC Pwered, 120V, 60Hz With Battery Backup, Installation Instructions&#x2014;Owner's Information, pp. 1-5, Jun. 1, 1998.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00218">
+<othercit>Gentex Corporation, 9000 Series, Photoelectric Type Single Station/Multi-Station Smoke Alarms AC Powered With Battery Backup, Installation Instructions&#x2014;Owner's Information, pp. 9-1 to 9-6, Jan. 1, 1993.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00219">
+<othercit>Honeywell Brivis Deluxe Programmable Thermostat, pp. 1-20, 2002.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00220">
+<othercit>Honeywell Brivis T8602C Chronotherm IV Deluxe Programmable Thermostats, Installation Instructions, pp. 1-12, 2002.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00221">
+<othercit>Honeywell CT8602C Professional Fuel Saver Thermostat, pp. 1-6, 1995.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00222">
+<othercit>Honeywell Electronic Programmable Thermostat, Owner's Guide, pp. 1-20, 2003.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00223">
+<othercit>Honeywell Electronic Programmable Thermostats, Installation Instructions, pp. 1-8, 2003.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00224">
+<othercit>Honeywell News Release, &#x201c;Honeywell's New Sysnet Facilities Integration System For Boiler Plant and Combustion Safety Processes,&#x201d; 4 pages, Dec. 15, 1995.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00225">
+<othercit>Honeywell T8002 Programmable Thermostat, Installation Instructions, pp. 1-8, 2002.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00226">
+<othercit>Honeywell T8602A,B,C,D and TS8602A,C Chronotherm III Fuel Saver Thermostats, Installation Instructions, pp. 1-12, 1995.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00227">
+<othercit>Honeywell T8602D Chronotherm IV Deluxe Programmable Thermostats, Installation Instructions, pp. 1-12, 2002.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00228">
+<othercit>Honeywell TH8000 Series Programmable Thermostats, Owner's Guide, pp. 1-44, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00229">
+<othercit>Honeywell, &#x201c;Introduction of the S7350A Honeywell WebPAD Information Appliance,&#x201d; Home and Building Control Bulletin, 2 pages, Aug. 29, 2000; Picture of WebPad Device with touch screen, 1 Page; and screen shots of WebPad Device, 4 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00230">
+<othercit>Honeywell, &#x201c;W7006A Home Controller Gateway User Guide,&#x201d; 31 pages, Jul. 2001.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00231">
+<othercit>Honeywell, MagicStat&#xae; CT3200 Programmable Thermostat, Installation and Programming Instructions, pp. 1-24, 2001.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00232">
+<othercit>http://www.cc.gatech.edu/computing/classes/cs6751<sub>&#x2014;</sub>94<sub>&#x2014;</sub>fall/groupc/climate-2/node1.html, &#x201c;Contents,&#x201d; 53 pages, printed Sep. 20, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00233">
+<othercit>http://www.ritetemp.info/rtMenu<sub>&#x2014;</sub>13.html, Rite Temp 8082, 8 pages , printed Jun. 20, 2003.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00234">
+<othercit>http://www.thermostatsales.com, Robertshaw, &#x201c;9610 Digital Programmable Thermostat,&#x201d; 3 pages, printed Jun. 17, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00235">
+<othercit>http://www.thermostatsales.com, Robertshaw, &#x201c;9700 Deluxe Programmable Thermostat&#x201d; 3 pages, printed Jun. 17, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00236">
+<othercit>http://www.thermostatsales.com, Robertshaw, &#x201c;9710 Deluxe Programmable Thermostat,&#x201d; 3 pages, printed Jun. 17, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00237">
+<othercit>http://www.thermostatsales.com, Robertshaw, &#x201c;9720 Deluxe Programmable Thermostat,&#x201d; 3 pages, printed Jun. 17, 2004.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00238">
+<othercit>Hunter, &#x201c;44200/44250,&#x201d; Owner's Manual, 32 pages, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00239">
+<othercit>Hunter, &#x201c;44300/44350,&#x201d; Owner's Manual, 35 pages, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00240">
+<othercit>Hunter, &#x201c;Auto Saver 550&#x201d;, Owner's Manual Model 44550, 44 pages, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00241">
+<othercit>Invensys User's Manual, 21 pages, prior to filing of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00242">
+<othercit>Invensys&#x2122;, &#x201c;9700i 9701i 9715i 9720i Deluxe Programmable Thermostats,&#x201d; User's Manual, pp. 1-28, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00243">
+<othercit>Lux ELV1 Programmable Line Voltage Thermostat, Installation Instructions, 3 pages, prior to filing date of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00244">
+<othercit>Lux TX500 Series Smart Temp Electronic Thermostat, 3 pages, prior to filing date of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00245">
+<othercit>Lux TX9000 Installation, 3 pages, prior to filing date of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00246">
+<othercit>Lux, &#x201c;511 Series Smart Temp Electronic Thermostat,&#x201d; Owner's Manual, 3 pages, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00247">
+<othercit>Lux, &#x201c;600 Series Smart Temp Electronic Thermostat,&#x201d; Owner's Manual, 3 pages, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00248">
+<othercit>Lux, &#x201c;602 Series Multi-Stage Programmable Thermostat,&#x201d; Owner's Manual, 2 pages, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00249">
+<othercit>Lux, &#x201c;605/2110 Series Programmable Heat Pump Thermostat,&#x201d; Owner's Manual, 3 pages, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00250">
+<othercit>Lux, &#x201c;700/9000 Series Smart Temp Electronic Thermostat,&#x201d; Owner's Manual, 3 pages, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00251">
+<othercit>Lux, &#x201c;PSPH521 Series Programmable Heat Pump Thermostat,&#x201d; Owner's Manual, 3 pages, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00252">
+<othercit>Lux, &#x201c;TX1500 Series Smart Temp Electronic Thermostat,&#x201d; Owner's Manual, 6 pages, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00253">
+<othercit>METASYS, &#x201c;HVAC PRO for Windows User's Manual,&#x201d; 308 pages, 1998.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00254">
+<othercit>Proliphix, Inc., &#x201c;NTI0e &#x26; NT20e,&#x201d; Proliphix, Inc., 54 pages, prior to filing date of current application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00255">
+<othercit>Ritetemp Operation 8029, 3 pages, Jun. 19, 2002.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00256">
+<othercit>Ritetemp Operation 8050, 5 pages, Jun. 26, 2002.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00257">
+<othercit>Ritetemp Operation 8085, pp. 1-6, prior to filing date of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00258">
+<othercit>Sealed Unit Parts Co., Inc., Supco &#x26; CTC Thermostats . . . loaded with features, designed for value!, 6 pages, prior to filing date of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00259">
+<othercit>Totaline Model P474-1035 Owner's Manual Programmable 5-2 Day Digital Thermostat, pp. 1-21, prior to filing date of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00260">
+<othercit>Totaline Star CPE230RF, Commercial Programmable Thermostat Wireless Transmitter, Owner's Manual, pp. 1-16, Oct. 1998.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00261">
+<othercit>Totaline Star P/N P474-0130 Non-Programmable Digital Thermostat Owner's Manual, pp. 1-22, prior to filing date of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00262">
+<othercit>Totaline, &#x201c;1 For All programmable Digital Thermostat,&#x201d; Owner's Manual P/N P374-1100FM, 23 pages, Nov. 1998.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00263">
+<othercit>Totaline, &#x201c;1 For All Programmable Digital Thermostat,&#x201d; Owner's Manual P/N P474-1050, 21 pages, Nov. 1998.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00264">
+<othercit>Totaline, &#x201c;1 For All Programmable Digital Thermostat,&#x201d; Owner's Manual P/N P374-1100, 24 pages, Apr. 2001.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00265">
+<othercit>Totaline, &#x201c;Intellistat Combination Temperature and Humidity Control,&#x201d; Owner's Manual P/N P374-1600, 25 pages, Jun. 2001.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00266">
+<othercit>Totaline, &#x201c;Programmable Thermostat Configurable for Advanced Heat Pump or Dual Fuel Operation,&#x201d; Owner's Manual P/N P374-1500, 24 pages, Jun. 1999.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00267">
+<othercit>Totaline, &#x201c;Instructions P/N P474-1010&#x201d;, Manual, 2 pages, Dec. 1998.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00268">
+<othercit>Totaline, &#x201c;Programmable Thermostat&#x201d;, Homeowner's Guide, 27 pages, Dec. 1998.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00269">
+<othercit>Totaline, &#x201c;Wireless Programmable Digital Thermostat,&#x201d; Owner's Manual 474-1100RF, 21 pages, 2000.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00270">
+<othercit>Visor Handheld User Guide, Copyright 1999-2000.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00271">
+<othercit>Warmly Yours, &#x201c;Model TH111GFCI-P (120 VAC),&#x201d; Manual, pp. 1-4, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00272">
+<othercit>White-Rodgers 1F80-224 Programmable Electronic Digital Thermostat, Installation and Operation Instructions, 8 pages, prior to filing date of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00273">
+<othercit>White-Rodgers Comfort-Set III Thermostat, pp. 1-44, prior to filing date of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00274">
+<othercit>White-Rodgers Installation Instructions for Heating &#x26; Air Conditioning IF78 Non-Programmable Thermostat, 6 pages, prior to filing date of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00275">
+<othercit>White-Rodgers Installation Instructions for Heating &#x26; Air Conditioning IF78 5/2 Day Programmable Thermostat, 7 pages, prior to filing date of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00276">
+<othercit>White-Rodgers, &#x201c;Installation Instructions for Heating &#x26; Air Conditioning IF72 5/2 Day Programmable Heat Pump Thermostat,&#x201d; 8 pages, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00277">
+<othercit>White-Rodgers, &#x201c;Comfort-Set 90 Series Thermostat,&#x201d; Manual, pp. 1-24, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00278">
+<othercit>White-Rodgers, 1F80-240 &#x201c;(for Heating Only systems) Programmable Electronic Digital Thermostat,&#x201d; Installation and Operation Instructions, 8 pages, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00279">
+<othercit>White-Rodgers, 1F80-241 &#x201c;Programmable Electronic Digital Thermostat,&#x201d; Installation and Operation Instructions, 6 pages, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00280">
+<othercit>White-Rodgers, 1F80-261 &#x201c;Programmable Electronic Digital Thermostat,&#x201d; Installation and Operation Instructions, 8 pages, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00281">
+<othercit>White-Rodgers, 1F81-261 &#x201c;Programmable Electronic Digital Multi-Stage Thermostat,&#x201d; Installation and Operation Instructions, 8 pages, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00282">
+<othercit>White-Rodgers, 1F82-261 &#x201c;Programmable Electronic Digital Heat Pump Thermostat,&#x201d; Installation and Operation Instructions, 8 pages, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00283">
+<othercit>White-Rodgers, Comfort-Set 90 Series Premium, 4 pages, prior to filing date of present application.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00284">
+<othercit>www.icmcontrols.com, Simplecomfort, SC3000 Single Stage Heat/Single Stage Cool or Single Stage Heat Pump/Manual Changeover, 1 page, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00285">
+<othercit>www.icmcontrols.com, Simplecomfort, SC3001 Single Stage Heat/Single Stage Cool or Single Stage Heat Pump/Manual Changeover, 1 page, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00286">
+<othercit>www.icmcontrols.com, Simplecomfort, SC3006 Single Stage Heat/Single Stage Cool or Single Stage Heat Pump/Manual Changeover, 1 page, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00287">
+<othercit>www.icmcontrols.com, Simplecomfort, SC3201 2 Stage Heat Pump Manual Changeover, 1 page, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00288">
+<othercit>www.icmcontrols.com, Simplecomfort, SC3801 2 Stage Heat/2 Stage Cool 2 Stage Heat Pump/Audio Changeover, 1 page, printed prior to filing date.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00289">
+<othercit>Honeywell, S7340A System User Interface, 1 page, 1999.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00290">
+<othercit>Honeywell, T7525/T7526 Thermostat Touchpad, User Guide, pp. 1-13, 1995.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00291">
+<othercit>Honeywell, TotalHome Energy Management System 2000, pp. 1-12, 1995.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00292">
+<othercit>Honeywell, TotalHome Energy Management System 2000, 2 pp, 1996.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00293">
+<othercit>Blister Pack Insert from a Ritetemp 8082 Touch Screen Thermostat Product, 2 pages, 2002.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00294">
+<othercit>Operation Manual for Ritetemp Touch Screen Thermostat 8082, 8 pages, 2002.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00295">
+<othercit>Trouble Shooting Guide for Ritetemp Thermostat 8082, 1 page, 2002.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00296">
+<othercit>Quick Start Guide for Ritetemp Thermostat 8082, 1 page, 2002.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00297">
+<othercit>Install Guide for Ritetemp Thermostat 8082, 6 pages, 2002.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00298">
+<othercit>Remote Control Power Requirement for Ritetemp Thermostat 8082, 1 page, 2002.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00299">
+<othercit>Mounting Template for Ritetemp Thermostat 8082, 1 page, 2002.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>26</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>236  1 C</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>236 91 R</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>236 91 D</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>236 91 E</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>236 94</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>22</number-of-drawing-sheets>
+<number-of-figures>30</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>10907433</doc-number>
+<kind>00</kind>
+<date>20050331</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11675990</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070138308</doc-number>
+<kind>A1</kind>
+<date>20070621</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Schultz</last-name>
+<first-name>David A.</first-name>
+<address>
+<city>Savage</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Tessier</last-name>
+<first-name>Patrick C.</first-name>
+<address>
+<city>Oakdale</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Leen</last-name>
+<first-name>Cary</first-name>
+<address>
+<city>Hammond</city>
+<state>WI</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Honeywell International Inc.</orgname>
+<role>02</role>
+<address>
+<city>Morristown</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Norman</last-name>
+<first-name>Marc E</first-name>
+<department>3744</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A thermostat system having dedicated informational regions in a display and associated buttons or softkeys for sequential operation. The system may maximize utilization of a sectioned display and buttons for system navigation. The informational, selection and/or action design takes into consideration operational button groupings for straightforward comfort settings as well as editing of the clock, day-of-week, schedules, and so forth. Sections, regions or areas of the display may indicate immediate button operations. The changeable information in the regions associated with the softkeys or buttons may provide sequential operation of the thermostat system. The system may have multiple schedules and setpoints for heating and cooling comfort setting flexibility. A combining of individual schedules may be automatically selected. Also, there may be a system switch mode, for example, between heat and cool, where the schedules may be individually edited. Scheduling may be informational and/or action item and option key driven.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="113.45mm" wi="166.20mm" file="US07641126-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="232.33mm" wi="139.70mm" orientation="landscape" file="US07641126-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="172.30mm" wi="125.90mm" orientation="landscape" file="US07641126-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="104.65mm" wi="108.29mm" orientation="landscape" file="US07641126-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="179.41mm" wi="128.78mm" orientation="landscape" file="US07641126-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="179.32mm" wi="131.83mm" orientation="landscape" file="US07641126-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="164.68mm" wi="56.47mm" orientation="landscape" file="US07641126-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="177.72mm" wi="117.94mm" orientation="landscape" file="US07641126-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="166.37mm" wi="126.32mm" orientation="landscape" file="US07641126-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="181.10mm" wi="134.20mm" orientation="landscape" file="US07641126-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="177.55mm" wi="130.73mm" orientation="landscape" file="US07641126-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="180.68mm" wi="127.85mm" orientation="landscape" file="US07641126-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="179.24mm" wi="127.17mm" orientation="landscape" file="US07641126-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="178.39mm" wi="128.19mm" orientation="landscape" file="US07641126-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="180.59mm" wi="129.96mm" orientation="landscape" file="US07641126-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="180.09mm" wi="127.42mm" orientation="landscape" file="US07641126-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="177.88mm" wi="127.08mm" orientation="landscape" file="US07641126-20100105-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="176.28mm" wi="127.76mm" orientation="landscape" file="US07641126-20100105-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="184.32mm" wi="112.18mm" orientation="landscape" file="US07641126-20100105-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="235.20mm" wi="142.75mm" orientation="landscape" file="US07641126-20100105-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="234.02mm" wi="140.80mm" orientation="landscape" file="US07641126-20100105-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="228.01mm" wi="141.90mm" orientation="landscape" file="US07641126-20100105-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="228.60mm" wi="145.37mm" orientation="landscape" file="US07641126-20100105-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<p id="p-0002" num="0001">This application is a continuation of U.S. patent application Ser. No. 10/907,433, filed Mar. 31, 2005.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">The present invention pertains to controllers and particularly to such involving thermostats. More particularly, it pertains to user interfaces for programmable devices.</p>
+<heading id="h-0002" level="1">SUMMARY</heading>
+<p id="p-0004" num="0003">The invention is a thermostat system that may have informational regions, portions, sections, areas, labels, or segments in a display and associated buttons or softkeys for sequential operation to ease navigating operations of the system. Some examples of operation may involve set and schedule information.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWING</heading>
+<p id="p-0005" num="0004"><figref idref="DRAWINGS">FIG. 1</figref> shows a flow diagram of the changeover and auto changeover selection;</p>
+<p id="p-0006" num="0005"><figref idref="DRAWINGS">FIG. 2</figref> shows a flow diagram of a setting schedule;</p>
+<p id="p-0007" num="0006"><figref idref="DRAWINGS">FIGS. 3-5</figref> show example schedules;</p>
+<p id="p-0008" num="0007"><figref idref="DRAWINGS">FIG. 6</figref> shows an example of the present thermostat;</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 7</figref> reveals a screen of the thermostat;</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 8</figref> shows a set clock mode;</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 9</figref> shows a set day mode;</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIGS. 10 and 11</figref> show fan mode selections;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIGS. 12-16</figref> show various system selections;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIGS. 17-20</figref> show settings for several periods of a weekday;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 21</figref> shows a weekend setting;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 22</figref> shows a temporary override setting;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 23</figref> shows a hold override setting;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 24</figref> reveals a system configuration selection mode;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 25</figref> reveals system options of manual changeover, auto changeover and auto changeover only;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 26</figref> is a flow diagram for setting the clock, day and schedule of the thermostat system;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 27</figref> is a flow diagram for the set a single schedule procedure; and</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIGS. 28</figref>, <b>29</b> and <b>30</b> are storyboard diagrams for clock and schedule settings for heat, cool and auto systems, respectively.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DESCRIPTION</heading>
+<p id="p-0023" num="0022">The present invention maximizes utilization of a divided, regionalized, labeled, proportional, sectioned or segmented display, and buttons to achieve ease-of-use thermostat system minimal or one-level navigation. The design takes into consideration operational button groupings for simple, straightforward comfort settings as well as editing of the clock, day-of-week, schedules, and so forth. Dedicated regions, portions, areas, labels, sections, or segments of the display may represent immediate button operations with given information and selections. With utilization of appropriate softkey descriptions and location, the system's user interface offers very simple, easy to navigate operation. The versatile, flexible and changeable information and/or selections in the sections or segments associated with the softkeys or buttons offer sequential operation to simplify usage of the thermostat system. Operational sequences have well thought-out softkey names, sequences, descriptions and locations which also support an easily navigable operation of the thermostat system.</p>
+<p id="p-0024" num="0023">The thermostat system may have an automatic schedule/program selector. The selector may be at least a portion of thermostat control system used for controlling heating, ventilating and air conditioning (HVAC) equipment. In the present description, &#x201c;ventilating&#x201d; means moving air within the system's temperature controlled spaces, not bringing in fresh air from the outside and putting out stale air. Since some may regard the terms &#x201c;schedule&#x201d; and &#x201c;program&#x201d; as somewhat synonymous and interchangeable, the term &#x201c;schedule&#x201d; may be used in the present description. The thermostat described here is an illustrative example of the invention. The thermostat may provide a user with different schedules for heat and cool modes. An appropriate schedule may be automatically selected based on a system configuration (i.e., a manual changeover (MCO) or an automatic changeover (ACO)) and a system switch mode (i.e., heat or cool).</p>
+<p id="p-0025" num="0024">A default configuration may include the MCO and the heat mode. With this configuration, two or more schedules may be utilized. The latter may be seen by going into a &#x201c;Set Schedule&#x201d; selection and sequencing through the schedule. In this mode, the heat times and setpoints may be adjusted and/or viewed. To adjust and/or view the cool schedule, the user should first set the system to &#x201c;Cool&#x201d; (or &#x201c;Off&#x201d;), and then enter the &#x201c;Set Schedule&#x201d; selection. The schedule sequence may allow the user to adjust and/or view the cooling times and setpoints.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 1</figref> shows a flow diagram of the two schedule manual changeover and auto changeover selection. First, an installer setup <b>43</b> may be entered, upon which a configuration decision <b>44</b> is to be made. The manual changeover <b>45</b> may be selected and lead to a load <b>46</b> heat schedule and load <b>47</b> cool schedule. Or, the auto changeover <b>48</b> may be selected and lead to a load <b>46</b> heat/cool schedule. <figref idref="DRAWINGS">FIG. 2</figref> shows a flow diagram of the setting schedule <b>51</b> which may lead to a system switch decision. Selecting a &#x201c;cool or off&#x201d; <b>53</b> may lead to an edit <b>54</b> cool schedule. Selecting a &#x201c;heat&#x201d; <b>55</b> may lead to an edit <b>56</b> heat schedule.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIGS. 3</figref>, <b>4</b> and <b>5</b> reveal illustrative instances of a heat schedule <b>61</b>, a cool schedule <b>62</b>, and a heat/cool schedule <b>63</b>. There may be additional schedules. Each schedule may have its own multiplicity of periods. For an illustrative instance, the heat schedule <b>61</b> in <figref idref="DRAWINGS">FIG. 3</figref> shows periods Wake, Leave, Return and Sleep, with their start times and heat temperature set points. Another schedule <b>62</b> in <figref idref="DRAWINGS">FIG. 4</figref> shows those four periods with their start times and cool temperature set points. The start times for the cool schedule <b>62</b> may be different than those for the heat schedule <b>61</b>. Schedules <b>61</b> and <b>62</b> are for the manual changeover <b>45</b>. As shown in <figref idref="DRAWINGS">FIG. 5</figref>, the schedules <b>61</b> and <b>62</b> may be combined into schedule <b>63</b> for the auto changeover <b>48</b>. When schedules <b>61</b> and <b>62</b> are combined into the schedule <b>63</b>, the start times of the heat schedule <b>61</b> for the four listed periods may prevail over the start times of schedule <b>62</b>. The heat/cool schedule <b>63</b> may be used when the system <b>10</b> is configured for auto changeover. The heat schedule <b>61</b> may be used when system <b>10</b> is configured for manual changeover, or for heat only. The cool schedule <b>62</b> may be used when the system <b>10</b> is configured for manual changeover, or for cool only.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIGS. 6 and 7</figref> show a thermostat <b>10</b> and its screen <b>14</b> which may utilize the present invention. Thermostat <b>10</b> may have separately programmable weekday/weekend schedules, one-touch temperature control to override a program schedule at any time, and an easy to read display at day or night time, which displays both ambient temperature and a temperature setting. These items and other items may be programmed in thermostat <b>10</b> with the thermostat disconnected from a heating and/or cooling system that the thermostat may be intended to control. Disconnecting the thermostat <b>10</b> from the heating and cooling system may involve merely unplugging the thermostat from, for example, a wall socket which is connected to the system. In other words, a user may program, modify or adjust items of the thermostat <b>10</b> while sitting in an armchair.</p>
+<p id="p-0029" num="0028">Thermostat <b>10</b> may have a screen <b>14</b> using LCD or other display technology, as in <figref idref="DRAWINGS">FIG. 7</figref>. There may be three function buttons or softkeys <b>11</b>, <b>12</b> and <b>13</b>, which may be pressed to select a function labeled or indicated in a dedicated region, portion, area, label, section, or segment of the display <b>14</b> just above each button, respectively. &#x201c;Segment&#x201d; may have more than one meaning. One is a segment of a display which may display information proximate to a key such as a softkey. Another meaning may refer to an element (e.g., a bar-like element) of an LCD presentation of a numeral for indicating such an item as, for example, time or temperature, rather than dots or elements of, for instance, a dot matrix display. The functions shown above each button may change depending on the task. An up (increase) button <b>16</b> and a down (decrease) button <b>15</b> (sometimes with appropriate arrow indications on the buttons) may be situated near the of display screen <b>14</b> on a face of the thermostat <b>10</b>. These buttons <b>15</b> and <b>16</b> may be used to adjust time and temperature setpoints, and other parameters. Proximate to buttons <b>15</b> and <b>16</b> may be a hold button <b>17</b> for overriding programmed temperature control.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 7</figref> shows various components of the display screen <b>14</b>. Item <b>21</b> indicates the present inside temperature, item <b>22</b> shows the current time and day, item <b>23</b> shows a temperature setting or setpoint, and item <b>24</b> shows a function selection proximate to button <b>11</b>. Item <b>25</b> shows the fan settings proximate to button <b>12</b>, and item <b>26</b> shows a system setting function selection area proximate to button <b>13</b>. Also, on display <b>14</b> is a low battery warning (&#x201c;Replace Battery&#x201d;) indicator <b>27</b>, a current program period indicator <b>28</b>, a system status indicator <b>29</b>, an auxiliary heat indicator <b>31</b>, and an &#x201c;In Recovery&#x201d; indicator <b>32</b>.</p>
+<p id="p-0031" num="0030">To set the time and day for thermostat <b>10</b>, the button <b>11</b> situated below area <b>21</b> which says &#x201c;Set Clock/Day/Schedule&#x201d; may be pressed. Then a &#x201c;Set Clock&#x201d; logo <b>35</b> may flash on and off near the center of screen <b>14</b> and next to the time and day display <b>22</b>, as shown in <figref idref="DRAWINGS">FIG. 8</figref>. One may press button <b>15</b> or <b>16</b> to set the clock time. After the clock is set or is determined to already show the time as desired, then the button <b>12</b> under area <b>25</b> that says &#x201c;Set Day&#x201d;, may be pressed which will result in a &#x201c;Set Day&#x201d; logo <b>36</b> that flashes on and off, as shown in <figref idref="DRAWINGS">FIG. 9</figref>. The button <b>15</b> or <b>16</b> may be pressed for selecting the day of the week. Then one may press button <b>11</b> under area <b>24</b>, which says &#x201c;Done&#x201d;, to save and exit the time and day option. There may additionally be a date indicator (not shown) which could be set.</p>
+<p id="p-0032" num="0031">The fan setting may be selected. Button <b>12</b> under the &#x201c;Fan&#x201d; setting area <b>25</b> may be pressed to select &#x201c;Auto&#x201d; or &#x201c;On&#x201d; for fan operation, as shown in <figref idref="DRAWINGS">FIGS. 10 and 11</figref>. In the &#x201c;Auto&#x201d; mode, the fan may run only when the heating or cooling system is on. If set to &#x201c;On&#x201d;, the fan may run continuously. The &#x201c;On&#x201d; setting may be used for improved air circulation, or for more efficient air cleaning. Area <b>25</b> in some versions of thermostat <b>10</b> may also have various fan or air mover speed settings.</p>
+<p id="p-0033" num="0032">A system setting may be indicated in a selected area, region, section, segment, label or portion <b>26</b> of the display. The button <b>13</b> may be pressed to select &#x201c;Heat&#x201d; and get the heating system, as shown in <figref idref="DRAWINGS">FIG. 12</figref>. With this selection, the thermostat <b>10</b> may control just the heating system. Button <b>13</b> may be pressed to select &#x201c;Cool&#x201d; and get the heating system, as shown in <figref idref="DRAWINGS">FIG. 13</figref>. With this selection, the thermostat <b>10</b> may control just the cooling system. Button <b>13</b> may be pressed to select &#x201c;Off.&#x201d; Here, both heating and cooling systems may be off. In some cases, one may get selections &#x201c;Auto&#x201d; or &#x201c;Em Heat&#x201d;, as shown in <figref idref="DRAWINGS">FIGS. 14 and 15</figref>, respectively. These system settings might not appear on the thermostat <b>10</b> as their appearance could depend on how the thermostat is installed. With the selection &#x201c;Auto&#x201d;, the thermostat may automatically select the heating or cooling system depending on the indoor temperature <b>21</b> and the single schedule setpoint setting. The &#x201c;Em Heat&#x201d; selection may be for only heat pumps with auxiliary heat. Here, the thermostat <b>10</b> may control emergency and auxiliary heat, and lock out the compressor. There may be additional system settings or selections in area, region, section, segment, label or portion <b>26</b>. One may refer to region, though other terms may be used. <figref idref="DRAWINGS">FIG. 16</figref> of thermostat <b>10</b> shows &#x201c;Off&#x201d; selected in system region <b>26</b>. Here, screen <b>14</b> might reveal only the inside temperature <b>21</b>, the time <b>22</b>, and the three regions <b>24</b>, <b>25</b> and <b>26</b>, dedicated to softkeys <b>11</b>, <b>12</b> and <b>13</b>, respectively, at the bottom of the screen.</p>
+<p id="p-0034" num="0033">The thermostat <b>10</b> may be programmed for maximum energy savings. Four time periods <b>28</b> for each day may be programmed, with different settings for weekdays and weekends. There may be more or less than four periods. The four periods may constitute an illustrative example. The four periods <b>28</b> may be referred to as &#x201c;Wake&#x201d;, &#x201c;Leave&#x201d;, &#x201c;Return&#x201d; and &#x201c;Sleep.&#x201d; The following example settings may be done for weekdays in the &#x201c;Heat&#x201d; System. For example, for the &#x201c;Wake&#x201d; period <b>28</b>, the time <b>22</b> may be set to the time that an occupant awakens and the temperature <b>23</b> for this period <b>28</b> may be set until the occupant leaves for the day. <figref idref="DRAWINGS">FIG. 17</figref> indicates that the temperature <b>23</b> may be set for 75 degrees for 6:30 A.M. To move along in the set schedule procedure, the user may press softkey or button <b>13</b> under area <b>26</b> which indicates &#x201c;Next&#x201d;. The next period <b>28</b> may be the &#x201c;Leave&#x201d; period, where the occupant may set the time <b>22</b> for leaving the house and the temperature <b>23</b> that the occupant wants while away from the house. This setting may be an energy saving level. <figref idref="DRAWINGS">FIG. 18</figref> indicates that the temperature <b>23</b> may be set for 59 degrees for 8:30 A.M. The user may press softkey <b>12</b> under area <b>25</b> which indicates &#x201c;Cancel Period&#x201d; to eliminate unwanted time periods except &#x201c;Wake&#x201d;. The next period <b>28</b> may be the &#x201c;Return&#x201d; period, where the occupant returns to the house. This is where the occupant sets the thermostat <b>10</b> to the time <b>22</b> for when the occupant returns to the house, and sets the temperature <b>23</b> that the occupant wants during the evening until bedtime. <figref idref="DRAWINGS">FIG. 19</figref> shows that the temperature <b>23</b> may be set at 71 degrees for the return period <b>28</b> starting at 7:00 P.M. The &#x201c;Sleep&#x201d; period <b>28</b> begins when the occupant goes to bed and wants a temperature <b>23</b> set for overnight. The temperature <b>23</b> setting may be an energy-saving level. <figref idref="DRAWINGS">FIG. 20</figref> indicates that the temperature <b>23</b> may be set for 65 degrees beginning at 10:30 P.M.</p>
+<p id="p-0035" num="0034">Programmed settings may also be done for weekends. Besides the Heat settings, Cool settings <b>23</b> may also be done for each of the four periods <b>28</b>, as was done with Heat settings <b>23</b>. <figref idref="DRAWINGS">FIG. 21</figref> is an example of a weekend Cool setting <b>23</b> of 78 degrees for a &#x201c;Wake&#x201d; period <b>28</b> at a time <b>22</b> of 6:45 A.M. In some versions of thermostat <b>10</b>, virtually any number of and/or different periods and temperature settings may be uniquely programmed for individual days of the week, or for one or more, if not all, dates of a week, month or year.</p>
+<p id="p-0036" num="0035">The thermostat <b>10</b> may be pre-set to use EnergyStar&#xae; program settings for keeping heating and cooling expenses down. The &#x201c;Wake&#x201d; period may begin at 6:00 A.M. for weekdays and weekends. The &#x201c;Heat&#x201d; may be set at 70 degrees and the &#x201c;Cool&#x201d; may be set at 75 degrees. The &#x201c;Leave&#x201d; period may begin at 8:00 A.M. for weekdays and weekends. The &#x201c;Heat&#x201d; may be set at 62 degrees and the &#x201c;Cool&#x201d; at 75 degrees. The &#x201c;Return&#x201d; period may begin at 6:00 P.M. for weekdays and weekends. The &#x201c;Heat&#x201d; may be set at 70 degrees and the &#x201c;Cool&#x201d; at 75 degrees. The &#x201c;Sleep&#x201d; period may begin at 10:00 P.M. for weekdays and weekends. The &#x201c;Heat&#x201d; may be set at 62 degrees and the &#x201c;Cool&#x201d; at 78 degrees. The above-mentioned settings may apply to both weekdays and the weekend. However, one or more settings and/or periods may be canceled for the weekend. The program schedules may be adjusted in a variety of ways as indicated in the present description.</p>
+<p id="p-0037" num="0036">For one reason or another, the user may wish to do a program schedule override in a temporary fashion. To enter the override status, the user may press button <b>15</b> or <b>16</b> and hold it down for a couple seconds. Then a label <b>33</b> showing &#x201c;Temporary&#x201d; on the display screen may appear, as shown in <figref idref="DRAWINGS">FIG. 22</figref>. Then the user may adjust the temperature setting with the button <b>15</b> or <b>16</b> for a desired temperature. This temperature setting may temporarily override the temperature setting for the current time period, whether it be the &#x201c;Wake,&#x201d; &#x201c;Leave,&#x201d; &#x201c;Return&#x201d; or &#x201c;Sleep&#x201d; period. This new temperature may be maintained only until the next programmed time begins. For instance, if the user wants to turn the heat up during the &#x201c;Wake&#x201d; period, it will automatically be lowered upon the start of the &#x201c;Leave&#x201d; period to the previously set temperature of the latter period. The temporary setting may be cancelled at any time by pressing button <b>11</b> with &#x201c;Run Schedule&#x201d; showing in area <b>24</b>, as shown in <figref idref="DRAWINGS">FIG. 22</figref>, and then the &#x201c;Set Clock/Day/Schedule&#x201d; label may return to area <b>24</b>. When setting the thermostat <b>10</b>, the occupant should assure that the thermostat selection is to the system (e.g., &#x201c;Heat,&#x201d; &#x201c;Cool&#x201d; or &#x201c;Auto&#x201d;) which is to be controlled.</p>
+<p id="p-0038" num="0037">The occupant may want to program a schedule override that is permanent. To do so, the occupant may press the &#x201c;HOLD&#x201d; button <b>17</b> and permanently adjust the temperature. This temperature adjustment may override the temperature settings for all time periods. To do this permanent override, the occupant would first assure that the thermostat <b>10</b> is set to the desired system (i.e., Heat, Cool, or Auto) to be controlled. The &#x201c;HOLD&#x201d; button <b>17</b> may turn off the program schedule and allow the occupant to adjust the thermostat manually, as desired. Whatever temperature is set will be maintained 24 hours a day, until it is manually changed. A &#x201c;Hold&#x201d; label <b>34</b>, shown in <figref idref="DRAWINGS">FIG. 23</figref>, may be present on display <b>14</b> when the permanent program schedule override is in effect. To cancel the &#x201c;Hold,&#x201d; one may go to button <b>11</b> under area <b>24</b> which says &#x201c;Run Schedule&#x201d; and press the button to resume the programmed schedule.</p>
+<p id="p-0039" num="0038">Instead of being in the &#x201c;Heat&#x201d; or &#x201c;Cool&#x201d; system, thermostat <b>10</b> may go from the MCO to the ACO (i.e., the Auto Changeover). The auto changeover may be used in climates where both air conditioning and heating are used on the same day. The system may be set to &#x201c;Auto&#x201d; by pressing the button <b>13</b> until &#x201c;Auto&#x201d; shows up in area <b>26</b> as shown in <figref idref="DRAWINGS">FIG. 22</figref>. When the system is set to &#x201c;Auto,&#x201d; the thermostat <b>10</b> may automatically select heating or cooling, depending on the indoor temperature. Heating system and cooling system settings may be at a minimum at least three degrees apart. The thermostat may automatically adjust the settings to maintain the three degree separation (i.e., deadband). However, this separation could be adjusted to another value.</p>
+<p id="p-0040" num="0039">Thermostat <b>10</b> may have a built-in compressor protection, which may help prevent damage to the compressor in the associated air conditioning or heat pump system. Damage may occur if the compressor is restarted too soon after shutdown. The compressor may be forced to wait several minutes before restarting. During this wait time, the display <b>14</b> may flash a message label <b>29</b> &#x201c;Cool On&#x201d; or &#x201c;Heat On&#x201d; if a heat pump is associated with the system as shown in <figref idref="DRAWINGS">FIG. 7</figref>. When a safe wait time has elapsed, the message label <b>29</b> flashing may stop and the compressor may turn on. The location of label <b>29</b> is shown in <figref idref="DRAWINGS">FIG. 7</figref>.</p>
+<p id="p-0041" num="0040">The thermostat <b>10</b> may have an Adaptive Intelligent Recovery&#x2122; (AIR) aspect that may permit the thermostat to &#x201c;learn&#x201d; how long the furnace or air conditioner takes to reach the temperature setting. For instance, the user may set the program schedule to the time that the house is to reach the desired temperature. Then the thermostat <b>10</b> may turn on the heating or cooling system at an appropriate time before the scheduled time to reach the set temperature at the scheduled time. For example, the user may set the &#x201c;Wake&#x201d; time to 6:00 A.M., so that the temperature is at 70 degrees by 6:00 A.M. When the Adaptive Intelligent Recovery&#x2122; is in effect, the display <b>14</b> of thermostat <b>10</b> will display an &#x201c;In Recovery&#x201d; label <b>32</b>, as shown in <figref idref="DRAWINGS">FIG. 7</figref>.</p>
+<p id="p-0042" num="0041">A system configuration may be selected for the thermostat <b>10</b>. Buttons <b>12</b> and <b>16</b> may be pressed together for about 4 seconds to enter the configuration mode. Numeral placeholder <b>41</b> may show a number that represents a set up category for a system that the thermostat <b>10</b> may control. Numeral placeholder <b>42</b> may show a number that represents a category option. For instance, when entering the configuration mode, a number &#x201c;1&#x201d; may appear in the placeholder <b>41</b>, which refers to a system type, as shown in <figref idref="DRAWINGS">FIG. 24</figref>. A number &#x201c;0&#x201d; may appear in the placeholder <b>42</b>, which refers to a standard heating cooling setup. The category option &#x201c;0&#x201d; may be a default value for the set up category &#x201c;1&#x201d;. Set up category &#x201c;1&#x201d; may have other category options including &#x201c;1&#x201d; (heat pump), &#x201c;2&#x201d; (heat only), &#x201c;3&#x201d; (heat only with fan), &#x201c;4&#x201d; (cool only), &#x201c;15&#x201d; (two heat, one cool, heat pump), &#x201c;6&#x201d; (two heat, two cool, conventional), &#x201c;7&#x201d; (two heat, one cool, conventional), and &#x201c;8&#x201d; (one heat, two cool, conventional). If button <b>13</b> under area <b>26</b> with &#x201c;Next&#x201d; is pressed one or more times, a set up category number &#x201c;12&#x201d; may appear in placeholder <b>41</b>, as shown in <figref idref="DRAWINGS">FIG. 25</figref>. Number &#x201c;12&#x201d; may represent an &#x201c;Auto Changeover&#x201d; category. The category options indicated in placeholder may include &#x201c;0&#x201d; (manual changeover), &#x201c;1&#x201d; (auto changeover), and &#x201c;3&#x201d; (auto changeover only). Numerous other set up categories and category options designated by other numbers in placeholders <b>41</b> and <b>42</b>, respectively, may be designed into thermostat <b>10</b> as desired. The configuration mode may be exited by pressing button <b>11</b> under area <b>24</b> indicating &#x201c;Done&#x201d;.</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 26</figref> shows a flow diagram for setting a clock, day and schedule of the programmable thermostat. The legend for this Figure has boxes representing main informational regions and the italic text representing softkey options. A start <b>64</b> may result in a normal thermostat operation informational item <b>65</b>. Pressing a softkey option proximate to a set clock/day/schedule <b>66</b> indication may lead to a set clock informational item <b>67</b>. After the clock is set or checked, an option to set <b>68</b> the date, set <b>69</b> the schedule, or select done <b>71</b>, may be selected with the softkey. The set day informational item <b>72</b> may be selected via option <b>68</b>. Upon setting or checking the day, then an option to set <b>73</b> the schedule or select done may be effected with the softkey. The set schedule informational item <b>75</b> may be selected via option <b>73</b>. Upon setting the schedule with item <b>75</b>, then the done softkey option <b>76</b> may be selected.</p>
+<p id="p-0044" num="0043">The set schedule item <b>75</b> is shown in <figref idref="DRAWINGS">FIG. 27</figref>. Softkey options are shown in italic text and informational items in diamonds. A softkey selection <b>69</b>, <b>73</b> may provide a set schedule time item <b>77</b> for the first period, depending on changeover configuration and system switch setting. Range <b>78</b> may cover the different schedule setting/viewing options. The different schedule options may be for auto changeover, manual changeover with system switch in heat, and manual changeover with system switch in cool (or off). A schedule informational item selection may automatically be determined by the changeover configuration and system switch.</p>
+<p id="p-0045" num="0044">The user may select the softkey next option to advance to the next informational item or select the softkey done option to exit the schedule. For the Auto changeover schedule option, upon completion of item <b>77</b>, setting the period time, a user may select the done softkey option <b>76</b> or a next softkey option <b>79</b>. The latter may be selected to continue the set schedule procedure. The next item <b>81</b> may be to set the period heat setpoint. Option <b>76</b> may be selected to be done or option <b>82</b> may be selected to go to the next item <b>83</b> to set the period cool setpoint. Option <b>76</b> may be selected to be done or the next item <b>85</b> may be selected to advance to item <b>84</b>, period and day repeat software logic. For the manual changeover with system switch in heat schedule option, upon completion of setting the heat period time, item <b>95</b>, a user may select the done softkey option <b>76</b> or a next softkey option <b>96</b>. The next item <b>97</b> may be to set the period heat setpoint. Option <b>76</b> may be selected to be done or the next item <b>85</b> may be selected to advance to item <b>84</b>, period and day repeat software logic. For the manual changeover with system switch in cool (or off) schedule option, upon completion of setting the cool period time, item <b>98</b>, a user may select the done softkey option <b>76</b> or a next softkey option <b>1</b>. The next item <b>112</b> may be to set the period cool setpoint. Option <b>76</b> may be selected to be done or the next item <b>85</b> may be selected to advance to item <b>84</b>, the period and day repeat software logic. Upon completion of range <b>78</b>, the done option <b>76</b> may be selected to exit the set schedule action or information item or a next option <b>85</b> may be selected which leads to the automatic new period and day software logic item <b>84</b>. The period and day software logic <b>84</b> may automatically advance the user to repeat the range <b>78</b> via path <b>87</b> with a new period and/or day, or to advance to range <b>94</b>. The period and day software logic <b>84</b> may repeat range <b>78</b> for each period and day of the schedule. Upon completion of the period and day software logic <b>84</b>, hence having completed all periods and days, the next item <b>91</b> (same user action as item <b>85</b>) may advance the user to item <b>93</b>, the repeat or complete user option. Range <b>94</b> may indicate that the user has the option to review the schedule or exit. To review or repeat the schedule through range <b>78</b> and range <b>92</b>, option <b>87</b> may be selected. If complete, then the done option <b>76</b> may be selected to return to the normal thermostat operation <b>65</b> of <figref idref="DRAWINGS">FIG. 26</figref>.</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIGS. 28</figref>, <b>29</b> and <b>30</b> are storyboard diagrams for clock and schedule settings for heat, cool and auto system settings, respectively. <figref idref="DRAWINGS">FIGS. 28 and 29</figref> are clock and manual changeover schedule storyboards for heat and cool, in that order. <figref idref="DRAWINGS">FIG. 30</figref> is a clock and auto changeover schedule storyboard of illustrations <b>101</b>-<b>109</b>. In <figref idref="DRAWINGS">FIG. 30</figref>, system <b>10</b> is easily programmable with sequential programming having a minimally small number of steps. A user may advance an informational or action item by pressing a softkey <b>13</b> or modify a setting by pressing up/down keys <b>16</b> and <b>17</b>. Illustration <b>101</b> shows a home screen <b>14</b> at normal operation. It shows the inside temperature <b>21</b>, day and time <b>22</b>, temperature setting <b>23</b>, regions <b>24</b>, <b>25</b> and <b>26</b> corresponding to softkeys <b>11</b>, <b>12</b> and <b>13</b>, respectively. Pressing softkey <b>11</b> under region <b>24</b> showing &#x201c;Set Clock/Day/Schedule&#x201d; in illustration <b>101</b> may lead to screen <b>14</b> in illustration <b>102</b>, with a flashing &#x201c;Set Clock&#x201d; label segments <b>35</b>, as depicted with short marks <b>99</b> radially extending out from the encircled label <b>35</b>. These marks may indicate flashing of the segments which they are associated with also in other illustrations. Here the clock or time indication <b>22</b> may be advanced with an up (arrow) button or key <b>16</b> or backed up with a down (arrow) button or key <b>17</b>.</p>
+<p id="p-0047" num="0046">After the clock is set, button <b>13</b> under region <b>26</b> showing &#x201c;Set Schedule&#x201d; may be pressed to get illustration <b>103</b> of the screen <b>14</b>. It shows flashing segments (in another sense) of clock <b>22</b> with a time for a start of the Wake period. Key <b>16</b> or <b>17</b> may be pressed to set the time. Softkey <b>13</b> under region <b>26</b> that shows &#x201c;Next&#x201d; may be pressed to get a screen <b>14</b> as shown in illustration <b>104</b>. That screen <b>14</b> may show flashing segments for a heat temperature setpoint <b>23</b>. Temperature setpoint <b>23</b> may be adjusted or set by pressing key <b>16</b> or <b>17</b>. After the heat temperature setpoint <b>23</b> is adjusted, softkey <b>13</b> under region <b>26</b> indicating &#x201c;Next&#x201d; may be pressed to get illustration <b>105</b> of a screen <b>14</b> that shows flashing segments for a cool temperature setpoint <b>23</b>. The cool temperature setpoint may be adjusted or set by pressing adjustment key <b>16</b> or <b>17</b>.</p>
+<p id="p-0048" num="0047">After the cool temperature setpoint is adjusted, softkey <b>13</b> under region <b>26</b> indicating &#x201c;Next&#x201d; may be pressed to get illustration <b>106</b> which shows the screen <b>14</b> with flashing segments of clock <b>22</b> with a start time for the Leave period. The time may be set with keys <b>16</b> and <b>17</b>, as done for the Wake period. The temperature setpoints <b>23</b> may be similarly set. The user may sequence through the periods for weekdays and the weekend, as desired, until the complete schedule has been viewed or edited, as indicated in illustration <b>107</b>. There may be four periods, Wake, Leave, Return and Sleep, as noted at other places of this description. At any point of the set schedule procedure, the user may press a softkey <b>11</b> under region <b>24</b>, which indicates &#x201c;Done&#x201d;, and return to the home screen <b>14</b> normal operation. However, if the user proceeds to complete the set schedule procedure, a screen <b>14</b> as shown in illustration <b>108</b> may appear. The screen of illustration <b>108</b> may show flashing segments of &#x201c;Done&#x201d; in region <b>24</b> to indicate completion of the procedure. The user may then press softkey <b>11</b> to get the screen <b>14</b> of illustration <b>109</b> showing the home screen normal operation.</p>
+<p id="p-0049" num="0048">When going through the period and temperature settings, as in the storyboard illustrations <b>101</b>-<b>109</b>, one may be permitted to make both heat and cool settings if the system <b>10</b> is set in region <b>26</b> to &#x201c;Heat&#x201d;, &#x201c;Cool&#x201d;, &#x201c;Auto&#x201d; or &#x201c;Off&#x201d; for &#x201c;auto changeover&#x201d;, or to &#x201c;Auto&#x201d; for &#x201c;auto changeover only&#x201d;. &#x201c;Auto&#x201d; might be the only system selection available in region <b>26</b> for &#x201c;auto changeover only&#x201d;. One might be permitted to make only heat settings for a system selection of &#x201c;Heat&#x201d;, only cool settings for a system selection of &#x201c;Cool&#x201d;, and only cool settings for a system selection of &#x201c;Off&#x201d; in region <b>26</b> when system <b>10</b> in manual changeover. However, thermostat system <b>10</b> may be designed and/or programmed, as desired, to consist of variants of the noted configurations, modes and settings, in this paragraph, such as editing schedules from any mode or system selection, and in other places of the present description.</p>
+<p id="p-0050" num="0049">A system may be designed similar to system <b>10</b> but without being programmable. However, such non-programmable thermostat system may also have a selectable &#x201c;auto only&#x201d; configuration that does not have a system selection of &#x201c;Off&#x201d;. Both systems may benefit with the &#x201c;auto only&#x201d; aspect, in that a system cannot be switched off, for instance, accidentally by adults or by children playing with the system. This may prevent misery to a challenged person unable to switch on or control the system in exceptionally hot weather, or avoid damage to a water system of a house that is left unoccupied for a period of time in a cold climate. There are other mishaps which the &#x201c;auto only&#x201d; aspect of the thermostat system may avoid or prevent.</p>
+<p id="p-0051" num="0050">The programming, scheduling, settings, modes, configuration option selections, and the like, described herein may be performed by a user on a thermostat system <b>10</b> in an armchair.</p>
+<p id="p-0052" num="0051">In the present specification, some of the matter may be of a hypothetical or prophetic nature although stated in another manner or tense.</p>
+<p id="p-0053" num="0052">Although the invention has been described with respect to at least one illustrative example, many variations and modifications will become apparent to those skilled in the art upon reading the present specification. It is therefore the intention that the appended claims be interpreted as broadly as possible in view of the prior art to include all such variations and modifications.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A thermostat comprising:
+<claim-text>a user interface including a display screen and a button positioned directly adjacent to the display screen;</claim-text>
+<claim-text>a controller coupled to the user interface and causing a display image to be displayed on the display screen, wherein the display image includes a defined display image region that forms only part of the display image and that is positioned directly adjacent to the button to collectively form a softkey, the display image region is defined, at least in part, by one or more visible boundary lines in the display image, the display image region includes a first portion for displaying a visible function label that defines the function of the softkey, and a second portion for displaying one of two or more available function settings for the softkey, wherein the first portion and the second portion are divided, at least in part, by a visible partitioning line segment displayed on the display; and</claim-text>
+<claim-text>the controller also monitoring the user interface, and changing the visible function setting displayed in the second portion of the display image region from a first function setting to a second function setting of the two or more available function settings in response to a user activating the button of the softkey.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The thermostat of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the one or more visible boundary lines define a boundary of three sides of the display image region.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The thermostat of <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein a fourth side of the display image region is defined by an edge of the display screen.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The thermostat of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein when the button of the softkey is repeatedly activated, the visible function setting displayed in the second portion of the display region cycles in sequence from a current function setting through the other available function settings and returning to the current function setting.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The thermostat of <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein the two or more available function settings include one or more of a heat mode, a cool mode, an auto mode and an off mode.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The thermostat of <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein the two or more available function settings include one or more of a fan auto mode and a fan on mode.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The thermostat of <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein the current function setting and the other available function settings include a heat mode, a cool mode, an auto mode and an off mode.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The thermostat of <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein the current function setting and the other available function settings include a fan auto mode and a fan on mode.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The thermostat of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the display image includes a first region that is larger than the display image region, wherein the controller displays in the first region a set point temperature and one or more other parameters related to the operation of the thermostat.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The thermostat of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the function label comprises text.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The thermostat of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the function setting comprises text.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The thermostat of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the button is disposed immediately below the display image region.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The thermostat of <claim-ref idref="CLM-00012">claim 12</claim-ref> wherein the display image region is positioned along the bottom of the display screen and does not extend to the top of the display screen.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. A thermostat comprising:
+<claim-text>a user interface including a display screen;</claim-text>
+<claim-text>a controller coupled to the user interface and causing a display image to be displayed on the display screen, wherein the display image includes three distinct display image regions, wherein each display image is defined, at least in part, by one or more boundary lines;</claim-text>
+<claim-text>at least one of the three display images includes a function label portion and a function setting portion, wherein the function label portion and the function setting portion are separated, at least in part, by a partitioning line; and</claim-text>
+<claim-text>the user interface having three buttons each corresponding to and positioned directly adjacent to one of the three display image regions thereby forming three softkeys, wherein when a selected one of the buttons is pushed, the controller changes the function setting that is displayed in the function setting portion of the corresponding display image region of the at least one of the three display images that includes a function label portion and a function setting portion from a first function setting to a second function setting.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The thermostat of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the function label portion and the function setting portion of the at least one of the three display images that includes a function label portion and a function setting portion are divided, at least in part, by a partitioning line segment.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The thermostat of <claim-ref idref="CLM-00014">claim 14</claim-ref> wherein for each of the three display image regions, the one or more boundary lines define three sides of the corresponding display image region.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The thermostat of <claim-ref idref="CLM-00016">claim 16</claim-ref> wherein for each of the three display image regions, a fourth side of the corresponding display image region is defined by an edge of the display screen.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The thermostat of <claim-ref idref="CLM-00017">claim 17</claim-ref> wherein the number of predefined function settings include a heat mode, a cool mode, an auto mode and an off mode.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The thermostat of <claim-ref idref="CLM-00017">claim 17</claim-ref> wherein the number of predefined function settings include a fan auto mode and a fan on mode.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. A wall mountable thermostat for controlling an HVAC system of a home or other building, the thermostat comprising:
+<claim-text>a user interface including a display screen and a button positioned directly adjacent to the display screen;</claim-text>
+<claim-text>a controller configured to control one or more pieces of HVAC equipment of the building;</claim-text>
+<claim-text>the controller coupled to the user interface and causing a display image to be displayed on the display screen, wherein the display image includes a defined display image region that forms only part of the display image and that is positioned directly adjacent to the button to collectively form a softkey, the display image region is defined, at least in part, by one or more visible boundary lines in the display image, the display image region includes a first portion for displaying a visible function label that defines the function of the softkey, and a second portion for displaying one of two or more available function settings for the softkey, wherein the first portion and the second portion are divided, at least in part, by a visible partitioning line segment displayed on the display screen;</claim-text>
+<claim-text>the controller also monitoring the user interface, and in response to a user activating the button of the softkey, the controller changing the visible function setting displayed in the second portion of the display image region from a first function setting to a second function setting of the two or more available function settings; and</claim-text>
+<claim-text>the controller, in response to a user repeatedly activating the button of the softkey, cycles in sequence from a current function setting through the other available function settings and returning to the current function setting.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. A wall mountable thermostat for controlling an HVAC system of a home or other building, the thermostat comprising:
+<claim-text>a user interface including a display screen and a button positioned directly adjacent to the display screen;</claim-text>
+<claim-text>a controller configured to control one or more pieces of HVAC equipment of the building;</claim-text>
+<claim-text>the controller coupled to the user interface including the display screen and causing a display image to be displayed on the display screen, wherein the display image includes a first display image region and a second display image region, wherein the first display image region is larger than the second display image region;</claim-text>
+<claim-text>the first display image region displaying a set point temperature and one or more other parameters related to the operation of the thermostat;</claim-text>
+<claim-text>the second display image region being positioned directly adjacent to the button to collectively form a softkey, the second display image region being defined, at least in part, by one or more visible boundary lines, and includes a first portion for displaying a visible function label, and a second portion for displaying a visible function setting that corresponds to the visible function label, wherein the first portion and the second portion of the second display image region of the softkey are divided, at least in part, by a visible partitioning line segment displayed on the display screen.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The wall mountable thermostat of <claim-ref idref="CLM-00021">claim 21</claim-ref> wherein the controller monitors the user interface, and changes the visible function setting displayed in the second portion of the second display image region from a first function setting to a second function setting in response to a user activating the button of the softkey.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The wall mountable thermostat of <claim-ref idref="CLM-00022">claim 22</claim-ref> wherein the function label of the first portion of the second display image region does not change as the function setting is changed from the first function setting to the second function setting.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The wall mountable thermostat of <claim-ref idref="CLM-00023">claim 23</claim-ref> wherein, in response to receiving a repeated activation of the button of the softkey, the controller cycles in sequence from a current function setting through a number of predefined other function settings and returning to the current function setting.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The wall mountable thermostat of <claim-ref idref="CLM-00024">claim 24</claim-ref> wherein the function label of the first portion of the second display image region does not change as the function setting is cycled in sequence from a current function setting through a number of predefined other function settings.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. A wall mountable thermostat for controlling an HVAC system of a home or other building, the thermostat comprising:
+<claim-text>a user interface including a display screen and a button positioned directly adjacent to the display screen;</claim-text>
+<claim-text>a controller configured to control one or more pieces of HVAC equipment of the building;</claim-text>
+<claim-text>the controller coupled to the user interface and causing a display image to be displayed on the display screen, wherein the display image includes a defined display image region that forms only part of the display image and that is positioned directly adjacent to the button to collectively form a softkey, the display image region is defined, at least in part, by one or more visible boundary lines in the display image, the display image region includes a first portion for displaying a system mode label that defines the function of the softkey, and a second portion for selectively displaying one of a heat mode setting, a cool mode setting and an automatic mode setting, wherein the first portion and the second portion are divided, at least in part, by a visible partitioning line segment displayed on the display screen;</claim-text>
+<claim-text>the controller monitoring the user interface, and in response to a user activating the button of the softkey, the controller changing the displayed one of the heat mode setting, the cool mode setting and the automatic mode setting in the second portion of the display image region to another one of the heat mode setting, the cool mode setting and the automatic mode setting; and</claim-text>
+<claim-text>the controller, in response to a user repeatedly activating the button of the softkey, cycles in sequence through the heat mode setting, the cool mode setting and the automatic mode setting.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640900-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640900</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11658568</doc-number>
+<date>20050830</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2004-252511</doc-number>
+<date>20040831</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>384</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>01</class>
+<subclass>L</subclass>
+<main-group>1</main-group>
+<subgroup>34</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>123 9016</main-classification>
+<further-classification>123 9039</further-classification>
+<further-classification> 74569</further-classification>
+</classification-national>
+<invention-title id="d0e71">Variable valve operating device</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>6357405</doc-number>
+<kind>B1</kind>
+<name>Tsuji et al.</name>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>JP</country>
+<doc-number>A 06-093816</doc-number>
+<date>19940400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>JP</country>
+<doc-number>A 06-307219</doc-number>
+<date>19941100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>JP</country>
+<doc-number>A 07-063023</doc-number>
+<date>19950300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>JP</country>
+<doc-number>A 2001-164911</doc-number>
+<date>20010600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>JP</country>
+<doc-number>A 2002-371816</doc-number>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>JP</country>
+<doc-number>A 2002-371819</doc-number>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>JP</country>
+<doc-number>A 2003-239712</doc-number>
+<date>20030800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>JP</country>
+<doc-number>A 2004-108302</doc-number>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>4</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>123 9016</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123 902</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123 9039</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123 9044</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>123 906</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 74559</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 74567</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 74569</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>6</number-of-drawing-sheets>
+<number-of-figures>10</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090038567</doc-number>
+<kind>A1</kind>
+<date>20090212</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Tateno</last-name>
+<first-name>Manabu</first-name>
+<address>
+<city>Sunto-gun</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ezaki</last-name>
+<first-name>Shuichi</first-name>
+<address>
+<city>Susono</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Asada</last-name>
+<first-name>Toshiaki</first-name>
+<address>
+<city>Mishima</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Oliff &#x26; Berridge, PLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Toyota Jidosha Kabushiki Kaisha</orgname>
+<role>03</role>
+<address>
+<city>Toyota</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Chang</last-name>
+<first-name>Ching</first-name>
+<department>3748</department>
+</primary-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2005/016184</doc-number>
+<kind>00</kind>
+<date>20050830</date>
+</document-id>
+<us-371c124-date>
+<date>20070125</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2006/025564</doc-number>
+<kind>A </kind>
+<date>20060309</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention relates to a variable valve operating device and makes it possible to inhibit friction during driving force transmission and provide high durability through the use of a compact configuration.</p>
+<p id="p-0002" num="0000">A first roller <b>170</b>, which comes into contact with a drive cam surface <b>124</b> of a camshaft <b>120</b>, has a larger diameter than a second roller <b>172</b>, which comes into contact with a slide surface <b>156</b> of a swing member <b>150</b>. A coupling shaft <b>174</b> couples the first roller <b>170</b> to the second roller <b>172</b> so that the rollers <b>170, 172</b> can rotate independently. The slide surface <b>156</b> is curved toward the drive cam surface <b>124. </b></p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="240.45mm" wi="138.01mm" file="US07640900-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="246.04mm" wi="139.11mm" file="US07640900-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="226.06mm" wi="128.35mm" file="US07640900-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="223.44mm" wi="161.04mm" orientation="landscape" file="US07640900-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="219.12mm" wi="163.75mm" orientation="landscape" file="US07640900-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="240.71mm" wi="139.70mm" file="US07640900-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="136.82mm" wi="95.25mm" file="US07640900-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0001">The present invention relates to a variable valve operating device for an internal combustion engine, and more particularly to a variable valve operating device that is capable of mechanically changing the operating characteristic of a valve.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0004" num="0002">A conventionally known variable valve operating device that is disclosed, for instance, by Japanese Patent Laid-open No. 2003-239712 mechanically changes the valve lift amount and valve timing in accordance with the operating state of an engine. In the variable valve operating device described in Japanese Patent Laid-open No. 2003-239712, a guide arm is fastened to a control shaft, which is positioned in parallel with a camshaft. One end of a follower is installed over the guide arm and allowed to swing freely. A swing cam is installed over the control shaft and allowed to swing freely, and a rocker arm is pressed against a surface of the swing cam. A first roller and a second roller, which can rotate independently of each other, are concentrically installed over the follower. The first roller is in contact with a valve cam of the camshaft, whereas the second roller is in contact with a contact surface that is formed opposite the swing cam surface of the swing cam.</p>
+<p id="p-0005" num="0003">When the control shaft rotates to vary the rotation position of the guide arm in a situation where the above configuration is employed, the follower becomes displaced to change the distance between the control shaft and the contact position between the swing cam and the second roller, thereby changing the lift amount of the valve. Further, when the circumferential position of the valve cam, which comes into contact with the first roller at the same rotation position of the camshaft, varies, the valve timing simultaneously changes. In other words, the variable valve operating device described in Japanese Patent Laid-open No. 2003-239712 is capable of simultaneously changing the valve's lift amount and valve timing by using a motor to control the rotation position of the control shaft.</p>
+<p id="p-0006" num="0004">Including the above-mentioned document, the applicant is aware of the following documents as a related art of the present invention.</p>
+<p id="p-0007" num="0005">[Patent Document 1]</p>
+<p id="p-0008" num="0006">Japanese Patent Laid-open No. 2003-239712</p>
+<p id="p-0009" num="0007">[Patent Document 2]</p>
+<p id="p-0010" num="0008">Japanese Patent Laid-open No. 2002-371819</p>
+<p id="p-0011" num="0009">[Patent Document 3]</p>
+<p id="p-0012" num="0010">Japanese Patent Laid-open No. 2004-108302</p>
+<p id="p-0013" num="0011">[Patent Document 4]</p>
+<p id="p-0014" num="0012">Japanese Patent Laid-open No. Hei7-63023</p>
+<p id="p-0015" num="0013">[Patent Document 3]</p>
+<p id="p-0016" num="0014">Japanese Patent Laid-open No. 2002-371816</p>
+<heading id="h-0003" level="1">DISCLOSURE OF INVENTION</heading>
+<p id="p-0017" num="0015">When the variable valve operating device described in Japanese Patent Laid-open No. 2003-239712 is used, the valve cam transmits a driving force to the swing cam via the first and second rollers. When, as described above, a roller is used as a member that comes into contact with the valve cam, and another roller is used as a member that comes into contact with the swing cam, it is possible to reduce friction prevailing during driving force transmission and improve the fuel efficiency of an internal combustion engine.</p>
+<p id="p-0018" num="0016">However, when a roller is used as a driving force transmission member, it is necessary to pay attention to contact surface pressure (Hertzian stress) that is exerted between the roller and its mating member. When the valve cam is used for driving purposes in the variable valve operating device described in Japanese Patent Laid-open No. 2003-239712, a high contact surface pressure is exerted on the contact between the valve cam and the first roller and on the contact between the swing cam and the second roller due to reaction force generated by a valve spring and lost motion spring. Therefore, adequate durability might not be obtained depending on the materials and shapes of the members. The simplest method for reducing the contact surface pressure would be to enlarge the diameter of each roller. However, if the diameter of each roller is increased, it is necessary to increase the distance between the valve cam and swing cam accordingly. As a result, an increase in the roller diameter enlarges the size of the variable valve operating device.</p>
+<p id="p-0019" num="0017">The present invention has been made to solve the above problem. It is an object of the present invention to provide a compact, highly durable variable valve operating device that is capable of inhibiting friction that may arise during driving force transmission.</p>
+<p id="p-0020" num="0018">The above object is achieved by a variable valve operating device according to a first aspect of the present invention. The variable valve operating device mechanically changes the operating characteristic of a valve relative to the rotation of a camshaft. The variable valve operating device comprises a drive cam installed over the camshaft; a swing member that swings on a stationary shaft; a swing cam surface that is formed on the swing member, comes into contact with a valve support member, which supports the valve, and presses the valve in a lifting direction; a slide surface that is formed on the swing member so as to face the drive cam; an intermediate member that is positioned between the drive cam and the swing member and comes into contact with both the slide surface and a cam surface of the drive cam; a control shaft that is positioned in parallel with the camshaft and capable of changing the rotation position continuously or stepwise; and an interlock mechanism that changes the position of the intermediate member in interlock with the rotation of the control shaft; wherein the intermediate member includes a first roller, which has a large diameter and comes into contact with a cam surface of the drive cam; a second roller, which is positioned concentrically with the first roller, has a small diameter, and comes into contact with the slide surface; and a coupling shaft, which couples the first roller and the second roller so that the first roller and the second roller can rotate independently; and wherein the slide surface is curved toward the drive cam.</p>
+<p id="p-0021" num="0019">When, in the first aspect of the present invention, the camshaft rotates, its rotary motion is transmitted from the drive cam to the first roller and conveyed to the slide surface of the swing member via the second roller, which is coaxial with the first roller. In this instance, contact surface pressure is exerted between the first roller and the cam surface of the drive cam and between the second roller and the slide surface. However, the contact surface pressure between the first roller and the cam surface of the drive cam is reduced because the first roller has a larger diameter than the second roller. The contact surface pressure between the second roller and the slide surface is reduced because the slide surface is curved toward the drive cam surface. Further, since the second roller, which comes into contact with the slide surface, has a smaller diameter than the first roller, an increase in the distance between the slide surface and the cam surface of the drive cam is inhibited. Therefore, the first aspect of the present invention not only provides increased durability due to a decrease in the contact surface pressure, but also makes the whole variable valve operating device compact.</p>
+<p id="p-0022" num="0020">According to a second aspect of the present invention, there is provided the variable valve operating device as described in the first aspect, wherein the second roller is positioned on both sides of the first roller; and wherein the two second rollers come into contact with the slide surface to input a driving force to the slide surface.</p>
+<p id="p-0023" num="0021">According to the second aspect of the present invention, the driving force, which is input from the drive cam to the first roller, and the reaction force, which is input from the slide surface of the swing member to the second rollers on both sides, balance at the center of the coupling shaft. Therefore, it is possible to inhibit the coupling shaft from bending.</p>
+<p id="p-0024" num="0022">According to a third aspect of the present invention, there is provided the variable valve operating device as described in the second aspect, wherein the swing member is provided for each of the two second rollers; and wherein the valve is provided for each of the two swing members.</p>
+<p id="p-0025" num="0023">According to the third aspect of the present invention, a driving force can be uniformly transmitted to the two valves.</p>
+<p id="p-0026" num="0024">According to a fourth aspect of the present invention, there is provided the variable valve operating device as described in the first aspect, wherein the second roller is positioned between two units of the first roller; and wherein each of the two first rollers comes into contact with a cam surface of the drive cam to receive a driving force input from the drive cam.</p>
+<p id="p-0027" num="0025">According to the fourth aspect of the present invention, the driving force, which is input from the cam surface of the drive cam to the first rollers on both sides, and the reaction force, which is input from the slide surface to the second roller at the center, balance at the center of the coupling shaft. Therefore, it is possible to inhibit the coupling shaft from bending.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0028" num="0026"><figref idref="DRAWINGS">FIG. 1</figref> is a side view illustrating the configuration of a variable valve operating device according to an embodiment of the present invention;</p>
+<p id="p-0029" num="0027"><figref idref="DRAWINGS">FIG. 2</figref> is an exploded view illustrating a roller support structure;</p>
+<p id="p-0030" num="0028"><figref idref="DRAWINGS">FIG. 3</figref> is a front view (schematic diagram) illustrating the configuration of the variable valve operating device;</p>
+<p id="p-0031" num="0029"><figref idref="DRAWINGS">FIGS. 4A and 4B</figref> illustrate how the variable valve operating device operates during a great lift, and more specifically, <figref idref="DRAWINGS">FIG. 4A</figref> shows a state prevailing when a valve is closed and <figref idref="DRAWINGS">FIG. 4B</figref> shows a state prevailing when the valve is open;</p>
+<p id="p-0032" num="0030"><figref idref="DRAWINGS">FIGS. 5A and 5B</figref> illustrate how the variable valve operating device operates during a small lift, and more specifically, <figref idref="DRAWINGS">FIG. 5A</figref> shows a state prevailing when the valve is closed and <figref idref="DRAWINGS">FIG. 5B</figref> shows a state prevailing when the valve is open;</p>
+<p id="p-0033" num="0031"><figref idref="DRAWINGS">FIG. 6</figref> shows the relationship between a valve lift amount and the position of a rocker roller on a swing cam surface;</p>
+<p id="p-0034" num="0032"><figref idref="DRAWINGS">FIG. 7</figref> shows the relationship between valve timing and lift amount; and</p>
+<p id="p-0035" num="0033"><figref idref="DRAWINGS">FIG. 8</figref> is a front view (schematic diagram) illustrating the configuration of the variable valve operating device according to another embodiment of the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">BEST MODE FOR CARRYING OUT THE INVENTION</heading>
+<p id="p-0036" num="0034">An embodiment of the present invention will now be described with reference to <figref idref="DRAWINGS">FIGS. 1 to 7</figref>.</p>
+<p id="h-0006" num="0000">[Configuration of Variable Valve Operating Device According to Present Embodiment]</p>
+<p id="p-0037" num="0035"><figref idref="DRAWINGS">FIG. 1</figref> is a side view illustrating the configuration of a variable valve operating device <b>100</b> according to an embodiment of the present invention. The variable valve operating device <b>100</b> includes a rocker arm type mechanical valve train. A drive cam <b>122</b>, which is installed over a camshaft <b>120</b>, converts a rotary motion of the camshaft <b>120</b> to a swing motion of a rocker arm (valve support member) <b>110</b>. The swing motion of the rocker arm is then converted to a vertical reciprocating motion of a valve <b>104</b> that is supported by the rocker arm <b>110</b>. The drive cam <b>122</b> has two cam surfaces <b>124</b><i>a </i>and <b>124</b><i>b</i>, which differ in profile. One cam surface, which is a nonoperating surface <b>124</b><i>a</i>, is formed at a fixed distance from the center of the camshaft <b>120</b>. The other cam surface, which is an operating surface <b>124</b><i>b</i>, is formed so that the distance from the center of the camshaft <b>120</b> gradually increases and then gradually decreases after the apex. In this document, the term &#x201c;drive cam surface <b>124</b>&#x201d; is used when the nonoperating surface <b>124</b><i>a </i>and operating surface <b>124</b><i>b </i>are not distinguished from each other.</p>
+<p id="p-0038" num="0036">In the variable valve operating device <b>100</b>, the drive cam <b>122</b> does not directly drive the rocker arm <b>110</b>. An adjustment mechanism <b>130</b> is positioned between the drive cam <b>122</b> and rocker arm <b>110</b> to coordinate the swing motion of the rocker arm <b>110</b> with the rotary motion of the drive cam <b>122</b>. The variable valve operating device <b>100</b> can exercise variable control over the adjustment mechanism <b>130</b> to continuously change the coordination between the rotary motion of the drive cam <b>122</b> and the swing motion of the rocker arm <b>110</b>. This makes it possible to vary the swing amount and swing timing of the rocker arm <b>110</b>, thereby continuously changing the lift amount and valve timing of the valve <b>104</b>.</p>
+<p id="p-0039" num="0037">As described below, the adjustment mechanism <b>130</b> mainly comprises a control shaft <b>132</b>, a swing cam arm (swing member) <b>150</b>, a control arm (control member) <b>160</b>, a control link (link member) <b>164</b>, a first roller <b>170</b>, a second roller <b>172</b>, and a coupling shaft <b>174</b>, which couples the first roller <b>170</b> to the second roller <b>172</b>. The control shaft <b>132</b> is parallel to the camshaft <b>120</b>. The position of the control shaft <b>132</b> relative to the camshaft <b>120</b> is fixed so that the control shaft <b>132</b> is positioned downstream of the rocker arm <b>110</b> in the rotation direction of the camshaft <b>120</b>. A first gear <b>134</b>, which is concentric with the control shaft <b>132</b>, is installed over an outer circumferential surface of the control shaft <b>132</b> and fastened to the control shaft <b>132</b>. An actuator (not shown) such as a motor is connected to the control shaft <b>132</b>. An ECU for an internal combustion engine can adjust the rotation position of the control shaft <b>132</b> as desired by controlling the actuator.</p>
+<p id="p-0040" num="0038">The swing cam arm <b>150</b> is supported by the control shaft <b>132</b> and allowed to swing. The leading end of the swing cam arm <b>150</b> is positioned upstream in the rotation direction of the drive cam <b>122</b>. A slide surface <b>156</b> that comes into contact with the second roller <b>172</b> is formed on the side on which the swing cam arm <b>150</b> faces the drive cam <b>122</b>. The slide surface <b>156</b> is gradually curved toward a surface of the drive cam <b>122</b>, and formed so that the distance from a cam base circle (nonoperating surface <b>124</b><i>a</i>) of the drive cam <b>122</b> increases with an increase in the distance from the center of the control shaft <b>132</b>, which is a swing center.</p>
+<p id="p-0041" num="0039">A swing cam surface <b>152</b> is formed on the side opposite the slide surface <b>156</b> of the swing cam arm <b>150</b>. The swing cam surface <b>152</b> is a cam surface whose cam center coincides with the swing center of the swing cam arm <b>150</b>, and comprises a nonoperating surface <b>152</b><i>a </i>and an operating surface <b>152</b><i>b</i>, which have different profiles. The nonoperating surface <b>152</b><i>a </i>is a circumferential surface of the cam base circle and formed at a fixed distance from the center of the control shaft <b>132</b>. The other surface, which is the operating surface <b>152</b><i>b</i>, is positioned toward the leading end of the swing cam arm <b>150</b> as viewed from the nonoperating surface <b>152</b><i>a</i>, connected smoothly and contiguously to the nonoperating surface <b>152</b><i>a</i>, and formed so that the distance from the center of the control shaft <b>132</b> (that is, the cam height) gradually increases with a decrease in the distance to the leading end of the swing cam arm <b>150</b>. In this document, the term &#x201c;swing cam surface <b>152</b>&#x201d;, is used when the nonoperating surface <b>152</b><i>a </i>and operating surface <b>152</b><i>b </i>are not distinguished from each other.</p>
+<p id="p-0042" num="0040">The variable valve operating device <b>100</b> employs a one-cam, two-valve drive structure in which one drive cam <b>122</b> drives two valves <b>104</b>. Therefore, the swing cam arm <b>150</b> is positioned on both sides of the drive cam <b>122</b> as shown in the front view (schematic diagram) in <figref idref="DRAWINGS">FIG. 3</figref>. The rocker arm <b>110</b> is provided for each swing cam arm <b>150</b>. The swing cam surface <b>152</b> of a swing cam arm <b>150</b> is in contact with a rocker roller <b>112</b> for the rocker arm <b>110</b>. The rocker roller <b>112</b> is mounted on the middle of the rocker arm <b>110</b> and allowed to rotate freely. One end of the rocker arm <b>110</b> is provided with a valve shaft <b>102</b>, which supports the valve <b>104</b>. The other end of the rocker arm <b>110</b> is supported by a hydraulic lash adjuster <b>106</b> and allowed to turn freely. A valve spring (not shown) presses the valve shaft <b>102</b> in the closing direction, that is, in the direction of pushing up the rocker arm <b>110</b>. The rocker arm <b>110</b> is supported by the valve shaft <b>102</b>, which is pressed by the valve spring. The hydraulic lash adjuster <b>106</b> presses the rocker roller <b>112</b> against the swing cam surface <b>152</b>.</p>
+<p id="p-0043" num="0041">The swing cam arm <b>150</b> is provided with a spring seat <b>158</b> for engagement with a lost motion spring (not shown). The spring seat <b>158</b> relates to the nonoperating surface <b>152</b><i>a </i>and is formed on the side opposite the operating surface <b>156</b><i>b</i>. The lost motion spring is a compression spring. Its remaining end is secured by a stationary member (not shown). The spring force that the lost motion spring applies to the spring seat <b>158</b> presses the swing cam arm <b>150</b> to rotate it toward the slide surface <b>156</b>.</p>
+<p id="p-0044" num="0042">The control arm <b>160</b> is supported by the camshaft <b>120</b> and allowed to rotate. The control arm <b>160</b> is provided with a second gear <b>162</b>, which is fan-shaped and formed around the rotation center of the control arm <b>160</b>, that is, along an arc concentric with the camshaft <b>120</b>. The position of the control arm <b>160</b> on the camshaft <b>120</b> is adjusted so that the second gear <b>162</b> is in the same plane as the first gear <b>134</b>. Further, the rotation phase of the control arm <b>160</b> is adjusted so that the second gear <b>162</b> faces the first gear <b>134</b>. The second gear <b>162</b> meshes with the first gear <b>134</b>, and the rotation of the control shaft <b>132</b> is input to the control arm <b>160</b> via the first gear <b>134</b> and the second gear <b>162</b>. In other words, the first gear <b>134</b> and the second gear <b>162</b> constitute a rotation interlock mechanism that interlocks the rotation of the control arm <b>160</b> with that of the control shaft <b>132</b>. Further, the second gear <b>162</b> has a larger diameter than the first gear <b>134</b>. Therefore, the first gear <b>134</b> and the second gear <b>162</b> also constitute a speed reducing mechanism that decelerates the rotation of the control shaft <b>132</b> and transmits the decelerated rotation to the control arm <b>160</b>.</p>
+<p id="p-0045" num="0043">The control arm <b>160</b> is provided with the control link <b>164</b>. The control link <b>164</b> is positioned eccentrically to the center of the camshaft <b>120</b>, which is the turning center of the control arm <b>160</b>, and allowed to rotate freely. The control link <b>164</b> has connection pins <b>166</b> (only one of them is shown in <figref idref="DRAWINGS">FIG. 2</figref>). The connection pins <b>166</b> are mounted on both ends of the fulcrum side of the control link <b>164</b>. The connection pins <b>166</b> are supported by the control arm <b>160</b> and allowed to rotate freely. The connection pins <b>166</b> on the control arm <b>160</b> are positioned virtually opposite the second gear <b>162</b> with respect to the turning center of the control arm <b>160</b>. The leading end of the control link <b>164</b> is oriented toward the control shaft <b>132</b> while the connection pins <b>166</b> serve as a fulcrum. Each side of the drive cam <b>122</b> is provided with the control arm <b>160</b> (although it is not fully indicated in <figref idref="DRAWINGS">FIG. 1</figref>). The control link <b>164</b> is supported by the right- and left-hand control arms <b>160</b>.</p>
+<p id="p-0046" num="0044">The control link <b>164</b> has a pair of arms <b>168</b> (right- and left-hand arms) as shown in the exploded view in <figref idref="DRAWINGS">FIG. 2</figref>. The right- and left-hand arms <b>168</b> support the coupling shaft <b>174</b>. The coupling shaft <b>174</b> is press-fit into, crimped to, or otherwise fastened to the arms <b>168</b>. The first roller <b>170</b> is supported by the coupling shaft <b>174</b> and allowed to rotate freely. The two second rollers <b>172</b>, which are positioned on both sides of the first roller <b>170</b>, are supported by the coupling shaft <b>174</b> and allowed to rotate freely. Washers <b>178</b> are positioned between the first roller <b>170</b> and the second rollers <b>172</b> so that the rollers <b>170</b>, <b>172</b>, which rotate at different speeds, do not come into direct contact with each other. The first roller <b>170</b> has a larger diameter and a greater axial length than the second rollers <b>172</b>.</p>
+<p id="p-0047" num="0045">The leading end of the control link <b>164</b> is oriented toward the control shaft <b>132</b> so that the control link <b>164</b> faces in the drawing direction of the swing cam arm <b>150</b>. The rollers <b>170</b>, <b>172</b> are positioned between the drive cam surface <b>124</b> and slide surface <b>156</b>. As shown in the front view (schematic diagram) in <figref idref="DRAWINGS">FIG. 3</figref>, the first roller <b>170</b> is in contact with the drive cam surface <b>124</b>, and the second rollers <b>172</b> are in contact with the slide surface <b>156</b> of each swing cam arm <b>150</b>. The force that each swing cam arm <b>150</b> receives from the lost motion spring causes the slide surface <b>156</b> to push up the second rollers <b>172</b>. The first roller <b>170</b>, which is coaxial and integral with the second rollers <b>172</b>, is pressed against the drive cam surface <b>124</b>.</p>
+<p id="h-0007" num="0000">[Operations Performed by Variable Valve Operating Device According to Present Embodiment]</p>
+<p id="p-0048" num="0046">Operations performed by the variable valve operating device <b>100</b> will now be described with reference to <figref idref="DRAWINGS">FIGS. 4 to 7</figref>. In <figref idref="DRAWINGS">FIGS. 4 to 7</figref>, the front control arm <b>160</b> and the first gear <b>134</b> are omitted in order to properly illustrate the movements of the rollers <b>170</b> and <b>172</b>.</p>
+<p id="h-0008" num="0000">(1) Lift Operation of Variable Valve Operating Device</p>
+<p id="p-0049" num="0047">A lift operation performed by the variable valve operating device <b>100</b> will now be described with reference to <figref idref="DRAWINGS">FIGS. 4A and 4B</figref>. <figref idref="DRAWINGS">FIG. 4A</figref> shows a state of the variable valve operating device <b>100</b> that prevails when the valve <b>104</b> is closed in a lift operation sequence. <figref idref="DRAWINGS">FIG. 4B</figref> shows a state of the variable valve operating device <b>100</b> that prevails when the valve <b>104</b> is open in the lift operation sequence.</p>
+<p id="p-0050" num="0048">In the variable valve operating device <b>100</b>, the rotary motion of the drive cam <b>122</b> is first input to the first roller <b>170</b>, which comes into contact with the drive cam surface <b>124</b>. The first roller <b>170</b> and the second rollers <b>172</b>, which are coaxial and integral with each other, turn on the pin <b>166</b>. The turning motion is input to the slide surface <b>156</b> of the swing cam arm <b>150</b>, which supports the second rollers <b>172</b>. Since the force of the lost motion spring (not shown) constantly presses the slide surface <b>156</b> against the second rollers <b>172</b>, the swing cam arm <b>150</b> swings on the control shaft <b>132</b> in accordance with the rotation of the drive cam <b>122</b>.</p>
+<p id="p-0051" num="0049">More specifically, when the camshaft <b>120</b> rotates in the state shown in <figref idref="DRAWINGS">FIG. 4A</figref>, the contact position P<b>1</b> at which the first roller <b>170</b> contacts the drive cam surface <b>124</b> shifts from the nonoperating surface <b>124</b><i>a </i>to the operating surface <b>124</b><i>b </i>as indicated in <figref idref="DRAWINGS">FIG. 4B</figref>. Relatively, the first roller <b>170</b> is pushed downward by the drive cam <b>122</b>. Then, the first roller <b>170</b> and the second rollers <b>172</b>, which are coaxial and integral with the first roller <b>170</b>, turn along a locus that is defined by the control link <b>164</b>. This causes the second rollers <b>172</b> to push the slide surface <b>156</b> of the swing cam arm <b>150</b> downward. The swing cam arm <b>150</b> then turns clockwise, in <figref idref="DRAWINGS">FIGS. 4A and 4B</figref>, around the control shaft <b>132</b>. When the camshaft <b>120</b> further rotates until the contact position P<b>1</b> at which the first roller <b>170</b> contacts the drive cam surface <b>124</b> passes the apex of the operating surface <b>124</b><i>b</i>, the force generated by the lost motion spring and valve spring causes the swing cam arm <b>150</b> to turn counterclockwise, in <figref idref="DRAWINGS">FIGS. 4A and 4B</figref>, around the control shaft <b>132</b>.</p>
+<p id="p-0052" num="0050">When the swing cam arm <b>150</b> turns around the control shaft <b>132</b> as described above, the contact position P<b>3</b> at which the rocker roller <b>112</b> contacts the swing cam surface <b>152</b> changes. In <figref idref="DRAWINGS">FIGS. 4A and 4B</figref>, the contact positions at which the rocker roller <b>112</b> contacts the swing cam surface <b>152</b> are designated P<b>3</b><i>i </i>and P<b>3</b><i>f</i>. This is to distinguish between an initial contact position P<b>3</b><i>i </i>and a final contact position P<b>3</b><i>f</i>, which will be described later. In this document, the term &#x201c;contact position P<b>3</b>&#x201d; is used to simply represent a contact position at which the rocker roller <b>112</b> contacts the swing cam surface <b>152</b>.</p>
+<p id="p-0053" num="0051">When the rocker roller <b>112</b> is in contact with the nonoperating surface <b>152</b><i>a </i>as indicated in <figref idref="DRAWINGS">FIG. 4A</figref>, the distance between the nonoperating surface <b>152</b><i>a </i>and the center of the control shaft <b>132</b> is fixed. Therefore, the position of the rocker roller <b>112</b> within the space remains unchanged without regard to the contact position. Consequently, the rocker arm <b>110</b> does not swing so that the valve <b>104</b> is maintained at a fixed position. When the rocker roller <b>112</b> is in contact with the nonoperating surface <b>152</b><i>a</i>, the positional relationship among the components of the variable valve operating device <b>100</b> is adjusted so as to close the valve <b>104</b>.</p>
+<p id="p-0054" num="0052">When the contact position P<b>3</b> at which the rocker roller <b>112</b> contacts the swing cam surface <b>152</b> changes from the nonoperating surface <b>152</b><i>a </i>to the operating surface <b>152</b><i>b </i>as indicated in <figref idref="DRAWINGS">FIG. 4B</figref>, the rocker arm <b>110</b> is pushed downward in accordance with the distance between the operating surface <b>152</b><i>b </i>and the center of the control shaft <b>132</b>. This causes the rocker arm <b>110</b> to swing clockwise around a point that is supported by the hydraulic lash adjuster <b>106</b>. The valve <b>104</b> is then pushed downward and opened by the rocker arm <b>110</b>.</p>
+<p id="h-0009" num="0000">(2) Lift Amount Change Operation of Variable Valve Operating Device</p>
+<p id="p-0055" num="0053">A lift amount change operation performed by the variable valve operating device <b>100</b> will now be described with reference to <figref idref="DRAWINGS">FIGS. 4 to 7</figref>. <figref idref="DRAWINGS">FIGS. 5A and 5B</figref> illustrate an operation in which the variable valve operating device <b>100</b> gives a small lift to the valve <b>104</b>. On the other hand, <figref idref="DRAWINGS">FIGS. 4A and 4B</figref> illustrate an operation in which the variable valve operating device <b>100</b> gives a great lift to the valve <b>104</b>. <figref idref="DRAWINGS">FIGS. 4A and 5A</figref> show a state of the variable valve operating device <b>100</b> that prevails when the valve <b>104</b> is closed in a lift operation sequence. <figref idref="DRAWINGS">FIGS. 4B and 5B</figref> show a state of the variable valve operating device <b>100</b> that prevails when the valve <b>104</b> is open in the lift operation sequence.</p>
+<p id="p-0056" num="0054">When the lift amount is to be changed from the lift amount shown in <figref idref="DRAWINGS">FIGS. 4A and 4B</figref> to the lift amount shown in <figref idref="DRAWINGS">FIGS. 5A and 5B</figref>, the control shaft <b>132</b> is rotated in the same direction as the rotation direction of the camshaft <b>120</b> (clockwise as viewed in the figures) in the state shown in <figref idref="DRAWINGS">FIG. 4A</figref>, and the control arm <b>160</b> is rotated to the rotation position shown in <figref idref="DRAWINGS">FIG. 5A</figref>. The rotation amount of the control arm <b>160</b> is determined by the rotation amount of the control shaft <b>132</b> and the gear ratio between the first gear <b>134</b> (see <figref idref="DRAWINGS">FIG. 1</figref>) and the second gear <b>162</b>. Both rollers <b>170</b>, <b>172</b> are coupled to the control arm <b>160</b> by the control link <b>164</b>. Therefore, when the control arm <b>160</b> rotates, the first roller <b>170</b> moves along the drive cam surface <b>124</b> and upstream in the rotation direction of the camshaft <b>120</b>, whereas the second rollers <b>172</b> move along the slide surface <b>156</b> and away from the control shaft <b>132</b>.</p>
+<p id="p-0057" num="0055">When the second rollers <b>172</b> move away from the control shaft <b>132</b>, the distance between the swing center C<b>0</b> of the swing cam arm <b>150</b> and the contact position P<b>2</b> at which the second rollers <b>172</b> contact the slide surface <b>156</b> increases, thereby decreasing the swing angle of the swing cam arm <b>150</b>. The reason is that the swing angle of the swing cam arm <b>150</b> is in inverse proportion to the distance between the swing center C<b>0</b> and the contact position P<b>2</b>, which is an oscillation input point. As indicated in <figref idref="DRAWINGS">FIGS. 4B and 5B</figref>, the lift of the valve <b>104</b> is maximized when the contact position P<b>1</b> at which the first roller <b>170</b> contacts the drive cam surface <b>124</b> is at the apex of the operating surface <b>124</b><i>b</i>, and the lift amount of the valve <b>104</b> is determined by the contact position P<b>3</b><i>f </i>at which the rocker roller <b>112</b> contacts the swing cam surface <b>152</b> when the valve lift is maximized (hereinafter referred to as the final contact position). <figref idref="DRAWINGS">FIG. 6</figref> illustrates the relationship between the valve lift and the position of the rocker roller <b>112</b> on the swing cam surface <b>152</b>. As indicated in <figref idref="DRAWINGS">FIG. 6</figref>, the final contact position P<b>3</b><i>f </i>is determined by the aforementioned swing angle of the swing cam arm <b>150</b> and the contact position P<b>3</b><i>i </i>at which the rocker roller <b>112</b> contacts the swing cam surface <b>152</b> as indicated in <figref idref="DRAWINGS">FIGS. 4A and 5A</figref> (hereinafter referred to as the initial contact position).</p>
+<p id="p-0058" num="0056">In the variable valve operating device <b>100</b> according to the present embodiment, the slide surface <b>156</b> is formed so that the distance to the cam base circle (nonoperating surface <b>124</b><i>a</i>) of the drive cam <b>122</b> increases with an increase in the distance to the swing center. Therefore, when the aforementioned contact position P<b>2</b> moves away from the swing center C<b>0</b> of the swing cam arm <b>150</b>, the swing cam arm <b>150</b> inclines in such a direction that the slide surface <b>156</b> approaches the drive cam surface <b>124</b>. The swing cam arm <b>150</b> turns counterclockwise around the control shaft <b>132</b> as viewed in the figures. This causes the initial contact position P<b>3</b><i>i </i>of the rocker roller <b>112</b> on the swing cam surface <b>152</b> to move away from the operating surface <b>152</b><i>b </i>as indicated in <figref idref="DRAWINGS">FIG. 5A</figref>.</p>
+<p id="p-0059" num="0057">When the control shaft <b>132</b> rotates in the same direction as that of the camshaft <b>120</b>, the swing angle of the swing cam arm <b>150</b> decreases and the initial contact position P<b>3</b><i>i </i>moves away from the operating surface <b>152</b><i>b</i>. Consequently, the final contact position P<b>3</b><i>f </i>that the rocker roller <b>112</b> can reach moves toward the nonoperating surface <b>152</b><i>a </i>as indicated in <figref idref="DRAWINGS">FIG. 6</figref>, thereby decreasing the lift amount of the valve <b>104</b>. The operating angle of the valve <b>104</b> corresponds to a period (crank angle) during which the rocker roller <b>112</b> is positioned on the operating surface <b>152</b><i>a</i>. However, when the final contact position P<b>3</b><i>f </i>moves toward the nonoperating surface <b>152</b><i>a</i>, the operating angle of the valve <b>104</b> also decreases. Further, the first roller <b>170</b> moves upstream in the rotation direction of the camshaft <b>120</b>. Therefore, the contact position P<b>1</b> at which the first roller <b>170</b> contacts the drive cam surface <b>124</b> when the camshaft <b>120</b> is at the same rotation position moves toward the advance angle side of the drive cam <b>122</b>. This advances the swing timing of the swing cam arm <b>150</b> in relation to the phase of the camshaft <b>120</b>. As a result, the valve timing (maximum lift timing) advances.</p>
+<p id="p-0060" num="0058"><figref idref="DRAWINGS">FIG. 7</figref> is a graph illustrating the relationship between the lift amount and valve timing of the valve <b>104</b>, which are provided by the variable valve operating device <b>100</b>. As shown in this figure, the variable valve operating device <b>100</b> can increase the operating angle and retard the valve timing when the lift amount of the valve <b>104</b> increases. Conversely, the variable valve operating device <b>100</b> can decrease the operating angle and advance the valve timing when the lift amount of the valve <b>104</b> decreases. Therefore, if, for instance, the valve <b>104</b> is an intake valve, it is possible to exercise variable control over the operating characteristic without using a VVT or other valve timing control mechanism so that the opening timing of the valve <b>104</b> remains virtually fixed.</p>
+<p id="h-0010" num="0000">[Advantages of Variable Valve Operating Device According to Present Embodiment]</p>
+<p id="p-0061" num="0059">When driving force is transmitted from the drive cam <b>122</b> to the swing cam arm <b>150</b>, contact surface pressure (Hertzian stress) is exerted between the drive cam surface <b>124</b> and the first roller <b>170</b> and between the slide surface <b>156</b> and the second rollers <b>172</b>. In the variable valve operating device <b>100</b> according to the present embodiment, the first roller <b>170</b> has a larger diameter than the second rollers <b>172</b>. Therefore, the contact surface pressure (Hertzian stress) between the drive cam surface <b>124</b> and the first roller <b>170</b> is reduced. Further, since the second rollers <b>172</b> do not come into contact with the drive cam surface <b>124</b>, the drive cam surface <b>124</b> can be brought into contact with the overall width of the first roller <b>170</b>. The resulting increase in the contact length also reduces the contact surface pressure. Meanwhile, the contact surface pressure between the second rollers <b>172</b> and the slide surface <b>156</b> is reduced because the slide surface <b>156</b> is formed as a concave surface that is curved toward the drive cam surface <b>124</b>. Consequently, the variable valve operating device <b>100</b> according to the present embodiment provides increased durability.</p>
+<p id="p-0062" num="0060">Further, since the second rollers <b>172</b> have a smaller diameter than the first roller <b>170</b>, the distance between the drive cam surface <b>124</b> and slide surface <b>156</b> is suppressed. Furthermore, since the second rollers <b>172</b> do not come into contact with the drive cam surface <b>124</b>, the axial length of the variable valve operating device <b>100</b> can be suppressed by positioning the second rollers <b>172</b> near the first roller <b>170</b>. Consequently, the variable valve operating device <b>100</b> according to the present embodiment makes it possible to not only provide increased durability by decreasing the contact surface pressure as described above, but also make the whole variable valve operating device compact.</p>
+<p id="p-0063" num="0061">Moreover, since the second rollers <b>172</b> are positioned on both sides of the first roller <b>170</b>, the driving force, which is input from the drive cam surface <b>124</b> to the first roller <b>170</b>, and the reaction force, which is input from the slide surface <b>156</b> to the second rollers <b>172</b> on both sides, balance at the center of the coupling shaft <b>174</b>. Therefore, it is possible to provide increased rigidity by inhibiting the coupling shaft <b>174</b> from bending, and transmit a driving force uniformly to the two valves <b>104</b>.</p>
+<p id="h-0011" num="0000">[Other]</p>
+<p id="p-0064" num="0062">While the present invention has been described in terms of a preferred embodiment, it should be understood that the invention is not limited to the preferred embodiment, and that variations may be made without departure from the scope and spirit of the invention. For example, the following modifications may be made to the preferred embodiment of the present invention.</p>
+<p id="p-0065" num="0063">The embodiment described above assumes that the present invention is applied to a variable valve operating device having a one-cam, two-valve drive structure. However, the present invention can also be applied to a variable valve operating device having a one-cam, one-valve drive structure. <figref idref="DRAWINGS">FIG. 8</figref> is a front view (schematic diagram) illustrating a variable valve operating device having a one-cam, one-valve drive structure to which the present invention is applied. When the one-cam, one-valve drive structure is employed, the second roller <b>172</b> having a small diameter is positioned at the center and the first rollers <b>170</b> having a large diameter are positioned on both sides of the second roller <b>172</b>, as shown in <figref idref="DRAWINGS">FIG. 8</figref>. The first rollers <b>170</b> receive a driving force that is transmitted from the drive cam surface <b>124</b>, and the second roller <b>172</b>, which is positioned at the center, transmits the driving force to the slide surface <b>156</b>. When this configuration is employed, the driving force, which is input from the drive cam surface <b>124</b> to the first rollers <b>170</b> on both sides, and the reaction force, which is input from the slide surface <b>156</b> to the second roller <b>172</b> at the center, balance at the center of the coupling shaft <b>174</b>. Therefore, it is possible to inhibit the coupling shaft <b>174</b> from bending and provide increased rigidity.</p>
+<p id="p-0066" num="0064">In the embodiment described above, the present invention is applied to a rocker arm type valve operating device. However, the present invention can also be applied to a direct acting or other valve operating device.</p>
+<p id="p-0067" num="0065">Further, the adjustment mechanism for the variable valve operating device according to the present invention is not limited to the adjustment mechanism <b>130</b> that is configured in accordance with the embodiment described above. The present invention can be applied to a wide variety of variable valve operating devices as far as they include an adjustment mechanism that transmits the rotary motion of the drive cam to the swing member via an intermediate member.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A variable valve operating device for mechanically changing the operating characteristic of a valve relative to the rotation of a camshaft, the variable valve operating device comprising:
+<claim-text>a drive cam installed over the camshaft;</claim-text>
+<claim-text>a swing member that swings on a stationary shaft;</claim-text>
+<claim-text>a swing cam surface that is formed on the swing member, comes into contact with a valve support member, which supports the valve, and presses the valve in a lifting direction;</claim-text>
+<claim-text>a slide surface that is formed on the swing member so as to face the drive cam;</claim-text>
+<claim-text>an intermediate member that is positioned between the drive cam and the swing member and comes into contact with both the slide surface and a cam surface of the drive cam;</claim-text>
+<claim-text>a control shaft that is positioned in parallel with the camshaft and capable of changing the rotation position continuously or stepwise;</claim-text>
+<claim-text>a control member that is installed over the camshaft and allowed to rotate;</claim-text>
+<claim-text>a support member that is mounted on the control member to support the intermediate member so that the intermediate member can be moved along a predetermined path in relation to the control member;</claim-text>
+<claim-text>a first gear that is installed over the control shaft to rotate together with the control shaft; and</claim-text>
+<claim-text>a second gear that is installed over the control member to mesh with the first gear;</claim-text>
+<claim-text>wherein the intermediate member includes a first roller, which has a large diameter and comes into contact with a cam surface of the drive cam; a second roller, which is positioned concentrically with the first roller, has a small diameter, and comes into contact with the slide surface; and a coupling shaft, which couples the first roller and the second roller so that the first roller and the second roller can rotate independently; and</claim-text>
+<claim-text>wherein the slide surface is curved toward the drive cam.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The variable valve operating device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the variable operating device comprises two second rollers, wherein the two second rollers are positioned on both sides of the first roller; and wherein the two second rollers come into contact with the slide surface to input a driving force to the slide surface.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The variable valve operating device according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the swing member is provided for each of the two second rollers; and wherein the valve is provided for each of the two swing members.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The variable valve operating device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the variable operating device comprises two first rollers, wherein the second roller is positioned between the two first rollers; and wherein each of the two first rollers comes into contact with a cam surface of the drive cam to receive a driving force input from the drive cam. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

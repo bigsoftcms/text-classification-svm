@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641513-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641513</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12355268</doc-number>
+<date>20090116</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>R</subclass>
+<main-group>13</main-group>
+<subgroup>60</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>R</subclass>
+<main-group>13</main-group>
+<subgroup>66</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>4395401</main-classification>
+<further-classification>439490</further-classification>
+</classification-national>
+<invention-title id="d0e43">Upgradeable telecommunications patch panel and method of upgrading same</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4840568</doc-number>
+<kind>A</kind>
+<name>Burroughs et al.</name>
+<date>19890600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5161988</doc-number>
+<kind>A</kind>
+<name>Krupka</name>
+<date>19921100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>439136</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5199878</doc-number>
+<kind>A</kind>
+<name>Dewey et al.</name>
+<date>19930400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5305405</doc-number>
+<kind>A</kind>
+<name>Emmons et al.</name>
+<date>19940400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5393249</doc-number>
+<kind>A</kind>
+<name>Morgenstern et al.</name>
+<date>19950200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5394503</doc-number>
+<kind>A</kind>
+<name>Dietz, Jr. et al.</name>
+<date>19950200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5418334</doc-number>
+<kind>A</kind>
+<name>Williams</name>
+<date>19950500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5467062</doc-number>
+<kind>A</kind>
+<name>Burroughs</name>
+<date>19951100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5473715</doc-number>
+<kind>A</kind>
+<name>Schofield et al.</name>
+<date>19951200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5483467</doc-number>
+<kind>A</kind>
+<name>Krupka et al.</name>
+<date>19960100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5494461</doc-number>
+<kind>A</kind>
+<name>Bippus et al.</name>
+<date>19960200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5685741</doc-number>
+<kind>A</kind>
+<name>Dewey et al.</name>
+<date>19971100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5854824</doc-number>
+<kind>A</kind>
+<name>Bengal et al.</name>
+<date>19981200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>6222908</doc-number>
+<kind>B1</kind>
+<name>Bartolutti et al.</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>6234830</doc-number>
+<kind>B1</kind>
+<name>Ensz et al.</name>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6285293</doc-number>
+<kind>B1</kind>
+<name>German et al.</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>6300877</doc-number>
+<kind>B1</kind>
+<name>Schannach et al.</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6330307</doc-number>
+<kind>B1</kind>
+<name>Bloch et al.</name>
+<date>20011200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6350148</doc-number>
+<kind>B1</kind>
+<name>Bartolutti et al.</name>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6424710</doc-number>
+<kind>B1</kind>
+<name>Bartolutti et al.</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6456768</doc-number>
+<kind>B1</kind>
+<name>Boncek et al.</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>6499861</doc-number>
+<kind>B1</kind>
+<name>German et al.</name>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>6522737</doc-number>
+<kind>B1</kind>
+<name>Bartolutti et al.</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>6574586</doc-number>
+<kind>B1</kind>
+<name>David et al.</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>6636152</doc-number>
+<kind>B2</kind>
+<name>Schannach et al.</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>6743044</doc-number>
+<kind>B2</kind>
+<name>Musolf et al.</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>6784802</doc-number>
+<kind>B1</kind>
+<name>Stanescu</name>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>D510068</doc-number>
+<kind>S</kind>
+<name>Haggay et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>6961675</doc-number>
+<kind>B2</kind>
+<name>David</name>
+<date>20051100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>6976867</doc-number>
+<kind>B2</kind>
+<name>Navarro et al.</name>
+<date>20051200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>439489</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>7038918</doc-number>
+<kind>B2</kind>
+<name>AbuGhazaleh et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>7066770</doc-number>
+<kind>B2</kind>
+<name>Pepe</name>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>7153142</doc-number>
+<kind>B2</kind>
+<name>Shifris et al.</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>7226217</doc-number>
+<kind>B1</kind>
+<name>Benton et al.</name>
+<date>20070600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>7234944</doc-number>
+<kind>B2</kind>
+<name>Nordin et al.</name>
+<date>20070600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>7243837</doc-number>
+<kind>B2</kind>
+<name>Durrant et al.</name>
+<date>20070700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>7297018</doc-number>
+<kind>B2</kind>
+<name>Caveney et al.</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>7312715</doc-number>
+<kind>B2</kind>
+<name>Shalts et al.</name>
+<date>20071200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>7458517</doc-number>
+<kind>B2</kind>
+<name>Durrant et al.</name>
+<date>20081200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>7479032</doc-number>
+<kind>B2</kind>
+<name>Hoath et al.</name>
+<date>20090100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>2005/0186819</doc-number>
+<kind>A1</kind>
+<name>Velleca et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>2006/0160395</doc-number>
+<kind>A1</kind>
+<name>Macauley et al.</name>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>2006/0160396</doc-number>
+<kind>A1</kind>
+<name>Macauley et al.</name>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>2006/0271338</doc-number>
+<kind>A1</kind>
+<name>Haggay et al.</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>2007/0049127</doc-number>
+<kind>A1</kind>
+<name>Nordin et al.</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>2007/0117444</doc-number>
+<kind>A1</kind>
+<name>Caveney et al.</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>2007/0230452</doc-number>
+<kind>A1</kind>
+<name>Hough et al.</name>
+<date>20071000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00048">
+<document-id>
+<country>US</country>
+<doc-number>2007/0238343</doc-number>
+<kind>A1</kind>
+<name>Velleca et al.</name>
+<date>20071000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00049">
+<document-id>
+<country>US</country>
+<doc-number>2008/0106871</doc-number>
+<kind>A1</kind>
+<name>James</name>
+<date>20080500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>361727</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00050">
+<document-id>
+<country>US</country>
+<doc-number>2009/0053923</doc-number>
+<kind>A1</kind>
+<name>Navarro et al.</name>
+<date>20090200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>439489</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00051">
+<document-id>
+<country>DE</country>
+<doc-number>10 2004 033 940</doc-number>
+<kind>A1</kind>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00052">
+<document-id>
+<country>EP</country>
+<doc-number>1 465 438</doc-number>
+<kind>A1</kind>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00053">
+<document-id>
+<country>EP</country>
+<doc-number>1 478 056</doc-number>
+<kind>A1</kind>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00054">
+<document-id>
+<country>GB</country>
+<doc-number>2 344 702</doc-number>
+<kind>A</kind>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00055">
+<document-id>
+<country>GB</country>
+<doc-number>2 347 508</doc-number>
+<kind>A</kind>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00056">
+<document-id>
+<country>GB</country>
+<doc-number>2 347 751</doc-number>
+<kind>A</kind>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00057">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2006/048222</doc-number>
+<kind>A1</kind>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00058">
+<othercit>ADC Krone Technical Data; TrueNet&#xae;, CopperTen&#x2122; Unshielded 24 Port Patch Panel and Accessories; 6 pgs.; dated Dec. 5, 2005.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00059">
+<othercit>Clark et al.; U.S. Appl. No. 11/583,995; <i>Rotatable Connector Modules with Inverted Jacks</i>, filed Oct. 19, 2006.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00060">
+<othercit>International Search Report and Written Opinion mailed Mar. 12, 2008.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00061">
+<othercit>&#x201c;The intelligent way to make Moves, Adds and Changes!,&#x201d; <i>Nordx/CDT</i>, 6 pages (2003).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00062">
+<othercit>Meredith, L., &#x201c;Managers missing point of intelligent patching,&#x201d; <i>Data Center News</i>, http://searchdatacenter.techtarget.com/news/article/0,289142,sid80<sub>&#x2014;</sub>gcil099991,00.html, pp. 1-2 (Jun. 21, 2005).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00063">
+<othercit>Milligan, B., &#x201c;Intelligent patching systems carving out a &#x2018;large&#x2019; niche,&#x201d; Cabling Installation &#x26; Maintenance, http://cim.pennnet.com/display<sub>&#x2014;</sub>article/207641/27/ARTCL/none/none/l/Intelligent-patchin..., pp. 1-6 (Jul. 2004).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00064">
+<othercit>Press Releases, &#x201c;Avaya's Enhanced Systimax&#xae; iPatch System Enables IT Managers to Optimize Network Efficiency and Cut Downtime,&#x201d; <i>Avaya Inc</i>., http://www.avaya.com/gcm/master-usa/en-us/corporate/pressroom/pressreleases/2003/pr-..., pp. 1-2 (May 9, 2003).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00065">
+<othercit>Press Releases, &#x201c;Avaya's Enhanced Systimax&#xae; iPatch System Enables IT Managers to Optimise Network Efficiency and Cut Downtime,&#x201d; <i>Avaya Inc</i>., http://www.avaya.com/gcm/master-usa/en-us/corporate/pressroom/pressreleases/2003/pr-..., pp. 1-2 (May 20, 2003).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00066">
+<othercit>Press Releases, &#x201c;Systimax&#xae; iPatch System Wins Platinum Network of the Year Award,&#x201d; <i>Avaya Inc</i>., http://www.avaya.com/gcm/master-usa/en-us/corporate/pressroom/pressreleases/2003/pr-..., pp. 1-2 (Jan. 30, 2003).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00067">
+<othercit>&#x201c;Spec Sheet&#x2014;TrueNet&#xae; CopperTen Modules,&#x201d; <i>ADC Krone</i>, Issue 2, 2 pages (Copyright 2006).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00068">
+<othercit>RiT Connect &#x26; Control, IPLMS Components, pp. 1-83 (Aug. 2005).</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>9</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>4395401</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>439490</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>18</number-of-drawing-sheets>
+<number-of-figures>21</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11973337</doc-number>
+<kind>00</kind>
+<date>20071005</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7479032</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12355268</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60851002</doc-number>
+<kind>00</kind>
+<date>20061010</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60856384</doc-number>
+<kind>00</kind>
+<date>20061101</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090215310</doc-number>
+<kind>A1</kind>
+<date>20090827</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hoath</last-name>
+<first-name>Alastair</first-name>
+<address>
+<city>Cheltenham</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hough</last-name>
+<first-name>Stephen John</first-name>
+<address>
+<city>Tewkesbury</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Morris</last-name>
+<first-name>Stephen James</first-name>
+<address>
+<city>Cheltenham</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>White</last-name>
+<first-name>Gordon John</first-name>
+<address>
+<city>Gloucester</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Merchant &#x26; Gould P.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>ADC GmbH</orgname>
+<role>03</role>
+<address>
+<city>Berlin</city>
+<country>DE</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Hyeon</last-name>
+<first-name>Hae Moon</first-name>
+<department>2839</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An upgradeable patch panel assembly and associated method of upgrading a patch panel assembly. The upgradeable patch panel assembly including a panel base having an aperture sized to receive a scanner interface cable. The method including removing a first cover from the panel base, inserting a scanner interface cable through the existing aperture in the panel base, and attached an upgraded cover to the panel base. Upgrading the patch panel assembly is completed while the assembly remains mounted to a frame and without disconnecting rear cable connections. The upgraded patch panel assembly provides jack-occupancy monitoring capabilities.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="148.51mm" wi="246.72mm" file="US07641513-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="235.80mm" wi="152.23mm" orientation="landscape" file="US07641513-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="243.67mm" wi="116.16mm" orientation="landscape" file="US07641513-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="246.63mm" wi="124.46mm" orientation="landscape" file="US07641513-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="228.18mm" wi="125.73mm" file="US07641513-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="101.85mm" wi="125.73mm" file="US07641513-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="234.10mm" wi="101.94mm" orientation="landscape" file="US07641513-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="239.86mm" wi="111.93mm" orientation="landscape" file="US07641513-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="220.81mm" wi="129.03mm" file="US07641513-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="211.75mm" wi="146.90mm" file="US07641513-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="242.65mm" wi="126.49mm" orientation="landscape" file="US07641513-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="231.65mm" wi="127.17mm" orientation="landscape" file="US07641513-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="239.44mm" wi="145.29mm" orientation="landscape" file="US07641513-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="247.82mm" wi="156.72mm" orientation="landscape" file="US07641513-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="231.14mm" wi="106.09mm" orientation="landscape" file="US07641513-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="237.07mm" wi="93.56mm" orientation="landscape" file="US07641513-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="249.00mm" wi="158.75mm" orientation="landscape" file="US07641513-20100105-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="230.21mm" wi="149.61mm" orientation="landscape" file="US07641513-20100105-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="217.25mm" wi="162.90mm" orientation="landscape" file="US07641513-20100105-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation of application Ser. No. 11/973,337, filed Oct. 5, 2007, now U.S. Pat. No. 7,479,032, which claims the benefit of U.S. provisional application Ser. No. 60/851,002, filed Oct. 10, 2006, and U.S. provisional application Ser. No. 60/856,384, filed Nov. 1, 2006, which applications are incorporated herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">This disclosure relates to methods and devices for use in the telecommunications industry. More specifically, this disclosure relates to methods and devices for patch panel systems.</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">Local Area Networks and telecommunications connections often use patch panels, especially at the customer's premises to enable cross-connection between telecommunications equipment. Patch panels typically include front and rear connection locations. The rear connections are typically a more permanent type of connection, such as an insulation displacement connector that connects to a copper based, twisted pair telecommunications cable. The front connection locations of the patch panel may include any of a variety of jacks, which allows fairly rapid connection and disconnection between two jacks in the same patch panel, or between one jack in the patch panel and another jack in a nearby patch panel via a patch cord.</p>
+<p id="p-0005" num="0004">In most applications, numerous patch panels are provided to accommodate a significant number of interconnections that must be made. Managing the system requires monitoring the availability and occupancy of the connection locations. In conventional patch panel arrangements, the availability/occupancy of the front connection locations of a patch panel or patch panel system is manually or physically monitored. Such methods of management can be improved; the improvement preferably being effected in a cost efficient and time-saving manner.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0006" num="0005">One feature of the present disclosure relates to a method and device that permits a user to upgrade an existing patch panel assembly to a patch panel assembly having monitoring capabilities.</p>
+<p id="p-0007" num="0006">A variety of examples of desirable product features or methods are set forth in part in the description that follows, and in part will be apparent from the description, or may be learned by practicing various aspects of the disclosure. The aspects of the disclosure may relate to individual features as well as combinations of features. It is to be understood that both the foregoing general description and the following detailed description are explanatory only, and are not restrictive of the claimed invention.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0008" num="0007"><figref idref="DRAWINGS">FIG. 1</figref> is a front perspective view of a patch panel assembly, in accordance with the principles disclosed.</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 2</figref> is a front elevation view of a panel base of the patch panel assembly of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 3</figref> is a rear elevation view of the panel base of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 4</figref> is a perspective view of a jack of the patch panel assembly of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 5</figref> is an exploded perspective view of the jack of <figref idref="DRAWINGS">FIG. 4</figref>;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 6</figref> is a perspective view of a jack plug used with the patch panel assembly of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 7</figref> is a front elevation view of a cover of the patch panel assembly of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 8</figref> is a top plan view of the cover of <figref idref="DRAWINGS">FIG. 7</figref>;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 9</figref> is an enlarged detail view of a portion of the cover of <figref idref="DRAWINGS">FIG. 8</figref>;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 10</figref> is an enlarged detail view of another portion of the cover of <figref idref="DRAWINGS">FIG. 7</figref>;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 11</figref> is an enlarged detail view of a portion of the panel base of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 12</figref> is an enlarged detail view of another portion of the panel base of <figref idref="DRAWINGS">FIG. 3</figref>;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 13</figref> is a top plan view of a cable manager of the patch panel assembly of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 14</figref> is a bottom plan view of the cable manager of <figref idref="DRAWINGS">FIG. 13</figref>;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 15</figref> is a front perspective view of an upgraded patch panel assembly, in accordance with the principles disclosed;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 16</figref> is a exploded, front perspective view of the upgraded patch panel assembly of <figref idref="DRAWINGS">FIG. 15</figref>;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 17</figref> is a front elevation view of a cover of the upgraded patch panel assembly of <figref idref="DRAWINGS">FIG. 15</figref>;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 18</figref> is a rear elevation view of the cover of <figref idref="DRAWINGS">FIG. 17</figref>;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 19</figref> is a further exploded, front perspective view of the upgraded patch panel assembly of <figref idref="DRAWINGS">FIG. 16</figref>;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 20</figref> is a rear perspective view of the upgraded patch panel assembly of <figref idref="DRAWINGS">FIG. 15</figref>; and</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 21</figref> is a perspective view of a connector used with the upgraded patch panel assembly of <figref idref="DRAWINGS">FIG. 15</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0029" num="0028">Reference will now be made in detail to exemplary aspects of the present disclosure that are illustrated in the accompanying drawings. Wherever possible, the same reference numbers will be used throughout the drawings to refer to the same or like parts.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 1</figref> illustrates a patch panel assembly <b>10</b> in accordance with the principles disclosed. The assembly <b>10</b> includes a cover <b>12</b> (e.g., facia or front plate), a panel base or frame <b>14</b>, and a cable manager <b>16</b>.</p>
+<p id="p-0031" num="0030">Referring to <figref idref="DRAWINGS">FIGS. 2 and 3</figref>, the panel base <b>14</b> has a front <b>18</b> (<figref idref="DRAWINGS">FIG. 2</figref>), a rear <b>20</b> (<figref idref="DRAWINGS">FIG. 3</figref>), and opposing sides <b>22</b>, <b>24</b>. Mounting flanges <b>26</b>, <b>28</b> are located at the sides <b>22</b>, <b>24</b> of the panel base. In use, the patch panel assembly <b>10</b> is typically mounted by the mounting flanges <b>26</b>, <b>28</b> to a frame or telecommunications structure <b>30</b> (shown schematically in <figref idref="DRAWINGS">FIG. 1</figref>), such as a rack, for example. The patch panel assembly can also be mounted to or within other types of structures, such as enclosures or cabinets, for instance.</p>
+<p id="p-0032" num="0031">Still referring to <figref idref="DRAWINGS">FIGS. 2 and 3</figref>, the panel base <b>14</b> defines a plurality of openings <b>32</b>. The openings <b>32</b> are sized to receive jacks <b>34</b> (<figref idref="DRAWINGS">FIG. 4</figref>). In the illustrated embodiment, the openings <b>32</b> are provided in a staggered arrangement; that is, two rows of spaced apart openings: the spaced apart openings <b>32</b> of one row being offset from the spaced apart openings <b>32</b> of the other row. The staggered arrangement reduces high-frequency interference between the individual jacks <b>34</b> of the assembly.</p>
+<p id="p-0033" num="0032">The jacks <b>34</b> can be RJ style jacks, such as RJ 45 jacks, for example. Other types of jacks can be also be used in accordance with the principles discloses. <figref idref="DRAWINGS">FIGS. 4 and 5</figref> illustrate the details of one type of RJ 45 jack <b>34</b> that is used in the present assembly. In the illustrated embodiment, the jack <b>34</b> includes a two-piece dielectric housing <b>66</b> and a printed circuit board <b>68</b> having insulation displacement contacts ID<b>1</b>-ID<b>8</b>. The housing <b>66</b> defines a front port <b>36</b>. The insulation displacement contacts ID<b>1</b>-ID<b>8</b> are accessible from the rear of the housing <b>66</b> and define rear connection locations <b>106</b> (see <figref idref="DRAWINGS">FIG. 20</figref>). Further details of one RJ 45 jack embodiment that can be used in the present patch cord assembly are provided in U.S. application Ser. No. 11/583,995, which application is incorporated herein by reference.</p>
+<p id="p-0034" num="0033">The jacks <b>34</b> of the present patch cord assembly <b>10</b> are each positioned within the openings <b>32</b> (<figref idref="DRAWINGS">FIG. 2</figref>) of the panel base <b>14</b> such that the front port <b>36</b> of the jack <b>34</b> faces toward the front <b>18</b> of the panel base (see <figref idref="DRAWINGS">FIG. 16</figref>, for example). The front port <b>36</b> of each jack <b>34</b> is sized and configured to receive a jack plug <b>38</b> (e.g. a patch cord connector) (<figref idref="DRAWINGS">FIG. 6</figref>).</p>
+<p id="p-0035" num="0034">Referring to <figref idref="DRAWINGS">FIG. 6</figref>, the jack plug <b>38</b> has a first structural plug configuration defined by an insertion end <b>40</b> of the plug <b>38</b>. The plug <b>38</b> includes a flexible snap-fit tab <b>42</b>. The insertion end <b>40</b> inserts or plugs into the front port <b>36</b> of the jack <b>34</b> and detachably secures in place by the snap-fit tab <b>42</b>.</p>
+<p id="p-0036" num="0035">Referring now to <figref idref="DRAWINGS">FIGS. 1</figref>, <b>7</b>, and <b>8</b>, the cover <b>12</b> of the patch cord assembly <b>10</b> is a first removable cover. In one embodiment, the cover <b>12</b> is made of plastic. The removable cover <b>12</b> secures to the front <b>18</b> of the panel base <b>14</b> by first and second attachments <b>44</b>, <b>46</b> (<figref idref="DRAWINGS">FIGS. 9-12</figref>). The first attachment <b>44</b> includes first and second hooks or catch elements <b>48</b> formed on the cover <b>12</b> (<figref idref="DRAWINGS">FIGS. 7 and 10</figref>) that engage corresponding hooks or catch elements <b>50</b> (<figref idref="DRAWINGS">FIGS. 3 and 12</figref>) formed on the panel base <b>14</b>. The elements <b>48</b>, <b>50</b> of the first attachment <b>44</b> function as a hinge such that the cover <b>12</b> hinges at the one side (e.g. <b>22</b>) of the panel base <b>14</b>.</p>
+<p id="p-0037" num="0036">The second attachment <b>46</b> includes a flexible retaining clip or latch <b>52</b> (<figref idref="DRAWINGS">FIGS. 8 and 9</figref>) that engages a corresponding aperture <b>54</b> (<figref idref="DRAWINGS">FIGS. 2 and 11</figref>). In the illustrated embodiment, the latch <b>52</b> (<figref idref="DRAWINGS">FIG. 8</figref>) is provided on the cover <b>12</b> while the aperture is formed in the panel base <b>14</b> (<figref idref="DRAWINGS">FIG. 2</figref>). In the alternative, the latch may be provided on the panel base and the aperture formed in the cover. The latch <b>52</b> snap-fits within the aperture <b>54</b> to releasably secure the cover <b>12</b> to the front <b>18</b> of the panel base <b>14</b> when the cover is hinged to a closed position.</p>
+<p id="p-0038" num="0037">Referring back to <figref idref="DRAWINGS">FIGS. 1 and 7</figref>, the cover <b>12</b> defines a plurality of jack openings <b>56</b>. The jack openings <b>56</b> provide access to the front ports <b>36</b> of the jacks <b>34</b> located within the openings <b>32</b> of the panel base <b>14</b>.</p>
+<p id="p-0039" num="0038">As shown in <figref idref="DRAWINGS">FIG. 7</figref>, each of the jack openings <b>56</b> defined by the first cover <b>12</b> is constructed to receive the plug <b>38</b> having the first structural plug configuration. In particular, the openings <b>56</b> generally have a larger rectangular upper opening portion <b>58</b> and a smaller rectangular lower opening portion <b>60</b>. This arrangement corresponds to the footprint, or the first structural plug configuration, of the insertion end <b>40</b> of the jack plug <b>38</b> (<figref idref="DRAWINGS">FIG. 6</figref>).</p>
+<p id="p-0040" num="0039">Referring now to <figref idref="DRAWINGS">FIGS. 1</figref>, <b>13</b>, and <b>14</b>, the cable manager <b>16</b> of the patch panel assembly <b>10</b> is attached to the rear <b>20</b> of the panel base <b>14</b>. In particular, latching clips <b>94</b> formed on arms <b>96</b> of the cable manager <b>16</b> engage corresponding structure <b>108</b> (<figref idref="DRAWINGS">FIG. 1</figref>) of the panel base <b>14</b> to secure the manager <b>16</b> to the rear <b>20</b> of the panel base <b>14</b>. The cable manager <b>16</b> includes a plurality of guide structures <b>62</b> (<figref idref="DRAWINGS">FIG. 1</figref>) that organize cables <b>64</b> (shown schematically) interconnected to the jacks <b>34</b>.</p>
+<p id="p-0041" num="0040">In accordance with the principles of the present disclosure, the patch panel assembly <b>10</b> of <figref idref="DRAWINGS">FIG. 1</figref> is an upgradeable patch panel assembly. In particular, the patch panel assembly <b>10</b> is configured to permit a user to upgrade the patch panel assembly with scanner management technology. Referring again to <figref idref="DRAWINGS">FIG. 2</figref>, the panel base <b>14</b> includes an upgrade or conversion aperture <b>70</b> located adjacent to the staggered rows of openings <b>32</b> (see also <figref idref="DRAWINGS">FIG. 16</figref>). The conversion aperture <b>70</b> extends through the panel base <b>14</b> in a direction from the front <b>18</b> to the rear <b>20</b>. The conversion aperture <b>70</b> is sized and configured to receive a scanner interface cable <b>184</b> (<figref idref="DRAWINGS">FIG. 16</figref>) when the patch panel assembly is upgraded. In the illustrated embodiment of <figref idref="DRAWINGS">FIG. 1</figref>, the patch panel assembly <b>10</b> is not upgraded; accordingly, the conversion aperture <b>70</b> is void of any components or elements passing through the aperture, as depicted in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0042" num="0041">One feature of the present upgradeable patch panel assembly <b>10</b> is that the upgrade can be accomplished without removing or un-mounting the assembly <b>10</b> from the frame <b>30</b>. Moreover, the cables <b>64</b> that interconnect to the jacks <b>34</b> need not be disconnected from or re-wired to the jacks. The present upgradeable patch panel assembly accordingly saves a significant amount of time and labor in completing a system upgrade, in addition to reducing system down time during the upgrade.</p>
+<p id="p-0043" num="0042">To upgrade the patch panel assembly <b>10</b> of <figref idref="DRAWINGS">FIG. 1</figref>, the jack plugs <b>38</b> (<figref idref="DRAWINGS">FIG. 6</figref>) having the first structural plug configuration are unplugged from the front ports <b>36</b> (<figref idref="DRAWINGS">FIG. 4</figref>) of the jacks <b>34</b>. The cover <b>12</b> is then removed from the front <b>18</b> of the panel base <b>14</b>. The cover <b>12</b> can be removed by flexing the latch <b>52</b> (<figref idref="DRAWINGS">FIG. 9</figref>) of the second attachment <b>46</b> to release the latch <b>52</b> from the aperture <b>54</b> (<figref idref="DRAWINGS">FIG. 1</figref>) of the panel base <b>14</b>, and hinging the cover <b>12</b> away from the panel base <b>14</b> such that the catch elements <b>48</b>, <b>50</b> of the first attachment <b>44</b> disengage.</p>
+<p id="p-0044" num="0043">Referring to <figref idref="DRAWINGS">FIGS. 15 and 16</figref>, an upgrade assembly <b>104</b> is installed to the existing panel base <b>14</b> to provide an upgraded patch panel assembly <b>100</b> having monitoring capabilities. The upgrade assembly <b>104</b> includes the scanner interface cable <b>184</b> and a second upgraded cover <b>112</b> that attaches to the front <b>18</b> of the panel base <b>14</b>.</p>
+<p id="p-0045" num="0044">The upgraded cover <b>112</b> of the assembly <b>100</b> is a removable cover secured to the front <b>18</b> of the panel base <b>14</b> by first and second attachments (e.g., elements <b>148</b>, <b>50</b> and latch <b>152</b> and aperture <b>54</b>; partly shown in <figref idref="DRAWINGS">FIGS. 17-19</figref>). The first and second attachments are the same as those described with respect to the first cover <b>12</b>. In one embodiment, the upgraded cover <b>112</b> is made of plastic. The upgraded cover <b>112</b> also defines a plurality of jack openings <b>156</b>. The jack openings <b>156</b> provide access to the front ports <b>36</b> of the jacks <b>34</b> located within the openings <b>32</b> of the panel base <b>14</b>.</p>
+<p id="p-0046" num="0045">Referring to <figref idref="DRAWINGS">FIGS. 17 and 18</figref>, the jack openings <b>156</b> defined by the upgraded cover <b>112</b> are constructed to receive upgraded jack plugs <b>138</b> (<figref idref="DRAWINGS">FIG. 21</figref>) having a second structural plug configuration that is different from the first structural plug configuration of the first jack plug <b>38</b> (<figref idref="DRAWINGS">FIG. 6</figref>). In particular, the openings <b>156</b> of the second cover <b>112</b> generally have a larger rectangular upper opening portion <b>158</b> and a smaller rectangular lower opening portion <b>160</b>. The openings <b>156</b> further define an offset notch <b>172</b> extending from the larger rectangular upper opening portion <b>158</b> of the opening. The notch <b>172</b> is sized to accommodate and receive a contact element <b>174</b> (<figref idref="DRAWINGS">FIG. 21</figref>) provided on the upgraded plug <b>138</b>.</p>
+<p id="p-0047" num="0046">Referring now to <figref idref="DRAWINGS">FIG. 21</figref>, the contact element <b>174</b> of the upgraded jack plug <b>138</b> is located at an insertion end <b>140</b> of the plug <b>138</b>. The contact element <b>174</b> partly defines the second different structural plug configuration. Similar to the first plug <b>38</b>, the insertion end <b>140</b> of the upgraded plug <b>138</b> includes a flexible snap-fit tab <b>142</b>. The insertion end <b>140</b> inserts or plugs into the front port <b>36</b> of the jack <b>34</b> and detachably secures in place by the snap-fit tab <b>142</b>. The upgraded jack plugs <b>138</b> are configured for use with the same jacks <b>34</b> as those to which the first jack plugs interconnect.</p>
+<p id="p-0048" num="0047">Referring now to <figref idref="DRAWINGS">FIGS. 16 and 19</figref>, the upgraded cover <b>112</b> of the assembly <b>100</b> includes a printed circuit board <b>176</b>. The printed circuit board <b>176</b> is attached to or held against the rear side <b>178</b> of the upgraded cover <b>112</b> such that the printed circuit board <b>176</b> is positioned between the upgraded cover <b>112</b> and the panel base <b>14</b> <b>16</b> when the cover is attached to the panel base <b>14</b>. The printed circuit board <b>176</b> includes a plurality of holes or openings <b>180</b>. The openings <b>180</b> are sized and arranged to permit the jack plugs <b>138</b> to pass through the circuit board <b>176</b> to engage the jacks <b>34</b> secured in the openings <b>32</b> of the panel base <b>14</b>.</p>
+<p id="p-0049" num="0048">The printed circuit board <b>176</b> of the upgraded cover <b>112</b> includes a plurality of electrical contacts <b>182</b>. In the illustrated embodiment, the electrical contacts <b>182</b> are located such that the electrical contacts <b>182</b> are accessible through the offset notches <b>172</b> of the openings <b>156</b> in the cover <b>112</b>. As will be described in greater detail hereinafter, the contact elements <b>174</b> of the upgraded plugs <b>138</b> contact the electrical contacts <b>182</b> of the printed circuit board <b>176</b> to indicate the presence of the plug <b>138</b> in the jack <b>34</b>.</p>
+<p id="p-0050" num="0049">Referring now to <figref idref="DRAWINGS">FIGS. 16 and 20</figref>, the scanner interface cable <b>184</b> has a first end <b>186</b> and a second end <b>188</b>. The first end <b>186</b> electrically couples to the printed circuit board <b>176</b>, either directly or via a first interface connector (not shown). The second end <b>188</b> includes a second interface connector <b>192</b>. When upgrading the patch panel assembly, the second end <b>188</b> the interface cable <b>184</b> is inserted through the existing conversion aperture <b>70</b> of the panel base <b>14</b>. The existing conversion aperture <b>70</b> is accordingly sized to permit the passage of the second interface connector <b>192</b>. In the illustrated embodiment, the second interface connector <b>192</b> of the cable <b>184</b> is a ribbon cable connector. The ribbon cable connector <b>192</b> interconnects to a scanner lead <b>102</b> (<figref idref="DRAWINGS">FIG. 20</figref>), which in turn connects to a scanning device <b>110</b> (schematically represented).</p>
+<p id="p-0051" num="0050">As previously described, to upgrade the patch panel assembly <b>10</b> of <figref idref="DRAWINGS">FIG. 1</figref>, the plugs <b>38</b> are unplugged from the jacks <b>34</b> of the assembly and the cover <b>12</b> removed. The upgrade assembly <b>104</b> is then installed by first positioning the second end <b>188</b> of the scanner interface cable <b>184</b> through the conversion aperture <b>70</b> of the panel base <b>14</b>. With the interface cable <b>184</b> positioned through the existing aperture <b>70</b> of the panel base <b>14</b>, the upgraded cover <b>112</b> is attached to the front <b>18</b> of the panel base <b>14</b>, as previously described with respect to the first cover. As shown in <figref idref="DRAWINGS">FIG. 20</figref>, the scanner interface cable <b>184</b> can be routed through cable guide structure <b>190</b> formed in the cable manager <b>16</b> and positioned at the rear of the assembly <b>100</b> for interconnection to the scanner device <b>110</b>.</p>
+<p id="p-0052" num="0051">To complete the upgrade of the assembly, the upgraded jack plugs <b>138</b> are inserted within the openings <b>156</b> of the cover <b>112</b>. When the upgraded jack plug <b>138</b> engages or snap-fits to the jacks <b>34</b>, the contact elements <b>174</b> (<figref idref="DRAWINGS">FIG. 21</figref>) of the upgraded plug <b>138</b> contacts the electrical contacts <b>182</b> provided on the printed circuit board <b>176</b> (<figref idref="DRAWINGS">FIG. 19</figref>) to establish an electrical connection. In the illustrated embodiment, a detent <b>198</b> (<figref idref="DRAWINGS">FIG. 19</figref>) is provided on the electrical contact <b>182</b> to ensure such contact or connection.</p>
+<p id="p-0053" num="0052">The upgraded patch panel assembly <b>100</b> is now enhanced with scanner management technology provided in part by the connection between the contact element <b>174</b> of the plug <b>138</b> and the electrical contact <b>182</b> of the printed circuit board <b>176</b>. That is, the occupancy of each individual jack <b>34</b> can now be monitored by way of the connection between the element <b>174</b> and the electrical contact <b>182</b>. The scanner interface cable <b>184</b> transfers the occupancy information to the scanner device <b>110</b>. This information is useful to a user in managing system connections availability. In particular, a user can collect and monitor occupancy/availability information of the patch panel connections without having to manually or physically inspect how many jack ports are in use.</p>
+<p id="p-0054" num="0053">In the illustrated embodiment, the upgraded patch panel assembly <b>100</b> includes light emitting diodes <b>115</b> (<figref idref="DRAWINGS">FIG. 15</figref>) that illuminate to indicate that a particular patch panel port or jack is occupied. In instances where visual inspection of the patch panel assembly <b>100</b> is necessary, the illuminated diodes aids in directing the user's attention to the occupied jack ports.</p>
+<p id="p-0055" num="0054">The patch panel assembly of <figref idref="DRAWINGS">FIG. 1</figref> offers the adaptability to upgrade to scanner management technology while minimizing the impact of the upgrade. That is, the present upgradeable patch panel assembly <b>10</b> can be upgraded without removing or un-mounting the assembly <b>10</b> from the frame, and does not require rear cable disconnection or re-wiring. The present upgradeable patch panel assembly accordingly minimizing the impact of an upgrade by reducing the time and labor needed to complete the upgrade, and by reducing system down time during the upgrade.</p>
+<p id="p-0056" num="0055">The above specification provides a complete description of the present invention. Since many embodiments of the invention can be made without departing from the spirit and scope of the invention, certain aspects of the invention reside in the claims hereinafter appended.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method of upgrading a telecommunications patch panel having jack openings that receive a first structural plug configuration, the method including the steps of:
+<claim-text>a) providing an upgraded cover, the upgraded cover including:
+<claim-text>i) attachment structure that secures the upgraded cover to the telecommunications patch panel while the telecommunications panel remains mounted to a frame;</claim-text>
+<claim-text>ii) upgraded jack openings that receive a second structural plug configuration different than the first structural plug configuration; and</claim-text>
+<claim-text>iii) a printed circuit board positioned at a rearward side of the upgraded cover, the printed circuit board including a plurality of contacts, the contacts being arranged to indicate receipt of a second structural plug within the upgraded jack openings; and</claim-text>
+</claim-text>
+<claim-text>b) coupling an interface cable to the printed circuit board of the upgraded cover;</claim-text>
+<claim-text>c) wherein the upgraded cover and the interface cable provide jack-occupancy monitoring capabilities.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further including routing the interface cable through an existing conversion aperture of the telecommunications patch panel.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the step of coupling the interface cable includes coupling an interface connector of the interface cable to the printed circuit board.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the step of providing the upgraded cover includes providing the upgraded cover with indicators that visually indicate receipt of a second structural plug within one of the upgraded jack openings.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further including providing the jack-occupancy monitoring capabilities without disconnecting cables connected to jacks located at a rear of the telecommunications patch panel.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the upgraded jack openings include a notch sized to receive a contact element of a second structural plug.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the attachment structure of the cover includes a latch.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further including plugging a second structural plug into one of the upgraded jack openings and establishing an electrical connection with one of the contacts of the printed circuit board.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further including connecting the interface cable to a scanner lead of a scanning device. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

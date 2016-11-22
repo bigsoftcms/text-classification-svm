@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07661168-20100216.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20100202" date-publ="20100216">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07661168</doc-number>
+<kind>B2</kind>
+<date>20100216</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10720749</doc-number>
+<date>20031125</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>KR</country>
+<doc-number>10-2002-0074970</doc-number>
+<date>20021128</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>919</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>D</section>
+<class>06</class>
+<subclass>F</subclass>
+<main-group>35</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100216</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  8158</main-classification>
+<further-classification>  8159</further-classification>
+<further-classification> 68 1204</further-classification>
+<further-classification> 68 1205</further-classification>
+</classification-national>
+<invention-title id="d0e71">Washing machine control method</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5768729</doc-number>
+<kind>A</kind>
+<name>Cracraft</name>
+<date>19980600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  8158</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6634191</doc-number>
+<kind>B1</kind>
+<name>Guler et al.</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 68 1204</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6842929</doc-number>
+<kind>B2</kind>
+<name>Kim et al.</name>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  8159</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>KR</country>
+<doc-number>99027766</doc-number>
+<kind>A</kind>
+<date>19990400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>KR</country>
+<doc-number>10-1999-0085003</doc-number>
+<kind>A</kind>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>KR</country>
+<doc-number>10-2000-0050666</doc-number>
+<kind>A</kind>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>9</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  8158</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  8159</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>134 18</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 68 1204</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 68 1205</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>2</number-of-drawing-sheets>
+<number-of-figures>2</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20040154645</doc-number>
+<kind>A1</kind>
+<date>20040812</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kim</last-name>
+<first-name>Young Soo</first-name>
+<address>
+<city>Changwon-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>McKenna Long &#x26; Aldridge LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>LG Electronics Inc.</orgname>
+<role>03</role>
+<address>
+<city>Seoul</city>
+<country>KR</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Markoff</last-name>
+<first-name>Alexander</first-name>
+<department>1792</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A washing machine control method reduces washing time and component stress from a repetitious re-supplying of water, due to absorption and evaporation after an initial supplying of water according to a selected wash course, by determining an optimum water re-supply amount according to a water level reduction rate. The method includes steps of proceeding a user-selected wash course for a predetermined time after supplying water to a washing machine according to a first water level set based on an amount of laundry in the washing machine; sensing a second water level corresponding to the predetermined time of the wash course; calculating a water level reduction rate based on the set first water level and the sensed second water level; determining an optimum water re-supply amount by comparing the calculated water level reduction rate to a predetermined value; re-supplying the water according to the first water level, if the calculated water level reduction rate is less than the predetermined value; re-supplying the water according to a third water level, greater than the first water level, if the calculated water level reduction rate is not less than the predetermined value; and completing the user-selected wash course after re-supplying water to the washing machine according to the optimum water re-supply amount. The sensing and calculating steps may each be repeated, say, three to four times, to obtain an average rate of water level reduction, so that the user-selected wash course may be reset based on the average rate of water level reduction.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="227.67mm" wi="172.80mm" file="US07661168-20100216-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="159.85mm" wi="163.75mm" file="US07661168-20100216-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="249.34mm" wi="174.24mm" file="US07661168-20100216-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<p id="p-0002" num="0001">This application claims the benefit of Korean Application No. 10-2002-0074970 filed on Nov. 29, 2002, which is hereby incorporated by reference.</p>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates to washing machines, and more particularly, to a washing machine control method in which a water level reduction rate is calculated to determine an optimum water re-supply amount.</p>
+<p id="p-0005" num="0004">2. Discussion of the Related Art</p>
+<p id="p-0006" num="0005">Generally speaking, to perform washing using a washing machine in which laundry has been placed, a wash course is selected to determine a wash pattern, water is supplied to the washing machine according a predetermined water level based on the amount of laundry in the washing machine, and washing is performed based on the predetermined water level. After the water reaches the predetermined level, however, the laundry absorbs a portion of the water, which soon lowers the water level. In addition, if the selected wash course calls for heating the water to a predetermined temperature before performing a washing step, the heating cycle evaporates a portion of the water, which also lowers the water level. Accordingly, as the washing step proceeds, there is a gradual reduction in the water level, and the rate of water level reduction depends on the type and amount of laundry and the selected wash course.</p>
+<p id="p-0007" num="0006">To compensate for the water level being lowered as above, a washing machine control method according to a related art introduces an additional supply of water before proceeding with the washing step, so that the predetermined water level is maintained. Such a method is illustrated in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0008" num="0007">Referring to <figref idref="DRAWINGS">FIG. 1</figref>, the method of the related art includes steps of setting a water level based on an amount of laundry (S<b>101</b>), supplying water according to a predetermined water level (S<b>102</b>), performing washing according to a selected wash course (S<b>103</b>), determining whether the water level has fallen to a substantially lower level that necessitates the supply of additional water (S<b>104</b>), and stopping the washing step while re-supplying a predetermined amount of water based on the set water level (S<b>105</b>). To determine whether to re-supply an amount of water, the water is continuously monitored using a water level sensor, which senses a water pressure of the water in the washing machine.</p>
+<p id="p-0009" num="0008">In the above method, however, the rate of water level reduction will determine the number of times of re-supplying the predetermined amount of the water. That is, if the amount and type of laundry absorbs a great deal of water or absorbs the water slowly, or if the heating cycle results in a significant amount of evaporation, there will be an increased repetition of the steps to complete the water supply. Since the washing step is repeatedly interrupted, the time to perform the washing is excessive. Moreover, the various washing machine components for performing washing and water supplying are stressed by being repeatedly stopped and restarted, which reduces the life of the washing machine.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">Accordingly, the present invention is directed to a washing machine control method that substantially obviates one or more of the problems due to limitations and disadvantages of the related art.</p>
+<p id="p-0011" num="0010">An object of the present invention, which has been devised to solve the foregoing problem, lies in providing a washing machine control method, which reduces the time required for the completion of a water supply operation according to a set water level.</p>
+<p id="p-0012" num="0011">It is another object of the present invention to provide a washing machine control method that reduces the stress on various components of the washing machine and increases the life of the washing machine accordingly.</p>
+<p id="p-0013" num="0012">It is another object of the present invention to provide a washing machine control method that enables the optimization of a wash course to achieve improved wash performance.</p>
+<p id="p-0014" num="0013">Additional features and advantages of the invention will be set forth in the description which follows, and in part will be apparent to those having ordinary skill in the art upon examination of the following or may be learned from a practice of the invention. The objectives and other advantages of the invention will be realized and attained by the subject matter particularly pointed out in the specification and claims hereof as well as in the appended drawings.</p>
+<p id="p-0015" num="0014">To achieve these objects and other advantages in accordance with the present invention, as embodied and broadly described herein, there is provided a washing machine control method comprising steps of proceeding a user-selected wash course for a predetermined time after supplying water to a washing machine according to a first water level set based on an amount of laundry in the washing machine; sensing a second water level corresponding to the predetermined time of the wash course; calculating a water level reduction rate based on the set first water level and the sensed second water level; determining an optimum water re-supply amount by comparing the calculated water level reduction rate to a predetermined value; and completing the user-selected wash course after re-supplying water to the washing machine according to the optimum water re-supply amount. The method further comprises steps of re-supplying the water according to the first water level, if the calculated water level reduction rate is less than the predetermined value; and re-supplying the water according to a third water level, if the calculated water level reduction rate is not less than the predetermined value.</p>
+<p id="p-0016" num="0015">According to the above method of the present invention, each of the sensing and calculating steps are preferably repeated, to obtain an average rate of water level reduction and thereby enable a resetting of the user-selected wash course based on the average rate of water level reduction.</p>
+<p id="p-0017" num="0016">It is to be understood that both the foregoing explanation and the following detailed description of the present invention are exemplary and illustrative and are intended to provide further explanation of the invention as claimed.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0018" num="0017">The accompanying drawings, which are included to provide a further understanding of the invention and are incorporated in and constitute a part of this application, illustrate embodiment(s) of the invention and together with the description serve to explain the principle of the invention. In the drawings:</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 1</figref> is a flowchart of a washing machine control method according to a related art; and</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 2</figref> is a flowchart of a washing machine control method according to the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENT</heading>
+<p id="p-0021" num="0020">Reference will now be made in detail to the preferred embodiment of the present invention, examples of which are illustrated in the accompanying drawings.</p>
+<p id="p-0022" num="0021">Referring to <figref idref="DRAWINGS">FIG. 2</figref>, illustrating a washing machine control method according to the present invention, a water level L<b>1</b> is set (S<b>201</b>) based on an amount and type of laundry placed in the washing machine and a wash course selected by a user. Water is supplied to the washing machine according to the set level (S<b>202</b>, S<b>203</b>, S<b>204</b>). In doing so, the water level is sensed by a water level sensor outputting a sensed water level signal to a microcomputer of the washing machine. Upon reaching the water level L<b>1</b>, the water supply is stopped so that washing may be initiated (S<b>205</b>).</p>
+<p id="p-0023" num="0022">As washing proceeds for a time, the water level is sensed again to determine whether the water has been reduced by a predetermined amount that precludes a continuation of the washing step (S<b>206</b>, S<b>207</b>). In doing so, the microcomputer compares a value corresponding to the sensed water level signal to a value stored in a lookup table. If a difference in the compared values indicates no significant reduction in the water level, the sensed water level is deemed appropriate, and washing proceeds (S<b>212</b>).</p>
+<p id="p-0024" num="0023">On the other hand, if the comparison indicates a significant reduction in the water level, a water level reduction rate V<b>1</b> is calculated (S<b>208</b>) by comparing the water levels of the steps S<b>203</b> and S<b>206</b> over time. The water level reduction rate V<b>1</b> is then compared (S<b>209</b>) to a predetermined rate V<b>2</b> to determine an optimum water re-supply amount. That is, if the value of V<b>1</b> is less than the value of V<b>2</b>, water is re-supplied to the washing machine according to the water level L<b>1</b> (S<b>210</b>); and if the value of V<b>1</b> is greater than or equal to the value of V<b>2</b>, water is re-supplied to the washing machine according to a water level L<b>2</b> (S<b>211</b>), which is a higher level than the water level L<b>1</b> to compensate for a faster rate of water absorption or evaporation. Here, the water level L<b>2</b> is determined based on a set values stored in the lookup of the microcomputer, and the predetermined rate V<b>2</b> is a reference value based on a number of water re-supply operations that would negatively affect the wash course during a prescribed time between initiating the water supply and a completion of the water supply as determined by the step S<b>207</b>.</p>
+<p id="p-0025" num="0024">The washing machine control method according to the present invention calculates in the steps S<b>206</b>-S<b>208</b> the water level reduction rate for each instance of re-supplying water per the steps S<b>209</b>-S<b>211</b>, so that the optimum water re-supply amount can be quickly determined, thus preventing an excessive repetition of water re-supply operations. That is, the method of the present invention calculates a plurality of water level reduction rates V<b>1</b><sub>1 </sub>to V<b>1</b><sub>n </sub>so that an average water level reduction rate may be obtained, where n is the number of water re-supply operations and is preferably three or four. Thus, the wash pattern of the selected wash course may be optimized, i.e., reset, based on the average water level reduction rate, so that wash performance is improved.</p>
+<p id="p-0026" num="0025">It will be apparent to those skilled in the art that various modifications and variations can be made in the present invention without departing from the spirit or scope of the invention. Thus, it is intended that the present invention cover such modifications and variations, provided they come within the scope of the appended claims and their equivalents.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A washing machine control method comprising steps of:
+<claim-text>proceeding with a user-selected wash course after supplying water to a washing machine according to a first water level set based on an amount of laundry in the washing machine;</claim-text>
+<claim-text>sensing a second water level at a predetermined time during the wash course;</claim-text>
+<claim-text>calculating a water level reduction rate based on the set first water level and the sensed second water level;</claim-text>
+<claim-text>determining a water re-supply amount by comparing the calculated water level reduction rate to a predetermined value; and</claim-text>
+<claim-text>completing the user-selected wash course after re-supplying water to the washing machine according to the water re-supply amount.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the water is re-supplied
+<claim-text>according to the first water level, if the calculated water level reduction rate is less than the predetermined value.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the water is re-supplied according to a third water level if the calculated water level reduction rate is greater than or equal to the predetermined value.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said sensing and calculating steps are each repeated, to obtain an average rate of water level reduction, and wherein the user-selected wash course is reset based on the average rate of water level reduction.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method as claimed in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the said sensing and calculating steps are each repeated three times.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method as claimed in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the said sensing and calculating steps are each repeated four times.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first and second water levels are sensed by sensing a variation of a water pressure of the water in the washing machine.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method as claimed in <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the third water level is greater than the first water level.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A washing machine control method comprising:
+<claim-text>supplying water to a washing machine according to a first water level based on an amount of laundry in the washing machine;</claim-text>
+<claim-text>performing a wash cycle for a predetermined time;</claim-text>
+<claim-text>sensing a second water level after the predetermined time;</claim-text>
+<claim-text>calculating a water level reduction rate by comparing the first water level and the second water level over time;</claim-text>
+<claim-text>determining a water re-supply amount by comparing the calculated water level reduction rate to a predetermined value; and</claim-text>
+<claim-text>completing the wash cycle after re-supplying water to the washing machine based on the water re-supply amount. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07642108-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07642108</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11868854</doc-number>
+<date>20071008</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>L</subclass>
+<main-group>21</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>438 22</main-classification>
+<further-classification>438 34</further-classification>
+<further-classification>438 39</further-classification>
+<further-classification>438943</further-classification>
+<further-classification>257E51018</further-classification>
+</classification-national>
+<invention-title id="d0e43">LED including photonic crystal structure</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5371025</doc-number>
+<kind>A</kind>
+<name>Sung</name>
+<date>19941200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5779924</doc-number>
+<kind>A</kind>
+<name>Krames et al.</name>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5955749</doc-number>
+<kind>A</kind>
+<name>Joannopoulos et al.</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6091085</doc-number>
+<kind>A</kind>
+<name>Lester</name>
+<date>20000700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6156581</doc-number>
+<kind>A</kind>
+<name>Vaudo et al.</name>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6307218</doc-number>
+<kind>B1</kind>
+<name>Steigerwald et al.</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>6335548</doc-number>
+<kind>B1</kind>
+<name>Roberts et al.</name>
+<date>20020100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>6363096</doc-number>
+<kind>B1</kind>
+<name>Dodabalapur et al.</name>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6534798</doc-number>
+<kind>B1</kind>
+<name>Scherer et al.</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6711200</doc-number>
+<kind>B1</kind>
+<name>Scherer et al.</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>372 64</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6735230</doc-number>
+<kind>B1</kind>
+<name>Tanabe et al.</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6949395</doc-number>
+<kind>B2</kind>
+<name>Yoo</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>2002/0004307</doc-number>
+<kind>A1</kind>
+<name>Yamada</name>
+<date>20020100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>2002/0109149</doc-number>
+<kind>A1</kind>
+<name>Chang</name>
+<date>20020800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>257 98</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>2002/0130311</doc-number>
+<kind>A1</kind>
+<name>Lieber et al.</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>2002/0159126</doc-number>
+<kind>A1</kind>
+<name>Sigalas et al.</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>359245</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>2003/0016895</doc-number>
+<kind>A1</kind>
+<name>Holm et al.</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>2003/0141507</doc-number>
+<kind>A1</kind>
+<name>Krames et al.</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>2003/0235229</doc-number>
+<kind>A1</kind>
+<name>Deng et al.</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>2004/0135155</doc-number>
+<kind>A1</kind>
+<name>Otsuka et al.</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>2005/0035354</doc-number>
+<kind>A1</kind>
+<name>Lin et al.</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>2005/0082543</doc-number>
+<kind>A1</kind>
+<name>Alizadeh et al.</name>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>2005/0173714</doc-number>
+<kind>A1</kind>
+<name>Lee et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>2005/0173717</doc-number>
+<kind>A1</kind>
+<name>Lee et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>2005/0205884</doc-number>
+<kind>A1</kind>
+<name>Kim et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>2005/0223211</doc-number>
+<kind>A1</kind>
+<name>Sukegawa et al.</name>
+<date>20051000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>EP</country>
+<doc-number>0874405</doc-number>
+<kind>A2</kind>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>EP</country>
+<doc-number>1071143</doc-number>
+<kind>A1</kind>
+<date>20010100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>JP</country>
+<doc-number>07176788</doc-number>
+<kind>A</kind>
+<date>19950700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>WO</country>
+<doc-number>03/023857</doc-number>
+<kind>A2</kind>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>WO</country>
+<doc-number>2006060599</doc-number>
+<kind>A2</kind>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00032">
+<othercit>A. Kikuchi et al., &#x201c;Self-Organized InGaN/GaN Multiple Quantum Well Nanocolumn Light Emitting Diodes Grown on (111) Si Substrate,&#x201d; Department of Electrical and Electronics Engineering, Sophia University, 1 page.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00033">
+<othercit>P. Bhattacharya et al., &#x201c;Electrically Injected Photonic Bandgap Microcavity Light Sources,&#x201d; LEOS 2001 14th. Annual Meeting of the IEEE Lasers &#x26; Electro-Optics Society, San Diego, Ca, Nov. 11-15, vol. 1 of 2, pp. 76 to 77.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00034">
+<othercit>Boroditsky et al,&#x201c; Light extraction from optically pumped light-emitting diode by thin-slab photonic crystals,&#x201d; Applied Physics Letters, vol. 75, No. 8, Aug. 23, 1999, pp. 1036-1038.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00035">
+<othercit>Boroditsky et al., &#x201c;Surface recombiantion measurements on III-V candidate materials for nanostructure light-emitting diodes,&#x201d; Journal of Applied Physics, vol. 87, No. 7, Apr. 1, 2000, pp. 3497-3504.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00036">
+<othercit>Fan et al., &#x201c; High Extraction Efficiency of Spontaneous Emission from Slabs of Photonic Crystals,&#x201d; Physical Review Letters, vol. 78, No. 17, Apr. 28, 1997, pp. 3294-3297.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00037">
+<othercit>S. Haffouz et al., &#x201c;Effect of Magnesium and Silicon on the lateral overgrowth of GaN patterned substrates by Metal Organic Vapor Phase Epitaxy, &#x201d;MRS Internet J. Nitride Semicond. Res. 3, 8 (1998), 1998-1999 The Materials Reseach Society, pp. 1 to 6.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00038">
+<othercit>T. Hamano et al. &#x201c;New Technique for Fabrication of Two-Dimensional Photonic Bandgap Crystals by Selective Epitaxy,&#x201d; Jpn. J. Appl. Phys. vol. 36 (1997), pp. L286 to L288.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00039">
+<othercit>Hwang et al., &#x201c;Spontaneous emission rate of an electric dipole in a general microcavity,&#x201d; Physical Review B, vol. 60, No. 7, Aug. 15, 1999, pp. 4688-4695.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00040">
+<othercit>Imada et al., &#x201c;Coherent two-dimensional lasing action in surface-emitting laser with triangular-lattice photonic cyrstal structure,&#x201d; Applied Physics Letters, vol. 75, No. 3, Jul. 19, 1999, pp. 316-318.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00041">
+<othercit>S. Kitamura et al, &#x201c;Fabrication of GaN Hexagonal Pyramids on Dot-Patterned GaN/Sapphire Substrates via Selective Metalorganic Vapor Phase Epitaxy,&#x201d; Jpn. J. Appl. Phys., vol. 34 (1995), Part 2, No. 9B, Sep. 15, 1995, pp. L1184 to L1186.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00042">
+<othercit>Lee et al., &#x201c;Modified spontaneous emission from a two-dimensional photonic bandgap crystal slab,&#x201d; J. Opt. Soc. Am. B, vol. 17, No. 8, Aug. 2000, pp. 1438-1442.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00043">
+<othercit>M. Nagahara et al., &#x201c;Selective Growth of Cubic GaN in Small Areas on Patterned GaAs (100) Substrates by Metalorganic Vapor Phase Epitaxy,&#x201d; Jpn. J. Appl. Phys., vol. 33 (1994), Part 1, No. 1B, Jan. 1994, pp. 694 to 697.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00044">
+<othercit>V.V. Mamutin, et al., &#x201c;Growth of Self-Organized GaN Nanostructures on Al203 (0001) by RF MBE,&#x201d; Proc. Int. Workshop on Nitride Semiconductors, IPAP Conf. Series 1, pp. 413 to 416.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00045">
+<othercit>Pottage et al., &#x201c;Vertical-cavity surface-emitting resonances in photonic crystal films,&#x201d; J. Opt. Soc. Am. A, vol. 18, No. 2, Feb. 2001, pp. 442-447.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00046">
+<othercit>G.B. Stringfellow and M. George Crawford, eds. &#x201c;High Brightness Light Emitting Diodes,&#x201d; Academic Press, Inc., 1997, Chapter5, &#x201c;AlGaInP Light-Emitting Diodes, &#x201d; by F.A. Kish and R.M. Fletcher, pp. 149-170.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00047">
+<othercit>Tiwari, S., &#x201c;Compound Semiconductor Device Physics,&#x201d; Academic Press, Inc., San Diego, CA, 1992, pp. 182-186.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00048">
+<othercit>Tredicucci et al., &#x201c;Single-mode surface-plasmon laser,&#x201d; Applied Physics Letters, vol. 76, No. 16, Apr. 17, 2000, pp. 2164-2166.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00049">
+<othercit>Vuckovic et al., &#x201c;Surface Plasmon Enhanced Light Emitting Diode,&#x201d; Journal of Quantum Electronics, vol. 36, 2000, pp. 1-13.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00050">
+<othercit>Windisch et al., &#x201c;Light-emitting diodes with 31% external quantum efficiency by outcoupling of lateral waveguide modes,&#x201d; Applied Physics Letters, vol. 74, No. 16, Apr. 19, 1999, pp. 2256-2258.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00051">
+<othercit>Xu et al.,&#x201c;Finite-difference time-domain calculation of spontaneous emission lifetime in a microcavity,&#x201d; J. Opt. Soc. Am. B, vol. 16, No. 3, Mar., 1999, pp. 465-474.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00052">
+<othercit>W. D. Zhou et al, &#x201c;Electrically injected single-defect photonic bandgap surface-emitting laser at room temperature,&#x201d; Electronic Letters, Aug. 31, 2000, vol. 36, No. 18, pp. 1541 to 1542.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00053">
+<othercit>European Search Report, 10 pages.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>10</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>438 22</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438 24</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438 47</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438708</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438717</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438 34</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438 39</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>438943</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>14</number-of-drawing-sheets>
+<number-of-figures>46</number-of-figures>
+</figures>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>10059588</doc-number>
+<kind>00</kind>
+<date>20020128</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7279718</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11868854</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080070334</doc-number>
+<kind>A1</kind>
+<date>20080320</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Krames</last-name>
+<first-name>Michael R.</first-name>
+<address>
+<city>Los Altos</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Sigalas</last-name>
+<first-name>Mihail M.</first-name>
+<address>
+<city>Santa Clara</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Wierer, Jr.</last-name>
+<first-name>Jonathan J.</first-name>
+<address>
+<city>Pleasanton</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Philips Lumileds Lighting Company, LLC</orgname>
+<role>02</role>
+<address>
+<city>San Jose</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Louie</last-name>
+<first-name>Wai-Sing</first-name>
+<department>2814</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A photonic crystal light emitting diode (&#x201c;PXLED&#x201d;) is provided. The PXLED includes a periodic structure, such as a lattice of holes, formed in the semiconductor layers of an LED. The parameters of the periodic structure are such that the energy of the photons, emitted by the PXLED, lies close to a band edge of the band structure of the periodic structure. Metal electrode layers have a strong influence on the efficiency of the PXLEDs. Also, PXLEDs formed from GaN have a low surface recombination velocity and hence a high efficiency. The PXLEDs are formed with novel fabrication techniques, such as the epitaxial lateral overgrowth technique over a patterned masking layer, yielding semiconductor layers with low defect density. Inverting the PXLED to expose the pattern of the masking layer or using the Talbot effect to create an aligned second patterned masking layer allows the formation of PXLEDs with low defect density.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="117.94mm" wi="182.12mm" file="US07642108-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="95.76mm" wi="147.83mm" file="US07642108-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="182.96mm" wi="132.93mm" orientation="landscape" file="US07642108-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="157.73mm" wi="148.42mm" file="US07642108-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="129.62mm" wi="142.83mm" file="US07642108-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="151.13mm" wi="154.69mm" file="US07642108-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="134.03mm" wi="139.45mm" file="US07642108-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="229.11mm" wi="157.65mm" file="US07642108-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="222.00mm" wi="151.81mm" file="US07642108-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="230.72mm" wi="166.45mm" file="US07642108-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="219.54mm" wi="158.92mm" file="US07642108-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="211.67mm" wi="166.37mm" file="US07642108-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="212.43mm" wi="147.49mm" file="US07642108-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="206.59mm" wi="157.56mm" file="US07642108-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="149.44mm" wi="110.32mm" orientation="landscape" file="US07642108-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a division of application Ser. No. 10/059,588, filed Jan. 28, 2002 and incorporated herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">1. Field of Invention</p>
+<p id="p-0004" num="0003">The present invention relates to light emitting diodes, more particularly to light emitting diodes with a photonic crystal structure.</p>
+<p id="p-0005" num="0004">2. Description of Related Art</p>
+<p id="p-0006" num="0005">Light emitting diodes (&#x201c;LEDs&#x201d;) are technologically and economically advantageous solid state light sources. LEDs are capable of reliably providing light with high brightness, hence in the past decades they have come to play a critical role in numerous applications, including flat-panel displays, traffic lights, and optical communications. An LED includes a forward biased p-n junction. When driven by a current, electrons and holes are injected into the junction region, where they recombine, releasing their energy by emitting photons. The quality of an LED can be characterized, for example, by its extraction efficiency that measures the intensity of the emitted light for a given number of photons generated within the LED chip. The extraction efficiency is limited, among others, by the emitted photons suffering multiple total internal reflections at the walls of the high refractive index semiconductor medium. As a result, the emitted photons do not escape into free space, leading to poor extraction efficiencies, typically less than 30%.</p>
+<p id="p-0007" num="0006">In the past thirty years, various approaches have been proposed to enhance the extraction efficiency of LEDs. The extraction efficiency can be increased, for example, by enlarging the spatial angle in which the emitted photons can escape by developing suitable geometries, including cubic, cylindrical, pyramidal, and dome like shapes. However, none of these geometries can entirely eliminate losses from total reflection.</p>
+<p id="p-0008" num="0007">A further source of loss is the reflection caused by the refractive index mismatch between the LED and the surrounding media. While such losses could be reduced with an anti-reflection coating, complete cancellation of reflection can be achieved only at a specific photon energy and one angle of incidence.</p>
+<p id="p-0009" num="0008">U.S. Pat. No. 5,955,749, entitled &#x201c;Light Emitting Device Utilizing a Periodic Dielectric Structure,&#x201d; granted to J. Joannopoulos et al., describes an approach to the problem of enhancing the extraction efficiency. According to U.S. Pat. No. 5,955,749 a photonic crystal is created by forming a lattice of holes in the semiconductor layers of the light emitting diode. The lattice of holes creates a medium with a periodically modulated dielectric constant, affecting the way light propagates through the medium. The photons of the light emitting diode can be characterized by their spectrum or dispersion relation, describing the relation between the energy and the wavelength of the photons. The spectrum of a photonic crystal consists of two classes. Photons in the radiative class have energies and wavelengths that match the spectrum of photons in free space thus the radiative photons are capable of escaping from the light emitting diode. Photons in the guided class, on the other hand, have energies and wavelengths that do not match the spectrum of photons in free space; therefore, guided photons are trapped in the light emitting diode. The guided photons are analogous to the earlier described photons, suffering total internal reflections.</p>
+<p id="p-0010" num="0009">The spectrum of guided photons in the photonic crystal consists of energy bands, or photonic bands, separated by band gaps, in analogy with the spectrum of electrons in crystalline lattices. Guided photons with energies in the band gap cannot propagate in the photonic crystal. In contrast, the spectrum of the radiative photons is a continuum, and thus has no gap. The recombinative processes in a typical LED emit photons with a well-defined energy. If, therefore, a photonic crystal is formed in the LED such that the energy of the emitted photons falls within the band gap of the photonic crystal, then all the emitted photons are emitted as radiative photons as no guided photons can exist with such energies. As described above, since all the radiative photons are capable of escaping from the LED, this design increases the extraction efficiency of the LED.</p>
+<p id="p-0011" num="0010">In an effort to explore the usefulness of photonic crystals for light generation, U.S. Pat. No. 5,955,749 gives a partial description of a theoretical structure of a photonic crystal device.</p>
+<p id="p-0012" num="0011">U.S. Pat. No. 5,955,749 describes an n-doped layer, an active layer, and a p-doped layer, and a lattice of holes formed in these layers. However, the device of U.S. Pat. No. 5,955,749 is not operational and therefore is not a LED. First, electrodes are not described, even though those are needed for the successful operation of a photonic crystal LED (&#x201c;PXLED&#x201d;). The fabrication of electrodes in regular LEDs is known in the art. However, for PXLEDs, neither the fabrication of electrodes, nor their influence on the operation of the PXLED is obvious. For example, suitably aligning the mask of the electrode layer with the lattice of holes may require new fabrication techniques. Also, electrodes are typically thought to reduce the extraction efficiency as they reflect a portion of the emitted photons back into the LED, and absorb another portion of the emitted light.</p>
+<p id="p-0013" num="0012">Second, U.S. Pat. No. 5,955,749 proposes fabricating photonic crystal light emitting devices from GaAs. GaAs is indeed a convenient and hence popular material to fabricate regular LEDs. However, it has a high &#x201c;surface recombination velocity&#x201d; of about 10<sup>6 </sup>cm/sec as described, for example, by S. Tiwari in &#x201c;Compound Semiconductor Devices Physics,&#x201d; Academic Press (1992). The surface recombination velocity expresses the rate of the recombination of electrons and holes on the surface of the diode. Electrons and holes are present in the junction region of the LED, coming from the n-doped layer and the p-doped layer, respectively. When electrons and holes recombine across the semiconductor gap, the recombination energy is emitted in the form of photons and generates light. However, when electrons and holes recombine through intermediate electronic states in the gap, then the recombination energy is emitted in the form of heat instead of photons, reducing the light emission efficiency of the LED. In an ideal crystal there are no states in the gap. Also, in today's high purity semiconductor crystals there are very few states in the gap in the bulk material. However, on the surface of semiconductors typically there are a large number of surface states and defect states, many of them in the gap. Therefore, a large fraction of electrons and holes that are close to the surface will recombine through these surface and defect states. This surface recombination generates heat instead of light, considerably reducing the efficiency of the LED.</p>
+<p id="p-0014" num="0013">This problem does not result in a serious loss of efficiency for regular LED structures. However, PXLEDs include a large number of holes, thus PXLEDs have a much larger surface area than the regular LEDs. Therefore, the surface recombination may be capable of reducing the efficiency of the PXLED below the efficiency of the same LED without the photonic crystal structure, making the formation of photonic crystal structure pointless. Since GaAs has a high surface recombination velocity, it is not a promising candidate for fabricating photonic crystal LEDs. The seriousness of the problem is reflected by the fact that so far, to Applicants' knowledge, no operating LED with a photonic crystal near the active region has been reported in the literature that uses GaAs and claims an enhanced extraction, or internal, efficiency. In particular, U.S. Pat. No. 5,955,749 does not describe the successful operation of a photonic crystal LED. Also, U.S. Pat. No. 5,955,749 does not describe the influence of the photonic crystal on the emission process, which can affect the internal efficiency of the LED.</p>
+<p id="p-0015" num="0014">While photonic crystals are promising for light extraction for the reasons described above, there are problems with the design. There are several publications describing experiments on a lattice of holes having been formed in a slab of a semiconductor. An enhancement of the extraction rate at photon energies in the bandgap has been reported by R. K. Lee et al. in &#x201c;Modified Spontaneous Emission From a Two-dimensional Photonic Bandgap Crystal Slab,&#x201d; in the Journal of the Optical Society of America B, vol. 17, page 1438 (2000). Lee et al. not only shows the extraction benefits of a photonic crystal in a light emitting design, but also shows that the photonic lattice can influence the spontaneous emission. However, Lee et al. do not show how to form and operate a light emitting device with this design. A photonic crystal LED can be formed from Lee et al.'s light emitting design by including electrodes. The addition of the electrodes, however, will substantially affect the extraction and the spontaneous emission. Since this effect is unknown, it cannot be disregarded in the design of a LED. Since the Lee et al. design does not include such electrodes, the overall characteristics of an LED, formed from that design, are unclear. This questions the usefulness of the design of Lee et al.</p>
+<p id="p-0016" num="0015">Therefore, there is a need for new designs to create operational photonic crystal LEDs. This need includes the introduction of new materials that have sufficiently low surface recombination velocities. The need also extends to designs that counteract predicted negative effects, such as reduced spontaneous emission rates and reflection by electrodes. Finally, there is a need for describing techniques for the fabrication of photonic crystal LEDs, including fabricating electrodes.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0017" num="0016">According to the invention a photonic crystal light emitting diode is provided. The PXLED includes an n-doped layer, a light emitting active layer, a p-doped layer, and electrodes for the n-doped and p-doped layers. A photonic crystal is formed as a periodic structure in the active layer, or in one of the doped layers, extending distances that are close to, or through, the active layer. In one embodiment the periodic structure is a two dimensional lattice of holes. The holes can have circular, square or hexagonal cross sections. The holes can be filled with air or with a dielectric. In another embodiment the periodic structure is periodic in only one dimension, an example of which is a set of parallel grooves. In another embodiment the dielectric constant of the PXLED can vary in one or two directions within the plane of the semiconductor layers. In another embodiment the thickness of the selected layers can vary in one or two directions within the plane of the semiconductor layers.</p>
+<p id="p-0018" num="0017">The parameters characterizing the lattice of the holes, include the lattice constant, the diameter of the holes, the depth of the holes, and the dielectric constant of the dielectric in the holes. In some embodiments these parameters are chosen such that the wavelength of the emitted light lies close to the edge of the energy bands of the photonic crystal, because close to the band edge the density of states of the photons is large. The recombination energy can be emitted much more efficiently through photons with a large density of states. Therefore, in embodiments of the present invention that emit light with energies close to the band edge, the emitted power can exceed the power emitted by the same LED without the periodic structure up to about eight times. This enhancement can be related to the presence of metal electrode layers in embodiments of the invention that enhance the efficiency and increase the emitted power of the PXLEDs.</p>
+<p id="p-0019" num="0018">The present embodiments are formed from III-Nitride compounds, which include Nitrogen and a group III element, such as Gallium, Aluminum, or Indium. III-Nitride compounds are used because their surface recombination velocities are more than ten times smaller than that of GaAs, according to M. Boroditsky et al., in J. App. Phys. vol. 87, p. 3497 (2000). As described above, a low surface recombination velocity can increase the efficiency of a PXLED above the efficiency of a regular LED without the photonic crystal structure, making GaN PXLEDs technically and economically viable candidates for improved light generation efficiency.</p>
+<p id="p-0020" num="0019">Additionally, GaN LEDs are the leading candidates for generating light in the blue and green regime of the spectrum; therefore, increasing their efficiency is highly desired. Finally, since the external quantum efficiency of GaN LEDs is often in the vicinity of 10 percent, the formation of photonic crystals can improve the efficiency of a GaN LED in a substantial manner. Here the external quantum efficiency is the product of the internal quantum efficiency and the extraction efficiency.</p>
+<p id="p-0021" num="0020">The new structure of PXLEDs uses novel fabrication techniques. Some methods of the invention create a PXLED by forming an n-doped layer, an active layer overlying the n-doped layer, a p-doped layer overlying the active layer, and a p-electrode layer overlying the p-doped layer. In some embodiments, the n-doped layer, the active layer, and the p-doped layer can include one or more layers. Next, a patterned masking layer is formed with openings, overlying the p-doped layer. Through the openings of the masking layer the p-electrode layer and the underlying semiconductor layers are removed to form a lattice of holes with suitably chosen cross sections. Finally, the masking layer is removed, and an n-electrode layer is deposited on the n-doped layer.</p>
+<p id="p-0022" num="0021">Some methods of the invention create a PXLED by forming a patterned masking layer with openings on a substrate. Then the epitaxial lateral overgrowth technique (&#x201c;ELOG&#x201d;) is used to form an n-doped layer overlying the masking layer, an active layer overlying the n-doped layer, a p-doped layer overlying the active layer, and a p-electrode layer on the p-doped layer. The ELOG technique creates semiconductor layers with a low density of defects, improving the performance and reliability of the PXLEDs. A second substrate is formed on the electrode layer and the first substrate is removed to expose the masking layer. Next, the semiconductor layers are at least partially removed through the openings of the masking layer to form a lattice of holes. Finally, the masking layer is used as the p-electrode layer, and an n-electrode layer is formed on the n-doped layer.</p>
+<p id="p-0023" num="0022">Some methods of the invention create a PXLED by forming a first masking layer on a substrate. Then the epitaxial lateral overgrowth technique is used to form an n-doped layer overlying the masking layer, an active layer overlying the n-doped layer, and a p-doped layer overlying the active layer. Next, the Talbot effect is used to form a second patterned masking layer overlying the p-doped layer, utilizing the diffraction of light across the openings of the first masking layer. Next, the semiconductor layers are at least partially removed through the openings of the first masking layer to form a lattice of holes. Finally, electrode layers are formed for both the n-doped layer and the p-doped layer.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 1</figref> illustrates a side view of an embodiment of a photonic crystal light emitting diode.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 2</figref> illustrates a side view of another embodiment of a photonic crystal light emitting diode.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 3</figref> illustrates a top view of an embodiment of a photonic crystal light emitting diode.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 4</figref> illustrates the relative emission (solid line) and extraction efficiency (dashed line) for the embodiment of <figref idref="DRAWINGS">FIG. 1</figref> as a function of a normalized frequency.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 5A</figref> illustrates the relative emission (solid line) and extraction efficiency (dashed line) for the embodiment of <figref idref="DRAWINGS">FIG. 2</figref> as a function of a normalized frequency.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 5B</figref> illustrates the product of the relative emission and the extraction efficiency as a function of a normalized frequency.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIGS. 6A-E</figref> illustrate steps of a method for making a photonic crystal light emitting diode.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIGS. 7A-F</figref> illustrate steps of another method for making a photonic crystal light emitting diode.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIGS. 8A-G</figref> illustrate steps of another method for making a photonic crystal light emitting diode.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIGS. 9A-F</figref> illustrate steps of another method for making a photonic crystal light emitting diode.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIGS. 10A-E</figref> illustrate steps of another method for making a photonic crystal light emitting diode.</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIGS. 11A-E</figref> illustrate steps of another method for making a photonic crystal light emitting diode.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIGS. 12A-E</figref> illustrate steps of another method for making a photonic crystal light emitting diode.</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 13</figref> illustrates a packaged LED.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 1</figref> illustrates an embodiment of a photonic crystal LED (&#x201c;PXLED&#x201d;) <b>100</b>. A first electrode layer <b>104</b> is formed from a thick and substantially reflective metal. In some embodiments first electrode layer <b>104</b> also serves as a substrate. In some embodiments first electrode layer <b>104</b> can overlie a substrate. Many different metals can be used for forming first electrode layer <b>104</b>, including Au, Al, Ag, and heavily doped semiconductors. An n-doped layer <b>108</b> overlies first electrode layer <b>104</b>. An active layer <b>112</b> overlies n-doped layer <b>108</b>. A p-doped layer <b>116</b> overlies active layer <b>112</b>. Finally, a second electrode layer <b>120</b> overlies p-doped layer <b>116</b>. Semiconductor layers <b>108</b>, <b>112</b>, and <b>116</b> are often referred to as epi-layers <b>124</b>. Throughout the present application the term &#x201c;layer&#x201d; can refer to either a single semiconductor layer or a multi-layer structure, where the individual layers of the multi-layer differ in dopant concentration, alloy composition, or some other physical characteristics.</p>
+<p id="p-0039" num="0038">Active layer <b>112</b> includes the junction region where the electrons of n-doped layer <b>108</b> recombine with the holes of p-doped layer <b>116</b> and emit the energy of recombination in the form of photons. Active layer <b>112</b> may include a quantum well structure to optimize the generation of photons. Many different quantum well structures have been described in the literature, for example, by G. B. Stringfellow and M. George Crawford in &#x201c;High Brightness Light Emitting Diodes,&#x201d; published by the Associated Press in 1997.</p>
+<p id="p-0040" num="0039">The photonic crystal of the PXLED is created by forming a periodic structure in the LED. The periodic structure can include a periodic variation of the thickness of p-doped layer <b>116</b>, with alternating maxima and minima. An example is a planar lattice of holes <b>122</b>-<i>i</i>, where the integer i indexes the holes. In the present embodiment holes <b>122</b>-<i>i </i>are through holes, formed in n-doped layer <b>108</b>, in active layer <b>112</b>, and in p-doped layer <b>116</b>. In some embodiments holes <b>122</b>-<i>i </i>are formed in p-doped layer <b>116</b> and active layer <b>112</b>. In some embodiments holes <b>122</b>-<i>i </i>are formed only in p-doped layer <b>116</b>, extending to the proximity of active layer <b>112</b>. For example, holes <b>122</b>-<i>i </i>can extend to within one wavelength of the emitted light&#x2014;in the p-doped layer <b>116</b>&#x2014;from active layer <b>112</b>. In some embodiments the ratio of the period of the periodic structure and the wavelength of the emitted light&#x2014;in air&#x2014;lies in the range of about 0.1 to about 5. In embodiments, with period&#x2014;to&#x2014;wavelength ratios in the 0.1 to 5 range, the formation of the photonic crystal may significantly influence the efficiency of PXLED <b>100</b>.</p>
+<p id="p-0041" num="0040">Holes <b>122</b>-<i>i </i>can have circular, square, hexagonal, and several other types of cross sections. Also, holes <b>122</b>-<i>i </i>can be filled with air or with a dielectric of dielectric constant &#x2208;<sub>h</sub>, differing from the dielectric constant of epi-layers <b>124</b>. Possible dielectrics include silicon oxide.</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 2</figref> illustrates another embodiment of the invention. PXLED <b>100</b> is formed on host substrate <b>102</b>, n-doped layer <b>108</b> overlying host substrate <b>102</b>, active layer <b>112</b> overlying n-doped layer <b>108</b>, p-doped layer <b>116</b> overlying active layer <b>112</b>, and second electrode layer <b>120</b> overlying p-doped layer <b>116</b>. In this embodiment n-electrode layer <b>104</b> is formed overlying an area of n-doped layer <b>108</b> away from the photonic crystal, making the fabrication of n-electrode layer <b>104</b> technologically simple. The fabrication of such embodiments is described, for example, in U. S. Pat. No. 6,307,218 B1, &#x201c;Electrode Structures of Light Emitting Devices,&#x201d; by D. Steigerwald et al., hereby incorporated in its entirety by this reference.</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 3</figref> illustrates a photonic crystal structure, formed as a triangular lattice of holes <b>122</b>-<i>i</i>. The lattice is characterized by the diameter of holes <b>122</b>-<i>i, d</i>, the lattice constant a, which measures the distance between the centers of nearest neighbor holes, the depth of the holes w (shown e.g. in <figref idref="DRAWINGS">FIG. 1</figref>), and the dielectric constant of the dielectric, disposed in the holes, &#x2208;<sub>h</sub>. The PXLED parameters a, d, w, and &#x2208;<sub>h </sub>influence the density of states of the bands, and in particular, the density of states at the band edges of the photonic crystal's spectrum.</p>
+<p id="p-0044" num="0043">The lattice structure of the lattice of holes <b>122</b>-<i>i </i>also influences the efficiency. In various embodiments, holes <b>122</b>-<i>i </i>form square, hexagonal, honeycomb, and other well-known two-dimensional lattices.</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 4</figref> illustrates the efficiency of a particular embodiment of <figref idref="DRAWINGS">FIG. 1</figref>. While the efficiency indicators will be described in relation to a particular embodiment of <figref idref="DRAWINGS">FIG. 1</figref>, in analogous embodiments the efficiency indicators demonstrate analogous behavior. In this particular embodiment of <figref idref="DRAWINGS">FIG. 1</figref> epi-layers <b>124</b> are made from AlGaInN, with a suitably chosen alloying stoichiometry of the elements Al, Ga, In, and N. N-doped layer <b>108</b> is doped with silicon and p-doped layer <b>116</b> is doped with magnesium. N-doped layer <b>108</b> and p-doped layer <b>116</b> are designed for efficient carrier injection into active layer <b>112</b>. Active layer <b>112</b> includes InGaN layers, forming quantum wells, sandwiched between n-type InGaN layers with lower In concentration. The wavelength &#x3bb; of the emitted light can be tuned by suitably choosing the In concentration and thickness of the quantum wells. First and second electrode layers <b>104</b> and <b>120</b> are formed of highly reflective and low loss materials, including Ag, Al, and Au based electrode materials. The lattice is a triangular lattice as shown in <figref idref="DRAWINGS">FIG. 3</figref>. The total thickness of epi-layers <b>124</b> are between 0.375 a and 2 a and the hole diameter d is 0.72 a. The first electrode <b>104</b> has a thickness of a, or greater, and the second electrode <b>120</b> has a thickness of 0.03 a. The location of the active layer <b>112</b> is 0.0625 a away from the center of epi-layers <b>124</b>, closer to first electrode layer <b>104</b>. The efficiency of PXLED <b>100</b> is sensitive to the location of active layer <b>112</b>.</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 4</figref> illustrates two indicators of the efficiency of the above particular embodiment of <figref idref="DRAWINGS">FIG. 1</figref>. The solid line indicates the relative emission, while the dashed line indicates the extraction efficiency. The relative emission is defined as the ratio of the total power emitted in the form of light by an LED with a photonic crystal structure, divided by the total power emitted by the same LED, but without the periodic structure. The efficiency indicators are shown in <figref idref="DRAWINGS">FIG. 4</figref> as a function of the photon frequency v, normalized by c/a, wherein c is the speed of light&#x2014;in air&#x2014;and a is the lattice spacing. The photon frequency v and the photon energy E are related through the well-known relation: E=hv, where h is Planck's constant. As illustrated in <figref idref="DRAWINGS">FIG. 4</figref>, the relative emission shows a maximum in the vicinity of the value v/(c/a)=0.70. The relative emission of PXLED <b>100</b> is approximately eight times larger at the maximum compared to the relative emission of the same LED, but without the photonic crystal structure. The extraction efficiency of PXLED <b>100</b> is relatively flat as a function of the frequency. The total efficiency of PXLED <b>100</b> is proportional to the product of these quantities, clearly showing that forming a photonic crystal in an LED enhances the total efficiency and thus the emitted power, if the parameters of PXLED <b>100</b> are chosen suitably.</p>
+<p id="p-0047" num="0046">In this embodiment the lattice is designed so that a maximum of the relative emission, and thus the total efficiency, occurs at or near the frequency of the emitted light. In the embodiment of <figref idref="DRAWINGS">FIG. 4</figref> the maximum of the relative emission occurs around the frequency of v=0.7(c/a). Therefore, in a PXLED where the active layer emits light with wavelength &#x3bb;, a local maximum of the relative emission will substantially coincide with the frequency of the emitted light, if the lattice spacing of the photonic crystal a is about 0.7&#x3bb;. Here the relation &#x3bb;v=c has been used to connect the wavelength &#x3bb; and the frequency v. For example, if the wavelength of the emitted light &#x3bb; is 530 nm, then the lattice spacing a is 371 nm.</p>
+<p id="p-0048" num="0047">The analysis of the band structure and the corresponding density of states reveal that the above enhancement of the power occurs at energies close to the band edge. The density of the photons is large close to the band edge. The rate of spontaneous emission is proportional to the density of states. Thus, a large density of states enhances the rate of spontaneous emission. Therefore, embodiments are designed so that the energy of the emitted light lies close to the band edge, thus enhancing the efficiency of the PXLED. Furthermore, the PXLED parameters a, d, w, and &#x3bb;<sub>h</sub>, and the design of the electrode layers can be selected to enhance the extraction efficiency as well, maximizing the total efficiency of the PXLED. The efficiency of the PXLED shows significant sensitivity to the presence and design of the electrode layers.</p>
+<p id="p-0049" num="0048">In other embodiments typical values of the lattice spacing a lie between about 0.1&#x3bb; and about 10&#x3bb;, preferably between about 0.1&#x3bb; and about 4&#x3bb;. Typical values for the hole diameter d lie between about 0.1 a and about 0.5 a. Typical values of the depth of the hole w lie between zero and the full thickness of epi-layers <b>124</b>. Finally, &#x2208;<sub>h </sub>typically lies between 1 and about 16.</p>
+<p id="p-0050" num="0049">In embodiments, where epi-layers <b>124</b> have a total thickness of about 2 a or higher, the maximum value of the relative emission is 2-3 fold smaller. In these embodiments the maximum value is less sensitive to the presence or absence of electrode layers <b>104</b> and <b>120</b>.</p>
+<p id="p-0051" num="0050">In embodiments, where the electrode layers have substantial dissipative properties, such as a substantial imaginary part of the refractive index n, the design parameters may differ considerably from the above-described values. The efficiency of the emission depends on the polarization of the emitted light. However, PXLEDs with a honeycomb lattice of holes are capable of emitting light with an emission efficiency that is polarization insensitive.</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. 5A</figref> shows the two indicators of the efficiency of the embodiment of <figref idref="DRAWINGS">FIG. 2</figref>. While the efficiency indicators will be described in relation to a particular embodiment of <figref idref="DRAWINGS">FIG. 2</figref>, in analogous embodiments the efficiency indicators demonstrate analogous behavior. In the embodiment of <figref idref="DRAWINGS">FIG. 2</figref>, epi-layers <b>124</b> are only partially removed in holes <b>122</b>-<i>i</i>. The depth of holes <b>122</b>-<i>i </i>is 2 a in this particular embodiment. In this particular embodiment of <figref idref="DRAWINGS">FIG. 3</figref>, the total thickness of epi-layers <b>124</b> is greater than about 2 a, for example 6 a. The air-filled holes have a diameter d of about 0.72 a, and the depth of the holes is about 2 a. Similar results hold for hole diameters lying in the range of about 0.3 a and about a. Second electrode layer <b>120</b> has a thickness of about 0.09 a, and active layer <b>112</b> is formed with a thickness of about 0.5 a.</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. 5A</figref> illustrates two indicators of the efficiency of the above particular embodiment of <figref idref="DRAWINGS">FIG. 2</figref>. Again, the solid line indicates the relative emission, while the dashed line indicates the extraction efficiency. In analogy with <figref idref="DRAWINGS">FIG. 4</figref>, the relative emission shows an enhancement with a maximum of about 2.7 at a frequency of about v=0.325(c/a). Furthermore, in this embodiment the extraction rate also varies as a function of the frequency, unlike in <figref idref="DRAWINGS">FIG. 4</figref>. In particular, the extraction rate exhibits broad maxima in the 0.3(c/a) to 0.45(c/a) range, and around 0.65(c/a).</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. 5B</figref> illustrates the product of the extraction efficiency and the relative emission, the two quantities shown in <figref idref="DRAWINGS">FIG. 5A</figref>. As mentioned before, the total efficiency of the PXLED is proportional to this product. As demonstrated by <figref idref="DRAWINGS">FIG. 5B</figref>, the emitted power of this embodiment is once again greater than that of the corresponding LED without the photonic crystal structure.</p>
+<p id="p-0055" num="0054">According to <figref idref="DRAWINGS">FIG. 5B</figref>, the total efficiency shows maxima at the normalized frequencies of about v=0.325(c/a) and about v=0.63(c/a). Therefore, in a PXLED where the active layer emits light with wavelength A, local maxima of the relative emission will substantially coincide with the frequency of the emitted light, if the lattice spacing of the photonic crystal a is about a=0.325&#x3bb; or about a=0.63&#x3bb;. Here again the relation &#x3bb;v=c has been used to connect the wavelength &#x3bb; and the frequency v. For example if the emitted wavelength &#x3bb; is 530 nm then the lattice spacing a can be suitably chosen to be about 172 nm or about 334 nm.</p>
+<p id="p-0056" num="0055">Some embodiments show a resonant behavior at some frequencies. At these resonant frequencies the pattern of emission can be different from the emission at other frequencies. For example, in the vicinity of the frequency v/(c/a)=0.54 the embodiment of <figref idref="DRAWINGS">FIG. 2</figref> radiates its power mostly towards the second electrode layer instead of the first electrode layer, resulting in a minimum of the extraction efficiency. The existence of this minimum once again underscores the importance of the electrode layers. This effect can be used to design PXLEDs that emit a large fraction of the generated light into a selected direction.</p>
+<p id="p-0057" num="0056">In embodiments, where the electrode layers <b>104</b> and <b>120</b> have substantial dissipative properties, such as a substantial imaginary part of the refractive index n, the design parameters may differ considerably from the above-described values.</p>
+<p id="p-0058" num="0057">The periodic structure can be made three-dimensional by creating a variation of the dielectric constant of one or more selected semiconductor layers in the direction normal to the plane of the layers besides the already formed two-dimensional periodic structure. This can be achieved, for example, by forming several structural layers within a selected semiconductor layer, the structural layers having two different alloy compositions in an alternating manner.</p>
+<p id="p-0059" num="0058">In some embodiments the periodic structure is a variation of the thickness of one or more selected semiconductor layers. The periodic structure can include variations of the thickness along one direction within the plane of the semiconductor layers, but extending along a second direction without variation, in essence forming a set of parallel grooves. Two-dimensional periodic variations of the thickness include various lattices of indentations.</p>
+<p id="p-0060" num="0059">While the present embodiment and further embodiments below are described having an n-doped layer deposited first and a p-doped layer formed overlying the n-doped layer, LEDs with the opposite architecture, where a p-doped layer is deposited first and an n-doped layer is formed overlying the p-doped layer, are also understood to be within the scope of the invention.</p>
+<p id="p-0061" num="0060">As explained above, semiconductors with low surface recombination velocities are promising candidates for forming PXLEDs. Electrons and holes recombining on the surface via mid-gap states release their energy in the form of heat instead of light. Therefore, the surface acts as a current sink, reducing the efficiency of PXLEDs. The reduction of efficiency is high in PXLEDS formed from semiconductors with high surface recombination velocities, such as GaAs. In fact, the efficiency of GaAs PXLEDs can be reduced below the efficiency of GaAs LEDs with the same architecture, but without the photonic crystal structure. For this reason, fabricating PXLEDs from GaAs does not offer significant advantages.</p>
+<p id="p-0062" num="0061">In contrast, forming a photonic crystal structure in GaN LEDs can significantly increase the efficiency of the GaN LEDs, because GaN has a much lower surface recombination velocity than GaAs.</p>
+<p id="p-0063" num="0062">Therefore, in embodiments of the present invention epi-layers <b>124</b> are formed from semiconductors with low surface recombination velocities. Suitable choices include III-Nitride semiconductors, formed from Nitrogen and a group III element, such as Gallium. The advantages of this choice can be appreciated by noting that the surface recombination velocity of GaAs is about 10<sup>6 </sup>cm/sec, whereas the surface recombination velocity of GaN is about 3&#xd7;10<sup>4 </sup>cm/sec. The low surface recombination velocity makes the surface recombination process much weaker in GaN than in GaAs. Furthermore, the diffusion length of carriers in GaN is also much smaller than in GaAs. Therefore, much fewer carriers diffuse onto to the surface in GaN than in GaAs during traversing the LED. The smallness of the number of carriers, reaching the surface by diffusion, further weakens the already weak surface recombination process.</p>
+<p id="p-0064" num="0063">III-Nitride LEDs can also be formed using AlGaN, InGaN or combinations thereof.</p>
+<p id="p-0065" num="0064">The novel structure of the PXLEDs can be fabricated in novel ways. <figref idref="DRAWINGS">FIGS. 6A-D</figref> illustrate a method of fabricating PXLEDs.</p>
+<p id="p-0066" num="0065"><figref idref="DRAWINGS">FIG. 6A</figref> illustrates the step of forming PXLED <b>100</b> on host substrate <b>102</b>, which can be, for example, sapphire. N-doped layer <b>108</b>, active layer <b>112</b>, p-doped layer <b>116</b>, and second electrode layer <b>120</b> are formed by usual deposition techniques. Masking layer <b>128</b> is formed overlying second electrode layer <b>120</b>.</p>
+<p id="p-0067" num="0066"><figref idref="DRAWINGS">FIG. 6B</figref> illustrates the step of patterning lattice of openings <b>130</b>-<i>i </i>into masking layer <b>128</b> using a high resolution lithography technique, such as electron beam lithography, nano-imprint lithography, deep X-ray lithography, interferometric lithography, hot embossing or microcontact printing.</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. 6C</figref> illustrates the step of at least partially removing epi-layers <b>124</b> corresponding to lattice of openings <b>130</b>-<i>i </i>of masking layer <b>128</b>. In <figref idref="DRAWINGS">FIG. 6C</figref> n-doped layer <b>108</b> is removed only partially. Approximately vertical walls can be achieved by using dry etching techniques. The damage caused by a dry etching can be reduced by a subsequent short wet chemical etching, annealing, a combination thereof or other surface passivation techniques.</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIG. 6D</figref> illustrates the step of removing masking layer <b>128</b>. This step exposes second electrode layer <b>120</b> that can hence be used to provide electrical contact to p-doped layer <b>116</b>. Finally, first electrode layer <b>104</b> is formed on a region of n-doped layer <b>108</b>, from where p-doped layer <b>116</b> and active layer <b>112</b> have been removed. In some embodiments n-doped layer <b>108</b> has been partially removed as well in that region. First electrode layer <b>104</b> can be formed in a region of n-doped layer <b>108</b> that is displaced from the photonic crystal structure, making its fabrication easier. Lateral compact geometries for the formation of first electrode layer <b>104</b> have been described in U.S. Pat. No. 6,307,218 B1, &#x201c;Electrode Structures of Light Emitting Devices,&#x201d; by D. Steigerwald et al.</p>
+<p id="p-0070" num="0069">In LEDs the currents flow between first electrode layer <b>104</b> and second electrode layer <b>120</b>. Since in the above-described embodiments first electrode layer <b>104</b> and second electrode layer <b>120</b> are formed at horizontally removed areas, the flow of the currents includes substantially horizontal pathways.</p>
+<p id="p-0071" num="0070">In some embodiments host substrate <b>102</b> is a good conductor, thus first electrode layer <b>104</b> can be deposited on host substrate <b>102</b> directly. In these embodiments the pathways of the currents are substantially vertical across epi-layers <b>124</b>.</p>
+<p id="p-0072" num="0071">Some embodiments emit most of the generated light through host substrate <b>102</b>, while other embodiments emit most of the light through the side opposite to host substrate <b>102</b>, sometimes referred to as the top of the LED. In substrate-emitting PXLEDs host substrate <b>102</b> is formed from a substantially transparent material and second electrode layer <b>120</b> is formed from a substantially reflective or opaque material. In top-emitting PXLEDs host substrate <b>102</b> is formed from a substantially reflective or opaque material. In some embodiments a reflective layer is deposited on host substrate <b>102</b>.</p>
+<p id="p-0073" num="0072"><figref idref="DRAWINGS">FIG. 6E</figref> illustrates that in some embodiments where host substrate <b>102</b> is conductive first electrode layer <b>104</b> can be formed on the side of host substrate <b>102</b> opposite of epi-layers <b>124</b>. In these embodiments the current pathways are substantially vertical across the entire PXLED <b>100</b>.</p>
+<p id="p-0074" num="0073"><figref idref="DRAWINGS">FIGS. 7A-F</figref> illustrate another method of fabricating PXLEDs. This epitaxial lateral overgrowth (&#x201c;ELOG&#x201d;) technique can be useful, for example, for III-Nitride based semiconductor structures, such as GaN-based LEDs. GaN semiconductors have an unusually large concentration of defects, including fractures and dislocations. This high defect concentration can lead to poor reliability, reduced efficiency, and diminished brightness. Many of the defects are nucleated by the surface of the growth substrate. The ELOG technique reduces the defect concentration, significantly reducing the above detrimental effects.</p>
+<p id="p-0075" num="0074"><figref idref="DRAWINGS">FIG. 7A</figref> illustrates the step of forming masking layer <b>128</b> on first substrate <b>102</b>. Lattice of openings <b>130</b>-<i>i </i>can be formed in masking layer <b>128</b> by high resolution lithographic techniques, such as electron beam lithography, nano-imprint lithography, deep X-ray lithography, interferometric lithography, hot embossing or microcontact printing.</p>
+<p id="p-0076" num="0075"><figref idref="DRAWINGS">FIG. 7B</figref> illustrates the step of forming n-doped layer <b>108</b> overlying first substrate <b>102</b> and masking layer <b>128</b>. Active layer <b>112</b> is formed overlying n-doped layer <b>108</b>, and p-doped layer <b>116</b> is formed overlying active layer <b>112</b>. A feature of the ELOG technique is that n-doped layer <b>108</b> primarily grows starting from first substrate <b>102</b> through lattice of openings <b>130</b>-<i>i. </i>Thus, the growing n-doped layer <b>108</b> spreads out laterally into regions <b>138</b>-<i>i, </i>rather than grow straight up from masking layer <b>128</b>.</p>
+<p id="p-0077" num="0076">The defects are typically nucleated by first substrate <b>102</b>, and hence will originate primarily in lattice of openings <b>130</b>-<i>i</i>. As the growth of n-doped layer <b>108</b> spreads out into regions <b>138</b>-<i>i</i>, defects and dislocations tend to turn out and annihilate one another in the overgrown region. Therefore, the defect concentration will be high in defect-rich regions <b>134</b>-<i>i </i>directly above lattice of openings <b>130</b>-<i>i</i>, whereas the defect concentration will be low in defect-poor regions <b>138</b>-<i>i</i>, between lattice of openings <b>130</b>-<i>i. </i></p>
+<p id="p-0078" num="0077"><figref idref="DRAWINGS">FIG. 7C</figref> illustrates the step of forming bonding layer <b>121</b> and second substrate <b>142</b> overlying p-doped layer <b>116</b>. Bonding layer <b>121</b> bonds epi-layers <b>124</b> to second substrate <b>142</b>.</p>
+<p id="p-0079" num="0078"><figref idref="DRAWINGS">FIG. 7D</figref> illustrates the step of removing first substrate <b>102</b> from epi-layers <b>124</b> using laser lift-off, or etching techniques.</p>
+<p id="p-0080" num="0079"><figref idref="DRAWINGS">FIG. 7E</figref> illustrates the step of using masking layer <b>128</b> to form holes <b>122</b>-<i>i </i>by an etching procedure. For example, dry etching can be used to ensure that the walls of holes <b>122</b>-<i>i </i>are approximately vertical. The openings <b>130</b>-<i>i </i>of masking layer <b>128</b> are aligned with defect-rich regions <b>134</b>-<i>i. </i>Therefore, the etching step removes the regions with high defect density. Therefore, only the epi-layers <b>124</b> that were formed in the defect-poor regions <b>138</b>-<i>i </i>are left by this etching step, yielding a PXLED <b>100</b> with low defect density and thus high quality.</p>
+<p id="p-0081" num="0080"><figref idref="DRAWINGS">FIG. 7F</figref> illustrates the step of removing masking layer <b>128</b>, and forming first electrode layer <b>104</b> on top of defect-poor regions <b>138</b>-<i>i</i>. First electrode layer <b>104</b> can be formed, for example, by deposition from an angle. This technique minimizes the deposition of contact materials inside holes <b>122</b>-<i>i</i>. Second electrode layer <b>120</b> can be formed at horizontally removed areas.</p>
+<p id="p-0082" num="0081">In some embodiments masking layer <b>128</b> itself can serve as first electrode layer <b>104</b>. In these embodiments masking layer <b>128</b> is not removed.</p>
+<p id="p-0083" num="0082">In substrate-emitting PXLEDs bonding layer <b>121</b> is substantially transparent, formed from, for example, indium tin oxide (&#x201c;ITO&#x201d;). Second substrate <b>142</b> is also substantially transparent, formed from, for example, sapphire, silicon carbide or glass. First electrode layer <b>104</b> is substantially reflective or opaque, formed from, for example, Ag, Al or Au.</p>
+<p id="p-0084" num="0083">In top-emitting PXLEDs, at least one of bonding layer <b>121</b> and second substrate <b>142</b> are substantially reflective or opaque. Bonding layer <b>121</b> or second substrate <b>142</b> can be made reflective, for example, by forming a substantially reflective overlying layer.</p>
+<p id="p-0085" num="0084"><figref idref="DRAWINGS">FIGS. 8A-G</figref> illustrate a related method of fabricating PXLEDs. The steps shown in <figref idref="DRAWINGS">FIGS. 8A-D</figref> are the same as in <figref idref="DRAWINGS">FIGS. 7A-D</figref>.</p>
+<p id="p-0086" num="0085"><figref idref="DRAWINGS">FIG. 8E</figref> illustrates the step of forming photosensitive layer <b>148</b>. The transparency of masking layer <b>128</b> is low. To capitalize on this property, a negative photosensitive layer <b>148</b> is deposited over the surface from where first substrate <b>102</b> has been removed. Negative photosensitive layer <b>148</b> is deposited over masking layer <b>128</b> and defect-rich regions <b>134</b>-<i>i</i>. Next, light is shone through second substrate <b>142</b>, reaching photosensitive layer <b>148</b> across epi-layers <b>124</b>. Negative photosensitive layer <b>148</b> changes its chemical composition where it is exposed to the incident light. This change in chemical composition makes it possible to remove negative photosensitive layer <b>148</b> overlying masking layer <b>128</b>, where it has not been exposed to light, while keeping it in place overlying defect-rich regions <b>134</b>-<i>i</i>. Next, masking layer <b>128</b> s removed as well. This procedure creates a planar lattice of aligned mask-layers <b>148</b>-<i>i </i>overlying defect-rich regions <b>134</b>-<i>i. </i></p>
+<p id="p-0087" num="0086">Next, first electrode layer <b>104</b> is deposited overlying the planar lattice of aligned mask-layers <b>148</b>-<i>i. </i></p>
+<p id="p-0088" num="0087"><figref idref="DRAWINGS">FIG. 8F</figref> illustrates the next step, in which first electrode layer <b>104</b> is partially removed by the lift-off of planar lattice of aligned mask-layers <b>148</b>-<i>i</i>. This step exposes n-doped layer <b>108</b> in defect-rich regions <b>134</b>-<i>i</i>, but still leaves n-doped layer <b>108</b> covered by first electrode layer <b>104</b> in defect-poor regions <b>138</b>-<i>i. </i></p>
+<p id="p-0089" num="0088"><figref idref="DRAWINGS">FIG. 8G</figref> illustrates the formation of holes <b>122</b>-<i>i </i>by etching, which leaves first electrode layer <b>104</b> in place, but removes the exposed epi-layers <b>124</b> in defect-rich regions <b>138</b>-<i>i</i>. First electrode layer <b>104</b> is used as an etch mask in this step. Epi-layers <b>124</b> can be removed completely or partially to form holes <b>122</b>-<i>i</i>. In some embodiments dry etching is used to make the walls of holes <b>122</b>-<i>i </i>approximately vertical. After this step the remaining portions of first electrode layer <b>104</b> are electrically coupled only to n-doped layer <b>108</b>.</p>
+<p id="p-0090" num="0089">Because of the ELOG technique lattice of openings <b>130</b>-<i>i </i>of masking layer <b>128</b> are aligned with defect-rich regions <b>134</b>-<i>i</i>. Therefore, the etching step of <figref idref="DRAWINGS">FIG. 8G</figref> substantially removes defect-rich regions <b>134</b>-<i>i</i>, substantially leaving defect-poor regions <b>138</b>-<i>i </i>in place. Thus, LEDs created by the ELOG technique have low defect density, reducing the mentioned detrimental effects, including poor reliability, reduced efficiency, and diminished brightness.</p>
+<p id="p-0091" num="0090">In the next step second electrode layer <b>120</b> is formed over a region of p-doped layer <b>116</b> that is displaced from the photonic crystal structure, making its fabrication easier.</p>
+<p id="p-0092" num="0091">In substrate-emitting PXLEDs bonding layer <b>121</b> is substantially transparent, formed from, for example, indium tin oxide (&#x201c;ITO&#x201d;). Second substrate <b>142</b> is also substantially transparent, formed from, for example, sapphire, silicon carbide or glass. First electrode layer <b>104</b> is substantially reflective or opaque, formed from, for example, Ag, Al or Au.</p>
+<p id="p-0093" num="0092">In top-emitting PXLEDs, at least one of bonding layer <b>121</b> and second substrate <b>142</b> are substantially reflective or opaque. Bonding layer <b>121</b> or second substrate <b>142</b> can be made reflective, for example, by forming a substantially reflective overlying layer.</p>
+<p id="p-0094" num="0093">In some embodiments the order of deposition of n-doped layer and p-doped layer is reversed, thus layer <b>108</b> is p-doped, while layer <b>116</b> is n-doped.</p>
+<p id="p-0095" num="0094"><figref idref="DRAWINGS">FIGS. 9A-F</figref> illustrate a related method of fabricating PXLEDs. The steps, shown in <figref idref="DRAWINGS">FIGS. 9A-D</figref> are the same as in <figref idref="DRAWINGS">FIGS. 8A-D</figref>.</p>
+<p id="p-0096" num="0095"><figref idref="DRAWINGS">FIG. 9E</figref> illustrates the next step, in which masking layer <b>128</b> is used as an etch layer. Therefore, defect-rich regions <b>134</b>-<i>i </i>are partially removed in this step, creating holes <b>122</b>-<i>i </i>where lattice of openings <b>130</b>-<i>i </i>of masking layer <b>128</b> were originally located. After the formation of holes <b>122</b>-<i>i </i>masking layer <b>128</b> is removed. After the formation of holes <b>122</b>-<i>i</i>, the total thickness of epi-layers <b>124</b> can be optimized by further etching or other techniques.</p>
+<p id="p-0097" num="0096"><figref idref="DRAWINGS">FIG. 9F</figref> illustrates the next step, in which holes <b>122</b>-<i>i </i>are filled up with a non-conducting material <b>143</b> to make the upper surface of the device approximately flat. Non-conducting material can be, for example, a spin-on-glass (&#x201c;SOG&#x201d;). Then first electrode layer <b>104</b> is deposited over the approximately flat upper surface, formed by n-doped layer <b>108</b> and non-conducting material <b>143</b>. By this architecture first electrode layer <b>104</b> is electrically coupled only to n-doped layer <b>108</b>. Next, second electrode layer <b>120</b> is formed over a region of p-doped layer <b>116</b> that is displaced from the photonic crystal structure, making its fabrication easier. In analogy to the embodiment of <figref idref="DRAWINGS">FIGS. 8A-G</figref>, the PXLED fabricated by the method of <figref idref="DRAWINGS">FIGS. 9A-F</figref> can be a substrate-emitting or a top-emitting device.</p>
+<p id="p-0098" num="0097">Since in the above-described embodiments first electrode layer <b>104</b> and second electrode layer <b>120</b> are formed at horizontally removed areas, the flow of the currents includes substantially horizontal pathways.</p>
+<p id="p-0099" num="0098">In some embodiments second substrate <b>142</b> is a good conductor, thus second electrode layer <b>120</b> can be deposited on epi-layers <b>124</b> directly, or bonding layer <b>121</b> can act as a second electrode layer. In these embodiments the pathways of the currents are substantially vertical across epi-layers <b>124</b>.</p>
+<p id="p-0100" num="0099"><figref idref="DRAWINGS">FIGS. 10A-E</figref> illustrate another method of fabricating PXLEDs. This method again utilizes the epitaxial lateral overgrowth, or ELOG, technique that can be useful, for example, for III-Nitride based semiconductor structures, such as GaN-based LEDs.</p>
+<p id="p-0101" num="0100"><figref idref="DRAWINGS">FIG. 10A</figref> illustrates the step of forming masking layer <b>128</b> on host substrate <b>102</b>. Lattice of openings <b>130</b>-<i>i </i>can be formed in masking layer <b>128</b> by high resolution lithographic techniques, such as electron beam lithography, nano-imprint lithography, deep X-ray lithography, interferometric lithography, hot embossing or microcontact printing.</p>
+<p id="p-0102" num="0101"><figref idref="DRAWINGS">FIG. 10B</figref> illustrates the step of forming n-doped layer <b>108</b> overlying first substrate <b>102</b> and masking layer <b>128</b>. Active layer <b>112</b> is formed overlying n-doped layer <b>108</b>, and p-doped layer <b>116</b> is formed overlying active layer <b>112</b>. A feature of the ELOG technique is that n-doped layer <b>108</b> primarily grows starting from first substrate <b>102</b> through lattice of openings <b>130</b>-<i>i</i>. Thus, the growing n-doped layer <b>108</b> spreads out laterally into regions <b>138</b>-<i>i</i>, rather than grow straight up from masking layer <b>128</b>.</p>
+<p id="p-0103" num="0102">The defects are typically nucleated by first substrate <b>102</b>, and hence will originate primarily in lattice of openings <b>130</b>-<i>i</i>. As the growth of n-doped layer <b>108</b> spreads out into regions <b>138</b>-<i>i</i>, the defects and dislocations tend to turn out and annihilate one another in the overgrown region. Therefore, the defect concentration will be high in defect-rich regions <b>134</b>-<i>i </i>directly above lattice of openings <b>130</b>-<i>i</i>, whereas the defect concentration will be low in defect-poor regions <b>138</b>-<i>i</i>, between lattice of openings <b>130</b>-<i>i. </i></p>
+<p id="p-0104" num="0103"><figref idref="DRAWINGS">FIG. 10C</figref> illustrates the step of aligning the openings of a masking layer with defect-rich regions <b>134</b>-<i>i</i>. The method utilizes the Talbot effect, described by W. H. F. Talbot in &#x201c;Facts relating to optical science, No. IV,&#x201d; Philosophical Magazine, vol. 9, p. 401-407, published by Taylor and Francis in 1836.</p>
+<p id="p-0105" num="0104">According to the Talbot effect, periodic structures of period length a form images of themselves at integer multiples of the distance D=2 a<sup>2</sup>/&#x3bb; through Fresnel diffraction, when illuminated by a coherent light with a planar wave front, having a wavelength &#x3bb; in the material.</p>
+<p id="p-0106" num="0105">In order to make use of the Talbot effect, the thickness of epi-layers <b>124</b> is chosen to be D, or an integer multiple of D. Further, substrate <b>102</b> is formed from a substantially transparent material, and masking layer is formed from a substantially non-transparent material. Also, a photosensitive layer <b>149</b> is deposited overlying p-doped layer <b>116</b>. The Talbot effect is utilized by perpendicularly shining a light with a planar wave front at the side of substrate <b>102</b> opposite to epi-layers <b>124</b>. Only that part of the light will enter epi-layers <b>124</b>, which was incident at lattice of openings <b>130</b>-<i>i</i>. The light, propagating through lattice of openings <b>130</b>-<i>i</i>, creates the image of the lattice of openings <b>130</b>-<i>i </i>at a distance D because of the Talbot effect. Thus, photosensitive layer <b>149</b> will be exposed to the image of lattice of openings <b>130</b>-<i>i</i>. The exposed regions of photosensitive layer <b>149</b> are removed in a subsequent step to create aligned openings <b>150</b>-<i>i</i>. The Talbot effect can be achieved in the present embodiment, for example, by using a near collimated light source.</p>
+<p id="p-0107" num="0106"><figref idref="DRAWINGS">FIG. 10D</figref> illustrates the step of using aligned openings for forming holes <b>122</b>-<i>i</i>. For example, dry etching can be used to ensure that the walls of holes <b>122</b>-<i>i </i>will be approximately vertical. By virtue of the Talbot effect aligned openings <b>150</b>-<i>i </i>are aligned with defect-rich regions <b>134</b>-<i>i</i>. Therefore, the etching step removed defect-rich regions <b>134</b>-<i>i</i>, so that the remaining epi-layers <b>124</b> substantially consist of defect-poor regions <b>138</b>-<i>i</i>. Therefore, PXLEDs created by this technique will have low defect density. After the etching step, photosensitive layer <b>149</b> is removed.</p>
+<p id="p-0108" num="0107"><figref idref="DRAWINGS">FIG. 10E</figref> illustrates the step of forming first electrode layer <b>104</b> overlying n-doped layer <b>108</b>, and second electrode layer <b>120</b> overlying p-doped layer <b>116</b>. First electrode layer <b>104</b> is formed over a region of n-doped layer <b>108</b> that is displaced from the photonic crystal structure, making its fabrication easier. Second electrode layer <b>120</b> is formed can be formed, for example, by deposition from an angle. This technique minimizes the deposition of contact materials inside holes <b>122</b>-<i>i. </i></p>
+<p id="p-0109" num="0108"><figref idref="DRAWINGS">FIGS. 11A-E</figref> illustrate a method, related to the method of <figref idref="DRAWINGS">FIGS. 10A-E</figref>. The steps of <figref idref="DRAWINGS">FIGS. 11A and 11B</figref> are the same as the steps of <figref idref="DRAWINGS">FIGS. 10A and 10B</figref>.</p>
+<p id="p-0110" num="0109"><figref idref="DRAWINGS">FIG. 11C</figref> illustrates a different way of utilizing the Talbot effect. The thickness of epi-layers <b>124</b> is chosen to be D, or an integer multiple of D. Further, substrate <b>102</b> is formed from a substantially transparent material, and masking layer <b>128</b> is formed from a substantially non-transparent material. Also, a negative photosensitive layer is deposited overlying p-doped layer <b>116</b>. The Talbot effect is utilized by perpendicularly shining a light with a planar wave front at the side of substrate <b>102</b> opposite to epi-layers <b>124</b>. Only that part of the light will enter epi-layers <b>124</b>, which was incident at lattice of openings <b>130</b>-<i>i</i>. The light, propagating through lattice of openings <b>130</b>-<i>i</i>, creates the image of the lattice of openings <b>130</b>-<i>i </i>at a distance D because of the Talbot effect. Thus, the photosensitive layer will be exposed to the image of lattice of openings <b>130</b>-<i>i</i>. The non-exposed regions of the photosensitive layer are removed in a subsequent step to create aligned mask-layers <b>148</b>-<i>i</i>. The Talbot effect can be achieved in the present embodiment, for example, by using a near collimated light source.</p>
+<p id="p-0111" num="0110">Next, second electrode layer <b>120</b> is formed overlying p-doped layer <b>116</b> and the photosensitive layer.</p>
+<p id="p-0112" num="0111"><figref idref="DRAWINGS">FIG. 11D</figref> illustrates the step of forming aligned openings <b>150</b>-<i>i </i>by a lift-off technique. Aligned mask-layers <b>148</b>-<i>i </i>are removed, together with the corresponding portions of second electrode layer <b>120</b> to expose p-doped layer <b>116</b> in defect-rich regions <b>134</b>-<i>i</i>. By virtue of the Talbot effect, aligned mask-layers <b>148</b>-<i>i </i>are aligned with defect-rich regions <b>134</b>-<i>i</i>. Therefore, aligned openings <b>150</b>-<i>i </i>will be aligned with defect-rich regions <b>134</b>-<i>i. </i></p>
+<p id="p-0113" num="0112"><figref idref="DRAWINGS">FIG. 11E</figref> illustrates the next step, where defect-rich regions <b>134</b>-<i>i </i>are at least partially removed, while keeping second electrode layer <b>120</b> intact. Defect-rich regions <b>134</b>-<i>i </i>are removed sufficiently deeply to reach n-doped layer <b>108</b>. This step forms holes <b>122</b>-<i>i</i>. Finally, first electrode layer <b>104</b> is formed is formed over a region of n-doped layer <b>108</b> that is displaced from the photonic crystal structure, making its fabrication easier.</p>
+<p id="p-0114" num="0113">This method removes substantially defect rich regions <b>134</b>-<i>i</i>, so that the remaining epi-layers <b>124</b> comprise substantially defect-poor regions <b>138</b>-<i>i</i>. Thus, PXLEDs fabricated by this method have low defect density, reducing the mentioned detrimental effects, including poor reliability, reduced efficiency, and diminished brightness.</p>
+<p id="p-0115" num="0114">In substrate-emitting PXLEDs host substrate <b>102</b> is formed from a substantially transparent material, for example, sapphire, silicon carbide or glass and second electrode layer <b>120</b> is formed from a substantially reflective or opaque material, for example, Ag, Al or Au. In top-emitting PXLEDs host substrate <b>102</b> is substantially reflective or opaque, for example, metalized sapphire. In some embodiments, second electrode layer <b>120</b> is formed from a substantially transparent material, for example, ITO, or a thin metal layer.</p>
+<p id="p-0116" num="0115"><figref idref="DRAWINGS">FIGS. 12A-E</figref> illustrate a method, related to the method of <figref idref="DRAWINGS">FIGS. 11A-E</figref>. The steps of <figref idref="DRAWINGS">FIGS. 12A and 12B</figref> are the same as the steps of <figref idref="DRAWINGS">FIGS. 11A and 11B</figref>.</p>
+<p id="p-0117" num="0116"><figref idref="DRAWINGS">FIG. 12C</figref> illustrates an alternative utilization of the Talbot effect. In this method a photo resist is deposited as a photosensitive layer on p-doped layer <b>116</b>. The photo resist is exposed using the Talbot effect. In a subsequent step the exposed portions of the photosensitive layer is removed from defect-rich regions <b>134</b>-<i>i </i>to create a photosensitive layer <b>149</b> with aligned openings <b>150</b>-<i>i. </i></p>
+<p id="p-0118" num="0117"><figref idref="DRAWINGS">FIG. 12D</figref> illustrates the next step, in which defect-rich regions <b>134</b>-<i>i </i>are at least partially removed to form holes <b>122</b>-<i>i</i>, and then photosensitive layer <b>149</b> is removed. Again, defect-rich regions <b>134</b>-<i>i </i>are removed sufficiently deeply to reach n-doped layer <b>108</b>.</p>
+<p id="p-0119" num="0118"><figref idref="DRAWINGS">FIG. 12E</figref> illustrates the next step, in which holes <b>122</b>-<i>i </i>are filled up with a non-conducting material <b>143</b> to make the upper surface of the device approximately flat. Non-conducting material can be, for example, a spin-on-glass (&#x201c;SOG&#x201d;). Then second electrode layer <b>120</b> is deposited over the approximately flat upper surface, formed by p-doped layer <b>116</b> and non-conducting material <b>143</b>. By this architecture second electrode layer <b>120</b> is electrically coupled only to p-doped layer <b>116</b>. Next, first electrode layer <b>104</b> is formed over a region of n-doped layer <b>108</b> that is displaced from the photonic crystal structure, making its fabrication easier. In analogy to the embodiment of FIGS. <b>11</b>A-E, the PXLED fabricated by the method of <figref idref="DRAWINGS">FIGS. 12A-E</figref> can be a substrate-emitting or a top-emitting device.</p>
+<p id="p-0120" num="0119">Since in the above-described embodiments first electrode layer <b>104</b> and second electrode layer <b>120</b> are formed at horizontally removed areas, the flow of the currents includes substantially horizontal pathways.</p>
+<p id="p-0121" num="0120">In some embodiments host substrate <b>102</b> is a good conductor, thus first electrode layer <b>104</b> can be deposited on host substrate <b>102</b> before the formation of epi-layers <b>124</b>. In these embodiments the pathways of the currents are substantially vertical across epi-layers <b>124</b>.</p>
+<p id="p-0122" num="0121"><figref idref="DRAWINGS">FIG. 13</figref> illustrates an embodiment of PXLED <b>100</b> in a high-power package. For example, PXLEDs with an area of 1 mm<sup>2 </sup>or greater can be packaged in high-power packages. The high-power package includes a heat sink <b>204</b>, formed from a low thermal resistance material. Heat sink <b>204</b> also serves as a reflector cup, reflecting the light emitted from LED <b>200</b> towards the base of the package. A further function of heat sink <b>204</b> is to accommodate and compensate the effects of the thermal expansion of the packaged LED's components. LED <b>200</b> is attached to heat sink <b>204</b> with solder or die-attach-epoxy. LED <b>200</b> is electrically coupled to inner leads <b>208</b> by wirebonds <b>212</b>. In some embodiments LEDs with inverted, or flip-chip, design are electrically coupled to inner leads <b>208</b> by solderballs or solderbars. Inner leads <b>208</b> are electrically coupled to outer leads <b>216</b>. Inner leads <b>208</b>, outer leads <b>216</b>, and wirebonds are formed from suitably chosen metals. LED <b>200</b> is encapsulated into a transparent housing that includes an epoxy dome lens <b>220</b> for enhanced light extraction. A soft gel <b>224</b> with high refractive index is disposed between LED <b>200</b> and epoxy dome lens <b>220</b> to enhance light extraction. The packaged LED is structurally supported by a support frame <b>228</b>. In embodiments, where the extraction efficiency of the LED is between about 50% and 100% in air, the inclusion of lens <b>220</b> and soft gel <b>224</b> is not necessary.</p>
+<p id="p-0123" num="0122">There are a large number of different packages the PXLEDs can be housed in. The choice of the most suitable package depends, among others, the particular application.</p>
+<p id="p-0124" num="0123">The embodiments discussed above are exemplary only and are not intended to be limiting. One skilled in the art will recognize variations from the embodiments described above, which are intended to be within the scope of the disclosure. As such, the invention is limited only by the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method of making a light emitting diode, the method comprising:
+<claim-text>providing a substrate;</claim-text>
+<claim-text>providing a masking layer overlying said substrate, the masking layer having a planar lattice of openings, wherein a ratio of a period of said planar lattice of openings to a wavelength of said emitted light in air is greater than about 0.1 and less than about 5;</claim-text>
+<claim-text>growing a semiconductor structure over the substrate and the masking layer, the semiconductor structure comprising active layer disposed between an n-type region and a p-type region;</claim-text>
+<claim-text>removing a portion of the p-type region and the light emitting layer to expose a portion of the n-type region; and</claim-text>
+<claim-text>forming a p-electrode on the p-type region and forming an n-electrode on the exposed portion of the n-type region.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising removing said p-electrode layer at regions corresponding to said planar lattice of openings.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said p-electrode layer is reflective.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said semiconductor structure comprises a plurality of III-nitride layers.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising forming a planar lattice of holes in at least said active layer and said p-type region.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein providing a masking layer having a planar lattice of openings comprises removing portions of said masking layer in a planar lattice of openings with a high resolution lithographic technique.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein removing portions of said masking layer comprises removing said portions of said masking layer with one of electron beam lithography, nano-imprint lithography, deep X-ray lithography, interferometric lithography, hot embossing, and microcontact printing.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising forming a planar lattice of holes by a dry etch process.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein forming a p-electrode on the p-type region and forming an n-electrode on the exposed portion of the n-type region comprises forming the p- and n-electrodes on a same side of the semiconductor structure.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein the p- and n-electrodes are formed on a side of the semiconductor structure opposite the substrate.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

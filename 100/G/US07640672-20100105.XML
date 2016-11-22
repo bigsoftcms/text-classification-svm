@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640672-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640672</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12124370</doc-number>
+<date>20080521</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>11</main-group>
+<subgroup>26</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>C</subclass>
+<main-group>15</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 33286</main-classification>
+</classification-national>
+<invention-title id="d0e51">Laser reference device</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3628874</doc-number>
+<kind>A</kind>
+<name>Tagnon et al.</name>
+<date>19711200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3635565</doc-number>
+<kind>A</kind>
+<name>Colson</name>
+<date>19720100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3897637</doc-number>
+<kind>A</kind>
+<name>Genho</name>
+<date>19750800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3964824</doc-number>
+<kind>A</kind>
+<name>Dixon</name>
+<date>19760600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4031629</doc-number>
+<kind>A</kind>
+<name>Paluck</name>
+<date>19770600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4111564</doc-number>
+<kind>A</kind>
+<name>Trice, Jr.</name>
+<date>19780900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4221483</doc-number>
+<kind>A</kind>
+<name>Rando</name>
+<date>19800900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4751782</doc-number>
+<kind>A</kind>
+<name>Ammann</name>
+<date>19880600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4852265</doc-number>
+<kind>A</kind>
+<name>Rando et al.</name>
+<date>19890800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4854704</doc-number>
+<kind>A</kind>
+<name>Funazaki et al.</name>
+<date>19890800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4912851</doc-number>
+<kind>A</kind>
+<name>Rando et al.</name>
+<date>19900400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4993161</doc-number>
+<kind>A</kind>
+<name>Borkovitz</name>
+<date>19910200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5075977</doc-number>
+<kind>A</kind>
+<name>Rando</name>
+<date>19911200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5144487</doc-number>
+<kind>A</kind>
+<name>Hersey</name>
+<date>19920900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5208438</doc-number>
+<kind>A</kind>
+<name>Underberg</name>
+<date>19930500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5367779</doc-number>
+<kind>A</kind>
+<name>Lee</name>
+<date>19941100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5500524</doc-number>
+<kind>A</kind>
+<name>Rando</name>
+<date>19960300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5539990</doc-number>
+<kind>A</kind>
+<name>Le</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5617202</doc-number>
+<kind>A</kind>
+<name>Rando</name>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>5819424</doc-number>
+<kind>A</kind>
+<name>Ohtomo et al.</name>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>5864956</doc-number>
+<kind>A</kind>
+<name>Dong</name>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>5907907</doc-number>
+<kind>A</kind>
+<name>Ohtomo et al.</name>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>5983510</doc-number>
+<kind>A</kind>
+<name>Wu et al.</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>6035540</doc-number>
+<kind>A</kind>
+<name>Wu et al.</name>
+<date>20000300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>6073353</doc-number>
+<kind>A</kind>
+<name>Ohtomo et al.</name>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>6178649</doc-number>
+<kind>B1</kind>
+<name>Wu</name>
+<date>20010100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>6202312</doc-number>
+<kind>B1</kind>
+<name>Rando</name>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>6351890</doc-number>
+<kind>B1</kind>
+<name>Williams</name>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>6427347</doc-number>
+<kind>B1</kind>
+<name>Butler, Sr.</name>
+<date>20020800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>6493955</doc-number>
+<kind>B1</kind>
+<name>Moretti</name>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>6502319</doc-number>
+<kind>B1</kind>
+<name>Goodrich et al.</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>6568094</doc-number>
+<kind>B2</kind>
+<name>Wu</name>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>6710929</doc-number>
+<kind>B2</kind>
+<name>Phuly et al.</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>6735879</doc-number>
+<kind>B2</kind>
+<name>Malard et al.</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>6739062</doc-number>
+<kind>B2</kind>
+<name>Jan et al.</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>6792685</doc-number>
+<kind>B1</kind>
+<name>Ng et al.</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>6871408</doc-number>
+<kind>B2</kind>
+<name>Malard et al.</name>
+<date>20050300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>6914930</doc-number>
+<kind>B2</kind>
+<name>Raskin et al.</name>
+<date>20050700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>6935034</doc-number>
+<kind>B2</kind>
+<name>Malard et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>7269907</doc-number>
+<kind>B2</kind>
+<name>Levine et al.</name>
+<date>20070900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>7377045</doc-number>
+<kind>B2</kind>
+<name>Burry et al.</name>
+<date>20080500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33286</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>2002/0083603</doc-number>
+<kind>A1</kind>
+<name>Jang</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>2005/0278966</doc-number>
+<kind>A1</kind>
+<name>Liu</name>
+<date>20051200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00044">
+<othercit>First Office Action from Chinese Examiner for Chinese Application No. 02810031.X corresponding to U.S. Appl. No. 11/162,476, dated Jul. 29, 2005.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>21</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 33286</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>10</number-of-drawing-sheets>
+<number-of-figures>13</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11162476</doc-number>
+<kind>00</kind>
+<date>20050912</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7377045</doc-number>
+<kind>A </kind>
+<date>20080527</date>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12124370</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080282561</doc-number>
+<kind>A1</kind>
+<date>20081120</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Burry</last-name>
+<first-name>James Michael</first-name>
+<address>
+<city>Troutman</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nash</last-name>
+<first-name>Derek J.</first-name>
+<address>
+<city>Huntersville</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Smith</last-name>
+<first-name>John C.</first-name>
+<address>
+<city>Denver</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Johnson</last-name>
+<first-name>Douglas G.</first-name>
+<address>
+<city>Cramerton</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Williamson</last-name>
+<first-name>Dennis J.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Witsil</last-name>
+<first-name>Matthew W.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="03" rep-type="attorney">
+<addressbook>
+<orgname>Moore &#x26; Van Allen PLLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Irwin Industrial Tool Company</orgname>
+<role>02</role>
+<address>
+<city>Huntersville</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Fulton</last-name>
+<first-name>Christopher W</first-name>
+<department>2841</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The laser reference tool of the invention consists of a base that can be releasably mounted to a surface. A housing is mounted on the base such that it can be repositioned relative to the base in a direction parallel to the surface. A turret carrying the laser module is rotatable about first and second orthogonal axes. The laser module is also rotatable relative to the turret about a third axis orthogonal to the first and second axes.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="140.12mm" wi="185.42mm" file="US07640672-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="127.42mm" wi="127.51mm" orientation="landscape" file="US07640672-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="201.51mm" wi="148.51mm" orientation="landscape" file="US07640672-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="213.19mm" wi="131.23mm" orientation="landscape" file="US07640672-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="208.70mm" wi="158.41mm" file="US07640672-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="142.66mm" wi="147.49mm" file="US07640672-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="187.11mm" wi="142.83mm" orientation="landscape" file="US07640672-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="161.88mm" wi="135.55mm" orientation="landscape" file="US07640672-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="233.09mm" wi="139.28mm" orientation="landscape" file="US07640672-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="198.46mm" wi="154.60mm" orientation="landscape" file="US07640672-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="210.57mm" wi="107.70mm" file="US07640672-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This application is a continuation application of U.S. patent application Ser. No. 11/162,476, filed Sep. 12, 2005, now U.S. Pat. No. 7,377,045, issued May 27, 2008, the entire contents of which are incorporated herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">The invention relates generally to a laser reference device and more particularly to a laser reference tool that may be wall mounted and that can be accurately aligned to user selectable orientations.</p>
+<p id="p-0004" num="0003">Traditional reference tools, such as levels, consist of one or more level vials mounted in a level body. The level body has one or more leveling faces that are calibrated with reference to the level vials such that one of the leveling faces can be placed against a surface and level readings made from the level vials. Laser level devices consist of a body supporting a laser generating device and a lens for focusing the laser. The lens can focus the laser into a beam of light that is projected as a dot on a surface or a plane of light that is projected as a line on a surface. The light pattern projected on the surface may be used as a reference point for locating and orienting articles.</p>
+<p id="p-0005" num="0004">Devices exist to project a plane of light onto a vertical surface such as a wall. One type of device sits on a horizontal surface and is oriented relative to vertical. Other laser reference devices may be mounted directly to the vertical surface to project light on that surface and/or on other surfaces. In order to orient the device on the vertical surface at least one level vial is mounted on the device to provide the user with a visual indication of the orientation of the device relative to true plumb or true level to control the projection of the light onto the surface. Because the device is manually oriented and the device relies on the ability of the user to orient the device by visually inspecting the level vial while simultaneously mounting the entire device on the surface, these devices can be difficult to orient to true plumb and/or level. Errors may be introduced as a result. Moreover, because the surface on which the device is supported may not be perfectly level or plumb, leveling the laser module in only one plane may not properly orient the device with respect to true level or true plumb.</p>
+<p id="p-0006" num="0005">Other devices that attach directly to a vertical surface use a pendulum device to orient the device to true level. Typically, the use of the pendulum type arrangement only allows the device to be properly oriented to one position. A pendulum based device is also known that is intended to allow the device to be oriented to multiple positions. The positions are predefined and limited, however, thus limiting the flexibility of the device. Moreover, the use of a pendulum to orient the device in multiple positions has not proved to be sufficiently accurate.</p>
+<p id="p-0007" num="0006">Thus, an improved laser reference device that can be fixed to a vertical surface and accurately oriented to a wide variety of positions is desired.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0008" num="0007">The laser reference tool of the invention consists of a base that can be releasably mounted to a surface. A housing is mounted on the base such that it can be repositioned relative to the base in a direction parallel to the surface. A turret carrying the laser module is rotatable about first and second orthogonal axes. The laser module is also rotatable relative to the turret about a third axis orthogonal to the first and second axes.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view showing an embodiment of the laser reference tool of the invention.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 2</figref> is a side view of the laser reference tool of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 3</figref> is a plan view of the laser reference tool of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 4</figref> is a partial exploded view of the laser reference tool of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 5</figref> is a partial assembled view of the laser reference tool of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 6</figref> is a section view taken along line <b>6</b>-<b>6</b> of <figref idref="DRAWINGS">FIG. 2</figref></p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 7</figref> is a partial assembled view of the laser reference tool of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 8</figref> is a side view of the laser reference tool of <figref idref="DRAWINGS">FIG. 1</figref> showing the laser light pattern.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 9</figref> is a perspective view of the laser reference tool of <figref idref="DRAWINGS">FIG. 1</figref> showing the laser light pattern on intersecting surfaces.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 10</figref> is a schematic view showing the laser module and lens used in the invention.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 11</figref> is a partial perspective section view showing an alternate embodiment of the transverse adjustment mechanism.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 12</figref> is another partial perspective section view showing an alternate embodiment of the transverse adjustment mechanism.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 13</figref> is yet another partial perspective section view showing an alternate embodiment of the transverse adjustment mechanism.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF PREFERRED EMBODIMENTS OF THE INVENTION</heading>
+<p id="p-0022" num="0021">The invention is shown generally at <b>1</b> and consists of a housing <b>2</b> mounted on a base <b>4</b> such that the housing <b>2</b> can reciprocate relative to base <b>4</b> in a linear direction as represented by arrow A. The base <b>4</b> may be placed on or attached to a substantially horizontal surface such as a floor or attached to a substantially vertical surface such as a wall by any type of releasable attachment mechanism. In one embodiment the attachment mechanism comprises releasable adhesive tape <b>8</b> where the tape can be secured to the base <b>4</b> and the vertical surface to hold the tool <b>1</b> on the vertical surface. The tool <b>1</b> can be detached from the surface by stretching the tape to destroy its adhesive properties as is known in the adhesive tape art. The tool <b>1</b> may also be attached to the vertical surface by pins, nails, screws or the like that extend through apertures <b>7</b> and <b>9</b> and penetrate the surface. The base <b>4</b> may also be attached to the vertical surface by suction, adhesive or the like.</p>
+<p id="p-0023" num="0022">It is to be understood that the terms &#x201c;vertical surface&#x201d; and &#x201c;horizontal surface&#x201d; are used broadly to refer to surfaces that are generally vertical and horizontal, respectively, and are not limited to surfaces that are true vertical and horizontal planes. The term &#x201c;horizontal surface&#x201d; is used to indicate a surface on which the device will remain in position without the need for an attachment mechanism and can include inclined surfaces. The term &#x201c;vertical surface&#x201d; is used to indicate a surface that requires that the device to be held in position either by an attachment mechanism or manually. While no attachment mechanism is required on a horizontal surface, an attachment mechanism may be used to hold the device securely in position.</p>
+<p id="p-0024" num="0023">Mounted to housing <b>2</b> is guide <b>10</b>. Guide <b>10</b> consists of a ring rotatably mounted relative to housing <b>2</b> such that the guide can be rotated relative to housing <b>2</b> about axis B-B that extends perpendicularly to the base <b>4</b>. Guide <b>10</b> includes markings <b>14</b> that may be used to reference the angular position of guide <b>10</b> relative to housing <b>2</b>. In one embodiment markings <b>14</b> are made at 15 degree intervals. A zero marking may be indicated by raised protrusion <b>12</b>.</p>
+<p id="p-0025" num="0024">A turret <b>16</b> is mounted to housing <b>2</b> and consists of a base <b>18</b> and a support portion <b>20</b>. Base <b>18</b> is rotatably mounted relative to guide <b>10</b> and housing <b>2</b> such that base <b>18</b> can be rotated relative to guide <b>10</b> and housing <b>2</b> about axis B-B.</p>
+<p id="p-0026" num="0025">Support portion <b>20</b> includes a pair of upstanding supports <b>30</b> and <b>32</b> that support laser module housing <b>34</b> therebetween. The supports <b>30</b> and <b>32</b> support laser module housing <b>34</b> for pivoting motion about axis E-E. A laser module <b>112</b> that includes a laser diode <b>112</b><i>a </i>and a collimating lens <b>112</b><i>b </i>is located within laser module housing <b>34</b> to generate a beam of light <b>113</b>. The beam of light <b>113</b> is focused into a plane of light by lens <b>115</b> to generate the fan shaped plane of light <b>36</b> that exits the laser module housing via aperture <b>38</b> such that the plane of light extends perpendicular to axis E-E. The reference tool of the invention allows the plane of light to be adjusted about three orthogonal axes.</p>
+<p id="p-0027" num="0026">Housing <b>2</b> consists of an annular wall portion <b>6</b> that includes a front wall portion <b>6</b><i>a </i>and a back wall portion <b>6</b><i>b </i>that can be secured together such as by screws. Back wall portion <b>6</b><i>b </i>includes cylindrical receptacles <b>11</b> for receiving batteries for powering the laser module. The batteries are connected to the laser module by electrical conductors such as wires or metal strips and an on-off switch <b>15</b> is provided for selectively powering the device as will be understood. Caps <b>13</b> releasably cover the receptacles <b>11</b>.</p>
+<p id="p-0028" num="0027">Referring more particularly to <figref idref="DRAWINGS">FIGS. 4 and 5</figref>, the arrangement of housing <b>2</b> and base <b>4</b> is shown in greater detail. A housing bottom portion <b>2</b><i>a </i>has its peripheral edge trapped in a slot <b>40</b> formed in front wall portion <b>6</b><i>a </i>and a similar slot formed in back wall portion <b>6</b><i>b </i>(not shown) such that when the front wall portion <b>6</b><i>a </i>and back wall portion <b>6</b><i>b </i>are secured to one another, housing bottom portion <b>2</b><i>a </i>is trapped therebetween in a fixed position. Likewise, a housing top portion <b>2</b><i>b </i>has its peripheral edge trapped in a slot <b>39</b> formed in front wall portion <b>6</b><i>a </i>and a similar slot formed in back wall portion <b>6</b><i>b </i>(not shown) such that when the front wall portion <b>6</b><i>a </i>and back wall portion <b>6</b><i>b </i>are secured to one another, housing top portion <b>2</b><i>b </i>is trapped therebetween in a fixed position.</p>
+<p id="p-0029" num="0028">Base <b>4</b> comprises a bottom surface <b>4</b><i>a </i>that is placed against either a vertical surface or horizontal surface when the device is in use and a top surface <b>4</b><i>b</i>. Top surface <b>4</b><i>b </i>includes threaded posts <b>41</b>, <b>42</b> and <b>43</b> that extend into elongated slotted apertures <b>44</b>, <b>45</b> and <b>46</b> formed in housing bottom portion <b>2</b><i>a</i>. Slotted apertures <b>44</b>, <b>45</b> and <b>46</b> have their long dimension parallel to axis D-D and arrow A. Screws <b>47</b>, <b>48</b> and <b>49</b> engage posts <b>41</b>, <b>42</b> and <b>43</b>, respectively, to secure bottom portion <b>2</b><i>a </i>to base <b>4</b>. The engagement of the posts, slotted apertures and screws allows the housing <b>2</b> to slide on base <b>4</b> in the direction of arrow A, but prevents the housing <b>2</b> from separating from the base <b>4</b>.</p>
+<p id="p-0030" num="0029">Base <b>4</b> further includes a pair of parallel slots <b>51</b> and <b>53</b> formed in the top surface <b>4</b><i>b </i>that are disposed parallel to the longitudinal axis of slotted apertures <b>44</b>, <b>45</b> and <b>46</b>. The slots <b>51</b> and <b>53</b> may be slidably engaged by protrusions (not shown) formed on the underside of housing bottom portion <b>2</b><i>a </i>to further limit the path of travel of housing <b>2</b> relative to base <b>4</b> to the direction of arrow A. A column <b>50</b> extends from base <b>4</b> and is received in rectangular opening <b>52</b> formed in bottom portion <b>2</b><i>a</i>. The longitudinal axis of rectangular opening <b>52</b> is also parallel to the longitudinal axis of slotted apertures <b>44</b>, <b>45</b> and <b>46</b> to allow movement of the housing <b>2</b> in the direction of arrow A.</p>
+<p id="p-0031" num="0030">Column <b>50</b> receives bushing <b>54</b> that includes a threaded hole <b>55</b>. A pair of supports <b>56</b> and <b>58</b> extend from base <b>4</b> and define cradles <b>60</b> and <b>62</b> that are aligned with threaded hole <b>55</b>. A screw <b>64</b>, including cap <b>64</b><i>a</i>, threadably engages hole <b>55</b> and is supported by cradles <b>60</b> and <b>62</b>. Screw <b>64</b> also passes through and is rotatably supported by hole <b>66</b> formed in the housing <b>2</b>. Screw <b>64</b> is prevented from moving axially relative to housing <b>2</b> in a first direction by support <b>68</b> that extends from housing top portion <b>2</b><i>b </i>and in a second direction by flange <b>70</b>. A second support <b>72</b> that extends from housing top portion <b>2</b><i>b </i>contacts the end of screw <b>64</b> to maintain the screw in a position parallel to base <b>4</b>. When screw <b>64</b> is rotated, the engagement of screw <b>64</b> with threaded hole <b>55</b> provides one mechanism for moving the housing <b>2</b> relative to the base <b>4</b> in a direction along arrow A. Other mechanisms for moving the housing <b>2</b> relative to the base may also be used. The housing can be moved in either direction along arrow A by reversing the rotation of screw <b>64</b>. In one embodiment screw <b>64</b> is manually rotated to allow the user to finely position the device after it is secured to the surface.</p>
+<p id="p-0032" num="0031">An alternative mechanism to the screw <b>64</b> for allowing fine adjustment of the housing <b>2</b> relative to base <b>4</b> is shown in <figref idref="DRAWINGS">FIGS. 11</figref>, <b>12</b> and <b>13</b>. In the illustrated embodiments the mechanism allows the housing <b>2</b> to move relative to the base <b>4</b> in any direction as opposed to the linear reciprocating movement provided by screw <b>64</b>. Base <b>4</b>&#x2032; and housing bottom portion <b>2</b><i>a</i>&#x2032; are shown that correspond to base <b>4</b> and housing bottom portion <b>2</b><i>a</i>, respectively, of the embodiment shown in <figref idref="DRAWINGS">FIGS. 4 and 5</figref>. It is to be understood that housing bottom portion <b>2</b><i>a</i>&#x2032; supports the housing <b>2</b>, guide <b>10</b>, turret <b>16</b>, and laser module housing <b>34</b> and laser assembly as described herein. Moreover, the base <b>4</b>&#x2032; may be attached to a surface using the releasable attachment mechanism as previously described.</p>
+<p id="p-0033" num="0032">Referring to <figref idref="DRAWINGS">FIG. 11</figref>, base <b>4</b>&#x2032; includes a center post <b>120</b> that has a cap <b>121</b> secured thereto by a screw or other fastener <b>122</b>. The housing bottom portion <b>2</b><i>a</i>&#x2032; includes a member <b>124</b> that has a cavity <b>125</b> for receiving the post <b>120</b>. Member <b>124</b> includes a top <b>126</b> and is dimensioned such that the top <b>126</b> is opposed to the bottom surface <b>128</b> of cap <b>121</b>. An annular member <b>130</b> is also disposed on post <b>120</b> such that it is free to move along post <b>120</b> toward and away from base <b>4</b>&#x2032;. A compression spring <b>132</b> urges member <b>130</b> toward cap <b>121</b> such that the top <b>126</b> of member <b>124</b> is trapped between member <b>130</b> and cap <b>121</b>. The force applied by the spring <b>132</b> determines how tightly or loosely the top <b>126</b> of member <b>124</b> is held between member <b>130</b> and cap <b>121</b>. The spring force is selected such that housing bottom portion <b>2</b><i>a</i>&#x2032; can be moved relative to base <b>4</b>&#x2032; if a force is applied to the housing by a user but the housing bottom portion is held in position relative to the base absent such a force. In this manner the housing can be moved relative to the base in any direction in a plane parallel to base <b>4</b>&#x2032; (and parallel to any surface on which base <b>4</b>&#x2032; is positioned) such that movement between base <b>4</b>&#x2032; and the housing is not limited to a linear motion.</p>
+<p id="p-0034" num="0033">Referring to <figref idref="DRAWINGS">FIG. 12</figref>, base <b>4</b>&#x2032; includes a center post <b>140</b> that has a cap <b>141</b> secured thereto by a screw or other fastener <b>142</b>. A compression spring <b>144</b> is located over post <b>140</b> and urges housing bottom portion <b>2</b><i>a</i>&#x2032; toward base <b>4</b>&#x2032;. The force applied by the spring <b>144</b> determines how tightly or loosely the housing bottom portion <b>2</b><i>a</i>&#x2032; is pressed against base <b>4</b>&#x2032;. The spring force is selected such that housing bottom portion <b>2</b><i>a</i>&#x2032; can be moved relative to base <b>4</b>&#x2032; if a force is applied to the housing by a user but the housing bottom portion is held in position relative to the base absent such a force. In this manner the housing can be moved relative to the base in any direction in a plane parallel to base <b>4</b>&#x2032; (and parallel to any surface on which base <b>4</b>&#x2032; is positioned) such that movement between base <b>4</b>&#x2032; and the housing is not limited to a linear motion.</p>
+<p id="p-0035" num="0034">Referring to <figref idref="DRAWINGS">FIG. 13</figref>, base <b>4</b>&#x2032; includes a center post <b>150</b> that has an annular member <b>151</b> disposed thereon such that the annular member can move relative to the post toward and away from base <b>4</b>&#x2032;. Annular member <b>151</b> has a bottom surface that contacts the housing bottom portion <b>2</b><i>a</i>&#x2032;. A screw or other fastener <b>152</b> engages post <b>150</b>. Fastener <b>152</b> may be provided with an enlarged head or a separate washer may be used. A round spring <b>154</b>, such as a flat spring washer, is located between fastener <b>152</b> and annular member <b>151</b> to urge annular member <b>151</b> into engagement with housing bottom portion <b>2</b><i>a</i>&#x2032; such that housing bottom portion <b>2</b><i>a</i>&#x2032; is held between the annular member <b>151</b> and base <b>4</b>&#x2032;. The force applied by the spring <b>154</b> determines how tightly or loosely the housing bottom portion <b>2</b><i>a</i>&#x2032; is held between annular member <b>151</b> and base <b>4</b>&#x2032;. The force is selected such that housing bottom portion <b>2</b><i>a</i>&#x2032; can be moved relative to base <b>4</b>&#x2032; if a force is applied to the housing by a user but the housing bottom portion is held in position relative to the base absent such a force. In this manner the housing can be moved relative to the base in any direction in a plane parallel to base <b>4</b>&#x2032; (and parallel to any surface on which base <b>4</b>&#x2032; is positioned) such that movement between base <b>4</b>&#x2032; and the housing is not limited to a linear motion.</p>
+<p id="p-0036" num="0035">Housing <b>2</b> includes another slot <b>76</b> formed about the inside periphery of front wall portion <b>6</b><i>a </i>and a similar slot is formed in the back wall portion <b>6</b><i>b </i>such that when the front wall portion <b>6</b><i>a </i>and back wall portion <b>6</b><i>b </i>are secured together, guide <b>10</b> is received therein. Referring to <figref idref="DRAWINGS">FIG. 6</figref>, guide <b>10</b> has an annular shape where the external edge forms flange <b>10</b><i>a </i>that is received in slot <b>76</b> such that guide <b>10</b> can rotate relative to housing <b>2</b> about axis B-B. The internal edge of guide <b>10</b> forms a flange <b>10</b><i>b </i>that is trapped between the annular ledge <b>78</b> formed on housing top portion <b>2</b><i>b </i>and base <b>18</b> of turret <b>16</b>. Guide <b>10</b> is formed with angular markings <b>14</b>, as previously described, such that its angular position relative to housing <b>2</b> may be determined.</p>
+<p id="p-0037" num="0036">Referring to <figref idref="DRAWINGS">FIGS. 6 and 7</figref>, turret <b>16</b> includes base <b>18</b> that is secured to the top portion <b>2</b><i>b </i>of housing <b>2</b> such that base <b>18</b> can rotate relative to housing <b>2</b> and guide <b>10</b> about axis B-B. Base <b>18</b> may be secured to top portion <b>2</b><i>b </i>of housing <b>2</b> by a screw (not shown) that passes through hole <b>81</b> formed in top portion <b>2</b><i>b </i>(best shown in <figref idref="DRAWINGS">FIG. 4</figref>) and is threadably secured in a threaded nut in hole <b>83</b> of base <b>18</b>. Alternatively, hole <b>83</b> could be threaded and the screw could threadably engage hole <b>83</b> directly. A mark <b>82</b> is provided on base <b>18</b> that indicates the position of turret <b>16</b> relative to guide <b>10</b> and housing <b>2</b> where mark <b>82</b> is aligned with the laser housing aperture <b>38</b>. Base <b>18</b> includes a top surface <b>22</b> that has a curved transverse cross section.</p>
+<p id="p-0038" num="0037">Turret <b>16</b> also includes a support portion <b>20</b>. Support portion <b>20</b> includes a bottom surface <b>24</b> that is complimentary to top surface <b>22</b> of base <b>18</b>. Posts <b>86</b> extend from support portion <b>20</b> into elongated slots <b>88</b> (only one of which is shown in <figref idref="DRAWINGS">FIG. 6</figref>) formed in top surface <b>22</b>. Posts <b>86</b> are connected to a flange <b>90</b> that is in sliding engagement with the underside of base <b>18</b> opposite to top surface <b>22</b>. Exerting a force in the direction of arrow A against support portion <b>20</b> moves posts <b>86</b> within slots <b>88</b> such that support portion <b>20</b> can pivot relative to the base <b>18</b>. Because the interfacing surfaces <b>22</b> and <b>24</b> of the base <b>18</b> and support portion <b>20</b>, respectively, are curved, movement of support portion <b>20</b> relative to the base <b>18</b> will pivot laser module housing <b>34</b> about an axis parallel to axis C-C to vary the angular position a of the laser module housing <b>34</b> relative to the base <b>4</b>. As a result, the angle of the plane of light <b>36</b> generated by the laser module can be projected through a range of angles.</p>
+<p id="p-0039" num="0038">Support portion <b>20</b> supports laser module housing <b>34</b> at pivots <b>102</b> and <b>104</b> such that the laser module housing <b>34</b> can be pivoted relative to the base <b>4</b> about axis E-E. Pivots <b>102</b> and <b>104</b> tightly engage laser module housing <b>34</b> such that while the laser module housing <b>34</b> can be manually pivoted, the laser module housing will be held in position by frictional engagement between it and the supports <b>30</b> and <b>32</b>. Laser module housing <b>34</b> further includes three orthogonally arranged level vials <b>106</b>, <b>108</b> and <b>110</b>. When mounted on a vertical surface level vials <b>106</b> and <b>108</b> indicate the angle of the laser module housing relative to horizontal.</p>
+<p id="p-0040" num="0039">Referring to <figref idref="DRAWINGS">FIGS. 8 and 9</figref> the plane of light <b>36</b> will create a visible line of light <b>96</b> on any surface <b>94</b> and <b>98</b> that the light intersects. The fan is oriented such that the plane of light will intersect the surface <b>94</b> on which the base <b>4</b> is supported and a surface <b>98</b> that intersects that surface. For example, if the device is supported on a wall, the plane of light will create a reference line of light on the wall on which it is supported and on the adjacent wall.</p>
+<p id="p-0041" num="0040">In one embodiment the laser module uses a lens that generates the line of light such that an area of relatively higher intensity light is generated in the central portion of fan <b>36</b> such that the area of higher intensity light is projected a predetermined distance from the laser level device. In one embodiment the area of higher intensity light is created approximately 20 feet from the device. By centering the area of higher intensity light on the corner where the two surfaces <b>94</b> and <b>98</b> intersect, the reference line displayed on the surfaces will appear to be uniform to the eye along the entire length of the line. In operation the device is mounted to the surface and the laser module is energized to create the plane of light. The laser module housing <b>34</b> is pivoted as shown by arrow B to locate the area of highest light intensity on the corner where the two surfaces intersect. The lens is selected such that the length of light projected along surface <b>94</b> on which the device is mounted will be approximately twice the length of the light projected on surface <b>98</b>. Thus, if the device is positioned on surface <b>94</b> approximately 20 feet from surface <b>98</b>, the length of the light projected on surface <b>98</b> will be approximately 10 feet.</p>
+<p id="p-0042" num="0041">The method of using the laser reference tool <b>1</b> of the invention will be described with respect to <figref idref="DRAWINGS">FIG. 9</figref> to project a horizontal plane of light on a vertical surface. The tool <b>1</b> is mounted to vertical surface <b>94</b> in the approximate position where line <b>96</b> is to be projected on surface <b>94</b>. The device can be mounted to the surface using the releasable adhesive tape <b>8</b> to mount base <b>4</b> to the surface. Once the device is mounted to surface <b>94</b>, the exact position of line <b>96</b> on surface <b>94</b> can be adjusted by the user by rotating screw <b>64</b> to move the housing <b>2</b> relative to base <b>4</b>. For example, if it is desired to project the line on a wall four feet above the floor, the device is located and mounted to the wall such that the laser line is at approximately four feet. Screw <b>64</b> is then rotated to adjust the housing either up or down to precisely locate the laser line at exactly the four foot mark. This fine adjustment allows the user to precisely position the tool on the surface after it is attached thereto to simplify the mounting process and make the positioning of the laser module more accurate.</p>
+<p id="p-0043" num="0042">The laser line <b>96</b> can then be oriented relative to horizontal. Specifically, turret <b>16</b> is rotated until level vial <b>108</b> indicates that laser level housing <b>34</b> is horizontal. At this point the tool will project a line parallel to horizontal. If a line projected at a different angle is desired, guide <b>10</b> is rotated until the zero degree marking is aligned with mark <b>82</b> on the turret <b>16</b>. Because turret <b>16</b> is horizontal, as shown by level vial <b>108</b>, the zero degree marking on guide <b>10</b> will also be at horizontal. The turret <b>18</b> can then be rotated relative to housing <b>2</b> and guide <b>10</b> to be positioned at any angular orientation as indicated by guide <b>10</b>. By using the markings <b>14</b> on guide <b>10</b> the laser module housing <b>34</b> can be accurately positioned at any angle relative to horizontal.</p>
+<p id="p-0044" num="0043">To align the plane of light on a secondary surface such as surface <b>98</b>, support portion <b>20</b> can be pivoted relative to base <b>18</b> until level vial <b>106</b> indicates that laser module housing is horizontal and the plane of light is oriented parallel to horizontal ensuring that the visible line of light projected on the surface <b>98</b> is horizontal.</p>
+<p id="p-0045" num="0044">To mount the tool on a vertical surface to project a vertical plane of light the same process is followed except that level vial <b>110</b> is used to align the device to vertical rather than using level vial <b>108</b> to align the device relative to horizontal.</p>
+<p id="p-0046" num="0045">Once the device is mounted on the surface, the location of the area of higher intensity light relative to the device is adjusted by pivoting laser module housing about axis E-E as represented by arrow B in <figref idref="DRAWINGS">FIG. 8</figref>. In one embodiment the area of higher intensity light can be located in a corner to project orthogonal lines of light on two perpendicular surfaces where the lines of light appear to the user to have equal intensities over their entire lengths.</p>
+<p id="p-0047" num="0046">Specific embodiments of an invention are disclosed herein. One of ordinary skill in the art will recognize that the invention has other applications in other environments. Many embodiments are possible. The following claims are in no way intended to limit the scope of the invention to the specific embodiments described above.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A reference tool comprising:
+<claim-text>a light source; and</claim-text>
+<claim-text>a base for supporting the light source on a surface, wherein said light source is rotatable relative to said base about three fixed orthogonal axes,</claim-text>
+</claim-text>
+<claim-text>wherein the light source is movable relative to the base in a direction parallel to the surface.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The reference tool of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the light source is simultaneously rotatable relative to said base about said three fixed orthogonal axes.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The reference tool of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising an attachment mechanism for attaching said base to said surface.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The reference tool of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the base is adapted to support the light source on a vertical surface.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The reference tool of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the light source is movable relative to the base in a direction parallel to the surface and that is a fixed linear direction.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The reference tool of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the light source is a laser.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The reference tool of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the light source projects a plane of light.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A reference tool comprising:
+<claim-text>a light source;</claim-text>
+<claim-text>a base for supporting the light source, said light source being simultaneously rotatable relative to said base about first, second, and third orthogonal axes, wherein the first axis is perpendicular to the base and wherein the second and third axes are in different planes from each other;</claim-text>
+<claim-text>an attachment mechanism for attaching the base to a vertical surface; and</claim-text>
+<claim-text>means for orienting the light source.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The reference tool of <claim-ref idref="CLM-00008">claim 8</claim-ref> further including a guide for indicating the position of the light source about said first axis.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The reference tool of <claim-ref idref="CLM-00008">claim 8</claim-ref> wherein the light source is rotatable about an axis parallel to the vertical surface.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The reference tool of <claim-ref idref="CLM-00008">claim 8</claim-ref> wherein the means for orienting the light source includes at least one level vial.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. A reference tool comprising:
+<claim-text>a light source;</claim-text>
+<claim-text>a base for supporting the light source, said light source being rotatable relative to said base about three fixed orthogonal axes;</claim-text>
+<claim-text>an attachment mechanism for attaching the base to a vertical surface; and means for orienting the light source, and</claim-text>
+<claim-text>a mechanism for moving the light source relative to the base in a linear direction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The reference tool of <claim-ref idref="CLM-00012">claim 12</claim-ref> wherein the mechanism for moving the light source includes a screw mounted such that rotation of the screw moves the light source in the linear direction.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The reference tool of <claim-ref idref="CLM-00013">claim 13</claim-ref> wherein said mechanism for moving the light source is in a housing, said housing supporting a turret, said turret being pivotably mounted to said housing.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The reference tool of <claim-ref idref="CLM-00014">claim 14</claim-ref> wherein said turret includes a first portion pivotably mounted on a second portion, said second portion supporting said light source.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The reference tool of <claim-ref idref="CLM-00015">claim 15</claim-ref> wherein said light source is pivotably mounted relative to said second portion.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The reference tool of <claim-ref idref="CLM-00013">claim 13</claim-ref> wherein the screw is manually operated.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. A reference tool comprising:
+<claim-text>a light source; and</claim-text>
+<claim-text>a base for supporting the light source on a surface, wherein said light source is rotatable relative to said base about a first fixed axis, a second fixed axis, and a third fixed axis, wherein the first fixed axis and second fixed axis are orthogonal and intersect, the first fixed axis and third fixed axis are orthogonal and intersect, and the second fixed axis and third fixed axis are orthogonal and do not intersect,</claim-text>
+</claim-text>
+<claim-text>wherein the light source is movable relative to the base in a direction parallel to the surface.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The reference tool of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the light source is simultaneously rotatable relative to said base about said three fixed orthogonal axes.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The reference tool of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the light source is movable relative to the base in a direction that is parallel to the surface and that is a fixed linear direction.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. A reference tool comprising:
+<claim-text>a light source; and</claim-text>
+<claim-text>a base for supporting the light source, said light source being simultaneously rotatable relative to said base about first, second, and third orthogonal axes, wherein the first axis is perpendicular to the base and wherein the second and third axes are in different planes from each other. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

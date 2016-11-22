@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641110-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641110</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11258653</doc-number>
+<date>20051025</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>462</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>K</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>235380</main-classification>
+<further-classification>235379</further-classification>
+<further-classification>235375</further-classification>
+<further-classification>705 53</further-classification>
+<further-classification>705 78</further-classification>
+<further-classification>705 79</further-classification>
+</classification-national>
+<invention-title id="d0e53">Real time prepaid transaction bidding</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2001/0032878</doc-number>
+<kind>A1</kind>
+<name>Tsiounis et al.</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235379</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2002/0184163</doc-number>
+<kind>A1</kind>
+<name>Lotter et al.</name>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>705 67</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2003/0200110</doc-number>
+<kind>A1</kind>
+<name>Munechika et al.</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>705  1</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2003/0218062</doc-number>
+<kind>A1</kind>
+<name>Noriega et al.</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235380</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2004/0078332</doc-number>
+<kind>A1</kind>
+<name>Ferguson et al.</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>705 41</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2004/0243478</doc-number>
+<kind>A1</kind>
+<name>Walker et al.</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>705 26</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2005/0028188</doc-number>
+<kind>A1</kind>
+<name>Latona et al.</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>725 13</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2005/0144030</doc-number>
+<kind>A1</kind>
+<name>Mazza et al.</name>
+<date>20050600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>705  1</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2005/0182707</doc-number>
+<kind>A1</kind>
+<name>Yeager</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>705 37</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2006/0249570</doc-number>
+<kind>A1</kind>
+<name>Seifert et al.</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235380</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2007/0038560</doc-number>
+<kind>A1</kind>
+<name>Ansley</name>
+<date>20070200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>705 39</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>2007/0233603</doc-number>
+<kind>A1</kind>
+<name>Schmidgall et al.</name>
+<date>20071000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>705 51</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>2009/0164330</doc-number>
+<kind>A1</kind>
+<name>Bishop et al.</name>
+<date>20090600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>705 19</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>24</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>235380</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>235379</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>235375</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>235487</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>705  1</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>705 39</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>705 41</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>705 40</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>705 53</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>705 75- 80</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070090183</doc-number>
+<kind>A1</kind>
+<date>20070426</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hursta</last-name>
+<first-name>Michael</first-name>
+<address>
+<city>Littleton</city>
+<state>CO</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Morrow</last-name>
+<first-name>Joel</first-name>
+<address>
+<city>Golden</city>
+<state>CO</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Townsend and Townsend and Crew LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>First Data Corporation</orgname>
+<role>02</role>
+<address>
+<city>Greenwood Village</city>
+<state>CO</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Labaze</last-name>
+<first-name>Edwyn</first-name>
+<department>2887</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Electronic transaction networks are described that are operable to find a pathway to complete an electronic data exchange for a prepaid transaction account. The networks may include an intermediary node, in electronic communication with a transaction point node where transaction information is input, and a plurality of processing nodes that can communicate with an account provider node that administers the prepaid transaction account. The intermediary node receives transaction data that may include an account identifier from the transaction point node, and identify one or more of the processing nodes that can form part of the pathway. The pathway may include the transaction point node, the intermediary node, at least one of the processing nodes, and the account provider node. In addition, the intermediary node may find the processing node that forms the pathway for the highest transaction commission when more than one of the processor nodes can form part of the pathway.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="193.29mm" wi="102.70mm" file="US07641110-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="221.06mm" wi="103.72mm" file="US07641110-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="241.89mm" wi="98.38mm" file="US07641110-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="215.65mm" wi="90.42mm" file="US07641110-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="226.06mm" wi="170.77mm" file="US07641110-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="228.43mm" wi="181.69mm" file="US07641110-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">Prepaid transaction cards have seen increasing popularity as gifts, sales promotion tools, and instruments used by businesses to attract customers and build customer loyalty. These cards may be viewed historically as originating from traditional paper gift certificates offered by retail stores such as toy stores, book stores, records stores, hobby shops, etc., that acted as tender for any good or service sold by the store. Today, however, prepaid transaction cards are being offered by a much wider variety of businesses, some with a very limited retail presence. In addition, new types of prepaid transaction cards are being created for specific classes of goods and services, sometimes making the card look more like prepaid coupon for a particular good or service. Many of these goods and services have limited availability in retail stores.</p>
+<p id="p-0003" num="0002">The evolution of the prepaid transaction card business from its historical roots in the paper gift certificate business presents problems for the distribution of the cards. Traditionally, prepaid transaction cards sold by retailers were affiliated with the businesses of the retailer. For example, the cards sold by a retailer were often focused on products and services sold by the same retailer, in stores owned or affiliated with the retailer. Sales of the cards, and activation of prepaid transaction accounts associated with the cards, were conducted through preconfigured electronic transaction networks that could communicate with point-of-sale devices operating on the store's premises.</p>
+<p id="p-0004" num="0003">Unfortunately, while these transaction networks may be efficient for use with the prepaid transaction cards and accounts created and/or marketed by the retailer, they often don't support cards offered by non-affiliated businesses. This lack of support may extend to sales of the cards themselves, where a customer in one store cannot purchase a prepaid transaction card offered by another business, even when that other business complements, rather than competes with the business of the store. Thus, there is a need for expanding the cooperation of transaction processing systems to allow the purchase and use of prepaid transaction cards in a wider variety of stores and other merchant locations.</p>
+<p id="p-0005" num="0004">The limited cooperation among transaction processing systems and networks for transactions involving prepaid transaction accounts can also increase the costs to process these transactions. When multiple transaction processors are asked to compete for transaction processing services, the effect is almost always to see costs lowered for processing the transaction. Thus, there is a need for new systems and methods of conducting transaction involving prepaid transaction accounts that to try to expand the number of transaction processors competing to complete the transaction. These and other issues are addressed by the present invention.</p>
+<heading id="h-0002" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0006" num="0005">Embodiments of the invention include electronic transaction networks operable to find a pathway to complete an electronic data exchange for a prepaid transaction account. The networks may include an intermediary node, in electronic communication with a transaction point node where transaction information is input, and a plurality of processing nodes that can communicate with an account provider node that administers the prepaid transaction account. The intermediary node receives transaction data that may include an account identifier from the transaction point node, and identify one or more of the processing nodes that can form part of the pathway. The pathway may include the transaction point node, the intermediary node, at least one of the processing nodes, and the account provider node. In addition, the intermediary node may find the processing node that forms the pathway at a highest transaction commission for the intermediary node when more than one of the processor nodes can form part of the pathway.</p>
+<p id="p-0007" num="0006">Embodiments of the invention also include computer systems for determining a pathway to complete an electronic data exchange for a prepaid transaction account. The systems may include an intermediary node, in electronic communication with a transaction point node and a plurality of processing nodes that can communicate with an account provider node that administers the prepaid transaction account. The intermediary node can poll the plurality of the processing nodes with a message comprising an identity of the account provider node and transaction size data, and receive cost data, including commission data and fee data from the processing nodes. The intermediary node may calculate a transaction commission for each of the processing nodes using the cost data, and may also select the processing node providing the highest transaction commission for inclusion in the pathway. The pathway may include the transaction point node, the intermediary node, the selected processing node, and the account provider node.</p>
+<p id="p-0008" num="0007">Embodiments of the invention may still further include computer networks for fulfilling transaction requirements for assigning a prepaid transaction account to an account user. The networks may include an intermediary node that receives account data associating the account with the user, and a prepaid amount associated with the account, from a transaction point node. The intermediary node may poll processor nodes that can communicate with an account provider node administering the account, and select the processor node that can establish a pathway to fulfill the transaction requirements for a highest transaction commission for the intermediary node. The intermediary node may calculate a fulfillment cost that includes the processor cost and an intermediary cost for fulfilling the transaction requirements.</p>
+<p id="p-0009" num="0008">Embodiments of the invention may also include methods of finding a transaction processor to process a transaction that uses a prepaid transaction account associated with a prepaid transaction card. The methods may include reading an account identifier from the prepaid transaction card, and sending the identifier to a transaction processing intermediary. They may also include identifying, based on the identifier, one or more transaction processors that can process the transaction, and determining the transaction processor that can process the transaction at a highest transaction commission to the intermediary when more than one of the transaction processors can process the transaction.</p>
+<p id="p-0010" num="0009">Embodiments of the invention may still also include methods of selecting a transaction processor for processing a transaction that uses a prepaid transaction account associated with a prepaid transaction card. The methods may include requesting bids from a plurality of the transaction processors, where the request includes identification of a card issuer, and a transaction amount. They may also include receiving from the transaction processors that can process the transaction, processor offers that include a sales commission rate and a fee for processing the transaction, where a processor cost is calculated for each transaction processor that sent an offer. They may further include selecting the transaction processor with the highest transaction commission for the processing of the transaction.</p>
+<p id="p-0011" num="0010">Embodiments of the invention may also further include methods of settling a transaction for the purchase of a prepaid transaction card between a merchant who sold the card and an issuer who issued the card. The methods may include sending to a processing intermediary an account identifier associated with the prepaid transaction card, and a prepaid account balance for the card. They may also include selecting a transaction processor to process the transaction through an auction, where the selected transaction processor bids a lowest processor cost in the auction. They may further include sending a merchant amount from the merchant to the processing intermediary, where the merchant amount is the prepaid account balance minus a merchant commission, and sending a issuer amount from the intermediary to the issuer, wherein the issuer amount is the merchant amount minus the processor cost and an intermediary cost. The intermediary may send the processor cost to the selected transaction processor.</p>
+<p id="p-0012" num="0011">Additional embodiments and features are set forth in part in the description that follows, and in part will become apparent to those skilled in the art upon examination of the specification or may be learned by the practice of the invention. The features and advantages of the invention may be realized and attained by means of the instrumentalities, combinations, and methods described in the specification.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> is a flowchart showing steps in methods of establishing a transaction mechanism for prepaid transaction accounts according to embodiments of the invention;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref> is a flowchart showing steps in selecting transaction processors to perform transactions in prepaid transaction accounts according to embodiments of the invention;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 3</figref> is a flowchart showing steps in executing a final settlement for the purchase of a prepaid transaction card according to embodiments of the invention;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4</figref> is a schematic of an electronic transaction network that may be used for transactions in a prepaid transaction account according to embodiments of the invention; and</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 5</figref> is another schematic of a computer system that may be used for transaction in a prepaid transaction account according to embodiments of the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0018" num="0017">Transaction networks, systems, and methods are described that include an transaction processing intermediary that allows a merchant to process transactions in prepaid transaction accounts from unaffiliated prepaid card issuers (e.g., issuers who do not have a pre-existing business relationship, and/or a predefined transaction processing arrangement with the merchant). The intermediary may form part of a pre-existing transaction network with a point-of-sale system at the merchant site (e.g., a retail store) that is used to process transactions using prepaid transaction cards from card issuers already affiliated with the merchant. When a buyer wishes to purchase a prepaid transaction card from a merchant who is unaffiliated with the card issuer, or to conduct a transaction with the card, the intermediary can use information from the card to find one or more transaction processors that are able to complete the transaction. These transaction processors may or may not be affiliated with the merchant; they just have to be able to complete a transaction between the merchant POS system and the system of the card issuer.</p>
+<p id="p-0019" num="0018">The intermediary may find candidate transaction processors by querying all the transaction processors the intermediary can reach. Those transaction processors capable of completing the transaction may answer the query in the affirmative, and may also send back information about the terms of completing the transaction (e.g., the commission rate and the processor costs). These terms may include variable amounts that are a percentage of the transaction amount (e.g., a sales commission rate) and fix costs that do not depend on the transaction amount (e.g., a transaction processing fee). When more than one transaction processor can complete the transaction, the intermediary may pick the processor offering the most favorable terms, (e.g., the highest commission rate and lowest processor cost).</p>
+<p id="p-0020" num="0019">The transaction processing intermediary allows the merchant to sell prepaid transaction cards and conduct transactions with prepaid transaction cards that have been issued by both affiliated and unaffiliated card issuers. This benefits merchants by allowing them to offer and accept a larger number of prepaid transaction cards from customers. The increased sales of unaffiliated cards results in increased commission revenue for the merchants, and the increased card offerings can attract new customers to stores, websites, and other merchant sales locations. The card issuers also benefit from having a larger number of sales outlets at which they can sell their prepaid transaction cards. The industry as a whole benefits as well, because the expansion of prepaid card offerings can be implemented without the added costs of creating a lot of new transaction processing infrastructure dedicated to processing transactions between specific merchants and prepaid card issuers. Thus, the present invention facilitates and increase in consumer choice and convenience in the prepaid transaction card industry without a significant increase in cost.</p>
+<p id="p-0021" num="0020">Referring now to <figref idref="DRAWINGS">FIG. 1</figref>, a flowchart showing steps an embodiment of a method <b>100</b> of establishing a transaction mechanism for prepaid transaction accounts is shown. The method <b>100</b> includes the step of reading account data from a prepaid transaction card <b>102</b>. The data from the card may be read by a system located at the point of sale that includes a card reading device. This data may include a bank identification number (BIN), or some other identifier of the network, card issuer, and/or administrator of the associated transaction account, as well as data to identify the particular prepaid transaction account. Embodiments may include software and/or logic in a point-of-sale system for identifying the card network/issuer/administrator for prepaid transaction card that do not have a conventional identifier like a BIN. For example, the POS system may include optical recognition of indicia on the card that is translated into a network/issuer/administrator code and associated with the received data identifying the particular account. The POS system may also have equipment to read a magnetic strip and/or radio frequency identification chip (i.e., an RFID tag) that can read information from the card corresponding to the issuer code. The system may also have the ability to search a table of account numbers for prepaid transaction cards distributed by the merchant that associates individual prepaid transaction account numbers with the network/issuer/administrator that issued the card. This data may be sent by the POS system with other account data to a transaction processing intermediary <b>104</b>.</p>
+<p id="p-0022" num="0021">The account data may provide the identity of the card issuer and/or account administrator, and may also include an account identifier that uniquely identifies the transaction account (e.g., an account number). The account data may also include a transaction amount for the transaction. The account data may be sent from to a transaction processing intermediary <b>104</b> in communication with the point-of-sale system and processed by the intermediary to determine the requirements for completing the transaction. For example, the intermediary may use the account data to ascertain the merchant point-of-sale system and prepaid card issuer and/or card administrator system that have to cooperate in order to complete the transaction.</p>
+<p id="p-0023" num="0022">After receiving the account data, the processing intermediary can identify the transaction processors that are able to process the transaction <b>106</b>. Embodiments include identifying the transaction processors by accessing a database that includes data on the compatibility of listed transaction processors with the systems of specific prepaid card issuers and/or prepaid account administrators. The processing intermediary may send a query to the database and receive back response data that includes the identity of one or more transaction processors that are able to complete the transaction.</p>
+<p id="p-0024" num="0023">Embodiments also include the processing intermediary polling transaction processors to determine if they are able to process the transaction. The polling may involve sending an electronic message to each of the transaction processors in communication with the processing intermediary, where the message may include the identity of the prepaid card issuer and/or prepaid account administrator that is involved in the transaction. The transaction intermediary may receive responses to identify candidate transaction processors.</p>
+<p id="p-0025" num="0024">When more than one transaction processor is identified as able to process the transaction, a determination may be made of which transaction processor can complete the transaction on the most favorable terms for the merchant and/or processing intermediary <b>108</b>. For example, the response data received from the database query for compatible transaction processors may include sales commission and processor cost data that can be used to determine the transaction terms from each processor to complete the transaction. This cost data may include one or more cost components, such as relative costs that depend on the amount of the transaction (e.g., a percent commission charged by the transaction processor) and/or fixed costs that do not depend on the transaction amount (e.g., a flat processing fee charged by the transaction processor for completing the transaction).</p>
+<p id="p-0026" num="0025">Embodiments include allowing transaction processors access to the database to update information about prepaid card issuer and/or prepaid account administrator systems with which they are compatible, and also to update their processor cost information, among other information. Transaction processors may or may not have access to compatibility information, sales commission information, processor cost information, etc. of other transaction processors. Embodiments include giving individual transaction processors the ability to affirmatively limit database access to some or all of their information by other transaction processors.</p>
+<p id="p-0027" num="0026">The determination of the transaction processor having the most favorable terms <b>108</b> may also be based on commission and cost data received in the responses of the transaction processors to the polling done by the processing intermediary. Embodiments include the ability to make commission and cost data more dynamic by allowing the transaction processors to provide updated data in response to the cost data provided by competing transaction processors. This may be done through an auction process where compatible transaction processors can make multiple bids to be selected to complete the transaction.</p>
+<p id="p-0028" num="0027">When the transaction processor with most favorable terms has been selected, the transaction may be processed through that processor <b>110</b>. The transaction path formed by method <b>100</b> may include a point-of-sale segment where the prepaid transaction account information is collected, a transaction intermediary segment, a transaction processor segment, and a card issuer and/or prepaid account administrator segment. In other embodiments, the processor intermediary may not be a segment of the transaction path, but instead coordinate the communication of the point-of-sale system (e.g., the merchant system) with the transaction processor. Embodiments may also include the transaction processor and the card issuer and/or prepaid account administrator being the same entity, allowing the transaction processor and card issuer and/or prepaid account administrator segments to be consolidated into one segment of the path.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 2</figref> shows steps involved in a method <b>200</b> for selecting transaction processors to perform transactions in prepaid transaction accounts according to embodiments of the invention. The method <b>200</b> includes providing prepaid transaction data <b>202</b>, which may include prepaid transaction account information and a transaction amount. For example, when a customer is purchasing a prepaid transaction card at a merchant's store, the prepaid transaction data provided by the merchant may include account activation information (e.g., an account number associated with the prepaid transaction card) and the purchase price of the card (e.g., the face value listed on the card, or a discounted price less than the face value). In another example, a prepaid card user may be redeeming value from the card to make a purchase from the merchant. The prepaid transaction data may include data identifying the card issuer/administrator, and data to uniquely identify the prepaid transaction account (e.g., an account number), as well as data including the transaction amount involved in the redemption.</p>
+<p id="p-0030" num="0029">The prepaid transaction data may be used to request bids from a plurality of transaction processors <b>204</b>. The bid request may involve sending a message to each transaction processor with information about the account issuer/administrator and the transaction amount. Embodiments include classifying transaction processors into different groups, and targeting the bid request message to less than all the groups. For example, the transaction processors may be classified into two groups according to predefined criteria (e.g., whether the merchant as satisfied a minimum usage rate requirement for the transaction processor). The bid request message may be sent to only one of the two groups (e.g., the group of transaction processors where the merchant has not satisfied a minimum usage rate requirement).</p>
+<p id="p-0031" num="0030">Embodiments also include posting the bid request in an auction format, and allowing the transaction processors (e.g., through biding agents, bots, etc.) to bid for the right to process the transaction. The auction format used may include a sealed bid auction, an English auction, and a Dutch auction, among other types of auctions.</p>
+<p id="p-0032" num="0031">The offers (e.g., bids) are received from the transaction processors <b>206</b>, and the offer information may be used to calculate the process cost for each transaction processor making an offer <b>208</b>. The offer information may include one or more cost components, including a percentage sales commission and a fixed fee that can be used to calculate the terms for completing the transaction. For example, three transaction processors may submit offers to process the transaction, where each processor submits the same sales commission rate of 6% of the transaction amount, but have different flat processing fees (e.g., $0.05, $0.07, and $0.08).</p>
+<p id="p-0033" num="0032">If the transaction amount is, for example, $50, then the sales commission is $3, which may be divided by a pre-existing agreement between the transaction intermediary and the merchant (e.g., a 70/30 split where the merchant keeps 70% of the sales commission and the intermediary keeps 30% minus the processing costs charged by the transaction processor). In this case, from the perspective of the transaction intermediary the most favorable terms are offered by the transaction processor having the lowest processor costs. The transaction processor offering the 6% sales commission and $0.05 processing fee allows the intermediary to keep $0.85 of the commission (i.e., 30% of a $3 commission minus the $0.05 processing fee), while the intermediary keeps $0.83 and $0.82 when the transaction processors charging processing fees of $0.07 and $0.08, respectively, are used.</p>
+<p id="p-0034" num="0033">When the terms of the transaction processors have been calculated <b>208</b>, the processor with the most favorable terms for the merchant and/or transaction intermediary may be selected <b>210</b>, and the transaction processed through the selected transaction processor <b>212</b>. As noted above, the selected transaction processor may form part of a transaction path that also include the merchant system (e.g., the POS system), the processing intermediary, and the card issuer and/or prepaid account administrator system.</p>
+<p id="p-0035" num="0034">Referring now to <figref idref="DRAWINGS">FIG. 3</figref>, a method <b>300</b> showing steps in executing a final settlement for the purchase of a prepaid transaction card according to embodiments of the invention is shown. The method <b>300</b> includes providing prepaid transaction card data to a processing intermediary <b>302</b>. This data may include account activation information (e.g., an account number associated with the prepaid transaction card) and the purchase price of the card (e.g., the face value listed on the card). The intermediary may then identify transaction processor able to complete the transaction to purchase the card, and determine which processor has the most favorable terms for the merchant and/or intermediary for completing the transaction <b>304</b>. When the processor is selected, the intermediary may determine the settlement amounts due to each participant in the transaction. This may involve the merchant sending a merchant amount to the processing intermediary <b>306</b> (i.e., the sales amount minus the percentage of the sale commission that belongs to the merchant). It may also involve sending the processor costs to the transaction processor <b>308</b>, and sending the card issuer/administrator an issuer amount <b>310</b> (i.e., the sales amount minus the sales commission). The intermediary may earn the funds received by the merchant and not sent to the other transaction participants.</p>
+<p id="p-0036" num="0035">The final settlement process may be conducted so that no portion of the funds have to make a round trip from and to the same transaction participant. For example, the merchant may send the transaction intermediary the merchant amount (i.e., the sales amount minus the percentage of the sale commission that belongs to the merchant) instead of the entire sales amount, some of which would make a round trip back to the merchant as the merchant portion of the sales commission. Similarly, the processing intermediary holds back its portion of the sales commission when forwarding the processing fee and issuer amount to the transaction processor.</p>
+<p id="p-0037" num="0036">As an example, if the purchaser is buying a $100 prepaid transaction card from the merchant for face value, the intermediary can direct the flow of funds to each participant for the final settlement. If the intermediary selects a transaction processor who offers a 10% sales commission and charges a $0.25 processing fee, the processor can calculate that the issuer will receive $90 (i.e., $100 minus the 10% sales commission), the merchant will receive $7 (e.g. 70% of the 10% sales commission), the intermediary will receive $2.25 (e.g., 30% of the 10% sales commission&#x2212;$0.25 processing fee), and the transaction processor will receive $0.25. In the final settlement, this can be done by having the merchant forward $93 of the $100 received from the prepaid transaction card purchaser to the processing intermediary. The intermediary then forwards $90.25 of the $93 to the transaction processor, which forwards the $90 owed to the card issuer/administrator.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 4</figref> shows a schematic of an electronic transaction network <b>400</b> that may be used for transactions in a prepaid transaction account according to embodiments of the invention. Network <b>400</b> may include a point-of-sale system <b>402</b> that can read prepaid transaction account information from a prepaid transaction card presented by a card purchaser or user. The point-of-sale system <b>402</b> may include a device to read information from a magnetic stripe, computer chip, barcode, etc., attached to the prepaid transaction card.</p>
+<p id="p-0039" num="0038">Data about a transaction involving a prepaid transaction account input into the point-of-sale system <b>402</b> may be received by the transaction intermediary <b>404</b>. The transaction intermediary <b>404</b> may include prepaid transaction processors that have a pre-existing payment processing relationship with the merchant operating the POS system <b>402</b>. For example, the transaction intermediary <b>404</b> may perform payment processing for a portfolio of prepaid transaction account issuers have a formal relationship (e.g., a supply agreement, an authorized seller agreement, etc.) with the merchant. The transaction intermediary <b>404</b> may continue to process transactions involving this portfolio according to predefined procedures using pre-designated transaction processors, or may select a new transaction processor.</p>
+<p id="p-0040" num="0039">The transaction intermediary <b>404</b> may process the transaction data, and communicate with a group of transaction processors A, B, C, and D <b>406</b>-<b>412</b> respectively, to determine which transaction processor <b>406</b>-<b>412</b> will process the transaction. In the embodiment shown in <figref idref="DRAWINGS">FIG. 4</figref>, all four transaction processors <b>406</b>-<b>412</b> are able to communicate with the prepaid transaction account issuer/administrator <b>414</b>, and form a transaction pathway between the POS system <b>402</b> and the issuer/administrator <b>414</b>. Transaction intermediary <b>404</b> may select one of the transaction processors <b>406</b>-<b>412</b> based on which of the processors <b>406</b>-<b>412</b> can process the transaction to realize the highest transaction commission for the transaction intermediary <b>404</b>. For example, the transaction intermediary <b>404</b> may request bids from each of the processors <b>406</b>-<b>412</b> that include a bid for a sales commission (e.g., a percentage of the transaction amount) and a flat processor fee charged by the processor. The transaction intermediary <b>404</b> may calculate the transaction commission offered by each processor <b>406</b>-<b>412</b>, and choose the processor (e.g., transaction processor B <b>408</b>) offering the highest transaction commission.</p>
+<p id="p-0041" num="0040">When a transaction processor <b>406</b>-<b>412</b> is selected, a transaction pathway may be formed between the POS system <b>402</b>, the transaction intermediary <b>404</b>, the transaction processor (e.g., transaction processor B <b>408</b>) and the prepaid account issuer/administrator <b>414</b>. This pathway may be used verify that a prepaid transaction account is active and that sufficient prepaid funds are available to complete the transaction. The pathway may also be involved in distributing a net settlement of funds between the participants in the transaction. For example, if the transaction pathway is being used for the purchase of a prepaid transaction card itself (e.g., a $100 prepaid transaction card), the transaction pathway may be used to credit the merchant POS system <b>402</b> with a sales commission (e.g., a merchant amount), the transaction intermediary <b>404</b> with a transaction commission, the transaction processor <b>408</b> with a processor fee, and the issuer/processor with the sale price of the card minus the fees and commissions (e.g., an issuer amount).</p>
+<p id="p-0042" num="0041">The network <b>400</b> may be described as a series of interconnected nodes that are used to form a transaction pathway to complete a transaction involving a prepaid transaction account. The transaction intermediary <b>404</b> may be described as an intermediary node capable of communicating electronically with both a transaction point node (e.g., an element of the POS system <b>402</b>) and one or more processor nodes (e.g., transaction processors A, B, C, and D <b>406</b>-<b>412</b>), which may communicate with an account provider node (e.g., the prepaid transaction account issuer/administrator <b>414</b>). The transaction pathway may include all four nodes (i.e., the transaction point node, the intermediary node, the processor node, and the account provider node), or some other combination of nodes, such as the transaction point node, the processor node, and the account provider node.</p>
+<p id="p-0043" num="0042">Referring now to <figref idref="DRAWINGS">FIG. 5</figref>, a schematic of a computer network <b>500</b> that may be used for transactions in a prepaid transaction account according to embodiments of the invention is shown. The network <b>500</b> may include a point-of-sale (POS) system <b>502</b> in communication with a transaction intermediary <b>504</b>, and capable of providing transaction data about a transaction being conducted at system <b>502</b>. The transaction intermediary <b>504</b> may be in electronic communication with a database <b>505</b> that may contain data on the compatibility of listed transaction processors <b>506</b>-<b>512</b> with the systems of specific prepaid card issuers and/or prepaid account administrators <b>513</b> and <b>514</b>.</p>
+<p id="p-0044" num="0043">In network <b>500</b>, the transaction processors <b>506</b>-<b>512</b> may access to the database <b>505</b> to update information about prepaid card issuer and/or prepaid account administrator systems with which they are compatible, and also to update their processor cost information, among other information. Transaction processors <b>506</b>-<b>512</b> may or may not have access to compatibility information, sales commission information, processor cost information, etc. of other transaction processors in the database <b>505</b>. Embodiments include making the transaction intermediary <b>504</b> the administrator of database <b>505</b>, and controlling access of individual transaction processors <b>506</b>-<b>512</b> to information of other transaction processors. Each of the transaction processors <b>506</b>-<b>512</b> may instruct the transaction intermediary <b>504</b> to affirmatively limit database access to some or all of their information by other transaction processors.</p>
+<p id="p-0045" num="0044">The processing intermediary <b>504</b> may send a query to the database <b>505</b> and receive back response data that includes the identity of one or more transaction processors <b>506</b>-<b>512</b> that are able to complete the transaction. The response data received from a query of database <b>505</b> may also include sales commission and processor cost data that can be used to determine the transaction terms from each processor <b>506</b>-<b>512</b> to complete the transaction. This cost data may include one or more cost components, such as relative costs that depend on the amount of the transaction (e.g., a percent commission charged by the transaction processor) and/or fixed costs that do not depend on the transaction amount (e.g., a flat processing fee charged by the transaction processor for completing the transaction).</p>
+<p id="p-0046" num="0045">For example, the transaction intermediary <b>504</b> may receive transaction data about a transaction being conducted at the POS system <b>502</b> where a buyer wishes to use a prepaid transaction card issued by prepaid account issuer/administrator A <b>513</b>. The transaction intermediary <b>504</b> may process the transaction data and send a first query to the database <b>505</b> which responds with information that only transaction processor A <b>506</b> can process transactions for account issuer/administrator A <b>513</b>. In this case, the transaction intermediary <b>504</b> forms a transaction pathway between the POS system <b>502</b>, transaction intermediary <b>504</b>, transaction processor A <b>506</b>, and prepaid account issuer/administrator A <b>513</b>, without asking for the transaction processors <b>506</b>-<b>512</b> to bid for the right to process the transaction.</p>
+<p id="p-0047" num="0046">The database <b>505</b> may also store auction data that describes how each transaction processor <b>506</b>-<b>512</b> will respond if the processing intermediary <b>504</b> holds an auction for the right to process a transaction. The auction data may include a maximum sales commission and/or minimum processing fee the transaction processor will bid for the transaction. The data may also include an increment for raising a sales commission bid or lowering a processing fee in response to being outbid by a competing transaction processor. The processing intermediary <b>504</b> may download the auction data from the database <b>505</b> for the transaction processors using an automated bidding agent to participate in an electronic auction.</p>
+<p id="p-0048" num="0047">The POS system <b>502</b> may send transaction data about a second transaction to the transaction intermediary <b>504</b>, where this transaction involves a second prepaid transaction card issued by prepaid account issuer/administrator B <b>514</b>. The database <b>505</b> responds to a query about this account issuer/administrator B <b>514</b> with the identity of three transaction processors B, C, and D <b>508</b>-<b>512</b> able to process the transaction. The database may also send cost data listed for each of the processors <b>508</b>-<b>512</b> that allows the transaction intermediary <b>504</b> to determine which of the processors can realize the highest transaction commission for the merchant and/or intermediary. Base on this determination, the transaction intermediary <b>504</b> may then form a transaction pathway between the POS system <b>502</b> and the prepaid account issuer/administrator B <b>514</b>.</p>
+<p id="p-0049" num="0048">Embodiments also include having network <b>500</b> permit transactions to be conducted directly between the POS system <b>502</b> and a prepaid account issuer/administrator A <b>513</b>. This direct connection may bypass the transaction intermediary <b>504</b> and the transaction processors <b>506</b>-<b>512</b>, forming a pathway between just the POS system <b>502</b> and prepaid account issuer/administrator A <b>513</b> to complete the transaction. With this configuration, network <b>500</b> may process both these direct transactions, and transactions that involve the transaction intermediary <b>504</b> and/or transaction processors <b>506</b>-<b>512</b>.</p>
+<p id="p-0050" num="0049">Having described several embodiments, it will be recognized by those of skill in the art that various modifications, alternative constructions, and equivalents may be used without departing from the spirit of the invention. Additionally, a number of well known processes and elements have not been described in order to avoid unnecessarily obscuring the present invention. Accordingly, the above description should not be taken as limiting the scope of the invention.</p>
+<p id="p-0051" num="0050">Where a range of values is provided, it is understood that each intervening value, to the tenth of the unit of the lower limit unless the context clearly dictates otherwise, between the upper and lower limits of that range is also specifically disclosed. Each smaller range between any stated value or intervening value in a stated range and any other stated or intervening value in that stated range is encompassed. The upper and lower limits of these smaller ranges may independently be included or excluded in the range, and each range where either, neither or both limits are included in the smaller ranges is also encompassed within the invention, subject to any specifically excluded limit in the stated range. Where the stated range includes one or both of the limits, ranges excluding either or both of those included limits are also included.</p>
+<p id="p-0052" num="0051">As used herein and in the appended claims, the singular forms &#x201c;a&#x201d;, &#x201c;an&#x201d;, and &#x201c;the&#x201d; include plural referents unless the context clearly dictates otherwise. Thus, for example, reference to &#x201c;a process&#x201d; includes a plurality of such processes and reference to &#x201c;the electrode&#x201d; includes reference to one or more electrodes and equivalents thereof known to those skilled in the art, and so forth.</p>
+<p id="p-0053" num="0052">Also, the words &#x201c;comprise,&#x201d; &#x201c;comprising,&#x201d; &#x201c;include,&#x201d; &#x201c;including,&#x201d; and &#x201c;includes&#x201d; when used in this specification and in the following claims are intended to specify the presence of stated features, integers, components, or steps, but they do not preclude the presence or addition of one or more other features, integers, components, steps, acts, or groups.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A electronic transaction network operable to find a pathway to complete an electronic data exchange for a prepaid transaction account, the network comprising:
+<claim-text>an intermediary node, in electronic communication with a transaction point node where transaction information is input, and a plurality of processing nodes that can communicate with an account provider node that administers the prepaid transaction account,</claim-text>
+<claim-text>wherein the intermediary node receives transaction data comprising an account identifier from the transaction point node, and identifies one or more of the processing nodes that can form part of the pathway, where said pathway comprises the transaction point node, the intermediary node, at least one of the processing nodes, and the account provider node, and</claim-text>
+<claim-text>wherein the intermediary node finds the processing node that forms the pathway at a highest transaction commission when more than one of the processor nodes can form part of the pathway.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The electronic transaction network of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the finding of the processing node that forms the pathway at a highest transaction commission for the intermediary node comprises receiving from each of the processing nodes a bid comprising a sales commission and a processor fee to form the pathway, and calculating the transaction commission by multiplying the sales commission by a prepaid transaction amount for the transaction account to determine a relative amount, and subtracting the relative amount to the fixed amount to determine the transaction commission.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The electronic transaction network of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the identification of the one or more processor nodes that can form part of the pathway comprises the intermediary node polling the plurality of processor nodes to determine whether they form at least part of the pathway to the account provider node.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The electronic transaction network of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the intermediary node accesses a database with information about the plurality of processor nodes to identify the one or more processing nodes that can form part of the pathway.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A computer system for determining a pathway to complete an electronic data exchange for a prepaid transaction account, the system comprising:
+<claim-text>an intermediary node, in electronic communication with a transaction point node and a plurality of processing nodes that can communicate with an account provider node that administers the prepaid transaction account;</claim-text>
+<claim-text>wherein the intermediary node polls the plurality of the processing nodes with a message comprising an identity of the account provider node and transaction size data, and</claim-text>
+<claim-text>wherein the intermediary node receives cost data comprising commission data and fee data from the processing nodes, and calculates a processing cost for each of the processing nodes using the cost data, and</claim-text>
+<claim-text>wherein the intermediary node selects the processing node having a highest transaction commission for inclusion in the pathway comprising the transaction point node, the intermediary node, the selected processing node, and the account provider node.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The computer system of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein determining the highest transaction commission comprises identifying a commission rate for each of the processing nodes and multiplying the commission rate by a transaction amount from the transaction size data to calculate a commission amount, and subtracting the commission amount from a processor fee from the fee data to calculate the transaction commission.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The computer system of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the plurality of processing nodes comprises a second group of processing nodes that is separate from a first group of processing nodes that is not considered by the intermediary node for inclusion in the pathway.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the processing nodes are grouped into the first and second group of processing nodes by determining if a minimum number of transaction requirement has been satisfied for each of the processing nodes, and grouping the processing nodes that have met the requirement in the first group, and grouping the processing nodes that have not met the requirement in the second group.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A computer network for fulfilling transaction requirements for assigning a prepaid transaction account to an account user, the network comprising:
+<claim-text>an intermediary node that receives account data associating the account with the user, and a prepaid amount associated with the account, from a transaction point node;</claim-text>
+<claim-text>wherein the intermediary node polls processor nodes that can communicate with an account provider node administering the account, and selects the processor node that can establish a pathway to fulfill the transaction requirements for a highest transaction commission for the intermediary node, and</claim-text>
+<claim-text>wherein the intermediary node calculates a fulfillment cost comprising the processor cost and an intermediary cost for fulfilling the transaction requirements.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The computer network of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the intermediary node sends fulfillment data to the transaction point node comprising a settlement amount, and wherein said settlement amount is the prepaid amount minus a merchant commission.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The computer network of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the intermediary node calculates an account provider amount by subtracting the fulfillment cost from the settlement about and sends the account provider amount to the account provider node.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The computer network of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the intermediary node sends the processor cost to the selected processor node after receiving the settlement amount from the transaction point node.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A method of finding a transaction processor to process a transaction that uses a prepaid transaction account associated with a prepaid transaction card, the method comprising:
+<claim-text>reading an account identifier from the prepaid transaction card, and sending the identifier to a transaction processing intermediary;</claim-text>
+<claim-text>identifying, based on the identifier, one or more transaction processors that can process the transaction; and</claim-text>
+<claim-text>determining the transaction processor that can process the transaction at a highest transaction commission to the intermediary when more than one of the transaction processors can process the transaction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the step of determining the transaction processor that can process the transaction at the highest transaction commission to the intermediary comprises:
+<claim-text>receiving from each transaction processor a sales commission rate and a processing fee for completing the transaction; and</claim-text>
+<claim-text>determining the cost of the transaction for each transaction processor, wherein the cost determination comprises multiplying the sales commission rate by a transaction amount to determine a commission amount, and subtracting the commission amount from the processing fee.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the method comprises polling an plurality of the transaction processors to determine whether they can process the transaction.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the identifying of the transaction processors comprises searching a database comprising information about transaction processors and identifying the transaction processors listed in the database that are able to process the transaction.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. A method of selecting a transaction processor for processing a transaction that uses a prepaid transaction account associated with a prepaid transaction card, the method comprising:
+<claim-text>requesting bids from a plurality of the transaction processors, wherein the request includes identification of a card issuer, and a transaction amount;</claim-text>
+<claim-text>receiving from the transaction processors that can process the transaction, processor offers comprising a sale commission rate and a fee for processing the transaction, wherein a processor cost is calculated for each transaction processor that sent an offer; and</claim-text>
+<claim-text>selecting the transaction processor with a highest processing commission to the processing of the transaction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The method of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the calculation of the processing commission comprises multiplying the sales commission rate by the transaction amount to determine a commission amount, and subtracting the commission amount from the fee for processing the transaction.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The method of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the method comprises sorting the plurality of transaction processors into a first group of transaction processors and a second group of transaction processors, and wherein the plurality of transaction processors from which the bids are requested is the second group of transaction processors.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The method of <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the sorting of the plurality of transaction processors comprises:
+<claim-text>determining if a minimum number of transactions requirement has been satisfied for each of the transaction processors; and</claim-text>
+<claim-text>identifying the transaction processors that have met the requirement with the first group of transaction processors, and identifying the transaction processors that have not met the requirement with the second group of transaction processors.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. A method of settling a transaction for the purchase of a prepaid transaction card between a merchant who sold the card and an issuer who issued the card, the method comprising:
+<claim-text>sending to a processing intermediary an account identifier associated with the prepaid transaction card, and a prepaid account balance for the card;</claim-text>
+<claim-text>selecting a transaction processor to process the transaction through an auction, wherein the selected transaction processor bids a highest transaction commission in the auction;</claim-text>
+<claim-text>sending a merchant amount from the merchant to the processing intermediary, wherein the merchant amount is the prepaid account balance minus a merchant commission; and</claim-text>
+<claim-text>sending a issuer amount from the intermediary to the issuer, wherein the issuer amount is the merchant amount minus the processor cost and an intermediary cost, and wherein the intermediary sends the processor cost to the selected transaction processor.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the issuer amount is a fixed percentage of the prepaid account balance.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the merchant commission is a fixed percentage of the prepaid account balance.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the auction for the selecting of the selected transaction processor comprises a sealed auction, a Dutch auction, or an English auction.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

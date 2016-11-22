@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640774-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640774</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12224059</doc-number>
+<date>20070322</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2006-082903</doc-number>
+<date>20060324</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>21</class>
+<subclass>C</subclass>
+<main-group>1</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>21</class>
+<subclass>C</subclass>
+<main-group>1</main-group>
+<subgroup>04</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 72289</main-classification>
+<further-classification> 72278</further-classification>
+</classification-national>
+<invention-title id="d0e61">Wire drawing machine and method</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2153192</doc-number>
+<kind>A</kind>
+<name>Koontz</name>
+<date>19390400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>CH</country>
+<doc-number>634759</doc-number>
+<kind>A5</kind>
+<date>19830200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>DE</country>
+<doc-number>29802989</doc-number>
+<kind>U1</kind>
+<date>19980600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>GB</country>
+<doc-number>486997</doc-number>
+<kind>A</kind>
+<date>19380600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>JP</country>
+<doc-number>58116922</doc-number>
+<date>19830700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 72189</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>JP</country>
+<doc-number>63299810</doc-number>
+<date>19881200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 72189</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>JP</country>
+<doc-number>10-180342</doc-number>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>JP</country>
+<doc-number>2005-103623</doc-number>
+<kind>A</kind>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00009">
+<othercit>Derwent abstract of JP63299810.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<nplcit num="00010">
+<othercit>Derwent abstract of JP58116922.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</citation>
+</references-cited>
+<number-of-claims>3</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 72278</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 72279</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 72281</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 72286</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 72287</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 72288</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 72289</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 72183</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 72205</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 72250</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 72251</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>24236411-3643</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>6</number-of-drawing-sheets>
+<number-of-figures>8</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090229334</doc-number>
+<kind>A1</kind>
+<date>20090917</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hashizume</last-name>
+<first-name>Michinori</first-name>
+<address>
+<city>Yawata</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kajino</last-name>
+<first-name>Jiro</first-name>
+<address>
+<city>Neyagawa</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Takemoto</last-name>
+<first-name>Kosuke</first-name>
+<address>
+<city>Kyotanabe</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Shimuzu</last-name>
+<first-name>Kaoru</first-name>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>McAndrews</last-name>
+<first-name>Isabelle R.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>ASKK Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+<assignee>
+<addressbook>
+<orgname>Factory-Automation Electronics Inc.</orgname>
+<role>03</role>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Ross</last-name>
+<first-name>Dana</first-name>
+<department>3725</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Yusuf</last-name>
+<first-name>Mohammad</first-name>
+</assistant-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2007/056747</doc-number>
+<kind>00</kind>
+<date>20070322</date>
+</document-id>
+<us-371c124-date>
+<date>20080815</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2007/111360</doc-number>
+<kind>A </kind>
+<date>20071004</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A wire drawing machine comprises a wire supply unit with an unwinding bobbin for unwinding a wire, a wire drawing unit or units for drawing and reducing the diameter of the wire, and a wire winding unit for winding the drawn wire. Each wire drawing unit comprises: a dancer roller for applying back tension to the wire; a wire drawing die for reducing the diameter of the wire; and a capstan for winding and transporting the wire without slip to apply front tension to the wire. The dancer roller is linearly moved substantially in parallel to direction of wire drawing of the wire drawing die, whereby the wire drawing unit can be reduced in width. A plurality of such wire drawing units can be placed between the wire supply unit and the wire winding unit in multiple rows so as to further reduce the width of the wire drawing machine.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="218.86mm" wi="251.63mm" file="US07640774-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="224.54mm" wi="175.85mm" file="US07640774-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="184.57mm" wi="157.56mm" file="US07640774-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="152.06mm" wi="96.60mm" file="US07640774-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="123.78mm" wi="176.11mm" file="US07640774-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="100.58mm" wi="172.21mm" file="US07640774-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="212.51mm" wi="160.10mm" file="US07640774-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates to a wire drawing machine and a wire drawing method, particularly a wire drawing machine of a non-slip type which uses a single or multiple wire drawing dies to enable drawing of a metal wire into a fine or superfine metal wire e.g. having a diameter of 50 &#x3bc;m or smaller.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0003" num="0002">Japanese Laid-open Patent Publication 2005-103623 discloses a wire drawing machine of a non-slip type using an unwinder for unwinding a metal wire to be drawn, a winder for winding the metal wire, and a wire drawing unit for drawing the metal wire. The wire drawing unit is formed of a capstan for drawing (or moving) the metal wire without slip, a dancer roller for applying back tension to the metal wire, and a wire drawing die for reducing the wire diameter. A plurality of such wire drawing units are connected in series between the unwinder and the winder. On the other hand, Japanese Laid-open Patent Publication Hei 10-180342 discloses a wire drawing machine to reduce its size, in which a wire to be drawn is sequentially wound around multiple capstans arranged in series and is transported therethrough, and is also allowed to pass through wire drawing dies placed between adjacent ones of the capstans, so as to draw and reduce the diameter of the wire sequentially through the dies. The capstans are sequentially placed in a zigzag arrangement in the transport direction of the wire so as to form multiple sets of capstans, each set of which consists of three adjacent capstans. Further, a single transmission gear is placed in each set of capstans so that the three capstans in each set are mutually rotated.</p>
+<p id="p-0004" num="0003">However, the conventional wire drawing machines have problems. For example, in the wire drawing machine of Japanese Laid-open Patent Publication 2005-103623, the dancer roller of each wire drawing unit for the application of tension is supported by an end of a dancer arm and driven to pivot about the other end of the dancer arm as a fulcrum. In the wire drawing unit, the wire (to be drawn) having passed the dancer roller is not directly inserted into the wire drawing die, but is required to pass an input guide roller so as to reverse the transport direction of the wire before being inserted into the wire drawing die. Furthermore, the pivot fulcrum of the dancer arm is distant from the wire drawing die in a direction substantially perpendicular to the direction of wire drawing of the wire drawing die, causing the occupying space of the wire drawing unit to be large. As a result, the wire drawing machine using the wire drawing unit or a plurality of such wire drawing units connected to each other becomes large in size. There is a possibility for the wire drawing machine with the multiple connected wire drawing units to be very long in the direction of the connection.</p>
+<p id="p-0005" num="0004">Besides, the pulling or drawing force of a capstan to pull a wire depends on a winding or wrap angle of the wire on the capstan. In the wire drawing machine of Japanese Laid-open Patent Publication 2005-103623, the winding angle of the wire on the capstan is small, and is at most 180 degrees. (Refer to the capstan <b>57</b> in <figref idref="DRAWINGS">FIG. 1</figref> therein). Accordingly, the pulling force of the capstan to pull the wire therein is smaller to cause less stable wire transport than in the case where the wire is wound around the capstan multiple times.</p>
+<p id="p-0006" num="0005">On the other hand, in the wire drawing machine of Japanese Laid-open Patent Publication Hei 10-180342, one wire drawing die (D1) is placed between two capstans (K1, K2) in each set of three capstans to cause the two capstans to have different rotation numbers so as to generate a pulling force to pull the wire. Thus, it is required to finely control the rotation numbers of the two capstans. However, such fine control is difficult because the wire drawing machine has multiple sets of capstans, each set of which has three adjacent capstans. An insufficiently fine control is likely to cause slippage between the wire and the capstans, which in turn damages and strains the wire, and is very likely to cause gears for driving the capstans to make noise during high speed rotation.</p>
+<p id="p-0007" num="0006">The wire drawing machine of Japanese Laid-open Patent Publication Hei 10-180342 further describes a proposal to arrange two rows (upper and lower) of wire drawing units, each unit consisting of capstans and wire drawing dies, allowing a shorter length of the total connected wire drawing units than a single row arrangement. However, in order to place a wire over and between the wire drawing units in the upper row, the wire drawing units in the lower row are likely to hinder and make difficult the operation of placing the wire over and between the wire drawing units. In addition, the arrangement of this wire drawing machine requires that a wire supply unit for supplying the wire and a wire receiving or winding unit for receiving the diameter-reduced wire be positioned at both ends of the total connected wire drawing units, which are apart from each other in the direction of the connection of the wire drawing units. This causes the size of the wire drawing machine in the direction of the connection of the wire drawing units to be thereby larger.</p>
+<heading id="h-0003" level="1">DISCLOSURE OF INVENTION</heading>
+<p id="p-0008" num="0007">An object of the present invention is to provide a wire drawing machine and a wire drawing method of a non-slip type, which allows the size of the wire drawing machine to be small, and which, when using and connecting multiple wire drawing units, can achieve size reduction in width or in the direction of the connection of the wire drawing units and achieve a small-sized wire drawing machine with multiple wire drawing units, and further which can facilitate operation of placing a wire (to be drawn) over and between the wire drawing units.</p>
+<p id="p-0009" num="0008">According to a first aspect of the present invention, the above object is achieved by a wire drawing machine comprising a wire drawing unit which comprises: a dancer roller for applying back tension to a wire to be drawn; a wire drawing die for reducing a diameter of the wire; and a capstan for winding and transporting the wire without slip to apply front tension to the wire, wherein the dancer roller is linearly moved substantially in parallel to a direction of wire drawing of the wire drawing die. The wire drawing machine according to the first aspect of the present invention makes it possible to reduce its width, even with a single wire drawing unit.</p>
+<p id="p-0010" num="0009">Preferably, the wire drawing unit further comprises a separate roller placed near the capstan for winding and transporting the wire in combination with the capstan in which axis of the separator roller is slightly tilted relative to that of the capstan to allow turns of the wire wound around the capstan to be positioned at different positions on the capstan. This structure allows the wire to be wound around or contact with the capstan at least two times, and makes it possible to increase the pulling or drawing force of the capstan (front tension), thereby stably and securing transporting and drawing the wire.</p>
+<p id="p-0011" num="0010">Further preferably, the wire drawing unit further comprises: a feed-in guide roller placed on wire input side of the capstan between the wire drawing die and the capstan for transporting the wire to the capstan; a feed-out guide roller placed on wire output side of the capstan for transporting the wire from the capstan; and a bent surface having a base surface and an inclined surface inclined from the base surface toward rear of the wire drawing machine, wherein the dancer roller, the wire drawing die, the feed-in guide roller and the feed-out guide roller are placed on the base surface, while the capstan and the separate roller are placed on the inclined surface. This provides an advantage of enabling smooth adjustment of the position or height of the wire on the capstan and the separate roller on the wire output side, and also enabling easy placement of the wire over and between various elements in the wire drawing unit before starting the wire drawing.</p>
+<p id="p-0012" num="0011">Furthermore, the wire drawing machine can be designed so that it further comprises: a wire supply unit for supplying the wire to the wire drawing unit; and a wire winding unit for winding the wire from the wire drawing unit. This facilitates practical use of the wire drawing machine.</p>
+<p id="p-0013" num="0012">According to a second aspect of the present invention, the above-described object is achieved by a wire drawing machine comprising: a wire supply unit for supplying a wire to be drawn; multiple wire drawing units connected to each other for sequentially drawing the wire; and a wire winding unit for winding the wire from the capstan, in which each of the wire drawing units comprises: a dancer roller for applying back tension to the wire; a wire drawing die for reducing a diameter of the wire; and a capstan for winding and transporting the wire without slip to apply front tension to the wire, wherein the dancer roller is linearly moved substantially in parallel to a direction of wire drawing of the wire drawing die. The wire drawing machine according to the second aspect of the present invention makes it possible to reduce its width, particularly with multiple wire drawing units connected to each other.</p>
+<p id="p-0014" num="0013">Preferably, each of the wire drawing units further comprises a separate roller placed near the capstan in which axis of the separator roller is slightly tilted relative to that of the capstan to allow turns of the wire wound around the capstan to be positioned at different positions on the capstan. This structure allows the wire to be wound around or contact with the capstan at least two times, and makes it pulling or drawing force of the capstan (front tension) in the case of multiple wire drawing units connected to each other, thereby stably and securing transporting and drawing the wire.</p>
+<p id="p-0015" num="0014">Further preferably, each of the wire drawing units further comprises: a feed-in guide roller placed on wire input side of the capstan between the wire drawing die and the capstan for transporting the wire to the capstan; a feed-out guide roller placed on wire output side of the capstan for transporting the wire from the capstan; and a bent surface having a base surface and an inclined surface inclined from the base surface toward rear of the wire drawing machine, wherein the dancer roller, the wire drawing die, the feed-in guide roller and the feed-out guide roller are placed on the base surface, while the capstan and the separate roller are placed on the inclined surface. This provides an advantage of enabling smooth adjustment of the position or height of the wire on each capstan and each separate roller on the wire output side, and also enabling easy placement of the wire over and between various elements in each wire drawing unit in the multiple wire drawing units before starting the wire drawing.</p>
+<p id="p-0016" num="0015">Still further preferably, the wire drawing units are arranged in at least two rows, such that a lower row in a pair of adjacent rows of wire drawing units is positioned at a level indented from that at which an upper row in the pair is positioned. This increases the advantage of enabling smooth adjustment of the position of the wire on each capstan, and at the same time, provides an advantage of easier placement of the wire over and between the multiple wire drawing units before starting the wire drawing.</p>
+<p id="p-0017" num="0016">According to a third aspect of the present invention, the above-described object is achieved by a wire drawing method comprising: winding a wire to be drawn around a substantially half circumference of a dancer roller for applying back tension to the wire; and transporting the wire from the dancer roller to a wire drawing die for reducing a diameter of the wire, and then to a capstan for winding and transporting the wire without slip to apply front tension to the wire, wherein the dancer roller is linearly moved substantially in parallel to a direction of wire drawing of the wire drawing die. The wire drawing method according to the third aspect of the present invention makes it possible to reduce the width of a wire drawing system, either with a single wire drawing unit or with multiple wire drawing units.</p>
+<p id="p-0018" num="0017">Preferably, this method further comprises placing a separate roller near the capstan for winding and transporting the wire in combination with the capstan in which axis of the separator roller is slightly tilted relative to that of the capstan to allow turns of the wire wound around the capstan to be positioned at different positions on the capstan. This method allows the wire to be wound around or contact with the capstan at least two times, and makes it possible to increase the pulling or drawing force of the capstan (front tension), thereby stably and securing transporting and drawing the wire.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic front view of a wire drawing machine according to an embodiment of the present invention;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic block diagram of the wire drawing machine shown in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 3</figref> is schematic front view of a main part of a dancer roller unit having a dancer roller in a wire drawing unit of the wire drawing machine;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 4</figref> is a schematic side view a main part of the dancer roller unit of <figref idref="DRAWINGS">FIG. 3</figref>;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic front view, partially cut away, of a main part of the dancer roller unit of <figref idref="DRAWINGS">FIG. 3</figref>;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 6</figref> is a schematic side view of the wire drawing machine of <figref idref="DRAWINGS">FIG. 1</figref>; and</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 7A</figref> is a schematic enlarged side view of a portion of the wire drawing machine of <figref idref="DRAWINGS">FIG. 6</figref>, while <figref idref="DRAWINGS">FIG. 7B</figref> is a schematic enlarged side view of a portion of the wire drawing machine <b>1</b> of <figref idref="DRAWINGS">FIG. 6</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">BEST MODE FOR CARRYING OUT THE INVENTION</heading>
+<p id="p-0026" num="0025">A wire drawing machine and a wire drawing method (hereafter often referred to collectively as &#x201c;wire drawing system&#x201d;) of a non-slip type according to an embodiment of the present invention use at least one wire drawing unit having a capstan and a dancer roller in order to draw (transport) a wire such as a metal wire. The wire drawing system or unit of the present embodiment can be used to draw any wires, and is particularly suitable for drawing a metal wire e.g. having a diameter of 50 to 100 &#x3bc;m into a superfine metal wire e.g. having a diameter of 50 &#x3bc;m or smaller, for example, as small as 15 &#x3bc;m. A typical example of the metal wire is a gold bonding wire although not limited thereto. Representative examples of the material of the wire are metals such as gold, stainless steel, cupper, brass, aluminum, tungsten, molybdenum and titanium.</p>
+<p id="p-0027" num="0026">Generally, a wire drawing system applies, to a wire, a unidirectional force higher than a resistance force between the wire and a wire drawing die which is generated when the wire passes through the die. The wire drawing system or unit of the present embodiment uses back tension (in addition to front tension) for drawing a wire, and more specifically draws the wire while applying, to the wire before entering the wire drawing die, a force in a direction opposite to the transport direction of the wire, that is backward tension. The wire drawing system using the back tension is based on the principle that if a tensile stress is applied to a wire by pulling the ends of the wire away from each other to near the limit of elasticity, and the wire is moved relative to a wire drawing die to draw the wire, then the drawing resistance is much lower than if a normal drawing force is applied to the wire drawing die by simply drawing the wire. The application of tensile stress is advantageous, for example, because it reduces internal strain and deformation in the wire, and also reduces the contact pressure between the wire and the wire drawing die.</p>
+<p id="p-0028" num="0027">In the present embodiment, an appropriate amount of back tension, which is indicated by arrow BT in <figref idref="DRAWINGS">FIG. 1</figref>, is applied to a wire <b>11</b> by a dancer roller <b>45</b> (e.g. <b>45</b>A) placed upstream from a wire drawing die <b>56</b> (e.g. <b>56</b>A), in which the dancer roller <b>45</b> is linearly moved substantially in parallel to a direction of wire drawing of the wire drawing die <b>56</b>. For example, the dancer roller <b>45</b> is linearly moved in parallel to the plane of the drawing (<figref idref="DRAWINGS">FIG. 1</figref>) by using a linear motion generating mechanism such as, preferably, a swing arm <b>346</b> and a rotary solenoid <b>47</b> (refer to <figref idref="DRAWINGS">FIG. 4</figref> and <figref idref="DRAWINGS">FIG. 5</figref>) which are arranged in a direction substantially perpendicular to the plane of the drawing. Thus, the direction of the movement of the dancer roller <b>45</b> is vertical or longitudinal. Because of this movement of the dancer roller <b>45</b>, each wire drawing unit <b>40</b> (e.g. <b>40</b>A) is reduced in width, regardless of the vertical or longitudinal position of the dancer roller <b>45</b>.</p>
+<p id="p-0029" num="0028">The swing arm <b>346</b> is a cantilever, and is preferably designed to swing or pivot about a fulcrum as a center. The rotary solenoid <b>47</b> can be replaced by any appropriate rotation generator such as a torque motor or a servo motor. Note that it is preferable to use a strain gauge (<b>348</b>) and a potentiometer (<b>48</b>) in combination with the swing arm <b>346</b> so as to detect a back tension (BT) in the wire <b>11</b>, a moving position of the dancer roller <b>45</b>, and so on, and send the detection signals, if necessary, to a system controller <b>80</b> so as to allow and control the back tension in the wire <b>11</b> and the moving position of the dancer roller <b>45</b> to approach their target values or set values. A capstan <b>57</b> (e.g. <b>57</b>A) driven by a capstan motor <b>58</b> provides a wire pulling or drawing force (more precisely a front tension FT) to allow the wire <b>11</b> to pass through a wire drawing die <b>56</b>, which is preferably performed without slip and with low noise. Thus, it is preferable to coat the surface of the capstan <b>57</b> with an elastic material such as polyurethane rubber.</p>
+<p id="p-0030" num="0029">It is preferable to place a separate roller <b>90</b> (e.g. <b>90</b>A) near the capstan <b>57</b> in which the axis of the shaft of the separate roller <b>90</b> extends in a direction roughly aligned with that of the capstan <b>57</b> so as to allow the wire <b>11</b> to be wound or wrapped around (circumferential surfaces of) the capstan <b>57</b> and the separate roller <b>90</b>. At the same time, it is preferable to tilt the axis of the shaft of the separate roller <b>90</b> slightly in an appropriate amount in one direction (any direction) relative to that of the capstan <b>57</b>. This allows that when the wire <b>11</b> is wound around (parts of) circumferential surfaces of the capstan <b>57</b> and the separate roller <b>90</b> multiple times so as to form multiple turns, one of the turns passes a position (height from a surface to place the capstan <b>57</b> and the separate roller <b>90</b> on) on the circumferential surface of each of the capstan <b>57</b> and the separate roller <b>90</b> which position is different (higher or lower) that of a further one of the turns, namely that the position of the one turn is spaced from the position of the further one turn.</p>
+<p id="p-0031" num="0030">Thus, it is possible to prevent the multiple turns of the wire <b>11</b> from overlapping each other on the circumferential surfaces of the capstan <b>57</b> and the separate roller <b>90</b>. In other words, it is possible that a wire <b>11</b> having passed through the wire drawing die <b>56</b> and thereby reduced in diameter can be wound multiple times around parts of the circumferential surfaces of the capstan <b>57</b> at positions (heights) thereon different from each other. This winding of the wire <b>11</b> in multiple turns at different positions on the capstan <b>57</b> stabilizes tension, i.e. front tension indicated by arrow FT in <figref idref="DRAWINGS">FIG. 1</figref>, between the wire drawing die <b>56</b> and the capstan <b>57</b>, and facilitates setting of the tension, making it possible to stably and securely reduce the diameter of the wire <b>11</b>. Note that a pulling or drawing force exerted by the wire drawing die <b>56</b>, namely, a force required for the wire <b>11</b> to pass through the wire drawing die <b>56</b>, is a difference between the front tension FT (output tension) and the back tension BT (input tension) of the wire drawing die <b>56</b>. Further note that it is preferable to use encoders (<b>33</b>, <b>53</b>, <b>59</b>, <b>73</b>) and strain gauges (<b>32</b>, <b>52</b>, <b>55</b>) to detect wire speeds and a wire pulling or drawing force (front tension) at each wire drawing die <b>56</b>, and send the detection signals, if necessary, to the system controller <b>80</b> so as to allow and control each wire speed and each wire drawing force to approach their target or set values.</p>
+<p id="p-0032" num="0031">In the wire drawing system of the present embodiment, the wire does not slip on the capstan. Thus, the combination of the dancer roller <b>45</b>, the wire drawing die <b>56</b> and the capstan <b>57</b> in a wire drawing unit <b>40</b> (e.g. <b>40</b>A) can stably apply a combination of accurate tensions (back tension BT and front tension FT) to the wire <b>11</b> without damaging or undesirably straining the wire <b>11</b>. In addition, the non-slip feature makes it possible to cut the relationship (connection) between upstream and downstream tensions, more specifically, between tension upstream of the capstan and tension downstream of the capstan. Accordingly, for example, the above-described tensions (back tension BT and front tension FT) generated by the dancer roller <b>45</b>A, the wire drawing die <b>56</b>A and the capstan <b>57</b>A in the wire drawing unit <b>40</b>A on the upstream side of the capstan <b>57</b>A do not affect the corresponding tensions (BT and FT) generated by a subsequent dancer roller <b>45</b>B, a subsequent wire drawing die <b>56</b>B and a subsequent capstan <b>57</b>B in a subsequent wire drawing unit <b>40</b>B. Thus, the subsequent wire drawing unit <b>40</b>B can stably apply a combination of accurate tensions (back tension BT and front tension FT) without being affected by the preceding wire drawing unit <b>40</b>A.</p>
+<p id="p-0033" num="0032">When the wire <b>11</b> is pulled and drawn through a die opening of the wire drawing die <b>56</b> placed between the dancer roller <b>45</b> and the capstan <b>57</b>, the wire <b>11</b> is reduced in diameter (area reduction), whereby the wire <b>11</b> is subjected to a wire drawing process. More specifically, the wire <b>11</b> is driven by the capstan <b>57</b> placed downstream of the wire drawing die <b>56</b> so as to be pulled and drawn out of the wire drawing die <b>56</b>. At this time, the wire <b>11</b> is drawn according to an area reduction rate (cross-sectional area reduction rate) of the wire drawing die <b>56</b>. The wire speed increases according to an increase in an amount of drawing (amount of area reduction). It is apparent that when the wire <b>11</b> is sequentially drawn through series-connected multiple wire drawing units <b>40</b> (<b>40</b>A, <b>40</b>B and so on), each comprised of a dancer roller <b>45</b>, a wire drawing die <b>56</b> and a capstan <b>57</b>, the wire speed (transport speed of the wire <b>11</b> driven by the capstans <b>57</b> such as <b>57</b>A, <b>57</b>B and so on) increases as the area reduction (diameter reduction) increases, namely as the wire <b>11</b> is passed through the respective wire drawing dies <b>56</b> (<b>56</b>A, <b>56</b>B and so on).</p>
+<p id="p-0034" num="0033">Appropriate wire drawing dies (<b>56</b>A to <b>56</b>F) having appropriate area reduction rates (diameter reduction rates) are used for the respective wire drawing units (<b>40</b>A to <b>40</b>F) so as to allow the wire drawing units to reduce the diameter (area) of the wire <b>11</b> gradually from the first (<b>40</b>A) to the last (e.g. <b>40</b>F) of the series-connected wire drawing units. In particular, the last wire drawing unit (e.g. <b>40</b>F) used here has a die opening to allow (reduce) the wire <b>11</b> to have a desired diameter (finish diameter). Note that it is preferable to prepare oil baths so as to immerse the wire drawing dies (<b>56</b>A to <b>56</b>F) in the oil baths, respectively, for the purpose of preventing the wire <b>11</b> from vibrating and improving the stability of the wire transport. Further note that the pulling or drawing force applied by a wire drawing die, namely a machining power required for the wire <b>11</b> to pass through the wire drawing die, is a difference between an output tension (front tension FT) and an input tension (back tension BT) after and before the wire drawing die.</p>
+<p id="p-0035" num="0034">As described above, the wire drawing unit <b>40</b> according to the present embodiment, which itself can be used as a wire drawing machine, is designed such that the dancer roller <b>45</b> is linearly moved substantially in parallel to the direction of wire drawing of the wire drawing die <b>56</b>. This makes it possible to reduce a width of each wire drawing unit. In <figref idref="DRAWINGS">FIG. 1</figref>, the width of the first wire drawing unit <b>40</b>A is indicated by WA which is a distance between an input position (substantial horizontal position in <figref idref="DRAWINGS">FIG. 1</figref>) of the wire drawing unit <b>40</b>A indicated by P<sub>AI </sub>and an output position (also substantial horizontal position in <figref idref="DRAWINGS">FIG. 1</figref>) of the wire drawing unit <b>40</b>A indicated by P<sub>AO</sub>. Thus even if a plurality of such wire drawing units (<b>40</b>A, <b>40</b>B and so on) are connected in series in the width direction to form a wire drawing machine with multiple wire drawing units <b>40</b>, the wire drawing machine can have a reduced width.</p>
+<p id="p-0036" num="0035">Furthermore, it is preferable to provide the wire drawing unit <b>40</b> (e.g. <b>40</b>A) with a bent surface (first bent surface) having a first base surface (vertically extending flat surface) <b>249</b> and a first inclined surface (flat surface) <b>249</b> inclined from, and relative to, the first base surface <b>149</b> toward rear of the wire drawing unit <b>40</b> (<b>40</b>A), and to place a dancer roller <b>45</b> (<b>45</b>A) and guide rollers <b>51</b>, <b>54</b> (<b>51</b>A, <b>54</b>A) on the first base surface <b>149</b> while placing a capstan <b>57</b> (<b>57</b>A) and a separate roller <b>90</b> (<b>90</b>A) on the first inclined surface. The use of the bent surface formed of the first base surface <b>149</b> and the first inclined surface <b>249</b> provides an advantage of enabling smooth adjustment of the position (height from the first inclined surface <b>249</b>) of the wire <b>11</b> on the capstan <b>57</b> (<b>57</b>A) and the separate roller <b>90</b> (<b>90</b>A) on the wire output side. This advantage obtained by using the bent surface increases in the case where multiple (two or more) wire drawing units (<b>40</b>A, <b>40</b>B or more) are connected to form a wire drawing machine with multiple wire drawing units in one row using the first bent surface, or in two rows using the first bent surface and second bent surface having a second base surface (vertically extending flat surface <b>349</b>) and a second inclined surface (flat surface <b>449</b>), or in another multi-row arrangement. The advantage of using the bent surface or surfaces will be described below.</p>
+<p id="p-0037" num="0036">In a first wire drawing unit, for example <b>40</b>A, the wire <b>11</b> having passed the dancer roller <b>45</b>A and the wire drawing die <b>56</b>A placed on thefirst base surface <b>149</b> is guided by a feed-in guide roller <b>51</b>A, which is positioned on a wire input side of the capstan <b>57</b>A, so as to be transported at a predetermined level or height from the first base surface <b>149</b> (i.e. at a farthest position of the feed-in guide roller <b>51</b>A from the first base surface <b>149</b>), and is wound around (a part of) the capstan <b>57</b>A at a first position (height from the first inclined surface <b>249</b>) on the capstan <b>57</b>A, then around (a part of) the separate roller <b>90</b>A, and then further back around (a part of) the capstan <b>57</b>A at a second position (height from the first inclined surface <b>249</b>) of the capstan <b>57</b>A. Because of a tilt of the shaft of the separate roller <b>90</b>A relative to that of the capstan <b>57</b>A, the second position of the wire <b>11</b> on the capstan <b>57</b>A is different (higher in <figref idref="DRAWINGS">FIG. 7A</figref>) from the first position thereof. This difference, if not corrected or adjusted, makes it difficult to smoothly transport the wire <b>11</b> to a subsequent dancer roller <b>45</b>B of a subsequent wire drawing unit <b>40</b>B (or to a wire winding unit <b>60</b>).</p>
+<p id="p-0038" num="0037">However, because of the first inclined surface <b>249</b>, the wire <b>11</b> from the second position of the capstan <b>57</b>A can be guided by a feed-out guide roller <b>54</b>A, which is positioned on a wire output side of the capstan <b>57</b>B, so as to allow the wire <b>11</b> to be transported at the same level as the predetermined level if the feed-out guide roller <b>54</b>A is positioned at a longitudinal position different from that at which the feed-in guide roller <b>51</b>A is positioned as seen in <figref idref="DRAWINGS">FIG. 1</figref>, <figref idref="DRAWINGS">FIG. 6</figref> or <figref idref="DRAWINGS">FIG. 7A</figref> (the longitudinal position or vertical position of the feed-in guide roller <b>51</b>A being higher than that of the feed-out guide roller <b>54</b>A in these drawings), even if the feed-out guide roller <b>54</b>A is placed on the same first base surface <b>149</b> for the feed-in guide roller <b>51</b>A to be placed on, with the farthest point of the feed-out guide roller <b>54</b>A from the first base surface <b>149</b> being maintained at the same level as that of the feed-in guide roller <b>51</b>A.</p>
+<p id="p-0039" num="0038">Thus, in the first wire drawing unit <b>40</b>A, the feed-out guide roller <b>54</b>A placed on the wire output side of the capstan <b>57</b>A and on the first base surface <b>149</b>, can adjust the wire height (from the first base surface <b>149</b>) to the wire height (from the same first base surface <b>149</b>) on the wire input side of the capstan <b>57</b>A as defined by the feed-in guide roller <b>51</b>A placed on the wire input side of the capstan <b>57</b>A and on the same first base surface <b>149</b>. Hence, the wire <b>11</b> can be easily and smoothly adjusted in height, without damaging or straining the wire <b>11</b>, by using two guide rollers <b>51</b>A, <b>54</b>A placed on the same first base surface on the wire input and output sides, respectively, of the capstan <b>57</b>A. This feature obtained by using the bent surface or first inclined surface <b>249</b> is advantageous even in a wire drawing system using a single wire drawing unit (e.g. <b>40</b>A) placed between a wire supply unit (<b>20</b>) and a wire winding unit (<b>60</b>), because it facilitates the wire height adjustment on the capstan (<b>57</b>A) and the separate roller (<b>90</b>A), and also facilitates placing the wire <b>11</b> over and between the dancer roller (<b>45</b>A), the wire drawing die (<b>56</b>A), the feed-in guide roller (<b>51</b>A), the capstan (<b>57</b>A), the separate roller (<b>90</b>A) and the feed-out guide roller (<b>54</b>A).</p>
+<p id="p-0040" num="0039">This wire height adjustment between the heights on the wire input and output sides of the capstan <b>57</b>A (and hence between the pair of wire drawing units <b>40</b>A, <b>40</b>B) is also performed with respect to the other capstans (<b>57</b>B, <b>57</b>C and so on) (and hence between the other adjacent pairs of wire drawing units). Note that the bent surface composed of the first base surface and the first inclined surface not only makes it easy to adjust the height of the wire <b>11</b> between the heights on the capstan on the wire input and output sides of the capstan, but also facilitates the operation of placing the wire <b>11</b> over and between multiple, such as two, wire drawing units (over and between the dancer rollers, the wire drawing dies, the capstans, the guide rollers and the like) before starting the wire drawing.</p>
+<p id="p-0041" num="0040">On the other hand, if the separate roller <b>90</b> and the capstan <b>57</b>A were placed on the first base surface <b>149</b> (without providing the first inclined surface <b>249</b>), it would be necessary to provide two height-adjustment guide rollers on the wire output side of the capstan <b>57</b>A, such that a first height-adjustment guide roller is placed at the same level (second position) as that of the wire <b>11</b> on the capstan <b>57</b>A on the wire output side of the capstan <b>57</b>A, and that a second height-adjustment guide roller is placed after the first height-adjustment guide roller and at a lower level (first position) than the first height-adjustment guide roller. It is likely that the distance between the two height-adjustment guide rollers is required to be short, and the use of such two short-distanced guide rollers on the wire output side of the capstan <b>57</b>A is likely to damage and strain the wire <b>11</b>. Furthermore, it is not easy to place a wire <b>11</b> over and between multiple wire drawing units (over and between the dancer rollers, the wire drawing dies, the capstans, the guide rollers and the like) before starting the wire drawing, if the separate rollers and the capstans of the multiple wire drawing units are placed on the same flat surface on which the dancer rollers and the wire drawing dies of the multiple wire drawing units are placed.</p>
+<p id="p-0042" num="0041">Next, it will be described how to reduce the width of the wire drawing machine <b>1</b> using multiple wire drawing units <b>40</b> (<b>40</b>A, <b>40</b>B and so on). More specifically, by arranging multiple wire drawing units <b>40</b> in two rows or decks (upper and lower) or in another multi-row arrangement to form a wire drawing machine <b>1</b>, the width of the wire drawing machine <b>1</b> can be further reduced. In the case of the two-row or two-deck arrangement, it is preferable to arrange the rows or decks in a U-shaped arrangement so that a wire supply unit (unwinding unit) <b>20</b> and a wire winding unit <b>60</b> can be placed on the same side or at a similar horizontal position in the wire drawing machine <b>1</b>. <figref idref="DRAWINGS">FIG. 1</figref> shows an example of such two-row U-shaped arrangement, in which the entire width of the wire drawing machine <b>1</b> is a distance between a leftmost position indicated by P<sub>L </sub>and a rightmost position indicated by P<sub>R</sub>. In <figref idref="DRAWINGS">FIG. 1</figref>, the wire supply unit <b>20</b> and the wire winding unit <b>60</b> are placed on the same side (left) of the wire drawing machine <b>1</b>.</p>
+<p id="p-0043" num="0042">In the case of the two-row arrangement, it is preferable to make a wire transport plane of the upper (upstream) row different from that of the lower (downstream) row. More specifically, it is preferable to provide the wire drawing units in the upper row on a first bent surface (having a first base surface and a first inclined surface inclined from the first base surface toward rear of the wire drawing units), and the wire drawing units in the lower row on a second bent surface (also having a first base surface and a first inclined surface inclined from the first base surface toward rear of the wire drawing units). More preferably, the second bent surface is indented from the first bent surface, or in other words is closer to rear of the wire drawing units to form a surface-indented structure. This surface-indented structure makes easier the operation, before starting the wire drawing, of placing the wire <b>11</b> over and between the multiple wire drawing units (over and between the dancer rollers, the wire drawing dies, the capstans, the guide rollers and the like) in both upper and lower rows.</p>
+<p id="p-0044" num="0043">Here, it should be noted that in each of the wire drawing units, the wire <b>11</b> is firmly wound or wrapped around (a part) of the capstan <b>57</b> and the separate roller <b>90</b> (much more firmly than in the prior art wire drawing machine of Japanese Laid-open Patent Publication 2005-103623) with a minimum number of turns. According to the present embodiment, the wire <b>11</b> from a feed-in guide roller <b>51</b> at least contacts the capstan <b>57</b> (about 180 degrees therearound), then the separate roller <b>90</b> (less than 180 degrees or about 90 degrees therearound), and then the capstan <b>57</b> again (about 180 degrees therearound again). This constitutes the minimum (least) number of wire turns in each wire drawing unit before the wire <b>11</b> is transported and guided by a feed-out guide roller <b>51</b>. According to the present specification, this minimum (least) number of wire turns (one contact on the separate roller and two contacts on the capstan, i.e. at least two turns on the capstan) is defined as one-loop winding. Because of the use of the separate roller, a firmer winding on the capstan can be achieved even by the one-loop winding than in the prior art. In the wire drawing machine or system of the present embodiment, the firmness of the winding increases as the number of wire turns increases from the one-loop winding to a two-loop winding (two contacts on the separate roller and three contacts on the capstan) or further to another multi-loop winding.</p>
+<p id="p-0045" num="0044">The following describes a wire supply unit <b>20</b> for unwinding or supplying a wire <b>11</b> to be drawn, and a wire winding unit <b>60</b> for winding a wire <b>11</b> after reduced in diameter. The wire supply unit <b>20</b> preferably comprises a unwinding bobbin <b>21</b> having a wire <b>11</b> wound therearound, an unwinding motor <b>22</b> for rotating the unwinding bobbin <b>21</b>, guide rollers <b>23</b>, <b>31</b> for guiding the wire <b>11</b> in a predetermined direction, a wire supply unit controller <b>30</b> for controlling the wire supply unit <b>20</b>, and so on. It is further preferable to provide the guide roller <b>31</b> with a strain gauge <b>32</b> for detecting tension of the wire <b>11</b> to be supplied or drawn as well as an encoder <b>33</b> for detecting speed (unwinding speed) of the wire <b>11</b>.</p>
+<p id="p-0046" num="0045">On the other hand, the wire winding unit <b>60</b> preferably comprises guide rollers <b>71</b>, <b>63</b> for guiding the wire <b>11</b> in a direction to wind it, a winding bobbin <b>61</b> for winding the wire <b>11</b> therearound, a winding motor <b>62</b> for rotating the winding bobbin <b>61</b>, a traverse slide rail <b>79</b> for the winding bobbin <b>61</b> to traverse, a drive motor <b>78</b> for traversely driving the winding bobbin <b>61</b> on the traverse slide rail <b>79</b>, a wire winding unit controller <b>70</b> for controlling the wire winding unit <b>60</b>, and so on. It is further preferable to provide the guide roller <b>71</b> with an encoder <b>73</b> for detecting winding speed of the wire <b>11</b>, which speed is determined by circumferential speed of the winding bobbin <b>61</b>, namely by the rotation speed of the winding motor <b>62</b>.</p>
+<p id="p-0047" num="0046">Referring now to <figref idref="DRAWINGS">FIG. 2</figref>, the wire drawing system (machine) according to the present embodiment comprises a system controller <b>80</b> as control means to control the entire wire drawing system. The system control <b>80</b> is connected to the wire supply unit controller <b>30</b> for controlling the wire supply unit <b>20</b>, each wire drawing unit controller <b>50</b> for controlling each wire drawing unit <b>40</b> (e.g. <b>40</b>A), and the wire winding unit controller <b>70</b> for controlling the wire winding unit <b>60</b>. Note that <figref idref="DRAWINGS">FIG. 2</figref> shows one of the wire drawing unit controllers <b>50</b> as a representative. The wire supply unit controller <b>30</b>, each wire drawing unit controller <b>50</b> and the wire winding unit controller <b>70</b> control the wire supply unit <b>20</b>, each wire drawing unit <b>40</b> and the wire winding unit <b>60</b>, respectively, in one-to-one correspondence, while the system controller <b>80</b> controls interactions between the wire supply unit <b>20</b>, the wire drawing units <b>40</b>, the wire winding unit <b>60</b> and other elements. Similarly, each wire drawing unit control <b>50</b> controls each wire drawing unit <b>40</b> directly connected thereto, while the system controller <b>80</b> controls interactions between the wire drawing units <b>40</b>.</p>
+<p id="p-0048" num="0047">It is also possible to allow the system controller <b>80</b> to perform all these control functions (controls of the entire wire drawing system as well as of the wire supply unit <b>20</b>, the wire drawing units <b>40</b> and the wire winding unit <b>60</b>) without using or providing the wire supply unit controller <b>30</b>, the wire drawing unit controllers <b>50</b> and the wire winding unit controller <b>70</b>. Furthermore, the system controller <b>80</b> has connected thereto a setting unit <b>81</b> for setting various set values such as a target value of the tension of the wire <b>11</b>. The set values set by the setting unit <b>81</b> are stored in a memory in the system controller <b>80</b> or in memories in the respective controllers <b>30</b>, <b>50</b> and <b>70</b>. It is apparent that the respective controllers <b>30</b>, <b>50</b> and <b>70</b> are designed, to have setting units for setting the set values, respectively.</p>
+<heading id="h-0006" level="1">EXAMPLE</heading>
+<p id="p-0049" num="0048">Hereinafter, the wire drawing machine or system according to the present invention will be described, using the wire drawing machine <b>1</b> shown in the annexed drawings as an example, in which <figref idref="DRAWINGS">FIG. 1</figref> is a schematic front view of the wire drawing machine <b>1</b> according to the example, while <figref idref="DRAWINGS">FIG. 2</figref> is a schematic block diagram of the wire drawing machine <b>1</b> shown in <figref idref="DRAWINGS">FIG. 1</figref>. On the other hand, <figref idref="DRAWINGS">FIG. 3</figref> is schematic front view of a main part of a dancer roller unit <b>450</b> having a dancer roller <b>45</b> in a wire drawing unit (<b>40</b>), and <figref idref="DRAWINGS">FIG. 4</figref> is a schematic side view a main part of the dancer roller unit <b>450</b> of <figref idref="DRAWINGS">FIG. 3</figref>, while <figref idref="DRAWINGS">FIG. 5</figref> is a schematic front view, partially cut away, of a main part of the dancer roller unit <b>450</b> of <figref idref="DRAWINGS">FIG. 3</figref>. Further, <figref idref="DRAWINGS">FIG. 6</figref> is a schematic side view of the wire drawing machine <b>1</b> of <figref idref="DRAWINGS">FIG. 1</figref>, while <figref idref="DRAWINGS">FIG. 7A</figref> is a schematic enlarged side view of a portion of the wire drawing machine <b>1</b> of <figref idref="DRAWINGS">FIG. 6</figref>, showing guide rollers <b>51</b>C, <b>54</b>R (<b>54</b>C), a separate roller <b>90</b>C and a capstan <b>57</b>C in an upper row of the wire drawing machine <b>1</b>. Similarly, <figref idref="DRAWINGS">FIG. 7B</figref> is a schematic enlarged side view of a portion of the wire drawing machine <b>1</b> of <figref idref="DRAWINGS">FIG. 6</figref>, showing guide rollers <b>51</b>D, <b>54</b>D, a separate roller <b>90</b>D and a capstan <b>57</b>D in a lower row of the wire drawing machine <b>1</b>.</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. 1</figref> shows an example of the wire drawing machine <b>1</b> (wire drawing system) having upper and lower rows of multiple wire drawing units <b>40</b>A to <b>40</b>F connected to each other to sequentially draw a wire <b>1</b>, or subject the wire <b>11</b> to six sequential wire drawing steps (wire diameter reduction steps). The wire drawing machine comprises: a wire supply unit <b>20</b> for supplying or unwinding a wire <b>11</b> such as a metal (gold) wire from an unwinding bobbin <b>21</b>; wire drawing units <b>40</b> (<b>40</b>A to <b>40</b>F) for drawing the wire; and a wire winding unit <b>60</b> for winding the wire <b>11</b> after drawn. The wire drawing unit <b>40</b> (e.g. <b>40</b>A) comprises: a wire drawing die <b>56</b> (e.g. <b>56</b>A) for drawing or reducing the diameter of the wire <b>11</b>; a dancer roller <b>45</b> (e.g. <b>45</b>A) linearly moved substantially in parallel to a direction of wire drawing of the wire drawing die <b>56</b> for applying back tension to the wire <b>11</b>; a capstan <b>57</b> (e.g. <b>57</b>A) and a separate roller <b>90</b> (e.g. <b>90</b>A) for transporting the drawn wire <b>11</b> without slip to apply front tension to the wire <b>11</b>; and feed-in and feed-out guide rollers <b>51</b>, <b>54</b> (e.g. <b>51</b>A, <b>54</b>A) for guiding and transporting the wire <b>11</b> to and from the capstan <b>57</b> (<b>57</b>A), respectively.</p>
+<p id="p-0051" num="0050">Appropriate dimensions can be used for the respective elements and units. For example, the wire <b>11</b> at the wire supply unit <b>20</b> before drawn can have a starting diameter of 50 to 100 &#x3bc;m to obtain a final diameter of 10 to 50 &#x3bc;m after finally drawn. The wire <b>11</b> used in the present example is a gold wire having a starting diameter of 60 &#x3bc;m. Further, the shape and dimension of the dancer rollers <b>45</b>, the guide rollers <b>51</b>, <b>54</b> (as well as <b>31</b>, <b>71</b>) and the dancer rollers <b>90</b> can be the same in the present example. For example, each of them has a shape of disk having an outer disk diameter of 40 mm with a thickness of 3 mm, and has a circumferential surface with a circumferential groove having a V-shape in its cross section with an angle of about 60 degrees, in which the bottom of the V-shaped groove defines an inner disk diameter of 36 mm.</p>
+<p id="p-0052" num="0051">The separator rollers <b>90</b> have a diameter of 34 mm, while the capstans <b>57</b> have a diameter of 80 mm. Commonly used wire drawing dies made of super-hard alloy having a conical shape can be used for the wire drawing dies <b>56</b> (<b>56</b>A and so on). For example, each wire drawing die <b>56</b> has a length (length of cone) of about 8 mm, and a circular entrance opening having a diameter of 1 mm. The cone is rather sharply tapered from the entrance to about a half length of the wire drawing die <b>56</b> where the cone has a diameter of about three times as large as that of an exit thereof, from which the cone is gradually tapered down to a final diameter of the cone at the exit thereof. The wire drawing die <b>56</b> has, at its exit portion, a shape of hollow cylinder having a length of 1 mm and a desired diameter for the purpose of wire drawing.</p>
+<p id="p-0053" num="0052">As shown in <figref idref="DRAWINGS">FIG. 1</figref>, six wire drawing units <b>40</b> (<b>40</b>A to <b>40</b>F) are connected to each other and arranged in an upper (upstream) row (four wire drawing dies <b>56</b>A to <b>56</b>D) and a lower (downstream) row (two wire drawing dies <b>56</b>E, <b>56</b>F) in a U-shaped arrangement. Referring additionally to <figref idref="DRAWINGS">FIG. 6</figref>, <figref idref="DRAWINGS">FIG. 7A</figref> and <figref idref="DRAWINGS">FIG. 7B</figref>, the upper row of wire drawing units <b>40</b>A to <b>40</b>C and a part of wire drawing unit <b>40</b>D (a dancer roller <b>45</b>D, a wire drawing die <b>56</b>D and an additional guide roller <b>54</b>R for transporting the wire <b>11</b> to the lower row) except the respective capstans <b>57</b>A to <b>57</b>C and separate rollers <b>90</b>A to <b>90</b>C are placed on a first base surface <b>149</b> of a housing <b>49</b>. The first base surface <b>149</b> stands longitudinally or vertically in <figref idref="DRAWINGS">FIG. 1</figref> and <figref idref="DRAWINGS">FIG. 6</figref>. The capstans <b>57</b>A to <b>57</b>C with the separate rollers <b>90</b>A to <b>90</b>C are placed on a first inclined flat surface <b>249</b> which is inclined from and relative to the first base surface <b>149</b> toward rear of the housing <b>49</b>.</p>
+<p id="p-0054" num="0053">Similarly, the lower row of wire drawing units <b>40</b>D to <b>40</b>F except a part of wire drawing unit <b>40</b>D (the dancer roller <b>45</b>D, the wire drawing die <b>56</b>D and the additional guide roller <b>54</b>R) and except the respective capstans <b>57</b>D to <b>57</b>F with separate rollers <b>90</b>D to <b>90</b>F are placed on a second base surface <b>349</b> (vertically or longitudinally extending flat surface) of the housing <b>49</b>. The second base surface <b>349</b> is contiguous to an end of the first inclined surface <b>249</b>, and stands longitudinally or vertically in <figref idref="DRAWINGS">FIG. 1</figref> and <figref idref="DRAWINGS">FIG. 6</figref>, and in parallel to the first base surface <b>149</b> at a position closer to rear of the housing <b>49</b> than the first base surface <b>149</b> so as to form a surface-indented structure. The capstans <b>57</b>D to <b>57</b>F with the separate rollers <b>90</b>D to <b>90</b>F are placed on a second inclined surface (flat surface) <b>449</b> which is inclined from and relative to the second base surface <b>149</b> toward rear of the housing <b>49</b>.</p>
+<p id="p-0055" num="0054">Thus, the first base surface <b>149</b> and the first inclined surface <b>249</b> form a first bent surface, while the second base surface <b>349</b> and the second inclined surface <b>449</b> form a second bent surface, in which the second bent surface is closer by a predetermined amount to rear of the housing <b>49</b> or rear of the wire drawing units <b>40</b> than the first bent surface to form a surface-indented structure with the predetermined amount of indentation as shown in <figref idref="DRAWINGS">FIG. 6</figref>. Because of this surface-indented structure, the lower (downstream) row of wire drawing units <b>40</b> (<b>40</b>D to <b>40</b>F) can be prevented from hindering the operation of placing the wire <b>11</b> over and between the wire drawing units <b>40</b> in the upper (upstream) row prior to the start of the wire drawing. Note that the wire supply unit <b>20</b> is placed on the first base surface <b>149</b>, while the wire winding unit <b>60</b> is placed on the second base surface <b>349</b>.</p>
+<p id="p-0056" num="0055">It is one of the features of the wire drawing machine <b>1</b> (or wire drawing unit) or wire drawing system of the present embodiment that a separate roller <b>90</b> (e.g. <b>90</b>A) is placed near each capstan <b>57</b> (e.g. <b>57</b>A) which allows the wire <b>11</b> to be transported without slide, and that the shaft (axis) of the separate roller <b>90</b> is slightly tilted in an appropriate amount in one direction (any direction) relative to that of the capstan <b>57</b>. In the present embodiment, the shaft of each separate roller <b>90</b> (e.g. <b>90</b>A) in the upper row is tilted rightward relative to the shaft of the capstan <b>57</b> (e.g. <b>57</b>A) as indicated by arrow R in <figref idref="DRAWINGS">FIG. 1</figref>, while the shaft of each separator roller <b>90</b> (e.g. <b>90</b>D) in the lower row is tilted leftward relative to the shaft of the capstan <b>57</b> (e.g. <b>57</b>D) as shown by arrow L in <figref idref="DRAWINGS">FIG. 1</figref>. More specifically, a front end of the shaft of each separator roller <b>90</b> (e.g. <b>90</b>A) in the upper row viewable in the front view of <figref idref="DRAWINGS">FIG. 1</figref> is positioned at a slightly right position relative to a rear end of the shaft of the separator roller <b>90</b> (e.g. <b>90</b>A), while a front end of the shaft of each separator roller <b>90</b> (e.g. <b>90</b>D) in the lower row viewable in the front view of <figref idref="DRAWINGS">FIG. 1</figref> is positioned at a slightly left position relative to a rear end of the shaft of the separator roller <b>90</b> (e.g. <b>90</b>D).</p>
+<p id="p-0057" num="0056">Using the first wire drawing unit <b>40</b>A, the operation of each of the wire drawing units <b>40</b>A to <b>40</b>C in the upper row will be described below. In the first wire drawing unit <b>40</b>A, the wire <b>11</b> is transported and wound around a substantially half circumference of the dancer roller <b>45</b>A, and is then directly transported to the wire drawing die <b>56</b>A placed on the first base surface <b>149</b>, and is further guided by a feed-in guide roller <b>51</b>A (also placed on the first base surface <b>149</b>) so as to be transported at a predetermined height from the first base surface <b>149</b> (i.e. at a farthest point of the feed-in guide roller <b>51</b>A from the first base surface <b>149</b>). The wire <b>11</b> from the wire drawing die <b>56</b>A via the feed-in guide roller <b>51</b>A is directly wound around a substantially lower half 180 degree portion of the capstan <b>57</b>A at a first position (height from the first inclined surface <b>249</b>) on the capstan <b>57</b>A, then around a substantially upper 90 degree portion of the separate roller <b>90</b>A, and then further back around also a substantially lower half 180 degree portion of the capstan <b>57</b>A at a second position (height from the first inclined surface <b>249</b>) of the capstan <b>57</b>A which is higher than the first position.</p>
+<p id="p-0058" num="0057">Here, the capstan <b>57</b>A is rotated counterclockwise in <figref idref="DRAWINGS">FIG. 1</figref> by a capstan motor (<b>58</b>A) which is rotatably mounted on the first inclined surface <b>249</b> with the shaft of the capstan motor (<b>58</b>A) being perpendicular to the first inclined surface <b>249</b>. Because of the tilt of the shaft of the separate roller <b>90</b>A relative to that of the capstan <b>57</b>A, the second position of the wire <b>11</b> on the capstan <b>57</b>A is different (higher in <figref idref="DRAWINGS">FIG. 7A</figref>) from the first position thereof. Thus, the two turns in one-loop winding of the wire <b>11</b> can be prevented from overlapping each other on the circumferential surface of the capstan <b>57</b>A. (The overlapping of turns can be similarly prevented in any multiple turns in multi-loop winding of the wire <b>11</b> on the capstan <b>57</b>A and the separate roller <b>90</b>A.) Each of the other wire drawing units <b>40</b>B, <b>40</b>C in the upper row operates in the same way as in the first wire drawing unit <b>40</b>A.</p>
+<p id="p-0059" num="0058">Furthermore, the operation of each of the wire drawing units <b>40</b>D to <b>40</b>F in the lower row, including prevention of overlapping of turns of wire <b>11</b>, is also performed in the same way, except that each of the capstans <b>57</b>D to <b>57</b>F rotated by each of the capstan motors (<b>58</b>D to <b>58</b>F), which is mounted on the second inclined surface <b>449</b> with the shaft of each of the capstan motors (<b>58</b>D to <b>58</b>F) being perpendicular to the second inclined surface <b>449</b>, is rotated clockwise, while the shaft of each of the separate rollers <b>90</b>D to <b>90</b>F is tilted leftward, and that the dancer rollers <b>45</b>E to <b>45</b>F, the wire drawing dies <b>56</b>D to <b>56</b>F and the feed-in and feed-out guide rollers <b>51</b>D to <b>51</b>F and <b>54</b>D to <b>54</b>F are placed on the second base surface <b>349</b>. Similarly, in the lower row, the second position of the wire <b>11</b> on each of the capstans <b>57</b>D to <b>57</b>F in the second turn is higher than the first position thereof in the first turn.</p>
+<p id="p-0060" num="0059">Referring now additionally to <figref idref="DRAWINGS">FIG. 3</figref>, <figref idref="DRAWINGS">FIG. 4</figref> and <figref idref="DRAWINGS">FIG. 5</figref>, a dancer roller unit <b>450</b> including a dancer roller <b>45</b> will be described. The dancer roller <b>45</b> is formed of a disk having a substantially V-shaped groove in an outer cylindrical surface thereof, in which the groove is used for supporting and guiding the wire <b>11</b>. As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the wire <b>11</b> is wound around an upper haft circumference or 180 degree portion of the dancer roller <b>45</b>. The four dancer rollers <b>45</b> (<b>45</b>A to <b>45</b>D) in the upper (upstream) row are linearly moved substantially in parallel to the first base surface <b>149</b> of the housing <b>49</b>, while the three dancer rollers <b>45</b> (<b>45</b>E to <b>45</b>G) in the lower (downstream) row are linearly moves substantially in parallel to the second base surface <b>349</b> of the housing <b>49</b>. More specifically, the opposite disk surfaces of each dancer roller <b>45</b> in the upper row linearly move substantially in parallel to the first base surface <b>149</b>, while the opposite disk surfaces of each dancer roller <b>45</b> in the lower row linear move substantially in parallel to the second base surface <b>349</b>.</p>
+<p id="p-0061" num="0060">As shown in <figref idref="DRAWINGS">FIG. 5</figref>, each dancer roller <b>45</b> is rotatably mounted on major surface of a substantially U-shaped plate <b>353</b> (U-shaped cross section). The plate <b>353</b> is slidably supported by four shafts <b>340</b> via four rollers <b>351</b> and one roller <b>350</b> provided on both sides of the plate <b>353</b>, respectively. The plate <b>353</b> is driven by a swing arm <b>346</b> having a circular cross section via a roller <b>352</b> mounted on an end of the plate <b>353</b>. This makes it possible for the dancer roller <b>45</b> to linearly move substantially in parallel to the first base surface <b>149</b> or the second base surface <b>349</b> of the housing <b>49</b> as described above. Note that each swing arm <b>346</b> in the upper row pivots in a pivot plane substantially perpendicular to the first base surface <b>149</b>, while each swing arm <b>346</b> in the lower row pivots in a pivot plane substantially perpendicular to the second base surface <b>349</b>.</p>
+<p id="p-0062" num="0061">As shown in <figref idref="DRAWINGS">FIG. 4</figref>, the swing arm <b>346</b> is driven by a rotary solenoid <b>47</b> via gears <b>310</b>, <b>320</b> to pivot about a fulcrum <b>347</b> as a pivot center. Note that the swing arm <b>346</b> is connected to a potentiometer <b>48</b> to feedback a position signal of the dancer roller <b>45</b> to a wire drawing unit controller <b>50</b> (refer to <figref idref="DRAWINGS">FIG. 2</figref>) so as to control and allow the swing arm <b>346</b> to continuously maintain a reference position such as a substantially central position in a range where the swing arm <b>346</b> can pivot. Further note that the rotary solenoid <b>47</b>, the gears <b>310</b>, <b>320</b>, the potentiometer <b>48</b> and the like are placed in the housing <b>49</b> on the rear of the first base surface <b>149</b> in the upper row or on the rear of the second base surface <b>349</b> in the lower row.</p>
+<p id="p-0063" num="0062">Referring back to <figref idref="DRAWINGS">FIG. 1</figref> and now also to <figref idref="DRAWINGS">FIG. 2</figref>, the wire supply unit <b>20</b> is formed of an unwinding bobbin <b>21</b> having a wire wound therearound, an unwinding motor <b>22</b> for rotating the unwinding bobbin <b>21</b>, guide rollers <b>23</b>, <b>31</b> for guiding the wire <b>11</b> in a predetermined direction, a wire supply unit controller <b>30</b> for controlling the wire supply unit <b>20</b>, and so on. The guide roller <b>31</b> is provided with a strain gauge <b>32</b> for detecting tension of the wire <b>11</b> to be supplied or drawn as well as an encoder <b>33</b> for detecting speed (transport speed) of the wire <b>11</b>. Furthermore, the unwinding motor <b>22</b> is subjected to feedback control so as to position the swing arm <b>346</b> at a reference position set by a setting unit <b>81</b>. The wire supply unit <b>20</b> is mounted as one unit on the first base surface <b>149</b> of the housing <b>49</b>.</p>
+<p id="p-0064" num="0063">The unwinding speed of the wire <b>11</b> from the wire supply unit <b>20</b> is detected by an encoder <b>33</b> which detects the rotation number of the guide roller <b>31</b> (or the guide roller <b>23</b>), and inputs a speed signal thus detected to the wire supply unit controller <b>30</b>. The thus input speed signal from the guide roller <b>31</b> is processed by the wire supply unit controller <b>30</b> as a feed forward signal to the unwinding motor <b>22</b>. A potentiometer <b>48</b>, detects a pivot angle of the swing arm <b>346</b>, which is an error component of the feed forward signal, and inputs the thus detected pivot angle to the wire supply unit controller <b>30</b>. The wire supply unit controller <b>30</b> calculates a pivot angle deviation between the thus input pivot angle of the swing arm <b>346</b> and a pivot angle of the swing arm <b>346</b> when positioned at the reference position set by the setting unit <b>81</b>. The wire supply unit controller <b>30</b> further determines and controls the rotation speed of the unwinding motor <b>22</b> to allow this pivot angle deviation to approach 0 (zero), and sends a command (rotation speed command) to the unwinding motor <b>22</b>. The wire supply unit controller <b>30</b> is also connected to a system controller <b>80</b> for various controls usable to control e.g. interactions between the wire supply unit controller <b>30</b> and the wire drawing unit controller <b>50</b> or a wire winding unit controller <b>70</b>.</p>
+<p id="p-0065" num="0064">Appropriate methods such as P control (proportional control), PI control (proportional plus integral control) and PID control (proportional plus integral plus derivative control) can be used for the wire supply unit controller <b>30</b> to control the rotation speed of the unwinding motor <b>22</b> by using the pivot angle deviation as a feedback signal. Here, the proportional control is a control which varies a control amount in proportion to a deviation (difference between a set value and a current value). The integral control is a control which calculates a sum of deviations, and varies a control amount in proportion to the sum of deviations. On the other hand, the derivative control is a control which calculates a rate of change of deviation, and varies a control amount in proportion to the rate of change of deviation.</p>
+<p id="p-0066" num="0065">Before starting the wire drawing, the wire <b>11</b>, which has a starting diameter of about 60 &#x3bc;m in the present example, is placed in the wire drawing machine <b>1</b> in order from the upstream (from the wire supply unit <b>20</b>) to the downstream (to the wire winding unit <b>60</b>), more specifically over and between the wire drawing units <b>40</b>A to <b>40</b>F (over and between the dancer rollers <b>45</b>, the wire drawing dies <b>56</b>, the capstans <b>57</b>, the guide rollers <b>51</b>, <b>54</b> and the like) in both upper and lower rows. At the most upstream site, the wire <b>11</b> is placed over and between the wire supply unit <b>20</b> and the capstan <b>57</b>A of the first wire drawing unit <b>40</b>A via the guide rollers <b>23</b>, <b>31</b>, the dancer roller <b>45</b>A, the wire drawing die <b>56</b>A and the feed-in guide roller <b>51</b>A. The respective guide rollers <b>23</b>, <b>31</b>, <b>51</b> are rotatably supported by the housing <b>49</b>.</p>
+<p id="p-0067" num="0066">When the wire drawing is started, the wire <b>11</b> is pulled by the capstan <b>57</b>A with the separate roller <b>90</b>A and unwound by the unwinding bobbin <b>21</b>, whereby the wire <b>11</b> is guided from the wire supply unit <b>20</b> to the first wire drawing unit <b>40</b>A during which the wire <b>11</b> is drawn and reduced in diameter at the wire drawing die <b>56</b>A. The wire drawing die <b>56</b>A has a roughly conical shape with a hollow cylinder having a length of 1 mm and a diameter of about 47 &#x3bc;m at its exit portion (diameter reduction rate of about 79%). Thus, the wire <b>11</b> is reduced by the wire drawing die <b>56</b>A to a diameter of about 47 &#x3bc;m. Any appropriate transport speed can be used for the wire <b>11</b> to pass the wire drawing die <b>56</b>A or each subsequent wire drawing die <b>56</b>B to <b>56</b>F. The transport speed at the exit of the wire drawing die <b>56</b>A here is 23 m per minute. The transport speed at each wire drawing die increases in proportion to the area reduction rate (here about 62%).</p>
+<p id="p-0068" num="0067">The wire <b>11</b> pulled and drawn by the capstan <b>57</b>A with the separate roller <b>90</b>A is guided by the feed-out guide roller <b>54</b>A to be transported to the capstan <b>57</b>B in the second wire drawing unit <b>40</b>B. Although the feed-out guide roller <b>54</b>A is positioned at the same height as that of the feed-in roller <b>51</b>A, the wire <b>11</b> can be wound twice at different heights on the capstan <b>57</b>A without requiring undesirable height adjustment between the feed-out and feed-in guide rollers <b>51</b>A, <b>54</b>A, because the feed-in roller <b>51</b>A and the feed-out roller <b>54</b>A are placed at different longitudinal positions (spaced from each other at a predetermined distance) on the first base surface <b>149</b>, and because the capstan <b>57</b>A and the separate roller <b>90</b>A are placed on the first inclined surface <b>249</b> inclined from the first base surface <b>149</b>, and further because the shaft (axis) of the separate roller <b>90</b>A is tilted relative to the shaft (axis) of the capstan <b>57</b>A. This wire height adjustment is similarly performed in each of the other wire drawing units <b>57</b>B to <b>57</b>F.</p>
+<p id="p-0069" num="0068">The wire <b>11</b> having a diameter of about 47 &#x3bc;m from the first wire drawing unit <b>40</b>A is transported to the capstan <b>57</b>B with the separate roller <b>90</b>B in the second wire drawing unit <b>40</b>B via the dancer roller <b>45</b>B, the wire drawing die <b>56</b>B and the feed-in guide roller <b>51</b>B therein, whereby the wire <b>11</b> is guided and transported from the first wire drawing unit <b>40</b>A to the second wire drawing unit <b>40</b>B during which the wire <b>11</b> reduced in diameter at the wire drawing die <b>56</b>A is further reduced in diameter at the wire drawing die <b>56</b>B. The wire drawing die <b>56</b>B also has a roughly conical shape with a hollow cylinder having a length of 1 mm and a diameter of about 37 &#x3bc;m at an exit portion thereof (diameter reduction rate of about 79%). Thus, the wire <b>11</b> is reduced by the wire drawing die <b>56</b>B to a diameter of about 37 &#x3bc;m by using a wire transport speed of about 37 m per minute.</p>
+<p id="p-0070" num="0069">In this way, the wire drawing processes are repeated at the total six wire drawing units <b>40</b>A to <b>40</b>F so as to obtain a resultant wire <b>11</b> having been reduced in diameter to a desired value which is 15 &#x3bc;m here. Note the wire transport speed at the exit of the final wire drawing unit is 400 m per minute. Further note that any appropriate wire transport speed can be used at each of the wire drawing dies, but preferably the wire transport speed at the exit of the final wire drawing unit is to be selected e.g. from 400 m to 500 m per minute. As described above, in the present example, the wire <b>11</b> has a starting diameter of 60 &#x3bc;m to be supplied to the first wire drawing unit <b>40</b>A, and is reduced in diameter (cross-sectional area) at a diameter reduction rate of 79% (area reduction rate of 62%) at each of the wire drawing dies <b>56</b> into a final diameter of 15 &#x3bc;m. The thus diameter-reduced wire <b>11</b> having a diameter of 15 &#x3bc;m is wound by a wire winding unit <b>60</b> at the most downstream site.</p>
+<p id="p-0071" num="0070">Each of the wire drawing units <b>40</b> has a wire drawing unit controller <b>50</b> for controlling the operation thereof. More specifically, the wire drawing unit controller <b>50</b> is connected to: each capstan motor <b>58</b> for rotation speed command; each strain gauge (<b>52</b>) for tension control; each encoder (<b>53</b>) for rotation speed control; each rotary solenoid <b>47</b> for torque command; each potentiometer <b>48</b> for angle control; and each strain gauge (<b>55</b>) for tension control. The wire drawing unit controller <b>50</b> is also connected to the system controller <b>80</b> for the purpose of various controls usable to control e.g. interactions between the wire drawing unit controller <b>50</b> and the wire supply unit controller <b>30</b> or the wire winding unit controller <b>70</b>. Appropriate methods such as P control, PI control and PID control as used in the wire supply unit controller <b>30</b> can be used in the wire drawing unit controller <b>50</b> to control the rotation speed of each capstan motor <b>58</b>.</p>
+<p id="p-0072" num="0071">The wire winding unit <b>60</b> comprises guide rollers <b>71</b>, <b>63</b> for guiding the wire <b>11</b>, a winding bobbin <b>61</b> for winding the wire <b>11</b> therearound, a winding motor <b>62</b> for rotating the winding bobbin <b>61</b>, a traverse slide rail <b>79</b> for the winding bobbin <b>61</b> to traverse, a drive motor <b>78</b> for traversely driving the winding bobbin <b>61</b> on the traverse slide rail <b>79</b>, a wire winding unit controller <b>70</b> (refer to <figref idref="DRAWINGS">FIG. 2</figref>) for controlling the wire winding unit <b>60</b>, and so on. The wire supply unit <b>60</b> is mounted as one unit on the housing <b>49</b>. The winding speed of the wire <b>11</b> by the wire winding unit <b>60</b> is detected by an encoder (<b>73</b>) which is mounted on, and detects the rotation number of, the guide roller <b>71</b> (or the guide roller <b>63</b>). The winding speed is determined by circumferential speed of the winding bobbin <b>61</b>, namely by the rotation speed of the winding motor <b>62</b>.</p>
+<p id="p-0073" num="0072">The wire winding unit <b>60</b> has a wire winding unit controller <b>70</b> for controlling the operation thereof. More specifically, the wire winding unit controller <b>70</b> is connected to the winding motor <b>62</b> for rotation speed command, the encoder (<b>73</b>) for rotation speed detection, and the drive motor <b>78</b> for traverse position command, and is also connected to the system controller <b>80</b> for various controls usable to control e.g. interactions between the wire winding unit controller <b>70</b> and the wire supply unit controller <b>30</b> or the wire drawing unit controller <b>50</b>. The wire winding unit controller <b>70</b> calculates a speed deviation between the wire speed (winding speed) detected by the encoder (<b>73</b>) and a winding command speed optionally set by the setting unit <b>81</b>.</p>
+<p id="p-0074" num="0073">The wire winding unit controller <b>70</b> further determines and controls the rotation speed of the winding motor <b>62</b> to allow this speed deviation to approach 0 (zero), and sends a command (rotation speed command) to the winding motor <b>62</b>. Appropriate methods such as P control, PI control and PID control as usable in the wire supply unit controller <b>30</b> can be also used in the wire winding unit controller <b>70</b> to control the rotation speed of the winding motor <b>62</b> by using the speed deviation as a feedback signal. Using the traverse slide rail <b>79</b>, the wire <b>11</b> is uniformly wound around the winding bobbin <b>61</b>. Here, the drive motor <b>78</b> for traversely driving the winding bobbin <b>61</b> is driven synchronously with the rotation speed of the winding motor <b>62</b> so as to allow the winding bobbin <b>62</b> to reciprocally move on the traverse slide rail <b>72</b>. The drive motor <b>78</b> is connected to the wire winding unit controller <b>70</b> so as to be driven in response to a command (traverse position command) from the wire winding unit controller <b>70</b>.</p>
+<p id="p-0075" num="0074">As described in the foregoing, the wire drawing machine or wire drawing method (system) according to the present example or embodiment uses at least one dancer roller for applying back tension to the wire, at least one wire drawing die for reducing the diameter of the wire, and at least one capstan for winding and transporting the wire without slip to apply front tension to the wire, in which the dancer roller is linearly moved substantially in parallel to a direction of wire drawing of the wire drawing die. Thus, this wire drawing machine or method (system) enables reduction of the width of the wire drawing machine, regardless of the number of wire drawing units to be used therein, whether using a single wire drawing unit or multiple wire drawing units connected in series in a row.</p>
+<p id="p-0076" num="0075">The use of a bent surface (on a housing or the wire drawing machine) having a longitudinally extending base surface and an inclined surface inclined from the base surface provides an advantage of enabling easy adjustment of the height of the wire on the capstan without causing much strain in the wire, and easy placement of the wire over and between the dancer roller, wire drawing die, feed-in guide roller, capstan, separate roller, and feed-out guide roller in a wire drawing unit before starting wire drawing. This advantage of using the bent surface increases in the case where multiple (two or more) wire drawing units are connected to form a wire drawing machine with multiple wire drawing units in one row using the first bent surface, or in two (or more) rows using the first bent surface with a second bent surface having a second base surface and a second inclined surface. It also provides an advantage of easier placement of the wire over and between the multiple wire drawing units before start of wire drawing.</p>
+<p id="p-0077" num="0076">Furthermore, by connecting multiple wire drawing units in a two-row arrangement, upper and lower (upstream and downstream) rows, the width of the wire drawing machine can be further reduced. When using the two-row arrangement, it is preferable to use a surface-indented structure in which the bent surface of the lower row is indented from the bent surface of the upper row, or in other words is closer to rear of the housing of the wire drawing machine, because the surface-indented structure makes easier the operation, before starting the wire drawing, of placing the wire over and between the multiple wire drawing units (over and between the dancer rollers, the wire drawing dies, the capstans, the guide rollers and the like) in both upper and lower rows. In addition, the use of a separate roller near each capstan with the shaft or axis of the separate roller being tilted relative to that of the capstan (more preferably with an elastic coating such as rubber on the capstan) improves the wire drawing or pulling force, thereby making it possible to stably and securely drawing or transporting the wire without slip and with low noise. As a result, it becomes possible to draw and reduce the diameter of the wire into a superfine wire as small as about 10 &#x3bc;m preferably by using multiple wire drawing units or multiple wire drawing processes.</p>
+<p id="p-0078" num="0077">It is to be noted that the present invention is not limited to the above example or embodiment, and various modifications are possible within the spirit and scope of the present invention. For example, all the guide rollers <b>31</b>, <b>71</b>, <b>51</b>, <b>54</b>, <b>23</b>, <b>63</b> (and so on) can be provided with a strain gauge for detecting tension of the wire and an encoder for detecting the speed of the wire. Furthermore, it is apparent that when multiple wire drawing units are used, not only a single row arrangement or a two-row arrangement of the wire drawing units, but also another multi-row arrangement, such as three-row or four-row, of the wire drawing units can be similarly used. In the case of a multi-row arrangement, it is preferable to use a surface-indented structure described above for each pair of adjacent rows, such that each row of wire drawing units is positioned at a level indented from that at which each preceding row (or each adjacent upper) of wire drawing units is positioned.</p>
+<heading id="h-0007" level="1">INDUSTRIAL APPLICABILITY</heading>
+<p id="p-0079" num="0078">The wire drawing machine or system (method) of the present invention can be used to draw not only a metal wire but also a nonmetal wire. In the case of metal wires, this wire drawing machine or system can be used e.g. to draw a gold wire for wire bonding in LSIs (large scale integrated circuits), a cupper wire for a stranded wire, and a stainless: steel wire for a screen-printing mesh, a brass wire for electric discharge machine, a stainless steel fish line, and so on. In the case of nonmetal wires, this wire drawing machine or system can be used e.g. to draw a plastic fiber for optical cable use, and so on.</p>
+<p id="p-0080" num="0079">The present invention has been described using embodiments with reference to the annexed drawings. However, it may be apparent to those ordinarily skilled in the art that various alterations and modifications are possible. Accordingly, it should be interpreted that such alterations and modifications do not fall outside the scope of the present invention, but fall within the scope of the present invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A wire drawing machine comprising a wire drawing unit which comprises:
+<claim-text>a wire drawing die for reducing a diameter of the wire;</claim-text>
+<claim-text>a dancer roller for applying back tension to a wire to be drawn, said dancer roller being linearly moved substantially in parallel to a direction of wire drawing of the wire drawing die;</claim-text>
+<claim-text>a capstan for winding and transporting the wire without slippage for applying front tension to the wire;</claim-text>
+<claim-text>a separate roller adjacent to the capstan, said separate roller having an axis that is slightly tilted relative to an axis of the capstan to allow turns of the wire wound around the capstan to be positioned at different positions on the capstan;</claim-text>
+<claim-text>a first guide roller for transporting the wire to the capstan;</claim-text>
+<claim-text>a second guide roller for transporting the wire away from the capstan;</claim-text>
+<claim-text>a bent surface having a base surface and an inclined surface inclined from the base surface toward a rear of the wire drawing machine,</claim-text>
+<claim-text>wherein the dancer roller, the wire drawing die, and the guide rollers are placed on the base surface, while the capstan and the separate roller are placed on the inclined surface.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A wire drawing machine comprising:
+<claim-text>a wire supply unit for supplying a wire to be drawn;
+<claim-text>multiple wire drawing units connected to each other for sequentially drawing the wire;</claim-text>
+<claim-text>multiple wire winding units for winding the wire from the capstan, each of the wire drawing units comprising a wire drawing die for reducing a diameter of the wire;</claim-text>
+<claim-text>a dancer roller for applying back tension to the wire, while the dance roller is being linearly moved substantially in parallel to a direction of wire drawing of the wire drawing die;</claim-text>
+<claim-text>a capstan for winding and transporting the wire without slippage and for applying front tension to the wire,</claim-text>
+<claim-text>a first guide roller for transporting the wire to the capstan, said first guide roller being positioned between the wire drawing die and the capstan;</claim-text>
+<claim-text>a second guide roller for transporting the wire away from the capstan;</claim-text>
+<claim-text>a separate roller adjacent to the capstan, said separate roller having an axis that is slightly tilted relative to an axis of the capstan to allow turns of the wire wound around the capstan to be positioned at different positions on the capstan; and</claim-text>
+<claim-text>a bent surface having a base surface and an inclined surface inclined from the base surface toward a rear of the wire drawing machine;</claim-text>
+<claim-text>wherein the dancer roller, the wire drawing die, and the guide rollers are placed on the base surface, while the capstan and the separate roller are placed on the inclined surface.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The wire drawing machine according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the wire drawing units are arranged in at least two rows, such that a lower row in a pair of adjacent rows of wire drawing units is positioned at a level indented from that at which an upper row in the pair is positioned. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

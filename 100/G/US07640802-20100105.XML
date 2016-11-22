@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640802-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640802</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10552745</doc-number>
+<date>20040408</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>GB</country>
+<doc-number>0308467.0</doc-number>
+<date>20030411</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>327</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>19</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>21</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>17</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>P</subclass>
+<main-group>3</main-group>
+<subgroup>44</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>15</main-group>
+<subgroup>14</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>N</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 73489</main-classification>
+<further-classification> 7311201</further-classification>
+<further-classification> 73509</further-classification>
+<further-classification> 73579</further-classification>
+<further-classification> 73660</further-classification>
+<further-classification> 738659</further-classification>
+<further-classification>702 57</further-classification>
+<further-classification>702113</further-classification>
+<further-classification>702121</further-classification>
+<further-classification>702147</further-classification>
+<further-classification>702189</further-classification>
+</classification-national>
+<invention-title id="d0e71">Method and system for analysing tachometer and vibration data from an apparatus having one or more rotary components</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2219298</doc-number>
+<kind>A</kind>
+<name>Dashefaky</name>
+<date>19401000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73650</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3939715</doc-number>
+<kind>A</kind>
+<name>Davis</name>
+<date>19760200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73462</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4213114</doc-number>
+<kind>A</kind>
+<name>Cochard</name>
+<date>19800700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5152172</doc-number>
+<kind>A</kind>
+<name>Leon et al.</name>
+<date>19921000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5412985</doc-number>
+<kind>A</kind>
+<name>Garcia et al.</name>
+<date>19950500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73460</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5471880</doc-number>
+<kind>A</kind>
+<name>Lang et al.</name>
+<date>19951200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>6098022</doc-number>
+<kind>A</kind>
+<name>Sonnichsen et al.</name>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>6456945</doc-number>
+<kind>B1</kind>
+<name>Sonnichsen et al.</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>702 56</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6526829</doc-number>
+<kind>B1</kind>
+<name>Lysen et al.</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73593</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6789422</doc-number>
+<kind>B1</kind>
+<name>Ward, Jr.</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73462</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>9</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 73489</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73509</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 738659</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73579</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73660</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 7311201</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>702 57</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>702113</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>702121</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>702145</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>702147</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>702189</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>18</number-of-drawing-sheets>
+<number-of-figures>30</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070006636</doc-number>
+<kind>A1</kind>
+<date>20070111</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>King</last-name>
+<first-name>Dennis</first-name>
+<address>
+<city>Derby</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Astley</last-name>
+<first-name>Ken</first-name>
+<address>
+<city>Derby</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Tarassenko</last-name>
+<first-name>Lionel</first-name>
+<address>
+<city>Oxford</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Anuzis</last-name>
+<first-name>Paul</first-name>
+<address>
+<city>Derby</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+<applicant sequence="005" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hayton</last-name>
+<first-name>Paul</first-name>
+<address>
+<city>Bicester</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+<applicant sequence="006" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>King</last-name>
+<first-name>Stephen</first-name>
+<address>
+<city>Swadlincote</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Blank Rome, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Oxford Biosignals Limited</orgname>
+<role>03</role>
+<address>
+<city>Oxfordshire</city>
+<country>GB</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Noland</last-name>
+<first-name>Thomas P</first-name>
+<department>2856</department>
+</primary-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/GB2004/001575</doc-number>
+<kind>00</kind>
+<date>20040408</date>
+</document-id>
+<us-371c124-date>
+<date>20060831</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2004/090488</doc-number>
+<kind>A </kind>
+<date>20041021</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method of analysing tachometer and vibration response data from an apparatus having one or more rotary components is provided. The method comprises the steps of: providing vibration response data and corresponding tachometer data from the apparatus for a period over which a rotary component of the apparatus varies in rotational speed, the tachometer data being for that component; repeatedly performing at intervals throughout the period the sub-steps of: determining a forcing frequency of the component from the tachometer data and a corresponding vibration response frequency of the apparatus from the vibration response data, comparing the forcing and vibration response frequencies to determine the relative phase difference between the frequencies, and determining the corresponding amplitude of the vibration response from the vibration response data; and plotting the relative phase differences and vibration amplitudes on a polar diagram. The plot trajectory is characteristic of the behavior of the apparatus over the period.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="84.50mm" wi="172.30mm" file="US07640802-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="252.05mm" wi="170.69mm" file="US07640802-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="236.14mm" wi="178.48mm" file="US07640802-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="246.97mm" wi="179.32mm" file="US07640802-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="234.53mm" wi="134.20mm" file="US07640802-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="215.05mm" wi="180.42mm" file="US07640802-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="192.53mm" wi="176.19mm" file="US07640802-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="256.37mm" wi="172.30mm" orientation="landscape" file="US07640802-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="213.87mm" wi="176.61mm" file="US07640802-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="247.73mm" wi="182.46mm" file="US07640802-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="243.08mm" wi="171.87mm" file="US07640802-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="174.50mm" wi="165.10mm" file="US07640802-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="194.90mm" wi="171.96mm" file="US07640802-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="198.80mm" wi="175.85mm" orientation="landscape" file="US07640802-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="180.85mm" wi="177.72mm" file="US07640802-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="198.80mm" wi="177.80mm" file="US07640802-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="241.81mm" wi="174.75mm" file="US07640802-20100105-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="199.90mm" wi="177.38mm" orientation="landscape" file="US07640802-20100105-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="197.53mm" wi="177.72mm" orientation="landscape" file="US07640802-20100105-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">This invention relates to a method and system for analysing tachometer and vibration data from an apparatus having one or more rotary components.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Apparatuses with rotary components, such as gas turbine engines, are subject to vibratory forces at frequencies which are related to the angular velocity of the respective component and hence engine speed. These frequencies are conventionally known as engine order forcing frequencies, each engine order corresponding to a rotational frequency of a particular component (or a fraction or harmonic of the fundamental frequency) and exerting a corresponding vibratory force on the engine.</p>
+<p id="p-0004" num="0003">The forces may arise because e.g. an engine is out of balance on a particular shaft, stiffness irregularities in engine components, and (significantly in the case of gas turbine engines) aerodynamic interactions between the blades of the engine.</p>
+<p id="p-0005" num="0004">At a given engine speed, a number of these engine orders are generally active and result in corresponding vibration responses in the engine which are measurable e.g. as strains or accelerations. Each vibration response generally has the same frequency as the engine order forcing frequency which generated it. However, the relative phase difference between a vibration response and the corresponding engine order may change as the engine speed varies, and particularly when the engine order traverses a resonance frequency of the engine.</p>
+<p id="p-0006" num="0005">Indeed, merely moving toward or away from such a resonance may cause the phase difference to change.</p>
+<p id="p-0007" num="0006">A conventional approach for determining the phase relationship between the forcing frequency of an engine component (e.g. a shaft) and a vibration response is to fit a dedicated once per revolution tachometer to the component. This tachometer would determine the component rotational position (i.e. phase) and also serves as a trigger for the collection of vibration measurements. The approach is illustrated by <figref idref="DRAWINGS">FIG. 1</figref> which is a flow diagram showing the sequence of data acquisition and analysis events.</p>
+<p id="p-0008" num="0007">The approach is relatively simple in concept, and the synchronisation between the tachometer and the vibration measurements allows the absolute phase difference between the component rotational position and the vibration response to be determined. However, it relies on being able to fit an accurate, robust and dedicated tachometer to the component in question, something which is not always possible for complex components such as the shafts of multi-shaft gas turbine engines. Also the approach precludes deriving simultaneous phase information for other components (e.g. other shafts in a multi-shaft gas turbine), unless the investigator is able to fit further dedicated tachometers which in turn trigger further vibration measurements. Thus, in relation to gas turbine engines, the approach is only generally used for shaft balancing operations, where absolute phase information is needed.</p>
+<p id="p-0009" num="0008">However, U.S. Pat. No. 6,456,945 discloses a method which uses a measurement of absolute phase information to identify an anomaly, such as a crack, in a rotor. In this method, a vibration signal synchronous with the frequency of vibration is filtered from a vibration measurement. A background vibration vector is then subtracted from the vibration signal to produce a vibration difference signal. The phase and amplitude of the vibration difference signal are measured and evaluated to determine whether an anomaly has developed. However, the method is reliant on the rotor turning at a single, fixed trigger speed, and a disadvantage of the method is that a suitable trigger speed has to be known in advance.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">The present invention is partly based on the realisation that a relative (rather than an absolute) phase difference between a forcing frequency and a vibration response can provide useful information about the state of an engine. In certain aspects, it is also partly based on the realisation that useful information can be obtained by analysing how forcing frequency and a vibration response data react to variation in rotational speed.</p>
+<p id="p-0011" num="0010">In general terms the invention provides a method and computer systems for analysing tachometer and vibration response data from an apparatus having one or more rotary components, the method comprising the steps of:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0011">providing vibration response data and tachometer data from the apparatus, the tachometer data being for a rotary component of the apparatus;</li>
+        <li id="ul0002-0002" num="0012">determining a forcing frequency of the component from the tachometer data and a corresponding vibration response frequency of the apparatus from the vibration response data; and</li>
+        <li id="ul0002-0003" num="0013">comparing the forcing and vibration response frequencies to determine the relative phase difference between the frequencies. The phase difference may be used to diagnose the state of the apparatus or to identify an event occurring to the apparatus.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0012" num="0014">Preferably the amplitude of the vibration response is also determined from the vibration response data. The phase difference &#x3b8; between the frequencies and the vibration amplitude a may then be plotted on a polar diagram, i.e. as the components of a vector r=r(a, &#x3b8;)=(a cos &#x3b8;)i+(a sin &#x3b8;)j, where i and j are the unit vectors in the x and y directions, respectively.</p>
+<p id="p-0013" num="0015">Thus, in a first aspect, the present invention provides a method of analysing tachometer and vibration response data from an apparatus having one or more rotary components, the method comprising the steps of:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0016">providing vibration response data and corresponding tachometer data from the apparatus for a period over which a rotary component of the apparatus varies in rotational speed, the tachometer data being for that component;</li>
+        <li id="ul0004-0002" num="0017">repeatedly performing at intervals throughout the period the sub-steps of:
+        <ul id="ul0005" list-style="none">
+            <li id="ul0005-0001" num="0018">determining a forcing frequency of the component from the tachometer data and a corresponding vibration response frequency of the apparatus from the vibration response data,</li>
+            <li id="ul0005-0002" num="0019">comparing the forcing and vibration response frequencies to determine the relative phase difference between the frequencies, and</li>
+            <li id="ul0005-0003" num="0020">determining the corresponding amplitude of the vibration response from the vibration response data; and</li>
+        </ul>
+        </li>
+        <li id="ul0004-0003" num="0021">plotting the relative phase differences and vibration amplitudes on a polar diagram, whereby the plot trajectory is characteristic of the behaviour of the apparatus over the period.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0014" num="0022">On the polar diagram, as the relative phase difference &#x3b8; and corresponding amplitude a determined at each interval are the (a, &#x3b8;) components of the vector r, the plot trajectory is then the locus of successive vectors for different speeds. Advantageously, because the trajectory effectively samples a range of speeds, it may not be necessary to know in advance which rotation speed (if any) produces a phase difference/amplitude vector which is particularly sensitive to changes in apparatus behaviour.</p>
+<p id="p-0015" num="0023">Conveniently, the polar diagram may be visually displayed in some way, e.g. by printing or displaying on a monitor.</p>
+<p id="p-0016" num="0024">In general, apparatuses such as gas turbine engines display characteristic behaviours in relative phase difference and/or vibration amplitude as e.g. the engine accelerates, decelerates or cruises. Departures from these behaviours can be indicative of &#x201c;abnormal&#x201d; engine behaviour. Polar diagrams allow such departures to be easily identified, as the form of the above-mentioned trajectory displayed on such a diagram can be particularly sensitive to changes in behaviour. Even if the polar diagram is not visually displayed, the relative phase differences and vibration amplitudes, obtained for the period in which the component varies in rotational speed and represented as the components of vectors r, may be used e.g. to trigger an alert when &#x201c;abnormal&#x201d; behaviour occurs.</p>
+<p id="p-0017" num="0025">The phase difference and vibration amplitude, may be used to diagnose the state of the apparatus or to identify an event occurring to the apparatus e.g. in order to understand apparatus behaviour, validate apparatus models, troubleshoot the apparatus, monitor the &#x201c;health&#x201d; of the apparatus, monitor for abnormal events etc. Thus, preferably, the method further comprises the step of comparing the plot trajectory with a reference trajectory for a period in which the apparatus experiences the same variation in rotational speed, e.g. in order to diagnose the state of the apparatus or to identify an event occurring to the apparatus. For example, the reference trajectory may describe the normal trajectory associated with a healthy apparatus.</p>
+<p id="p-0018" num="0026">Preferably the apparatus is a gas turbine engine. The rotary component may be a turbine drive shaft of the engine.</p>
+<p id="p-0019" num="0027">The tachometer data and vibration response data may be independently acquired of each other, by which we preferably mean that the tachometer is not used to trigger acquisition of the vibration response data. This means that, compared with the conventional approach discussed above, more flexible data gathering arrangements can be adopted. For example, if tachometer data is available for each of a plurality of shafts of a multi-shaft gas turbine engine, the corresponding vibration response frequencies can all be derived from the same source of vibration response data. This source may be e.g. a single vibration transducer.</p>
+<p id="p-0020" num="0028">Although the tachometer data can provide the absolute rotary position of the component, this is not essential and the tachometer data can provide merely the relative rotary position of the component instead. For example, the tachometer may measure rotary position using a multi-pole or other non-unique position indicator, or it may measure the rotary position of the output of a set of gears, which are in turn connected, at a known gearing ratio, to the component of interest. Thus the problem of fitting a dedicated tachometer to the component can be avoided. Particularly with respect to complicated machinery, such as gas turbine engines, this makes it much simpler to obtain relative phase information from a plurality of components, such as the different drive shafts of the engine.</p>
+<p id="p-0021" num="0029">In preferred embodiments, the forcing and vibration response frequencies are compared in the time domain in order to determine the relative phase difference between the frequencies.</p>
+<p id="p-0022" num="0030">When performing phase comparisons between signals in the frequency domain, a reasonable level of coherence must be achieved within the cross-transform. However, in the previously-mentioned conventional approach for determining the phase relationship between the forcing frequency of a rotary component and a vibration response in which a tachometer triggers the collection of vibration measurements, the tachometer signal typically takes the form of narrow pulses. These pulses do not generally contain sufficient energy to maintain adequate coherence. A possible solution would be to extend the duration of each pulse by increasing its mark-space ratio, but this is only practicable over certain speed ranges of the component. However, by performing the phase measurement in the time domain these difficulties are overcome. A further advantage is that relative phase differences can be measured on a number of independent components (e.g. shafts), together with component orders which can be fractional multiples of the reference component rotational speed or can be mechanically coupled e.g. via gear trains.</p>
+<p id="p-0023" num="0031">Conveniently, the method may be performed on previously measured data. Alternatively it may further comprise the preliminary step of:
+<ul id="ul0006" list-style="none">
+    <li id="ul0006-0001" num="0000">
+    <ul id="ul0007" list-style="none">
+        <li id="ul0007-0001" num="0032">measuring the vibration response of the apparatus and rotational speed of the component over the period to obtain the vibration response data and corresponding tachometer data.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0024" num="0033">Related aspects of the invention provide (a) a computer system operatively configured to perform the method of the first aspect, (b) computer readable media carrying computer code for performing the method of the first aspect, and (c) a computer program for performing the method of the first aspect.</p>
+<p id="p-0025" num="0034">Optional and/or preferred features of the first aspect of the invention may also be applied to the related aspects. Thus, for example, the above computer system may be a system for diagnosing the state of the apparatus or for identifying an event occurring to the apparatus.</p>
+<p id="p-0026" num="0035">In one embodiment, a computer system for analysing tachometer and vibration response data from an apparatus having one or more rotary components comprises:
+<ul id="ul0008" list-style="none">
+    <li id="ul0008-0001" num="0000">
+    <ul id="ul0009" list-style="none">
+        <li id="ul0009-0001" num="0036">data storage for storing vibration response data and tachometer data from the apparatus, the tachometer data being for a rotary component of the apparatus, and the vibration response data and tachometer data preferably being acquired independently of each other, and</li>
+        <li id="ul0009-0002" num="0037">a processor for (a) determining a forcing frequency of the component from the tachometer data and a corresponding vibration response frequency of the apparatus from the vibration response data, and (b) comparing the forcing and vibration response frequencies to determine the relative phase difference between the frequencies.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0027" num="0038">More particularly, the data storage may be for storing vibration response data and corresponding tachometer data from the apparatus for a period over which a rotary component of the apparatus varies in rotational speed, the tachometer data being for that component. Also, the processor may be adapted such that at intervals throughout the period it repeatedly (a) determines a forcing frequency of the component from the tachometer data and a corresponding vibration response frequency of the apparatus from the vibration response data, (b) compares the forcing and vibration response frequencies to determine the relative phase difference between the frequencies, (c) determines the corresponding amplitude of the vibration response from the vibration response data, and (d) plotting the relative phase differences and vibration amplitudes (as a vector) on a polar diagram, whereby the plot trajectory (of the vector) is characteristic of the behaviour of the apparatus over the period. The computer system may have a display to display the plot trajectory.</p>
+<p id="p-0028" num="0039">The present inventors have also realised that polar diagrams which represent phase difference and vibration amplitude measurements can be used in novel ways to model engine behaviour and monitor for engine abnormalities.</p>
+<p id="p-0029" num="0040">Thus a second aspect of the invention provides a method of constructing a model of normal behaviour for an apparatus having at least one rotary component, the method comprising the steps of:
+<ul id="ul0010" list-style="none">
+    <li id="ul0010-0001" num="0000">
+    <ul id="ul0011" list-style="none">
+        <li id="ul0011-0001" num="0041">measuring, for a rotational speed of the component, (a) the phase difference between a forcing frequency for the component and a corresponding vibration response frequency of the apparatus, and (b) the vibration amplitude of the response frequency; and</li>
+        <li id="ul0011-0002" num="0042">using the measured phase difference &#x3b8; and corresponding vibration amplitude a to determine, for the rotational speed, a perimeter which sets the limit of normal behaviour for that speed, the perimeter being plotted on a polar diagram which represents phase differences and vibration amplitudes.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0030" num="0043">Thus, on the polar diagram the perimeter is plotted around the tip of the vector r(a, &#x3b8;) for that speed.</p>
+<p id="p-0031" num="0044">Preferably the centre of the (typically circular) area on the polar diagram encompassed by the perimeter is the average position of successive vectors r constructed from phase difference and vibration amplitude measurements at the same rotational speed. The radius may scale with the amount of scatter between the positions of the successive vectors r constructed from phase difference and vibration amplitude measurements (the amount of scatter may be quantified as the standard deviation, &#x3c3;, of the different positions of the successive vectors). In this way, the method allows a statistically-based model of normal behaviour to be determined in situations where only intermittent operation occurs at each rotational speed. For example, an aero gas turbine engine under normal service conditions does not usually undergo smooth acceleration and deceleration manoeuvres between 0% and 100% speed, but rather spends varying amounts of time at different speeds. However, by applying the method of this aspect of the invention to each of a plurality of speeds, which preferably together cover the full range of speeds, a model of normal in service behaviour across the full range can be gradually accumulated without the need for dedicated acceleration and deceleration manoeuvres. A model of this type can be particularly useful for identifying slowly evolving engine abnormalities.</p>
+<p id="p-0032" num="0045">Alternatively, the model may be continually updated during operation of the apparatus. The centre of the area on the polar diagram encompassed by the perimeter can then be the position of the current vector r constructed from phase difference and vibration amplitude measurements. A perimeter radius may then be set which scales with e.g. the amount of noise in the measurements. If the position of the next vector r constructed from phase difference and vibration amplitude measurements is outside the perimeter, an engine abnormality may be the cause. Of course intentional changes in speed may also cause the position of the next phase difference and vibration amplitude measurements to move, but when such changes occur the perimeter radius can be momentarily expanded to compensate. This type of model can be particularly useful for identifying relatively quickly occurring engine abnormalities.</p>
+<p id="p-0033" num="0046">Preferably the apparatus is a gas turbine engine. The rotary component may be a turbine drive shaft of the engine.</p>
+<p id="p-0034" num="0047">Preferably the method of the first aspect of the invention is used to supply the measurements of phase difference and vibration amplitude. However, this is not essential and, for example, vibration response data may be acquired under the control of a tachometer (e.g. according to <figref idref="DRAWINGS">FIG. 1</figref>) and then used in the measurement of the phase difference and vibration amplitude.</p>
+<p id="p-0035" num="0048">Related aspects of the present invention provide computer readable media carrying a model of normal behaviour constructed according to the second aspect, and the use of such a model for monitoring for abnormal behaviour in an apparatus having at least one rotary component.</p>
+<p id="p-0036" num="0049">By a &#x201c;computer system&#x201d; we mean the hardware, software and data storage devices used to perform the method of a previous aspect. For example, a computer system of the present invention may comprise a central processing unit (CPU), input means, output means and data storage. Desirably the computer system has a monitor to provide a visual output display e.g. for polar diagrams. The data storage may comprise RAM or other computer readable media.</p>
+<p id="p-0037" num="0050">By &#x201c;computer readable media&#x201d; we mean any medium or media which can be read and accessed directly by a computer or computer system. The media include, but are not limited to: magnetic storage media such as floppy discs, hard disc storage medium and magnetic tape; optical storage media such as optical discs or CD-ROM; electrical storage media such as RAM and ROM; and hybrids of these categories such as magnetic/optical storage media.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0038" num="0051">The various aspects of the invention will be further described by way of example with reference to the accompanying drawings, in which:</p>
+<p id="p-0039" num="0052"><figref idref="DRAWINGS">FIG. 1</figref> is a flow diagram showing the sequence of data acquisition and analysis events in a conventional approach for determining the phase relationship between a forcing frequency and a vibration response;</p>
+<p id="p-0040" num="0053"><figref idref="DRAWINGS">FIG. 2</figref> shows a schematic longitudinal section of the coaxial shafts of a Rolls-Royce multi-shaft gas turbine engine;</p>
+<p id="p-0041" num="0054"><figref idref="DRAWINGS">FIG. 3</figref> shows schematically a vibration amplitude plot for a typical vibration response to an engine order forcing frequency during engine acceleration;</p>
+<p id="p-0042" num="0055"><figref idref="DRAWINGS">FIG. 4</figref> shows-schematically the signals received from tachometer <b>5</b> of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0043" num="0056"><figref idref="DRAWINGS">FIG. 5</figref> is an example of a transform window;</p>
+<p id="p-0044" num="0057"><figref idref="DRAWINGS">FIG. 6</figref> is a flow diagram showing the sequence of data acquisition and analysis events in an approach for determining the phase relationship between an engine forcing frequency and a vibration response according to an embodiment of the present invention;</p>
+<p id="p-0045" num="0058"><figref idref="DRAWINGS">FIG. 7</figref><i>a </i>shows schematically a polar diagram for the same engine acceleration as <figref idref="DRAWINGS">FIG. 3</figref>; and <figref idref="DRAWINGS">FIG. 7</figref><i>b </i>shows schematically a further polar diagram for a different acceleration by the same engine;</p>
+<p id="p-0046" num="0059"><figref idref="DRAWINGS">FIGS. 8</figref><i>a </i>and <i>b </i>show respectively corresponding tracked orders and polar diagram plots for real data collected from a decelerating Rolls-Royce Trent engine;</p>
+<p id="p-0047" num="0060"><figref idref="DRAWINGS">FIG. 9</figref> shows four vibration amplitude plots obtained from respective tests on a spinning disc rig performed on 17, 19, 21 and 24 Mar. 2003;</p>
+<p id="p-0048" num="0061"><figref idref="DRAWINGS">FIGS. 10</figref><i>a</i>-<i>c </i>respectively show polar diagrams plotting the average trajectories of the phase difference/amplitude vector for the spinning disc rig tests of 17, 21 and 24 Mar. 2004;</p>
+<p id="p-0049" num="0062"><figref idref="DRAWINGS">FIG. 11</figref><i>a </i>shows four schematic plots, labelled <b>14</b><i>a</i>-<i>d</i>, of shaft vibration amplitude for respective &#x201c;mass redistribution&#x201d; events in a gas turbine engine; and <figref idref="DRAWINGS">FIG. 11</figref><i>b </i>shows four corresponding schematic polar diagram plots, labelled <b>15</b><i>a</i>-<i>d</i>, for the same events as <figref idref="DRAWINGS">FIG. 11</figref><i>a; </i></p>
+<p id="p-0050" num="0063"><figref idref="DRAWINGS">FIGS. 12</figref><i>a </i>and <i>b </i>show respectively a vibration amplitude plot and the corresponding polar diagram for real data collected from a Rolls-Royce-Trent engine operating at steady state which experienced a blade detachment event;</p>
+<p id="p-0051" num="0064"><figref idref="DRAWINGS">FIG. 13</figref><i>a </i>is a graph of rotational speed against time for a sequence of the 24 Mar. 2004 acceleration/deceleration tests of <figref idref="DRAWINGS">FIGS. 9 and 10</figref>, and <figref idref="DRAWINGS">FIG. 13</figref><i>b </i>shows the corresponding output from a change detector;</p>
+<p id="p-0052" num="0065"><figref idref="DRAWINGS">FIGS. 14</figref><i>a </i>and <i>b </i>show respectively a schematic LP vibration amplitude plot and the corresponding polar diagram for a gas turbine engine experiencing a bird strike;</p>
+<p id="p-0053" num="0066"><figref idref="DRAWINGS">FIGS. 15</figref><i>a </i>and <i>b </i>show respectively a vibration amplitude plot and the corresponding polar diagram for real data collected from a Rolls-Royce Trent engine operating at steady state which experienced an actual bird strike;</p>
+<p id="p-0054" num="0067"><figref idref="DRAWINGS">FIG. 16</figref><i>a </i>shows a polar diagram plot for a typical acceleration-deceleration manoeuvre superimposed with three circles corresponding to average position and 3&#x3c3; limits for respective speed sub-ranges determined from 100 flying hours of data, and <figref idref="DRAWINGS">FIG. 16</figref><i>b </i>is a detail of the high speed end of the plot of <figref idref="DRAWINGS">FIG. 16</figref><i>a; </i></p>
+<p id="p-0055" num="0068"><figref idref="DRAWINGS">FIGS. 17</figref><i>a </i>and <i>b </i>show schematically an HP vibration amplitude plot and the corresponding polar diagram for a Rolls-Royce Trent gas turbine engine experiencing progressive bearing failure; and</p>
+<p id="p-0056" num="0069"><figref idref="DRAWINGS">FIGS. 18</figref><i>a </i>and <i>b </i>show schematically a vibration amplitude plot and the corresponding polar diagram for a shaft of an accelerating and subsequently cruising gas turbine engine, one of the shaft fan blades having a growing skin crack.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DESCRIPTION OF THE EMBODIMENTS</heading>
+<p id="p-0057" num="0070"><figref idref="DRAWINGS">FIG. 2</figref> shows a schematic longitudinal section of the three coaxial shafts of a Rolls-Royce multi-shaft gas turbine engine. Low pressure (LP) shaft <b>1</b> occupies the central position and is surrounded in turn by intermediate pressure (IP) shaft <b>2</b> and high pressure (HP) shaft <b>3</b>.</p>
+<p id="p-0058" num="0071">LP shaft <b>1</b> carries a single pole tachometer <b>4</b> which is conventionally used for shaft balancing operations. IP shaft <b>2</b> carries a <b>60</b> pole tachometer <b>5</b> which is conventionally used for standard shaft speed measurements for engine control purposes. HP shaft <b>3</b> is connected via bevel gear <b>6</b> and step aside gearbox <b>7</b> to main (external) gear box <b>8</b>, with a tachometer <b>9</b> connected to the output of the main gear box.</p>
+<p id="p-0059" num="0072">Tachometer <b>4</b> produces a signal pulse for each rotation of the LP shaft, and hence the rotational frequency (i.e. shaft speed) of the LP shaft can be determined from the inverse of the period between signal pulses. Tachometer <b>5</b> produces 60 signal pulses for each rotation of the IP shaft, and hence the rotational frequency of the IP shaft can be determined from the inverse of 60&#xd7; the period between signal pulses. Tachometer <b>9</b> measures the rotational frequency of the output of the main gearbox. However, as the gearing ratios of the main and step aside gearboxes <b>7</b>, <b>8</b> and bevel gear <b>6</b> are known, the rotational frequency of the HP shaft can be inferred from tachometer <b>9</b>. The rotational frequencies measured by the tachometers provide the forcing frequencies (e.g. fundamental, fractional and harmonic components) for each shaft.</p>
+<p id="p-0060" num="0073">Tachometer <b>4</b> also provides an absolute measure of shaft rotational position, whereas tachometers <b>5</b> and <b>9</b> provide relative measures of shaft rotational position.</p>
+<p id="p-0061" num="0074">A vibration transducer (not shown in <figref idref="DRAWINGS">FIG. 2</figref>) is fitted to the engine and independently acquires vibration response data.</p>
+<p id="p-0062" num="0075">The vibration response data is sampled at an appropriate rate for the bandwidth of interest and is processed by an FFT in the conventional manner, retaining real and imaginary components. The phase derived for each real and imaginary pair is referenced to the phase angle of the first frequency bin in the transform window.</p>
+<p id="p-0063" num="0076">The vibration amplitude against time of a typical vibration response to an engine order forcing frequency (measured by tachometer <b>4</b>, <b>5</b> or <b>9</b>) during engine acceleration is shown schematically in <figref idref="DRAWINGS">FIG. 3</figref>. As the engine speed (and hence forcing frequency) increases, the amplitude of the corresponding vibration response varies. Such plots are herein termed &#x201c;vibration amplitude plots&#x201d;</p>
+<p id="p-0064" num="0077">The tachometer signals are sampled at higher frequencies than the vibration response data. The shaft rotational frequencies (and hence fundamental forcing frequencies) are conveniently calculated by locating the positive rising transitions of the signal pulses. This is illustrated in <figref idref="DRAWINGS">FIG. 4</figref>, which shows schematically the signals received from tachometer <b>5</b>. Each pulse <b>20</b> is caused by the passage of one of the 60 poles. Positive rising transitions are identified by arrows.</p>
+<p id="p-0065" num="0078">Phase information from each tachometer signal is determined by locating the positive rising transition nearest to the centre of the transform window. The distance of this transition from the centre represents a time delay, t, between the transition of the tachometer signal and the response signal of the shaft. The phase of the shaft (and the respective fundamental forcing frequency) can be derived from the expression 2 &#x3c0;ft, where f is the rotational frequency of the shaft calculated previously. <figref idref="DRAWINGS">FIG. 5</figref> is an example of a transform window showing the vibration signal for the first frequency bin <b>21</b>, the tachometer signal <b>20</b>, and time delay t. The window centre is indicated by the dotted vertical line.</p>
+<p id="p-0066" num="0079">In this way, each vibration response phase measurement is compared with the forcing frequency phase measurement for the same instant to derive a relative phase difference between the forcing frequency and the vibration response frequency. Essentially the forcing and vibration response frequencies are compared in the time domain. Fractional and harmonic frequencies and phases can be calculated from the fundamental forcing frequency and compared with the vibration response frequency in the same way. Relative phase differences can also be calculated for non-integral order related components (such as the radial drive shaft, gears, pumps etc.) which are directly or indirectly connected to the main shafts and have a fixed relationship of rotational speed to the monitored tachometer signal.</p>
+<p id="p-0067" num="0080"><figref idref="DRAWINGS">FIG. 6</figref> is a flow diagram showing the sequence of data acquisition and analysis events according to this embodiment of the present invention. In contrast with <figref idref="DRAWINGS">FIG. 1</figref>, note how the data acquisition steps are independent of each other.</p>
+<p id="p-0068" num="0081"><figref idref="DRAWINGS">FIG. 7</figref><i>a </i>shows schematically a polar or Nyquist diagram which plots the vibration amplitude of <figref idref="DRAWINGS">FIG. 3</figref>, and the relative phase difference between the vibration response of <figref idref="DRAWINGS">FIG. 3</figref> and the engine order forcing frequency which produced the response. The vibration amplitude is represented as distance a from the origin and the phase difference as angular position &#x3b8;. Thus each phase difference/amplitude pair forms the (a, &#x3b8;) components of a vector r=r(a, &#x3b8;), and the locus of all the vectors describes a path or trajectory on the diagram. The overall direction of increasing engine speed is indicated by the arrow. Such diagrams are herein termed &#x201c;polar diagrams&#x201d;.</p>
+<p id="p-0069" num="0082">The plot follows a characteristic trajectory as the engine accelerates. In particular, the relative phase difference between the vibration response and the forcing frequency changes as the engine speed increases. These changes are primarily caused by the traversal through engine resonance frequencies. The overall looped shape of the trajectory is caused by engine resonances. The maxima in <figref idref="DRAWINGS">FIG. 3</figref> can now be seen to be caused by the resonances. When the engine reaches its cruising speed the relative phase difference and vibration amplitude do not vary significantly, and the plot tends to remain within the relatively tightly demarcated area indicated by the dashed circle of <figref idref="DRAWINGS">FIG. 7</figref><i>a. </i></p>
+<p id="p-0070" num="0083">If the engine performs a series of successive acceleration/deceleration manoeuvres (each manoeuvre representing a period over which the rotational speeds of the engine shafts vary), trajectories having the same characteristic shape are formed on the polar diagram.</p>
+<p id="p-0071" num="0084">However, in cases where the engine is shut down between manoeuvres, the measured relative phase difference between the vibration response and engine order forcing frequencies may be shifted. This shift manifests itself in the polar diagram as a rotation of the trajectory about the origin. <figref idref="DRAWINGS">FIG. 7</figref><i>b </i>shows schematically a polar diagram for the same forcing frequency as <figref idref="DRAWINGS">FIG. 7</figref><i>a</i>, but rotated in the manner described. When this happens, the measured relative phase differences may have to adjusted to account for phase shifts between the vibration response and engine order forcing frequency. This can be accomplished by using as a reference one or more speed sub-ranges (e.g. in the 50-70% range) which have well-characterised trajectories.</p>
+<p id="p-0072" num="0085"><figref idref="DRAWINGS">FIGS. 8</figref><i>a </i>and <i>b </i>show respectively tracked order and polar diagram plots for real data collected from a decelerating Rolls-Royce Trent engine. The fundamental tracked orders and corresponding plots on the polar diagram are respectively labelled LP, IP and HP. Although the polar diagram plots are &#x201c;noisier&#x201d; than-the-schematic diagrams of <figref idref="DRAWINGS">FIG. 7</figref>, the characteristics features of the diagrams can be identified, particularly on the LP plot.</p>
+<p id="p-0073" num="0086">Such polar diagrams are particularly useful for providing indications of abnormal or unhealthy engine behaviour. In particular, a deviation from normal engine behaviour may manifest itself as a variation in relative phase difference and/or vibration amplitude, and this in turn can be readily identified by a departure from the characteristic trajectory of a polar diagram.</p>
+<p id="p-0074" num="0087">Trajectories may be compared using a Euclidean metric to measure the distances between each of the corresponding points on the trajectories (i.e. the vectors on each trajectory constructed from phase difference and amplitude measurements at the same rotational speed) and then summing these distances over the whole of the speed range. Speed sub-ranges (e.g. in the 50 to 70% range) which have well-characterised trajectories may be given a greater weighting in this metric.</p>
+<p id="p-0075" num="0088"><figref idref="DRAWINGS">FIG. 9</figref> shows four vibration amplitude plots obtained from a spinning disc rig used to test and certify gas turbine engine rotary components. The rig was used to test a disc over a number of days, the plots shown being for the selected days of 17, 19, 21 and 24 Mar. 2003. The testing programme involved repeatedly accelerating the disc from idle to maximum speed, holding at maximum speed, and then decelerating back to idle, always with the same acceleration/deceleration profile. The amplitude of the disc vibration response (monitored using an accelerometer on the disc drive shaft) and the relative phase difference between the disc forcing frequency and vibration response were measured for each repetition of the test. The x-axis of the plots is disc spin speed, from idle to maximum speed, divided into 360 speed bins. At each speed bin, the vibration amplitude is the average measured over the acceleration and deceleration parts of each test. Furthermore, each plot is the average of approximately 1000 repetitions of the test performed on the given day. Occasionally the rig was inspected to ensure that it was in correct working order (if the rig or the component fails catastrophically during testing then significant damage to the rig can occur), but these inspections did not appear to affect the repeatability of the tests.</p>
+<p id="p-0076" num="0089">In the particular test of <figref idref="DRAWINGS">FIG. 9</figref>, the aim was to propagate a crack in the disc, and to detect the onset of failure.</p>
+<p id="p-0077" num="0090">Over all four days the vibration amplitude plots are highly consistent. The only significant difference is that on 24 March the second vibration amplitude peak at about speed bin <b>90</b> was higher than on previous days.</p>
+<p id="p-0078" num="0091"><figref idref="DRAWINGS">FIGS. 10</figref><i>a</i>-<i>c </i>respectively show polar diagrams plotting the average trajectories of the phase difference/amplitude vector for the testing of 17, 21 and 24 March. Like the vibration amplitude plots, each trajectory combines the acceleration and deceleration parts of the tests. The 17 and 21 March trajectories are highly consistent, whereas the 24 March trajectory describes a markedly different locus. In fact, inspection on 24 March showed that a disc crack had started to propagate, which seemed to lead to the significant change in the rig response. To avoid catastrophic failure, the testing was halted at this point.</p>
+<p id="p-0079" num="0092">Overall, the testing programme demonstrated the usefulness of the vector trajectory representation for identifying departures from normal behaviour.</p>
+<p id="p-0080" num="0093">In retrospect, the departure from normal behaviour (i.e. the propagating crack) could also be identified from the speed bin <b>90</b> peak of the vibration amplitude plots. This suggests it might be sufficient to measure vibration amplitude and relative phase difference at a single, critical speed. However, in practical situations, and particularly in respect of complex machinery such as gas turbine engines, it is not often possible to know in advance what that critical speed will be. Also, the critical speed can vary depending on the type of departure from normality undergone by the component. For example, in the case of a gas turbine engine drive shaft, a bird strike to the engine might produce a significant displacement of the phase difference/amplitude vector at a different speed to, say, that at which the vector displacement caused by a slowly growing turbine blade surface crack is evident.</p>
+<p id="p-0081" num="0094"><figref idref="DRAWINGS">FIG. 11</figref><i>a </i>shows four schematic plots, labelled <b>14</b><i>a</i>-<i>d</i>, of shaft vibration amplitude for respective &#x201c;mass redistribution&#x201d; events (in this case a detached blade) in a gas turbine engine. Before and after the events the engine cruises at a constant speed. In a conventional detection system, an alert may be signalled if the vibration amplitude exceeds a threshold level, which in <figref idref="DRAWINGS">FIG. 11</figref><i>a </i>is indicated by a dashed line. However, of the four possible scenarios shown in <figref idref="DRAWINGS">FIG. 11</figref><i>a</i>, only one produces a significantly high increase in vibration amplitude to signal an alert, although potentially all the events are equally noteworthy.</p>
+<p id="p-0082" num="0095"><figref idref="DRAWINGS">FIG. 11</figref><i>b </i>shows four corresponding schematic polar diagram plots, labelled <b>15</b><i>a</i>-<i>d</i>, for the same events as <figref idref="DRAWINGS">FIG. 11</figref><i>a</i>. Before the events all the plots are clustered within the smaller dashed circle in the same part of the diagram. After the events each plot relocates to a position on the larger dashed circle which represents possible outcome scenarios. Note how even events, such as that represented by plot <b>15</b><i>b</i>, which produce no change in vibration amplitude are easily identified on the polar diagram (the corresponding plot on <figref idref="DRAWINGS">FIG. 11</figref><i>a </i>is <b>14</b><i>b</i>). Also events, such as that represented by plot <b>15</b><i>a</i>, which produce a reduction in vibration amplitude and so give the appearance of a more smoothly running engine (the corresponding plot on <figref idref="DRAWINGS">FIG. 11</figref><i>a </i>is <b>14</b><i>a</i>), can be readily identified as engine abnormalities.</p>
+<p id="p-0083" num="0096"><figref idref="DRAWINGS">FIGS. 12</figref><i>a </i>and <i>b </i>show respectively vibration amplitude and polar diagram plots for real data collected from a Rolls-Royce Trent engine operating at steady state which experienced an actual blade detachment event. The vibration amplitudes and corresponding relative phase difference are for the fundamental shaft tracked orders and are respectively labelled LP, IP and HP. In this case the blade detached from the HP shaft, which did in fact respond with a sharp increase in vibration. Note, however, how the LP and IP vibration amplitudes varied only slightly, whereas their relative phase differences shifted significantly.</p>
+<p id="p-0084" num="0097">Thus polar diagrams may be used to provide warning systems for engine malfunction or abnormal behaviour. Trajectories may be compared using a Euclidean metric, which may give a greater weight to certain speed sub-ranges. In contrast, the detection of step changes during what should be steady state operation may be implemented with the following pseudo code:
+<ul id="ul0012" list-style="none">
+    <li id="ul0012-0001" num="0000">
+    <ul id="ul0013" list-style="none">
+        <li id="ul0013-0001" num="0098">If engine is in steady state (e.g. &#x3c;0.3% speed change in last 2 sec):
+        <ul id="ul0014" list-style="none">
+            <li id="ul0014-0001" num="0099">1) Record present position r on polar diagram</li>
+            <li id="ul0014-0002" num="0100">2) Update estimate for noise radius (i.e. error in present position) based on at least ten previous position measurements</li>
+            <li id="ul0014-0003" num="0101">3) Calculate step change score:</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0085" num="0102">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+<mrow>
+  <mi>score</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mi>&#x394;</mi>
+        <mo>&#x2062;</mo>
+        <mstyle>
+          <mspace width="0.3em" height="0.3ex"/>
+        </mstyle>
+        <mo>&#x2062;</mo>
+        <mi>r</mi>
+      </mrow>
+      <mrow>
+        <mi>noise</mi>
+        <mo>&#x2062;</mo>
+        <mstyle>
+          <mspace width="0.8em" height="0.8ex"/>
+        </mstyle>
+        <mo>&#x2062;</mo>
+        <mi>radius</mi>
+      </mrow>
+    </mfrac>
+    <mo>-</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mrow>
+          <mrow>
+            <mi>k</mi>
+            <mo>&#xb7;</mo>
+            <mi>&#x394;</mi>
+          </mrow>
+          <mo>&#x2062;</mo>
+          <mstyle>
+            <mspace width="0.3em" height="0.3ex"/>
+          </mstyle>
+          <mo>&#x2062;</mo>
+          <mi>s</mi>
+        </mrow>
+        <mo>+</mo>
+        <mi>C</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+</mrow>
+</math>
+</maths>
+<ul id="ul0015" list-style="none">
+    <li id="ul0015-0001" num="0000">
+    <ul id="ul0016" list-style="none">
+        <li id="ul0016-0001" num="0103">where &#x394;r is the distance on the polar diagram between the present and the previous position, &#x394;s is the change in speed, and (k.&#x394;s+C) is a linear relationship between shaft speed and change in phase plot position (k and C being empirically derived constants)
+        <ul id="ul0017" list-style="none">
+            <li id="ul0017-0001" num="0104">4) If the step change score exceeds a predetermined threshold, declare an abnormal behaviour.</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0086" num="0105">The system continuously updates the estimated variation due to noise in the vibration response data. Effectively, the system draws a circle on the diagram within which the plot of vibration amplitude and relative phase difference can wander randomly at a given engine speed. This circle defines a perimeter outside of which abnormal behaviour is declared. Since vibration amplitude and relative phase difference are expected to vary as the engine speed changes, the allowed changes to the plot are scaled by the rate of change of speed. The overall effect is for the radius of the circle to increase during changes of speed.</p>
+<p id="p-0087" num="0106">Although the pseudo code was developed as a steady state step change detector, it can also be used when the rotational speed of the component is varying in a repetitive manner, i.e. for repeated acceleration/deceleration tests. In this case, respective values for k and C may be provided for each speed or speed sub-range, and the noise radius at each speed can be based on the position measurements (i.e. vector positions) at previous repetitions.</p>
+<p id="p-0088" num="0107">In fact, such a detector was applied during the testing described above in relation to <figref idref="DRAWINGS">FIGS. 9 and 10</figref>. <figref idref="DRAWINGS">FIG. 13</figref><i>a </i>is a graph of rotational speed against time for a sequence of the acceleration/deceleration tests of 24 Mar. 2004. <figref idref="DRAWINGS">FIG. 13</figref><i>b </i>shows the corresponding output from the change detector. The peaks are instants when the detector detected significant departures from normality. The heights of the peaks correspond to the magnitudes of the departures.</p>
+<p id="p-0089" num="0108">A further example of an event that could be detected by such a system is a step change caused by foreign object damage. <figref idref="DRAWINGS">FIGS. 14</figref><i>a </i>and <i>b </i>respectively show a schematic LP vibration amplitude plot and the corresponding polar diagram for a foreign object damage event (in this case a bird strike) to a gas turbine engine. The bird strike produces only a small temporary deviation (of about 0.5 s duration) on the vibration amplitude plot, which could easily be overlooked or missed altogether. On the polar diagram, however, the bird strike provokes a readily detectable and significant change in relative phase difference.</p>
+<p id="p-0090" num="0109"><figref idref="DRAWINGS">FIGS. 15</figref><i>a </i>and <i>b </i>show respectively vibration amplitude and polar diagram plots for real data collected from a Rolls-Royce Trent engine operating at steady state which experienced an actual bird strike. As before, the vibration amplitudes and corresponding relative phase difference are for the fundamental shaft tracked orders and are respectively labelled LP, IP and HP. As might be expected, the vibration amplitude for the LP shaft increased sharply. Note, however, how the IP shaft vibration amplitude actually decreased after the strike, and the HP shaft vibration amplitude behaviour was largely unchanged. In contrast, the relative phase differences for the three shafts were all disturbed by the bird strike, as shown by the polar diagram.</p>
+<p id="p-0091" num="0110">The examples of <figref idref="DRAWINGS">FIGS. 9 to 15</figref> show how the relative phase difference between forcing and vibration response frequencies, and its representation on a polar diagram, can be used to detect events which lead to step changes during steady state operation or repetitive speed variations. A similar approach is also useful, however, for detecting and monitoring more slowly evolving engine abnormalities.</p>
+<p id="p-0092" num="0111">As a first step an appropriate model of normality against which slowly evolving engine changes can be tracked is established. In service, aero engines do not usually experience the acceleration/deceleration manoeuvres which produced the polar diagram plots shown in previous Figures. Instead they spend differing amounts of times at different engine speeds. Thus, for example, if maximum engine speed is designated 100%, most engines spend much of their operational time in the 70-95% speed range.</p>
+<p id="p-0093" num="0112">In order to build up the normal model, the entire speed range is divided into a smaller (e.g. 1%) sub-ranges. Each time the engine passes through a sub-range, the relative phase difference and vibration amplitude are recorded. As more data is acquired over further flights an average position (determined by the phase difference and vibration amplitude) on the polar diagram and a standard deviation from that position is associated with each sub-range. Typically, it may require e.g. 100 flying hours or 25 flight cycles to provide enough data to accurately characterise the entire speed range in this way. As the engine may be shut down between flights, the measured relative phase differences may have to adjusted to account for phase shifts between the vibration response and engine order forcing frequency. This can be accomplished by using one or more well-characterised speed sub-ranges (e.g. in the 50-70% range) as a reference.</p>
+<p id="p-0094" num="0113"><figref idref="DRAWINGS">FIG. 16</figref><i>a </i>shows a polar diagram plot for a typical acceleration-deceleration manoeuvre. Superimposed on the plot are three circles <b>30</b>. The centre of each circle is the average measured position for a particular speed sub-range determined from 100 flying hours of data. The radius of each circle is the (3&#xd7; the standard deviation) value for the measured position data. Each circle, therefore, has a radius setting the limit of normal behaviour for respective speed sub-range.</p>
+<p id="p-0095" num="0114"><figref idref="DRAWINGS">FIG. 16</figref><i>b </i>is a detail of the high speed end of the plot of <figref idref="DRAWINGS">FIG. 16</figref><i>a</i>. The average positions for the speed sub-ranges centred on 97% and 98% speed respectively are indicated by dots <b>31</b><i>a </i>and <b>31</b><i>b </i>and the corresponding 3&#x3c3; circles <b>30</b><i>a </i>and <b>30</b><i>b </i>are also shown. The progression of dots <b>32</b> are real-time average positions for 98% speed, the arrow indicating the time order in which the average positions were measured. The observed evolution of 98% speed average position is characteristic of a progressive failure mode. This failure is flagged when the 98% speed average position oversteps the 3&#x3c3; boundary.</p>
+<p id="p-0096" num="0115">The following examples illustrate the detection of progressive failure modes using this approach. <figref idref="DRAWINGS">FIG. 17</figref><i>a </i>shows schematically an HP vibration amplitude plot for a Rolls-Royce Trent gas turbine engine. At time A the engine has just reached cruising speed. There follows an approximately four minute period in which the HP vibration amplitude decreases to almost zero. A superficial interpretation of this decrease might be that the engine is running more smoothly. However, in the six subsequent minutes, the vibration amplitude increases until at time B an HP location bearing failure occurs. In retrospect, therefore, it is clear that the decrease and increase in vibration amplitude was actually caused by a progressive bearing failure.</p>
+<p id="p-0097" num="0116"><figref idref="DRAWINGS">FIG. 17</figref><i>b </i>shows the corresponding HP polar diagram. Up to time A, the path of the polar diagram follows that of the normal model. Then, rather than remaining approximately stationary when cruising speed is attained, the path veers off in a straight line. Thus from the polar diagram the departure from normality is apparent as soon as the 3&#x3c3; limit for cruising speed is overstepped (i.e. almost immediately), allowing the engine operator to take remedial action at an earlier stage. Note that the point of closest approach of the straight line to the origin corresponds to the minimum in the HP vibration amplitude shown in <figref idref="DRAWINGS">FIG. 17</figref><i>a. </i></p>
+<p id="p-0098" num="0117"><figref idref="DRAWINGS">FIGS. 18</figref><i>a </i>and <i>b </i>again show schematically a vibration amplitude plot and the corresponding polar diagram for an accelerating and subsequently cruising gas turbine engine. In this case a fan blade having a relatively well-developed skin crack was planted in the engine. The crack did not grow significantly during engine acceleration, and the vibration amplitude plot and polar diagram followed their normal paths as the engine accelerated to cruising speed at time A. However, over a period at cruising speed the crack grew until the blade failed. As there was little variation in the amplitude of the vibration response during this period, the vibration amplitude plot gave little warning of the incipient failure. In contrast, the growing crack produced a significant change in relative phase difference which was immediately identifiable from the polar diagram.</p>
+<p id="p-0099" num="0118">Other gas turbine engine problems which can be identified from variations relative phase difference behaviour and/or polar diagrams include unbalance, squeeze film bearing problems, rubs, joint movements, oil in drum, &#xbd; speed whirl, instability and blade scatter. Indeed, in certain cases it may be possible to diagnose the cause of the problem from the form of the polar diagram. For example, a typical response to rub is an increase in response vibration amplitude at constant relative phase difference.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US07640802-20100105-M00001.NB">
+<img id="EMI-M00001" he="6.01mm" wi="76.20mm" file="US07640802-20100105-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method of analysing tachometer and vibration response data from an apparatus having one or more rotary components, the method comprising the steps of:
+<claim-text>providing vibration response data and corresponding tachometer data from the apparatus for a period over which a rotary component of the apparatus varies in rotational speed, the tachometer data being for that component;</claim-text>
+<claim-text>repeatedly performing at intervals throughout the period the sub-steps of:
+<claim-text>determining a forcing frequency of the component from the tachometer data and a corresponding vibration response frequency of the apparatus from the vibration response data,</claim-text>
+<claim-text>comparing the forcing and vibration response frequencies to determine the relative phase difference between the frequencies, and</claim-text>
+<claim-text>determining the corresponding amplitude of the vibration response from the vibration response data;</claim-text>
+</claim-text>
+<claim-text>plotting the relative phase differences and vibration amplitudes on a polar diagram, whereby the plot trajectory is characteristic of the behaviour of the apparatus over the period; and</claim-text>
+<claim-text>comparing the plot trajectory with a reference trajectory for a period in which the apparatus experiences the same variation in rotational speed.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the vibration response data and tachometer data are acquired independently of each other.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the apparatus is a gas turbine engine.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A method according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the rotary component is a turbine drive shaft of the engine.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the tachometer data does not provide the absolute rotary position of the component.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the forcing and vibration response frequencies are compared in the time domain in order to determine the relative phase difference between the frequencies.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A computer system operatively configured to perform the method of <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. Computer readable media carrying computer code for performing the method of <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A computer implemented method for performing the method of <claim-ref idref="CLM-00001">claim 1</claim-ref>. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

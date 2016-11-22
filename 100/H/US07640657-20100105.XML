@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640657-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640657</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12098840</doc-number>
+<date>20080407</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="regional">
+<country>EP</country>
+<doc-number>99201924</doc-number>
+<date>19990616</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>05</class>
+<subclass>K</subclass>
+<main-group>3</main-group>
+<subgroup>30</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 29832</main-classification>
+<further-classification> 29739</further-classification>
+<further-classification> 29740</further-classification>
+<further-classification> 29840</further-classification>
+</classification-national>
+<invention-title id="d0e61">Printed circuit component placement method</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5002448</doc-number>
+<kind>A</kind>
+<name>Kamijima et al.</name>
+<date>19910300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5086559</doc-number>
+<kind>A</kind>
+<name>Akatsuchi</name>
+<date>19920200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5191702</doc-number>
+<kind>A</kind>
+<name>Goedecke et al.</name>
+<date>19930300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5323528</doc-number>
+<kind>A</kind>
+<name>Baker</name>
+<date>19940600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5601394</doc-number>
+<kind>A</kind>
+<name>Chiappe</name>
+<date>19970200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5727311</doc-number>
+<kind>A</kind>
+<name>Ida</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5778525</doc-number>
+<kind>A</kind>
+<name>Hata et al.</name>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5806174</doc-number>
+<kind>A</kind>
+<name>Itoh</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5839187</doc-number>
+<kind>A</kind>
+<name>Sato et al.</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6101709</doc-number>
+<kind>A</kind>
+<name>Shiota</name>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6199272</doc-number>
+<kind>B1</kind>
+<name>Seto et al.</name>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6588096</doc-number>
+<kind>B1</kind>
+<name>Hidese</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>2002/0042989</doc-number>
+<kind>A1</kind>
+<name>Kawase et al.</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 29832</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>2004/0033128</doc-number>
+<kind>A1</kind>
+<name>Kabeshita et al.</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>414935</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>2005/0144779</doc-number>
+<kind>A1</kind>
+<name>Nakamura et al.</name>
+<date>20050700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 29740</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>2006/0000085</doc-number>
+<kind>A1</kind>
+<name>Kabeshita et al.</name>
+<date>20060100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 29790</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>DE</country>
+<doc-number>19835876</doc-number>
+<kind>A</kind>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>JP</country>
+<doc-number>4035099 (A)</doc-number>
+<date>19920200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>JP</country>
+<doc-number>5-13997</doc-number>
+<date>19930100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>JP</country>
+<doc-number>10079596 (A)</doc-number>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>JP</country>
+<doc-number>11054994</doc-number>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>WO</country>
+<doc-number>WO 9738567</doc-number>
+<kind>A1</kind>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>2</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 29739</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29740</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29832</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29840</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>1</number-of-drawing-sheets>
+<number-of-figures>1</number-of-figures>
+</figures>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>09594405</doc-number>
+<kind>00</kind>
+<date>20000615</date>
+</document-id>
+<parent-status>ABANDONED</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12098840</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080250635</doc-number>
+<kind>A1</kind>
+<date>20081016</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Van Gastel</last-name>
+<first-name>Josephus Martinus Maria</first-name>
+<address>
+<city>Eindhoven</city>
+<country>NL</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>NL</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Foley &#x26; Lardner LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Assembleon N.V.</orgname>
+<role>03</role>
+<address>
+<city>Eindhoven</city>
+<country>NL</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Arbes</last-name>
+<first-name>C. J</first-name>
+<department>3729</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A component placement machine includes: a transport device for transporting PCBs in an X-direction; first and a second feeder areas; at least one Y-slide beam that is drivable in the X-direction; and at least two placement heads on each Y-slide beam, which placement heads are independently drivable in the Y-direction and dependently drivable in the X-direction. Each feeder area includes at least one feeder for storing components. Such a machine enables a number of actions to be performed simultaneously. For example, within a certain period of time, a plurality of placement heads can simultaneously pick up components from a feeder, while other placement heads, which previously picked up components, may be moved to desired X-Y positions of the PCB which the previously picked up components may be placed, thereby resulting in an improved output.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="183.98mm" wi="149.10mm" file="US07640657-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="185.17mm" wi="149.44mm" file="US07640657-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This application is a divisional application of U.S. application Ser. No. 09/594,105, filed Jun. 15, 2000, now abandoned which is incorporated by reference herein in its entirety.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The invention relates to a component placement machine for placing components on a printed circuit board, comprising:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0003">a transport device for transporting printed circuit boards in an X-direction,</li>
+        <li id="ul0002-0002" num="0004">on either side of the transport device, respectively, a first and a second feeder area, in each of which there is at least one feeder with components,</li>
+        <li id="ul0002-0003" num="0005">a Y-slide, which is drivable in the X-direction, and</li>
+        <li id="ul0002-0004" num="0006">a placement head on said Y-slide, which placement head is drivable in a Y-direction.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0004" num="0007">Such a machine is known from WO-A-9738567. This machine can be very flexibly used for different types of printed circuit boards. The placement head can reach all positions of the feeder area and of the area above a printed circuit board. The transport of printed circuit boards is relatively simple. The printed circuit boards only have to be clamped at the edges (in the X-direction). By means of a camera, the exact position of the printed circuit board can be determined. A drawback of this machine is, however, that the output, i.e. the number of components which can be placed per unit of time, is limited.</p>
+<p id="p-0005" num="0008">Placement machines by means of which very many components (60,000-90,000 comp/h) can be placed on printed circuit boards are known. Such machines have a large number of fixed Y-slides, each slide having a placement head which can be moved in the Y-direction with a large stroke and in the X-direction with a small stroke. These machines have a so-called indexed transport system for the printed circuit boards, i.e. the printed circuit boards are always transported over a fixed distance in the X-direction. Such a transport system includes a slide on which there are a number of positioning pins which are inserted into holes of the printed circuit boards, whereafter said positioning pins advance the printed circuit boards simultaneously over a predetermined distance in the X-direction, after which the printed circuit boards are supported at the side edges, and subsequently the pins are withdrawn from the holes and the slide returns to its starting position. In one placement period, generally components can be placed only on a part of the printed circuit board. After the printed circuit boards have been advanced in an indexed manner, components can be placed on a next part of the printed circuit board in the subsequent placement period. The fixed Y-slide, the limited stroke of the placement head in the X-direction and the indexed transport system for the printed circuit boards contribute substantially to achieving a high output. A drawback of such machines resides in the limited flexibility, i.e. when other types of printed circuit boards have to be provided with components, a number of machine parts have to be moved or replaced, whereafter the new setting has to be re-calibrated. These changes relate particularly to the parts necessary for supporting and transporting the printed circuit boards. It takes approximately 2 to 4 hours to carry out such changes. During this period of time, the machine is idle. Another drawback resides in that such machines are sensitive to cluster formation. That is to say, if the components are not uniformly distributed over the printed circuit board, but instead are located so as to form concentrations (clusters), the output is adversely affected.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0006" num="0009">It is an object of the invention to provide a component placement machine having a large output, i.e. the number of components which can be placed per unit of time is relatively large, while the machine still exhibits a great flexibility.</p>
+<p id="p-0007" num="0010">A further object of the invention is to provide a method of placing components on printed circuit boards by means of a component placement machine in accordance with the invention.</p>
+<p id="p-0008" num="0011">To achieve this, the component placement machine in accordance with the invention is characterized in that the Y-slide is provided with at least two placement heads which can be independently driven in a Y-direction.</p>
+<p id="p-0009" num="0012">Such a machine concept makes it possible to pick up a component from one of the feeders with one of the placement heads while, simultaneously, one of the other placement heads is used to make preparations for the placement of a component on the printed circuit board. Conversely, such a machine concept also makes it possible to place a component onto a printed circuit board by means of one of the placement heads while, simultaneously, preparations are made with one of the other placement heads to pick up a component from one of the feeders. It will be clear that, as a result thereof, the output of the machine is considerably increased. The machine also has a great flexibility because each placement head can reach every part of at least a number of feeders and every part of the printed circuit board. Many different printed circuit boards, particularly as regards the dimensions, can be used because a relatively simple transport system for the printed circuit boards is sufficient. Consequently, for example, an indexed printed circuit board transport can be dispensed with.</p>
+<p id="p-0010" num="0013">A further increase of the output can be obtained when the machine is provided with a number of Y-slides, which are independently drivable in the X-direction, each Y-slide being provided with at least two placement heads. By virtue thereof, a number of placement heads can pick up components simultaneously from at least one feeder or place components simultaneously on a printed circuit board in the desired X-Y position.</p>
+<p id="p-0011" num="0014">A method of placing components on a printed circuit board using an above-described component-placement machine is characterized in that
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0015">in a first period of time, a first placement head moves to a desired X-Y position above a first feeder and, subsequently, picks up a component from the first feeder, a second placement head moves along the Y-slide to a desired Y-position so as to prepare for the placement of a previously picked-up component on the printed circuit board,</li>
+        <li id="ul0004-0002" num="0016">in a second period of time following the first period of time, the second placement head moves to a desired X-Y position above the printed circuit board and subsequently places the component on the printed circuit board,</li>
+        <li id="ul0004-0003" num="0017">in a third period of time following the second period of time, the second placement head moves to a desired X-Y position above a second feeder and, subsequently, picks up a component from the second feeder, the first placement head moves along the Y-slide to a desired Y-position so as to prepare for the placement onto the printed circuit board of the component picked up in the first period of time, and</li>
+        <li id="ul0004-0004" num="0018">in a fourth period of time following the third period of time, the first placement head moves to a desired X-Y position above the printed circuit board and, subsequently, places the component on the printed circuit board.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0012" num="0019">If the placement machine is provided with a number of Y-slides, which are independently drivable in the X-direction, each Y-slide being provided with at least two placement heads, the method is characterized in that
+<ul id="ul0005" list-style="none">
+    <li id="ul0005-0001" num="0000">
+    <ul id="ul0006" list-style="none">
+        <li id="ul0006-0001" num="0020">in a first period of time, a first series of placement heads moves to a desired X-Y position above a first feeder and, subsequently, simultaneously picks up components from the first feeder, a second series of placement heads moves along the Y-slide to a desired Y-position so as to prepare for the placement on the printed circuit board of previously picked-up components,</li>
+        <li id="ul0006-0002" num="0021">in a second period of time following the first period of time, the second series of placement heads moves to a desired X-Y position above the printed circuit board and, subsequently, places the components simultaneously on the printed circuit board,</li>
+        <li id="ul0006-0003" num="0022">in a third period of time following the second period of time, the second series of placement heads moves to a desired X-Y position above a second feeder and, subsequently, simultaneously picks up components from the second feeder, the first series of placement heads moves along the Y-slide to a desired Y-position so as to prepare for the placement on the printed circuit board of the components picked up in the first period of time, and</li>
+        <li id="ul0006-0004" num="0023">in a fourth period of time following the third period of time, the first series of placement heads moves to a desired X-Y position above the printed circuit board and, subsequently, places the components simultaneously on the printed circuit board.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWING</heading>
+<p id="p-0013" num="0024">These and other aspects of the invention will be elucidated by means of a single drawing which is a diagrammatic plan view of a component placement machine.</p>
+<heading id="h-0005" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0014" num="0025">The transport device <b>1</b> is represented by two transport bars <b>2</b> over which printed circuit boards <b>3</b> are transported. The transport mechanism used for this purpose is not shown. A clamping mechanism used to clamp the printed circuit boards at the edges is not shown either. On either side of the transport device there is, respectively, a first and a second feeder area <b>4</b>, <b>5</b>. Each feeder area comprises a number of feeders, for example <b>6</b><sub>a</sub>, <b>6</b><sub>b</sub>, <b>6</b><sub>c</sub>, <b>6</b><sub>d </sub>and <b>7</b><sub>a</sub>, <b>7</b><sub>b</sub>, <b>7</b><sub>c</sub>, <b>7</b><sub>d</sub>, respectively, with components. Above the printed circuit boards and the feeders there are Y-slides which are independently drivable in the X-direction. In this example, there are four Y-slides <b>8</b>-<b>11</b>. On each Y-slide there are two placement heads H<sub>xx</sub>. On the slide <b>8</b> there are the placement heads H<sub>11 </sub>and H<sub>12</sub>, on the slide <b>9</b> there are the heads H<sub>21 </sub>and H<sub>22</sub>, on the slide <b>10</b> there are the heads H<sub>31 </sub>and H<sub>32</sub>, and on the slide <b>11</b> there are the heads H<sub>41 </sub>and H<sub>42</sub>.</p>
+<p id="p-0015" num="0026">The placement of components <b>12</b> on a printed circuit board <b>3</b> takes place as follows:</p>
+<p id="p-0016" num="0027">It is assumed that the placement heads H<sub>12</sub>, H<sub>22</sub>, H<sub>32 </sub>and H<sub>42 </sub>already have picked up components <b>12</b> from the feeders <b>7</b><sub>a</sub>, <b>7</b><sub>b</sub>, <b>7</b><sub>c</sub>, <b>7</b><sub>d</sub>.</p>
+<p id="p-0017" num="0028">In a first period of time, the placement heads H<sub>11</sub>, H<sub>21</sub>, H<sub>31 </sub>and H<sub>41 </sub>each move to a desired X-Y position above one of the feeders <b>6</b><sub>a</sub>, <b>6</b><sub>b</sub>, <b>6</b><sub>c</sub>, <b>6</b><sub>d </sub>and, subsequently, simultaneously pick up a component <b>12</b> from the feeder. In this period of time, the placement heads H<sub>12</sub>, H<sub>22</sub>, H<sub>32 </sub>and H<sub>42</sub>, which have already picked up components, also move to a desired Y-position above the printed circuit board <b>3</b>. These Y-positions correspond to the Y-position of the place where the component in question must be placed on the printed circuit board.</p>
+<p id="p-0018" num="0029">In the second period of time, the placement heads H<sub>12</sub>, H<sub>22</sub>, H<sub>32 </sub>and H<sub>42 </sub>move on to the desired X-position above the printed circuit board, so that the placement heads are each situated exactly above the X-Y position where the components must be placed on the printed circuit board. Subsequently, the components in question are simultaneously placed on the printed circuit board.</p>
+<p id="p-0019" num="0030">In the third period of time, the placement heads H<sub>12</sub>, H<sub>22</sub>, H<sub>32 </sub>and H<sub>42 </sub>each move to a desired X-Y position above one of the feeders <b>7</b><sub>a</sub>, <b>7</b><sub>b</sub>, <b>7</b><sub>c</sub>, <b>7</b><sub>d </sub>and subsequently simultaneously pick up a component <b>12</b> from the feeder. In this third period of time, the placement heads H<sub>11 </sub>, H<sub>21</sub>, H<sub>31 </sub>and H<sub>41 </sub>also move, with the components picked up in the first period of time, to a desired Y-position above the printed circuit board <b>3</b>. These Y-positions correspond to the Y-position of the place where the component in question must be placed on the printed circuit board.</p>
+<p id="p-0020" num="0031">In the fourth period of time, the placement heads H<sub>11</sub>, H<sub>21</sub>, H<sub>31 </sub>and H<sub>41 </sub>move on to the desired X-position above the printed circuit board, so that the placement heads are each situated exactly above the X-Y position where the components must be placed on the printed circuit board. Subsequently, the components in question are simultaneously placed on the printed circuit board.</p>
+<p id="p-0021" num="0032">Subsequently, the procedure of the first period of time is repeated, etc.</p>
+<p id="p-0022" num="0033">The placement machine can be easily extended, for example, by providing more Y-slides, in particular by applying a modular build-up. In addition, it is possible to apply a plurality of pick-up elements per placement head. Pick-up elements are, for example, suction pipettes by means of which components are picked up and placed.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method of placing components on a printed circuit board by means of a component placement machine, the method comprising the steps of:
+<claim-text>in a first period of time:</claim-text>
+<claim-text>moving a first placement head to a desired X-Y position above a first feeder area; picking-up a component from the first feeder area using the first placement head; and</claim-text>
+<claim-text>moving a second placement head along a first Y-slide to a desired Y-position so as to prepare for the placement of a component previously picked up by the second placement head on the printed circuit board;</claim-text>
+<claim-text>in a second period of time following the first period of time:</claim-text>
+<claim-text>moving the second placement head to a desired X-Y position above the printed circuit board; and</claim-text>
+<claim-text>placing the component previously picked up by the second placement head on the printed circuit board;</claim-text>
+<claim-text>in a third period of time following the second period of time:</claim-text>
+<claim-text>moving the second placement head to a desired X-Y position above a second feeder; area;</claim-text>
+<claim-text>picking up a component from the second feeder area using the second placement head; and</claim-text>
+<claim-text>moving the first placement head along the first Y-slide to a desired Y-position so as to prepare for the placement on the printed circuit board of the component previously picked up by the first placement head in the first period of time; and</claim-text>
+<claim-text>in a fourth period of time following the third period of time:</claim-text>
+<claim-text>moving the first placement head to a desired X-Y position above the printed circuit board; and</claim-text>
+<claim-text>placing the component previously picked up by the first placement head on the printed circuit board.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising the steps of:
+<claim-text>in the first period of time:</claim-text>
+<claim-text>moving a first series of placement heads to respective desired X-Y positions above the first feeder area, the first series including the first placement head on the first Y-slide and a third placement head on a second Y-slide;</claim-text>
+<claim-text>picking up components from the first feeder area using the first series of placement heads; and</claim-text>
+<claim-text>moving a second series of placement heads along the first and second Y-slides to respective desired Y-positions so as to prepare for the placement on the printed circuit board of components previously picked up by the second series of placement heads, the second series including the second placement head on the first Y-slide and a fourth placement head on the second Y-slide;</claim-text>
+<claim-text>in the second period of time following the first period of time:</claim-text>
+<claim-text>moving the second series of placement heads to respective desired X-Y positions above the printed circuit board; and</claim-text>
+<claim-text>placing the components previously picked up by the second series of placement heads simultaneously on the printed circuit board;</claim-text>
+<claim-text>in the third period of time following the second period of time:</claim-text>
+<claim-text>moving the second series of placement heads to respective desired X-Y positions above the second feeder area;</claim-text>
+<claim-text>picking up components from the second feeder area using the second series of placement heads; and</claim-text>
+<claim-text>moving the first series of placement heads along the first and second Y-slides to respective desired Y-positions so as to prepare for the placement on the printed circuit board of the components previously picked up in the first period of time by the first series of placement heads; and</claim-text>
+<claim-text>in the fourth period of time following the third period of time:</claim-text>
+<claim-text>moving the first series of placement heads to respective desired X-Y positions above the printed circuit board; and</claim-text>
+<claim-text>placing the components previously picked up by the first series of placement heads simultaneously on the printed circuit board. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,2370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07641107-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07641107</doc-number>
+<kind>B1</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11904639</doc-number>
+<date>20070927</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>155</us-term-extension>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>F</subclass>
+<main-group>17</main-group>
+<subgroup>50</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>06</class>
+<subclass>G</subclass>
+<main-group>7</main-group>
+<subgroup>62</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>235379</main-classification>
+<further-classification>235380</further-classification>
+<further-classification>235382</further-classification>
+<further-classification>703 13</further-classification>
+<further-classification>434345</further-classification>
+<further-classification>902 38</further-classification>
+<further-classification>902 40</further-classification>
+</classification-national>
+<invention-title id="d0e55">Fault monitoring and notification system for automated banking machines</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4282424</doc-number>
+<kind>A</kind>
+<name>Hirose</name>
+<date>19810800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>235379</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4317957</doc-number>
+<kind>A</kind>
+<name>Dendrow</name>
+<date>19820300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4998206</doc-number>
+<kind>A</kind>
+<name>Jones et al.</name>
+<date>19910300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5119465</doc-number>
+<kind>A</kind>
+<name>Jack et al.</name>
+<date>19920600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5184179</doc-number>
+<kind>A</kind>
+<name>Tarr et al.</name>
+<date>19930200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5253167</doc-number>
+<kind>A</kind>
+<name>Yoshida et al.</name>
+<date>19931000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5355364</doc-number>
+<kind>A</kind>
+<name>Abali</name>
+<date>19941000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5546072</doc-number>
+<kind>A</kind>
+<name>Creuseremee et al.</name>
+<date>19960800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5551875</doc-number>
+<kind>A</kind>
+<name>Shaffer et al.</name>
+<date>19960900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5563393</doc-number>
+<kind>A</kind>
+<name>Coutts</name>
+<date>19961000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5566339</doc-number>
+<kind>A</kind>
+<name>Perholtz et al.</name>
+<date>19961000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5619024</doc-number>
+<kind>A</kind>
+<name>Kolls</name>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5694323</doc-number>
+<kind>A</kind>
+<name>Koropitzer et al.</name>
+<date>19971200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5694580</doc-number>
+<kind>A</kind>
+<name>Narita et al.</name>
+<date>19971200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5764226</doc-number>
+<kind>A</kind>
+<name>Consolatti et al.</name>
+<date>19980600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5896523</doc-number>
+<kind>A</kind>
+<name>Bissett et al.</name>
+<date>19990400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5984178</doc-number>
+<kind>A</kind>
+<name>Gill et al.</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5999908</doc-number>
+<kind>A</kind>
+<name>Abelow</name>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6279826</doc-number>
+<kind>B1</kind>
+<name>Gill et al.</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>7366646</doc-number>
+<kind>B1</kind>
+<name>Gill et al.</name>
+<date>20080400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>703 13</main-classification></classification-national>
+</citation>
+<citation>
+<nplcit num="00021">
+<othercit>Deitrich, Dave; Patterson, Walter; Warner, Byron, &#x201c;Class Project Group N Report&#x201d; Georgia Institute of Technology, CS 6751, Summer 1994, pp. Part 2: ATM design prototypes pp. 1-18, Interface Sketches pp. 10-5, Part III Final Design pp. 1-7.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00022">
+<othercit>Jorgensen, Paul C. and Erickson, Carl, &#x201c;Object-Oriented Integration Testing&#x201d;, Communication of the ACM, vol. 37, N. 9, Sep. 1994, pp. 30-38.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>7</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>235379</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>235380</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>235382</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>434345</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>703 13</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>902 38</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>902 40</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>58</number-of-drawing-sheets>
+<number-of-figures>59</number-of-figures>
+</figures>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>10896209</doc-number>
+<kind>00</kind>
+<date>20040720</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7366646</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11904639</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>09411013</doc-number>
+<kind>00</kind>
+<date>19991001</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>6768975</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>10896209</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>08813511</doc-number>
+<kind>00</kind>
+<date>19970307</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>5984178</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>09411013</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60032160</doc-number>
+<kind>00</kind>
+<date>19961129</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Gill</last-name>
+<first-name>Robert Bradley</first-name>
+<address>
+<city>Hamilton</city>
+<country>CA</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>CA</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Baghdadi</last-name>
+<first-name>Gaby</first-name>
+<address>
+<city>Markham</city>
+<country>CA</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>CA</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Symonds</last-name>
+<first-name>Robert D.</first-name>
+<address>
+<city>Novelty</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Singer</last-name>
+<first-name>Irek</first-name>
+<address>
+<city>Mississauga</city>
+<country>CA</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>CA</country>
+</residence>
+</applicant>
+<applicant sequence="005" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>St. George</last-name>
+<first-name>Peter</first-name>
+<address>
+<city>Mississauga</city>
+<country>CA</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>CA</country>
+</residence>
+</applicant>
+<applicant sequence="006" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Shirah</last-name>
+<first-name>Roy</first-name>
+<address>
+<city>Clover</city>
+<state>SC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="007" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Stock</last-name>
+<first-name>Timothy M.</first-name>
+<address>
+<city>Canton</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Jocke</last-name>
+<first-name>Ralph E.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Parmelee</last-name>
+<first-name>Christopher L.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="03" rep-type="attorney">
+<addressbook>
+<orgname>Walker &#x26; Jocke</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Diebold, Incorporated</orgname>
+<role>02</role>
+<address>
+<city>North Canton</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Paik</last-name>
+<first-name>Steven S</first-name>
+<department>2887</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Yang</last-name>
+<first-name>Minghui</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An automated banking machine includes a card reader operative to read data from user cards and to use the data read by the card reader in operation of the machine. Status messages are received from automated banking machines operating in a network. The messages are received by an event management system operating at least one computer in operative connection with a data store. The data store includes information representative of the banking machines in the network, status messages generated by the banking machines and actions to be taken including entities to be notified of conditions which cause status messages to be sent by the various banking machines.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="172.89mm" wi="222.50mm" file="US07641107-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="240.11mm" wi="160.44mm" orientation="landscape" file="US07641107-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="190.25mm" wi="166.12mm" orientation="landscape" file="US07641107-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="234.19mm" wi="152.65mm" orientation="landscape" file="US07641107-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="230.97mm" wi="151.30mm" orientation="landscape" file="US07641107-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="241.64mm" wi="155.53mm" orientation="landscape" file="US07641107-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="230.29mm" wi="169.33mm" orientation="landscape" file="US07641107-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="230.97mm" wi="175.01mm" orientation="landscape" file="US07641107-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="238.42mm" wi="143.09mm" orientation="landscape" file="US07641107-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="192.36mm" wi="145.20mm" orientation="landscape" file="US07641107-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="233.43mm" wi="169.67mm" orientation="landscape" file="US07641107-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="184.57mm" wi="166.20mm" orientation="landscape" file="US07641107-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="232.49mm" wi="162.31mm" orientation="landscape" file="US07641107-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="188.13mm" wi="166.88mm" orientation="landscape" file="US07641107-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="139.95mm" wi="166.54mm" orientation="landscape" file="US07641107-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="144.19mm" wi="165.10mm" orientation="landscape" file="US07641107-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="248.33mm" wi="174.24mm" orientation="landscape" file="US07641107-20100105-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="256.46mm" wi="171.87mm" file="US07641107-20100105-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="241.98mm" wi="177.80mm" orientation="landscape" file="US07641107-20100105-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="199.39mm" wi="169.67mm" orientation="landscape" file="US07641107-20100105-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="231.14mm" wi="178.22mm" file="US07641107-20100105-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="169.67mm" wi="160.44mm" file="US07641107-20100105-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="239.52mm" wi="174.24mm" orientation="landscape" file="US07641107-20100105-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="240.20mm" wi="188.89mm" orientation="landscape" file="US07641107-20100105-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="194.90mm" wi="165.78mm" orientation="landscape" file="US07641107-20100105-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="237.32mm" wi="178.56mm" orientation="landscape" file="US07641107-20100105-D00025.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00026" num="00026">
+<img id="EMI-D00026" he="235.97mm" wi="171.79mm" orientation="landscape" file="US07641107-20100105-D00026.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00027" num="00027">
+<img id="EMI-D00027" he="250.78mm" wi="178.90mm" orientation="landscape" file="US07641107-20100105-D00027.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00028" num="00028">
+<img id="EMI-D00028" he="245.53mm" wi="178.14mm" orientation="landscape" file="US07641107-20100105-D00028.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00029" num="00029">
+<img id="EMI-D00029" he="226.65mm" wi="175.01mm" orientation="landscape" file="US07641107-20100105-D00029.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00030" num="00030">
+<img id="EMI-D00030" he="230.72mm" wi="175.68mm" file="US07641107-20100105-D00030.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00031" num="00031">
+<img id="EMI-D00031" he="212.94mm" wi="177.80mm" file="US07641107-20100105-D00031.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00032" num="00032">
+<img id="EMI-D00032" he="233.51mm" wi="179.58mm" orientation="landscape" file="US07641107-20100105-D00032.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00033" num="00033">
+<img id="EMI-D00033" he="245.45mm" wi="185.93mm" orientation="landscape" file="US07641107-20100105-D00033.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00034" num="00034">
+<img id="EMI-D00034" he="254.00mm" wi="180.93mm" orientation="landscape" file="US07641107-20100105-D00034.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00035" num="00035">
+<img id="EMI-D00035" he="264.67mm" wi="177.12mm" orientation="landscape" file="US07641107-20100105-D00035.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00036" num="00036">
+<img id="EMI-D00036" he="252.22mm" wi="187.71mm" orientation="landscape" file="US07641107-20100105-D00036.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00037" num="00037">
+<img id="EMI-D00037" he="254.00mm" wi="183.73mm" orientation="landscape" file="US07641107-20100105-D00037.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00038" num="00038">
+<img id="EMI-D00038" he="261.79mm" wi="185.59mm" orientation="landscape" file="US07641107-20100105-D00038.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00039" num="00039">
+<img id="EMI-D00039" he="251.54mm" wi="184.15mm" orientation="landscape" file="US07641107-20100105-D00039.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00040" num="00040">
+<img id="EMI-D00040" he="249.77mm" wi="181.36mm" orientation="landscape" file="US07641107-20100105-D00040.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00041" num="00041">
+<img id="EMI-D00041" he="253.66mm" wi="180.93mm" orientation="landscape" file="US07641107-20100105-D00041.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00042" num="00042">
+<img id="EMI-D00042" he="250.11mm" wi="177.38mm" orientation="landscape" file="US07641107-20100105-D00042.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00043" num="00043">
+<img id="EMI-D00043" he="254.34mm" wi="185.67mm" orientation="landscape" file="US07641107-20100105-D00043.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00044" num="00044">
+<img id="EMI-D00044" he="248.67mm" wi="179.92mm" orientation="landscape" file="US07641107-20100105-D00044.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00045" num="00045">
+<img id="EMI-D00045" he="250.87mm" wi="173.91mm" orientation="landscape" file="US07641107-20100105-D00045.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00046" num="00046">
+<img id="EMI-D00046" he="219.71mm" wi="177.80mm" orientation="landscape" file="US07641107-20100105-D00046.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00047" num="00047">
+<img id="EMI-D00047" he="257.22mm" wi="178.48mm" orientation="landscape" file="US07641107-20100105-D00047.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00048" num="00048">
+<img id="EMI-D00048" he="251.46mm" wi="186.27mm" orientation="landscape" file="US07641107-20100105-D00048.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00049" num="00049">
+<img id="EMI-D00049" he="257.89mm" wi="177.80mm" file="US07641107-20100105-D00049.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00050" num="00050">
+<img id="EMI-D00050" he="257.13mm" wi="186.27mm" orientation="landscape" file="US07641107-20100105-D00050.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00051" num="00051">
+<img id="EMI-D00051" he="249.17mm" wi="189.82mm" orientation="landscape" file="US07641107-20100105-D00051.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00052" num="00052">
+<img id="EMI-D00052" he="232.83mm" wi="174.67mm" orientation="landscape" file="US07641107-20100105-D00052.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00053" num="00053">
+<img id="EMI-D00053" he="245.53mm" wi="165.44mm" orientation="landscape" file="US07641107-20100105-D00053.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00054" num="00054">
+<img id="EMI-D00054" he="246.55mm" wi="179.58mm" orientation="landscape" file="US07641107-20100105-D00054.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00055" num="00055">
+<img id="EMI-D00055" he="249.77mm" wi="183.05mm" orientation="landscape" file="US07641107-20100105-D00055.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00056" num="00056">
+<img id="EMI-D00056" he="261.79mm" wi="175.01mm" orientation="landscape" file="US07641107-20100105-D00056.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00057" num="00057">
+<img id="EMI-D00057" he="209.21mm" wi="185.50mm" file="US07641107-20100105-D00057.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00058" num="00058">
+<img id="EMI-D00058" he="220.39mm" wi="146.98mm" file="US07641107-20100105-D00058.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a divisional of U.S. patent application Ser. No. 10/896,209 filed Jul. 7, 2004, which is a divisional application of U.S. patent application Ser. No. 09/411,013 filed Oct. 1, 1999 (now U.S. Pat. No. 6,768,975) which is a divisional application of U.S. patent application Ser. No. 08/813,511 filed Mar. 7, 1997 (now U.S. Pat. No. 5,984,178) which claims benefit pursuant to 35 U.S.C. &#xa7; 119(e) of 60/032,160 filed Nov. 29, 1996.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">Embodiments relate to automated banking machines that include card readers that operate in response to data read from user cards by the card readers. Specifically, embodiments relate to a system for monitoring fault conditions at automated banking machines and for automatically notifying a servicer or other entity of fault conditions requiring attention.</p>
+<heading id="h-0003" level="1">BACKGROUND ART</heading>
+<p id="p-0004" num="0003">Automated banking machines have been developed which perform functions such as dispensing cash, receiving deposits, checking the status of accounts and other functions. Automated banking machines used by consumers are referred to as automated teller machines or &#x201c;ATMs.&#x201d; There are several manufacturers of automated teller machines.</p>
+<p id="p-0005" num="0004">Many types of automated banking machines include internal systems which monitor their operation. These internal systems often operate to check the available quantities of items which are required for proper operation of the machine. This may include the amount of cash available in the machine for dispensing to customers or an operator. Other systems may monitor the availability of supplies such as blank receipt forms or deposit envelopes. Such systems operate to provide a signal when the quantities of such items reach levels indicative of a need for replenishment. It is also common to provide further signals when such items are depleted. The signals generated by the machine are indicative of the condition which has occurred.</p>
+<p id="p-0006" num="0005">Automated banking machines often include systems for providing signals indicative of malfunctions or the existence of other conditions which impede the operation of the machine. For example, machines which accept deposits may reach a condition where the depository is filled and cannot accept further deposits. When this occurs the machine loses all or a portion of its functional capabilities.</p>
+<p id="p-0007" num="0006">Other malfunctions may include failures of currency dispensing mechanisms, customer card readers, receipt printers, journal printers or other components of the machine. In each case, upon sensing a failure condition, the machine is operative to generate signals indicative of the condition.</p>
+<p id="p-0008" num="0007">Different types of automated banking machines generate different types of fault signals. One reason for this is that machines often include different components. For example, certain machines may function only to dispense cash, in which case no fault signals related to a depository are generated by such a machine. In addition, different manufacturers use different types of fault signals for indicating conditions which exist in their machines.</p>
+<p id="p-0009" num="0008">In the operation of a network of automated banking machines the operation of the machines is controlled by a host computer. Condition signals have been generally transmitted to the host computer. These condition signals from the machines are often referred to as status messages. The status messages may be of either the &#x201c;solicited&#x201d; or &#x201c;unsolicited&#x201d; types.</p>
+<p id="p-0010" num="0009">An example of a solicited status message may include a message that a machine sends back to a host computer after it has been instructed through a prior message from the host computer to carry out a function. Such a solicited response message may indicate that the machine successfully carried out the requested function or alternatively that the machine was unable to carry out the requested function. The message that the machine was unable to do what it was requested to do is an example of a fault message that was solicited. An example of an unsolicited fault message would be a signal from a seismic detector in the machine indicating that it is undergoing excessive movement. This may be indicative if the machine is subject to attack by a burglar. The message is sent to the host computer when the condition is sensed without the host computer specifically requesting the message. Automated banking machines typically have the capability of sending numerous types of solicited and unsolicited status messages indicative of conditions that exist at the machine.</p>
+<p id="p-0011" num="0010">In the past, operators of ATM networks have programmed their host computers to identify status messages that indicate a problem or fault and to'present them to a system operator. Often this is done by printing the fault conditions at a printer operatively connected to the host computer. An operator, upon receiving the fault message, is required to determine from the content of the message the machine originating the message and the nature of the problem. Generally, automated teller machine networks have assigned numeric identification data to each machine for purposes of transmitting and receiving transaction messages. Such data is often printed in connection with the fault message. The host computer may also be programmed to print some information along with the raw fault message data to assist the system operator in identifying the problem which has occurred.</p>
+<p id="p-0012" num="0011">Upon receiving the fault condition message the system operator then must contact the entity which can correct the condition causing the message to be generated. If the banking machine is located in a bank branch, personnel working in the branch may in some instances be able to correct the condition. It may be appropriate to contact branch personnel when the condition indicated is the depletion of currency, receipt forms, printer ribbons or other consumable items. Such normal replacement and replenishment activities are often referred to as &#x201c;first line&#x201d; maintenance, and can often be done by individuals not having a great deal of technical knowledge concerning the operation of automated banking machines. Activities associated with repairing problems with automated banking machines other than the usual replenishment of consumable items is often referred to as &#x201c;second line&#x201d; maintenance. Branch personnel may also be contacted during business hours if the machine sends signals which suggest that a person is attempting to improperly gain access.</p>
+<p id="p-0013" num="0012">However, even if the problem is one that could normally be corrected by personnel working in a bank branch where the machine is located, if the problem occurs during times when the branch is closed then the system operator may need to contact a different entity to correct the condition. Such other entities may include servicers such as personnel who work for the manufacturer of the banking machine, or a third party service company. The personnel of the system operator are required to make a decision on whom to contact based on the nature of the problem and the service available in the geographic area where the machine is located.</p>
+<p id="p-0014" num="0013">Other conditions indicated by status messages at an ATM or other banking machine may be indicative of problems that require skilled repair personnel. Such problems may include the repair of currency dispensing mechanisms, card readers, receipt printers and other devices within the machine. In such cases, the operator of the system needs to determine what manufacturer or third party servicer to contact who can make the necessary repairs. Often the decision as to whom to contact requires consideration of the type of machine, the geographic area where the machine is located, as well as whether the condition has arisen during business hours or during off hours or holidays when different servicing entities have responsibility for making repairs. The decision as to whom to contact may also involve whether the servicing entity will have access to cash or other valuables in the machine. In such cases, appropriate bank personnel may also need to be contacted to witness activities by the servicer.</p>
+<p id="p-0015" num="0014">The operator of a system of automated banking machines, upon receiving a status message from a machine, also often needs to follow up with the entity responsible for correcting the condition to find out when the condition has been corrected. This is particularly important where the operator of the ATM network, in response to receiving the fault condition message, takes the machine out of service on the network so that messages are no longer being sent to or received from the machine. If the problem has been corrected but the machine remains out of service, customers are being unnecessarily inconvenienced. Thus, it is important for the system operator to know as soon as possible that the problem has been corrected.</p>
+<p id="p-0016" num="0015">It is also important for system operators to know that a servicer who has been called is responding. If a message is dispatched to a servicing entity by E-mail or fax, the system operator has no way of knowing that the message has been received. Return phone calls may be made by the servicer to acknowledge message receipt and to get the information from the system operator concerning the nature of the condition indicated. However, when systems with many automated banking machines are involved it is often difficult to keep track of which messages have been acknowledged and which ones have not.</p>
+<p id="p-0017" num="0016">Operators of automated banking machine networks also often have a desire to evaluate the performance of the machines in their system as well as the individuals servicing them. However, there is no conveniently available way to analyze the problems that may be occurring at particular machines, or to evaluate whether particular servicers are correcting problems in a manner that has a lasting effect. Further, operators of automated banking machine systems often have a desire to evaluate the responsiveness of their servicers and other entities responsible for the machines. This cannot be conveniently done with existing systems and methods.</p>
+<p id="p-0018" num="0017">Thus, there exists a need for a system which can automatically determine the nature of a condition at an automated banking machine and automatically notify a servicer of the existence of the condition. There further exists a need for a system that can track the process for correcting the condition to determine that the notified servicer has responded and has corrected the problem. In addition, there exists a need for a system that can track and analyze the performance of automated banking machines and servicers, and provide report data in a manner that will assist an operator of automated banking machines in evaluating the performance of their machines and servicers.</p>
+<heading id="h-0004" level="1">DISCLOSURE OF INVENTION</heading>
+<p id="p-0019" num="0018">It is an object of exemplary embodiments to provide a system that receives a condition message from a banking machine, and notifies an entity having responsibility for the machine of the condition.</p>
+<p id="p-0020" num="0019">It is a further object of exemplary embodiments to provide a system that receives a condition message from a banking machine, and is operative to notify a servicer having responsibility for the banking machine of the condition causing the machine to generate the condition message.</p>
+<p id="p-0021" num="0020">It is a further object of exemplary embodiments to provide a system that receives a condition message from a banking machine, and notifies servicers selectively based on the time the condition message is generated and the hours of servicer availability.</p>
+<p id="p-0022" num="0021">It is a further object of exemplary embodiments to provide a system that receives a condition message from a banking machine, and notifies a servicer selectively based on the nature of the condition indicated by the condition message.</p>
+<p id="p-0023" num="0022">It is a further object of exemplary embodiments to provide a system that receives a condition message from a banking machine, and notifies servicers selectively through a plurality of selected message mediums of the condition.</p>
+<p id="p-0024" num="0023">It is a further object of exemplary embodiments to provide a system that receives a condition message from a banking machine, and notifies servicers through selected message notification formats tailored to the servicer.</p>
+<p id="p-0025" num="0024">It is a further object of exemplary embodiments to provide a system that receives a condition message from a banking machine, and is operative to receive a response message from the servicer indicative that the servicer has received notification of the condition at the machine.</p>
+<p id="p-0026" num="0025">It is a further object of exemplary embodiments to provide a system that receives a condition message from a banking machine, that is operative to receive a correction message from the servicer indicative of the condition that caused the condition message has been corrected.</p>
+<p id="p-0027" num="0026">It is a further object of exemplary embodiments to provide a system that receives a condition message from a banking machine, that is operative to provide a servicer with information on how to correct the condition indicated by the condition message.</p>
+<p id="p-0028" num="0027">It is a further object of exemplary embodiments to provide a system for receiving a condition message from a banking machine, that may be used with different types of banking machines that provide different types of condition messages and that have different condition message formats.</p>
+<p id="p-0029" num="0028">It is a further object of exemplary embodiments to provide a system for receiving a condition message from a banking machine, that can be selectively operated to test the response of the system to receipt of selected condition messages from selected machines.</p>
+<p id="p-0030" num="0029">It is a further object of exemplary embodiments to provide a system for receiving a condition message from a banking machine, that provides an archive of information concerning conditions and their resolutions.</p>
+<p id="p-0031" num="0030">It is a further object of exemplary embodiments to provide a system for receiving a condition message from a banking machine, that is operative to selectively analyze the performance of banking machines connected to the system and servicers servicing the machines.</p>
+<p id="p-0032" num="0031">Further objects of exemplary embodiments will be made apparent in the following Best Modes for Carrying Out Invention and the appended claims.</p>
+<p id="p-0033" num="0032">The foregoing objects are accomplished in an exemplary embodiment by a system that includes a plurality of automated banking machines. Each of the banking machines is operative to generate device status messages that are indicative of conditions such as fault conditions that occur at the banking machine.</p>
+<p id="p-0034" num="0033">Each of the banking machines is operatively connected to a computer which receives the condition messages from the banking machines. The computer is also in connection with a data store. The data store includes data representative of condition messages as well as servicers and other entities to be contacted when particular machines generate particular condition messages. The data in the data store also preferably includes data representative of message mediums to be used in contacting the servicers. This preferably includes, for example, fax numbers, pager numbers, telephone numbers, E-mail addresses and other contact information on how a particular servicer is to be contacted concerning a type of fault condition.</p>
+<p id="p-0035" num="0034">The system further includes a servicer interface device in operative connection with the computer. The interface device includes a message dispatching portion which is operative to dispatch messages to servicers. The servicer interface device further preferably includes a message receiving portion for receiving messages from servicers.</p>
+<p id="p-0036" num="0035">The computer is operative responsive to receiving a condition message from an automated banking machine to resolve the identity of a servicer or other entity to be contacted concerning the condition. The computer is further operative to resolve the manner in which the servicer is to be contacted and to operate the servicer interface device to dispatch a message to the servicer to notify them of the condition.</p>
+<p id="p-0037" num="0036">In an embodiment the servicer is enabled to input messages to the message receiving portion of the servicer interface device. The servicer is enabled to acknowledge that the message dispatched by the system has been received. In addition, the servicer is preferably enabled to input messages indicative that corrective action has been started and eventually completed to correct the condition that caused the generation of the condition message.</p>
+<p id="p-0038" num="0037">An embodiment includes a scheduler. The scheduler establishes a sequence of activities which are to happen with regard to notifying the responsible servicer or other personnel of a condition, and correcting the condition. The scheduler also sends messages at the appropriate times which cause activities to be carried out if specified conditions which eliminate the need for the activities have not already occurred. For example, the scheduler may send additional notification messages to the servicer (or to another servicer) if the servicer has not acknowledged a notification message within a selected time period.</p>
+<p id="p-0039" num="0038">In an embodiment the servicer is further enabled to obtain through the servicer interface device information concerning how to correct the condition which has caused the generation of the condition message. The preferred embodiment of the system is further operative to provide report data concerning the performance of the banking machines connected to the system and the servicers who respond to messages from the system.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic view of a process for correcting fault conditions at automated banking machines carried out using the exemplary embodiment of the system.</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic view of the components which comprise the system of the exemplary embodiment.</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 3</figref> is a schematic view of the message flow through a first portion of the system from the automated banking machines through the message gateway router.</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 4</figref> is a schematic view of the message flow through a further portion of the system including a device status processing program.</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic view of the message flow through a further portion of the system which includes a multimedia reporter.</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 6</figref> is a schematic view of a client-server hardware configuration in which embodiments of the software used in the exemplary system are operated.</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 7</figref> is a schematic view showing a fault actions window displayed to a user by the exemplary system, including references to related windows from which the information shown in the fault actions window is derived.</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 8</figref> is a view of the main menu window generated by the software of an exemplary embodiment of the system.</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 9</figref> is a schematic view showing the logical relationship between an automated banking machine and controller, location and group information associated with the automated banking machine.</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. 10</figref> is an exemplary controller window generated by the software of the system of an exemplary embodiment of the system.</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. 11</figref> is an ATM window generated by the software of an exemplary embodiment of the system.</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 12</figref> is an ATM groups window generated by the software of an exemplary embodiment of the system.</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. 13</figref> is a locations window generated by the software of an exemplary embodiment of the system.</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. 14</figref> is a vendor window generated by the software of an exemplary embodiment of the system.</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. 15</figref> is a holidays window generated by the software of an exemplary embodiment of the system.</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. 16</figref> is a message recipients window generated by the software of an exemplary embodiment of the system.</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. 17</figref> is a table of variables representative of information that may be included in messages generated by an exemplary embodiment of the system.</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. 18</figref> is a schematic flow diagram of the processes executed by an interface device used in the system of an exemplary embodiment.</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. 19</figref> is a schematic view of messages forwarded to a servicer by the interface device of an exemplary embodiment of the system to notify the servicer of a fault condition.</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIGS. 20 and 21</figref> are schematic views of messages sent by the interface device of an exemplary embodiment to communicate information concerning a fault condition of a banking machine to entities responsible for operation of the banking machine exhibiting the fault condition.</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. 22</figref> is a schematic view of a branch notification message generated by the interface device of an exemplary embodiment to notify a person at a facility where a banking machine is located of a problem with a banking machine.</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. 23</figref> is a trouble ticket monitor window generated by the software of an exemplary embodiment wherein a system operator is enabled to review the status of conditions at automated banking machines and further showing the calendar selection tool of the system of the exemplary embodiment.</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIG. 24</figref> is a further view of the trouble ticket monitor window shown in <figref idref="DRAWINGS">FIG. 23</figref> showing the drop down list feature of the exemplary embodiment of the software used in the system of the exemplary embodiment.</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIG. 25</figref> is a trouble ticket history window generated by the software of an exemplary embodiment.</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIG. 26</figref> is a call details window generated by the software of an exemplary embodiment of the system responsive to selection of the call icons shown in <figref idref="DRAWINGS">FIG. 24</figref> in the trouble ticket monitor window.</p>
+<p id="p-0065" num="0064"><figref idref="DRAWINGS">FIG. 27</figref> is an ATM host message log window generated by the software of an exemplary embodiment of the system.</p>
+<p id="p-0066" num="0065"><figref idref="DRAWINGS">FIG. 28</figref> is a fault codes window generated by the software of an exemplary embodiment of the system.</p>
+<p id="p-0067" num="0066"><figref idref="DRAWINGS">FIG. 29</figref> is a fault actions window similar to that shown schematically in <figref idref="DRAWINGS">FIG. 10</figref> generated by the software of an exemplary embodiment of the system.</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. 30</figref> is a thresholds window generated by the software of an exemplary embodiment of the system.</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIGS. 31 and 32</figref> are a listing of action procedures used in connection with the fault actions window of the system of an exemplary embodiment.</p>
+<p id="p-0070" num="0069"><figref idref="DRAWINGS">FIG. 33</figref> is a device fault simulation tool window generated by the software of an exemplary embodiment of the system used in connection with testing of the system.</p>
+<p id="p-0071" num="0070"><figref idref="DRAWINGS">FIG. 34</figref> is a scheduler window generated by the software of an exemplary embodiment of the system.</p>
+<p id="p-0072" num="0071"><figref idref="DRAWINGS">FIG. 35</figref> is a set-up window generated by the software of an exemplary embodiment, the set-up window being used in connection with the interfacing of the system with a computer system operated by a vendor servicer.</p>
+<p id="p-0073" num="0072"><figref idref="DRAWINGS">FIG. 36</figref> is a call details window similar to that shown in <figref idref="DRAWINGS">FIG. 26</figref> generated by the software of an exemplary embodiment of the system.</p>
+<p id="p-0074" num="0073"><figref idref="DRAWINGS">FIGS. 37 through 45</figref> are report data windows generated by the software of an exemplary embodiment of the system used for analyzing performance of the machines connected to the system and the servicers responsible for servicing such machines.</p>
+<p id="p-0075" num="0074"><figref idref="DRAWINGS">FIGS. 46 through 59</figref> are a database schema representative of table records stored in the data store used in connection with the software of the system of an exemplary embodiment, with <figref idref="DRAWINGS">FIG. 46</figref> being representative of a node type table record associated with system nodes.</p>
+<p id="p-0076" num="0075"><figref idref="DRAWINGS">FIG. 47</figref> is a portion of the database schema used in connection with the message gateway router portion of the software of an exemplary embodiment of the system.</p>
+<p id="p-0077" num="0076"><figref idref="DRAWINGS">FIG. 48</figref> is a schematic of the database schema portion associated with the device status processing program of the exemplary system showing the relationships between the table records for purposes of resolving data indicative of an action instruction message to be sent to a multimedia reporter portion of the system, wherein <figref idref="DRAWINGS">FIGS. 49 through 51</figref> show the table records referenced schematically in <figref idref="DRAWINGS">FIG. 48</figref>.</p>
+<p id="p-0078" num="0077"><figref idref="DRAWINGS">FIGS. 52 through 59</figref> show a portion of the database schema including the database table records used in connection with the multimedia reporter, and the reporting, scheduling, status tracking, archiving and testing functions of the software of an exemplary embodiment.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">BEST MODES FOR CARRYING OUT INVENTION</heading>
+<p id="p-0079" num="0078">Referring now to the drawings and particularly to <figref idref="DRAWINGS">FIG. 1</figref> there is shown therein a schematic view of a process carried out in connection with a preferred exemplary embodiment of the system, which process is generally indicated <b>10</b>. In the process carried out in connection with the exemplary embodiment, automated banking machines which in the preferred embodiment are ATMs <b>12</b>, are operated together as part of an ATM network generally indicated <b>14</b>. The ATMs in the network communicate with an ATM host <b>16</b>. The host is operated by a bank or other entity responsible for the processing of transactions, tracking the status of customer accounts and the other activities necessary for the operation of the ATMs <b>12</b> which make up the network <b>14</b>.</p>
+<p id="p-0080" num="0079">The ATM host <b>16</b> passes transaction messages back and forth between the ATMs in the network to cause the ATMs to carry out banking transactions with users. These transactions may involve different activities depending on the nature of the ATMs used in the network. For example, such transactions may relate to reading a customer's card, receiving and checking a customer's personal identification number (PIN), receiving deposits from a customer, dispensing cash to a customer, debiting or crediting customer accounts, checking account balances and other transaction activities.</p>
+<p id="p-0081" num="0080">In addition to exchanging transaction messages with the ATMs in the network, the host <b>16</b> also receives device status messages schematically indicated <b>18</b> from the ATMs <b>12</b>. The status messages are indicative of conditions which exist at a particular ATM. Generally, device status messages are related to a fault or problem condition which has occurred at the machine. However, device status messages may also be indicative of the proper operation of a particular device or component which makes up the ATM.</p>
+<p id="p-0082" num="0081">The nature of the device status messages <b>18</b> which are transmitted to the host <b>16</b> depends on the type and character of the ATMs <b>12</b> which are sending the message. Different banking machines have different capabilities, and therefore send different types of status messages. In addition, different manufacturers build their machines to generate different signals responsive to conditions. Thus, device status messages which are indicative of a particular problem at one type of machine may be different in both content and format than a message indicative of an identical problem existing at a different brand or type machine.</p>
+<p id="p-0083" num="0082">Device status messages sent to the host <b>16</b> may include data indicative of the ATM sending the message and a particular device or component within the ATM that is responsible for sending the message. The device status messages generally fall into two categories. These categories are &#x201c;solicited&#x201d; and &#x201c;unsolicited.&#x201d; A solicited message is one that is transmitted back to the host by an ATM in response to a message or instruction to the ATM from the host. A solicited message may be indicative that a function that a device in the ATM has been requested to perform has been satisfactorily carried out by the ATM, for example, the dispense of a certain amount of cash to the customer. The ATM may respond to such a message from the host with the response message that the command has been successfully carried out. Alternatively, if the ATM was unsuccessful in carrying out the request, a status message indicative that the ATM was not able to carry out the requested function will be sent. Such a solicited fault or condition message generally indicates that there is a problem of a particular type at the ATM which requires corrective action.</p>
+<p id="p-0084" num="0083">Unsolicited condition or fault messages from an ATM are those messages that are generated by the ATM that are not responsive to a message sent by the host. An example of these messages may be alarm conditions indicative of tampering or other improper activities. Examples may include the detection of activities by persons attempting to compromise the security of the ATM. Unusual movement may be detected by a seismic detector within the ATM chest. Other sensors may sense opening of the door of the ATM chest. Signals are generated in response to the detection of such conditions and an unsolicited message is sent to the host indicative thereof.</p>
+<p id="p-0085" num="0084">In a form of the process associated with the system of the exemplary embodiment, the status messages indicative of conditions at the ATM along with identifying data associated with the particular ATM generating the message, are delivered to an event management system generally indicated <b>20</b>. The event management system includes computer hardware and software later discussed in detail which is operative to analyze the condition message received from the ATM and to reformat the message into a format which is suitable for use by the event management system. This reformatting is accomplished based on information stored in a data store concerning the particular formats used by the ATM generating the condition message.</p>
+<p id="p-0086" num="0085">The event management system is further operative after having converted the condition message to a useable format, to determine the nature of the condition which is being reported by the ATM. Thereafter the system is operative based on information stored in its data store, current time information and other information to determine what entities should be notified of the condition at the ATM and the manner in which to contact such entities. The manner of contacting the entities is shown schematically in <figref idref="DRAWINGS">FIG. 1</figref> by message mediums <b>22</b>. These message mediums include the sending of a message through a pager, by fax or by telephone. Message mediums may also include E-mail or other type of electronic message link. The sending of messages may be done electronically to a service provider such as to a DECAL&#xae; system operated by Diebold, Incorporated, the Assignee of the present invention.</p>
+<p id="p-0087" num="0086">In a preferred embodiment, the event management system <b>20</b> is operative to contact entities including servicers through a servicer interface device which is a communication device capable of dispatching messages in the various message mediums <b>22</b>. Further, the servicer interface device is preferably operable to receive input messages from servicers. Such input messages may include, for example, that the servicer has properly received notification of the problem, has arrived on site to correct the problem and has resolved the condition which caused the status message to be generated.</p>
+<p id="p-0088" num="0087">The preferred embodiment includes an interactive voice/response module which enables the receipt of input messages from a servicer or other entity during the steps which occur during the problem correction process. These steps as indicated in <figref idref="DRAWINGS">FIG. 1</figref> include acknowledgment by a servicer or other entity that they have received notice of the existence of a problem as indicated by step <b>24</b>. The servicer may further indicate that they have arrived on site to begin correcting the problem as indicated at step <b>26</b>. Once the problem has been corrected the servicer may notify the system that the problem has been corrected as indicated by step <b>28</b>. This enables the system to analyze and report the status of problem correction activities at all times.</p>
+<p id="p-0089" num="0088">The components of the event management system <b>20</b> of an exemplary embodiment of the system are shown in greater detail in <figref idref="DRAWINGS">FIG. 2</figref>. The ATM host <b>16</b> is operative to receive the device status messages <b>18</b> from the ATMs in the network and to transmit host messages generally indicated <b>30</b>, to the event management system <b>20</b>. In the exemplary embodiment the ATM host system includes software which generates the host messages in a format which will be later described in detail. This software is preferably loaded into the host from a computer readable media, such as diskettes, a tape, a hard drive or similar software bearing media.</p>
+<p id="p-0090" num="0089">The event management system is operative in one or more computers and receives the host messages at a driver <b>32</b>. The driver is operative to place the ATM host message <b>30</b> into a standard message envelope or SME which is used within the event management system <b>20</b>. The device driver <b>32</b> is only operative to place the host message in the standard message envelope, but does not reformat the host message.</p>
+<p id="p-0091" num="0090">From the device driver <b>32</b> the message is transmitted to a message gateway router (MGR) <b>34</b>. MGR <b>34</b> is operative to determine the type and format of the message received from the host based on information stored in table records in the data store. The message gateway router <b>34</b> is then operative to parse and reformat the message into a form that is useable within the event management system <b>20</b>. The message gateway router fills out the fields in the standard message envelope and resolves the system address of the next component within the event management system which will receive the message. The next address for the message to be sent within the system is resolved based on the message type of the original message. It should be understood that while the exemplary embodiment will be discussed in connection with a fault or problem condition message, the system of the exemplary embodiment is capable of handling other types of messages which are routed to other systems, locations and processes.</p>
+<p id="p-0092" num="0091">After the message gateway router <b>34</b> reformats or otherwise transforms the message into the standard message envelope and resolves the next system address, the new message is sent through a send message function operative within the system to forward a fault or problem condition message to a device status processing program (DSPP) <b>36</b>. The device status processing program (DSPP) <b>36</b> is operative based on information stored in the data store, to identify the nature of the fault condition represented by the message, including the device within the machine that is causing the fault signal to be generated. The device status processing program is further operative to determine data representative of the identity of the machine generating the message, including its physical location. The device status processing program <b>36</b> is further operative based on information in the data store to determine data representative of entities to be notified of the condition existing at the ATM and to determine what action is to be taken in response to the message. As discussed in detail later, such actions may take into consideration condition messages received from the particular ATM prior to the current message. Further, the actions taken may include or be correlated with data representative of steps to be taken at times after the condition is first reported to insure that the fault condition is promptly and properly corrected.</p>
+<p id="p-0093" num="0092">After determining the action to be taken in the device status processing program, an action message is sent to a multimedia reporter component <b>40</b>. The multimedia reporter (MMR) is operative based on information stored in the data store to execute particular action steps in response to the action message resolved by the device status processing program. The multimedia reporter <b>40</b> is operative to resolve the entities to be contacted in response to the particular action message and to send messages from a message dispatching portion through the message mediums <b>22</b>. The message mediums include the various forms of communication that may be established for entities to be contacted such as by telephone, fax, pager, E-mail or other electronic data link. The preferred embodiment includes an interactive voice/response module (IVR) which is operative to provide the messages to each entity in the format established for the entity. These formats preferably include customized message formats for voice and fax messages that are tailored to the particular entity based on configuration information stored in the data store.</p>
+<p id="p-0094" num="0093">Based on the action resolved by the device status processing program, the MMR resolves a schedule for future actions. This schedule is established in a scheduler component <b>38</b>. The scheduler is operative to send messages to the MMR at the times in the schedule for taking future action steps. If certain responsive activities are not reported to the MMR as having been taken prior to the receipt of the messages, the MMR operates to execute the action steps responsive to the messages received. If the MMR has received input messages which avoid the need for taking action in response to a message from the scheduler, the scheduler message is disregarded.</p>
+<p id="p-0095" num="0094">The MMR <b>40</b> is further operative to cause a &#x201c;trouble ticket&#x201d; to be stored in the data store. This trouble ticket or trouble record is a record of information concerning the condition in the ATM and the course of activities taken to resolve the condition reflected by the ticket. The trouble record information is generated and stored in the data store associated with the computers in which the event management system is operated.</p>
+<p id="p-0096" num="0095">In the exemplary embodiment the multimedia reporter includes a message receiving portion which enables an entity notified of a condition at an ATM to respond to the system. Such responses may include input messages, including messages that the entity acknowledges receipt of the message. Other input messages may include a message that an entity has arrived on site and has begun correcting the problem. Further input messages may indicate that the problem which caused the status message to be generated has been corrected. Other input messages may be accepted based on the requirements of the system.</p>
+<p id="p-0097" num="0096">In an exemplary embodiment, the data store in connection with the computers in which the event management system <b>20</b> operates, includes information on steps to be taken to correct fault conditions which are generated at the ATMs. The multimedia reporter <b>40</b> is preferably programmed in response to receiving an input message from a servicer requesting such information, to provide a message including the correction steps to the servicer. This enables the servicer to have information on the steps which will be necessary to correct the problem indicated by the ATM message. In addition, the exemplary embodiment also enables a servicer who has been notified by a message such as through a pager, to obtain details of the fault condition which has caused the message at the ATM to be generated as well as identifying information for the ATM where service is required. Such information may include the location, contact and other information associated with the particular machine where the condition message was generated. The information parameters provided to the servicer or other person notified may be varied to suit the needs of the entity being notified.</p>
+<p id="p-0098" num="0097">In an exemplary embodiment the multimedia reporter <b>40</b> is operative to send additional messages to servicers. These messages are dispatched to servicers in response to messages from the scheduler <b>38</b> to the MMR if certain responses are not received from a servicer prior to scheduled times. The scheduled times are established by the MMR in response to the action message received from the DSPP. For example, if an entity notified of a fault condition is required to respond but has not done so within a time period established in accordance with the action resolved by the device status processing program, and as recorded by the MMR in the scheduler, then the scheduler may cause the MMR to give a further notice to the same entity or to a different entity. In addition, the fact of giving the additional notification or taking other action is recorded in the trouble ticket associated with the particular fault condition and stored in the data store. A record is also made in the data store of calls or other notifications given to servicers or other entities.</p>
+<p id="p-0099" num="0098">The exemplary embodiment is operative to enable the processing of administrative requests received at the multimedia reporter. Such administrative requests may include information concerning the status of banking machines connected to the system. The information responsive to administrative requests is resolved from the trouble ticket and other records in the data store and output through the multimedia reporter to appropriate personnel.</p>
+<p id="p-0100" num="0099">The event management system of the exemplary embodiment is further operative to analyze information stored in the data store of the system concerning ATM conditions and corrective actions that were taken. This analysis includes producing various reports hereinafter described in detail, which show the performance of the machines in connection with the system and the fault conditions which have arisen with respect to the machines. In addition, the system enables analysis of network and servicer performance in terms of both availability of machines as well as the responsiveness and effectiveness of servicers in resolving problem conditions which occur at machines connected to the system.</p>
+<p id="p-0101" num="0100">The exemplary embodiment of the system further includes a device fault simulation function which enables a user of the system to test the operation of the system, either with regard to fault conditions at actual machines connected to the system or conditions at phantom machines which exist only as information representative of machines in a data store. The user is enabled through an input device in connection with the computer which operates the system to generate signals indicative of a fault condition at an ATM and to observe the operation of the system in response thereto. In this manner a system operator is enabled to verify that the system is working as anticipated in response to the generation of a fault condition at a particular machine.</p>
+<p id="p-0102" num="0101">The operation of the exemplary embodiment of the system is now described in detail. <figref idref="DRAWINGS">FIG. 3</figref> shows ATM machines <b>12</b> connected to ATM host <b>16</b> in a manner previously discussed. The ATM host comprises a computer which in the exemplary embodiment is operative to receive the status messages from the ATM. The host <b>16</b> is preferably programmed with software to generate host status messages <b>30</b> to the event management system <b>20</b>. This may be done in a number of ways as graphically indicated in <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0103" num="0102">The host <b>16</b> is programmed so that it responds to receiving a status message by generating a host message to the event management system. In an exemplary embodiment the host message includes a header added to the status message sent by the ATM. In an exemplary embodiment the host message has the following header fields:</p>
+<p id="p-0104" num="0103">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="left"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="left"/>
+<colspec colname="5" colwidth="70pt" align="left"/>
+<thead>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Field</entry>
+<entry>Name of</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Number</entry>
+<entry>Field</entry>
+<entry>Length</entry>
+<entry>Format</entry>
+<entry>Description</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="left"/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="49pt" align="left"/>
+<colspec colname="5" colwidth="70pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>Terminal ID</entry>
+<entry>15</entry>
+<entry>ASCII</entry>
+<entry>The ATM</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>identification number</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>used in the system</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>Host ID</entry>
+<entry>15</entry>
+<entry>ASCII</entry>
+<entry>The internal system</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>ID for the ATM host</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>or controller sending</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>the message</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>Date</entry>
+<entry>8</entry>
+<entry>YYYYMMDD</entry>
+<entry>Date of event or status</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>message from ATM</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>Time</entry>
+<entry>6</entry>
+<entry>hhmmss</entry>
+<entry>Time of event or</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>status message from</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>ATM</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>Status length</entry>
+<entry>4</entry>
+<entry>numeric</entry>
+<entry>Total length of fields</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>0000-9999</entry>
+<entry>in status message</entry>
+</row>
+<row>
+<entry/>
+<entry>Status</entry>
+<entry>variable</entry>
+<entry>variable</entry>
+<entry>Status message sent</entry>
+</row>
+<row>
+<entry/>
+<entry>message</entry>
+<entry/>
+<entry/>
+<entry>by ATM to host</entry>
+</row>
+<row>
+<entry/>
+<entry>from ATM</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0105" num="0104">It should be understood that the exemplary embodiment is operative with a number of different types of banking machines which have different message formats for status condition messages, as well as different types of status condition messages. The event management system <b>20</b> of the exemplary embodiment is operative to handle condition messages of various types for which information has been stored in its data store. This enables the system to work with ATM networks in which numerous types and varieties of banking machines are used.</p>
+<p id="p-0106" num="0105">The fault or condition status messages may vary between machine types and manufacturers. A typical example of a status message which would be included as part of the host message to the event management system, would be a status message generated by an automated teller machine manufactured by Diebold, Incorporated, the assignee of the present invention. In this case the host messages sent to the event management system may include data in many separate fields in the status message portion of the host message. In addition to header fields <b>1</b> through <b>5</b> previously discussed, the status message portion may have the following fields.</p>
+<p id="p-0107" num="0106">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="left"/>
+<colspec colname="3" colwidth="28pt" align="left"/>
+<colspec colname="4" colwidth="49pt" align="left"/>
+<colspec colname="5" colwidth="70pt" align="left"/>
+<thead>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Field</entry>
+<entry>Name</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Number</entry>
+<entry>of Field</entry>
+<entry>Length</entry>
+<entry>Format</entry>
+<entry>Description</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="28pt" align="char" char="."/>
+<colspec colname="2" colwidth="42pt" align="left"/>
+<colspec colname="3" colwidth="28pt" align="left"/>
+<colspec colname="4" colwidth="49pt" align="left"/>
+<colspec colname="5" colwidth="70pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>6</entry>
+<entry>Solicited/</entry>
+<entry>1</entry>
+<entry>&#x201c;1&#x201d; or &#x201c;2&#x201d;</entry>
+<entry>1 Unsolicited;</entry>
+</row>
+<row>
+<entry/>
+<entry>Unsolicited</entry>
+<entry/>
+<entry/>
+<entry>2 Solicited</entry>
+</row>
+<row>
+<entry/>
+<entry>ID</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>Message ID</entry>
+<entry>1</entry>
+<entry>&#x201c;2&#x201d;</entry>
+<entry>Indicates purpose and</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>format of message;</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>&#x201c;2&#x201d; indicates a device</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>status message</entry>
+</row>
+<row>
+<entry>8</entry>
+<entry>Field</entry>
+<entry>1</entry>
+<entry>0 x 1C</entry>
+<entry>Field separator</entry>
+</row>
+<row>
+<entry/>
+<entry>separator</entry>
+</row>
+<row>
+<entry>9</entry>
+<entry>LUNO</entry>
+<entry>var. 3-9</entry>
+<entry>numeric</entry>
+<entry>ATM logical unit</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>000000000-</entry>
+<entry>number. May be</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>999999999</entry>
+<entry>zero filled</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>Field</entry>
+<entry>1</entry>
+<entry>0 x 1C</entry>
+<entry>Field separator</entry>
+</row>
+<row>
+<entry/>
+<entry>separator</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>Field</entry>
+<entry>1</entry>
+<entry>0 x 1C</entry>
+<entry>Field separator</entry>
+</row>
+<row>
+<entry/>
+<entry>separator</entry>
+</row>
+<row>
+<entry>12</entry>
+<entry>Status</entry>
+<entry>1</entry>
+<entry>ASCII</entry>
+<entry>Reason why message</entry>
+</row>
+<row>
+<entry/>
+<entry>descriptor*</entry>
+<entry/>
+<entry/>
+<entry>was sent; &#x201c;8&#x201d;</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>indicates device fault</entry>
+</row>
+<row>
+<entry>13</entry>
+<entry>Field</entry>
+<entry>1</entry>
+<entry>0 x 1C</entry>
+<entry>Field separator</entry>
+</row>
+<row>
+<entry/>
+<entry>separator*</entry>
+</row>
+<row>
+<entry>14</entry>
+<entry>Device</entry>
+<entry>1</entry>
+<entry>ASCII</entry>
+<entry>An indicator of the</entry>
+</row>
+<row>
+<entry/>
+<entry>identifier</entry>
+<entry/>
+<entry/>
+<entry>device in the ATM</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>reporting this status</entry>
+</row>
+<row>
+<entry>15</entry>
+<entry>Device/</entry>
+<entry>var. 42</entry>
+<entry>ASCII</entry>
+<entry>Alpha numeric</entry>
+</row>
+<row>
+<entry/>
+<entry>application</entry>
+<entry/>
+<entry/>
+<entry>descriptor of status</entry>
+</row>
+<row>
+<entry/>
+<entry>status</entry>
+</row>
+<row>
+<entry>16</entry>
+<entry>Field</entry>
+<entry>1</entry>
+<entry>0 x 1C</entry>
+<entry>Field separator</entry>
+</row>
+<row>
+<entry/>
+<entry>separator**</entry>
+</row>
+<row>
+<entry>17</entry>
+<entry>MDS</entry>
+<entry>var. 116</entry>
+<entry>ASCII</entry>
+<entry>MDS type status</entry>
+</row>
+<row>
+<entry/>
+<entry>status**</entry>
+</row>
+<row>
+<entry>18</entry>
+<entry>End of text</entry>
+<entry>1</entry>
+<entry>0 x 03</entry>
+<entry>End of message</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>indicator</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00001">*These fields are not present if message is an unsolicited message.</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00002">**These fields are not present if MDS status is not selected. MDS represents a particular type of Diebold&#x2009;&#xae; ATM.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0108" num="0107">It should be understood that while the above message format indicates a message format used in an exemplary embodiment for host messages, in other embodiments other formats may be used.</p>
+<p id="p-0109" num="0108">As shown in <figref idref="DRAWINGS">FIG. 3</figref>, the ATM host <b>16</b> may send host messages to the computer or computers operating the event management system through various types of drivers. By way of example, an SNA3270 driver <b>42</b> is shown as sending the message. However, the embodiment is also operable to send host messages through an RS232 type communicators driver <b>46</b>. In addition, the event management system <b>20</b> may receive messages through a network <b>48</b>, which may be a local area network (LAN) or a wide area network (WAN). Network <b>48</b> may be a network that communicates TCP/IP messages, in which case the ATM host may send a message to the event management system through the network <b>48</b> using a TCP/IP sender <b>50</b>.</p>
+<p id="p-0110" num="0109">As previously discussed, the message gateway router <b>34</b> of the event management system <b>20</b> is in operative connection with a data store which is schematically indicated <b>52</b>. Data store <b>52</b> preferably includes one or more relational databases that include data representative of numerous types of information used by various system components in performing their functions. The data store may reside on the same computer or server as the other functional software components of the event management system. Alternatively, the data store may reside on other operatively connected computers.</p>
+<p id="p-0111" num="0110">The event management system preferably operates in computers having a client/server configuration shown in <figref idref="DRAWINGS">FIG. 6</figref>, which includes at least one computer <b>54</b> which acts as a server and which has the data store <b>52</b> thereon. The server <b>54</b> is connected to a number of computers <b>56</b> which are connected through a local or wide area network <b>58</b>. Each of the computers <b>56</b> is enabled to access the software programs of the event management system and the database which operate in the server computer <b>54</b>. The computer software of the event management system is installed on the computers from computer readable media bearing the software. Such computer readable media may include diskettes, a tape, a disk drive or other media from which software may be read.</p>
+<p id="p-0112" num="0111">Each of the computers <b>54</b> and <b>56</b> is in operative connection with a display device <b>60</b> which includes a screen for displaying instructions or outputting other information to the user. Each of the computers <b>54</b>, <b>56</b> is also preferably in operative connection with input devices. Such input devices may include for example, a keyboard schematically indicated <b>62</b> or a mouse <b>64</b>. In other embodiments other input devices may be used including electronic links or other connections or ways in which a user may provide inputs to the computers. It should be further understood that the network <b>58</b> may also be in connection with multiple servers and that the event management system <b>20</b> may have portions operating on multiple servers, or may have the data store residing in databases on multiple servers.</p>
+<p id="p-0113" num="0112">For the event management system of the preferred embodiment to operate, information must first be input into the data store <b>52</b> concerning the ATMs connected to the system as well as the locations in which they operate. Information is also preferably input concerning the host computer or controller to which the ATMs are connected, as well as the ATM &#x201c;groups&#x201d; in which a particular ATM may be included. This relationship is schematically represented in <figref idref="DRAWINGS">FIG. 9</figref> which shows that there is a logical relationship for each ATM between a host or controller, a physical location for the particular ATM and a particular group in which the ATM is included. Information representative of these aspects of ATMs, controllers, locations and ATM groups is stored in correlated relation in the data store <b>52</b>. In the exemplary embodiment the data is stored in a plurality of database records.</p>
+<p id="p-0114" num="0113">To provide this information to the event management system, the computer <b>54</b> is appropriately programmed with event management application software which facilitates the inputting of the required information. A main menu window <b>66</b> shown in <figref idref="DRAWINGS">FIG. 8</figref> is generated by the event management system software at the display devices associated with computers having access to the system. The event management system is preferably configured to operate in a Windows&#xae; operating environment to facilitate operation of the system by a user.</p>
+<p id="p-0115" num="0114">As shown in <figref idref="DRAWINGS">FIG. 8</figref> under the column in the main menu entitled &#x201c;Administration,&#x201d; certain windows or screens associated with ATMs may be selected for purposes of display and input. For example, selecting the &#x201c;controllers&#x201d; entry under the heading &#x201c;Administration&#x201d; causes the controllers window <b>68</b> shown in <figref idref="DRAWINGS">FIG. 10</figref> to be displayed. The controllers window <b>68</b> enables a user to establish the controller identification information associated with host computers which send the information to the event management system. It should be noted that the controllers window <b>68</b> enables the establishment of a controller ID and name for each host, as well as the designation of particular voice files which are used by the MMR for purposes of reporting information concerning the host through the IVR. It should also be noted with regard to <figref idref="DRAWINGS">FIG. 10</figref> that host computers can be designated as &#x201c;internal&#x201d; to the EMS system. This is done for purposes of phantom or test ATMs which are used in a manner later discussed to test the operation of the system. An example of a layout for a database table record in which information on controllers is stored is the &#x201c;networks&#x201d; table record shown in <figref idref="DRAWINGS">FIG. 50</figref>. It should be understood that the windows displayed by the user interface may include information from many types of table records. However, the logical foundation of the system will sometimes result in much of the displayed information being stored together in a record in the data store.</p>
+<p id="p-0116" num="0115">Selecting the entry &#x201c;ATMs&#x201d; under the &#x201c;Administration&#x201d; in the main menu <b>66</b> shown in <figref idref="DRAWINGS">FIG. 8</figref> causes an ATM window <b>70</b> shown in <figref idref="DRAWINGS">FIG. 11</figref> to be displayed. A user is enabled to input through the input devices such as the keyboard, a terminal ID) number associated with a particular ATM as well as the controller or host ID number previously discussed. A user is also enabled to enter information about groups to which the ATM belongs as well as a location ID number which is associated with the location where the ATM is located.</p>
+<p id="p-0117" num="0116">Other information may also be entered by a user in the ATM window <b>70</b>. This information includes the model number and serial number associated with a particular ATM. It also includes information related to service vendor information such as a product key assigned by a service vendor such as Diebold, Incorporated, for first line and second line service. Other information included in the ATM window may include ATM types and the &#x201c;mode&#x201d; which is an indication of the format in which the ATM communicates messages. Database table record layouts for information related to ATMs and ATM modes are shown in <figref idref="DRAWINGS">FIG. 50</figref>.</p>
+<p id="p-0118" num="0117">During operation of the system as shown in <figref idref="DRAWINGS">FIG. 11</figref>, selection of the ATM window is also operative to provide status information and statistical information concerning the particular ATM selected.</p>
+<p id="p-0119" num="0118">From the main menu <b>66</b> shown in <figref idref="DRAWINGS">FIG. 8</figref>, selecting the entry &#x201c;ATM groups&#x201d; under &#x201c;Administration&#x201d; causes the ATM groups window <b>72</b> shown in <figref idref="DRAWINGS">FIG. 12</figref> to be displayed on the display device. A user is enabled to input information in the ATM groups window which identifies a particular group and includes certain ATMs by terminal ID in this group. Groups may be used for purposes of treating particular ATMs in a similar manner for purposes of administration by the system operator. Database table record layouts for data concerning service groups is shown in <figref idref="DRAWINGS">FIG. 50</figref>.</p>
+<p id="p-0120" num="0119">The selection of the &#x201c;locations&#x201d; entry under &#x201c;Administration&#x201d; in the main menu window <b>66</b> of the event management system causes a locations window <b>74</b> shown in <figref idref="DRAWINGS">FIG. 13</figref> to be displayed. The locations window is configured to include a location ID associated with a particular ATM. The locations window also includes address information as well as a contact name at the location. In addition, the locations window may include designations of voice files to be used when transmitting to this particular location as well as vendor information, such as a vendor site number which is shown in <figref idref="DRAWINGS">FIG. 13</figref> as a Diebold site number.</p>
+<p id="p-0121" num="0120">As shown in <figref idref="DRAWINGS">FIG. 13</figref> locations window <b>74</b> is also used when the location is a facility which is staffed by personnel during certain business hours. This information is used by the system to determine whether to contact someone at the location to give notice of status conditions. If the ATM associated with the location is not at a facility that is staffed with personnel, there are no business hours and this portion of the locations window is left blank. If a locations window is accessed during operation of the system the locations window is operative to provide status information on machines at the particular location. An example of a database record layout for data associated with ATM sites is shown in <figref idref="DRAWINGS">FIG. 50</figref>.</p>
+<p id="p-0122" num="0121">The information provided through the ATMs, controller, ATM groups and locations windows is used by the system to establish the database records in the data store <b>52</b>. These database records are used by the computer(s) operating the event management system <b>20</b> in a manner later discussed to resolve the information necessary to accomplish its functions.</p>
+<p id="p-0123" num="0122">Returning now to the operation of the system as explained with regard to <figref idref="DRAWINGS">FIG. 3</figref>, ATM host messages <b>30</b> are received at the corresponding line driver <b>32</b> associated with the event management system <b>20</b>. The event management system <b>20</b> includes for each functional component in the software a node table record having the layout shown in <figref idref="DRAWINGS">FIG. 46</figref>. The node table records include for each node, node table record data shown in a portion <b>76</b> of the node table layout shown in <figref idref="DRAWINGS">FIG. 46</figref>. In addition, if a particular node corresponds to a line type node, a node table portion <b>78</b> is included as part of the node table record layout. If a node corresponds to a process, a table record portion <b>80</b> is included as part of the node table record layout along with portion <b>76</b>. The node table records associated with each functional component in the software system provides characteristic data concerning the software process represented by the node table record which enables communication with the software component represented by the node as well as enables the operation thereof as part of the system.</p>
+<p id="p-0124" num="0123">When the line driver <b>32</b> receives a host message it is operative in the exemplary embodiment to place the host message within a standard message envelope (SME) format used by the MGR <b>34</b> within the event management system. In the exemplary embodiment, the standard message envelope is as follows:</p>
+<p id="p-0125" num="0124">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="56pt" align="left"/>
+<colspec colname="3" colwidth="98pt" align="left"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Field</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Number</entry>
+<entry>Field Designator</entry>
+<entry>Description</entry>
+<entry>Length</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="28pt" align="char" char="."/>
+<colspec colname="2" colwidth="56pt" align="left"/>
+<colspec colname="3" colwidth="98pt" align="left"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>HEADER SID</entry>
+<entry>SME message layout version</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>SOURCE NODE</entry>
+<entry>System node originating</entry>
+<entry>6</entry>
+</row>
+<row>
+<entry/>
+<entry>SID</entry>
+<entry>message</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>MESSAGE</entry>
+<entry>The time the event management</entry>
+<entry>17&#x2002;</entry>
+</row>
+<row>
+<entry/>
+<entry>RECEIVE</entry>
+<entry>system receives the message in</entry>
+</row>
+<row>
+<entry/>
+<entry>SYSTEM TIME</entry>
+<entry>the format</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>YYYYMMDDHHMMSSmmm</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>INTERNAL</entry>
+<entry>The system ID of the message</entry>
+<entry>4</entry>
+</row>
+<row>
+<entry/>
+<entry>MESSAGE SID</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry/>
+<entry>Not used</entry>
+<entry>4</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>TARGET NODE</entry>
+<entry>The system ID of the node to</entry>
+<entry>6</entry>
+</row>
+<row>
+<entry/>
+<entry>SID</entry>
+<entry>which a message is being sent</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>DATA FORMAT</entry>
+<entry>Indicator that the particular</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry/>
+<entry>INDICATOR</entry>
+<entry>source of the message is either</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>internal or external</entry>
+</row>
+<row>
+<entry>8</entry>
+<entry>MESSAGE</entry>
+<entry>A designator of the direction</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry/>
+<entry>DIRECTION</entry>
+<entry>of a message either into or out</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>of the system</entry>
+</row>
+<row>
+<entry>9</entry>
+<entry/>
+<entry>Not used</entry>
+<entry>5</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>PROCESSING</entry>
+<entry>Last processing node system ID</entry>
+<entry>6</entry>
+</row>
+<row>
+<entry/>
+<entry>NODE SID</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry/>
+<entry>Not used</entry>
+<entry>6</entry>
+</row>
+<row>
+<entry>12</entry>
+<entry>THE MESSAGE</entry>
+<entry>A particular message being sent</entry>
+<entry>variable</entry>
+</row>
+<row>
+<entry/>
+<entry>TEXT</entry>
+<entry>to the function represented by</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>the TARGET NODE SID</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+<br/>
+It should be understood that in other embodiments other standard message envelope formats may be used.
+</p>
+<p id="p-0126" num="0125">Upon receipt of the host message <b>30</b> by line driver <b>32</b> the line driver is operative to establish the contents of the fields in the SME format as follows:</p>
+<p id="p-0127" num="0126">In Field <b>1</b> the HEADER SID is set to &#x201c;1&#x201d; as this represents one layout for Fields <b>1</b> through <b>11</b> in the SME header. Other message forms in the system use other designators which represent different SME layouts.</p>
+<p id="p-0128" num="0127">In Field <b>2</b> of the header the line driver <b>32</b> is operative to insert its own NODE SID as the SOURCE NODE SID of the message within the system.</p>
+<p id="p-0129" num="0128">In Field <b>3</b> the line driver inserts the time at which the event management system <b>20</b> receives the message. This is done based on a clock routine which serves as a clock device operating in the computer in which the event management system is operating.</p>
+<p id="p-0130" num="0129">The line driver <b>32</b> resolves the INTERNAL MESSAGE SID data in Field <b>4</b> from the data from its own node table record. This is done by determining the IN_MSG_FMT_SID value from its own node table record and inserting it in Field <b>4</b> in the message. Field <b>5</b> is not used and is set to null values.</p>
+<p id="p-0131" num="0130">The line driver resolves the information for Field <b>6</b> from its own node table record. The node table record includes information about its &#x201c;parent&#x201d; node which in this case is the node identification value for the message gateway router <b>34</b> to which the line driver will send its message. This designator is indicated PARENT_NODE_SID in the node table record associated with the line driver. The line driver is operative to include this designator in Field <b>6</b>.</p>
+<p id="p-0132" num="0131">The line driver is further operative to include in Field <b>7</b> a &#x201c;zero&#x201d; value which is indicative that the message is coming from an external data source. This will always be true for messages from the line driver.</p>
+<p id="p-0133" num="0132">The line driver is further operative to set the MESSAGE DIRECTION in Field <b>8</b> to a value which is indicative that the line driver is receiving an inbound message.</p>
+<p id="p-0134" num="0133">The line driver is further operative to place its own NODE SID value in Field <b>10</b> of the message, and sets the values in Field <b>9</b> and <b>11</b> of the message which are not used to null values.</p>
+<p id="p-0135" num="0134">The line driver is further operative to place the host message in the format received in Field <b>12</b> of the message.</p>
+<p id="p-0136" num="0135">Having built a message in this SME format, the line driver is now operative to send the message to the message gateway router <b>34</b>. This is done using the TARGET NODE SID value for the message gateway router which is included in Field <b>6</b> of the message. A &#x201c;send message&#x201d; routine of the preferred embodiment is operative to send the message. This routine first determines if the target node for the message resides on the same computer or on a different computer from the system component that is sending the message, in this case the line driver. This is accomplished by the send message routine reviewing the node table record associated with the target node.</p>
+<p id="p-0137" num="0136">In the present example the message gateway router is a node type process which includes the table portion <b>80</b> shown in <figref idref="DRAWINGS">FIG. 46</figref>. This portion of the node table record associated with MGR includes a SERVER_SID value. The send message routine is operative to determine if the SERVER_SID value associated with the TARGET NODE SID in the data store is the same as that for the SOURCE NODE SID, which in this case is the line driver that is sending the message. If the SERVER_SID for both the source node and the target node are the same, then both processes reside on the same computer (server). In response the send message routine operates to send the message through the interprocess communication system (IPC) of the one computer. However, if the target node resides on a different computer, the send message routine is operative to look up the system IP address on other computer to which to send the message. This is accomplished by taking the SERVER_SID value and looking up in the data store a server table record. Server table records have a layout <b>82</b> shown in <figref idref="DRAWINGS">FIG. 46</figref>. The server table record includes an IP address value associated with the SERVER_SID value.</p>
+<p id="p-0138" num="0137">It should be noted that the node table record layout as shown in table portion <b>76</b> includes an entry indicative of the particular interprocess communication type through which the software component to which the node table corresponds, receives its messages through the interprocess communication system. This designator is indicated IPC_TYPE_SID in the node table record layout. This designator can be indicative of a message queue, or a named pipe or a TCP/IP manner of communication.</p>
+<p id="p-0139" num="0138">In response to determining that the target node of the message is on the same server, the send message routine is operative to call a &#x201c;make interprocess communication key function&#x201d; which is operative to send the message to the appropriate designation within the operating system from which it will be retrieved by the functional component which corresponds to the target node. The software function is operative to send the message based on the data stored in the node table record corresponding to the target node value (NODE_SID) in Field <b>6</b> of the message. The parameters used in the preferred embodiment include the values APPLICATION_SID, IPC_TYPE_SID, NODE_TYPE_SID and MSG_PRIORITY. Of course the approach taken in other embodiments depends on the nature of the computer hardware and software being used.</p>
+<p id="p-0140" num="0139">In the alternative, if the send message function determines that the target node for a message is located on a different computer, it retrieves the IP address for the target node from the server table record <b>82</b> and the IP_PORT_ID from the node type process portion of the corresponding table record for the target node as shown in table portion <b>80</b>. This provides the TCP/IP address information necessary to send the message to the target software component on the other server. In some situations the other server may involve a different hardware architecture which requires certain portions of the message to be changed. If such a modification in the message is indicated in the server table record, the message is changed in this manner by the send message function before being sent.</p>
+<p id="p-0141" num="0140">In the exemplary embodiment, if the send message function determines that the TARGET_NODE_SID for the message is on a different computer, it resolves an address for a listener based on the IP address associated with the computer on which the software which corresponds to the target node is operating. The listener receives the message and then sends the message to the particular target node based on the TARGET NODE SID value in Field <b>6</b> of the message header. This approach enables the message from the line driver to be sent to the message gateway router <b>34</b> regardless of where the message gateway router function resides in the computer system.</p>
+<p id="p-0142" num="0141">The message gateway router <b>34</b> is operative to receive the message from the line driver and place it in a suitable message format for use by other components of the system. The message gateway router is first operative to determine the format of the message it has received from the host, which is contained in Field <b>12</b> of the standard message envelope format transmitted by the line driver. This is determined from the INTERNAL_MSG_SID value (internal message ID) which the line driver placed in Field <b>4</b> of the message. Using this FMT_SID value (format ID) the message gateway router operates to find a message format table record which includes this value. Message format table records are represented by the message format table layout <b>84</b> shown in <figref idref="DRAWINGS">FIG. 47</figref>. Upon finding the message format table record corresponding to the value set forth in Field <b>4</b> of the header, the message gateway router operates to recover values from the table record representative of an &#x201c;offset&#x201d; and &#x201c;length&#x201d; which correspond to the location in the message where a value representative of the particular message &#x201c;type&#x201d; is found. The offset and length values are designated in table record layout <b>84</b> by the MSG_TYPE_OFFSET and MSG_TYPE_LENGTH values.</p>
+<p id="p-0143" num="0142">In response to finding these values the message gateway router <b>34</b> operates to step through the data characters in Field <b>12</b> of the standard message envelope a number of characters equal to the message type offset. The message gateway router then copies the number of characters following the offset equal to the message type length. These characters are a value indicative of the type of message that has been received by the message gateway router.</p>
+<p id="p-0144" num="0143">Having resolved the message type from the message format table record information, the message gateway router <b>34</b> is then operative based on the IN_MSG_FMT_SID value from Field <b>4</b> of the header (indicative of the format of messages the line driver receives) and the resolved message type information, to find a message map table record that corresponds to these two values. A message map table record is represented by the message map table record layout <b>86</b> in <figref idref="DRAWINGS">FIG. 47</figref>. By finding a message map table record which includes the FMT_SID in the message from the line driver and the resolved MSG_TYPE value, the message gateway router is enabled to resolve an internal message ID value designated INT_MSG_SID.</p>
+<p id="p-0145" num="0144">The message gateway router is then operative to reformat or otherwise transform the message text in Field <b>12</b> into a format suitable for use by the next functional component within the event management system. The message gateway router in doing this first sets a field number designated FEILD_NUM value to &#x201c;1&#x201d;, and using a message version or MSG_VER value of &#x201c;1&#x201d; from Field <b>1</b>, the MGR proceeds to find a message field table record in the data store which corresponds to the resolved INT_MSG_SID value, message version value and field number value.</p>
+<p id="p-0146" num="0145">The message field table records are represented by message field table record layout <b>88</b> shown in <figref idref="DRAWINGS">FIG. 47</figref>. The message gateway router locates in the data store the message field table record that corresponds to the INT_MSG_SID resolved from the message map table record and which corresponds to the MSG_VER value of &#x201c;1&#x201d; and the FIELD_NUM value of &#x201c;1&#x201d;. Upon finding this message field table record the MGR is enabled to resolve data from the table record which indicates the field length of a particular field which is indicated by the FIELD_LEN value. This is representative of the length of the data which represents the first field in the raw message.</p>
+<p id="p-0147" num="0146">The message gateway router <b>34</b> is further operative to place the first field from the raw message data into an internal array in the MGR. This is done in accordance with field map data which is resolved by the message gateway router from a field map table record. A field map table record layout is indicated <b>90</b> in <figref idref="DRAWINGS">FIG. 47</figref>. The message gateway router is operative to find the field map table record that includes the resolved INT_MSG_SID value and the original message version, original field number and original field data values resolved from the message field table record and the header of the message. Upon finding the message map table record in the data store including this data, the message gateway router is enabled to resolve field map data designated FIELD_MAP_DATA which is a value indicative how the data for the first field number is to be placed into the cell array in the MGR.</p>
+<p id="p-0148" num="0147">Having placed the data from the first field in the raw message, which was in Field <b>12</b> of the SME message sent by the line driver, in the appropriate position in the MGR cell array, the MGR then moves on to the next field. It does this by incrementing the field number (FIELD_NUM) counter to &#x201c;2&#x201d;. The MGR then repeats the process finding a message field table record corresponding to the INT_MSG_SID value and the new field number. Upon having resolved the length of the next message field the MGR then finds a field map table record that corresponds to this next field number which provides the field map data to place the second field from the raw message into the MGR cell array. The field number is again incremented. This process is repeated until all of the fields in the raw message have been placed in the cell array of the MGR. In this manner the original raw message is mapped into the cell array of the MGR and is transformed to a new format based on its message format and type, which new format is suitable for use by the component of the event management system which can handle that type message.</p>
+<p id="p-0149" num="0148">As shown in <figref idref="DRAWINGS">FIG. 3</figref>, the message gateway router <b>34</b> is further operative to generate a record in a message log schematically indicated <b>92</b>. This message log is comprised of records stored in the data store <b>52</b>. An example of the fields held in a message log record of an exemplary embodiment is schematically indicated by status message log table record <b>94</b> shown in <figref idref="DRAWINGS">FIG. 51</figref>. The MGR is operative to insert these values from its cell array based on where they are mapped into their designated positions within the cell array.</p>
+<p id="p-0150" num="0149">As can be appreciated from the sample description of the host message, many of the values in the status message log table record are present in the host message or are determined by the MGR during its operation. The MGR is also operative to resolve an ATM_SID value. This value is resolved as shown in <figref idref="DRAWINGS">FIG. 50</figref> from ATMs table records which have ATMs table record layout <b>96</b>. The values necessary to resolve the ATM_SID value includes the NETWORK_SID value which may be derived from network table records which are schematically shown as record layout <b>98</b> in <figref idref="DRAWINGS">FIG. 51</figref>. As shown from table record layout <b>98</b> the NETWORK_SID value can be resolved from the network ID value which is included in Field <b>2</b> of the host message. From the NETWORK_SID value and the terminal ID value (Field <b>1</b> of the host message) an ATM table record can be resolved which provides the ATM_SID value.</p>
+<p id="p-0151" num="0150">Other values for the status log table record, including the FAULT_SID, PROBLEM_SID, DEVICE_STATUS_SID values are not resolved at this point but are left for resolution at a later stage by operation of the device status processing program.</p>
+<p id="p-0152" num="0151">Having reformatted the raw message from the host into a form suitable for use by the next component within the system, the MGR is next operative to construct a message from its cell array directed to the next component of the system. In the case of an ATM status condition message, the next component will be the device status processing program <b>36</b> (DSPP). To send the message from the MGR to the device status processing program the MGR constructs a new SME format message. This new message has a different HEADER SID value in Field <b>1</b> of the message which is indicative that this message will have a different format which is suitable for processing by the DSPP.</p>
+<p id="p-0153" num="0152">The message from the MGR to the DSPP is a union of structures as are all internal system messages with the exception of messages from the line driver to the MGR. The message includes structures which will eventually be required in a message from the DSPP to the multimedia reporter. Additional structures required for the MMR to perform its functions will be resolved by the DSPP.</p>
+<p id="p-0154" num="0153">As reconstituted by the MGR from its cell array, the message to the DSPP in the preferred embodiment includes the following structures.</p>
+<p id="p-0155" num="0154">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="49pt" align="center"/>
+<colspec colname="2" colwidth="91pt" align="left"/>
+<colspec colname="3" colwidth="154pt" align="left"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Structure No.</entry>
+<entry>Name</entry>
+<entry>Description</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="49pt" align="char" char="."/>
+<colspec colname="2" colwidth="91pt" align="left"/>
+<colspec colname="3" colwidth="154pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>SME_MSG_TYPE</entry>
+<entry>This corresponds to the message version value for</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>this message structure</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>DATE</entry>
+<entry>This is the date of the fault message from Field 3 of</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>the host message</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>TIME</entry>
+<entry>This is the date of the fault message from Field 3 of</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>the host message</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>ATM_SID</entry>
+<entry>This is the ATM_SID value resolved by the MGR</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>which corresponds to a table record for the ATM</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>that generated the fault message</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>FAULT_SID</entry>
+<entry>Null at this time</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>MMR_ACTION_SID</entry>
+<entry>Null at this time</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>UNUSED</entry>
+<entry>Null at this time</entry>
+</row>
+<row>
+<entry>8</entry>
+<entry>MSG_TYPE</entry>
+<entry>This value is indicative of the solicited/unsolicited</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>character of the message and is based on the data in</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Field 6 of the original host message</entry>
+</row>
+<row>
+<entry>9</entry>
+<entry>MSG_ID</entry>
+<entry>This value is indicative of the device status message</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>indicator and is based on the data in Field 7 of the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>original host message</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>LUNO</entry>
+<entry>This value is indicative of the logical unit number</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>and is based on data in Field 9 of the original host</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>message</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>STATUS_ID</entry>
+<entry>Null at this time</entry>
+</row>
+<row>
+<entry>12</entry>
+<entry>DEVICE_ID</entry>
+<entry>This value is indicative of the device identifier and</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>is based on the data in Field 12 of the host message</entry>
+</row>
+<row>
+<entry>13</entry>
+<entry>DEVICE_SID</entry>
+<entry>Null at this time</entry>
+</row>
+<row>
+<entry>14</entry>
+<entry>STATUS_BYTES_LEN</entry>
+<entry>This value is indicative of the length of the status</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>message in the STATUS_BYTES portion of this</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>message</entry>
+</row>
+<row>
+<entry>15</entry>
+<entry>STATUS_BYTES</entry>
+<entry>This is the status information which is based on the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>data in either Field 15 or 17 of the original host</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>message based on the type of ATM generating the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>message</entry>
+</row>
+<row>
+<entry>16</entry>
+<entry>STATUS_MSG_LOG</entry>
+<entry>Null at this time</entry>
+</row>
+<row>
+<entry>17</entry>
+<entry>STATUS_MSG_LENGTH</entry>
+<entry>Null at this time</entry>
+</row>
+<row>
+<entry>18</entry>
+<entry>STATUS_MSG</entry>
+<entry>This is a reproduction of the original status message</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>sent by the ATM in its entirety</entry>
+</row>
+<row>
+<entry>19</entry>
+<entry>ATM_MODE_SID</entry>
+<entry>Null at this time</entry>
+</row>
+<row>
+<entry>20</entry>
+<entry>DEVICE_STATUS_SID</entry>
+<entry>Null at this time</entry>
+</row>
+<row>
+<entry>21</entry>
+<entry>STATUS_BITMAP_LEN</entry>
+<entry>Null at this time</entry>
+</row>
+<row>
+<entry>22</entry>
+<entry>STATUS_BITMAP</entry>
+<entry>Null at this time</entry>
+</row>
+<row>
+<entry>23</entry>
+<entry>SML_STATUS_DATE</entry>
+<entry>This is the status message log status date which is</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>the date associated with the record corresponding to</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>the status message that has been created in the data</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>store</entry>
+</row>
+<row>
+<entry>24</entry>
+<entry>VENDOR INTERFACE</entry>
+<entry>Null at this time</entry>
+</row>
+<row>
+<entry>25</entry>
+<entry>CREATE_TROUBLE_IND</entry>
+<entry>Null at this time</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+<br/>
+It should be noted that while the foregoing description of the structures indicates the origins of the data from the exemplary ATM status message previously described, a different ATM status message format could have been used as the source for the data. The MGR functions to reformat such other format host messages so a message having this group of structures will be produced by the MGR when the message is of a type to be handled by the DSPP.
+</p>
+<p id="p-0156" num="0155">The MGR resolves a TARGET NODE SID value for sending the message to the DSPP by reviewing the node table record for the MGR. As can be seen with reference to the node table record layout <b>76</b> in <figref idref="DRAWINGS">FIG. 46</figref>, the node table record includes a designator for a parent node of the particular node (PARENT_NODE_SID). In the case of the MGR, the NODE_SID of the device status processing program is the &#x201c;parent node&#x201d; of the MGR. The MGR is operative to resolve this NODE_SID value for purposes of sending the message to the DSPP.</p>
+<p id="p-0157" num="0156">After constructing a new message the MGR is operative to call the send message routine. The send message routine works in the manner previously described to determine if the TARGET NODE SID to which it is sending the message is located on the same computer as the MGR. Upon determining whether the device status processing program <b>36</b> is located on the same computer or another computer, the send message routine is operative to deliver the message from the MGR to the device status processing program. For purposes of this example it will be presumed that the DSPP is on the same server as the MGR and the message is delivered to the DSPP through the interprocess communications function.</p>
+<p id="p-0158" num="0157">Upon receiving the message from the MGR the device status processing program <b>36</b> is operative to carry out the processes which are schematically represented in <figref idref="DRAWINGS">FIG. 4</figref>. These processes include the assimilation of information from the message it receives and the database concerning the ATM which is sending the message and determining the particular manner in which it is operating so as to interpret its message. The device status processing program <b>36</b> then operates to determine the particular fault and device associated with the condition message sent by the ATM. This is done by the device status processing program as schematically indicated based on information stored in the data store <b>52</b>. The information in the data store is representative of the various device and fault codes and the particular conditions and devices they represent. The data in the message sent by the MGR is used to resolve a particular fault condition which has been indicated.</p>
+<p id="p-0159" num="0158">As further schematically represented in <figref idref="DRAWINGS">FIG. 4</figref>, the device status processing program, after having determined the identity of the ATM exhibiting the condition and the nature of the fault condition represented by the condition message that the ATM generated, is then operative to determine a value representative of an action to be taken. This is done based on information that is stored in the database concerning actions to be taken in response to a particular fault condition in a particular device at a particular ATM.</p>
+<p id="p-0160" num="0159">To establish the information that is required in the data store to carry out the functions of the device status processing program, as well as the multimedia reporter, certain data is input to the data store. This is done in accordance with the categories of information shown in the main menu window <b>66</b> shown in <figref idref="DRAWINGS">FIG. 8</figref>. Specifically, under &#x201c;Administration&#x201d; a &#x201c;Holidays&#x201d; window <b>100</b> shown in <figref idref="DRAWINGS">FIG. 15</figref> may be used to input certain days that are considered to be holidays at particular ATM locations. This information works in coordinated relation with the location data and is used by the system in situations where first line service is needed which could be done by personnel at a branch of a bank, or other persons normally present at the ATM location. However, this data enables the system to check if the condition requiring first line service has occurred during a holiday, at which time someone other than branch banking personnel will need to be contacted.</p>
+<p id="p-0161" num="0160">A database table record layout for &#x201c;Holidays&#x201d; records is shown in <figref idref="DRAWINGS">FIG. 57</figref>. The Holidays table record layout includes a SITE_SID value which corresponds to the location where the ATM is located.</p>
+<p id="p-0162" num="0161">A vendors window <b>102</b> is shown in <figref idref="DRAWINGS">FIG. 14</figref>. Each vendor window <b>102</b> shows the name of a particular vendor who can service banking machine conditions. The vendors window further includes contact information for persons at the vendor including phone and fax information. The information input through the vendor windows may be used to contact particular individuals at service vendors when such individuals need to be contacted for purposes of servicing conditions at ATMs. The vendors window may also contain an indication of whether the vendor will be permitted to indicate the status of calls by responding through the interface device of the multimedia reporter, or whether some other method will be used.</p>
+<p id="p-0163" num="0162">A database table record layout for &#x201c;Vendors&#x201d; records is shown in <figref idref="DRAWINGS">FIG. 55</figref>. Also shown in <figref idref="DRAWINGS">FIG. 55</figref> is a layout for &#x201c;ATM Vendor Hours&#x201d; which contains data values representing a particular ATM and the vendor who will be contacted concerning the ATM, the hours the vendor is responsible and the method of contact or &#x201c;call&#x201d; to be made to the vendor.</p>
+<p id="p-0164" num="0163"><figref idref="DRAWINGS">FIG. 15</figref> shows a message recipients window <b>104</b>. The message recipients window provides contact information for various entities that may be notified of conditions at machines in the system. It should be noted that the message recipients window may contain phone, fax and pager numbers for message recipients. In addition, the message recipients window may include a mailbox number and password for each message recipient. This information may be used to provide security for the interface device so that only persons who input a proper mailbox number and password will be allowed to gain access to the interface device of the system.</p>
+<p id="p-0165" num="0164"><figref idref="DRAWINGS">FIG. 54</figref> shows a data base table record layout for &#x201c;contacts&#x201d; who are message recipients. These records contain data values representative of a system mailbox and password as well as contact number information. The records also contain values which correlate this contact with a vendor and voice files to be used for the contact.</p>
+<p id="p-0166" num="0165"><figref idref="DRAWINGS">FIG. 28</figref> shows a fault codes window <b>106</b>. The fault codes window <b>106</b> shows the particular condition associated with a condition message which is generated by the ATM. It should be noted that the fault codes window includes information concerning the particular device type within the ATM that the particular fault code is associated with. It also indicates a particular class and operational status associated with the particular fault. For example, some faults may still allow an ATM to be operable or partially operable in a degraded mode. Such a condition may not necessitate attention as immediate as other conditions. In addition, it should be noted that the fault codes window includes information concerning corrective action that may be taken to correct the particular condition.</p>
+<p id="p-0167" num="0166">The layout of &#x201c;device type&#x201d; database table records is shown in <figref idref="DRAWINGS">FIG. 50</figref>. Values in the message which are representative of the ATM device, message type and mode enable resolution of a device id value (DEVICE_SID). <figref idref="DRAWINGS">FIG. 49</figref> shows a layout for &#x201c;device status&#x201d; table records. The device status table records are used to resolve a value representative of the fault which has occurred (FAULT_SID) from other data values.</p>
+<p id="p-0168" num="0167">A fault actions window <b>108</b> similar to that shown in <figref idref="DRAWINGS">FIG. 7</figref> is shown in <figref idref="DRAWINGS">FIG. 29</figref>. The fault actions window is operative to lay out for each banking machine connected to the system and each type of fault condition at the machine, the particular action to be taken in response thereto. The first four columns of the table are used to specify the particular ATM for which fault actions will be taken. If the user wishes to limit particular fault actions to a particular device type they are also enabled to do that through an entry in the sixth column of the table in the fault actions window. The seventh column of the table fault actions window specifies the particular fault code that the action corresponds to. The eighth column of the table corresponds to threshold values which are specified by the user in a thresholds window <b>110</b> shown in <figref idref="DRAWINGS">FIG. 30</figref>. The thresholds window enables the user to include in memory certain prior conditions which, if they have been found to have occurred, dictate the action to be taken when the fault condition arises. These threshold conditions are shown in the thresholds column of the fault actions window.</p>
+<p id="p-0169" num="0168">The check order column represents the order or priority in which the computer is to check the various possible actions which may be taken in response to the same fault code. This is also referred to as a &#x201c;sequence&#x201d; value. The check order column has values which range from zero which is the first condition to be checked through sequentially increasing higher numbers which are subsequently checked.</p>
+<p id="p-0170" num="0169">The actions column contains the action to be taken in response to the occurrence of a fault code and prior occurrences meeting the requirements of the corresponding threshold. The actions procedures are predefined by the user. An example of predefined action procedures and the corresponding actions that will be taken by the system are shown in <figref idref="DRAWINGS">FIGS. 31 and 32</figref>. These actions procedures also enable a user to set up their own procedures in a tabular arrangement.</p>
+<p id="p-0171" num="0170">The table in the fault actions window further indicates whether or not a trouble ticket will be generated for the particular condition. Included among the actions may be the automatic notification of a service vendor through an electronic link such as Diebold, Incorporated's DECAL&#xae; system.</p>
+<p id="p-0172" num="0171">As represented in <figref idref="DRAWINGS">FIG. 7</figref> the table in the fault actions window schematically indicates the coordination of the various types of information that are used by the device status processing program <b>36</b> in carrying out its actions. In the exemplary embodiment data that is input by the user is stored in the table records in the data store of the system and is available for being accessed by the device status processing program in carrying out their functions.</p>
+<p id="p-0173" num="0172">The layout of the &#x201c;fault actions&#x201d; database table record is shown in <figref idref="DRAWINGS">FIG. 49</figref> as is the layout of the related &#x201c;thresholds&#x201d; records. As can be seen, a table record which includes the values corresponding to the particular network, group, site, ATM, ATM type, device, fault and threshold, corresponds to a particular MMR action value. This value determines the actions the MMR will take.</p>
+<p id="p-0174" num="0173">The manner in which the device status processing program resolves information which eventually produces a designation for a particular action to be taken by the multimedia reporter <b>40</b>, is shown with reference to the database schema shown in <figref idref="DRAWINGS">FIG. 48</figref>. <figref idref="DRAWINGS">FIG. 48</figref> shows the various table records and the values which are derived therefrom by the device status processing program in resolving the final value indicative of an action the MMR is to take. The layouts of the table records shown in <figref idref="DRAWINGS">FIGS. 49</figref>, <b>50</b> and <b>55</b> through <b>59</b> show further values which are stored and which can be resolved and recovered from the records in the data store.</p>
+<p id="p-0175" num="0174">The device status processing program <b>36</b> is operative to resolve a multimedia reporter action system ID designator referred to as MMR_ACTION_SID. This designator is used by the system to cause the multimedia reporter to carry out the particular actions which are resolved as the appropriate actions to be carried out in response to occurrence of a fault condition at a particular ATM. Generally these actions will include contacting a particular entity or servicer in a particular manner. The fault actions table record resolved by the device status processing program also indicates whether a trouble ticket record is to be opened in the data store in response to a particular condition message sent by the ATM. The opening of records which correspond to &#x201c;trouble tickets&#x201d; is carried out by the MMR in a manner later discussed.</p>
+<p id="p-0176" num="0175">The action message value is sent to the multimedia reporter <b>40</b> which is shown schematically in <figref idref="DRAWINGS">FIG. 5</figref>. In response to receiving the action message the multimedia reporter is operative based on data in the data store to execute particular actions that are responsive to the action message resolved by the device status processing program. The multimedia reporter is generally operative to dispatch a message to a servicer or other entity through one of the message mediums. It also establishes a schedule of future actions to be taken which is maintained in the scheduler <b>38</b>. The MMR also tracks and maintains records of conditions and their resolution, and displays and analyzes the records.</p>
+<p id="p-0177" num="0176">After resolving the particular MMR_ACTION_SID value representative of the action to be taken by the MMR, the device status processing program is operative to build a message to be sent to the multimedia reporter. The device status processing program is operative to supplement the union of structures that was sent to the DSPP by the MGR with additional data. The data in the structures are values resolved during processing by the DSPP.</p>
+<p id="p-0178" num="0177">The DSPP is also operative to change the designator which leads the union of structures to indicate the structure of the new message. In the preferred embodiment the union of structures in the message from the DSPP to the MMR is as follows.</p>
+<p id="p-0179" num="0178">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="49pt" align="center"/>
+<colspec colname="2" colwidth="91pt" align="left"/>
+<colspec colname="3" colwidth="161pt" align="left"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Structure No.</entry>
+<entry>Name</entry>
+<entry>Description</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="49pt" align="char" char="."/>
+<colspec colname="2" colwidth="91pt" align="left"/>
+<colspec colname="3" colwidth="161pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>SME MSG TYPE</entry>
+<entry>This is a designator of a particular union of</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>structures for this message</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>DATE*</entry>
+<entry>This is the date of the fault message derived from</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Field 3 of the host message and is indicative of the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>date associated with the fault which causes the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>action message to be generated</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>TIME*</entry>
+<entry>This is the fault message receive time</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>ATM_SID*</entry>
+<entry>This is the ATM system identifier value which has</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>been derived from the terminal ID value in the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>MGR message and the NETWORK SID value</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>derived from the network ID value in the MGR</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>message</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>FAULT_SID</entry>
+<entry>This is derived by the device status processing</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>program in the course of resolving the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>MMR_ACTION_SID based on the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>ATM_MODE_SID and the ATM_TYPE_SID from</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>the ATM_SID table record. Further, the MGR</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>message provides the terminal ID, terminal status</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>and message type information used in deriving this</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>value</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>MMR_ACTION_SID</entry>
+<entry>This is the value indicative of the action that the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>multimedia reporter will take. It is resolved from</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>the fault actions table record based on the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>NETWORK_SID, ATM_SID, ATM_TYPE_SID</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>and FAULT_SID which are derived in the course of</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>resolving the MMR_ACTION_SID. The</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>FAULT_SID table record provides the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>DEVICE_SID value, and the ATM_SID table</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>record provides the SERVICE_GRP_SID and the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>SITE_SID values which are included in the message</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>UNUSED</entry>
+<entry>Null at this time</entry>
+</row>
+<row>
+<entry>8</entry>
+<entry>MSG_TYPE*</entry>
+<entry>This is value indicative of the solicited/unsolicited</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>character of the message from the ATM</entry>
+</row>
+<row>
+<entry>9</entry>
+<entry>MSG_ID*</entry>
+<entry>This value is indicative of the device status message</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>indicator</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>LUNO*</entry>
+<entry>This value is indicative of the logical unit number</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>STATUS_ID</entry>
+<entry>This value is derived from the status descriptor</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>information in Field 12 of the original host message</entry>
+</row>
+<row>
+<entry>12</entry>
+<entry>DEVICE_ID*</entry>
+<entry>This value is indicative of the device identifier</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>information</entry>
+</row>
+<row>
+<entry>13</entry>
+<entry>DEVICE_SID</entry>
+<entry>This is previously derived by the device status</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>processing program from the FAULT_SID table</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>record</entry>
+</row>
+<row>
+<entry>14</entry>
+<entry>STATUS_BYTES_LEN*</entry>
+<entry>This value is indicative of the length of</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>the status message</entry>
+</row>
+<row>
+<entry>15</entry>
+<entry>STATUS_BYTES*</entry>
+<entry>This data is the status information from the original</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>message generated by the ATM</entry>
+</row>
+<row>
+<entry>16</entry>
+<entry>STATUS_MSG_LOG</entry>
+<entry>This is the data in the status message log record</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>corresponding to the status message</entry>
+</row>
+<row>
+<entry>17</entry>
+<entry>STATUS_MSG_LEN</entry>
+<entry>This value corresponds to the length of the data in</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>structure 18</entry>
+</row>
+<row>
+<entry>18</entry>
+<entry>STATUS_MSG*</entry>
+<entry>This is reproduction of the original status message</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>from the ATM</entry>
+</row>
+<row>
+<entry>19</entry>
+<entry>ATM_MODE_SID</entry>
+<entry>This value is previously derived by the device status</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>processing program</entry>
+</row>
+<row>
+<entry>20</entry>
+<entry>DEVICE_STATUS_SID</entry>
+<entry>This value was previously derived by the device</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>status processing program</entry>
+</row>
+<row>
+<entry>21</entry>
+<entry>STATUS_BITMAP_LEN</entry>
+<entry>This value indicates the length of the bitmap used to</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>identify the fields present in the status message</entry>
+</row>
+<row>
+<entry>22</entry>
+<entry>STATUS_BITMAP</entry>
+<entry>This is the bitmap which indicates the fields present</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>in the status message</entry>
+</row>
+<row>
+<entry>23</entry>
+<entry>SML_STATUS_DATE*</entry>
+<entry>This value is the status message log date</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>corresponding to the status message log table record</entry>
+</row>
+<row>
+<entry>24</entry>
+<entry>VENDOR INTERFACE</entry>
+<entry>These structures contain additional data that may be</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>needed to be sent to a vendor's on-line fault tracking</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>system</entry>
+</row>
+<row>
+<entry>25</entry>
+<entry>CREATE_TROUBLE_IND</entry>
+<entry>This is a create trouble indicator which is an</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>indication of a trouble ticket is to be created by the</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>MMR. This is derived from the fault actions table</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>in the device status processing program</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00003">*indicates same structure and value as in MGR message to DSPP.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0180" num="0179">This message in this format provides all the information required by the multimedia reporter <b>40</b> of the preferred embodiment to begin resolving how to send the messages to the proper entities, to create a schedule of activities and to generate records pertaining to the condition which caused the message from the ATM to be sent.</p>
+<p id="p-0181" num="0180">The operation of the multimedia reporter is accomplished through state flow processes. The state flow processes are carried out in a manner responsive to the action message received from the device status processing program and information in the data store, to notify the appropriate personnel in accordance with parameters that have been set up by an operator of the system. These include the particular individuals and corresponding fax, phone and pager numbers for which representative data is stored in the database. This further includes providing the particular specialized voice files for which representative data is stored in the database records, to be used with the particular entities to be notified. Similarly, the multimedia reporter is operative to provide the particular configurations for fax formats and E-mail and other electronic message formats which may be necessary to notify appropriate entities or other servicers of the condition at the ATM.</p>
+<p id="p-0182" num="0181">The multimedia reporter operates through state flow processes to provide the appropriate message in the appropriate manner. A database schema for the resolution of information which is used to carry out state flow processes of the preferred embodiment is shown in <figref idref="DRAWINGS">FIGS. 52 through 59</figref>. As can be seen from these Figures the stored data is arranged in table records which are used by the multimedia reporter to resolve values associated with the particular actions to be taken and to actuate the interactive voice response device to dispatch the appropriate message in the appropriate medium. Of course, in other embodiments other approaches may be used.</p>
+<p id="p-0183" num="0182">The multimedia reporter is also enabled to respond to input messages provided by servicers to the message receiving portion of the interface device, and to communicate input data to the data store to indicate the content of the input messages. This includes indicating that responsive messages have been received to acknowledge and close trouble tickets. In addition, the interface device may also receive data representative of other activities by servicers or other entities, such as input messages indicative of arrival of the servicer at the location of the ATM, that the servicer or other person is currently working off site to correct the problem, that the problem is resolved and is pending closed awaiting some confirmation activity, that the problem is resolved and that the trouble ticket is closed, and that the trouble ticket is cancelled. Of course the system may be configured to receive input messages indicative of other conditions which pertain to the status of corrective activities. The input messages are also operative to cancel actions that would otherwise be taken by the MMR in response to messages from the scheduler, if the established time had elapsed without the input message being received.</p>
+<p id="p-0184" num="0183">It should be understood that while the receipt of input messages through the interface device is discussed in connection with the interactive voice/response module (IVR) the interface device used with the multimedia reporter may receive input messages by E-mail data or other data link from a vendor computer system such as the DECALS system provided by Diebold, Incorporated. Further, while the system as described uses a single communications device and interface for dispatching and receiving messages, other embodiments may have multiple interfaces operate to dispatch messages, receive messages, or both. Such interfaces may comprise hardware, software and combinations thereof.</p>
+<p id="p-0185" num="0184">The trouble ticket records are generated by the MMR and stored in the data store responsive to the value in the union of structures sent by the DSPP which indicates whether trouble tickets are to be opened. The trouble record which shows the condition indicated at an ATM include data indicating that they have &#x201c;open&#x201d; status until the record is indicated as closed. The record is preferably updated with further information until information is included in the record to indicate it is closed. The record may be closed either by the servicer sending an input message through the interface device as previously discussed, or by the user who operates the system using the appropriate window and input device. In some embodiments it may be desirable for a user to input a message through an input device such as a mouse or keyboard indicating that the problem has been resolved or cancelled. The system is preferably configured to enable a servicer or user to input messages electronically either from the ATM, through the interface device or another source to update information in the trouble record and eventually to indicate that the condition which caused the signal to be generated from the ATM has been corrected.</p>
+<p id="p-0186" num="0185">The message sent by the DSPP to the MMR includes the value which causes the MMR to open a &#x201c;trouble ticket&#x201d; in the data store when it receives the message. The determination as to whether a trouble ticket is opened is based on the fault actions table record resolved by the DSPP as shown in <figref idref="DRAWINGS">FIG. 49</figref>. The inclusion of the value in the table record is based on the user setting the trouble ticket indicator (TT IND) in the fault actions window which details the action to be taken in response to the occurrence of the fault. The trouble ticket indicator is the final column in <figref idref="DRAWINGS">FIG. 29</figref>.</p>
+<p id="p-0187" num="0186">In response to receiving a message which includes an instruction to open a &#x201c;trouble ticket&#x201d; the MMR operates to establish an &#x201c;open problems&#x201d; record in the data store. The layout of the open problems table records is shown in <figref idref="DRAWINGS">FIG. 51</figref>. The MMR fills in as much of the data in the record as it has available when it receives the message. The MMR operates to add data to the table record as events occur until the record is &#x201c;closed.&#x201d; The record can be closed by an input message which indicates the problem is fixed or an input that indicates that the &#x201c;trouble ticket&#x201d; is cancelled. Cancellation may be appropriate in circumstances where testing of the system is being conducted or where the fault condition is otherwise known to not require further action. When open problems are &#x201c;closed&#x201d; the records remain in the data store and can be used for analytical purposes.</p>
+<p id="p-0188" num="0187">&#x201c;Open Problems&#x201d; records which are closed are reclassified periodically and stored as &#x201c;problem history&#x201d; records in the data store. The layout for the problem history table records in the data store is shown in <figref idref="DRAWINGS">FIG. 51</figref>. The closed records will be changed to problem history records generally on a daily basis. A user may eventually move closed &#x201c;problem history&#x201d; table records into the archive records of the data store. This is done periodically, but generally after a longer period than the period for reclassification of &#x201c;open&#x201d; records to &#x201c;history&#x201d; records. When this is done a &#x201c;problem history&#x201d; record is reclassified as an &#x201c;archive problems&#x201d; (ARC_PROBLEMS) record. The layout of the archive problems records is shown in <figref idref="DRAWINGS">FIG. 58</figref>. The layouts of the problems type table records are generally the same as no additional substantive data is added to the record once it is closed.</p>
+<p id="p-0189" num="0188">Trouble ticket record information can be obtained by a user of the system by selecting appropriate designators on the main menu window <b>66</b> producer on a display by the event management system as shown in <figref idref="DRAWINGS">FIG. 8</figref>. For example, selecting the trouble ticket monitor provides a user with the trouble ticket monitor window <b>112</b> of the type shown in <figref idref="DRAWINGS">FIGS. 23 and 24</figref>. As shown in <figref idref="DRAWINGS">FIG. 23</figref>, the trouble ticket monitor window enables a user to sort through trouble ticket record information by selecting criteria concerning the status of the trouble ticket. The user is also shown the date associated with the trouble tickets by clicking on a particular date in a calendar window that is shown open in <figref idref="DRAWINGS">FIG. 23</figref>. In addition, the user may selectively review particular locations or terminal IDs as well as fault codes, as indicated by a fault code window in <figref idref="DRAWINGS">FIG. 24</figref>.</p>
+<p id="p-0190" num="0189">By selecting trouble ticket history data from the main menu window <b>66</b> generated on a display by the event management system, a user is enabled to call a trouble ticket history window indicated <b>114</b> in <figref idref="DRAWINGS">FIG. 25</figref>. The trouble ticket history window is particularly suited for reviewing trouble tickets that have been closed or cancelled, and reclassified as history records. This capability enables the user to review the details concerning recent ATM condition messages and their resolution.</p>
+<p id="p-0191" num="0190">As previously discussed, the MGR <b>34</b> is operative to generate records in the data store which provide a log of status messages as reflected by table record layout <b>94</b> in <figref idref="DRAWINGS">FIG. 51</figref>. These records include values representative of the condition messages received from a particular ATM host. This data is resolved and displayed by the system on a display to a user in the ATM host message log window <b>116</b> shown in <figref idref="DRAWINGS">FIG. 27</figref>. The ATM host message log window enables a user to view particular faults or conditions which have been reported by ATMs which are operated by a particular host system. This is particularly useful for administrators who wish to obtain status information on ATMs that are operated by particular host computers in the system.</p>
+<p id="p-0192" num="0191">The status message log table records are reclassified periodically as archive status message log table records, the layout of which is shown in <figref idref="DRAWINGS">FIG. 58</figref>. The reclassification is done by the system on a periodic basis set by the user. The information in the archive status message log table records is used for analysis and reporting purposes in a manner later discussed.</p>
+<p id="p-0193" num="0192">The MMR acts to carry out actions in response to the fault action value included in the message to the MMR from the DSPP. Generally, the actions that are resolved to be taken by the MMR include a plurality or sequence of actions that are to be conducted in accordance with a schedule. The schedule generally includes giving a prompt notification to a servicer or other entity in a manner and format that the MMR resolves based on the records in the data store. The schedule also includes other actions which are to be taken at times after giving the initial notification, depending on conditions which exist or which have been notified to the MMR as existing at that time. If the MMR has been notified of a condition which eliminates the need for taking a later action in the schedule, the next scheduled action is not carried out.</p>
+<p id="p-0194" num="0193">An example would be a situation where the MMR is configured to notify a particular servicer or other entity of a condition at an ATM. The notification may include sending a notification to a servicer through a pager. The schedule associated with the actions to be taken may include paging the servicer a second time 15 minutes after the first page if the servicer has not contacted the interface device of the MMR and input a message acknowledging the call. When the servicer has not acknowledged the call within 15 minutes of the first page, the MMR sends the second page. However, if the call was acknowledged before the time to send the second page, the instruction in the schedule to send the second page is not carried out by the MMR.</p>
+<p id="p-0195" num="0194">The MMR is preferably configured so that every action message from the DSPP that requires corrective action at an ATM has stored in correlated relation therewith data representative of a schedule of immediate and future actions which are carried out automatically until the problem is corrected and closed, or the problem record is cancelled by the operator of the system.</p>
+<p id="p-0196" num="0195">The operation of the MMR includes the resolution of values representative of a schedule of actions to take in response to the DSPP message, as well as the resolution of values representative of the messages to send to carry out those actions. This includes resolving the manner of contacting the entity who is to receive the message as well as the content of the message to be sent. The MMR further operates to resolve data representative of further action messages responsive to input messages from servicers and other input messages it has previously received related to the particular condition.</p>
+<p id="p-0197" num="0196">How the MMR of the exemplary embodiment accomplishes these functions can be appreciated from the database table records used by the MMR beginning with the record layouts shown in <figref idref="DRAWINGS">FIG. 52</figref>. The MMR STATE table records provide for each MMR_ACTION_SID value, and a &#x201c;previous function result&#x201d; value (PREV_FUNC_RESULT), a function id value (FUNC_SID), a parameter id value (PARM_SID) and a next action value (NEXT_ACTION_SID). A sequence value (MMR_ACTION_ROWSEQ) is also included in the MMR STATES table records. The sequence values correspond to the &#x201c;check order&#x201d; values shown in <figref idref="DRAWINGS">FIG. 29</figref> which is a fault actions window generated on a display by the system. The sequence values are indicators of what is checked first among a plurality of similar conditions.</p>
+<p id="p-0198" num="0197">In situations where the MMR first begins resolving the actions to take there is no &#x201c;previous function result&#x201d; value. Therefore the MMR_ACTION_SED and the null previous function result, are used to resolve a unique record in the data store. This record provides FUNC_SID and PARM_SID values. The FUNC_SID value points to a unique table record associated with the particular function to be carried out. The PARM_SID value specifies the table record that supplies parameters to be used in carrying out the function. The layout of the function table records is shown in <figref idref="DRAWINGS">FIG. 53</figref>. The &#x201c;parameter&#x201d; tables are tables designated by the &#x201c;P_&#x201d; prefix. The parameter tables include values representative of information concerning contacts for messages, reading voice menus, telephone dialing (DMTF), date/time, language and schedules. The parameter values may be used to resolve other values for carrying out functions such as voice file indicator values and phone, fax, and pager numbers for servicers.</p>
+<p id="p-0199" num="0198">It should be noted that the exemplary embodiment preferably stores voice file instructions in more than one language. As a result, a particular servicer may receive voice files in Spanish, another servicer in English and so on. The language may be selected by input messages to the user interface. Similarly, &#x201c;variables&#x201d; records are maintained in the data store. Variables values can be resolved based on a parameter value which is resolved and used to execute a function. An example is sending a message comprised of selected variables, such as a text message in a different language. This enables the system to be used with ATMs in several regions or countries where different languages are spoken. In the exemplary embodiment the user interface includes a &#x201c;Multi-Voice&#x201d; interface produced by ITI Logiciel. Of course in other embodiments other interface devices comprised of hardware, software or both, may be used.</p>
+<p id="p-0200" num="0199">Often in response to messages output through the message dispatching portion of the user interface, a user will be requested to respond with an input message. This often involves selecting an appropriate button on a touch tone phone. Alternatively, the response may include sending a response message electronically from the ATM or other device. This response or &#x201c;return code&#x201d; determines the next function to be executed. The data values necessary for the MMR to resolve the next function to be carried out is determined from the &#x201c;return codes&#x201d; and &#x201c;function return codes&#x201d; table records, the layouts of which are represented in <figref idref="DRAWINGS">FIG. 53</figref>.</p>
+<p id="p-0201" num="0200">As represented in <figref idref="DRAWINGS">FIG. 56</figref> the data store includes records which are representative of schedules of actions which are to be taken in response to a DSPP action message. The &#x201c;schedule actions&#x201d; records, the layout of which is shown, enable resolving schedule id values based on a parameter value and the action message value. The schedule id value (SCHEDULE_SID) enables resolving a value corresponding to &#x201c;schedules&#x201d; table record, the layout of which is also shown. These table records enable the MMR to resolve times for taking actions.</p>
+<p id="p-0202" num="0201">The data store also includes records that handle the operation of the servicer interface device of the MMR. As previously discussed the MMR STATES records are used to resolve the function and parameter values, including functions which are executed to notify servicers. The &#x201c;notify handler&#x201d; table records, the layout of which are shown in <figref idref="DRAWINGS">FIG. 52</figref>, are used to store values representative of data records that contain data for carrying out alternative actions if certain precursor steps cannot be carried out.</p>
+<p id="p-0203" num="0202">For example, if there is no notification made to a servicer, a &#x201c;no notification method&#x201d; value (NO_NOT_METHOD_SID) can be resolved by the MMR, which enables the MMR to resolve a &#x201c;no notification handler&#x201d; table record that provides the values that will be used to carry out a next action. Likewise, the &#x201c;notify handler&#x201d; table records include values which are used to resolve table records where no acknowledgement is received, as well as where a designated servicer is not reachable. Table record layouts for the records associated with handling these conditions are shown in <figref idref="DRAWINGS">FIG. 52</figref>. It should be noted that these record layouts include values corresponding to schedule table records, which enables the MMR to carry out the alternative actions in accordance with the stored time parameters.</p>
+<p id="p-0204" num="0203">In the exemplary embodiment of the system the computer which operates the system is further operative to include in the data store records related to calls that have been made to servicers concerning particular conditions which exist at an ATM. The meaning of &#x201c;calls&#x201d; includes all methods of notifying servicers. <figref idref="DRAWINGS">FIGS. 26 and 36</figref> show a call details window <b>118</b> generated on a display by the system, which shows the current status of the information associated with the call. For example, in <figref idref="DRAWINGS">FIG. 26</figref> it can be noted that a particular service has been notified through the previously discussed interactive voice/response module (IVR) which serves as part of the servicer interface device of the system. Further, in <figref idref="DRAWINGS">FIG. 26</figref> there is an indication that the call through the IVR has been acknowledged. <figref idref="DRAWINGS">FIG. 36</figref> shows another example of a call details window in which a call has been made to a vendor. In this case the notification to the vendor was given through a DECAL&#xae; system operated by Diebold, Incorporated and was sent by way of an electronic message. This call details window further shows that the call has been acknowledged along with additional information that has been provided by the vendor system.</p>
+<p id="p-0205" num="0204">Database records concerning calls are maintained in the data store. The layout of the &#x201c;calls record&#x201d; tables is shown in <figref idref="DRAWINGS">FIG. 55</figref>. As with other historical data, records concerning closed calls are periodically reclassified as &#x201c;call history&#x201d; records, the layout of which is also shown in <figref idref="DRAWINGS">FIG. 55</figref>. Further &#x201c;call history&#x201d; records are later periodically reclassified as &#x201c;archive call&#x201d; records, the layout of which is also shown in <figref idref="DRAWINGS">FIG. 59</figref>.</p>
+<p id="p-0206" num="0205">The notification through a vendor system is also accommodated by the exemplary embodiment by enabling the user to establish in the data store particular information records required for communication with a vendor system. <figref idref="DRAWINGS">FIG. 35</figref> shows a DECAL&#xae; set-up window <b>120</b> which is used in the preferred embodiment to set up communication to a system operated by Diebold, Incorporated, which tracks and provides information concerning ATM fault conditions. Of course, in other embodiments other types of systems may be similarly interfaced for purposes of communicating and receiving information concerning fault conditions at particular ATMs.</p>
+<p id="p-0207" num="0206">The MMR is also operative based on the configuration of the system to send and receive messages from a scheduler <b>38</b>. The scheduler is a software process which receives messages from the MMR to schedule a future action. The scheduler then returns an appropriate message to the MMR at the scheduled time. If when the response message is sent by the scheduler to the MMR the conditions then notified to the MMR indicate the scheduled action is not needed, the steps associated with the action are not executed by the MMR.</p>
+<p id="p-0208" num="0207">The MMR resolves the schedule for future actions to be taken based on the database table records as previously discussed. The MMR is then operative to send the scheduler a message to schedule a return message based on the data resolved. This message has a different format, and is a different SME message type with a different union of structures than those messages previously discussed. The structures in the message to the scheduler contain the data that the scheduler needs to resolve the time and address to send back the responsive message to the requestor node of the MMR, as well as to resolve the content of the return message.</p>
+<p id="p-0209" num="0208">The message to the scheduler is sent by the MMR using the send message routine previously discussed. Likewise the send message routine is used by the scheduler to send its message to the MMR. Records are established in the data store concerning scheduled events. A layout for these records is shown in <figref idref="DRAWINGS">FIG. 56</figref>.</p>
+<p id="p-0210" num="0209">The described form of the scheduler component conducts a limited amount of activity, and functions primarily to hold and return the original message from the MMR. However, in other embodiments the scheduler may be configured to perform additional functions including activities necessary to resolve the need for the responsive message and the building of more complex message structures.</p>
+<p id="p-0211" num="0210">The exemplary embodiment provides the user with displays of activities which are scheduled to be performed in response to messages from the scheduler. An example of a scheduler window <b>122</b> is shown in <figref idref="DRAWINGS">FIG. 34</figref>. The scheduler window indicates particular actions that will be taken and the time when the actions are scheduled to be taken in response to the particular condition which has occurred at an ATM. These conditions are identified by the trouble ticket number assigned by the MMR to the ATM message. Further, as shown in <figref idref="DRAWINGS">FIG. 34</figref> the scheduler window <b>122</b> provides confirmation that the action has been sent to the requester node. Of course, if the action scheduled is no longer needed the MMR will take no action in response to the message from the scheduler. A user may also selectively cancel certain actions using an input device.</p>
+<p id="p-0212" num="0211">A further novel aspect of the exemplary embodiment is the ability to test the operation of the system. This is accomplished through the creation of records representative of phantom ATMs in the data store. These phantom ATMs may have particular fault actions established for fault conditions. As with actual ATMs, the user is enabled by watching the displays generated by the system associated with the scheduling function or by actually allowing the system to perform, to test that the system is operating as expected. In addition, the exemplary embodiment enables a user to generate fault messages for actual ATMs within the system. The user is thereby enabled to watch how the system reacts to the particular fault messages. To prevent unnecessary responses to test inquiries a user may cancel particular actions before they occur through the scheduler or by temporarily changing the actions sequence which occurs responsive to the fault using an input device connected to the system.</p>
+<p id="p-0213" num="0212">The user is enabled to generate faults from phantom ATMs or actual ATMs using a device fault simulation tool. The user operates the device fault simulation tool through a test window designated <b>123</b> in <figref idref="DRAWINGS">FIG. 33</figref>. The user is enabled to input values using an input device in the test window indicative of a phantom ATM. The user can further establish fault actions for this particular phantom ATM and observe that the fault actions are carried out properly. Alternatively, a user may enter information for an actual ATM within the system and enter a particular type of fault status message. By selecting the generation of this status message the user may then watch the operation of the system to verify that the action to be taken by the system in response to this message actually occurs. This feature provides a user with greater assurance that the system is operating in the manner that is intended.</p>
+<p id="p-0214" num="0213">The device fault simulation tool operates by producing a message responsive to the user's input that is comparable to a message produced by a line driver. This message is then transmitted to the MGR and reformatted. It is handled in the same manner as a real ATM condition message. This enables accurately testing the system.</p>
+<p id="p-0215" num="0214">As indicated in <figref idref="DRAWINGS">FIG. 5</figref>, several types of message mediums may be used to send a message to the particular entity who has responsibility for an ATM exhibiting a fault condition. This entity may be an individual in Operations at the institution operating the ATM. In addition, the message may also be sent to a servicer who has responsibility for the ATM at the time that the condition arose. This is done based on the information in the data store and the current time as determined from the clock device within the computer which operates the event management system.</p>
+<p id="p-0216" num="0215">In many instances it is desirable for notification to be given to persons who operate the computer system prior to giving notice to a servicer so that the Operations person may determine if the message is being generated because of activities the institution is engaged in and not a problem with the ATM. Giving such an indication first will enable a person in Operations to cancel the particular trouble ticket before a servicer is notified. This can be accomplished either by a user who has a computer with a display and an input device connected in the network with the event management system, or through an message input through the interface device associated with the multimedia reporter.</p>
+<p id="p-0217" num="0216">When the multimedia reporter is activated to send a message to an entity, a number of different parameters are available for inclusion in the message. <figref idref="DRAWINGS">FIG. 17</figref> is an exemplary table of information variables that are available within the MMR for inclusion in messages to be sent to a particular entity that is to be notified of an ATM condition. This information may be tailored to the particular entity to be notified to provide only the information needed for their purposes. For example, the MMR may be configured to provide fax messages that contain selected ones of these variables. Other variables may also be used, including foreign language equivalents of certain fields. An embodiment uses a &#x201c;multi-fax&#x201d; interface from ITI Logiciel for sending fax messages. In other embodiments other communications devices comprised of hardware, software or both, may be used.</p>
+<p id="p-0218" num="0217">The interactive voice response module (IVR) of the MMR includes a message dispatching portion which operates to output messages to a user. The IVR is also operative in the exemplary embodiment to accept input messages from a user. An example of steps executed by the IVR in dispatching and accepting messages is represented schematically in <figref idref="DRAWINGS">FIG. 18</figref>. As shown in <figref idref="DRAWINGS">FIG. 18</figref>, a user contacting the interface device is first requested to enter an access code to insure that access is authorized. The user then inputs data through a touch tone phone to indicate whether they wish to access trouble ticket information or network information. As shown in <figref idref="DRAWINGS">FIG. 18</figref>, if network information is requested a summary is provided of the overall number of trouble tickets which are open. Of course, in alternative embodiments the system may be configured so as to provide information selectively by controller or area of responsibility. The variables which are included as part of the messages are also determined by the configuration of the records in the data store.</p>
+<p id="p-0219" num="0218">Alternatively, as shown in <figref idref="DRAWINGS">FIG. 18</figref>, if trouble ticket information is requested another menu is presented. This menu enables the user to obtain information about trouble tickets as well as corrective action. The user is further enabled to select call details which then outputs a calls menu. This menu enables a user to selectively obtain information about a particular service call, as well as to acknowledge the service call, to selectively change the status of the call to closed, or to indicate another status. In this way a servicer or other entity notified of a condition at an ATM may indicate that they have received the particular message. Further, if the entity notified has responsibility for correcting the condition at the automated banking machine, they may use the calls menu to input messages which indicate various stages in the course of correcting the condition.</p>
+<p id="p-0220" num="0219">It should be understood that in alternative embodiments additional options may be included in the menus. Such indications may include for example in the calls menu that the entity has arrived at the site and is commencing to service the machine. Alternatively, the servicer may indicate that they are waiting for bank personnel to arrive at the site, or that they are unable to perform corrective action because of a need for parts or other items. The options for input messages in response to the calls menu or trouble ticket menu can be configured in alternative embodiments to suit the needs of the particular user and operator of the system.</p>
+<p id="p-0221" num="0220"><figref idref="DRAWINGS">FIG. 19</figref> schematically shows a sample vendor notification message as presented through the interface device of the multimedia reporter. The vendor notification message schematically shown in <figref idref="DRAWINGS">FIG. 19</figref> is intended to elicit an acknowledgement of the message. The message flow schematically represented in <figref idref="DRAWINGS">FIG. 19</figref> is particularly appropriate where a servicer is notified through a phone call from the multimedia reporter. In this manner a servicer is requested to acknowledge notification of the call and is provided with the information necessary to begin the corrective action.</p>
+<p id="p-0222" num="0221"><figref idref="DRAWINGS">FIG. 20</figref> is a schematic view of a message flow from the interactive voice/response unit to Operations where a particular entity associated with the operation of the machine needs to be notified that a condition has occurred. Such a message may be appropriate where an in-house service performs service activities related to an ATM.</p>
+<p id="p-0223" num="0222"><figref idref="DRAWINGS">FIG. 21</figref> is also a schematic view of a message sent by the interface device associated with the multimedia reporter to an entity associated with the operation of an ATM exhibiting a fault condition. In this case the fault condition is of the type that warrants taking the ATM out of service. Such a message may be sent to a computer center where the host is operated to affect removing the banking machine from the network.</p>
+<p id="p-0224" num="0223"><figref idref="DRAWINGS">FIG. 22</figref> is a further schematic representation of a message sent by the interface device which in this instance is sent to a location or branch where the ATM is located. Such a message is sent if the condition is generated during business hours of the branch as indicated by the location record in the data store corresponding to where the ATM is located. Such a message may be generated where the fault condition is of a type which branch personnel may correct. Of course it will be understood if the fault condition is of a type that is catalogued in the data store as one which requires greater skill to correct than may be provided by personnel at the branch, the event management system is operative to send a message to an appropriate ATM servicer.</p>
+<p id="p-0225" num="0224">The MMR is also operative to establish records in the data store related to problem actions. Such problem actions records include data values which are representative of problems of a particular character, the responsive action taken and the time of taking the responsive action. The layout of the &#x201c;open problems actions&#x201d; records is shown in <figref idref="DRAWINGS">FIG. 55</figref>.</p>
+<p id="p-0226" num="0225">After problems are responded to they are periodically reclassified as &#x201c;problem history actions&#x201d; records. The table record layout for these records is also shown in <figref idref="DRAWINGS">FIG. 55</figref>. Finally, problem history actions records are periodically reclassified as &#x201c;archived problem actions&#x201d; records. The layout of these records is shown in <figref idref="DRAWINGS">FIG. 59</figref>. The periodic timing of reclassifying the problem action records is determined by the user's requirements, but generally the corresponding records concerning problems, calls and actions are generally reclassified on similar schedules.</p>
+<p id="p-0227" num="0226">The archived problem, call and actions records remain in the data store for purposes of analysis. A further advantage of the preferred embodiment is that it enables a user to conduct analysis of the stored information for purposes of evaluating the performance of the machines connected to the system as well as the performance of servicers who service machines connected to the network. These standardized reporting features are indicated under the category &#x201c;reporting&#x201d; in the main menu window <b>66</b> generated on a display by the event management system.</p>
+<p id="p-0228" num="0227">The MMR of the event management system is preferably configured to provide record data indicative of the 10 most frequent faults which are generated by machines. This is reflected in a fault frequency analysis window <b>124</b> shown in <figref idref="DRAWINGS">FIG. 37</figref>. This analysis provides a user with an indication of the 10 most frequent faults. This may be selectively calculated by the computer and provided system wide, or by location or terminal. Further, this information may be selectively provided either by the year, month or day in accordance with inputs to the system by the user.</p>
+<p id="p-0229" num="0228">The event management system is further configured to calculate and provide a trouble ticket by device type window <b>126</b> shown in <figref idref="DRAWINGS">FIG. 38</figref>. Again, the system is operative to provide a graphic display of the number of faults by device type system wide, by location or by terminal. This data can also be reported by month, day or year as selected by the user.</p>
+<p id="p-0230" num="0229">Another standardized reporting feature includes a trouble ticket analysis window <b>128</b> shown in <figref idref="DRAWINGS">FIG. 39</figref>. The trouble ticket analysis window provides an indication of the number of trouble tickets system wide by location or by terminal during a month or year. A further standardized reporting feature in the event management system is a trouble ticket summary report which is provided in a trouble ticket summary report window <b>130</b> shown in <figref idref="DRAWINGS">FIG. 40</figref>. The trouble ticket summary report window is operative to provide information on the resolution of trouble tickets during a selected period of time. The summary can be provided in accordance with selection criteria including the character of the calls as either first or second line, the location, the network, the vendors or the particular status which was involved. This report feature enables the user of the system to analyze numerous aspects of the performance of machines and service providers.</p>
+<p id="p-0231" num="0230">An average response time report is also provided by the preferred embodiment of the event management system. The information on average response times is shown as an average response time by notification method window indicated <b>132</b> in <figref idref="DRAWINGS">FIG. 41</figref>. The preferred embodiment enables a user to display average response times by various notification methods for locations or terminals and for selected periods of a particular day, month or year.</p>
+<p id="p-0232" num="0231">A further aspect of the preferred embodiment of the event management system is the ability to conduct downtime analysis. As previously discussed, certain fault conditions place an ATM out of service while others place the ATM in a degraded operation mode. The event management system is programmed to provide downtime analysis which includes both downtime and degraded time for particular locations, terminals or the entire system. This information can be provided during selected time intervals of particular months or for an entire year based on user inputs. The information is provided graphically through a downtime analysis window indicated <b>134</b> in <figref idref="DRAWINGS">FIG. 42</figref>.</p>
+<p id="p-0233" num="0232">An ATM summary report window indicated <b>136</b> in <figref idref="DRAWINGS">FIG. 43</figref> is generated in response to the event management system conducting an analysis of incident response times, degraded time and downtime, and availability of banking machines connected to the event management system. This information may be selectively provided for locations, terminals as well as the particular machines connected to the system. The information may be provided over a reporting period of a day, month or year.</p>
+<p id="p-0234" num="0233">The event management system of the preferred embodiment is further operative to provide a user with report data concerning ATM availability. This ATM availability data is provided to the user in an ATM availability report windows indicated <b>138</b> in <figref idref="DRAWINGS">FIG. 44</figref>. The ATM availability report window provides a user with ATM availability and the cause of any downtime or degraded time. This can be provided for each terminal for which a report is selected based on reporting periods of a month, day or year.</p>
+<p id="p-0235" num="0234">Further, the MMR of the event management system of the preferred embodiment is operative to provide a report of overall systems availability for banking machines connected to the system. This overall systems availability is provided in the form of a systems availability report displayed in a systems availability report window designated <b>140</b> in <figref idref="DRAWINGS">FIG. 45</figref>. The systems availability report window provides a summary of all the causes of downtime and degraded time throughout the system over a period selected by the user. In an embodiment the selected period may be a day, month or year.</p>
+<p id="p-0236" num="0235">The report data which is provided by the system will preferably provide it in the form of report windows on a display as previously disclosed, and may alternatively provide it in other ways such as a hard copy record on paper. Such report data may also be provided on tape or other machine readable media or may be transmitted electronically to other locations. Of course, and as previously discussed, because the preferred embodiment of the event management system is used in a client/server environment, any computer connected to the network with the computer that runs the event management system software has access to the report data.</p>
+<p id="p-0237" num="0236">As shown in the foregoing description, the exemplary embodiment enables an operator of an ATM network to automatically and reliably dispatch messages to entities who need to be notified of conditions which occur at banking machines so that fault conditions may be responded to and corrected in a prompt and proper manner. The exemplary embodiment also enables tracking progress towards resolution of the conditions which cause the fault signals to be generated, and maintains records of activities toward the resolution of such conditions in a manner which may be reviewed and analyzed so that improvements may be achieved in the overall operation of the system.</p>
+<p id="p-0238" num="0237">It should be understood that while embodiments have been described with regard to a preferred embodiment which operates in a particular manner and which includes a number of features and capabilities, other embodiments may be operated using other types of systems and programming techniques. Other embodiments may achieve the results described herein using other components and systems, and through the use of different methods and processes. Further, while the foregoing discussion has centered on the system sending messages to and receiving responses from servicers who repair or otherwise conduct some activity with regard to an ATM, it should be understood that the term &#x201c;servicer&#x201d; encompasses any entity that acts to receive messages from or to input messages to the system.</p>
+<p id="p-0239" num="0238">Thus, the new fault tracking and notification system achieves the above stated objectives, eliminates difficulties in the use of prior devices, systems and methods, solves problems and attains the desirable results described herein.</p>
+<p id="p-0240" num="0239">In the foregoing description certain terms have been used for brevity, clarity and understanding however no unnecessary limitations are to be implied therefrom because such terms are for descriptive purposes and are intended to be broadly construed. Moreover, the descriptions and illustrations herein are by way of examples and the invention is not limited to the exact details shown and described.</p>
+<p id="p-0241" num="0240">In the following claims any feature described as a means for performing a function shall be construed as encompassing any means capable of performing the recited function, and shall not be deemed limited to the particular means shown in the foregoing description as performing the function or mere equivalents thereof.</p>
+<p id="p-0242" num="0241">Having described the features, discoveries and principles of the invention, the manner in which it is constructed and operated and the advantages and useful results attained, the new and useful structures, devices, elements, arrangements, parts, combinations, systems, equipment, operations, methods, processes and relationships are set forth in the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>We claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method comprising:
+<claim-text>a) outputting through a display device responsive to operation of a computer, indicia corresponding to a cash dispensing automated banking machine including a card reader operative to read data from cards and to utilize the data read from cards by the card reader, wherein the indicia includes a graphical representation of a visual appearance of the automated banking machine, wherein the graphical representation shows a visual appearance of a plurality of hardware devices included in the automated banking machine;</claim-text>
+<claim-text>b) receiving with the computer, data indicative of a condition of at least one of the plurality of hardware devices included in the automated banking machine;</claim-text>
+<claim-text>c) outputting through the display device responsive to operation of the computer, indicia representative of which of the plurality of hardware devices is associated with the condition.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein in (b) the data is representative of a fault condition of the at least one hardware device.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein in (c) the indicia further includes indicia representative of the status of the at least one hardware device.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein in (a) the visual appearance is of a simulated automated banking machine.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein in (b) the data is indicative of a fault condition with the at least one hardware device, and wherein (c) further includes outputting indicia representative of the fault condition.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method according to <claim-ref idref="CLM-00005">claim 5</claim-ref> and further comprising:
+<claim-text>d) outputting through the display device indicia corresponding to actions to be taken in response to the fault condition.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. Computer readable media, including computer executable instructions, wherein the instructions are operative to cause a computer to carry out a method comprising:
+<claim-text>a) outputting through a display device responsive to operation of the computer, indicia corresponding to a cash dispensing automated banking machine including a card reader operative to read data from cards and to utilize data read from cards by the card reader, wherein the indicia includes a graphical representation of a visual appearance of the automated banking machine, wherein the graphical representation shows a visual appearance of a plurality of hardware devices included in the automated banking machine;</claim-text>
+<claim-text>b) receiving with the computer, data indicative of a condition of at least one of the plurality of hardware devices included in the automated banking machine;</claim-text>
+<claim-text>c) outputting through the display device responsive to operation of the computer, indicia representative of which of the plurality of hardware devices is associated with the condition.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

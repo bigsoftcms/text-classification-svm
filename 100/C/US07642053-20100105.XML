@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07642053-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07642053</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10539437</doc-number>
+<date>20031215</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>DE</country>
+<doc-number>102 59 819</doc-number>
+<date>20021219</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>224</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>68</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>12</class>
+<subclass>P</subclass>
+<main-group>19</main-group>
+<subgroup>34</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>435  6</main-classification>
+<further-classification>435 912</further-classification>
+</classification-national>
+<invention-title id="d0e71">Method and device for PCR-amplification and detection of nucleotide sequences</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5736257</doc-number>
+<kind>A</kind>
+<name>Conrad et al.</name>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6258606</doc-number>
+<kind>B1</kind>
+<name>Kovacs</name>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2002/0115293</doc-number>
+<kind>A1</kind>
+<name>Ghodsian</name>
+<date>20020800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>438689</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2002/0155586</doc-number>
+<kind>A1</kind>
+<name>Cheng et al.</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>4352871</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2004/0048270</doc-number>
+<kind>A1</kind>
+<name>Zeltz et al.</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2004/0101442</doc-number>
+<kind>A1</kind>
+<name>Frechet et al.</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>422 99</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>DE</country>
+<doc-number>196 10 115</doc-number>
+<kind>G2</kind>
+<date>19970900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>JP</country>
+<doc-number>2001-525921</doc-number>
+<date>20011100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>WO</country>
+<doc-number>WO 98/01758</doc-number>
+<date>19980100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>WO</country>
+<doc-number>WO 99/36576</doc-number>
+<kind>A1</kind>
+<date>19990700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>WO</country>
+<doc-number>WO 00/58522</doc-number>
+<kind>A</kind>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>WO</country>
+<doc-number>WO 00/60919</doc-number>
+<kind>A</kind>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>WO</country>
+<doc-number>WO 00/62036</doc-number>
+<kind>A</kind>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>WO</country>
+<doc-number>WO 01/34842</doc-number>
+<kind>A2</kind>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>WO</country>
+<doc-number>WO 01/42508</doc-number>
+<kind>A2</kind>
+<date>20010600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>WO</country>
+<doc-number>WO 02/20833</doc-number>
+<kind>A2</kind>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00017">
+<othercit>Fuchs et al: &#x201c;A silicon lab-on-chip for integrated sample preparation by pcr and dna analysis by hybridization&#x201d; Annual International IEEE-EMBS special topic conference on microtechnologies in medicine and biology. Proceedings. XX, XX, May 2, 2002, S. 227-231, XP001180969.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00018">
+<othercit>Hodko O et al: &#x201c;Detection of pathogens using on-chip electrochemical analysis of pcr amplified dna molecules&#x201d;, Proceedings of the Spie, Spie, Bellingham, VA, US, Bd. 4265, Jan. 25, 2001. S. 65-74, XP008000573.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00019">
+<othercit>Sosnowski R G et al: &#x201c;Rapid determination of single base mismatch mutations in dna hybrids by direct electric field control&#x201d; Proceedings of the national academy of sciences of USA, National Academy of Science, Washington, US, Bd. 94, Feb. 1997, S. 1119-1123, XP000857636.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00020">
+<othercit>Gilles P N et al: &#x201c;Single nucleotide poymorphic discrimination by an electronic dot blot assay on semiconductor microchips&#x201d; Nature Biotechnology, Nature Publishing, US, Bd. 17, Apr. 1999, S. 365-370.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00021">
+<othercit>Tillib SV, Strizhkov BN, Mirzabekov AD, Datenbank PubMed bei NCBI, Anal. Biochem. (2001) 292 (1) 155-60.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00022">
+<othercit>Dubiley, S. U.A.: Polymorphism analysis and gene detection by minisequencing on an array of gel-immobilized primers, Nucleic Acids Research, 1999, vol. 27, No. 18, e19, 1-6.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00023">
+<othercit>Strizhkov, B.N. u.a.: PCR amplification on a microarray of gel-immobilized oligonucleotides: detection of bacterial toxin- and drug-resistant genes and their mutations. Biotechniques (2000) 29 (4) 844-8, 850-2, 854.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00024">
+<othercit>Koichinski. A. &#x26; Mirzabekov A.: Analysis of SNPs and other genomic variations using gel-based chips, Hum Mutat. (Apr. 2002) 19 (4) 343-60.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00025">
+<othercit>Fuchs et al: &#x201c;A silicon lab-on-chip for Integrated sample preparation by PCR and DNA analysis by hybridization&#x201d;, Annual International IEEE-EMBS Special Topic Conference on Microtechnologies in Medicine and Biology. Proceedings, May 2, 2002, S. 227-231.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00026">
+<othercit>European Patent Office Action dated Apr. 24, 2008 for corresponding European Patent Application No. 03 785 579.8.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>13</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>None</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>6</number-of-drawing-sheets>
+<number-of-figures>10</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060234236</doc-number>
+<kind>A1</kind>
+<date>20061019</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Gumbrecht</last-name>
+<first-name>Walter</first-name>
+<address>
+<city>Herzogenaurach</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Stanzel</last-name>
+<first-name>Manfred</first-name>
+<address>
+<city>Erlangen</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Harness, Dickey &#x26; Pierce, P.L.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Siemens Aktiengesellschaft</orgname>
+<role>03</role>
+<address>
+<city>Munich</city>
+<country>DE</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Horlick</last-name>
+<first-name>Kenneth R.</first-name>
+<department>1637</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Thomas</last-name>
+<first-name>David C</first-name>
+</assistant-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/DE03/04136</doc-number>
+<kind>00</kind>
+<date>20031215</date>
+</document-id>
+<us-371c124-date>
+<date>20060320</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2004/057022</doc-number>
+<kind>A </kind>
+<date>20040708</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A DNA-Chip includes a flat carrier and an array of spots containing probe molecules (oligonucleotides) which are arranged on said carrier. Each spot is associated with a microelectrode arrangement for impedance spectroscopic detection of binding events occurring between the probe molecules and target molecules (DNA fragments) applied by way of an analyte solution. In order to increase the sensitivity or the binding specific measuring effects of the biochip, the electrode arrangement is at least partially embedded in a hydrophilic reaction layer containing probe molecules and which is permeable to target molecules.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="240.62mm" wi="141.14mm" file="US07642053-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="254.59mm" wi="148.17mm" file="US07642053-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="112.35mm" wi="159.26mm" file="US07642053-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="216.49mm" wi="174.07mm" file="US07642053-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="240.45mm" wi="181.61mm" file="US07642053-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="115.23mm" wi="169.42mm" file="US07642053-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<p id="p-0002" num="0001">This application is a PCT National Stage Application of PCT/DE2003/004136 filed Dec. 15, 2003, which claims priority under on German Patent Application No. DE 102 59 819.3 filed in Germany on Dec. 19, 2002, the entire contents of which is hereby incorporated herein by reference.</p>
+<heading id="h-0001" level="1">FIELD</heading>
+<p id="p-0003" num="0002">The invention generally relates to a method for PCR amplification and detection of nucleotide sequences. A method of this kind serves, for example in medical diagnostics, to track down infectious target sequences of viral or bacterial DNA. In addition, the invention also generally relates to a corresponding device for carrying out the method.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">During a PCR (Polymerase Chain Reaction), the sample to be investigated is subjected to a cyclical temperature treatment in which the DNA fragments are essentially duplicated with the aid of a primer pair and a polymerase. For this kind of analyses, there are nowadays processes available in which the PCR is carried out on a microchip which has an array of microspots which form &#x201c;gel pads&#x201d; (WO 01/34842 A2). In order to enable hybridizations within the microspots to be detected by fluorescence spectroscopy, the known processes involve adding a labeled primer to the analyte solution.</p>
+<p id="p-0005" num="0004">Methods for amplifying and detecting nucleic acids are known from the prior art. Here, gel pads may form separate microspots as hydrophilic reaction layers on a microarray, said gel pads containing oligonucleotides which can hybridize with target nucleic acids to be identified. Furthermore, the printed publication &#x201c;Nucleic Acids Res.&#x201d; (1999) 27 (18) e19, pages 1 to 6, discloses carrying out amplification reactions in gel pads on a microarray and detection reactions by way of single base elongation. In this connection, mention should further be made of DE 196 10 115 C2 which discloses an array having a microelectrode arrangement and of WO 01/42508 A2 which discloses gel pads with immobilized probes in contact with microelectrodes.</p>
+<p id="p-0006" num="0005">Finally, WO 99/36576 A1 involves the use of gel pads in an array and also methods and systems for their preparation, it being intended to prepare &#x201c;intelligent gels&#x201d; as reaction layers.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0007" num="0006">It is an object of an embodiment of the invention to propose an improved method for amplification and detection of nucleotide sequences, which makes possible continuous monitoring of the PCR and, in particular, simultaneous investigation of a plurality of target sequences or a plurality of mutations of a target sequence in a simple manner. In addition, it is intended to produce a device which makes possible, in particular, an electrochemical measurement.</p>
+<p id="p-0008" num="0007">The method of an embodiment of the invention includes the following:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0008">a) providing a microchip having an array of a plurality of microspots forming analytical positions, which in each case comprise a hydrophilic reaction layer and a micro-electrode arrangement embedded therein, said reaction layer comprising as probe molecule at least one immobilized oligonucleotide which is hybridizable with a target sequence to be identified of a DNA fragment,</li>
+    <li id="ul0001-0002" num="0009">b) applying an analyte solution comprising a plurality of target sequences and PCR reagents to the microchip in such a way that it completely covers the array,</li>
+    <li id="ul0001-0003" num="0010">c) subjecting the array to a thermocycling process in order to amplify the target sequences,</li>
+    <li id="ul0001-0004" num="0011">d) detecting hybridization events on probe molecules immobilized at one analytical position with the aid of the microelectrode arrangement assigned to said position.</li>
+</ul>
+</p>
+<p id="p-0009" num="0012">This method of at least one embodiment has first of all the advantage that it is possible to detect binding or hybridization events in a microspot from the start of the PCR, without interruption of the ongoing reaction cycles and with minimum equipment. Since the microspots contain electrode arrangements which are independent of one another, each analytical position can be addressed individually and thus correlated to a particular probe molecule or a desired target sequence.</p>
+<p id="p-0010" num="0013">It is therefore possible to monitor a hybridization in a multiplicity of microspots in a very simple manner at the same time. In contrast, optical read out would require an optical recording system which is technically complex, if only due to the small size of the spots and their arrangement in a very narrow space. The technical complexity becomes even greater, if arrays having a large number of microspots are to be read out.</p>
+<p id="p-0011" num="0014">Owing to their electric partial charges, the nucleotide sequences held in a microspot by hybridization with immobilized probe molecules alter electrical parameters such as, for example, the conductance within a microspot or the impedance of an electrode arrangement. This makes possible an electrochemical or electrical evaluation using a device of an embodiment of the invention including a biochip with microelectrode arrangement.</p>
+<p id="p-0012" num="0015">DE 196 10 115 C2 discloses a biochip which can be read out impedance-spectroscopically and which already contains a plurality of interdigital electrode arrangements on a carrier, with probe molecules being immobilized on the electrodes and on the surfaces located between said electrodes. However, this kind of detecting binding events has the problem that the dimensions of the electrode structures differ from molecular dimensions by orders of magnitude.</p>
+<p id="p-0013" num="0016">It is possible, with still justifiable technical complexity, to prepare electrodes which have a width of between 1 and 10 &#x3bc;m, in particular of about 5-10 &#x3bc;m, are at a distance of the same size and have a thickness of from about 0.1 to 0.5 &#x3bc;m. The impedance-spectroscopically recordable range of the electric field of such an electrode arrangement extends from about 5 to 10 &#x3bc;m beyond the carrier surface or the plane formed by the electrode arrangement. In contrast, a probe molecule having, for example, 100 base pairs has a length of only about 30 nm, i.e. 0.3 &#x3bc;m. The influence of binding events in a monomolecular layer of probe molecules, immobilized on the sensor area or the electrodes, on the electric field or on the impedance of the electrode arrangement is correspondingly low.</p>
+<p id="p-0014" num="0017">Due to the fact that, according to an embodiment of the invention, the electrode arrangement is embedded at least partially in a hydrophilic reaction layer containing probe molecules and permeable for target molecules, it is possible to collect within the reaction layer a much higher number of probe molecules or target sequences than in a monomolecular layer. This results in a much larger influence of the electric field or of the impedance-spectroscopic recording range of the electrode arrangement.</p>
+<p id="p-0015" num="0018">A biochip designed in this way has a correspondingly higher measuring sensitivity. In contrast, in the case of conventional biochips, an increase in the concentration of the target sequences, obtained by PCR, would not result in an increase in sensitivity, owing to the small supply of probe molecules.</p>
+<p id="p-0016" num="0019">The reaction layer used in the method of an embodiment of the invention must be thermally stable to about 95&#xb0; C. in order to carry out a PCR. Thermally stable here means that the composition of the reaction layer is even at the temperature indicated such that it holds onto probe molecules, that hybridization/denaturation (melting) of target sequences and probe molecules can take place in it unimpededly and that it also essentially retains its other properties. For immobilization, the reaction layer preferably contains polymers with coupling groups to which probe molecules are covalently bound. This guarantees for sure that binding pairs of target sequences and probe molecules are retained in the reaction layer during rinsing processes following a PCR.</p>
+<p id="p-0017" num="0020">A particularly suitable reaction layer includes or even consists of a hydrogel. Hydrogels form an aqueous environment in a mechanically stable form, which permits mass transfer with a predominantly aqueous analyte. Free-radically crosslinkable hydrogels based on acrylamide, with maleic anhydride and/or glycidyl (meth)acrylate as coupling groups, have proved particularly suitable.</p>
+<p id="p-0018" num="0021">In a further preferred embodiment, the flat carrier of the biochip includes silicon (Si) as substrate and an insulating layer connected therewith, the side of the latter, which faces away from the silicon layer, carrying the electrode arrangement and the reaction layer. Such an arrangement enables the electrical interconnection of the electrode arrangement to be implemented using the technology known from Si memory chips.</p>
+<p id="p-0019" num="0022">A particular advantage of the proposed method is the fact that the method permits a larger variety of different possible designs in the case of simultaneous or multiplex studies. The reason for this is, inter alia, that it is not necessary to incorporate a label into amplicons produced during the PCR, which, especially in complex tests, holds the risk of undesired interactions arising between the substances required for labeling and between these and target sequences to be identified.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0020" num="0023">Further details and advantages of the invention are obtained from the description of the figures below of example embodiments on the basis of the drawings. In the figures:</p>
+<p id="p-0021" num="0024"><figref idref="DRAWINGS">FIG. 1</figref> depicts a simplified perspective representation of a microchip comprising a flat carrier and an array of microspots,</p>
+<p id="p-0022" num="0025"><figref idref="DRAWINGS">FIG. 2</figref> depicts a cross section through a spot according to line II-II in <figref idref="DRAWINGS">FIG. 1</figref>, as an enlarged detail,</p>
+<p id="p-0023" num="0026"><figref idref="DRAWINGS">FIG. 3</figref> depicts a detail of an electrode arrangement assigned to a spot,</p>
+<p id="p-0024" num="0027"><figref idref="DRAWINGS">FIG. 4</figref> depicts an embodiment of a microchip having a 4-pole electrode arrangement in a representation corresponding to <figref idref="DRAWINGS">FIG. 2</figref>,</p>
+<p id="p-0025" num="0028"><figref idref="DRAWINGS">FIG. 5</figref> depicts the electrode arrangement of the microchip of <figref idref="DRAWINGS">FIG. 4</figref> in a representation corresponding to <figref idref="DRAWINGS">FIG. 3</figref>,</p>
+<p id="p-0026" num="0029"><figref idref="DRAWINGS">FIG. 6</figref> depicts a diagrammatic representation which illustrates a first method variant of a PCR-assisted analysis,</p>
+<p id="p-0027" num="0030"><figref idref="DRAWINGS">FIG. 7</figref> depicts a diagrammatic drawing which indicates the mode of action of an unspecific primer pair,</p>
+<p id="p-0028" num="0031"><figref idref="DRAWINGS">FIG. 8</figref> depicts a diagrammatic representation of a modification of the first method variant,</p>
+<p id="p-0029" num="0032"><figref idref="DRAWINGS">FIG. 9</figref> depicts a diagrammatic representation of a second method variant,</p>
+<p id="p-0030" num="0033"><figref idref="DRAWINGS">FIG. 10</figref> depicts a diagrammatic representation of a third method variant.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE EXAMPLE EMBODIMENTS</heading>
+<p id="p-0031" num="0034">As <figref idref="DRAWINGS">FIG. 1</figref> indicates, an element referred to as biochip <b>1</b> includes a flat carrier <b>2</b> to one side of which a spot array <b>3</b> has been applied. A microspot referred to hereinbelow as spot <b>4</b> contains immobilized probe molecules, for example oligonucleotides. If an analyte solution containing unknown target molecules is applied to a spot <b>4</b>, then the target molecule couples to the probe molecule, if the base sequences correspond to one another. The property change caused by such a binding event, for example changes in the specific resistance, the impedance or the dielectricity constant, can be recorded by an electrode arrangement <b>5</b>.</p>
+<p id="p-0032" num="0035">The spot array <b>3</b> or microchip <b>1</b> with electrodes implemented therein forms a device which permits online monitoring. Such a device may have different electrode arrangements which are depicted in <figref idref="DRAWINGS">FIGS. 3 and 5</figref>. <figref idref="DRAWINGS">FIGS. 2 and 4</figref>, in contrast, depict the phenomenology of immobilization and measurement in such arrangements.</p>
+<p id="p-0033" num="0036">The example embodiment of <figref idref="DRAWINGS">FIG. 2</figref> contains a two-pole electrode arrangement. The latter has been applied, for example, with the aid of a photolithographic process on the flat carrier <b>2</b>. The electrode arrangement <b>5</b> includes two electrodes <b>6</b>, <b>7</b> which have the form of an interdigital structure, i.e. each electrode includes a plurality of strip-like partial electrodes <b>6</b><i>a</i>, <b>7</b><i>a </i>parallel to one another, which extend in each case into the space between two partial electrodes of the in each case other electrode. The partial electrodes <b>6</b><i>a</i>, <b>7</b><i>a </i>are connected to one another by a likewise strip-like connecting conductor <b>6</b><i>b</i>, <b>7</b><i>b </i>which extends at an angle to the partial electrodes <b>6</b><i>a</i>, <b>7</b><i>a. </i></p>
+<p id="p-0034" num="0037">A high-frequency alternating current in the megahertz range is applied to the electrodes <b>6</b>, <b>7</b>. The width <b>8</b> of the partial electrodes <b>6</b><i>a</i>, <b>7</b><i>a </i>is approx. 1 &#x3bc;m, their height <b>9</b> is from about 100 to 500 nm. The distance <b>10</b> between the partial electrodes <b>6</b><i>a</i>, <b>7</b><i>a </i>is likewise approx. 1 &#x3bc;m.</p>
+<p id="p-0035" num="0038">The flat carrier <b>2</b> includes a silicon layer <b>12</b> and an insulating layer <b>13</b>, including or even consisting of a polymer and arranged between said silicon layer and the electrodes <b>6</b>, <b>7</b>. The electrical interconnections and parts required, for example for an impedance-spectroscopic measurement of binding events, are implemented in the usual way by way of an appropriate topology of the silicon layer, and this is not shown in <figref idref="DRAWINGS">FIG. 2</figref> in any detail.</p>
+<p id="p-0036" num="0039">A reaction layer <b>14</b> composed of a hydrogel which will be described in more detail below has been applied to the insulating layer <b>13</b>. It may be expedient to provide the flat carrier <b>2</b> or the silicon layer <b>13</b> in the region of a spot with a depression filled with the reaction layer <b>14</b> (see <figref idref="DRAWINGS">FIGS. 6</figref>, <b>8</b>-<b>10</b>). Probe molecules <b>15</b> are embedded and homogeneously distributed in the reaction layer <b>14</b> or the hydrogel, and this is depicted in <figref idref="DRAWINGS">FIG. 2</figref> in an enlarged and symbolic manner. A probe molecule of 300 bases has a length of about 100 nm. Consequently, a unimolecular layer of probe molecules in conventional microchips has a thickness which at most corresponds about to the line <b>16</b> in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0037" num="0040">It is readily understood that such a layer can take relatively few probe molecules <b>15</b> and, correspondingly, can influence the electric field of the electrode arrangement only slightly in the case of binding or hybridization events. In contrast to this, the reaction area in a microchip of the invention, which area contains probe molecules <b>15</b> and is penetrated by field lines <b>17</b>, is substantially enlarged and offers space for a several powers of ten higher number of probe molecules <b>15</b>. If an analyte solution <b>18</b> is applied to a spot array <b>3</b> designed in this way or to a spot <b>4</b>, then the target molecules <b>19</b> or target sequences contained therein and depicted in <figref idref="DRAWINGS">FIG. 2</figref> likewise on an exaggerated scale and only symbolically find a substantially larger number of possible binding partners in the form of the probe molecules <b>15</b>.</p>
+<p id="p-0038" num="0041">The dimensions of the reaction layer <b>14</b> and its thickness, for example from 5 to 10 &#x3bc;m, are preferably such that the impedance-spectroscopic recording range is basically completely utilized, this being the case at a thickness of the reaction layer of from about 5 to 10 &#x3bc;m. It is thus possible, at an appropriate concentration of probe molecules <b>15</b> in this range, to increase the binding-specific measurement effect of the microchip substantially. The composition of the reaction layer is such that it provides an aqueous reaction medium. It is furthermore such that target molecules <b>19</b> or else other substances required for a reaction, for example polymerase, can diffuse into said layer, without their reactivity being impaired in the process.</p>
+<p id="p-0039" num="0042">As already mentioned above, the reaction layer <b>14</b> used according to an embodiment of the invention is a hydrogel. A hydrogel is an aqueous environment in a mechanically stable form with simultaneous guarantee of mass transfer in a predominantly aqueous surrounding. It is possible, by choosing the chemical composition, with respect to the components and the ratios between them, to vary the properties of the hydrogels, such as water content, swelling behavior, mechanical stability, etc., over a wide range.</p>
+<p id="p-0040" num="0043">A hydrogel, which can be easily prepared and which has good adhesion both to the electrode arrangement <b>5</b> and to the insulating layer <b>13</b>, is a free-radically crosslinkable hydrogel based on acrylamide, which contains a comonomer which enables correspondingly modified probe molecules to be covalently coupled via linker groups. The hydrogel includes, in addition to the monomeric precursor of the polyacrylamide, a crosslinker, at least one free radical initiator, at least one comonomer with reactive linker groups and, where appropriate, at least one plasticizer.</p>
+<p id="p-0041" num="0044">After preparing the layer and subsequent thermal or photocrosslinking, a water-swellable hydrogel is obtained which contains reactive linker groups for the immobilization of probe molecules. Crosslinkers which are employed are methylenebisacrylamide and/or dimethylacrylic esters, for example tetraethylene glycol dimethacrylate.</p>
+<p id="p-0042" num="0045">The mesh size of the hydrogel can be adjusted by varying the concentrations of the crosslinker. The comonomer used contains maleic anhydride and/or glycidyl (meth)acrylate. Suitable plasticizers are mono-, di- and/or triethylene glycol. The reactants mentioned are mixed with a polar, water-miscible solvent, preferably with dimethylformamide. The processing viscosity can be adjusted by varying the proportion of the solvent. Adhesion to the surface of the flat carrier and to the electrode arrangement <b>5</b> can be enhanced by adding customary adhesion promoters, for example based on silane.</p>
+<p id="p-0043" num="0046"><figref idref="DRAWINGS">FIGS. 4 and 5</figref> depict a four-pole electrode arrangement <b>20</b>. The electrode arrangement <b>20</b> is composed of two current electrodes <b>22</b>, <b>23</b> and two voltage or probe electrodes <b>24</b>, <b>25</b>. The current electrodes <b>22</b>, <b>23</b> are arranged and designed according to the electrode arrangement <b>5</b> of the exemplary embodiment of <figref idref="DRAWINGS">FIG. 2</figref>. The probe electrodes <b>24</b>, <b>25</b> are likewise strip-like and extend in the form of a meandering double strand through the spaces between the partial electrodes <b>22</b><i>a </i>and <b>23</b><i>a. </i></p>
+<p id="p-0044" num="0047">A high-frequency alternating current is applied to the current electrodes <b>22</b>, <b>23</b>. A voltage meter <b>26</b> which enables a change in the electric alternating field as a result of hybridization events to be detected is connected to the probe electrodes <b>24</b>, <b>25</b>. The measurement can thus be carried out independently of the current electrodes so that, for example, the polarization of the latter, which increases the capacitance of the electrodes, cannot affect the measurement.</p>
+<p id="p-0045" num="0048">In contrast, in the case of a two-pole electrode arrangement, electrode capacitance has to be kept low by use of a correspondingly high measuring frequency unsuitable for the measurement. This is done in order to be able to determine the resistance of the analyte solution or of the reaction layer, which is decisive for the measurement.</p>
+<p id="p-0046" num="0049">In a variant of the method, depicted diagrammatically in <figref idref="DRAWINGS">FIG. 6</figref> (for this and for <figref idref="DRAWINGS">FIGS. 8 to 10</figref>, see the figure legend indicated further below), an analysis solution <b>18</b> which contains a DNA fragment F<sub>A </sub>with a target sequence Z<sub>A</sub>, an external primer pair and the reagents required for a PCR, such as a Taq (DNA) polymerase, dNTPs (deoxynucleoside triphosphate) etc., is applied to a microchip <b>1</b>. The target sequence Z<sub>A </sub>is one which can occur in a plurality of different variants, for example typing of viruses, e.g. HIV or HPV.</p>
+<p id="p-0047" num="0050">Each possible variant (Z<sub>A1</sub>, Z<sub>A2</sub>, etc.) has at least one separate spot <b>4</b>A<b>1</b>, <b>4</b>A<b>2</b> etc. assigned to it, with a single oligonucleotide type which can hybridize with a specific target sequence being immobilized as probe molecule within the reaction layer <b>14</b> of the particular spot. Amplification (PCR) of the target sequence Z<sub>A</sub>, which is carried out in the usual way using a thermocycling process, takes place only in the mobile phase <b>18</b>.</p>
+<p id="p-0048" num="0051">Preference is given to using a primer pair which couples (hybridizes) outside the target sequence Z<sub>A</sub>, as indicated in <figref idref="DRAWINGS">FIG. 7</figref>. The copied double strand, i.e. strand S<sup>+</sup> and counterstrand S<sup>&#x2212;</sup>, detach from one another during denaturation (melting). Normally, the strand S<sup>+</sup> (sense strand) is used for identifying a target sequence. Accordingly, oligonucleotides which hybridize exactly with this strand are immobilized in the spots <b>4</b>A<b>1</b>, <b>4</b>A<b>2</b>. In the simplest case of the presence of only one DNA fragment Z<sub>A1</sub>, the amplified target sequence Z<sub>A1 </sub>accumulates due to hybridization in that spot in which the correspondingly complementary capture oligonucleotide Z<sub>A1 </sub>is immobilized.</p>
+<p id="p-0049" num="0052">In the method variant indicated in <figref idref="DRAWINGS">FIG. 8</figref>, the analyte solution <b>18</b> contains various types of DNA fragments. Two of those DNA fragments, F<sub>A </sub>and F<sub>B</sub>, are shown by way of example. One or all of the DNA fragment/s present in the analyte solution <b>18</b> may be those according to the method variant of <figref idref="DRAWINGS">FIG. 6</figref>.</p>
+<p id="p-0050" num="0053">In this case, different groups of spots are to be provided, with typing of the variants of one DNA fragment being assigned to each group. However, the analytical investigation may also aim at &#x201c;completely&#x201d; different DNA fragments. In this case, it is sufficient in principle to assign in each case a single analysis spot <b>4</b>A, <b>4</b>B to a DNA fragment F<sub>A</sub>, F<sub>B</sub>. As in the method variant of <figref idref="DRAWINGS">FIG. 6</figref> too, the analyte solution <b>18</b> here contains an external primer pair. The latter is selected so as to be suitable for the amplification of all DNA fragments F<sub>A</sub>, F<sub>B </sub>to be analyzed (multiplex PCR).</p>
+<p id="p-0051" num="0054">The capture oligonucleotides indicated in <figref idref="DRAWINGS">FIG. 6</figref> and <figref idref="DRAWINGS">FIG. 8</figref> may act as primers in further method variants, if they can be extended by DNA polymerases. If the reaction layer <b>18</b> is permeable for DNA polymerase and the template/s and the further components of the PCR reaction, elongation of the immobilized oligonucleotides takes place according to the sequence of the hybridized matrix.</p>
+<p id="p-0052" num="0055">In the method variant indicated in <figref idref="DRAWINGS">FIG. 9</figref>, a plurality of different DNA fragments according to the method variants of <figref idref="DRAWINGS">FIG. 6</figref> or of <figref idref="DRAWINGS">FIG. 8</figref> are present. Two of such DNA fragments, F<sub>A </sub>and F<sub>B</sub>, are shown by way of example.</p>
+<p id="p-0053" num="0056">While in the method variants described above a primer pair was added to the analyte solution, now the solution contains only one primer of said primer pair in a mobile and dissolved form. This primer is unspecific, i.e. it is an external primer which couples to all DNA fragments F<sub>A </sub>and F<sub>B </sub>present in the analyte solution outside the target sequence Z<sub>A </sub>and Z<sub>B </sub>to be detected (preferably to the sense strand).</p>
+<p id="p-0054" num="0057">After denaturing of the analyte solution, the DNA single strands diffuse arbitrarily into the spots. Specific oligonucleotide capture molecules which bind directly upstream of the target sequence of the analyte DNA are immobilized in these spots. A hybridization takes place only where the analyte DNA hits complementary immobilized oligonucleotides (capture molecules).</p>
+<p id="p-0055" num="0058">In the subsequent elongation step of the PCR, the 5&#x2032; end of the capture oligonucleotides which have previously captured (bound) selectively the DNA fragments to be detected is extended according to the information of the hybridized template. The capture molecule thus becomes the primer for the DNA polymerase reaction. The latter indicates that elongation can occur only in a microspot which also contains the capture molecule complementary to the target sequence.</p>
+<p id="p-0056" num="0059">In the case of the diagram in <figref idref="DRAWINGS">FIG. 9</figref>, strand S<sup>+</sup> of the DNA fragment F<sub>A </sub>in spot <b>4</b>A and strand S<sup>+</sup> of the DNA fragment F<sub>B </sub>in spot <b>4</b>B are copied by way of elongation of the particular immobilized primer/capture molecule. In the reannealing reaction following the particular amplification step and the melting, the target sequences which were originally present and those which have been produced in the solution anew accumulate on complementary capture molecules or sequences.</p>
+<p id="p-0057" num="0060">Owing to the increase in the concentration of the target sequence due to the preceding PCR cycle, these sequences will also bind to capture oligonucleotides which have not yet been extended and are present in their original form. Thus, the next PCR elongation step will start from these primers which have been produced de novo by the hybridization. This results in an increase in the concentration of extended capture molecules with each PCR cycle. This increase in the concentration of capture molecules/primer extended by about 100-300 bases (compared to 20-30 bases originally) causes a change in the electrical field or resistance, which may be measured with the aid of the electrode arrangement <b>5</b> or <b>20</b> and utilized for PCR monitoring (on-line PCR).</p>
+<p id="p-0058" num="0061">In the method variant of <figref idref="DRAWINGS">FIG. 10</figref>, the analyte solution <b>18</b> contains one or more DNA fragment species according to the method variants of <figref idref="DRAWINGS">FIG. 6</figref> or <figref idref="DRAWINGS">FIG. 8</figref>. While in the variants of <figref idref="DRAWINGS">FIG. 6</figref> and <figref idref="DRAWINGS">FIG. 8</figref> primer pairs and in the variant of <figref idref="DRAWINGS">FIG. 9</figref> only one primer of the primer pair/primer pairs were added to the analyte solution, the solution here does not contain any dissolved free primers. The elongation reactions here take place in the individual microspots <b>4</b>A, <b>4</b>B, etc.</p>
+<p id="p-0059" num="0062">In contrast to all other method variants, here (<figref idref="DRAWINGS">FIG. 10</figref>) both capture molecules of the capture molecule pair which are needed for the specific detection of the two DNA strands of the target sequence are immobilized in each case in the same gel spot, i.e. an immobilized internal capture molecule/primer pair which hybridizes to a target sequence is present. After melting (denaturing) of the sample, the DNA single strands diffuse randomly into the spots. The strand S<sub>A</sub><sup>+</sup> or S<sub>A</sub><sup>&#x2212;</sup> hybridizes with its 5&#x2032; or 3&#x2032; end to the complementary primer of the primer pair in spot <b>4</b>A.</p>
+<p id="p-0060" num="0063">According to <figref idref="DRAWINGS">FIG. 10</figref>, the S<sup>+</sup> strand of the DNA fragment F<sub>A </sub>binds to a primer indicated by A<sup>+</sup> and the S<sup>&#x2212;</sup> strand of the DNA fragment F<sub>A </sub>binds to a primer indicated by A<sup>&#x2212;</sup>, in each case at spot <b>4</b>A. Subsequently, an antiparallel strand S<sup>&#x2212;</sup> or S<sup>+</sup> is formed which is then likewise immobilized, since it has been synthesized by way of elongation of the immobilized primer A<sup>+</sup> or A<sup>&#x2212;</sup>.</p>
+<p id="p-0061" num="0064">In contrast to this, the 3&#x2032; end of the elongated strand S<sup>&#x2212;</sup> or S<sup>+</sup> moves freely and can hybridize with a counterprimer A<sup>&#x2212;</sup> or A<sup>+</sup> immobilized in its proximity in the reaction layer. From this, the following amplification step results in an S<sup>+</sup> or S<sup>&#x2212;</sup> strand which is likewise immobilized since it was formed by way of elongation of the immobilized primer A<sup>+</sup> or A<sup>&#x2212;</sup>.</p>
+<p id="p-0062" num="0065">The increase in the concentration of appropriately extended capture molecules, which occurs in each PCR cycle, causes, as has been described already further above, a change in the electric field or resistance. This may be utilized with the aid of the electrode arrangement <b>5</b> or <b>20</b> for PCR monitoring, thus making online PCR possible.</p>
+<p id="p-0063" num="0066">The novel method for amplification and detection of nucleotide sequences, which has been described in detail above, uses a biochip as described in the alternatives as a two-pole or four-pole arrangement in <figref idref="DRAWINGS">FIGS. 2 and 4</figref>.</p>
+<p id="p-0064" num="0067">It is apparent, especially from <figref idref="DRAWINGS">FIGS. 2 and 4</figref>, that the biochip suitable for the method described, including the reaction layer arranged thereupon and the analyte solution in contact therewith, is arranged in a housing depicted as a frame in said figures. According to <figref idref="DRAWINGS">FIGS. 6</figref> and also <b>8</b> to <b>10</b>, the housing is open at the side so that the analyte solution can flow through past the reaction layer.</p>
+<p id="p-0065" num="0068">Legend of the symbols in the above description and the figures:</p>
+<p id="h-0006" num="0000">&#x2191;=primer, in solution</p>
+<p id="h-0007" num="0000">x=unspecific</p>
+<p id="h-0008" num="0000">A,B=relating to a particular DNA fragment</p>
+<p id="h-0009" num="0000">&#x22a5;=immobilized oligonucleotide, without primer function</p>
+<p id="h-0010" num="0000">&#x25a1;=immobilized primer</p>
+<p id="h-0011" num="0000">F=DNA fragment</p>
+<p id="h-0012" num="0000">S=single strand of a DNA fragment</p>
+<p id="h-0013" num="0000"><sup>+</sup>/<sup>&#x2212;</sup>=relating to a coding/noncoding strand</p>
+<p id="p-0066" num="0069">Example embodiments of the present invention being thus described, it will be obvious that the same may be varied in many ways. Such variations are not to be regarded as a departure from the spirit and scope of the present invention, and all such modifications are intended to be included within the scope of the present invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method for PCR amplification and detection of nucleotide sequences, comprising:
+<claim-text>using a hydrophilic reaction layer having coupling groups for covalent binding of probe molecules and an array of a plurality of microspots forming analytical positions, said microspots including, as probe molecules, at least one immobilized oligonucleotide which is hybridizable with a target sequence to be identified of a DNA fragment;</claim-text>
+<claim-text>applying an analyte solution including PCR reagents and a plurality of target sequences to the microspots such that the analyte solution completely covers the array;</claim-text>
+<claim-text>subjecting the array to a thermocycling process to amplify the target sequences; and</claim-text>
+<claim-text>detecting hybridization events on the probe molecules immobilized at one of the analytical positions electrochemically with the aid of a microelectrode arrangement wherein detected nucleotide sequences alter impedance of the microelectrode arrangement and a label is excluded from the detected nucleotide sequences.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the reaction layer used is a hydrogel.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a free-radically crosslinkable hydrogel based on at least one of acrylamide with maleic anhydride and glycidyl (meth)acrylate as coupling groups is used.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a biochip including a semiconductor layer and an insulating layer connected therewith is used, wherein the electrode arrangement and the reaction layer are carried on a side of the insulating layer, which faces away from the semiconductor layer.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method as claimed in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the semiconductor layer used is a silicon layer.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the analyte solution includes an external primer pair.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the analyte solution includes a plurality of DNA fragments having a different target sequence and a single external primer pair suitable for the amplification of all of the target sequences.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein subjecting the array to the thermocycling process includes elongating a counter strand within the reaction layer with the aid of an internal primer immobilized in the reaction layer, wherein the analyte solution includes an external primer acting together with one strand of the DNA fragment.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the analyte solution includes an internal primer pair which specifically hybridizes with one of the target sequences, the internal primer pair being immobilized in one of the microspots.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the analyte solution includes a primer pair which hybridizes with a target DNA outside of the target sequences.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein subjecting the array to the thermocycling process includes elongating a counter strand of the DNA fragment within the reaction layer with the aid of a primer which specifically hybridizes with one of the target sequences in the analyte solution, the analyte solution including an external primer acting together with one strand of the DNA fragment.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein each electrode of the microelectrode arrangement has a width of 1-&#x3bc;m to 10-&#x3bc;m and a height of 100-nm to 500-nm.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the reaction layer has a thickness of 5-&#x3bc;m to 10-&#x3bc;m.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

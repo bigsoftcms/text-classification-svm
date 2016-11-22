@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640778-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640778</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12271439</doc-number>
+<date>20081114</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2002-177143</doc-number>
+<date>20020618</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>JP</country>
+<doc-number>2002-177145</doc-number>
+<date>20020618</date>
+</priority-claim>
+<priority-claim sequence="03" kind="national">
+<country>JP</country>
+<doc-number>2002-177149</doc-number>
+<date>20020618</date>
+</priority-claim>
+<priority-claim sequence="04" kind="national">
+<country>JP</country>
+<doc-number>2002-177150</doc-number>
+<date>20020618</date>
+</priority-claim>
+<priority-claim sequence="05" kind="national">
+<country>JP</country>
+<doc-number>2003-145372</doc-number>
+<date>20030522</date>
+</priority-claim>
+<priority-claim sequence="06" kind="national">
+<country>JP</country>
+<doc-number>2003-145374</doc-number>
+<date>20030522</date>
+</priority-claim>
+<priority-claim sequence="07" kind="national">
+<country>JP</country>
+<doc-number>2003-145377</doc-number>
+<date>20030522</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>30</class>
+<subclass>B</subclass>
+<main-group>15</main-group>
+<subgroup>14</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>9</main-group>
+<subgroup>08</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>21</class>
+<subclass>J</subclass>
+<main-group>9</main-group>
+<subgroup>18</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 724525</main-classification>
+<further-classification> 72443</further-classification>
+<further-classification> 72449</further-classification>
+<further-classification> 83548</further-classification>
+<further-classification> 83629</further-classification>
+<further-classification> 74 25</further-classification>
+<further-classification> 74 49</further-classification>
+<further-classification> 744245</further-classification>
+<further-classification> 744901</further-classification>
+<further-classification> 7449007</further-classification>
+<further-classification>100 48</further-classification>
+<further-classification>100 98 R</further-classification>
+<further-classification>100273</further-classification>
+<further-classification>100282</further-classification>
+<further-classification>100292</further-classification>
+</classification-national>
+<invention-title id="d0e169">Servo drive system and continuous working system of press machine</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2771790</doc-number>
+<kind>A</kind>
+<name>Munschauer</name>
+<date>19561100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5012661</doc-number>
+<kind>A</kind>
+<name>Catti et al.</name>
+<date>19910500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5299443</doc-number>
+<kind>A</kind>
+<name>Nakamura</name>
+<date>19940400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5468194</doc-number>
+<kind>A</kind>
+<name>Hayashi</name>
+<date>19951100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5669257</doc-number>
+<kind>A</kind>
+<name>Inoue et al.</name>
+<date>19970900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5832816</doc-number>
+<kind>A</kind>
+<name>Seto et al.</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5952755</doc-number>
+<kind>A</kind>
+<name>Lubas</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5953972</doc-number>
+<kind>A</kind>
+<name>Nakagawa</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>7102316</doc-number>
+<kind>B2</kind>
+<name>Beyer et al.</name>
+<date>20060900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>7234337</doc-number>
+<kind>B2</kind>
+<name>Nagae</name>
+<date>20070600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>7475584</doc-number>
+<kind>B2</kind>
+<name>Naito et al.</name>
+<date>20090100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 72443</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>DE</country>
+<doc-number>19548439</doc-number>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>DE</country>
+<doc-number>19810406</doc-number>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>EP</country>
+<doc-number>0827790</doc-number>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>EP</country>
+<doc-number>0866540</doc-number>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>EP</country>
+<doc-number>0941832</doc-number>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>JP</country>
+<doc-number>54-105716</doc-number>
+<date>19790800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>JP</country>
+<doc-number>8-47279</doc-number>
+<date>19960200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>JP</country>
+<doc-number>8-108229</doc-number>
+<date>19960400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>JP</country>
+<doc-number>8-215896</doc-number>
+<date>19960800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>JP</country>
+<doc-number>10-327548</doc-number>
+<date>19981200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>JP</country>
+<doc-number>10-328891</doc-number>
+<date>19981200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>JP</country>
+<doc-number>2000-176698</doc-number>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>JP</country>
+<doc-number>2000-288792</doc-number>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>JP</country>
+<doc-number>2000-358382</doc-number>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>JP</country>
+<doc-number>2001-62591</doc-number>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>JP</country>
+<doc-number>2001-062596</doc-number>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>JP</country>
+<doc-number>2001-276467</doc-number>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>JP</country>
+<doc-number>2002-210600</doc-number>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00030">
+<othercit>English language Abstract of DE 19548439.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00031">
+<othercit>English language Abstract of DE 19810406 A1.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00032">
+<othercit>English Language Abstract of JP54-105716.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00033">
+<othercit>English language Abstract of JP 8-47279.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00034">
+<othercit>English Language Abstract of JP08-108229.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00035">
+<othercit>English Language Abstract of JP08-215896.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00036">
+<othercit>English language Abstract of JP 10-328891.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00037">
+<othercit>English language Abstract of JP 2000-176698.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00038">
+<othercit>English Language Abstract of JP2000-288792.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00039">
+<othercit>English language Abstract of JP 2000-358382.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00040">
+<othercit>English Language Abstract of JP2001-062591.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00041">
+<othercit>English Language Abstract of JP 2001-062596.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00042">
+<othercit>English Language Abstract of JP2001-276467.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00043">
+<othercit>English Language Abstract of JP 2002-210600.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00044">
+<othercit>U.S. Appl. No. 12/271,368 to Naito et al., which was filed Nov. 14, 2008.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>4</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 72443</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 72449</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 72450</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 724525</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 83548</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 83628</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 83629</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 74 25</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 74 49</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 744245</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 744901</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 7449007</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 74665 B</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>100 48</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>100 98 R</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>100273</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>100280</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>100282</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>100292</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>16</number-of-drawing-sheets>
+<number-of-figures>22</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>10517317</doc-number>
+<kind>00</kind>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7475584</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+<parent-pct-document>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP03/07675</doc-number>
+<date>20030617</date>
+</document-id>
+</parent-pct-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12271439</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090064839</doc-number>
+<kind>A1</kind>
+<date>20090312</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Naito</last-name>
+<first-name>Kinshiro</first-name>
+<address>
+<city>Kanagawa</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Sekiyama</last-name>
+<first-name>Tokuzo</first-name>
+<address>
+<city>Gunma</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Otake</last-name>
+<first-name>Toshiaki</first-name>
+<address>
+<city>Kanagawa</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kuriyama</last-name>
+<first-name>Haruhiko</first-name>
+<address>
+<city>Kanagawa</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Greenblum &#x26; Bernstein P.L.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Amada Company, Limited</orgname>
+<role>03</role>
+<address>
+<city>Kanagawa</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Jones</last-name>
+<first-name>David B</first-name>
+<department>3725</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A servo drive system of a press machine includes a ram, an operation shaft which vertically moves the ram, and a servo motor which operates as a power source of the ram and which generates ram pressure using a torque based on at least one speed-torque characteristic of the servo motor. The operation shaft is directly driven using the servo motor. The at least one speed-torque characteristic of the servo motor is set in a manner such that a motor torque of the servo motor at which a capacity of electric energy supplied by a servo amplifier is determined becomes the motor torque at which an optimal punching pattern of the ram is generated from a light load to a heavy load according to a type of workpiece to be worked by the press machine.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="176.45mm" wi="246.55mm" file="US07640778-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="197.10mm" wi="166.29mm" file="US07640778-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="182.37mm" wi="135.47mm" file="US07640778-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="218.78mm" wi="154.52mm" orientation="landscape" file="US07640778-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="210.14mm" wi="123.36mm" file="US07640778-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="141.31mm" wi="146.90mm" file="US07640778-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="141.56mm" wi="127.68mm" file="US07640778-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="211.50mm" wi="132.42mm" file="US07640778-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="148.00mm" wi="135.04mm" file="US07640778-20100105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="210.57mm" wi="134.11mm" file="US07640778-20100105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="149.35mm" wi="144.10mm" file="US07640778-20100105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="208.45mm" wi="138.01mm" file="US07640778-20100105-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="151.98mm" wi="138.01mm" file="US07640778-20100105-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="202.78mm" wi="150.71mm" file="US07640778-20100105-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="197.95mm" wi="170.18mm" file="US07640778-20100105-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="182.80mm" wi="141.56mm" file="US07640778-20100105-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="219.03mm" wi="150.28mm" orientation="landscape" file="US07640778-20100105-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This application is a continuation of pending U.S. patent application Ser. No. 10/517,317, filed Dec. 17, 2004, which is a National Stage of PCT/JP03/07675, filed Jun. 17, 2003, the disclosures of which are expressly incorporated herein by reference in its entirety.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">The present invention relates to a servo drive system of a press machine applied to a turret punch press, and more particularly, to a continuous working system of a press machine applied to a turret punch press.</p>
+<heading id="h-0003" level="1">BACKGROUND ART</heading>
+<p id="p-0004" num="0003">Conventionally, there are electric punch presses using a servo motor as a driving source of a ram. In punching working of a press machine such as a punch press, since extremely large noise is generated during the working, it is required to decrease this kind of noise as small as possible.</p>
+<p id="p-0005" num="0004">Principles of generation of noise in the punching working are complicated, and reasons of generation of noise are varied depending upon various conditions such as the material of the work, the plate thickness, and the like. However, it is known that the noise is large when the punching speed by driving of a ram is fast, the noise becomes smaller when the punching speed becomes slower, and when the punching speed is constant, the noise is small when the load is light, and as the load becomes heavier, the noise becomes larger.</p>
+<p id="p-0006" num="0005">The above conventional technique is disclosed in Japanese Patent Applications Laid-Open Nos. 2001-62591 and 2001-62596.</p>
+<p id="p-0007" num="0006">However, the conventional electric punch press generates a torque necessary for working by using a mechanism such as a toggle and a flywheel. Therefore, the inertia caused by this mechanism delays the reciprocating motion of the ram. In addition, an operation shaft which vertically moves the ram and a main shaft of a servo motor is driven through a power transmission mechanism such as a gear, and a loss or a delay is generated by the power transmission mechanism. Even if the speed of the servo motor is controlled, the driving speed of the ram can not follow the speed of the servo motor easily, and therefore the conventional technique is not suitable for controlling the speed of the ram.</p>
+<p id="p-0008" num="0007">For this reason, the conventional technique has problems that since the punching speed is set substantially at a constant value irrespective of the weight of the load, if the punching speed is set lower to decrease the noise, the operation efficiency is largely deteriorated, and if the punching speed is set higher to enhance the operation efficiency, a large noise is generated and thus, reduction of noise and enhancement of operation efficiency can not be satisfied at the same time.</p>
+<p id="p-0009" num="0008">According to the conventional system, a predetermined punching pattern is switched in a hydraulic press system depending upon the plate thickness, material, and the like to satisfy both the noise reduction and increase of punching speed. Therefore, complicated control systems such as high-speed processing hardware and software are required.</p>
+<p id="p-0010" num="0009">Generally, there are a hydraulic punch press using hydraulic pressure as the driving source of the ram and an electric punch press using a servo motor. In the punch press, the same punching die such as a nibble is used and a work is continuously punched in some cases. In such a continuous punching working, a speedup of the ram is required.</p>
+<p id="p-0011" num="0010">In the conventional hydraulic punch press, however, since the ram is reciprocated using a hydraulic pressure and a switching valve, response speed is inferior to that of the electric control, and a response delay to the control command is generated and thus, the conventional hydraulic punch press is not suitable for speedup of the ram.</p>
+<p id="p-0012" num="0011">Further, the conventional technique has problems that since the punching speed is set substantially at a constant value irrespective of the weight of the load, if the punching speed is set lower to decrease the noise, the operation efficiency is largely deteriorated, and if the punching speed is set higher to enhance the operation efficiency, a large noise is generated and thus, reduction of noise and enhancement of operation efficiency can not be satisfied at the same time.</p>
+<p id="p-0013" num="0012">It is assumed herein to drive the operation shaft which vertically moves the ram, directly by the servo motor without through a power transmission mechanism such as a gear and without using a mechanism such as a toggle and a flywheel. If the operation shaft is driven directly by the servo motor, there is a possibility that the punching speed can automatically be increased or decreased according to the load, and with this, there is a possibility that both the noise reduction and the enhancement of operation efficiency can be satisfied at the same time.</p>
+<p id="p-0014" num="0013">If a case where a mechanism such as a toggle and a flywheel is used for generating a torque necessary for the working and a case where the mechanism is not used (direct driving by the servo motor) are compared with each other, in the punching working using the punch press, since a large punching energy is required at the time of the punching working in addition to the kinetic energy for vertically moving the ram at high speed, a servo motor having a greater rating is required in the direct driving.</p>
+<p id="p-0015" num="0014">In order to drive the operation shaft which vertically moves the ram directly by the servo motor, it is necessary to supply, to the servo motor, electric energy for high speed operation and for punching working, and a peak electricity of a control circuit for the servo motor becomes extremely high.</p>
+<p id="p-0016" num="0015">The present invention has been achieved in order to solve the conventional problems, and it is a first object of the present invention to eliminate the conventional problems, and to provide a servo drive system of a press machine which can decrease a noise by automatically increasing and decreasing the punching speed according to a load without using a mechanism such as a toggle and a flywheel, and without using a power transmission mechanism such as a gear, and which can prevent mechanical portions corresponding to one side of the operation shaft from being distorted, and realize stabilized operation.</p>
+<p id="p-0017" num="0016">It is a second object of the present invention to eliminate the conventional problems, and to provide a servo drive system of a press machine which can decrease a noise and enhance the operation efficiency at the same time by automatically increasing and decreasing the punching speed according to a load.</p>
+<p id="p-0018" num="0017">It is a third object of the present invention to eliminate the conventional problems, and to provide a continuous working system of a press machine in which transmission of a driving force is not delayed in principle, control delay is not generated, responding speed is high, and operation speed is high, while using a servo motor as a driving source of a ram without using a mechanism such as a toggle and a flywheel and a power transmission mechanism such as a gear.</p>
+<p id="p-0019" num="0018">It is a fourth object of the present invention to eliminate the conventional problems, and to provide a servo drive system of a punch press which can decrease a noise and enhance the operation efficiency at the same time by automatically increasing and decreasing the punching speed according to a load, and reduce a peak electricity of a control circuit for the servo motor.</p>
+<heading id="h-0004" level="1">DISCLOSURE OF THE INVENTION</heading>
+<p id="p-0020" num="0019">To achieve the first object, a first aspect of the present invention provides a servo drive system of a press machine including: a ram; an operation shaft which vertically moves the ram; and a pair of servo motors which operate as power sources of the ram and which composite and use torques based on the same speed-torque characteristics, thereby generating necessary ram pressure, wherein the pair of servo motors are formed symmetrically with each other in a mirror image manner, the pair of servo motors are opposed to each other at opposite ends of the operation shaft, and the pair of servo motors are operated integrally so that the pair of servo motors directly drive the operation shaft to vertically move the ram.</p>
+<p id="p-0021" num="0020">A second aspect of the present invention provides the servo drive system according to the first aspect, wherein a power unit of a servo amplifier of one of the pair of servo motors and a power unit of a servo amplifier of the other of the pair of servo motor are driven by the same gate signal, thereby integrally operating both the servo motors.</p>
+<p id="p-0022" num="0021">A third aspect of the present invention provides the servo drive system according to the first or the second aspect, wherein the pair of servo motors use a torque based on speed-torque characteristics of a motor, and if a load is received from a work during a lowering operation of the ram to generate necessary ram pressure without utilizing inertia of a mechanism, speeds of both the servo motors are reduced according to the load, thereby reducing the lowering speed of the ram.</p>
+<p id="p-0023" num="0022">A fourth aspect of the present invention provides the servo drive system according to any one of the first to the third aspects, wherein the operation shaft which vertically moves the ram comprises an eccentric shaft, and the eccentric shaft of the servo motor is formed as a motor main shaft.</p>
+<p id="p-0024" num="0023">A fifth aspect of the present invention provides the servo drive system according to any one of the first to the fourth aspects, wherein sleeves each provided at its outer periphery with an even number of magnetic pole magnets along a circumferential direction thereof at predetermined distances from one another are fitted over peripheries of left and right end extensions of the eccentric shaft, thereby forming rotors of the pair of servo motors, magnetic pole positions (positions of the magnetic pole magnets in the circumferential direction) of the left and right sleeves are positioned such that the sleeves are symmetric with each other in a mirror image manner and the sleeves are fixed by bushes, stators of the pair of servo motors have outer cylinders around which three-phase armature windings are wound, and the outer cylinders are respectively fitted over the rotors, and the left and right outer cylinders are positioned such that positions of the three-phase armature windings of the outer cylinders in the circumferential direction are symmetric with each other in a mirror image manner, and the outer cylinders are fixed to left and right supporting frames of the eccentric shaft.</p>
+<p id="p-0025" num="0024">According to the servo drive system of the first to the fifth aspects, since the operation shaft is directly driven by using the pair of servo motors which can generate necessary ram pressure, a mechanism such as a toggle and a flywheel as well as a power transmission mechanism such as a gear are not used and thus, the punching speed can automatically be increased or reduced according to the load.</p>
+<p id="p-0026" num="0025">Further, a noise can be reduced, a distortion is prevented from being generated in various portions of the machine corresponding to one side of the operation shaft, and stable operation can be realized.</p>
+<p id="p-0027" num="0026">To achieve the second object, a sixth aspect of the present invention provides a servo drive system of a press machine which uses a servo motor as a driving source of a ram, wherein the servo motor uses a torque based on speed-torque characteristics of a motor, necessary ram pressure can be generated without utilizing inertia of a mechanism, the system employs the servo motor in which if a load is received from a work during a lowering operation of the ram, motor speed is reduced according to the load, thereby reducing the lowering speed of the ram, and the servo motor directly drives an operation shaft which vertically moves the ram.</p>
+<p id="p-0028" num="0027">A seventh aspect of the present invention provides a servo drive system of a press machine which uses a pair of servo motors as driving sources of a ram, wherein the pair of servo motors are opposed to each other at opposite ends of an operation shaft which vertically moves a ram, the servo motors composite and use torques based on the same speed-torque characteristics, the system employs the pair of servo motors in which if a load is received from a work during a lowering operation of the ram, motor speed is reduced according to the load, thereby reducing the lowering speed of the ram, and the pair of servo motors are integrally operated, thereby directly driving the operation shaft.</p>
+<p id="p-0029" num="0028">An eighth aspect of the present invention provides the servo drive system according to the sixth or the seventh aspect, wherein the operation shaft which vertically moves the ram comprises an eccentric shaft, and the eccentric shaft of the servo motor is formed as a motor main shaft.</p>
+<p id="p-0030" num="0029">According to the servo drive system of the sixth to the eighth aspects, the system employs the servo motor in which if a load is received from a work during a lowering operation of the ram, the lowering speed of the ram is reduced, and the operation shaft which vertically moves the ram is directly driven. Therefore, the punching speed can automatically be increased or reduced according to the load. With this, the noise can be reduced and the operation efficiency can be enhanced at the same time.</p>
+<p id="p-0031" num="0030">To achieve the third object, a ninth aspect of the present invention provides a continuous working system of a press machine which uses a servo motor as a power source of a ram, wherein an operation shaft which vertically moves the ram is directly driven by using a servo motor which can generate necessary ram pressure by using a torque based on speed-torque characteristics of a motor, and the operation shaft is continuously reciprocated and turned through an angle range corresponding to a distance between a predetermined lower end position required for press working and a position where the ram is returned from the lower end position and a lower end of the ram is separated from a tool upper surface such that the ram vertically moves between these positions by the servo motor, thereby subjecting a work to a continuous press working.</p>
+<p id="p-0032" num="0031">A tenth aspect of the present invention provides a continuous working system of a press machine which uses a pair of servo motors as power sources of a ram, wherein the pair of servo motors are disposed opposed to each other at opposite ends of an operation shaft which vertically moves the ram, the servo motors composite and use a torque based on the same speed-torque characteristics so that the servo motors can generate necessary ram pressure and the operation shaft which vertically moves the ram is directly driven by using the servo motors, and the operation shaft is continuously reciprocated and turned through an angle range corresponding to a distance between a predetermined lower end position required for press working by the ram and a position where the ram is returned from the lower end position and a lower end of the ram is separated from a tool upper surface such that the ram vertically moves between these positions by the pair of servo motors, thereby subjecting a work to a continuous press working.</p>
+<p id="p-0033" num="0032">An eleventh aspect of the present invention provides the continuous working system of the press machine according to the ninth or the tenth aspect, wherein the servo motor uses a torque based on the speed-torque characteristics of the motor, and the servo motor can generate necessary ram pressure without utilizing inertia of a mechanism.</p>
+<p id="p-0034" num="0033">A twelfth aspect of the present invention provides the continuous working system of the press machine according to the ninth or the tenth aspect, wherein the operation shaft which vertically moves the ram comprises an eccentric shaft, and the eccentric shaft of the servo motor is formed as a motor main shaft.</p>
+<p id="p-0035" num="0034">According to the continuous working system of the ninth to the twelfth aspects, the operation shaft is reciprocated and turned continuously through the angle range corresponding to the distance between both the positions of the ram by the servo motor, thereby subjecting the work to the continuous press working. Therefore, the operation shaft which vertically moves the ram can be directly driven by the servo motor without using a mechanism such as a toggle and a flywheel or a power transmission mechanism such as a gear. Therefore, transmission of a driving force is not delayed in principle, control delay is not generated, responding speed is high, and operation speed is high.</p>
+<p id="p-0036" num="0035">To achieve the fourth object, a thirteenth aspect of the present invention provides a servo drive system of a punch press which uses a servo motor as a power source of a ram, wherein an operation shaft which vertically moves the ram is directly driven by using the servo motor which can generate necessary ram pressure by using a torque based on speed-torque characteristics of a motor, and the servo motor has a control power driver, the power driver being provided at its front stage with a reactor which suppresses peak current by cutting off high frequency current component, and a capacitor which supplies electric energy which becomes short due to suppression of the peak current.</p>
+<p id="p-0037" num="0036">A fourteenth aspect of the present invention provides the servo drive system of the press machine according to the thirteenth aspect, wherein the capacitor supplies high speed operation electric energy and/or punching out electric energy which become short due to suppression of the peak current.</p>
+<p id="p-0038" num="0037">According to the servo drive system of the thirteenth and the fourteenth aspects, the servo motor has the control power driver, the power driver being provided at its front stage with the reactor which suppresses peak current by cutting off high frequency current component, and the capacitor which supplies electric energy which becomes short due to suppression of the peak current. Therefore, it is possible to decrease a noise and to enhance the operation efficiency at the same time by automatically increasing and decreasing the punching speed according to a load, and it is possible to reduce a peak electricity of a control circuit for the servo motor.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 1</figref> is a vertical sectional view of an essential portion showing an embodiment of a servo drive system (continuous working system) of a press machine according to the present invention;</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 2</figref> is a right side view of an essential portion shown in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 3</figref> is a connection diagram showing an example of a structure of a servo motor shown in <figref idref="DRAWINGS">FIG. 1</figref> and a servo amplifier which drives the servo motor;</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIGS. 4A</figref>, <b>4</b>B, and <b>4</b>C are explanatory views showing an operation region of an eccentric shaft portion (ram) of an eccentric shaft;</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 5</figref> is a graph showing an example of speed-torque characteristics of the servo motor;</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 6</figref> is a diagram showing actually measured data of a punching working when there is no work;</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 7A</figref> is a diagram showing feature extraction waveform data based on the actually measured data shown in <figref idref="DRAWINGS">FIG. 6</figref>;</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 7B</figref> is a diagram showing punching torque-speed characteristics based on the actually measured data shown in <figref idref="DRAWINGS">FIG. 6</figref>;</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 8</figref> is a diagram showing actually measured data of a punching working when a thin plate work is punched out using a punch having a small diameter;</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 9A</figref> is a diagram showing the feature extraction waveform data based on the actually measured data shown in <figref idref="DRAWINGS">FIG. 8</figref>;</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. 9B</figref> is a diagram showing punching torque-speed characteristics based on the actually measured data shown in <figref idref="DRAWINGS">FIG. 8</figref>;</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. 10</figref> is a diagram showing actually measured data of a punching working when a thin plate work is punched out using a punch having a large diameter;</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 11A</figref> is a diagram showing the feature extraction waveform data based on the actually measured data shown in <figref idref="DRAWINGS">FIG. 10</figref>;</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. 11B</figref> is a diagram showing the punching torque-speed characteristics based on the actually measured data shown in <figref idref="DRAWINGS">FIG. 10</figref>;</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. 12</figref> is a diagram showing actually measured data of a punching working when a thick plate work is punched out using a punch having a small diameter;</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. 13A</figref> is a diagram showing the feature extraction waveform data based on the actually measured data shown in <figref idref="DRAWINGS">FIG. 12</figref>;</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. 13B</figref> is a diagram showing the punching torque-speed characteristics based on the actually measured data shown in <figref idref="DRAWINGS">FIG. 12</figref>;</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. 14</figref> is a vertical sectional view of an essential portion showing another embodiment of the servo drive system (continuous working system) of the press machine according to the present invention;</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. 15</figref> is a right side view of an essential portion shown in <figref idref="DRAWINGS">FIG. 14</figref>; and</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. 16</figref> is a connection diagram showing an example of a structure of a servo motor shown in <figref idref="DRAWINGS">FIG. 14</figref> and a servo amplifier which drives the servo motor.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">THE BEST MODE FOR CARRYING OUT THE INVENTION</heading>
+<p id="p-0059" num="0058">Embodiments of the present invention will be explained in detail with reference to the accompanying drawings.</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. 1</figref> is a vertical sectional view of an essential portion showing an embodiment of a servo drive system (continuous working system) of a press machine according to the present invention, and <figref idref="DRAWINGS">FIG. 2</figref> is a right side view thereof. The servo drive system (continuous working system) <b>1</b> of the press machine is applied to a turret punch press <b>10</b>.</p>
+<p id="p-0061" num="0060">The turret punch press <b>10</b> has an eccentric shaft <b>20</b> which is pivotally supported by bearings <b>12</b><i>a </i>and <b>12</b><i>b </i>provided on frames <b>11</b><i>a </i>and <b>11</b><i>b </i>which stand in parallel to each other. The eccentric shaft <b>20</b> has an eccentric shaft portion <b>20</b><i>e </i>located substantially at a central portion between the frames <b>11</b><i>a </i>and <b>11</b><i>b</i>. A ram <b>22</b> is mounted on the eccentric shaft portion <b>20</b><i>e </i>through a connecting rod <b>21</b>. If the eccentric shaft <b>20</b> rotates or turns, the ram <b>22</b> is vertically moved through the connecting rod <b>21</b> along a ram guide <b>23</b>, and a striker <b>24</b> mounted on a lower end of the ram <b>22</b> is also vertically moved in unison with the ram <b>22</b>. When the ram <b>22</b> moves downward, the striker <b>24</b> pushes a punching die <b>26</b> mounted on a turret <b>25</b> to punch a work out.</p>
+<p id="p-0062" num="0061">The eccentric shaft <b>20</b> is provided at its opposite ends with extensions <b>20</b><i>a </i>and <b>20</b><i>b </i>which extend outward from the frames <b>11</b><i>a </i>and <b>11</b><i>b</i>. Servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>using the extensions <b>20</b><i>a </i>and <b>20</b><i>b </i>as motor main shafts <b>31</b><i>a </i>and <b>31</b><i>b </i>are respectively mounted on outer sides of the frames <b>11</b><i>a </i>and <b>11</b><i>b. </i></p>
+<p id="p-0063" num="0062">In the servo motor <b>30</b><i>a</i>, the extension <b>20</b><i>a </i>of the eccentric shaft <b>20</b> is constituted as the motor main shaft <b>31</b><i>a</i>. That is, a sleeve <b>33</b><i>a </i>is provided at its outer periphery with an even number (four) of magnetic pole magnets (permanent magnets) <b>32</b><i>a </i>in a circumferential direction at predetermined distances (90&#xb0;) from one another. The sleeve <b>33</b><i>a </i>is fitted around and fixed to a periphery of the extension <b>20</b><i>a </i>of the eccentric shaft <b>20</b> through a bush <b>34</b><i>a</i>, thereby constituting a rotor <b>35</b><i>a</i>. The extension <b>20</b><i>a </i>of the eccentric shaft <b>20</b> serves as a center axis of the rotor <b>35</b><i>a</i>. The extension <b>20</b><i>a </i>is the motor main shaft <b>31</b><i>a </i>itself. Therefore, the servo motor <b>30</b><i>a </i>uses the extension <b>20</b><i>a</i>, i.e., the eccentric shaft <b>20</b> substantially as the rotor <b>35</b><i>a. </i></p>
+<p id="p-0064" num="0063">In the servo motor <b>30</b><i>a</i>, an outer cylinder <b>36</b><i>a </i>around which three-phase armature windings Ua, Va, and Wa are wound is fitted over the rotor <b>35</b><i>a </i>and fixed to the frame <b>11</b><i>a</i>, thereby constituting a stator <b>37</b><i>a. </i></p>
+<p id="p-0065" num="0064">On the other hand, in the servo motor <b>30</b><i>b</i>, like the servo motor <b>30</b><i>a</i>, the extension <b>20</b><i>b </i>of the eccentric shaft <b>20</b> is constituted as the motor main shaft <b>31</b><i>b</i>. That is, a sleeve <b>33</b><i>b </i>is provided at its outer periphery with an even number (four) of magnetic pole magnets (permanent magnets) <b>32</b><i>b </i>in a circumferential direction at predetermined distances (90&#xb0;) from one another. The sleeve <b>33</b><i>b </i>is fitted around and fixed to a periphery of the extension <b>20</b><i>b </i>of the eccentric shaft <b>20</b> through a bush <b>34</b><i>b</i>, thereby constituting a rotor <b>35</b><i>b</i>. The extension <b>20</b><i>b </i>of the eccentric shaft <b>20</b> serves as a center axis of the rotor <b>35</b><i>b</i>. The extension <b>20</b><i>b </i>is the motor main shaft <b>31</b><i>b </i>itself. Therefore, the servo motor <b>30</b><i>b </i>uses the extension <b>20</b><i>b</i>, i.e., the eccentric shaft <b>20</b> substantially as the rotor <b>35</b><i>b. </i></p>
+<p id="p-0066" num="0065">In the servo motor <b>30</b><i>b</i>, an outer cylinder <b>36</b><i>b </i>around which three-phase armature windings Ub, Vb, and Wb are wound is fitted over the rotor <b>35</b><i>b </i>and fixed to the frame <b>11</b><i>b</i>, thereby constituting a stator <b>37</b><i>b. </i></p>
+<p id="p-0067" num="0066">The servo motor <b>30</b><i>a </i>and the servo motor <b>30</b><i>b </i>are the same, but they are symmetric with each other in a mirror image manner. Except this point, the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>are completely the same, and they are integrally provided with the rotors <b>35</b><i>a </i>and <b>35</b><i>b</i>. Therefore, a rotary encoder <b>38</b> which detects rotation angles of the rotors <b>35</b><i>a </i>and <b>35</b><i>b </i>is provided on one of the servo motors (e.g., <b>30</b><i>b</i>) and the rotary encoder <b>38</b> is commonly used. The servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>have the same speed-torque characteristics, and a torque based on the speed-torque characteristics is synthesized and used. With this, the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>have a function of generating necessary ram pressure.</p>
+<p id="p-0068" num="0067">That is, the magnetic pole of the rotor <b>35</b><i>a </i>of the servo motor <b>30</b><i>a </i>(position of the magnetic pole in the circumferential direction of the magnetic pole magnet <b>32</b><i>a</i>) and the magnetic pole of the rotor <b>35</b><i>b </i>of the servo motor <b>30</b><i>b </i>(position of the magnetic pole in the circumferential direction of the magnetic pole magnet <b>32</b><i>b</i>) are positioned and mounted symmetrically with each other in the mirror image manner, and the three-phase armature windings Ua, Va, and Wa of the servo motor <b>30</b><i>a </i>and the three-phase armature windings Ub, Vb, and Wb of the servo motor <b>30</b><i>b </i>are positioned and mounted symmetrically with each other in the mirror image manner in the circumferential direction.</p>
+<p id="p-0069" num="0068">Thus, as shown in <figref idref="DRAWINGS">FIG. 3</figref>, if a power driver <b>42</b><i>a </i>of a servo amplifier <b>40</b><i>a </i>which is a control circuit of the servo motor <b>30</b><i>a</i>, and a power driver <b>42</b><i>b </i>of a servo amplifier <b>40</b><i>b </i>which is a control circuit of the servo motor <b>30</b><i>b </i>are driven by the same gate signal, only three-phase alternating current having the same phase and same current values flows to the servo motor <b>30</b><i>a </i>and the servo motor <b>30</b><i>b</i>. Therefore, a torque vector of the servo motor <b>30</b><i>a </i>and a torque vector of the servo motor <b>30</b><i>b </i>have the same phase and thus, a composite torque of the servo motor <b>30</b><i>a </i>and the servo motor <b>30</b><i>b </i>becomes an exact sum of torques of the servo motors <b>30</b><i>a </i>and <b>30</b><i>b</i>. This relation is the same irrespective of whether the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>are separately formed as shown in <figref idref="DRAWINGS">FIGS. 1 and 3</figref> or the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>are integrally formed as the three-phase parallel circuit as shown in <figref idref="DRAWINGS">FIGS. 14 and 16</figref>.</p>
+<p id="p-0070" num="0069">As shown in <figref idref="DRAWINGS">FIG. 3</figref>, the servo amplifier <b>40</b><i>a </i>includes a converter <b>41</b><i>a </i>which A-D converts three-phase commercial alternating power supply, a power driver <b>42</b><i>a</i>, a reactor <b>43</b><i>a </i>which is provided on a front stage of the power driver <b>42</b><i>a </i>and which suppresses peak current by cutting off high frequency current component, and a capacitor <b>44</b><i>a </i>for storage having a large capacity. Six power transistors Q of the power driver <b>42</b><i>a </i>are driven by a gate signal so that the servo amplifier <b>40</b><i>a </i>drives the servo motor <b>30</b><i>a </i>by three-phase alternating output of the power driver <b>42</b><i>a</i>. Diodes D for flowing regenerative current generated during speed reducing period of the servo motor <b>30</b><i>a </i>are connected to the power transistors Q of the power driver <b>42</b><i>a</i>. The regenerative current flows into the capacitor <b>44</b><i>a </i>and is accumulated as regenerative electricity. The capacitor <b>44</b><i>a </i>supplies electric energy which runs short due to suppression of the peak current by the reactor <b>43</b><i>a </i>using the regenerative electricity, i.e., the capacitor <b>44</b><i>a </i>supplies high speed operation electric energy and/or punching out electric energy. The servo amplifier <b>40</b><i>b </i>has the same structure as that of the servo amplifier <b>40</b><i>a. </i></p>
+<p id="p-0071" num="0070">By such control of the servo amplifiers <b>40</b><i>a </i>and <b>40</b><i>b</i>, the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>reciprocate and turn the eccentric shaft <b>20</b> through an angle range &#x3b8; corresponding to a space between positions L and H so that the eccentric shaft portion <b>20</b><i>e </i>of the eccentric shaft <b>20</b> vertically moves between the L position corresponding to a case where the ram <b>22</b> is in a predetermined lower end position required for punching working (see <figref idref="DRAWINGS">FIGS. 4A to 4C</figref>) and the H position corresponding to a case where the ram <b>22</b> is returned from the L position and is in an upper end position where the striker <b>24</b> at a lower end of the ram <b>22</b> is separated from an upper surface of the punching die <b>26</b>. With this, a work is punched.</p>
+<p id="p-0072" num="0071">As shown in <figref idref="DRAWINGS">FIG. 4A</figref>, the L position of the eccentric shaft portion <b>20</b><i>e </i>of the eccentric shaft <b>20</b> corresponding to the lower end position of the ram <b>22</b> is set to a position slightly short of and above a bottom dead center B of the entire vertically possible stroke of the ram <b>22</b> determined by an eccentric amount E (distance between an axis of the eccentric shaft <b>20</b> and an axis of the eccentric shaft portion <b>20</b><i>e</i>) of the eccentric shaft <b>20</b>. Further, the H position of the eccentric shaft portion <b>20</b><i>e </i>of the eccentric shaft <b>20</b> corresponding to the upper end position of the ram <b>22</b> is set to a position slightly below a medium height M of the entire vertically possible stroke of the ram <b>22</b>. That is, although the reciprocating turning angle range &#x3b8; of the eccentric shaft <b>20</b> depends on the stroke of the punching die <b>26</b> to be used, the angle range &#x3b8; is set to about 40&#xb0; to 60&#xb0;.</p>
+<p id="p-0073" num="0072">As shown in <figref idref="DRAWINGS">FIG. 4B</figref>, in the servo motors <b>30</b><i>a </i>and <b>30</b><i>b</i>, the eccentric shaft portion <b>20</b><i>e </i>(i.e., ram <b>22</b>) of the eccentric shaft <b>20</b> is positioned on a top dead center T when the die is to be exchanged or the turret is to be rotated. When the working is started, the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>turn the eccentric shaft portion <b>20</b><i>e </i>of the eccentric shaft <b>20</b> to the L position corresponding to the lower end position of the ram <b>22</b> from the top dead center T, thereby lowering the ram <b>22</b>, and after a first punching working is carried out, the eccentric shaft portion <b>20</b><i>e </i>is returned to the H position corresponding to the upper end position of the ram <b>22</b> where the ram <b>22</b> stands-by. In a second or subsequent punching working, the eccentric shaft portion <b>20</b><i>e </i>of the eccentric shaft <b>20</b> is turned such as to reciprocate through the reciprocating turning angle range &#x3b8; between the H position and the L position.</p>
+<p id="p-0074" num="0073">Among the entire rotating range of the eccentric shaft portion <b>20</b><i>e </i>of the eccentric shaft <b>20</b>, if a half circumferential range is always used as shown in <figref idref="DRAWINGS">FIG. 4B</figref>, there is an adverse possibility that inconvenience is generated because lubricant oil is not delivered uniformly and various portions are not equally used. To avoid such inconvenience, the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>are arranged such that the opposite half circumferential range is also used as required as shown in <figref idref="DRAWINGS">FIG. 4C</figref>. It is preferable that the side shown in <figref idref="DRAWINGS">FIG. 4B</figref> and the side shown in <figref idref="DRAWINGS">FIG. 4C</figref> are switched whenever the die is to be exchanged or the turret is to be rotated, or automatically according to a predetermined number of punching operations.</p>
+<p id="p-0075" num="0074">According to the turret punch press <b>10</b> of the present embodiment, the pair of servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>are respectively mounted on the outer sides of the frames <b>11</b><i>a </i>and <b>11</b><i>b</i>. Therefore, no distortion is generated in mechanical parts corresponding to one side of the eccentric shaft <b>20</b>. That is, for example, the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>are integrally formed as one servo motor (<b>30</b>) including a three-phase parallel circuit. The servo motor (<b>30</b>) can be mounted only on the outer side of the frame <b>11</b><i>a </i>or the frame <b>11</b><i>b</i>. In this case, since a stress caused by the weight of the servo motor (<b>30</b>) is received only by one frame <b>11</b><i>a </i>or <b>11</b><i>b</i>, distortion is generated in both the frames <b>11</b><i>a </i>and <b>11</b><i>b</i>, and distortion is generated due to uneven heat generated by the servo motor (<b>30</b>). Further, since the stresses of the bearings <b>12</b><i>a </i>and <b>12</b><i>b </i>are also different from each other, it is necessary to deal with this problem. With the turret punch press <b>10</b>, however, there is a merit that such stress distortion is not generated, and the heat can be dispersed and equalized. Therefore, stable operation can be realized.</p>
+<p id="p-0076" num="0075">As explained above, the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>directly drive the eccentric shaft <b>20</b>, and the eccentric shaft <b>20</b> continuously reciprocates and turns only in the reciprocating turning angle range &#x3b8; between the L position corresponding to the lower end position of the ram <b>22</b> and the H position corresponding to the upper end position of the ram <b>22</b>. This operation is extremely effective for speeding up the ram <b>22</b> when a work is subjected to continuous punching working.</p>
+<p id="p-0077" num="0076">The operation of the present embodiment will be explained next with reference to explanatory views shown in <figref idref="DRAWINGS">FIGS. 5 to 13B</figref>.</p>
+<p id="p-0078" num="0077"><figref idref="DRAWINGS">FIG. 5</figref> shows examples <b>1</b>) and <b>2</b>) of speed-torque characteristics of the servo motors <b>30</b><i>a </i>and <b>30</b><i>b</i>. <figref idref="DRAWINGS">FIG. 5</figref> shows the upper limit speed at which the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>can be operated when a driving torque of the ram <b>22</b> required for a load applied to the ram <b>22</b> is to be generated.</p>
+<p id="p-0079" num="0078">As can be seen from <figref idref="DRAWINGS">FIG. 5</figref>, with the servo motors <b>30</b><i>a </i>and <b>30</b><i>b</i>, when a load applied to the ram <b>22</b> is light, since the required torque is small, the driving speed of the ram <b>22</b> is not reduced and the punching speed of the punching is fast. On the other hand, as the load applied to the ram <b>22</b> is heavier, the required torque becomes greater, the driving speed of the ram <b>22</b> is reduced, and the punching speed of punching becomes slower. Reasons of generation of noise by punching working are varied depending upon various conditions such as the material of the work, the plate thickness, and the like. However, it is known that the noise is large when the punching speed by driving of a ram is fast, the noise becomes smaller when the punching speed becomes slower, and when the punching speed is constant, the noise is small when the load is light, and as the load becomes heavier, the noise becomes larger. From this fact, like the speed-torque characteristics of the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>shown in <figref idref="DRAWINGS">FIG. 5</figref>, as the load is heavier, the ram speed becomes slower, and this reduces the noise. Further, it is apparent, from the following actually measured data of punching working of various works and feature extraction waveform data based thereon, that such reduction in ram speed does not deteriorate the operation efficiency.</p>
+<p id="p-0080" num="0079"><figref idref="DRAWINGS">FIG. 6</figref> shows the actually measured data of a punching working when there is no work, <figref idref="DRAWINGS">FIG. 7A</figref> shows the feature extraction waveform data based on the actually measured data, and <figref idref="DRAWINGS">FIG. 7B</figref> shows the punching torque-speed characteristics based on the actually measured data.</p>
+<p id="p-0081" num="0080">As shown in <figref idref="DRAWINGS">FIGS. 6</figref>, <b>7</b>A, and <b>7</b>B, when there is no work, in a first half of one cycle of the ram <b>22</b>, a speed curve and a torque curve rise in a normal rotation direction to keep constant values. With this, a ram position curve is substantially uniformly lowered from the upper end position (corresponding to H position) to the lower end position (corresponding to L position). Next, in a second half of the one cycle of the ram <b>22</b>, the speed curve and the torque curve rise in the reverse rotation direction to keep the constant values. With this, the ram position curve is substantially uniformly moved upward from the lower end position (corresponding to L position) to the upper end position (corresponding to H position).</p>
+<p id="p-0082" num="0081"><figref idref="DRAWINGS">FIG. 8</figref> shows the actually measured data of a punching working when a thin plate work is punched out using a punch having a small diameter, <figref idref="DRAWINGS">FIG. 9A</figref> shows the feature extraction waveform data based on the actually measured data, and <figref idref="DRAWINGS">FIG. 9B</figref> shows the punching torque-speed characteristics based on the actually measured data.</p>
+<p id="p-0083" num="0082">As shown in <figref idref="DRAWINGS">FIGS. 8 to 9B</figref>, when the thin plate work is punched out using the punch having the small diameter, the behavior in the first half of one cycle of the ram <b>22</b> is different from that in the case shown in <figref idref="DRAWINGS">FIGS. 6 to 7B</figref>. That is, in the initial operation, like the case shown in <figref idref="DRAWINGS">FIGS. 6 to 7B</figref>, the speed curve and the torque curve rise in the normal rotation direction to the constant values. With this, the ram position curve starts lowering substantially uniformly from the upper end position (corresponding to H position). However, if the striker <b>24</b> of the lower end of the ram <b>22</b> pushes the punching die <b>26</b> and a tip end of the punching die <b>26</b> abuts against an upper surface of the work and the striker <b>24</b> receives a load from the work, the torque curve abruptly rises and the speed curve is reduced and with this, the lowering motion of the ram position curve becomes moderate (slow). If the tip end of the punching die <b>26</b> lowers to a position short of a lower surface of the work and the load received from the work is abruptly reduced, the torque curve abruptly lowers, the speed curve is accelerated beyond the constant value to restore the speed reduction and with this, the lowering speed of the ram position curve is also accelerated. Thereafter, in the second half of one cycle of the ram <b>22</b>, like the case shown in <figref idref="DRAWINGS">FIGS. 6 to 7B</figref>, the ram position curve substantially uniformly rises from the lower end position (corresponding to L position) to the upper end position (corresponding to H position).</p>
+<p id="p-0084" num="0083"><figref idref="DRAWINGS">FIG. 10</figref> shows the actually measured data of a punching working when a thin plate work is punched out using a punch having a large diameter, <figref idref="DRAWINGS">FIG. 11A</figref> shows the feature extraction waveform data based on the actually measured data, and <figref idref="DRAWINGS">FIG. 11B</figref> shows the punching torque-speed characteristics based on the actually measured data.</p>
+<p id="p-0085" num="0084">As shown in <figref idref="DRAWINGS">FIGS. 10 to 11B</figref>, when a thin plate work is punched out using a punch having a large diameter, the behavior in the first half of one cycle of the ram <b>22</b> is different from that in the case shown in <figref idref="DRAWINGS">FIGS. 8 to 9B</figref>. That is, in the initial operation, like the case shown in <figref idref="DRAWINGS">FIGS. 8 to 9B</figref>, the speed curve and the torque curve rise in the normal rotation direction to the constant values. With this, the ram position curve starts lowering substantially uniformly from the upper end position (corresponding to H position). However, if the striker <b>24</b> of the lower end of the ram <b>22</b> pushes the punching die <b>26</b> and load from the work is received, since the diameter of the punch is larger than that shown in <figref idref="DRAWINGS">FIGS. 8 to 9B</figref>, a load received from the work is great and thus, the torque curve rises largely as compared with the case shown in <figref idref="DRAWINGS">FIGS. 8 to 9B</figref>, and the speed curve reduces largely as compared with the case shown in <figref idref="DRAWINGS">FIGS. 8 to 9B</figref>. With this, the lowering motion of the ram position curve becomes much more moderate (slower) than that shown in <figref idref="DRAWINGS">FIGS. 8 to 9B</figref>. If the tip end of the punching, die <b>26</b> lowers to a position short of the lower surface of the work and the load received from the work is abruptly reduced, the torque curve abruptly lowers, the speed curve is accelerated larger than that shown in <figref idref="DRAWINGS">FIGS. 8 to 9B</figref> so as to restore the speed reduction and with this, the lowering speed of the ram position curve is also accelerated larger than that shown in <figref idref="DRAWINGS">FIGS. 8 to 9B</figref>. Thereafter, in the second half of one cycle of the ram <b>22</b>, like the case shown in <figref idref="DRAWINGS">FIGS. 8 to 9B</figref>, the ram position curve substantially uniformly rises from the lower end position (corresponding to L position) to the upper end position (corresponding to H position).</p>
+<p id="p-0086" num="0085"><figref idref="DRAWINGS">FIG. 12</figref> shows the actually measured data of a punching working when a thick plate work is punched out using a punch having a small diameter, <figref idref="DRAWINGS">FIG. 13A</figref> shows the feature extraction waveform data based on the actually measured data, and <figref idref="DRAWINGS">FIG. 13B</figref> shows the punching torque-speed characteristics based on the actually measured data.</p>
+<p id="p-0087" num="0086">As shown in <figref idref="DRAWINGS">FIGS. 12 to 13B</figref>, when a thick plate work is punched out using a punch having a small diameter, since the plate of the work is thicker as compared with the case shown in <figref idref="DRAWINGS">FIGS. 8 to 9B</figref>, a load received from the work is greater. Therefore, the behavior in the first half of one cycle of the ram <b>22</b> is different from that of the case shown in <figref idref="DRAWINGS">FIGS. 8 and 9</figref>, but the difference is not great as compared with the case shown in <figref idref="DRAWINGS">FIGS. 10 to 11B</figref>.</p>
+<p id="p-0088" num="0087">If the speed curve is reduced depending upon the magnitude of the load applied to the ram <b>22</b> and the lowering motion of the ram position curve becomes moderate (slow), the speed curve is accelerated beyond the constant value to restore the speed reduction, and the lowering speed of the ram position curve is also accelerated, and the reduction in ram speed caused by the load is absorbed and overcome as acceleration and deceleration in one cycle of the ram <b>22</b>. Therefore, time required through one cycle of the ram <b>22</b> is substantially the same, and this does not hinder the speed up of the ram <b>22</b>.</p>
+<p id="p-0089" num="0088">Such speed-torque characteristics of the motor can be explained as follows. The motor converts the supplied electric energy into energy applied to a load. With the servo motors <b>30</b><i>a </i>and <b>30</b><i>b</i>, the magnitude of the supplied electric energy is determined by the servo amplifiers <b>40</b><i>a </i>and <b>40</b><i>b</i>, voltage of power supply is also limited, and voltage equal to or greater than the power supply voltage can not be applied.</p>
+<p id="p-0090" num="0089">On the other hand, with the servo motors <b>30</b><i>a </i>and <b>30</b><i>b</i>, energy applied to a load, i.e., the motor torque carries out the punching action of the punching during the lowering operation of the ram in a cycle where the normal rotation of appropriate acceleration which lowers the ram <b>22</b> and the reverse rotation of the appropriate acceleration which moves the ram <b>22</b> upward are repeated. Therefore, the motor torque can be divided into a torque for generating kinetic energy of the ram <b>22</b> and a torque for generating the punching pressurizing force.</p>
+<p id="p-0091" num="0090">In such a case, if the acceleration is very slow (if the vertical movement of the ram <b>22</b> is delayed), a small amount of kinetic energy generating torque suffices and thus, almost all of the motor torque can be utilized as the pressurizing force generating torque. Therefore, even if a great pressurizing force is required depending upon the conditions such as the plate thickness and material of the work, sufficient pressurizing force can be generated, and the kinetic energy generating torque does not come short and the speed of the ram <b>22</b> is not affected.</p>
+<p id="p-0092" num="0091">In actual practice, since high acceleration to some extent (fast vertical movement of the ram <b>22</b>) is required for the operation efficiency, the amount of pressurizing force generating torque of the motor torque is limited. Therefore, if a great pressurizing force is required depending upon the conditions such as the plate thickness and material of the work, most of the motor torque is used for generating the pressurizing force, the kinetic energy generating torque comes short, the speed of the ram <b>22</b> can not be maintained, and the lowering speed of the ram <b>22</b> is reduced.</p>
+<p id="p-0093" num="0092">However, the deceleration of the lowering speed of the ram <b>22</b> is the characteristic which is extremely effective for reducing a noise caused by the punching operation of punching, a noise caused by vibration, and vibration itself. That is, when the required pressurizing force (the number of pressure tons) is relatively small depending upon the conditions such as the plate thickness and material of the work, since the speed reduction of the lowering speed of the ram <b>22</b> is small, the punching action with light load becomes relatively fast. When the required pressurizing force (the number of pressure tons) is relatively large, since the speed reduction of the lowering speed of the ram <b>22</b> is large, the punching action with heavy load becomes relatively slow. The variation in punching speed is automatically determined according to the required pressurizing force (the number of pressure tons). Thus, a command of punching pattern (lowering pattern of the ram <b>22</b>) by the number of punching tons is not necessary. That is, it becomes impossible to maintain the lowering speed of the ram <b>22</b> and with this, optimal punching pattern (lowering pattern of the ram <b>22</b>) is automatically produced.</p>
+<p id="p-0094" num="0093">Conversely, the speed-torque characteristics of the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>to be used are set such that motor torques of the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>at which the capacity of the electric energy supplied by the servo amplifiers <b>40</b><i>a </i>and <b>40</b><i>b </i>is determined become motor torques at which an optimal punching pattern (lowering pattern of the ram <b>22</b>) is generated from a light load to a heavy load according to the type of work to be worked on by the turret punch press <b>10</b>. With this, a noise caused by the punching action of punching, a noise caused by vibration, and the vibration itself can be reduced.</p>
+<p id="p-0095" num="0094">In an electric punch press in which a mechanism such as a toggle and a flywheel is not used and a motor and a ram operation shaft are directly connected to each other, it can be said that the punch press that can reduce a noise caused by the punching action of punching, a noise caused by vibration, and the vibration itself based on the explanation with reference to <figref idref="DRAWINGS">FIGS. 5 to 13B</figref> has the same speed-torque characteristics as those of the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>of the servo drive system (continuous working system) <b>1</b> according to the present invention.</p>
+<p id="p-0096" num="0095">The operation of the reactors <b>43</b><i>a </i>and <b>43</b><i>b </i>and the capacitors <b>44</b><i>a </i>and <b>44</b><i>b </i>of the servo amplifiers <b>40</b><i>a </i>and <b>40</b><i>b </i>will be explained.</p>
+<p id="p-0097" num="0096">If a value of each of the reactors <b>43</b><i>a </i>and <b>43</b><i>b </i>is defined as L, since the impedance Z is Z=2 &#x3c0;fL, a resistance is high to a high frequency component. For this reason, the peak current of the reactors <b>43</b><i>a </i>and <b>43</b><i>b </i>can be suppressed by cutting off the high frequency current component. With this, since the peak electricity of the servo amplifiers <b>40</b><i>a </i>and <b>40</b><i>b </i>can be suppressed, if reactors <b>43</b><i>a </i>and <b>43</b><i>b </i>having extremely large L values are used, the peak electricity can be adjusted to such a value that it is substantially unnecessary to change contracted electric power with respect to a power company, as compared with a case where a mechanism such as a toggle and a flywheel is utilized.</p>
+<p id="p-0098" num="0097">However, in the case of the punching working using a punch press, in order to move, at high speed, the eccentric shaft <b>20</b> which vertically moves the ram <b>22</b>, large kinetic energy is required, and its frequency is also high. Thus, if the L values of the reactors <b>43</b><i>a </i>and <b>43</b><i>b </i>become significantly large, there is an adverse possibility that high speed operation electric energy can not be supplied from the servo amplifiers <b>40</b><i>a </i>and <b>40</b><i>b </i>to the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>in time. In the case of the punching working using the punch press, since large punching energy is required at the time of the punching working, if the L values of the reactors <b>43</b><i>a </i>and <b>43</b><i>b </i>become significantly large, there is an adverse possibility that the supply of the punching operation electric energy from the servo amplifiers <b>40</b><i>a </i>and <b>40</b><i>b </i>to the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>becomes insufficient.</p>
+<p id="p-0099" num="0098">To complement the supply of the high speed operation electric energy and/or the supply of the punching operation electric energy from the servo amplifiers <b>40</b><i>a </i>and <b>40</b><i>b </i>to the servo motors <b>30</b><i>a </i>and <b>30</b><i>b</i>, there are provided the capacitors <b>44</b><i>a </i>and <b>44</b><i>b</i>. If the capacitors <b>44</b><i>a </i>and <b>44</b><i>b </i>having significantly large capacity are used, electric energy required for the high speed operation and/or electric energy required for the punching operation can sufficiently be supplied from the servo amplifiers <b>40</b><i>a </i>and <b>40</b><i>b </i>to the servo motors <b>30</b><i>a </i>and <b>30</b><i>b. </i></p>
+<p id="p-0100" num="0099">Therefore, if the reactors <b>43</b><i>a </i>and <b>43</b><i>b </i>having the significantly large L values and the capacitors <b>44</b><i>a </i>and <b>44</b><i>b </i>having the significantly large capacity are used, the peak electricity can be reduced as desired, and the high speed punching working can be carried out according to proper performance of the turret punch press <b>10</b>.</p>
+<p id="p-0101" num="0100">Although both the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>are integrally operated in the present embodiment, the present invention is not limited to this. For example, when the load is extremely light and a work can sufficiently be subjected to the working using torque of one of the servo motors <b>30</b><i>a </i>and <b>30</b><i>b</i>, only one of them may be energized and operated. With this, as compared with when both the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>are integrally operated with respect to such an extremely light load, there is a possibility that the lowering speed of the ram <b>22</b> becomes moderate and the noise is reduced, and power may be saved. However, it is preferable to take necessary measures against heat such as cooling.</p>
+<p id="p-0102" num="0101"><figref idref="DRAWINGS">FIG. 14</figref> is a vertical sectional view of an essential portion showing another embodiment of the servo drive system (continuous working system) of the press machine according to the present invention, and <figref idref="DRAWINGS">FIG. 15</figref> is a right side view of the essential portion. A servo drive system (continuous working system) <b>101</b> of this press machine is applied to a turret punch press <b>110</b>.</p>
+<p id="p-0103" num="0102">As shown in <figref idref="DRAWINGS">FIG. 16</figref>, the turret punch press <b>110</b> uses one servo motor <b>130</b> which integrally includes servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>as a three-phase parallel circuit instead of the pair of servo motors <b>30</b><i>a </i>and <b>30</b><i>b</i>. The turret punch press <b>110</b> has the same speed-torque characteristics as those of the servo motors <b>30</b><i>a </i>and <b>30</b><i>b</i>. Thus, the servo motor <b>130</b> is larger than one of the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>in size and correspondingly, an eccentric shaft <b>120</b> is formed only at its one end with an extension <b>120</b><i>a </i>extending longer than the extension <b>20</b><i>a</i>. A servo motor <b>130</b> using this extension <b>120</b><i>a </i>as a motor main shaft <b>131</b> is mounted on an outer side of a frame <b>111</b><i>a</i>. Other structures of the servo drive system (continuous working system) <b>101</b> of the press machine are the same as those of the servo drive system (continuous working system) <b>1</b> of the press machine shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>. Therefore, the elements of the servo drive system (continuous working system) <b>101</b> which are the same as those of the system shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref> are designated with the reference numbers to which 100 is added, and detailed explanation of the structures of various portions of the servo drive system (continuous working system) <b>101</b> of the press machine will be omitted. The operation of the servo drive system (continuous working system) <b>101</b> of the press machine is also the same as that of the servo drive system (continuous working system) <b>1</b> of the press machine.</p>
+<p id="p-0104" num="0103">If a single drive turret punch press <b>110</b> having only one servo motor <b>130</b> and a twin drive turret punch press <b>10</b> having a pair of servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>are compared with each other, there are following differences. That is, in the single drive turret punch press <b>110</b>, since a stress caused by the weight of the servo motor <b>130</b> is received only by the frame <b>111</b><i>b</i>, distortion is generated in the frames <b>111</b><i>a </i>and <b>111</b><i>b</i>. Further, a distortion caused by non-uniform heat is also generated by the heat of the servo motor <b>130</b>. Stresses of the bearings <b>112</b><i>a </i>and <b>112</b><i>b </i>are also different from each other. Therefore, it is necessary to take measures against the problems. On the other hand, in the twin drive turret punch press <b>10</b>, there is a merit that a stress distortion is not generated, and heat is dispersed and averaged.</p>
+<p id="p-0105" num="0104">Although the opposite end extensions <b>20</b><i>a </i>and <b>20</b><i>b </i>themselves of the eccentric shaft <b>20</b> serve as the main shafts <b>31</b><i>a </i>and <b>31</b><i>b </i>of the servo motors <b>30</b><i>a </i>and <b>30</b><i>b </i>in the present embodiment, the present invention is not limited to this. If necessary, for example, the eccentric shaft <b>20</b> and the main shafts <b>31</b><i>a </i>and <b>31</b><i>b </i>may be formed as separate members, the main shafts <b>31</b><i>a </i>and <b>31</b><i>b </i>may respectively be connected to the opposite ends of the eccentric shaft <b>20</b> using bolts or other appropriate means, and they may be formed as one member. The eccentric shaft <b>120</b> and the main shaft <b>131</b> of the servo motor <b>130</b> may also be formed in this manner.</p>
+<p id="p-0106" num="0105">Although the servo drive systems (continuous working systems) <b>1</b> and <b>101</b> are applied to the turret punch presses <b>10</b> and <b>110</b> in the embodiment, the present invention is not limited to this, and the system can also be applied to various press machines other than the punch press.</p>
+<p id="p-0107" num="0106">The disclosures of Japanese Patent Application Nos. 2002-177143 (filed on Jun. 18, 2002), 2002-177150 (filed on Jun. 18, 2002), 2002-177149 (filed on Jun. 18, 2002), 2003-145372 (filed on May 22, 2003), 2003-145374 (filed on May 22, 2003), 2003-145377 (filed on May 22, 2003), and 2002-177145 (filed on Jun. 18, 2002) are incorporated by reference herein in their entirety.</p>
+<p id="p-0108" num="0107">The embodiments of the present invention disclosed above are to be considered not restrictive, changes can be appropriately made, and the invention may be embodied in other specific forms.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A servo drive system of a press machine, comprising:
+<claim-text>a ram;</claim-text>
+<claim-text>an operation shaft which vertically moves the ram; and</claim-text>
+<claim-text>a servo motor which operates as a power source of the ram, wherein the servo motor uses a torque to generate ram pressure, the torque being based on at least one speed-torque characteristic of the servo motor;</claim-text>
+<claim-text>wherein the operation shaft is directly driven using the servo motor; and</claim-text>
+<claim-text>wherein the at least one speed-torque characteristic of the servo motor is set such that a motor torque of the servo motor, at which a capacity of electric energy supplied by a servo amplifier is determined, defines the motor torque at which an optimal punching pattern of the ram is generated from a light load to a heavy load according to a type of workpiece to be worked by the press machine.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A servo drive system of a press machine, comprising:
+<claim-text>a ram;</claim-text>
+<claim-text>an operation shaft which vertically moves the ram; and</claim-text>
+<claim-text>a servo motor which operates as a power source of the ram, wherein the servo motor uses a torque to generate ram pressure, the torque being based on at least one speed-torque characteristic of the servo motor;</claim-text>
+<claim-text>wherein the operation shaft is directly driven using the servo motor;</claim-text>
+<claim-text>wherein the at least one speed-torque characteristic of the servo motor is set such that a speed curve and a torque curve of the at least one speed-torque characteristic rise in a normal rotation direction to constant values and a ram position curve of the ram starts lowering substantially uniformly from an upper end position of the ram;</claim-text>
+<claim-text>the ram being operated such that when a striker provided at the lower end of the ram pushes a punching die an a tip end of the punching die abuts against an upper surface of a workpiece and the striker receives a load from the workpiece, the torque curve abruptly rises and the speed curve is reduced, thereby the lowering motion of the ram position curve decreases;</claim-text>
+<claim-text>the ram being operated such that when the tip end of the punching die lowers to a position near to a lower surface of the workpiece and the load received from the workpiece is abruptly reduced, the torque curve abruptly lowers, and the speed curve is accelerated beyond the constant value to restore the speed reduction, thereby the lowering speed of the ram position curve is also accelerated; and</claim-text>
+<claim-text>the ram being operated such that in a second half of an one cycle stroke of the ram, the ram position curve substantially uniformly rises from the lower end position of the ram to the upper end position of the ram.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The servo drive system of a press machine according to <claim-ref idref="CLM-00002">claim 2</claim-ref>,
+<claim-text>wherein the servo motor generates ram pressure without utilizing inertia of a mechanism intended to influence movement of the ram.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The servo drive system of a press machine according to <claim-ref idref="CLM-00002">claim 2</claim-ref>,
+<claim-text>wherein the operation shaft which vertically moves the ram comprises an eccentric shaft, and</claim-text>
+<claim-text>wherein motor main shaft comprises the eccentric shaft. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

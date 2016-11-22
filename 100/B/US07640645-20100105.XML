@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07640645-20100105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20091221" date-publ="20100105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07640645</doc-number>
+<kind>B2</kind>
+<date>20100105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11463235</doc-number>
+<date>20060808</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2005-230103</doc-number>
+<date>20050808</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>178</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>19</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>39</main-group>
+<subgroup>03</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>23</class>
+<subclass>P</subclass>
+<main-group>19</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>N</classification-value>
+<action-date><date>20100105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 29430</main-classification>
+<further-classification> 29429</further-classification>
+<further-classification> 2940709</further-classification>
+<further-classification> 294261</further-classification>
+<further-classification> 29822</further-classification>
+<further-classification> 29824</further-classification>
+<further-classification>134 76</further-classification>
+</classification-national>
+<invention-title id="d0e71">Automatic work-piece setting method</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2082052</doc-number>
+<kind>A</kind>
+<name>Frost et al.</name>
+<date>19370600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>192150</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2106706</doc-number>
+<kind>A</kind>
+<name>Gordon</name>
+<date>19380200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>118 73</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2577534</doc-number>
+<kind>A</kind>
+<name>Lowe</name>
+<date>19511200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>409165</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2943347</doc-number>
+<kind>A</kind>
+<name>Archibald</name>
+<date>19600700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>425339</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3182810</doc-number>
+<kind>A</kind>
+<name>Fahrenwald</name>
+<date>19650500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>211118</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4966549</doc-number>
+<kind>A</kind>
+<name>Ohdate</name>
+<date>19901000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>432253</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5043301</doc-number>
+<kind>A</kind>
+<name>Ohdate</name>
+<date>19910800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>438795</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5109264</doc-number>
+<kind>A</kind>
+<name>Ohdate</name>
+<date>19920400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>257618</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5531379</doc-number>
+<kind>A</kind>
+<name>Hammett</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>238  1</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5740960</doc-number>
+<kind>A</kind>
+<name>Hammett</name>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>238  1</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2007/0101567</doc-number>
+<kind>A1</kind>
+<name>Suda et al.</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 29430</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>12</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 29430</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 294261</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29428</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29458</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 2940709</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 294071</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 295272</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29783</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29791</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29 731</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29429</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29822</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29823</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29824</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>188206 R</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>188250 A</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>188250 B</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>188250 G</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>188250 F</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>188161</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>118426</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>134 70</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>134 76</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>7</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070028439</doc-number>
+<kind>A1</kind>
+<date>20070208</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kurata</last-name>
+<first-name>Mitsutoshi</first-name>
+<address>
+<city>Aichi</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Apex Juris, pllc</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Heims</last-name>
+<first-name>Tracy M</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Nisshinbo Holdings, Inc.</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Omgba</last-name>
+<first-name>Essama</first-name>
+<department>3726</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method for automation of conventional manual operation of setting the work-pieces on the hanger (H) for transporting the work-pieces, which moves such as in the surface treatment equipment (<b>300</b>), so as to provide the labor and power saving effect, to improve the efficiency on the operation, and to further improve the quality of the surface of the work-piece after treatment, comprises the process to separate and align plural work-pieces which are joined and aligned; the process to support the skewer-shaped supporting member (K) supporting plural separated and aligned work-pieces while maintaining the separated and aligned configuration; and the process to hang the skewer-shaped supporting member (K) supporting the work-pieces in the separated and aligned configuration on the hanger (H).</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="191.77mm" wi="338.67mm" file="US07640645-20100105-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="168.99mm" wi="55.63mm" file="US07640645-20100105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="169.33mm" wi="77.98mm" file="US07640645-20100105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="239.01mm" wi="47.92mm" orientation="landscape" file="US07640645-20100105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="220.05mm" wi="150.79mm" orientation="landscape" file="US07640645-20100105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="229.87mm" wi="151.13mm" file="US07640645-20100105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="226.74mm" wi="155.70mm" orientation="landscape" file="US07640645-20100105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="206.76mm" wi="127.00mm" orientation="landscape" file="US07640645-20100105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INTENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">The present invention relates to manufacturing processes. Particularly, the present invention relates to a method of setting work-piece while maintaining a separated and aligned configuration of the work-pieces.</p>
+<p id="p-0004" num="0003">2. Description of the Related Arts</p>
+<p id="p-0005" num="0004">As a manufacturing process, where brake shoes of automotive drum brakes are the work-pieces, there are a surface treatment process of a shoe body Shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref> as an example and a fixing process for fixing a lining on the shoe body continuously after completion of the surface treatment. The surface treatment process consists of washing, degreasing, drying and coating. Ordinarily in this surface treatment process, each shoe body is individually hung and supported on the hanger, and a processing is performed in turn by moving the shoe bodies consecutively through the inside of the surface treatment equipment. A conventional operation of hanging the shoe bodies on this hanger has been performed by a manual operation. In order to automate this operation, it is necessary to strive to eliminate any unfinished portion of the processing on the entire surface of the shoe body, thereby sufficiently considering how the shoe is best situated when hanging on the hanger; however, a method of automation with such consideration has not yet been proposed.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0006" num="0005">An object of the present invention is to provide a method of automation for the purposes of labor saving and improving the efficiency of the operation of setting the work-pieces on the hanger used for transporting the work-pieces inside of such as the surface treatment equipment that has conventionally been performed manually and further improving the quality of the surface of the work-piece after surface treatment.</p>
+<p id="p-0007" num="0006">The configuration of the automatic work-piece setting method according to the present invention to resolve the above-identified problems comprises steps of: separating and aligning plural work-pieces which have been joined and aligned, supporting the plural work-pieces, which have been separated and aligned at said separating and aligning step, with a skewer-shaped supporting member while maintaining the separated and aligned configuration of the plural work-pieces, and hanging the skewer-shaped supporting member, which has been supporting the work-pieces in the separated and aligned configuration at said supporting step, on the hanger so as to transport the plural work-pieces to a next manufacturing process, and the step of separating and aligning plural work-pieces comprises sub-steps of: feeding the plural work-pieces one by one, which have been joined and aligned, by actions of two shutters having a function of moving forward and backward, and aligning the work-pieces, which have been fed one by one at the feeding sub-step, into a predetermined number of pieces with a separating section having two mechanisms which relatively move forward and backward in an orthogonal direction.</p>
+<p id="p-0008" num="0007">In the above-method of the present invention, the work-pieces are shoe bodies of brake shoes for drum brakes, and the shoe bodies are transported to a surface treatment process with the hanger.</p>
+<p id="p-0009" num="0008">Also, in the method of the present invention, the work-piece has a hanging section at which to be hung on the skewer-shaped supporting member, and the supporting member has a receiving section which supports the hanging section of the work-piece. Here, the hanging section of the work-piece is a hanging hole, and the receiving section of the skewer-shaped supporting member is a concave portion. Also, one end of the skewer-shaped supporting member is fixed by a chuck when the supporting member freely penetrates the hanging holes of plural work-pieces.</p>
+<p id="p-0010" num="0009">It became clear that the present invention is not only able to achieve the aims of labor savings in operations and improvements in efficiency, but it can also make a great contribution to stock reduction and rationalization of goods distribution because the present invention makes it possible to automate the operation of setting the work-piece on the hanger in the manufacturing processes such as the surface treatment process that was conventionally carried out manually.</p>
+<p id="p-0011" num="0010">Furthermore, automation that does not use any human hands is possible in setting of the work-pieces, thereby eliminating a possibility of making scratches and dents that can arise easily during setting the work-piece and improving a yield rate in comparison to hanging by manual operation.</p>
+<p id="p-0012" num="0011">Moreover, because no operator is necessarily directly touching the work-piece in the setting operation of the work-piece, sticking of skin oil or glove fiber to the surface of the work-piece is not concerns, and it is possible to improve the quality of the surface of the work-piece after the surface treatment.</p>
+<p id="p-0013" num="0012">Also, the present invention is applicable not only to automotive brake shoes but also to other types of work-pieces manufactured by manufacturing equipments having plural processes engaging one another on a production line.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0014" num="0013">The above and other objects of the present invention will become readily apparent by reference to the following detailed description when considered in conjunction with the accompanying drawings wherein:</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 1</figref> is a front view of the shoe body as one example of the work-piece to which the present invention is applied;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 2</figref> is a side view of the shoe body of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 3</figref> is an enlarged front view of the skewer-shaped supporting member of the present invention;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 4</figref> is a front view of the shoe body automatic setting apparatus to which the present invention is applied;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 5</figref> is a left-side view of the apparatus of <figref idref="DRAWINGS">FIG. 4</figref>;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 6</figref> is a plan view of the apparatus of <figref idref="DRAWINGS">FIG. 4</figref>; and</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 7</figref> is a schematic process explanatory view of the surface treatment process of the shoe bodies in the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">EMBODIMENTS OF THE INVENTION</heading>
+<p id="p-0022" num="0021">Next, embodiments of the present invention will be explained taking an example of an automatic work-piece setting method for the shoe body of the automotive brake shoe with reference to the figures.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 1</figref> is a front view of an example of the shoe body represented as the work-piece in the present invention; <figref idref="DRAWINGS">FIG. 2</figref> is a left side view of the shoe body of <figref idref="DRAWINGS">FIG. 1</figref>; and <figref idref="DRAWINGS">FIG. 3</figref> is a front view of the skewer-shaped supporting member of the present invention.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 4</figref> is a plan view illustrating the automatic shoe body Setting apparatus employed in the present invention; <figref idref="DRAWINGS">FIG. 5</figref> is a left side view of the apparatus of <figref idref="DRAWINGS">FIG. 4</figref>; <figref idref="DRAWINGS">FIG. 6</figref> is a plan view of the apparatus of <figref idref="DRAWINGS">FIG. 4</figref>; and <figref idref="DRAWINGS">FIG. 7</figref> is a perspective process explanatory view of the surface treatment process of the shoe body employed in the present invention.</p>
+<p id="p-0025" num="0024">In <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, as an example applied as the work-piece of the present invention, an embodiment of the shoe body of the brake shoe for the drum brake is illustrated in a plan view and a side view. A shoe body S, a shoe rim R, a shoe web W, and a hanging hole B, through which a skewer-shaped supporting member K used in the present invention as appeared in <figref idref="DRAWINGS">FIG. 3</figref> penetrate and with which the supporting member K engage. Also, the present invention is not limited to use the hanging hole B and such as a notched groove which is not shown in the figures is also applicable as long as the work-piece can be hung and supported on the skewer-shaped supporting member K.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 3</figref> illustrates an example of the skewer-shaped supporting member K to be used in the method of the present invention. The supporting member K is a round bar processed to form grooves N in an arc-shaped cross-section on the side surface thereof with a predetermined pitch. In general, when surface-treating shoe bodies S for manufacture of the brake shoes, it is necessity for processing to be careful to the entire surface thereof. Thus, the grooves N are formed on the skewer-shaped supporting member K so as to have a structure which enables to arrange each shoe body S mutually separated. Also, the shape of the groove N may be any shape in cross-section as such as a rectangular shape formed according to the shape of the shoe body S instead of the arc-shape as shown in the illustrated example. Furthermore, the skewer-shaped supporting member K is made of steel materials; however, such as other metals or plastics may be substituted according to the contents of the process for supplying the shoe body S.</p>
+<p id="p-0027" num="0026">The present invention is, for example, applicable to the following embodiment. The embodiment is the automatic setting method to set the shoe bodies, which have been joined each other and aligned on the hanger and to transport the same to the surface treatment equipment at a next process.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIGS. 4-6</figref> are explanatory figures of shoe body-automatic setting apparatus which automatically sets the shoe bodies S as the work pieces on the hanger to be transported to the surface treatment equipment at the next process, wherein <figref idref="DRAWINGS">FIG. 4</figref> is the front view of the apparatus; <figref idref="DRAWINGS">FIG. 5</figref> is the left side view of <figref idref="DRAWINGS">FIG. 4</figref>; and <figref idref="DRAWINGS">FIG. 6</figref> is the plan view of <figref idref="DRAWINGS">FIG. 4</figref>. <figref idref="DRAWINGS">FIG. 7</figref> is the schematic process explanatory view of the surface treatment process of the shoe bodies according to the present invention, which is an explanatory view that schematically represents the layout of a shoe body-automatic setting apparatus <b>100</b>, a shoe body-automatic taking-out apparatus <b>200</b>, which moves in essentially the reverse order of the automatic setting apparatus <b>100</b>, a surface treating equipment <b>300</b>, and a rail L of a transporting line equipped with a plurality of hangers H. Because the automatic setting apparatus <b>100</b> illustrated in <figref idref="DRAWINGS">FIGS. 4-6</figref> is configured with a stocker <b>1</b> for the shoe bodies S, a shutter <b>2</b>, a separating section <b>3</b>, a first traversing section <b>4</b>, a supporting section <b>5</b> to support the skewer-shaped supporting member, a second traversing section <b>6</b>, a lifter <b>7</b>, and a brake shoe-auxiliary supporting section <b>8</b>, the structure and function of each section will be explained next.</p>
+<p id="h-0005" num="0000">Step to Join and Align the Shoe Body S (Work-Pieces)</p>
+<p id="h-0006" num="0000">Stocker <b>1</b></p>
+<p id="p-0029" num="0028">The stocker <b>1</b> is a section to join and align the shoe bodies S. That is, the shoe bodies S supplied from the previous manufacturing process are joined and aligned on a shooter <b>11</b> having downward slope to be stocked thereon.</p>
+<p id="h-0007" num="0000">Step to Mutually Separate and Align Plural Shoe Bodies S (Work-Pieces) which have been Joined Each Other and Aligned.</p>
+<p id="h-0008" num="0000">Shutter <b>2</b></p>
+<p id="p-0030" num="0029">The shutter <b>2</b> is for the step to mutually separate and align plural shoe bodies which have been joined and aligned in cooperation with the later described separating section <b>3</b> and the brake shoe-auxiliary supporting section <b>8</b>. The shutter <b>2</b> is arranged to be connected to the stocker <b>1</b> and has a function that feed one by one the shoe bodies S, which have been joined and aligned on the shooter <b>11</b> of the stocker <b>1</b> to the downstream side with two stoppers <b>21</b> and <b>22</b> each having a function to ascend and descend.</p>
+<p id="p-0031" num="0030">The stoppers <b>21</b> and <b>22</b> are arranged in tandem, and each has a mechanism to independently make a vertical movement by air cylinders <b>23</b> and <b>24</b> respectively. Furthermore, the stoppers <b>21</b> and <b>22</b> move orthogonally relative to a moving direction of the shoe body S.</p>
+<p id="p-0032" num="0031">First, while both stoppers <b>21</b> and <b>22</b> are descending, the stopper <b>22</b> abuts against the shoe web W of the shoe body S positioned at front so as to restrict the movement of the shoe bodies S. Here, if the stopper <b>22</b> ascends plural shoe bodies S which are joined and aligned entirety slide on the shooter <b>11</b> by their own weight, and the entire shoe bodies S are transported until the shoe web W of the shoe body S positioned at front abuts against the stopper <b>21</b>. A distance of transporting is substantially same as a width of the shoe rim R of the shoe body S. That is, the stoppers <b>21</b> and <b>22</b> are apart from each other in tandem with a width of one brake shoe.</p>
+<p id="p-0033" num="0032">Next, after the stopper <b>22</b> descends again to restrict the movement of the shoe bodies S, if the stopper <b>21</b> ascends, the shoe body S positioned at front only slides on the shooter <b>11</b> by its own weight to reach an entry of the separating section <b>3</b>. Furthermore, when the shooter <b>11</b> of the stocker <b>1</b> is horizontally arranged, although not shown in the figures, two stoppers may be used just like the structure of the above-describe example, a cylinder (not shown in the figures) may be provided for transporting one shoe body S separated by the stopper to the entry of the separating section <b>3</b>, and the stocker <b>1</b> joins and aligns the shoe bodies S to transport the same on a conveyor driven such as with an electric motor.</p>
+<p id="h-0009" num="0000">Separating Section <b>3</b></p>
+<p id="p-0034" num="0033">The separating section <b>3</b> is for the step to mutually separate and align plural shoe bodies which have been joined each other and aligned in cooperation with the above described shutter <b>2</b> and the brake shoe-auxiliary supporting section <b>8</b>. The separating section <b>3</b> is arranged to connect to the shutter <b>2</b> and has a function to align plural shoe bodies S in unit, which is fed one by one from the shutter <b>2</b>, on a shoe-guiding rail <b>37</b> in a separated state. A separator <b>31</b>, for temporarily holding the shoe web W of the respective shoe body S so as to separate and align plural shoe bodies S (for example, ten shoe bodies in this example), is designed to have two fork-shaped supporting members composed of two guide plates <b>33</b> and <b>34</b> are arranged to confirm with intervals of ten shoe bodies S. A clearance Cw is formed between the respective pair of guide plates <b>33</b> and <b>34</b> to sufficiently be capable of placing the shoe web W of the respective shoe body S therein. Furthermore, the shoe-guiding rail <b>37</b> may be structured to extend to reach the later described lifter <b>7</b>. Also, in the case that the hanging hole B of the shoe web W is positioned around an end of the shoe body S instead of a central region thereof according to shapes of the shoe bodies S, in order to avoid the supporting section <b>5</b> for supporting the skewer-shaped supporting member K from interfering with the shoe-guiding rail when the supporting section <b>5</b> is lifting, the shoe-guiding rail <b>37</b> can be structured to be divided. In such a case, as shown in <figref idref="DRAWINGS">FIG. 5</figref>, a divided shoe-guiding rail <b>84</b> may be structured to be mounted on a bracket <b>83</b> movable along a linear guide <b>82</b> with a cylinder <b>81</b> of the brake shoe-auxiliary supporting section <b>8</b>. After the shoe body S is supported by the skewer-shaped supporting member K, upon confirming that the supporting member K ascends to an appropriate distance at the lifter <b>7</b>, if the cylinder <b>81</b> operates to move the divided shoe-guiding rail <b>84</b> backward, no interference occurs upon a pro-ascending operation of the lifter <b>7</b>. In the following section, the structure of the shoe-guiding rail <b>37</b> extended to reach the lifter <b>7</b> will be explained.</p>
+<p id="h-0010" num="0000">Step to Support Plural Shoe Bodies S (Work-Pieces), while Maintaining the Separated and Aligned Configuration, with the Skewer-Shaped Supporting Member</p>
+<p id="h-0011" num="0000">First Traversing Section <b>4</b></p>
+<p id="p-0035" num="0034">The first traversing section <b>4</b> is for the step to support plural shoe bodies S while maintaining separated and aligned configuration in cooperation with the later described supporting section <b>5</b> to support the skewer-shaped supporting member K. The first traversing section <b>4</b> has a function to freely penetrate the skewer-shaped supporting member K through the hanging holes B of the shoe webs W of shoe bodies S, which are separated and aligned to line up in a row by the above-described separator <b>31</b>, all together to the left in <figref idref="DRAWINGS">FIG. 4</figref> along a linear guide <b>42</b> by an air cylinder <b>41</b> for traversing.</p>
+<p id="h-0012" num="0000">Supporting Section <b>5</b></p>
+<p id="p-0036" num="0035">The supporting section <b>5</b> is for the step to support plural shoe bodies S while maintaining separated and aligned configuration in cooperation with the above described first traversing section <b>4</b> and has a function to support the skewer-shaped supporting member K to penetrate the same through the shoe bodies S, which is separated and aligned with the above-described separator <b>31</b>. A V-block part is comprised of a first V-block <b>51</b> positioned at a separator <b>31</b> side and a second V-block <b>52</b> positioned at an opposite side of the separator <b>31</b>, two V-blocks <b>51</b> and <b>52</b> support the skewer-shaped supporting member K at both ends thereof. The second V-block <b>52</b> comprises a chuck <b>52</b><i>a </i>which opens and closes with a cylinder <b>53</b> operated such as by pneumatic, and the chuck <b>52</b><i>a </i>offers single side support for the skewer-shaped supporting member K only at the opposite side of the separator <b>31</b>. The first V-block <b>51</b> at the separator side is usually descending and ascends with a cylinder <b>54</b> only upon completing the operation of freely penetrating the hanging holes B of all shoe bodies S, which are separated and aligned as moving the shoe bodies S, thereby supporting both ends of the skewer-shaped supporting member K with two V-blocks <b>51</b> and <b>52</b>.</p>
+<p id="h-0013" num="0000">Step to Hang Skewer-Shaped Supporting Member K Supporting Plural Shoe Bodies S (Work-Pieces)</p>
+<p id="h-0014" num="0000">Second Traversing Section <b>6</b></p>
+<p id="p-0037" num="0036">The second traversing section <b>6</b> is for the step to hang the skewer-shaped supporting member K supporting the shoe bodies S in the separated and aligned configuration in cooperation with the later described lifter <b>7</b>. The second traversing section <b>6</b> has a function to make a horizontal movement of the lifter <b>7</b> with the supporting section <b>5</b> for supporting the skewer-shaped supporting member on a rail L of a transporting line for the hanger H in <figref idref="DRAWINGS">FIG. 5</figref> along a linear guide <b>63</b> with air cylinders <b>61</b> and <b>62</b> between a first position L<b>1</b> for receiving the emptied skewer-shaped supporting member K and a second position L<b>2</b> for hanging the skewer-shaped supporting member K on the hanger H. The second traversing section <b>6</b> is horizontally positioned in an orthogonal direction relative to the shoe-guiding rail <b>37</b> and uses two cylinders <b>61</b> and <b>62</b> as exemplified in <figref idref="DRAWINGS">FIG. 6</figref>. Two cylinders <b>61</b> and <b>62</b> are used to provide an intermediate stop position T (as shown in <figref idref="DRAWINGS">FIG. 5</figref>) to avoid interference with the hanger H because the hanger H, when in the state where the emptied skewer-shaped supporting member K has been removed, is moving toward the second position L<b>2</b> on the hanger transport line L as shown in <figref idref="DRAWINGS">FIG. 5</figref>. As installing such as a sensor to confirm the intermediate stop position T, one cylinder may enable to function the second traversing section <b>6</b>.</p>
+<p id="h-0015" num="0000">Lifter <b>7</b></p>
+<p id="p-0038" num="0037">The lifter <b>7</b> is for the step to hang the skewer-shaped supporting member K supporting the shoe bodies S in the separated and aligned configuration in cooperation with the above described second traversing section <b>6</b>. The lifter <b>7</b> has a function to move the supporting section <b>5</b> from the height, where the skewer-shaped supporting member K can freely penetrate through plural shoe bodies S, to the height, where skewer-shaped supporting member K is to be set on the hanger H (or the first position L<b>1</b>, where emptied skewer-shaped supporting member K is removed from the hanger H) along a longitudinal linear guide <b>73</b> with vertical air cylinders <b>71</b> and <b>72</b>. As exemplified in <figref idref="DRAWINGS">FIG. 5</figref>, two cylinders <b>71</b> and <b>72</b> are used herein. Two cylinders <b>71</b> and <b>72</b> are used to provide an intermediate stop position M (as shown in <figref idref="DRAWINGS">FIG. 5</figref>) to avoid interference with the hanger H because the hanger H, when in the state where the emptied skewer-shaped supporting member K has been removed, is moving toward the second position L<b>2</b> on the hanger transport line L as shown in <figref idref="DRAWINGS">FIG. 5</figref>. In this case as well, as installing such as a sensor to confirm the intermediate stop position M, one cylinder may enable to function as the lifter <b>7</b>.</p>
+<p id="p-0039" num="0038">Although it is not shown in <figref idref="DRAWINGS">FIGS. 4-6</figref> which describe the above-described embodiment, if a servo motor and a ball screw mechanism are used instead of the air cylinder <b>41</b> at the first traversing section <b>4</b> and the large quantity of guide plates of the separator <b>31</b> are changed to only one pair of the guide plates <b>33</b> and <b>34</b>, the respective shoe body S separately and individually transported from the shutter <b>2</b> may be penetrated through the skewer-shaped supporting member K one after another. This structure can be applicable to a manufacturing line that involves in processing brake shoes with different shapes such as different widths. Also, if a driving method of the second traversing section <b>6</b> and the lifter <b>7</b> are changed to a method using a combination of servo motor, ball screw mechanism and numerical control system, other models of brake shoes with different positions of the hanging hole B of the shoe body S. In this case, it is preferable to pre-form grooves corresponding to other models of shoe bodies when dealing with the manufacturing line involving plural mixed type products.</p>
+<p id="p-0040" num="0039">The following section explains, as dividing into a first half and a second half of the series, an operation of setting the shoe bodies S, which are supplied from the previous process, on the hanger H transported to the next process, with the automatic setting apparatus <b>100</b> for the shoe body S, which is comprised of the respective members having the above-identified functions. The first half of the series begins with an operation of feeding one by one plural shoe bodies S, which have been joined and aligned with the stoppers <b>21</b> and <b>22</b> of the shutter <b>2</b>, and is finished with an operation of aligning the plural shoe bodies S on the shoe-guiding rail <b>37</b> in the separated and aligned configuration with the separating section <b>3</b>. The second half of the series begins with an operation of removing the skewer-shaped supporting member K from the hanger H, and is finished with an operation of hanging the skewer-shaped supporting member K, which has been supporting the shoe bodies S, on the hanger H.</p>
+<p id="h-0016" num="0000">Operation of the First Half of the Series</p>
+<p id="p-0041" num="0040">First, plural shoe bodies S, which are joined and aligned at the stocker <b>1</b>, are fed one by one by moving the stoppers <b>21</b> and <b>22</b> of the shutter <b>2</b>. Next, one fed shoe body S slides down on a downward slope of the shooter <b>11</b> by its own weight and moves onto the shoe-guiding rail <b>37</b> of the separating section <b>3</b> and stops by abutting against a stopper <b>32</b> at an end (a right side of <figref idref="DRAWINGS">FIG. 4</figref>) of the shoe-guiding rail <b>37</b>. After confirming the passage of the shoe bodies S such as by sensors, the separator <b>31</b> ascends with a cylinder <b>35</b>, the rod of a cylinder <b>36</b> moves forward under this condition, and the separator <b>31</b> descends at a position where the clearance Cw of the guide plates <b>33</b> and <b>34</b> is positioned above the shoe web W. The shoe web W of the respective shoe body S fits freely into the clearance Cw of the separator <b>31</b>. Then, the rod of the cylinder <b>36</b> moves backward, and the first shoe body S is aligned on the shoe-guiding rail <b>37</b>. In a continuous next operation, when the second or later shoe body S are fed one by one from the shutter <b>2</b> to be supplied to abut against the stopper <b>32</b> of the separator <b>31</b>, the second or later shoe body S moves to align by following the same operation as stated above. As such, as the separator <b>31</b> repeats a cycle of ascending-moving forward (moving to the right)-descending-moving backward (moving to the left) multiple times by the operation of two cylinders <b>35</b> and <b>36</b>, the step of separating and aligning plural shoe bodies S on the shoe-guiding rail <b>37</b> is completed.</p>
+<p id="h-0017" num="0000">Operation of the Second Half of the Series</p>
+<p id="p-0042" num="0041">The operations of the second half of the series begins with the operation of removing the skewer-shaped supporting member K from the hanger H and is finished with the operation of hanging the skewer-shaped supporting member K, which has been supporting the shoe body S, on the hanger H and are operated in parallel to the operation of the first half of the series as described above. The operations of the second half of the series will be explained as focusing on the explanation of <figref idref="DRAWINGS">FIG. 5</figref>. First, an initial operation position (I) is such that the horizontal position is located at the first position L<b>1</b> on the rail of the hanger transporting line as shown in <figref idref="DRAWINGS">FIG. 5</figref> and the vertical position is located at the intermediate stop position M. That is, the rods of the cylinders <b>61</b> and <b>62</b> in the second traversing section <b>6</b> are positioned back, the rod of the cylinder <b>71</b> in the lifter <b>7</b> is positioned front, and the rod of the cylinder <b>72</b> in the lifter <b>7</b> is positioned back. Under these conditions, the V-blocks <b>51</b> and <b>52</b> of the supporting section <b>5</b> to support the skewer-shaped supporting member K operates in the following order (i)-(viii) when the hanger H with the emptied skewer-shaped supporting member K is positioned straight above the V-blocks <b>51</b> and <b>52</b>. In the operation (i), the lifter <b>7</b> moves up to an upper end by moving the rod of the cylinder <b>71</b>, poisoned front, backward at the first position L<b>1</b>. By this operation, two V-blocks <b>51</b> and <b>52</b> of the supporting section <b>5</b> to support the skewer-shaped supporting member K is lifted up to a position slightly upper than a hook of the hanger H, and therefore the skewer-shaped supporting member K supported by the hanger H is shifted to have both ends thereof supported by two V-blocks <b>51</b> and <b>52</b>. In the operation (ii), the rod of the air cylinder <b>61</b> moves forward to move the V-blocks <b>51</b> and <b>52</b> in a direction of an arrow in <figref idref="DRAWINGS">FIG. 5</figref> (toward the right) under this condition, thereby horizontally transporting the V-blocks <b>51</b> and <b>52</b> to the intermediate stop position T. In the operation (iii), the rod of the cylinder <b>71</b> moves forward at the intermediate stop position T to move the V-blocks <b>51</b> and <b>52</b> in a direction of an arrow in <figref idref="DRAWINGS">FIG. 5</figref> (toward the lower side), thereby vertically transporting the V-blocks <b>51</b> and <b>52</b> to the intermediate stop position M. In the operation (iv), the rod of the air cylinder <b>62</b> in the second traversing section <b>6</b> moves forward to move the lifter <b>7</b> in a direction of an arrow in <figref idref="DRAWINGS">FIG. 5</figref> (toward the right), thereby positioning the V-blocks <b>51</b> and <b>52</b> at a position as shown in <figref idref="DRAWINGS">FIG. 5</figref> (where a horizontal position is the second position L<b>2</b> on the rail of the hanger transporting line as shown in <figref idref="DRAWINGS">FIG. 5</figref>). In the operation (v), the rod of the cylinder <b>72</b> in the lifter <b>7</b> moves forward to move the V-blocks <b>51</b> and <b>52</b> in a direction of an arrow (toward the lower side of <figref idref="DRAWINGS">FIG. 5</figref>), thereby vertically transporting the V-blocks <b>51</b> and <b>52</b> to the lower ends of <figref idref="DRAWINGS">FIG. 5</figref>.</p>
+<p id="p-0043" num="0042">When reaching the condition of the operation (v), the supporting section <b>5</b> for the skewer-shaped supporting member K is located at the low ends thereof and the skewer-shaped supporting member K is in a position for setting the shoe bodies S.</p>
+<p id="p-0044" num="0043">Thereafter, the second V-block <b>52</b>, having a chuck function at an opposite side of the separator side of the supporting section <b>5</b>, provides a single side support for the skewer-shaped supporting member K. As already described above, the first V-block <b>51</b> at the separator side is in a waiting condition as being descended in order to avoid the interference with the separated and aligned shoe body S as moving on the shoe-guiding rail <b>37</b>.</p>
+<p id="p-0045" num="0044">Upon completing the separation and alignment of a predetermined number of the shoe bodies S, the air cylinder <b>41</b> of the first traversing section <b>4</b> moves the predetermined number of shoe bodies S in the clearance Cw of the separator <b>31</b> on the shoe-guiding rail <b>37</b>, and the respective hanging holes B of the shoe bodies S can freely be penetrated through with the skewer-shaped supporting member K. Upon completing the free penetration of the skewer-shaped supporting member K though the predetermined number of the shoe bodies S, the first V-block <b>51</b> at a separator side of the supporting section <b>5</b> for the skewer-shaped supporting member K ascends by the cylinder <b>54</b> while the chuck <b>52</b><i>a </i>of the second V-block <b>52</b> at an opposite side of the separator is opened, so that both sides of the skewer-shaped supporting member K are simply supported by the V-blocks <b>51</b> and <b>52</b> from below.</p>
+<p id="p-0046" num="0045">Then, in the operation (vi), the supporting section <b>5</b> for the skewer-shaped supporting member K moves to an upper end by the operation of the cylinders <b>71</b> and <b>72</b> of the lifter <b>7</b> and waits thereat. In the operation (vii), the hanger H, from which the skewer-shaped supporting member K was previously removed, as moving in a direction of an arrow, comes to a position properly engaging with the waiting skewer-shaped supporting member K, the rod of the cylinder <b>71</b> moves forward.</p>
+<p id="p-0047" num="0046">Accordingly, the skewer-shaped supporting member K supported on the predetermined number of the shoe bodies S is hung on the hanger H. The hanger H setting the predetermined number of shoe bodies S thereon via the skewer-shaped supporting member K, for example, is transported in the surface treatment equipment <b>300</b> as described in the process appeared in <figref idref="DRAWINGS">FIG. 7</figref>, and the surface treatment is performed on the respective shoe body S. After the hanger H exits from the surface treatment equipment <b>300</b>, the shoe body S is automatically taken-out.</p>
+<p id="p-0048" num="0047">That is, first, the skewer-shaped supporting member K, which exits from the surface treatment equipment <b>300</b> of <figref idref="DRAWINGS">FIG. 7</figref> while maintaining the penetration of the shoe bodies S, is removed from the hanger H at the second position L<b>2</b> on the rail of the transporting line and is transported onto two V-blocks <b>51</b> and <b>52</b> of the supporting section <b>5</b> due to the operation of the lifter <b>7</b> and the second traversing section <b>6</b>. This is an operation of the removing section to remove the skewer-shaped supporting member on which the shoe bodies are supported. Next, the skewer-shaped supporting member K supported at the supporting section <b>5</b> is transported onto the shoe-guiding rail <b>37</b> of the supporting section <b>5</b> and is transported to an end (outlet side) of the shoe-guiding rail <b>37</b> due to the effect of the first traversing section <b>4</b> moving forward and backward, and the skewer-shaped supporting member K freely penetrating through the hanging hole B of the shoe web W of the shoe bodies S is removed at the same time. This is an operation of the separating section to separate the skewer-shaped supporting member and the shoe bodies. Due to a combined operation of removing section and the separating section, the shoe bodies S are automatically taken-out and then to be joined and aligned for the next manufacturing process. The emptied skewer-shaped supporting member K after taking-out the shoe bodies S is returned to the hanger H, and therefore emptied skewer-shaped supporting member K is hung on the hanger H, thereby accomplishing the above-described automatic setting apparatus <b>100</b> for the shoe bodies S.</p>
+<p id="p-0049" num="0048">As mutually, continuously performing the above-explained automatic setting operation for the shoe bodies, plural shoe bodies S can automatically be hung on the hanger H.</p>
+<p id="p-0050" num="0049">This invention employs the following methods:</p>
+<p id="p-0051" num="0050">(A) the method for feeding one by one plural work-pieces, such as shoe bodies, which have been joined and aligned, with the shutter;</p>
+<p id="p-0052" num="0051">(B) the method for separating and aligning the plural work-pieces with the separator; and</p>
+<p id="p-0053" num="0052">(C) the method for supporting the plural separated and aligned work-pieces with the skewer-shape supporting member, which has been freely penetrating through the work-pieces and supporting the work-pieces,</p>
+<p id="p-0054" num="0053">and (D) the method for setting the skewer-shaped supporting member on the hanger, thereby enabling the automatic setting of the plural work-pieces on the hanger, thereby receiving the following advantages.</p>
+<p id="p-0055" num="0054">(A) Stock reduction, rationalization of distribution and the labor and power saving, in the manufacturing process, are realized.</p>
+<p id="p-0056" num="0055">(B) No scratches and dents occur when setting a work-piece on the hanger, thereby improving the yield rate.</p>
+<p id="p-0057" num="0056">(C) No skin oil or glove fiber remains on the surface of the work-piece because that the operators do not directly touch the work-piece when setting the work-piece on the hanger, thereby improving the quality of the surface after surface treatment of the work-piece.</p>
+<p id="p-0058" num="0057">It is readily apparent that the above-described embodiments have the advantage of wide commercial utility. It should be understood that the specific form of the invention hereinabove described is intended to be representative only, as certain modifications within the scope of these teachings will be apparent to those skilled in the art. Here, there may be obvious modifications to the embodiment described above. Accordingly, reference should be made to the following claims in determining the full scope of the invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An automatic work-piece setting method comprising steps of:
+<claim-text>separating and aligning plural work-pieces, which have been joined and aligned;</claim-text>
+<claim-text>supporting said plural work-pieces, which have been separated and aligned at said separating and aligning step, with a skewer-shaped supporting member while maintaining a separated and aligned configuration of said plural work-pieces; and</claim-text>
+<claim-text>hanging said skewer-shaped supporting member, which has been supporting said work-pieces in the separated and aligned configuration at said supporting step, on a hanger so as to transport said plural work-pieces to a next manufacturing process, wherein</claim-text>
+<claim-text>said step of separating and aligning plural work-pieces comprising sub-steps of:</claim-text>
+<claim-text>feeding said plural work-pieces one by one, which have been joined and aligned, by two shutters having a function of moving forward and backward; and</claim-text>
+<claim-text>aligning said work-pieces, which have been fed one by one at said feeding sub-step, into a predetermined number of pieces with a separating section having two mechanisms which relatively move forward and backward in an orthogonal direction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The automatic work-piece setting method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said work-pieces are shoe bodies of brake shoes for drum brakes.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The automatic work-piece setting method according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein
+<claim-text>said shoe bodies are transported to a surface treatment process with said hanger.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The automatic work-piece setting method according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein
+<claim-text>said work-piece has a hanging section at which to be hung on said skewer-shaped supporting member; and</claim-text>
+<claim-text>said supporting member have a receiving section which supports said hanging section of the work-piece.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The automatic work-piece setting method according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein
+<claim-text>said hanging section of the work-piece is a hanging hole; and</claim-text>
+<claim-text>said receiving section of the skewer-shaped supporting member is a concave portion.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The automatic work-piece setting method according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein
+<claim-text>one end of said skewer-shaped supporting member is fixed by a chuck when said supporting member freely penetrates said hanging holes of plural work-pieces.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The automatic work-piece setting method according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein
+<claim-text>said work-piece has a hanging section at which to be hung on said skewer-shaped supporting member; and</claim-text>
+<claim-text>said supporting member has a receiving section which supports said hanging section of the work-piece.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The automatic work-piece setting method according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein
+<claim-text>said hanging section of the work-piece is a hanging hole; and</claim-text>
+<claim-text>said receiving section of the skewer-shaped supporting member is a concave portion.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The automatic work-piece setting method according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein
+<claim-text>one end of said skewer-shaped supporting member is fixed by a chuck when said supporting member freely penetrates said hanging holes of plural work-pieces.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The automatic work-piece setting method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>said work-piece has a hanging section at which to be hung on said skewer-shaped supporting member; and</claim-text>
+<claim-text>said supporting member have a receiving section which supports said hanging section of the work-piece.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The automatic work-piece setting method according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein
+<claim-text>said hanging section of the work-piece is a hanging hole; and</claim-text>
+<claim-text>said receiving section of the skewer-shaped supporting member is a concave portion.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The automatic work-piece setting method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein
+<claim-text>one end of said skewer-shaped supporting member is fixed by a chuck when said supporting member freely penetrates said hanging holes of plural work-pieces. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>
